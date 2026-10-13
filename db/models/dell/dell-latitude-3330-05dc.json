@@ -53,6 +53,249 @@
       "release_date": "2014-09-29T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel(R) WiFi Link 6235;Intel WiFi Link 6300;Intel WiFi Link 6200;Intel(R) WiFi Link 6205",
+      "version": "16.1.1",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/3MNPT_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\network\\3MNPT_A06-00\\production\\windows8-x64\\netwew00.inf",
+        "3330\\win8\\x64\\network\\3MNPT_A06-00\\production\\windows8-x64\\netwew02.inf",
+        "3330\\win8\\x64\\network\\3MNPT_A06-00\\production\\windows8-x64\\netwns64.inf",
+        "3330\\win8\\x64\\network\\3MNPT_A06-00\\production\\windows8-x64\\netwsw00.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel(R) WiFi Link 6235;Intel(R) Bluetooth Link 6235",
+      "version": "2.6.1212.302",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/VH0H5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\network\\VH0H5_A00-00\\intel\\bluetooth\\drivers\\btmaud.inf",
+        "3330\\win8\\x64\\network\\VH0H5_A00-00\\intel\\bluetooth\\drivers\\btmaux.inf",
+        "3330\\win8\\x64\\network\\VH0H5_A00-00\\intel\\bluetooth\\drivers\\btmlehid.inf",
+        "3330\\win8\\x64\\network\\VH0H5_A00-00\\intel\\bluetooth\\coexdrivers\\ibtfltcoexhs.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 2000/2500/3000/4000;Intel HD Graphics 4000;Intel HD, HD Graphics 2000/2500/3000/4000;Intel HD Graphics 2000/3000/4000;Intel HD Graphics 2000/3000;Intel HD, HD 2000/2500/3000/4000",
+      "version": "9.17.10.3040",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/7VMTY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\video\\7VMTY_A00-00\\graphics\\3040-64.inf",
+        "3330\\win8\\x64\\video\\7VMTY_A00-00\\displayaudio\\intcdaud.inf",
+        "3330\\win8\\x64\\video\\7VMTY_A00-00\\graphics\\igcodeckrng600.bin",
+        "3330\\win8\\x64\\video\\7VMTY_A00-00\\graphics\\igcodeckrng700.bin",
+        "3330\\win8\\x64\\video\\7VMTY_A00-00\\graphics\\igvpkrng600.bin",
+        "3330\\win8\\x64\\video\\7VMTY_A00-00\\graphics\\igvpkrng700.bin"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Encryption",
+      "version": "v8.4.0",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/948DT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\security\\948DT_A00-00\\touchchip4wbf\\dptcdrvx64\\tcwbfadv.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\o2micro\\win8x64\\oz776x64.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\gpe\\st7007.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\fpsensor\\x64\\atswpwdf.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\esrg\\64bits\\gemccid.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\esr\\64bits\\gkupro2d.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\cv\\ushwbfdrv\\ushwbfdrv.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\cv\\cv\\cvusbdrv.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\cv\\bcmccid\\bcmccid.inf",
+        "3330\\win8\\x64\\security\\948DT_A00-00\\authentec\\x64\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch",
+      "version": "1.4.0.0",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/4P0C3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\network\\4P0C3_A00-00\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Rapid Start Technology",
+      "version": "3.0.0.1031",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/10NW9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\chipset\\10NW9_A00-00\\drivers\\x64\\irstrtdv.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5560 HSPA Mini Card",
+      "version": "8.1.0.7",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/M3FGW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\communication\\M3FGW_A00-00\\win8x64\\mbmdevicefilter_dell.inf",
+        "3330\\win8\\x64\\communication\\M3FGW_A00-00\\win8x64\\mbmlowext.inf",
+        "3330\\win8\\x64\\communication\\M3FGW_A00-00\\win8x64\\mbmusbserial.inf",
+        "3330\\win8\\x64\\communication\\M3FGW_A00-00\\win8x64\\mbmusbserial_ext.inf",
+        "3330\\win8\\x64\\communication\\M3FGW_A00-00\\win8x64\\mbmusbserial_geo.inf",
+        "3330\\win8\\x64\\communication\\M3FGW_A00-00\\win8x64\\mbmusbserial_nog.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.46",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/V6681_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\chipset\\V6681_A06-00\\production\\windows8-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 825xx Gigabit Ethernet Controller;Intel I2xx/825xx Gigabit Ethernet Controller;Intel Ethernet controller;Intel 825xx Gigabit platform LAN Network Device;Intel 825xx Gigabit Platform LAN Network Device;Intel 825xx 10/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet controller",
+      "version": "17.4",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/615P2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\network\\615P2_A00-00\\extracted\\e1r\\windows8-x64\\e1r63x64.inf",
+        "3330\\win8\\x64\\network\\615P2_A00-00\\extracted\\e1q\\windows8-x64\\e1q63x64.inf",
+        "3330\\win8\\x64\\network\\615P2_A00-00\\extracted\\e1c\\windows8-x64\\e1c63x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2Micro Memory Card Reader;O2Micro Oz600xxx Memory Card Reader",
+      "version": "3.0.7.44",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/D7TG2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\chipset\\D7TG2_A00-00\\windows8-x64\\o2mdfw8x64.inf",
+        "3330\\win8\\x64\\chipset\\D7TG2_A00-00\\windows8-x64\\o2mdrw8x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Broadcom DW1504/1540  WiFi;Dell Wireless 1540 Half MiniCard;Dell Wireless WLAN 1504 Half MiniCard",
+      "version": "6.30.223.64",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/MCNMX_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\network\\MCNMX_A01-00\\drivers\\win8\\wl\\bcmwl63.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1550 WLAN Half MiniCard",
+      "version": "12.0.0.6950",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/PY07R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\network\\PY07R_A00-00\\production\\windows8-x64\\bcbtums-win8x64-brcm.inf",
+        "3330\\win8\\x64\\network\\PY07R_A00-00\\production\\windows8-x64\\bcbtumsld-win7x64.inf",
+        "3330\\win8\\x64\\network\\PY07R_A00-00\\production\\windows8-x64\\bcmhidnossr.inf",
+        "3330\\win8\\x64\\network\\PY07R_A00-00\\production\\windows8-x64\\bcmwl63.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Alps Multi-Touch Touchpad",
+      "version": "8.1200.101.134",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/JXJ2F_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\input\\JXJ2F_A05-00\\production\\windows8-x64\\apfiltr.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "IDT High-Definition Audio 92HD93;IDT 92HD93 Audio;IDT 92HD93 High-Definition Audio Codec;IDT 92HD93 HD Audio",
+      "version": "1.0.6491.0",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/C6HVR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\audio\\C6HVR_A00-00\\drivers\\stwrt64.inf",
+        "3330\\win8\\x64\\audio\\C6HVR_A00-00\\drivers\\presets.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer;Intel Management Engine 9.x Components Installer;Intel Management Engine 8.0 Components Installer;Intel Management Engine 8.x Components Installer;Intel Unified AMT 8.1 WS Management Interface;Intel Management Engine 8.x Components;Intel Management Engine 9.5 Components Installer",
+      "version": "9.5.14.1724",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/FWRCW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\chipset\\FWRCW_A00-00\\production\\windows8-x64\\mesrl.inf\\mesrl.inf",
+        "3330\\win8\\x64\\chipset\\FWRCW_A00-00\\production\\windows8-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology F6;Intel Rapid Storage Technology",
+      "version": "11.6.0.1030",
+      "url": "dell-pack://3330-win8-A04-8MK19.xml/X50R1_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3330\\win8\\x64\\storage\\X50R1_A01-00\\win8x64\\drivers\\iaahcic.inf",
+        "3330\\win8\\x64\\storage\\X50R1_A01-00\\win8x64\\drivers\\iastorac.inf"
+      ]
+    }
+  ],
   "components": {}
 }

@@ -43,6 +43,221 @@
       "release_date": "2016-06-21T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165 WiFi Driver",
+      "version": "18.40.0.9",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/5TR5K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\network\\5TR5K_A00-00\\production\\windows8.1-x64\\netwbw02.inf",
+        "3046\\win8.1\\x64\\network\\5TR5K_A00-00\\production\\windows8.1-x64\\netwbw04.inf",
+        "3046\\win8.1\\x64\\network\\5TR5K_A00-00\\production\\windows8.1-x64\\netwew00.inf",
+        "3046\\win8.1\\x64\\network\\5TR5K_A00-00\\production\\windows8.1-x64\\netwew01.inf",
+        "3046\\win8.1\\x64\\network\\5TR5K_A00-00\\production\\windows8.1-x64\\netwsw00.inf",
+        "3046\\win8.1\\x64\\network\\5TR5K_A00-00\\production\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Sunix Serial/Parallel Card Driver",
+      "version": "8.2.0.0",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/XH7DC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\communication\\XH7DC_A00-00\\production\\windows8.1-x64\\snxpci.inf",
+        "3046\\win8.1\\x64\\communication\\XH7DC_A00-00\\production\\windows8.1-x64\\snxpcip.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R5 340X and R7 350X Driver",
+      "version": "15.201.2701.1001",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/8CF8G_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\video\\8CF8G_A00-00\\production\\windows8.1-x64\\wdm\\hdmi\\atihdwb6.inf",
+        "3046\\win8.1\\x64\\video\\8CF8G_A00-00\\production\\windows8.1-x64\\display\\cu298251.inf",
+        "3046\\win8.1\\x64\\video\\8CF8G_A00-00\\production\\windows8.1-x64\\amdkmpfd\\amdkmpfd.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\network\\75M5W_A00-00\\production\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "3046\\win8.1\\x64\\network\\75M5W_A00-00\\production\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "3046\\win8.1\\x64\\network\\75M5W_A00-00\\production\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf",
+        "3046\\win8.1\\x64\\network\\75M5W_A00-00\\production\\windows8.1-x64\\ibtuart\\ibtserialbus.inf",
+        "3046\\win8.1\\x64\\network\\75M5W_A00-00\\production\\windows8.1-x64\\ibtuart\\ibtuart.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.13",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/WGP6H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\commonsystem.inf\\commonsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "3046\\win8.1\\x64\\chipset\\WGP6H_A00-00\\production\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine  Interface Driver",
+      "version": "11.0.0.1167",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/316K0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\chipset\\316K0_A00-00\\production\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "3046\\win8.1\\x64\\chipset\\316K0_A00-00\\production\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10240.21281",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/74XM1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\chipset\\74XM1_A00-00\\production\\windows8.1-x64\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology F6 Driver",
+      "version": "14.8.1.1043",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/28J5R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\storage\\28J5R_A00-00\\production\\windows8.1-x64\\iaahcic.inf",
+        "3046\\win8.1\\x64\\storage\\28J5R_A00-00\\production\\windows8.1-x64\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6104",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/77PFG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\audio\\77PFG_A00-00\\production\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3046\\win8.1\\x64\\audio\\77PFG_A00-00\\production\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3046\\win8.1\\x64\\audio\\77PFG_A00-00\\production\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3046\\win8.1\\x64\\audio\\77PFG_A00-00\\production\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3046\\win8.1\\x64\\audio\\77PFG_A00-00\\production\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "3046\\win8.1\\x64\\audio\\77PFG_A00-00\\production\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "3046\\win8.1\\x64\\audio\\77PFG_A00-00\\production\\windows8.1-x64\\hdaudio\\hdxnsst.inf",
+        "3046\\win8.1\\x64\\audio\\77PFG_A00-00\\production\\windows8.1-x64\\hdaudio\\hdxsst.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\chipset\\81YKK_A00-00\\production\\windows8.1-x64\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCI-E Ethernet Controller Driver",
+      "version": "2.43.2016.330",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/1G2G7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\network\\1G2G7_A00-00\\production\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.0.8.7",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/7P3TV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\input\\7P3TV_A00-00\\production\\windows8.1-x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "10.18.15.4274",
+      "url": "dell-pack://3046-win8.1-A00-Y4VMT.xml/3RMC5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3046\\win8.1\\x64\\video\\3RMC5_A00-00\\windows8.1-x64\\ki114861.inf\\10.18.15.4274\\ki114861.inf",
+        "3046\\win8.1\\x64\\video\\3RMC5_A00-00\\windows8.1-x64\\intcdaud.inf\\8.20.00.541\\intcdaud.inf",
+        "3046\\win8.1\\x64\\video\\3RMC5_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3180\\intcdaud.inf",
+        "3046\\win8.1\\x64\\video\\3RMC5_A00-00\\windows8.1-x64\\ki114861.inf\\10.18.15.4274\\cp_resources.bin",
+        "3046\\win8.1\\x64\\video\\3RMC5_A00-00\\windows8.1-x64\\ki114861.inf\\10.18.15.4274\\igdclbif.bin"
+      ]
+    }
+  ],
   "components": {}
 }

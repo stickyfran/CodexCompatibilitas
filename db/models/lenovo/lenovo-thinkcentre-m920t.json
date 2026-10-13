@@ -98,6 +98,95 @@
       "release_date": "2023-06-27"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330tiny_w1064_1709_201908.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-p330tiny_w1064_1803_201902.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330_tiny_w1064_1809_201904.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330tiny_w1064_1903_201908.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920tsqx-m720tsq-v530-P330_tiny_w1064_1909_201912.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720tsq-m920tsxq-p330tiny_w1064_2004_202007.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720tsq-m920tsxq-p330tiny_w1064_20h2_202101.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920tsqx-m720tsq-p330tiny_w11_21_202306.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

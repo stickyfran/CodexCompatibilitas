@@ -43,6 +43,151 @@
       "release_date": "2016-02-08T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "19.0.27.3",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/WWVKD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\input\\WWVKD_A00-00\\windows8_1-x64\\synpd.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.0.22",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/0D24K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\chipset\\0D24K_A00-00\\windows8.1-x64\\chipset_smbus.inf",
+        "3150\\win8.1\\x64\\chipset\\0D24K_A00-00\\windows8.1-x64\\chipset_system.inf",
+        "3150\\win8.1\\x64\\chipset\\0D24K_A00-00\\windows8.1-x64\\chipset_thermal.inf",
+        "3150\\win8.1\\x64\\chipset\\0D24K_A00-00\\windows8.1-x64\\chipset_usb.inf",
+        "3150\\win8.1\\x64\\chipset\\0D24K_A00-00\\windows8.1-x64\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel BYT-CR graphics driver",
+      "version": "10.18.10.3958",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/031RF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\video\\031RF_A00-00\\production\\windows8.1-x64\\ki104664.inf\\ki104664.inf",
+        "3150\\win8.1\\x64\\video\\031RF_A00-00\\production\\windows8.1-x64\\intcdaud.inf\\intcdaud.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek RTL8151GD Ethernet Controller Driver",
+      "version": "8.36.826.2014",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/KR75X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\network\\KR75X_A00-00\\production\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/X15C9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwbw02.inf",
+        "3150\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwew00.inf",
+        "3150\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwew01.inf",
+        "3150\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwsw00.inf",
+        "3150\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Kionix Free Fall Data Protection",
+      "version": "1.1.3.0",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/441H4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\chipset\\441H4_A00-00\\production\\windows8.1-x64\\kxfrefal.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3234/ALC3235 High Definition Audio Driver for Dell Wireless Docking",
+      "version": "6.0.1.6075",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/0VFFR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3150\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3150\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3150\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3150\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "3150\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\network\\90M6T_A00-00\\windows8.1-x64\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel TXEI Driver",
+      "version": "1.1.2.1120",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/YDK4D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\chipset\\YDK4D_A00-00\\production\\windows8.1-x64\\txei.inf\\txei.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX memory card reader Driver",
+      "version": "3.0.8.51",
+      "url": "dell-pack://3150-win8.1-A03-TY0X8.xml/JVF0J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3150\\win8.1\\x64\\chipset\\JVF0J_A00-00\\production\\windows8.1-x64\\o2fj2w8x64.inf"
+      ]
+    }
+  ],
   "components": {}
 }

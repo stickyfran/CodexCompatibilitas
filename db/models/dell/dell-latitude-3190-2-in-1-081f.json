@@ -33,6 +33,255 @@
       "release_date": "2023-03-24T02:41:52"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
+      "version": "21.110.0.3",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/52Y48_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "3190 2-in-1\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\thp\\ibtusb.inf",
+        "3190 2-in-1\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\stp\\ibtusb.inf",
+        "3190 2-in-1\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\sfp\\ibtusb.inf",
+        "3190 2-in-1\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\sdp\\ibtusb.inf",
+        "3190 2-in-1\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\jfp\\ibtusb.inf",
+        "3190 2-in-1\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\hrp\\ibtusb.inf",
+        "3190 2-in-1\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\ccp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2019.0618",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/MT3YW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\network\\MT3YW_A00-00\\w10-x64\\rtux64w10.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.1915.2",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/84JWH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\chipset\\84JWH_A00-00\\w10-x64\\ialpss2_uart2_glk.inf\\ialpss2_uart2_glk.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\84JWH_A00-00\\w10-x64\\ialpss2_spi_glk.inf\\ialpss2_spi_glk.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\84JWH_A00-00\\w10-x64\\ialpss2_i2c_glk.inf\\ialpss2_i2c_glk.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\84JWH_A00-00\\w10-x64\\ialpss2_gpio2_glk.inf\\ialpss2_gpio2_glk.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "27.20.100.9126",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/2XND9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\cui_dch.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\gscauxdriver.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\gscheci.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\hdbusext.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\igcc_dch.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\iigd_dch.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\iigd_dch_d.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\iigd_ext.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\memcntrl.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\mshdadac.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\minictadriver\\minictadriver.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\displayaudio\\11.2\\intcdaud.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\displayaudio\\11.1\\intcdaud.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\displayaudio\\10.27\\intcdaud.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\displayaudio\\10.26\\intcdaud.inf",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\cp_resources.bin",
+        "3190 2-in-1\\win10\\x64\\video\\2XND9_A00-00\\w10-x64\\graphics\\fw\\dg1_gfx_fwupdate.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Trusted Execution Engine Driver",
+      "version": "2028.4.0.1091",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/H643X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\chipset\\H643X_A00-00\\windows10-x64\\txei.inf\\txei.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\H643X_A00-00\\windows10-x64\\spd.inf\\spd.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\H643X_A00-00\\windows10-x64\\oemextension.inf\\oemextension.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\H643X_A00-00\\windows10-x64\\iclsclient.inf\\iclsclient.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\H643X_A00-00\\windows10-x64\\dal.inf\\dal.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsdhost.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemlpss.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemnorthpeak.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemthermal.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsdhost.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemlpss.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemnorthpeak.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemthermal.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\coffeelakesystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystemnorthpeak.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystemthermal.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\denvertonports.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\denvertonsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemgmm.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemlpss.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemnorthpeak.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystemlpss.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystemnorthpeak.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-nsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-nsystemlpss.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakesystemthermal.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakeusbfunctioncontroller.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemlpss.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemnorthpeak.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemthermal.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakesystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakesystemgmm.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\lewisburgsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\null_hecisystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylake-esystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystemgmm.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystemthermal.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystemlpss.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystemthermal.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsdhost.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystem.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemlpss.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemnorthpeak.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemthermal.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
+      "version": "21.110.2.1",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/39G3R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv04customizations.inf",
+        "3190 2-in-1\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv06customizations.inf",
+        "3190 2-in-1\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv08customizations.inf",
+        "3190 2-in-1\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\pie\\piecomponent.inf",
+        "3190 2-in-1\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\pie\\pieextension.inf",
+        "3190 2-in-1\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw04.inf",
+        "3190 2-in-1\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw06.inf",
+        "3190 2-in-1\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw08.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Tuning Driver",
+      "version": "8.6.10401.9906",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/WMXP2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\chipset\\WMXP2_A00-00\\windows10-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\WMXP2_A00-00\\windows10-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.8868.1",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/DKNN9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\hdxdellbc2018.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\hdxdellbcsst2018.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\hdxdellcsmb2018.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\hdxdellsstcsmb2018.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\hdxhapdellcsmb.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\thirdparty\\waves\\dellaudioextwaves.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\thirdparty\\waves\\wavesapo75de.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\realteksstppdll_24\\realteksstppdll.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\realtekservice_230\\realtekservice.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\realtekasio_5\\realtekasio.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\realtekapo_743\\realtekapo.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\extrtk_8868.1\\hdx_dellbcext_dsp.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\extrtk_8868.1\\hdx_dellbcext_waves.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\extrtk_8868.1\\hdx_dellbcext_waves_ma8mv5.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\extrtk_8868.1\\hdx_dellcsmbext_dsp.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\extrtk_8868.1\\hdx_dellcsmbext_waves.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\extrtk_8868.1\\hdx_dellcsmbext_waves_ma77mv47.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\extrtk_8868.1\\hdx_dellcsmbext_waves_ma8mv5.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\extrtk_8868.1\\hdx_hap_dellcsmbext_waves_ma8mv5.inf",
+        "3190 2-in-1\\win10\\x64\\audio\\DKNN9_A00-00\\windows10-x64\\r\\realtek\\alexacfgext_8868.1\\alexadellconfig.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.377",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/33CDY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\chipset\\33CDY_A00-00\\windows10-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Integrated Sensor Solution Driver",
+      "version": "3.10.100.3437",
+      "url": "dell-pack://3190 2-in-1-win10-A11-HM7VY.xml/36J7X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3190 2-in-1\\win10\\x64\\chipset\\36J7X_A00-00\\windows10-x64\\ish_busdriver\\ish_busdriver.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\36J7X_A00-00\\windows10-x64\\ish\\ish.inf",
+        "3190 2-in-1\\win10\\x64\\chipset\\36J7X_A00-00\\windows10-x64\\hid_pci\\hid_pci.inf"
+      ]
+    }
+  ],
   "components": {}
 }

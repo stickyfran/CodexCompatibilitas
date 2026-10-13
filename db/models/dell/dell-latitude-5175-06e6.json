@@ -53,6 +53,346 @@
       "release_date": "2016-06-14T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\chipset\\81YKK_A00-00\\windows8.1-x64\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.11",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/760TV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\commonsystem.inf\\commonsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "5179\\win8.1\\x64\\chipset\\760TV_A00-00\\windows10-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "5179\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "5179\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/7260/3165 WiFi Driver",
+      "version": "18.33.1.1",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/Y1XCR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\network\\Y1XCR_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "5179\\win8.1\\x64\\network\\Y1XCR_A00-00\\windows8.1-x64\\netwew00.inf",
+        "5179\\win8.1\\x64\\network\\Y1XCR_A00-00\\windows8.1-x64\\netwew01.inf",
+        "5179\\win8.1\\x64\\network\\Y1XCR_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "5179\\win8.1\\x64\\network\\Y1XCR_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10240.21281",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/74XM1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\chipset\\74XM1_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "1.1.0.310",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/HF2MX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\chipset\\HF2MX_A00-00\\windows8.1-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine  Interface Driver",
+      "version": "11.0.0.1167",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/316K0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "5179\\win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10605.221",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/JXYJD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\chipset\\JXYJD_A00-00\\windows8.1-x64\\esif_manager.inf\\esif_manager.inf",
+        "5179\\win8.1\\x64\\chipset\\JXYJD_A00-00\\windows8.1-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "5179\\win8.1\\x64\\chipset\\JXYJD_A00-00\\windows8.1-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "5179\\win8.1\\x64\\chipset\\JXYJD_A00-00\\windows8.1-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5811e LTE Mobile Broadband Driver and GPS Driver",
+      "version": "7.16.4439.504",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/MGMMF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swlocrm.inf",
+        "5179\\win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swmbbmdm05.inf",
+        "5179\\win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swmbbnm05.inf",
+        "5179\\win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swmbbnode05.inf",
+        "5179\\win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver for Dell Wireless Dock, Dell Thunderbolt Dock, Dell Docking Monitor Stand and Dell Dock.",
+      "version": "6.3.9600.44",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/GG4M6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\docks\\GG4M6_A00-00\\windows8.1-x64\\rtxusbad.inf",
+        "5179\\win8.1\\x64\\docks\\GG4M6_A00-00\\windows8.1-x64\\rtxusbad2.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Intel 2D Imaging Driver",
+      "version": "30.9600.6642.153",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/45H6G_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\skccontroller.inf\\30.9600.6642.153\\skccontroller.inf",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov8858.inf\\30.9600.6642.153\\ov8858.inf",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670.inf",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\iaisp64.inf\\30.9600.6642.153\\iaisp64.inf",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\iacamera64.inf\\30.9600.6642.153\\iacamera64.inf",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\csi2hstctrl.inf\\30.9600.6642.153\\csi2hostcontrollerdriver.inf",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov8858.inf\\30.9600.6642.153\\ov8858_4ba862t2_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov8858.inf\\30.9600.6642.153\\ov8858_5ba802t2_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov8858.inf\\30.9600.6642.153\\ov8858_cbad822_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov8858.inf\\30.9600.6642.153\\ov8858_cjae840_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov8858.inf\\30.9600.6642.153\\ov8858_cjae845_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov8858.inf\\30.9600.6642.153\\ov8858_fo80af-468h_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670_4bf523t2_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670_5bf501t2_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670_5bf503t2_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670_am-5c013_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670_cjae533_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670_cjae547-1_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670_cjfe561_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\ov5670.inf\\30.9600.6642.153\\ov5670_cjfe563_sky_pipecfg.bin",
+        "5179\\win8.1\\x64\\input\\45H6G_A00-00\\wn81-x64\\iacamera64.inf\\30.9600.6642.153\\css_fw.bin"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "14.7.0.1000",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/1XJK6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\storage\\1XJK6_A00-00\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "5179\\win8.1\\x64\\storage\\1XJK6_A00-00\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Serial IO Driver",
+      "version": "30.63.1519.7",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/6DF6V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\system utilities\\6DF6V_A00-00\\windows8.1-x64\\ialpss2_uart2_skl.inf\\ialpss2_uart2_skl.inf",
+        "5179\\win8.1\\x64\\system utilities\\6DF6V_A00-00\\windows8.1-x64\\ialpss2_spi_skl.inf\\ialpss2_spi_skl.inf",
+        "5179\\win8.1\\x64\\system utilities\\6DF6V_A00-00\\windows8.1-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "5179\\win8.1\\x64\\system utilities\\6DF6V_A00-00\\windows8.1-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Integrated Sensor Solution Driver",
+      "version": "3.0.14.3056",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/V6W2K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\chipset\\V6W2K_A00-00\\windows8.1-x64\\ish_busdriver\\ish_busdriver.inf",
+        "5179\\win8.1\\x64\\chipset\\V6W2K_A00-00\\windows8.1-x64\\ish\\ish.inf",
+        "5179\\win8.1\\x64\\chipset\\V6W2K_A00-00\\windows8.1-x64\\hid_pci\\hid_pci.inf",
+        "5179\\win8.1\\x64\\chipset\\V6W2K_A00-00\\windows8.1-x64\\advsensorclassdriver\\advsensorclassdriver.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Virtual Button Driver",
+      "version": "1.1.0.21",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/6F7RT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\system utilities\\6F7RT_A00-00\\windows8.1-x64\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.43.2015.1225",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/CFXPV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\network\\CFXPV_A00-00\\windows8.1-x64\\rtux64w8.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6100",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/JMXXX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\audio\\JMXXX_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "5179\\win8.1\\x64\\audio\\JMXXX_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "5179\\win8.1\\x64\\audio\\JMXXX_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "5179\\win8.1\\x64\\audio\\JMXXX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "5179\\win8.1\\x64\\audio\\JMXXX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "5179\\win8.1\\x64\\audio\\JMXXX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "5179\\win8.1\\x64\\audio\\JMXXX_A00-00\\windows8.1-x64\\hdaudio\\hdxnsst.inf",
+        "5179\\win8.1\\x64\\audio\\JMXXX_A00-00\\windows8.1-x64\\hdaudio\\hdxsst.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4390",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/7Y89Y_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\video\\7Y89Y_A00-00\\windows8.1-x64\\tb-4390-64.inf\\20.19.15.4390\\tb-4390-64.inf",
+        "5179\\win8.1\\x64\\video\\7Y89Y_A00-00\\windows8.1-x64\\intcdaud.inf\\8.20.00.865\\intcdaud.inf",
+        "5179\\win8.1\\x64\\video\\7Y89Y_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3191\\intcdaud.inf",
+        "5179\\win8.1\\x64\\video\\7Y89Y_A00-00\\windows8.1-x64\\tb-4390-64.inf\\20.19.15.4390\\cp_resources.bin",
+        "5179\\win8.1\\x64\\video\\7Y89Y_A00-00\\windows8.1-x64\\tb-4390-64.inf\\20.19.15.4390\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver",
+      "version": "4.2.9.52",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/3N9T0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\ushwbfdrv\\ushwbfdrv.inf",
+        "5179\\win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\cv\\driver\\cvusbdrv.inf",
+        "5179\\win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcusb81\\bcmnfcusb.inf",
+        "5179\\win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcser81\\bcmnfcser.inf",
+        "5179\\win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmccid\\bcmccid.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Intel/NXP Near Field Communications Driver",
+      "version": "7.7.5.0",
+      "url": "dell-pack://5179-win8.1-A02-0953J.xml/X69H5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5179\\win8.1\\x64\\communication\\X69H5_A00-00\\windows8.1-x64\\nfcgpiomanager.inf",
+        "5179\\win8.1\\x64\\communication\\X69H5_A00-00\\windows8.1-x64\\nxpnfpprovider_win7.inf",
+        "5179\\win8.1\\x64\\communication\\X69H5_A00-00\\windows8.1-x64\\nxpnfpprovider_win8.inf"
+      ]
+    }
+  ],
   "components": {}
 }

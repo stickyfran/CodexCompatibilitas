@@ -43,6 +43,145 @@
       "release_date": "2016-03-07T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "5.0.10.2848",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/50C42_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\chipset\\50C42_A00-00\\win8.1x64\\driver\\x64\\isctd.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\security\\9NMJ4_A11-00\\vfp\\wbf_003f_drv\\wbf_vfs_003f.inf",
+        "3020M\\Win8.1\\x64\\security\\9NMJ4_A11-00\\o2\\oz776\\win8.1x64\\oz776x64.inf",
+        "3020M\\Win8.1\\x64\\security\\9NMJ4_A11-00\\gpe\\st7007.inf",
+        "3020M\\Win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\touchchip4wbf\\x64\\dptcdrv\\tcwbfadv.inf",
+        "3020M\\Win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\esrg\\64bits\\gemccid.inf",
+        "3020M\\Win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\aes2810wbf\\x64\\drivers\\atswpwdf.inf",
+        "3020M\\Win8.1\\x64\\security\\9NMJ4_A11-00\\aes850fp\\x64\\authentec\\drivers\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel Graphics HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/FGGYJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "3020M\\Win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\10.18.14.4280\\64-4280.inf",
+        "3020M\\Win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\10.18.14.4280\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer Driver",
+      "version": "10.0.2.1000",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/KTGFH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\chipset\\KTGFH_A00-00\\win8.1x64\\heci.inf\\heci.inf",
+        "3020M\\Win8.1\\x64\\chipset\\KTGFH_A00-00\\win8.1x64\\heci.inf\\mesrl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.13",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/TH57N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\chipset\\TH57N_A00-00\\windows8.1-x64\\chipset_smbus.inf",
+        "3020M\\Win8.1\\x64\\chipset\\TH57N_A00-00\\windows8.1-x64\\chipset_system.inf",
+        "3020M\\Win8.1\\x64\\chipset\\TH57N_A00-00\\windows8.1-x64\\chipset_thermal.inf",
+        "3020M\\Win8.1\\x64\\chipset\\TH57N_A00-00\\windows8.1-x64\\chipset_usb.inf",
+        "3020M\\Win8.1\\x64\\chipset\\TH57N_A00-00\\windows8.1-x64\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe GBE Family Controller Driver",
+      "version": "2.43.2015.609",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/531KT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\network\\531KT_A00-00\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/X15C9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3020M\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwew00.inf",
+        "3020M\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3020M\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "3020M\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "1.3.0",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/49XN1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\input\\49XN1_A00-00\\windows8.1-x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek combined High-Definition Audio Driver",
+      "version": "6.0.1.6068",
+      "url": "dell-pack://3020M-Win8.1-A05-C9PY8.xml/4GGVY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020M\\Win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3020M\\Win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3020M\\Win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3020M\\Win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3020M\\Win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf"
+      ]
+    }
+  ],
   "components": {}
 }

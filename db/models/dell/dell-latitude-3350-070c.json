@@ -43,6 +43,268 @@
       "release_date": "2016-07-13T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "video",
+      "name": "Intel HD, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4300",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/75KWW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\video\\75KWW_A00-00\\windows8.1-x64\\intcdaud.inf\\8.20.00.580\\intcdaud.inf",
+        "3350\\win8.1\\x64\\video\\75KWW_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3182\\intcdaud.inf",
+        "3350\\win8.1\\x64\\video\\75KWW_A00-00\\windows8.1-x64\\4300-64_mb.inf\\20.19.15.4300\\4300-64_mb.inf",
+        "3350\\win8.1\\x64\\video\\75KWW_A00-00\\windows8.1-x64\\4300-64_mb.inf\\20.19.15.4300\\cp_resources.bin",
+        "3350\\win8.1\\x64\\video\\75KWW_A00-00\\windows8.1-x64\\4300-64_mb.inf\\20.19.15.4300\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.9",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/320CP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\commonsystem.inf\\commonsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "3350\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5809e LTE Mobile Broadband Driver and GPS driver",
+      "version": "6.14.4316.502",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/JRTWC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swg3kmdm05.inf",
+        "3350\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swg3knm05.inf",
+        "3350\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swg3kser05.inf",
+        "3350\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swlocrm.inf",
+        "3350\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swsfnode05.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18260/17265/8260/7265/3165 WiFi Driver",
+      "version": "18.40.0.9",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/5TR5K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3350\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwbw04.inf",
+        "3350\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwew00.inf",
+        "3350\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3350\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "3350\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Collaborative Processor Performance Control Utility",
+      "version": "1.0.0.1018",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/MW2H0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\system utilities\\MW2H0_A00-00\\windows8.1-x64\\intelpcc.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "3350\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "3350\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6088",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/J44XX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3350\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3350\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3350\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3350\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "3350\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "3350\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxsst.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCI-E Gigabit Ethernet Controller Drivers",
+      "version": "2.43.2015.709",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/9YMJF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\network\\9YMJF_A00-00\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "10.1207.101.103",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/M5MK2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\input\\M5MK2_A00-00\\windows8.1-x64\\apfiltr.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10240.21281",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/74XM1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\chipset\\74XM1_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\network\\90M6T_A00-00\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.71",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/KKRTP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\chipset\\KKRTP_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer",
+      "version": "11.0.0.1158",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/78C1C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\chipset\\78C1C_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "3350\\win8.1\\x64\\chipset\\78C1C_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1820A WiFi/Bluetooth Driver",
+      "version": "1.400.90.0",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/9N1PT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\network\\9N1PT_A00-00\\windows8.1-x64\\bcbtums.inf",
+        "3350\\win8.1\\x64\\network\\9N1PT_A00-00\\windows8.1-x64\\bcbtumsld-win7x64.inf",
+        "3350\\win8.1\\x64\\network\\9N1PT_A00-00\\windows8.1-x64\\bcmhidnossr.inf",
+        "3350\\win8.1\\x64\\network\\9N1PT_A00-00\\windows8.1-x64\\bcmpciedhd63.inf",
+        "3350\\win8.1\\x64\\network\\9N1PT_A00-00\\windows8.1-x64\\4350c5rtecdc.bin",
+        "3350\\win8.1\\x64\\network\\9N1PT_A00-00\\windows8.1-x64\\4356a2rtecdc.bin",
+        "3350\\win8.1\\x64\\network\\9N1PT_A00-00\\windows8.1-x64\\43602a1rtecdc.bin",
+        "3350\\win8.1\\x64\\network\\9N1PT_A00-00\\windows8.1-x64\\4371c2rtecdc.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10603.192",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/NM3J5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\chipset\\NM3J5_A00-00\\windows8.1-x64\\esif_manager.inf\\esif_manager.inf",
+        "3350\\win8.1\\x64\\chipset\\NM3J5_A00-00\\windows8.1-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "3350\\win8.1\\x64\\chipset\\NM3J5_A00-00\\windows8.1-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "3350\\win8.1\\x64\\chipset\\NM3J5_A00-00\\windows8.1-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "14.5.2.1088",
+      "url": "dell-pack://3350-win8.1-A02-31NC8.xml/T7DJK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3350\\win8.1\\x64\\storage\\T7DJK_A00-00\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "3350\\win8.1\\x64\\storage\\T7DJK_A00-00\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    }
+  ],
   "components": {}
 }

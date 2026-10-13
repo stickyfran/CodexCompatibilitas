@@ -33,6 +33,203 @@
       "release_date": "2017-12-12T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 510 / 530 / 630 Driver",
+      "version": "21.20.16.4627",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/9X1XX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\video\\9X1XX_A00-00\\win8.1x64\\ki121375.inf\\21.20.16.4627\\ki121375.inf",
+        "5250 AIO\\Win8.1\\x64\\video\\9X1XX_A00-00\\win8.1x64\\intcdaud.inf\\6.16.00.3197\\intcdaud.inf",
+        "5250 AIO\\Win8.1\\x64\\video\\9X1XX_A00-00\\win8.1x64\\intcdaud.inf\\10.22.01.97\\intcdaud.inf",
+        "5250 AIO\\Win8.1\\x64\\video\\9X1XX_A00-00\\win8.1x64\\ki121375.inf\\21.20.16.4627\\cp_resources.bin",
+        "5250 AIO\\Win8.1\\x64\\video\\9X1XX_A00-00\\win8.1x64\\ki121375.inf\\21.20.16.4627\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.14393.21292",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/30XR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\chipset\\30XR4_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R7 M465X/M465 Graphics Card Driver",
+      "version": "21.19.144.514",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/PXK8J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\video\\PXK8J_A00-00\\windows8.1-x64\\wb6a_inf\\c7308208.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265(SD)/3165 WiFi Driver",
+      "version": "19.10.2.1",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/TKDP7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\network\\TKDP7_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "5250 AIO\\Win8.1\\x64\\network\\TKDP7_A00-00\\windows8.1-x64\\netwbw04.inf",
+        "5250 AIO\\Win8.1\\x64\\network\\TKDP7_A00-00\\windows8.1-x64\\netwew01.inf",
+        "5250 AIO\\Win8.1\\x64\\network\\TKDP7_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.6.0.1047",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/RNXGY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\chipset\\RNXGY_A00-00\\win8.1x64\\mesrl.inf\\mesrl.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\RNXGY_A00-00\\win8.1x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.7.5.1025",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/66MG5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\storage\\66MG5_A00-00\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "5250 AIO\\Win8.1\\x64\\storage\\66MG5_A00-00\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "2.0.0.11",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/3N9D5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\chipset\\3N9D5_A00-00\\windows8.1-x64\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.38",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\wellsburgusb.inf\\wellsburgusb.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\valleyview2system.inf\\valleyview2system.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\skylakesystem.inf\\skylakesystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\skylake-esystem.inf\\skylake-esystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\patsburgusb.inf\\patsburgusb.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\patsburgsystem.inf\\patsburgsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\kabylakesystem.inf\\kabylakesystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\haswellsystem.inf\\haswellsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\commonsystem.inf\\commonsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\braswellsystem.inf\\braswellsystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "5250 AIO\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\win8.1x64\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265/8260/7265/7260/3165/18265/18260/17265 Bluetooth Driver",
+      "version": "19.1.1627.3533",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/M4VHD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\network\\M4VHD_A00-00\\windows8.1-x64\\ibtusb\\wsp\\ibtusb_wsp.inf",
+        "5250 AIO\\Win8.1\\x64\\network\\M4VHD_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "5250 AIO\\Win8.1\\x64\\network\\M4VHD_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "5250 AIO\\Win8.1\\x64\\network\\M4VHD_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8142",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/P71YY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\audio\\P71YY_A00-00\\windows8.1-x64\\hdxadcmax8.inf",
+        "5250 AIO\\Win8.1\\x64\\audio\\P71YY_A00-00\\windows8.1-x64\\hdxadcmax8s.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.3.108.0",
+      "url": "dell-pack://5250 AIO-Win8.1-A03-KKGH3.xml/D8VDT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5250 AIO\\Win8.1\\x64\\network\\D8VDT_A00-00\\windows8.1-x64\\e1c64x64.inf",
+        "5250 AIO\\Win8.1\\x64\\network\\D8VDT_A00-00\\windows8.1-x64\\e1d64x64.inf",
+        "5250 AIO\\Win8.1\\x64\\network\\D8VDT_A00-00\\windows8.1-x64\\e1r64x64.inf"
+      ]
+    }
+  ],
   "components": {}
 }

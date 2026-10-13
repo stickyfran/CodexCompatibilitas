@@ -43,6 +43,246 @@
       "release_date": "2016-08-09T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "10.0.31.1000",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/3TY1R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\chipset\\3TY1R_A00-00\\heci.inf\\heci.inf",
+        "3560\\win8.1\\x64\\chipset\\3TY1R_A00-00\\heci.inf\\mesrl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.71",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/KKRTP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\chipset\\KKRTP_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.0.26",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/6HFK5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\chipset\\6HFK5_A00-00\\production\\windows8.1-x64\\chipset_smbus.inf",
+        "3560\\win8.1\\x64\\chipset\\6HFK5_A00-00\\production\\windows8.1-x64\\chipset_system.inf",
+        "3560\\win8.1\\x64\\chipset\\6HFK5_A00-00\\production\\windows8.1-x64\\chipset_thermal.inf",
+        "3560\\win8.1\\x64\\chipset\\6HFK5_A00-00\\production\\windows8.1-x64\\chipset_usb.inf",
+        "3560\\win8.1\\x64\\chipset\\6HFK5_A00-00\\production\\windows8.1-x64\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18260/17265/8260/7265/3165 WiFi Driver",
+      "version": "18.40.0.9",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/5TR5K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3560\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwbw04.inf",
+        "3560\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwew00.inf",
+        "3560\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3560\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "3560\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek USB Memory Card Reader Driver",
+      "version": "6.3.9600.39066",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/N1N7M_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\chipset\\N1N7M_A00-00\\production\\windows8.1-x64\\rtsuvstor.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "1.1.226.0",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/PVV65_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_uart2.inf\\ialpss_gpio.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_uart2.inf\\ialpss_i2c.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_uart2.inf\\ialpss_spi.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_uart2.inf\\ialpss_uart2.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_spi.inf\\ialpss_gpio.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_spi.inf\\ialpss_i2c.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_spi.inf\\ialpss_spi.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_spi.inf\\ialpss_uart2.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_i2c.inf\\ialpss_gpio.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_i2c.inf\\ialpss_i2c.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_i2c.inf\\ialpss_spi.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_i2c.inf\\ialpss_uart2.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_gpio.inf\\ialpss_gpio.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_gpio.inf\\ialpss_i2c.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_gpio.inf\\ialpss_spi.inf",
+        "3560\\win8.1\\x64\\chipset\\PVV65_A00-00\\production\\windows8.1-x64\\ialpss_gpio.inf\\ialpss_uart2.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4444",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/07NMM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\intcdaud.inf\\8.20.00.865\\intcdaud.inf",
+        "3560\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3191\\intcdaud.inf",
+        "3560\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\4444-64-mb.inf\\20.19.15.4444\\4444-64-mb.inf",
+        "3560\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\4444-64-mb.inf\\20.19.15.4444\\cp_resources.bin",
+        "3560\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\4444-64-mb.inf\\20.19.15.4444\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "NEXT Biometrics Fingerprint Driver",
+      "version": "11.54.2.746",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/PT9YD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\security\\PT9YD_A00-00\\windows8.1-x64\\nbwbf.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.4.1000",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/D60VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\storage\\D60VM_A00-00\\production\\windows8.1-x64\\iastorac.inf\\iaahcic.inf",
+        "3560\\win8.1\\x64\\storage\\D60VM_A00-00\\production\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "3560\\win8.1\\x64\\storage\\D60VM_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf",
+        "3560\\win8.1\\x64\\storage\\D60VM_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCI-E Gigabit Ethernet Controller Drivers",
+      "version": "2.43.2015.428",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/9RD6N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\network\\9RD6N_A00-00\\production\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "3560\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "3560\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\network\\90M6T_A00-00\\windows8.1-x64\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 920M Graphic Driver",
+      "version": "10.18.13.5382",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/71JCM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\video\\71JCM_A00-00\\nv3dvisionusb.driver\\nvstusb.inf",
+        "3560\\win8.1\\x64\\video\\71JCM_A00-00\\hdaudio\\nvhda.inf",
+        "3560\\win8.1\\x64\\video\\71JCM_A00-00\\display.driver\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6102",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/D00J4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadctype2.inf",
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxnsst.inf",
+        "3560\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxsst.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1802 WiFi/Bluetooth Driver",
+      "version": "10.0.0.315",
+      "url": "dell-pack://3560-win8.1-A02-TC2W1.xml/J5X11_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3560\\win8.1\\x64\\network\\J5X11_A00-00\\production\\windows8.1-x64\\wlan-driver\\athwbx.inf"
+      ]
+    }
+  ],
   "components": {}
 }

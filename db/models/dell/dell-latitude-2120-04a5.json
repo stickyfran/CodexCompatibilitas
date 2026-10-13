@@ -436,6 +436,399 @@
       "hardware_ids": [
         "2120\\xp\\x86\\input\\K1DDY_A07-00\\winwdf\\x86\\synpd.inf"
       ]
+    },
+    {
+      "category": "audio",
+      "name": "ALC269 HD Audio",
+      "version": "XP: 5.10.0.6201 Vista/W7: 6.0.1.6201",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/7XX88_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hda.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hda01.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hda104d.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hda861a.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdaacer.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdaapple.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdabpcai.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdacpc.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdahp880.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdahpaio.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdahpbpc.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdahpnb.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdalc.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdalc2.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdamaxxd.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdapanasonic.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdart.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdasamsu.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdasrsa.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdasrsd2.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdasrsd3.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdasrsl.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdx.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdx01.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdx104d.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdx861a.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxapple.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxbpcai.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxcpc.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxhp880.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxhpaio.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxhpbpc.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxhpnb.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxlc.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxlc2.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxmaxxd.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxpanasonic.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxrt.inf",
+        "2120\\xp\\x86\\audio\\7XX88_A00-00\\wdm\\hdxsamsu.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5550 HSPA Mini Card;Dell Wireless 5550 HSPA+ Mini Card",
+      "version": "R4D06",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/MW9RY_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554bu10.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554bu11.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554bu20.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554bu21.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554gps.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554mdm2.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554nndis.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554nunic.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554scard.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5550\\d554sdm2.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554bu10.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554bu11.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554bu20.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554bu21.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554gps.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554mdm2.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554ndis.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554scard.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554sdm2.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5540\\d554unic.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d5532mdm2.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d553bus1.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d553bus2.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d553gps.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d553mdm2.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d553ndis.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d553scard.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d553smc2.inf",
+        "2120\\xp\\x86\\communication\\MW9RY_A03-00\\xpx86\\production\\xp-x86\\5530\\d553unic.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC",
+      "version": "16.4.0",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/YMHGV_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\network\\YMHGV_A07-00\\xp-x86\\b57win32.inf",
+        "2120\\xp\\x86\\network\\YMHGV_A07-00\\xp-x86\\k57win32.inf"
+      ]
+    },
+    {
+      "category": "application",
+      "name": "ST Microelectronics DE351DL Motion Sensor",
+      "version": "1.08.03.00",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/VCMK5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\application\\VCMK5_A00-00\\dell\\x86\\acceler.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Broadcom Crystal HD Video Decoder",
+      "version": "03.05.00.00",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/H7NG6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\video\\H7NG6_A00-00\\brcmhd32.inf",
+        "2120\\xp\\x86\\video\\H7NG6_A00-00\\program files\\broadcom\\broadcom crystalhd decoder\\32-bit\\brcmhd32.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "GMA 3150",
+      "version": "6.14.10.5260",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/R293536",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\video\\R293536\\graphics\\kit27898.inf",
+        "2120\\xp\\x86\\video\\R293536\\graphics\\igcompkrng500.bin",
+        "2120\\xp\\x86\\video\\R293536\\graphics\\igkrng400.bin",
+        "2120\\xp\\x86\\video\\R293536\\graphics\\igkrng500.bin"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5630 EVDO-HSPA Mobile Broadband Mini-Card",
+      "version": "2.02.10.003.1",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/4PYXP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nw01net.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelgobi3kfilter.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelgobi3kgps.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelgobi3klocation.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelgobi3kmdm.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelgobi3kserial.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelgobimbb.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelgobirmnet.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelmdm.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelrmnet.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelser.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\nwdelsr2.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\uninstalldell.inf",
+        "2120\\xp\\x86\\communication\\4PYXP_A00-00\\program files\\dell\\5630\\production\\uninstalldellndiswin7.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540 Half MiniCard;Dell Wireless WLAN 1504 Half MiniCard",
+      "version": "A01",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/6MMXY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\network\\6MMXY_A00-00\\drivers\\winxp\\wl\\bcmwl5.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel WiFi Link 6300;Intel WiFi Link 6200;Intel WiFi Link 6205",
+      "version": "15.3.1000.1637",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/FDGM0_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\network\\FDGM0_A04-00\\extracted\\production\\xp-x86\\netwlx32.inf",
+        "2120\\xp\\x86\\network\\FDGM0_A04-00\\extracted\\production\\xp-x86\\netwnx32.inf",
+        "2120\\xp\\x86\\network\\FDGM0_A04-00\\extracted\\production\\xp-x86\\netwxn00.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 57XX Driver/BACS;Broadcom 57XX Gigabit Integrated Controller;Broadcom 57XX Ethernet Controller",
+      "version": "16.4.0",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/D6HFJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\network\\D6HFJ_A00-00\\xp-x86\\b57win32.inf",
+        "2120\\xp\\x86\\network\\D6HFJ_A00-00\\xp-x86\\k57win32.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "WHQL driver.",
+      "version": "3.3.1008.06",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/KJW3W_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\input\\KJW3W_A02-00\\idcfltr.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5620 EVDO-HSPA Mobile Broadband Mini Card;Dell Wireless 5620 EVDO-HSPA Mobile Broadband Mini-Card",
+      "version": "1.1.170",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/47KHD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\communication\\47KHD_A00-00\\xp\\x86\\driverpackage\\x86\\qcfilterdl2k.inf",
+        "2120\\xp\\x86\\communication\\47KHD_A00-00\\xp\\x86\\driverpackage\\x86\\qcmdmdl2k.inf",
+        "2120\\xp\\x86\\communication\\47KHD_A00-00\\xp\\x86\\driverpackage\\x86\\qcnetdl2k.inf",
+        "2120\\xp\\x86\\communication\\47KHD_A00-00\\xp\\x86\\driverpackage\\x86\\qcserdl2k.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology (Pre-OS Install)",
+      "version": "9.6.4.1002",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/7F9C7_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\storage\\7F9C7_A08-00\\iaahci.inf",
+        "2120\\xp\\x86\\storage\\7F9C7_A08-00\\iastor.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel WiFi Link 6300;Intel WiFi Link 6200",
+      "version": "2.3.5",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/PN9KJ_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\network\\PN9KJ_A01-00\\drivers\\program files\\intel\\wimax\\miniportdriver\\bpenum.inf",
+        "2120\\xp\\x86\\network\\PN9KJ_A01-00\\drivers\\program files\\intel\\wimax\\miniportdriver\\bpmp.inf",
+        "2120\\xp\\x86\\network\\PN9KJ_A01-00\\drivers\\program files\\intel\\wimax\\miniportdriver\\bpusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel WiFi Link 6300;Intel WiFi Link 6200",
+      "version": "13.0.0",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/XP6JP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\network\\XP6JP_A00-00\\program files\\intel\\wifi\\drivers\\netw5x32.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Mobile Chipset;Intel Chipset",
+      "version": "9.1.1.1025",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/R0JHR_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\2008s4el.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\5000xzvp.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\5400.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\852.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\855.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\865.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\915.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\915m.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\945.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\945gm.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\965g.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\965m.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\e5100.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\e7220.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\e7230.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\e7300.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\e7520.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\e8500.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\esb2id2.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\esb2ide.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\esb2usb.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\g33q35.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ibexahci.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ibexcore.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ibexid2.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ibexide.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ibexsmb.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ibexusb.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich5core.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich5id2.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich5ide.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich5usb.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich6core.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich6id2.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich6ide.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich6usb.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich78id2.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich78ide.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich78usb.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich7core.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich8core.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich9core.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ich9usb.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ichacore.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ichausb.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ichxdev.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\intelcp2.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\intelcpu.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\intelioh.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\ioatdma.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\nehalmex.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\pm45gm45.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\qd3nodrv.inf",
+        "2120\\xp\\x86\\chipset\\R0JHR_A02-00\\xpx86\\inf\\all\\whed_dev.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "XP WHQL driver",
+      "version": "6.1.7600.55",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/1NGG4_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\chipset\\1NGG4_A02-00\\driverbin_32bit\\rtspstor.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 375 Bluetooth Module;ASSY,BASE,B,SD,TAA,L7,LAT2120;ASSY,BASE,B,HD,TAA,L7,LAT2120",
+      "version": "5.6.0.6500",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/RF3Y6_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\network\\RF3Y6_A06-00\\extracted\\production\\xp-x86\\btwusb.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Multi-Finger Gestures Driver",
+      "version": "15.1.5.0",
+      "url": "dell-pack://2120-xp-A09-WP0DF.xml/K1DDY_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2120\\xp\\x86\\input\\K1DDY_A07-00\\winwdf\\x86\\synpd.inf"
+      ]
     }
   ],
   "components": {}

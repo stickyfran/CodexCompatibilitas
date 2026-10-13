@@ -53,6 +53,205 @@
       "release_date": "2014-11-12T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540 Half MiniCard;Dell Wireless DW1540 WiFi",
+      "version": "A00",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/M0D48_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\network\\M0D48_A01-00\\drivers\\bcmwl63.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine 9.x Components Installer",
+      "version": "9.5.13.1706",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/KXHH1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\chipset\\KXHH1_A00-00\\production\\windows8-x64\\heci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek RTL8151GD Ethernet Controller",
+      "version": "2.1.2013.423",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/9V44D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\network\\9V44D_A00-00\\production\\windows8-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 57XX Driver/BACS;Broadcom BCM95722 PCI-E NIC;Broadcom BCM95722 PCI-E NIC Win 8;Broadcom 57XX Gigabit Integrated Controller;Broadcom 57XX/BACS Combined Package;Broadcom 57XX Ethernet Controller",
+      "version": "17.4.2",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/7R4RM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\network\\7R4RM_A00-00\\production\\windows8-x64\\b57nd60a.inf",
+        "3020\\win8\\x64\\network\\7R4RM_A00-00\\production\\windows8-x64\\k57nd60a.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Encryption",
+      "version": "v8.4.0",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/948DT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\security\\948DT_A00-00\\vfp\\wbf_vfs_003f.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\touchchip4wbf\\dptcdrvx64\\tcwbfadv.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\o2micro\\win8x64\\oz776x64.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\gpe\\st7007.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\fpsensor\\x64\\atswpwdf.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\esrg\\64bits\\gemccid.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\esr\\64bits\\gkupro2d.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\wbdidrv\\wbdidrv.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\ushwbfdrv\\ushwbfdrv.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\cv\\cvusbdrv.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\ccid\\ccidflt64v.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\bcmccid\\bcmccid.inf",
+        "3020\\win8\\x64\\security\\948DT_A00-00\\authentec\\x64\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC 3226 High Definition Audio Codec;Realtek ALC3220 High Definition Audio Codec",
+      "version": "6.0.1.6027",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/26FF1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\audio\\26FF1_A00-00\\drivers\\hdxadc.inf",
+        "3020\\win8\\x64\\audio\\26FF1_A00-00\\drivers\\hdxadcma.inf",
+        "3020\\win8\\x64\\audio\\26FF1_A00-00\\drivers\\hdxadcmax6.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R7 250;AMD Radeon R5 240;AMD Radeon R5-240;AMD Radeon R7-250",
+      "version": "13.251.0",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/RNXYX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\video\\RNXYX_A00-00\\drivers\\wdm\\hdmi\\atihdw86.inf",
+        "3020\\win8\\x64\\video\\RNXYX_A00-00\\drivers\\display\\c8166043.inf",
+        "3020\\win8\\x64\\video\\RNXYX_A00-00\\drivers\\amdkmpfd\\amdkmpfd.inf",
+        "3020\\win8\\x64\\video\\RNXYX_A00-00\\drivers\\amdkiomd\\amdkiomd.inf",
+        "3020\\win8\\x64\\video\\RNXYX_A00-00\\drivers\\amdkfd\\amdkfd.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "KIT,KYBD,105,USB,UK,KB813",
+      "version": "4.0.8.7",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/MC8V1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\input\\MC8V1_A00-00\\64 bits\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Sunix Serial/Parallel Card",
+      "version": "8.1.1.0",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/KHW7P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\communication\\KHW7P_A00-00\\drivers\\snxpci.inf",
+        "3020\\win8\\x64\\communication\\KHW7P_A00-00\\drivers\\snxpcip.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Smart Connect Technology",
+      "version": "4.1.40.2143",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/DYN61_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\chipset\\DYN61_A00-00\\driver\\isctd.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Software Installation Utility (Driver Win7/8.1 32/64-bit);Intel Chipset Device Software;Intel Chipset;Intel Chipset Software Installation;Intel 8 Series Chipset",
+      "version": "9.4.0.1027",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/3664N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\pantherpoint\\pantusb.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\cryswell.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\haswell.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxlpahci.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxlpcore.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxlpid2.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxlpide.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxlpsens.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxlpsmb.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxlpusb.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxlpusb3.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxptahci.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxptcore.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxptid2.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxptide.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxptsmb.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxptusb.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\lynxpoint\\lxptusb3.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\cougarpoint\\dh89xxcc-me.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\centerton\\centcore.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\centerton\\centsmb.inf",
+        "3020\\win8\\x64\\chipset\\3664N_A00-00\\drivers\\centerton\\centurt.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4200/4400/4600/5000/5100/5200 Graphics Driver",
+      "version": "10.18.10.3412",
+      "url": "dell-pack://3020-win8-A03-9FV8T.xml/J86W5_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3020\\win8\\x64\\video\\J86W5_A11-00\\drivers\\intcdaud.inf\\intcdaud.inf",
+        "3020\\win8\\x64\\video\\J86W5_A11-00\\drivers\\3412-64.inf\\3412-64.inf"
+      ]
+    }
+  ],
   "components": {}
 }

@@ -33,6 +33,152 @@
       "release_date": "2016-06-14T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808e LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.14.4316.502",
+      "url": "dell-pack://5056-win8.1-A03-CRJ34.xml/349RY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5056\\win8.1\\x64\\communication\\349RY_A00-00\\windows8.1-x64\\swg3kmdm05.inf",
+        "5056\\win8.1\\x64\\communication\\349RY_A00-00\\windows8.1-x64\\swg3knm05.inf",
+        "5056\\win8.1\\x64\\communication\\349RY_A00-00\\windows8.1-x64\\swg3kser05.inf",
+        "5056\\win8.1\\x64\\communication\\349RY_A00-00\\windows8.1-x64\\swlocrm.inf",
+        "5056\\win8.1\\x64\\communication\\349RY_A00-00\\windows8.1-x64\\swsfnode05.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver for Dell Wireless Dock, Dell Thunderbolt Dock, and Dell Dock.",
+      "version": "6.3.9600.44",
+      "url": "dell-pack://5056-win8.1-A03-CRJ34.xml/0PP6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5056\\win8.1\\x64\\docks\\0PP6T_A00-00\\windows8.1-x64\\rtxusbad.inf",
+        "5056\\win8.1\\x64\\docks\\0PP6T_A00-00\\windows8.1-x64\\rtxusbad2.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://5056-win8.1-A03-CRJ34.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5056\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "5056\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "5056\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5809e LTE Mobile Broadband Driver and GPS driver",
+      "version": "6.14.4316.502",
+      "url": "dell-pack://5056-win8.1-A03-CRJ34.xml/JRTWC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5056\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swg3kmdm05.inf",
+        "5056\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swg3knm05.inf",
+        "5056\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swg3kser05.inf",
+        "5056\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swlocrm.inf",
+        "5056\\win8.1\\x64\\communication\\JRTWC_A00-00\\windows8.1-x64\\swsfnode05.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Driver",
+      "version": "603.9600.2709.44124",
+      "url": "dell-pack://5056-win8.1-A03-CRJ34.xml/Y50M4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\txei.inf\\txei.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\pmic.inf\\pmic.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\ov8858.inf\\ov8858.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\ov5693.inf\\ov5693.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\ov2740.inf\\ov2740.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\nxpnfpprovider_win8.inf\\nxpnfpprovider_win8.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\monzax.inf\\monzax.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\mbi.inf\\mbi.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\k113194.inf\\k113194.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\iusb3adp.inf\\iusb3adp.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\ish_busdriver.inf\\ish_busdriver.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\ish.inf\\ish.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\iauarte.inf\\iauarte.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\iaspie.inf\\iaspie.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\iaisp64.inf\\iaisp64.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\iai2ce.inf\\iai2ce.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\iagpioe.inf\\iagpioe.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\iacamera64.inf\\iacamera64.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\hid_pci.inf\\hid_pci.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\hideventfilter.inf\\hideventfilter.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\dptf.inf\\dptf.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\advsensorclassdriver.inf\\advsensorclassdriver.inf",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\k113194.inf\\cp_resources.bin",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\k113194.inf\\igdclbif.bin",
+        "5056\\win8.1\\x64\\chipset\\Y50M4_A00-00\\windows8.1-x64\\iacamera64.inf\\isp_firmware.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel Dual Band Wireless-AC 8260 Driver",
+      "version": "18.32.0.5",
+      "url": "dell-pack://5056-win8.1-A03-CRJ34.xml/CGRKK_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5056\\win8.1\\x64\\network\\CGRKK_A02-00\\windows8.1-x64\\netwbw02.inf",
+        "5056\\win8.1\\x64\\network\\CGRKK_A02-00\\windows8.1-x64\\netwew00.inf",
+        "5056\\win8.1\\x64\\network\\CGRKK_A02-00\\windows8.1-x64\\netwew01.inf",
+        "5056\\win8.1\\x64\\network\\CGRKK_A02-00\\windows8.1-x64\\netwsw00.inf",
+        "5056\\win8.1\\x64\\network\\CGRKK_A02-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC5672 High-Definition (HD) Audio Driver",
+      "version": "6.2.9600.4371",
+      "url": "dell-pack://5056-win8.1-A03-CRJ34.xml/J9VX0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5056\\win8.1\\x64\\audio\\J9VX0_A00-00\\windows8.1-x64\\isst\\isstrtc.inf",
+        "5056\\win8.1\\x64\\audio\\J9VX0_A00-00\\windows8.1-x64\\i2saudio\\rtii2sac.inf",
+        "5056\\win8.1\\x64\\audio\\J9VX0_A00-00\\windows8.1-x64\\isst\\realtek_fw_sst.bin"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.43.2015.1225",
+      "url": "dell-pack://5056-win8.1-A03-CRJ34.xml/9YCY0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5056\\win8.1\\x64\\docks\\9YCY0_A00-00\\windows8.1-x64\\rtux64w8.inf"
+      ]
+    }
+  ],
   "components": {}
 }

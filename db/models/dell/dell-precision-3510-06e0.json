@@ -43,6 +43,401 @@
       "release_date": "2016-07-26T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.43.2015.1225",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/9YCY0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\docks\\9YCY0_A00-00\\windows8.1-x64\\rtux64w8.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\chipset\\81YKK_A00-00\\production\\windows8.1-x64\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Drivers",
+      "version": "20.2.0.0",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/KJTXR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\network\\KJTXR_A00-00\\production\\windows8.1-x64\\e1c64x64.inf",
+        "3510\\Win8.1\\x64\\network\\KJTXR_A00-00\\production\\windows8.1-x64\\e1d64x64.inf",
+        "3510\\Win8.1\\x64\\network\\KJTXR_A00-00\\production\\windows8.1-x64\\e1r64x64.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 4200, 4400, 4600, 5000, 5100, 5200, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4454",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/N8YN8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\video\\N8YN8_A00-00\\windows8.1-x64\\intcdaud.inf\\8.20.00.922\\intcdaud.inf",
+        "3510\\Win8.1\\x64\\video\\N8YN8_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3196\\intcdaud.inf",
+        "3510\\Win8.1\\x64\\video\\N8YN8_A00-00\\windows8.1-x64\\4454-64-mb.inf\\20.19.15.4454\\4454-64-mb.inf",
+        "3510\\Win8.1\\x64\\video\\N8YN8_A00-00\\windows8.1-x64\\4454-64-mb.inf\\20.19.15.4454\\cp_resources.bin",
+        "3510\\Win8.1\\x64\\video\\N8YN8_A00-00\\windows8.1-x64\\4454-64-mb.inf\\20.19.15.4454\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "3510\\Win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "3510\\Win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "1.3.0",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/49XN1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\input\\49XN1_A00-00\\windows8.1-x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10240.21281",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/74XM1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\chipset\\74XM1_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.67",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/2JYGG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\chipset\\2JYGG_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine  Interface Driver",
+      "version": "11.0.0.1167",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/316K0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "3510\\Win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10605.221",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/JXYJD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\chipset\\JXYJD_A00-00\\windows8.1-x64\\esif_manager.inf\\esif_manager.inf",
+        "3510\\Win8.1\\x64\\chipset\\JXYJD_A00-00\\windows8.1-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "3510\\Win8.1\\x64\\chipset\\JXYJD_A00-00\\windows8.1-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "3510\\Win8.1\\x64\\chipset\\JXYJD_A00-00\\windows8.1-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1820A WiFi/Bluetooth Driver",
+      "version": "1.400.87.0",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/KMXDM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\network\\KMXDM_A00-00\\windows8.1-x64\\bcbtums.inf",
+        "3510\\Win8.1\\x64\\network\\KMXDM_A00-00\\windows8.1-x64\\bcbtumsld-win7x64.inf",
+        "3510\\Win8.1\\x64\\network\\KMXDM_A00-00\\windows8.1-x64\\bcmhidnossr.inf",
+        "3510\\Win8.1\\x64\\network\\KMXDM_A00-00\\windows8.1-x64\\bcmpciedhd63.inf",
+        "3510\\Win8.1\\x64\\network\\KMXDM_A00-00\\windows8.1-x64\\4350c5rtecdc.bin",
+        "3510\\Win8.1\\x64\\network\\KMXDM_A00-00\\windows8.1-x64\\4356a2rtecdc.bin",
+        "3510\\Win8.1\\x64\\network\\KMXDM_A00-00\\windows8.1-x64\\43602a1rtecdc.bin",
+        "3510\\Win8.1\\x64\\network\\KMXDM_A00-00\\windows8.1-x64\\4371c2rtecdc.bin"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver for Dell Wireless Dock, Dell Thunderbolt Dock, Dell Docking Monitor Stand and Dell Dock.",
+      "version": "6.3.9600.44",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/GG4M6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\docks\\GG4M6_A00-00\\windows8.1-x64\\rtxusbad.inf",
+        "3510\\Win8.1\\x64\\docks\\GG4M6_A00-00\\windows8.1-x64\\rtxusbad2.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5811e LTE Mobile Broadband Driver and GPS Driver",
+      "version": "7.16.4439.504",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/MGMMF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swlocrm.inf",
+        "3510\\Win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swmbbmdm05.inf",
+        "3510\\Win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swmbbnm05.inf",
+        "3510\\Win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swmbbnode05.inf",
+        "3510\\Win8.1\\x64\\communication\\MGMMF_A00-00\\windows8.1-x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell WLAN Radio Switch Driver",
+      "version": "1.0.0.5",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/R049T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\network\\R049T_A00-00\\windows8.1-x64\\dellrctl.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB 3.0 Extended Host Controller Driver",
+      "version": "1.16.33.1",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/YM9TJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\docks\\YM9TJ_A00-00\\windows8.1-x64\\asmthub3.inf",
+        "3510\\Win8.1\\x64\\docks\\YM9TJ_A00-00\\windows8.1-x64\\asmtxhci.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology F6 Driver",
+      "version": "14.8.1.1043",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/28J5R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\storage\\28J5R_A00-00\\windows8.1-x64\\iaahcic.inf",
+        "3510\\Win8.1\\x64\\storage\\28J5R_A00-00\\windows8.1-x64\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "10.1207.101.110",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/JFFD2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\input\\JFFD2_A00-00\\windows8.1-x64\\apfiltr.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.9",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/320CP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\commonsystem.inf\\commonsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "3510\\Win8.1\\x64\\chipset\\320CP_A00-00\\production\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18260/17265/8260/7265/3165 WiFi Driver",
+      "version": "18.40.0.9",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/5TR5K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3510\\Win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwbw04.inf",
+        "3510\\Win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwew00.inf",
+        "3510\\Win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3510\\Win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "3510\\Win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Tropr Pro L Graphic Driver",
+      "version": "15.201.1101",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/80J68_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\display\\wt_inf\\cb188073.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\display\\wt_inf\\ct188073.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\display\\wt_inf\\cw188073.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\display\\wt6a_inf\\c0188073.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\display\\wt6a_inf\\c7188073.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\display\\wt6a_inf\\cu188073.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\amdkmpfd\\wt64a\\amdkmpfd.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\amdkmpfd\\wt\\amdkmpfd.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\amdkmpfd\\wb64a\\amdkmpfd.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\amdkmpfd\\wb\\amdkmpfd.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\amdkmpfd\\w764a\\amdkmpfd.inf",
+        "3510\\Win8.1\\x64\\video\\80J68_A00-00\\mup\\packages\\drivers\\amdkmpfd\\w7\\amdkmpfd.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\network\\90M6T_A00-00\\win8.1x64\\drivers\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver",
+      "version": "4.2.9.52",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/3N9T0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\wbdidrv\\wbdidrv.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\ushwbfdrv\\ushwbfdrv.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\tpm\\driver\\btpmwin.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\cv\\driver\\cvusbdrv.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\ccid\\ccidflt64v.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcusb81\\bcmnfcusb.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcusb7\\bcmnfcusb7.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcusb\\bcmnfcusb.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcser81\\bcmnfcser.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcser7\\bcmnfcser7.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcser\\bcmnfcser.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmnfcscr7\\bcmnfcscr7.inf",
+        "3510\\Win8.1\\x64\\security\\3N9T0_A00-00\\drivers\\bcmccid\\bcmccid.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Thunderbolt(TM) Controller Driver",
+      "version": "16.1.47.275",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/D91CC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\chipset\\D91CC_A00-00\\windows8.1-x64\\tbt81x.inf",
+        "3510\\Win8.1\\x64\\chipset\\D91CC_A00-00\\windows8.1-x64\\tp2p81x.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6105",
+      "url": "dell-pack://3510-Win8.1-A05-T3F76.xml/T8FF0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3510\\Win8.1\\x64\\audio\\T8FF0_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3510\\Win8.1\\x64\\audio\\T8FF0_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3510\\Win8.1\\x64\\audio\\T8FF0_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3510\\Win8.1\\x64\\audio\\T8FF0_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3510\\Win8.1\\x64\\audio\\T8FF0_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "3510\\Win8.1\\x64\\audio\\T8FF0_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "3510\\Win8.1\\x64\\audio\\T8FF0_A00-00\\windows8.1-x64\\hdaudio\\hdxnsst.inf",
+        "3510\\Win8.1\\x64\\audio\\T8FF0_A00-00\\windows8.1-x64\\hdaudio\\hdxsst.inf"
+      ]
+    }
+  ],
   "components": {}
 }

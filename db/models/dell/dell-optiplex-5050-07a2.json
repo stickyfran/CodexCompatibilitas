@@ -43,6 +43,282 @@
       "release_date": "2017-12-12T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.6.0.1047",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/RNXGY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\chipset\\RNXGY_A00-00\\mesrl.inf\\mesrl.inf",
+        "5050\\win8.1\\x64\\chipset\\RNXGY_A00-00\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 510 / 530 / 630 Driver",
+      "version": "21.20.16.4627",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/9X1XX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\video\\9X1XX_A00-00\\ki121375.inf\\21.20.16.4627\\ki121375.inf",
+        "5050\\win8.1\\x64\\video\\9X1XX_A00-00\\intcdaud.inf\\6.16.00.3197\\intcdaud.inf",
+        "5050\\win8.1\\x64\\video\\9X1XX_A00-00\\intcdaud.inf\\10.22.01.97\\intcdaud.inf",
+        "5050\\win8.1\\x64\\video\\9X1XX_A00-00\\ki121375.inf\\21.20.16.4627\\cp_resources.bin",
+        "5050\\win8.1\\x64\\video\\9X1XX_A00-00\\ki121375.inf\\21.20.16.4627\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Sunix Serial/Parallel Card Driver",
+      "version": "8.2.0.0",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/XH7DC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\communication\\XH7DC_A00-00\\drivers\\snxpci.inf",
+        "5050\\win8.1\\x64\\communication\\XH7DC_A00-00\\drivers\\snxpcip.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.1.4.1",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/YF9X7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\input\\YF9X7_A00-00\\windows8.1-x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.14393.21292",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/30XR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\chipset\\30XR4_A00-00\\drivers\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R5-430 and R7-450 Graphics Driver",
+      "version": "16.400.2301",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/96KH4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\video\\96KH4_A00-00\\drivers\\wdm\\hdmi\\wb64a\\atihdwb6.inf",
+        "5050\\win8.1\\x64\\video\\96KH4_A00-00\\drivers\\display\\wt6a_inf\\c0307026.inf",
+        "5050\\win8.1\\x64\\video\\96KH4_A00-00\\drivers\\display\\wt6a_inf\\c7307026.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.38",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\wellsburgusb.inf\\wellsburgusb.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\valleyview2system.inf\\valleyview2system.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylakesystem.inf\\skylakesystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylake-esystem.inf\\skylake-esystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\patsburgusb.inf\\patsburgusb.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\patsburgsystem.inf\\patsburgsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystem.inf\\kabylakesystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\haswellsystem.inf\\haswellsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\commonsystem.inf\\commonsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\braswellsystem.inf\\braswellsystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "5050\\win8.1\\x64\\chipset\\HMDR4_A00-00\\drivers\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.7.5.1025",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/66MG5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\storage\\66MG5_A00-00\\iastorac.inf\\iastorac.inf",
+        "5050\\win8.1\\x64\\storage\\66MG5_A00-00\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "2.0.0.11",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/3N9D5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\chipset\\3N9D5_A00-00\\drivers\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Sunix USB3.1 Card Cypress Driver",
+      "version": "1.2.3.17",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/J3Y1H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\communication\\J3Y1H_A00-00\\windows8.1-x64\\cyusb3.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265(SD)/3165 WiFi Driver",
+      "version": "19.10.1.2",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/J2PVG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\network\\J2PVG_A00-00\\drivers\\netwbw02.inf",
+        "5050\\win8.1\\x64\\network\\J2PVG_A00-00\\drivers\\netwbw04.inf",
+        "5050\\win8.1\\x64\\network\\J2PVG_A00-00\\drivers\\netwew01.inf",
+        "5050\\win8.1\\x64\\network\\J2PVG_A00-00\\drivers\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265/8260/7265/7260/3165/18265/18260/17265 Bluetooth Driver",
+      "version": "19.10.1635.483",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/HKC4R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "5050\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb.inf",
+        "5050\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb.inf",
+        "5050\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb.inf",
+        "5050\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\sdp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A QCA9377 WiFi Bluetooth Driver",
+      "version": "11.0.0.746",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/H9P39_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\netathrx.inf",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\bluetooth_driver\\btfilter.inf",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\qca61x430.bin",
+        "5050\\win8.1\\x64\\network\\H9P39_A00-00\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8142",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/P71YY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\audio\\P71YY_A00-00\\windows8.1-x64\\hdxadcmax8.inf",
+        "5050\\win8.1\\x64\\audio\\P71YY_A00-00\\windows8.1-x64\\hdxadcmax8s.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265/8260/18265/18260 Bluetooth Driver",
+      "version": "19.30.1648.922",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/16MYP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\network\\16MYP_A00-00\\ibtusb\\wsp\\ibtusb.inf",
+        "5050\\win8.1\\x64\\network\\16MYP_A00-00\\ibtusb\\sfp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.3.108.0",
+      "url": "dell-pack://5050-win8.1-A03-97FPH.xml/D8VDT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5050\\win8.1\\x64\\network\\D8VDT_A00-00\\windows8.1-x64\\e1c64x64.inf",
+        "5050\\win8.1\\x64\\network\\D8VDT_A00-00\\windows8.1-x64\\e1d64x64.inf",
+        "5050\\win8.1\\x64\\network\\D8VDT_A00-00\\windows8.1-x64\\e1r64x64.inf"
+      ]
+    }
+  ],
   "components": {}
 }

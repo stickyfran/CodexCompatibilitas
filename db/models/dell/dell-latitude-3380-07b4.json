@@ -43,6 +43,300 @@
       "release_date": "2018-02-14T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.38",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\wellsburgusb.inf\\wellsburgusb.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\valleyview2usb.inf\\valleyview2usb.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\valleyview2system.inf\\valleyview2system.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\skylakesystem.inf\\skylakesystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\skylake-esystem.inf\\skylake-esystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\patsburgusb.inf\\patsburgusb.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\patsburgsystem.inf\\patsburgsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakesystem.inf\\kabylakesystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\haswellsystem.inf\\haswellsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\cougarpointusb.inf\\cougarpointusb.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\commonsystem.inf\\commonsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\broadwellsystem.inf\\broadwellsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\braswellsystem.inf\\braswellsystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "3380\\win8.1\\x64\\chipset\\HMDR4_A00-00\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\chipset\\81YKK_A00-00\\windows8.1-x64\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10608.329",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/DJYD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\chipset\\DJYD8_A00-00\\windows8.1-x64\\esif_manager.inf\\esif_manager.inf",
+        "3380\\win8.1\\x64\\chipset\\DJYD8_A00-00\\windows8.1-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "3380\\win8.1\\x64\\chipset\\DJYD8_A00-00\\windows8.1-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "3380\\win8.1\\x64\\chipset\\DJYD8_A00-00\\windows8.1-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.0079",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\chipset\\DFDP5_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.63.1633.3",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/XV3FT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\chipset\\XV3FT_A00-00\\windows8.1-x64\\ialpss2_uart2_skl.inf\\ialpss2_uart2_skl.inf",
+        "3380\\win8.1\\x64\\chipset\\XV3FT_A00-00\\windows8.1-x64\\ialpss2_spi_skl.inf\\ialpss2_spi_skl.inf",
+        "3380\\win8.1\\x64\\chipset\\XV3FT_A00-00\\windows8.1-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "3380\\win8.1\\x64\\chipset\\XV3FT_A00-00\\windows8.1-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A QCA9377 WiFi Bluetooth Driver",
+      "version": "11.0.0.746",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/H9P39_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\netathrx.inf",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\bluetooth_driver\\btfilter.inf",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\qca61x430.bin",
+        "3380\\win8.1\\x64\\network\\H9P39_A00-00\\windows8.1-x64\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8142",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/P71YY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\audio\\P71YY_A00-00\\windows8.1-x64\\hdxadcmax8.inf",
+        "3380\\win8.1\\x64\\audio\\P71YY_A00-00\\windows8.1-x64\\hdxadcmax8s.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 500 P500 series Driver",
+      "version": "21.20.16.4727",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/W7PP4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\video\\W7PP4_A00-00\\windows8.1-x64\\ki123466.inf\\21.20.16.4727\\ki123466.inf",
+        "3380\\win8.1\\x64\\video\\W7PP4_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3200\\intcdaud.inf",
+        "3380\\win8.1\\x64\\video\\W7PP4_A00-00\\windows8.1-x64\\intcdaud.inf\\10.22.1.100\\intcdaud.inf",
+        "3380\\win8.1\\x64\\video\\W7PP4_A00-00\\windows8.1-x64\\ki123466.inf\\21.20.16.4727\\cp_resources.bin",
+        "3380\\win8.1\\x64\\video\\W7PP4_A00-00\\windows8.1-x64\\ki123466.inf\\21.20.16.4727\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.2.2.1030",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/F2JN7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\storage\\F2JN7_A00-00\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "3380\\win8.1\\x64\\storage\\F2JN7_A00-00\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe Ethernet Controller Driver",
+      "version": "2.43.2017.0621",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/PMF9N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\network\\PMF9N_A00-00\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265(SD)/3165 WiFi Driver",
+      "version": "19.10.1.2",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/J2PVG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\network\\J2PVG_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3380\\win8.1\\x64\\network\\J2PVG_A00-00\\windows8.1-x64\\netwbw04.inf",
+        "3380\\win8.1\\x64\\network\\J2PVG_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3380\\win8.1\\x64\\network\\J2PVG_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "1.1.0.310",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/39D9F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\chipset\\39D9F_A00-00\\windows8.1-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.7.0.1054",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/19Y3F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\chipset\\19Y3F_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "3380\\win8.1\\x64\\chipset\\19Y3F_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek USB Memory Card Reader Driver",
+      "version": "10.0.14393.31228",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/T6F1W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\chipset\\T6F1W_A00-00\\windows8.1-x64\\rtsuerx.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5814E LTE Mobile Broadband Driver",
+      "version": "6.2.2.2",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/5C9FH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\communication\\5C9FH_A00-00\\windows8.1-x64\\gnss\\gnssdriver.inf",
+        "3380\\win8.1\\x64\\communication\\5C9FH_A00-00\\windows8.1-x64\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5811e Qualcomm Snapdragon X7 LTE and GPS driver",
+      "version": "7.38.4672.503",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/36M27_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\communication\\36M27_A00-00\\windows8.1-x64\\swlocrm.inf",
+        "3380\\win8.1\\x64\\communication\\36M27_A00-00\\windows8.1-x64\\swmbbmdm05.inf",
+        "3380\\win8.1\\x64\\communication\\36M27_A00-00\\windows8.1-x64\\swmbbnm05.inf",
+        "3380\\win8.1\\x64\\communication\\36M27_A00-00\\windows8.1-x64\\swmbbnode05.inf",
+        "3380\\win8.1\\x64\\communication\\36M27_A00-00\\windows8.1-x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265/8260/7265/7260/3165/18265/18260/17265 Bluetooth Driver",
+      "version": "19.10.1635.483",
+      "url": "dell-pack://3380-win8.1-A06-M9GD1.xml/HKC4R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3380\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "3380\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb.inf",
+        "3380\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb.inf",
+        "3380\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb.inf",
+        "3380\\win8.1\\x64\\network\\HKC4R_A00-00\\windows8.1-x64\\ibtusb\\sdp\\ibtusb.inf"
+      ]
+    }
+  ],
   "components": {}
 }

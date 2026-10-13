@@ -43,6 +43,205 @@
       "release_date": "2016-07-13T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Realtek PCI-E Gigabit Ethernet Controller Drivers",
+      "version": "2.43.2015.709",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/9YMJF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\network\\9YMJF_A00-00\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial I/O Driver",
+      "version": "30.63.1519.7",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/N81W7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\chipset\\N81W7_A00-00\\windows8.1-x64\\ialpss2_uart2_skl.inf\\ialpss2_uart2_skl.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\N81W7_A00-00\\windows8.1-x64\\ialpss2_spi_skl.inf\\ialpss2_spi_skl.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\N81W7_A00-00\\windows8.1-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\N81W7_A00-00\\windows8.1-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "3240 AIO\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "3240 AIO\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4454",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/4TYM7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\ki115784.inf\\20.19.15.4454\\ki115784.inf",
+        "3240 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\intcdaud.inf\\8.20.00.922\\intcdaud.inf",
+        "3240 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3196\\intcdaud.inf",
+        "3240 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\ki115784.inf\\20.19.15.4454\\cp_resources.bin",
+        "3240 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\ki115784.inf\\20.19.15.4454\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10240.21281",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/74XM1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\chipset\\74XM1_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\chipset\\81YKK_A00-00\\drivers\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R7 A360 Graphics Card Driver",
+      "version": "15.201.1301",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/70FYX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\video\\70FYX_A00-00\\windows8.1-x64\\display\\cu188850.inf",
+        "3240 AIO\\win8.1\\x64\\video\\70FYX_A00-00\\windows8.1-x64\\amdkmpfd\\amdkmpfd.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/7260/3165 WiFi Driver",
+      "version": "18.32.0.5",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/P9MR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3240 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\windows8.1-x64\\netwew00.inf",
+        "3240 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3240 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "3240 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine  Interface Driver",
+      "version": "11.0.0.1167",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/316K0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6088",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/J44XX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3240 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3240 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3240 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3240 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "3240 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "3240 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxsst.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "14.8.9.1053",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/PFJ82_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\storage\\PFJ82_A00-00\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "3240 AIO\\win8.1\\x64\\storage\\PFJ82_A00-00\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.13",
+      "url": "dell-pack://3240 AIO-win8.1-A02-5KVPF.xml/WGP6H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\commonsystem.inf\\commonsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "3240 AIO\\win8.1\\x64\\chipset\\WGP6H_A00-00\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    }
+  ],
   "components": {}
 }

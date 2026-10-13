@@ -46,6 +46,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Version number",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m630E_w1064_2004_202006.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}
