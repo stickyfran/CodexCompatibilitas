@@ -8,6 +8,9 @@
     "Precision 3551",
     "09C2"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-T87W9",

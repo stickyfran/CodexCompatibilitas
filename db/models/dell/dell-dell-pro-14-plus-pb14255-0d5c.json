@@ -8,6 +8,9 @@
     "Dell Pro 14 Plus PB14255",
     "0D5C"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-KVR8J",

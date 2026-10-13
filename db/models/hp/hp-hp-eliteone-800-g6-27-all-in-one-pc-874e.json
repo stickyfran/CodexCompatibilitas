@@ -9,6 +9,9 @@
     "874D",
     "HP EliteOne 800 G6 27 All-in-One PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp109005-HP EliteOne 800 G6 AiO Windows 10 x64 Driver Pack",

@@ -9,6 +9,9 @@
     "8F94",
     "HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174518-HP EB/ZB 8 G2a NB/MWS Windows 11 Driver Pack",

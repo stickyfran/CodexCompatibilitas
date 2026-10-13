@@ -8,6 +8,9 @@
     "9305",
     "0A5C"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-RKY3K",

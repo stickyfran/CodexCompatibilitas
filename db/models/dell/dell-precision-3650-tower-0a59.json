@@ -8,6 +8,9 @@
     "Precision 3650 Tower",
     "0A59"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-M9RFF",

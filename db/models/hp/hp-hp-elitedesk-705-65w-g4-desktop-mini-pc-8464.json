@@ -9,6 +9,9 @@
     "83e9",
     "HP EliteDesk 705 65W G4 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp92293-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",

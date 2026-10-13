@@ -8,6 +8,9 @@
     "828c",
     "HP EliteBook 840 G4 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp112019-HP Elite/ZBook 8x0 G4 Windows 10 x64 Driver Pack",

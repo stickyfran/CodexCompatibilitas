@@ -8,6 +8,9 @@
     "8F6D",
     "HP ZBook Ultra G3a 16 inch Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174542-HP ZBook Ultra G3a MWS Windows11 DriverPack",

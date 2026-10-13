@@ -8,6 +8,9 @@
     "Latitude 5480",
     "07A7"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-0T2MV",

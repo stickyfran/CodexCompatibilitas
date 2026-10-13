@@ -8,6 +8,9 @@
     "82a5",
     "HP ProDesk 400 G3 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp85276-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",

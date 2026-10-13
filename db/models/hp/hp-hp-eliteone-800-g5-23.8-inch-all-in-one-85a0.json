@@ -10,6 +10,9 @@
     "85eb",
     "HP EliteOne 800 G5 23.8-inch All-in-One"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp99589-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",

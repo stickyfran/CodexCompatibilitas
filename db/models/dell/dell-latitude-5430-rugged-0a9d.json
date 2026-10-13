@@ -8,6 +8,9 @@
     "Latitude 5430 Rugged",
     "0A9D"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-7N1F2",

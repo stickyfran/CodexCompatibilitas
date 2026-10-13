@@ -8,6 +8,9 @@
     "OptiPlex 5490 AIO",
     "0A49"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-TV400",

@@ -8,6 +8,9 @@
     "8590",
     "HP VR Backpack G2"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp96024-HP Z VR Backpack G2 Windows 10 x64 Driver Pack",

@@ -8,6 +8,9 @@
     "Precision 3240 Compact",
     "09F6"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-4DXND",

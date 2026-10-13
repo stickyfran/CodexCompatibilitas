@@ -8,6 +8,9 @@
     "8DEA",
     "HP ProBook 4 G1i 14 inch Notebook AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp161621-HP ProBook 4 G1i  AI  Windows 10 Driver Pack",

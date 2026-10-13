@@ -8,6 +8,9 @@
     "Latitude E6230",
     "0532"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-GWP8V",

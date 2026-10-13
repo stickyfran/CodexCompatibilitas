@@ -8,6 +8,9 @@
     "Latitude E4300",
     "024D"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-JYYNV",

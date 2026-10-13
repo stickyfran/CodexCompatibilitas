@@ -9,6 +9,9 @@
     "8396",
     "HP Elite Slice"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80493-HP Elite Slice Windows 10 x64 Driver Pack",

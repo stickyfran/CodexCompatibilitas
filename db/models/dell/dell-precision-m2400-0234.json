@@ -8,6 +8,9 @@
     "Precision M2400",
     "0234"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-Y6J8M",

@@ -8,6 +8,9 @@
     "OptiPlex 5070",
     "0932"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-PPPRC",

@@ -8,6 +8,9 @@
     "Latitude 3500",
     "08BD"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-4C3N9",

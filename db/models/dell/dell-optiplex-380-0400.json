@@ -8,6 +8,9 @@
     "OptiPlex 380",
     "0400"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-J5VX9",

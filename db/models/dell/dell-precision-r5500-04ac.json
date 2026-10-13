@@ -8,6 +8,9 @@
     "Precision R5500",
     "04AC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-R5TMH",

@@ -8,6 +8,9 @@
     "Dell Pro Precision 7 14 PW714260",
     "0DB3"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-GP308",

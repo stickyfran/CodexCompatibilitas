@@ -8,6 +8,9 @@
     "847b",
     "HP ZBook 15v G5 Mobile Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp92372-HP ZBook 15v G5 Windows 10 x64 Driver Pack",

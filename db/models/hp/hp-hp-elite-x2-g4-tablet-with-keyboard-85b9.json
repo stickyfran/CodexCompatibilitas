@@ -8,6 +8,9 @@
     "85b9",
     "HP Elite x2 G4 Tablet with Keyboard"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp101918-HP Elite x2 G4 Tablet Windows 10 x64 Driver Pack",

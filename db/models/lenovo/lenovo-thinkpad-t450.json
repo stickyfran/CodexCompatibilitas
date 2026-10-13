@@ -9,6 +9,9 @@
     "20BV",
     "20BU"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-*",

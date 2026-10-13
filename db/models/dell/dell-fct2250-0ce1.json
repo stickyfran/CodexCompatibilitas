@@ -8,6 +8,9 @@
     "FCT2250",
     "0CE1"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-15WH7",

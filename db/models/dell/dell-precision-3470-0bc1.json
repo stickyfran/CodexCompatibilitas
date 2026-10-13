@@ -8,6 +8,9 @@
     "Precision 3470",
     "0BC1"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-T3YVN",

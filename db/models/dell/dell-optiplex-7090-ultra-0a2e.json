@@ -8,6 +8,9 @@
     "OptiPlex 7090 Ultra",
     "0A2E"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-NVGDK",

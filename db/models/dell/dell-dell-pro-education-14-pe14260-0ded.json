@@ -8,6 +8,9 @@
     "Dell Pro Education 14 PE14260",
     "0DED"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-G97T0",

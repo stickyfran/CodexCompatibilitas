@@ -9,6 +9,9 @@
     "30E1",
     "30KK"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-2004",

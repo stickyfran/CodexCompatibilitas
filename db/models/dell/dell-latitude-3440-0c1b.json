@@ -8,6 +8,9 @@
     "Latitude 3440",
     "0C1B"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-PRH5W",

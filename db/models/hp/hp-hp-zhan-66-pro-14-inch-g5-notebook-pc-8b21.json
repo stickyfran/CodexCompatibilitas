@@ -9,6 +9,9 @@
     "8979",
     "HP ZHAN 66 Pro 14 inch G5 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp151808-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",

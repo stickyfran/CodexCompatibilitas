@@ -8,6 +8,9 @@
     "192F",
     "HP Z1 All-in-One G2 Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp72467-HP Z1 G2 Workstations Windows 10 x64 Driver Pack",

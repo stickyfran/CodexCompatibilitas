@@ -8,6 +8,9 @@
     "OptiPlex 9030 AIO",
     "0625"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-09R0F",

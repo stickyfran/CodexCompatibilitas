@@ -8,6 +8,9 @@
     "Precision 3480",
     "0C02"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-6C72C",

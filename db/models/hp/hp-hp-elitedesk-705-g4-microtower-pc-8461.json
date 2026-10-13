@@ -10,6 +10,9 @@
     "83e7",
     "HP EliteDesk 705 G4 Microtower PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp114270-HP EliteDesk 705 G4 Win10 x64 Driver Pack",

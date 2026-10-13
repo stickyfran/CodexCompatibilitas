@@ -8,6 +8,9 @@
     "8892",
     "HP ProBook 635 Aero G8 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp112839-HP ProBook 635 Aero G8 Windows 10 x64 Driver Pack",

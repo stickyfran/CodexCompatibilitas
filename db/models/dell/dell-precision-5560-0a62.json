@@ -8,6 +8,9 @@
     "Precision 5560",
     "0A62"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-HVHFK",

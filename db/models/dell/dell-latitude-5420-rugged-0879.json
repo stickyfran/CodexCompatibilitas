@@ -8,6 +8,9 @@
     "Latitude 5420 Rugged",
     "0879"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-7PYRM",

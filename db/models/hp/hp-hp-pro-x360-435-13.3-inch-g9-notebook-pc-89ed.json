@@ -8,6 +8,9 @@
     "89ed",
     "HP Pro x360 435 13.3 inch G9 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp144957-HP Pro x360 435 G9 Windows 10 Driver Pack",

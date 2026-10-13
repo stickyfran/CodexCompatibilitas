@@ -8,6 +8,9 @@
     "8f81",
     "HP ProBook 4 G2iR 14 inch Notebook Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174788-HP Pro/EliteBook 4/6 G2iR NB Next Gen AI Windows 11 Driver Pack",

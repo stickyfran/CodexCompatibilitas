@@ -8,6 +8,9 @@
     "Dell Pro Precision 5 16S PW516260",
     "0E20"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-KCV6V",

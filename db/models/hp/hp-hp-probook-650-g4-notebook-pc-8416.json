@@ -9,6 +9,9 @@
     "844a",
     "HP ProBook 650 G4 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp87575-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",

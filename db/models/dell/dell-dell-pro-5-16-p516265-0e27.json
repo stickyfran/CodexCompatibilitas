@@ -8,6 +8,9 @@
     "Dell Pro 5 16 P516265",
     "0E27"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-5FJYF",

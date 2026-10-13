@@ -8,6 +8,9 @@
     "Dell Pro Max 18 Plus MB18250",
     "0E87"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-J0TYF",

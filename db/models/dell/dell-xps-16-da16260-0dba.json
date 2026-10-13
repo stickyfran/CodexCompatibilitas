@@ -8,6 +8,9 @@
     "XPS 16 DA16260",
     "0DBA"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-7D92M",

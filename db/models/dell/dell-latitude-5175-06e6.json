@@ -8,6 +8,9 @@
     "Latitude 5175",
     "06E6"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-XHGFM",

@@ -8,6 +8,9 @@
     "Precision M4600",
     "04A3"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-2XDVP",

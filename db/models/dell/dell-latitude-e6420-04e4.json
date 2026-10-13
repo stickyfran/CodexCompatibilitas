@@ -8,6 +8,9 @@
     "Latitude E6420",
     "04E4"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-2T32M",

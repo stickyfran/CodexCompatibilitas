@@ -8,6 +8,9 @@
     "8735",
     "HP ProBook x360 435 G7 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp103625-HP ProBook x360 435 G7 Win 10 x64 Driver Pack",

@@ -8,6 +8,9 @@
     "Precision 3490",
     "0CB3"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-GGD17",

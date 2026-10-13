@@ -8,6 +8,9 @@
     "Latitude 5580",
     "07A8"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-JRG2W",

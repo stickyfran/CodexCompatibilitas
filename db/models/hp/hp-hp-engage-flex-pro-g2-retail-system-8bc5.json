@@ -8,6 +8,9 @@
     "8BC5",
     "HP Engage Flex Pro G2 Retail System"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp151314-HP Engage Flex Pro G2 Win11 x64 Driver Pack",

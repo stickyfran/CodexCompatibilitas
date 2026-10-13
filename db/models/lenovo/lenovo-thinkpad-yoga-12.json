@@ -8,6 +8,9 @@
     "20DK",
     "20DL"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-*",

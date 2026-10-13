@@ -8,6 +8,9 @@
     "8418",
     "HP EliteBook 840r G4 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp84353-HP EliteBook 840r G4 Windows 10 x64 Driver Pack",

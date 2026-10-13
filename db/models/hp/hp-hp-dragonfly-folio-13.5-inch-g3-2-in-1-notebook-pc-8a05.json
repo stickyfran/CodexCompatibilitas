@@ -8,6 +8,9 @@
     "8a05",
     "HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145106-HP Dragonfly Folio G3 Windows 10 x64 Driver Pack",

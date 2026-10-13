@@ -8,6 +8,9 @@
     "Precision T7610",
     "05D4"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-T2W1W",

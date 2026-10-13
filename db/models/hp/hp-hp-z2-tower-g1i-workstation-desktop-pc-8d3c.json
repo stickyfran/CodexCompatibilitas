@@ -8,6 +8,9 @@
     "8D3C",
     "HP Z2 Tower G1i Workstation Desktop PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp158333-HP Z2 TWR SFF G1i Windows 10 x64 Driver Pack",

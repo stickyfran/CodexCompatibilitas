@@ -8,6 +8,9 @@
     "8580",
     "HP ProDesk 680 G4 Microtower PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp95450-HP ProDesk 680 G4 MT Win 10 x64 Driver Pack",

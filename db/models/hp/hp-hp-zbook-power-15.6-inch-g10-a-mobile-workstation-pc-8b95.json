@@ -8,6 +8,9 @@
     "8b95",
     "HP ZBook Power 15.6 inch G10 A Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp149194-HP ZBook Power G10A MWS Windows 10 x64 Driver Pack",

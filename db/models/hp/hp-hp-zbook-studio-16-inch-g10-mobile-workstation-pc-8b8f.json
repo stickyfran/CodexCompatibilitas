@@ -8,6 +8,9 @@
     "8b8f",
     "HP ZBook Studio 16 inch G10 Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp149061-HP ZBook Studio G10 MWS Windows 10 x64 Driver Pack",

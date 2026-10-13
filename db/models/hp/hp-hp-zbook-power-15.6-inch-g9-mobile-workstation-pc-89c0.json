@@ -8,6 +8,9 @@
     "89c0",
     "HP ZBook Power 15.6 inch G9 Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145039-HP ZBook Power 15.6 G9 Mobile Workstation PC Windows 10 x64 Driver Pack",

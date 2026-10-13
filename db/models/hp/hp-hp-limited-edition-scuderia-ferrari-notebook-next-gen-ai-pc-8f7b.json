@@ -8,6 +8,9 @@
     "8F7B",
     "HP Limited Edition Scuderia Ferrari Notebook Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174478-HP Scuderia Ferrari NB Next Gen AI PC Windows 11 Driver Pack",

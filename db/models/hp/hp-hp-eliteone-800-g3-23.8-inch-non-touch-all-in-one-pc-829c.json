@@ -10,6 +10,9 @@
     "929C",
     "HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp85276-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",

@@ -10,6 +10,9 @@
     "8710",
     "HP EliteDesk 800 G6 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp143754-HP ElitePro 6/800 G6 SFF Windows 11 Driver Pack",

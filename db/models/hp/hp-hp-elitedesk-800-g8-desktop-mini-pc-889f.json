@@ -9,6 +9,9 @@
     "88A0",
     "HP EliteDesk 800 G8 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp113168-HP EliteDesk 800 G8 DM Windows 10 x64 Driver Pack",

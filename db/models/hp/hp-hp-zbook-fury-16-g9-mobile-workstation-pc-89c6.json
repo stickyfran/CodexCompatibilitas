@@ -8,6 +8,9 @@
     "89C6",
     "HP ZBook Fury 16 G9 Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145107-HP ZBook Fury 16 G9 MWS Windows 10 x64 Driver Pack",

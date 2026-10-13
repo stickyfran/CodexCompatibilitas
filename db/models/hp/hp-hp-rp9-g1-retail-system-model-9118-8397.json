@@ -9,6 +9,9 @@
     "8139",
     "HP RP9 G1 Retail System Model 9118"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp112599-HP RP9 G1 IoT10 2019 Driver Pack",

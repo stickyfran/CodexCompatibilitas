@@ -8,6 +8,9 @@
     "Precision 7920 Tower",
     "073A"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-06C0D",

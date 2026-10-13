@@ -8,6 +8,9 @@
     "86cf",
     "HP ProBook x360 11 G5 EE Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp100011-HP ProBook x360 11 G5 Windows 10 x64 Driver Pack",

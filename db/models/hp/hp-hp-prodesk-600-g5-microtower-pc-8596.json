@@ -9,6 +9,9 @@
     "861a",
     "HP ProDesk 600 G5 Microtower PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp96974-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",

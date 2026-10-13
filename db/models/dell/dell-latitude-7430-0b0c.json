@@ -8,6 +8,9 @@
     "Latitude 7430",
     "0B0C"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-CG1N8",

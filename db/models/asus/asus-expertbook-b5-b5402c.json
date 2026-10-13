@@ -7,6 +7,9 @@
   "dmi_matches": [
     "B5402C"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [],
   "individual_drivers": [],
   "components": {}

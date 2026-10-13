@@ -8,6 +8,9 @@
     "2175",
     "HP RP5 Retail System Model 5810"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp92270-HP RP5 5810 Win10 x64 Driver Pack",

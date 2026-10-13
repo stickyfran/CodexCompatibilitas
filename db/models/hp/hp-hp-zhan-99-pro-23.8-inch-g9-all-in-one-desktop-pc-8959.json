@@ -13,6 +13,9 @@
     "8c5d",
     "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp168731-HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",

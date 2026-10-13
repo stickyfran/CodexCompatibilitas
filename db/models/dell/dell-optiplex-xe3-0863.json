@@ -8,6 +8,9 @@
     "OptiPlex XE3",
     "0863"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-NY6RP",

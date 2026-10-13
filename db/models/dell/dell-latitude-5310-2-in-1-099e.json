@@ -8,6 +8,9 @@
     "Latitude 5310 2 in 1",
     "099E"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-9RW7H",

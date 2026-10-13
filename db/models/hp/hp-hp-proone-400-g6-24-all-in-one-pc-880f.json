@@ -11,6 +11,9 @@
     "871B",
     "HP ProOne 400 G6 24 All-in-One PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp144594-HP ProOne 4/600 G6 AiO Windows 10 x64 Driver Pack",

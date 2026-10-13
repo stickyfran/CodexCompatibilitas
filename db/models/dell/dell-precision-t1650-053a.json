@@ -8,6 +8,9 @@
     "Precision T1650",
     "053A"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-G15VM",

@@ -8,6 +8,9 @@
     "Dell Pro 14 PC14250",
     "0CFB"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-FWPNN",

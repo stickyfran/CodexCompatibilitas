@@ -8,6 +8,9 @@
     "XPS 14 9440",
     "0C6B"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-49RJY",

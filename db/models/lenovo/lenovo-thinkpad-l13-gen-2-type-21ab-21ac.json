@@ -9,6 +9,9 @@
     "21AF",
     "21AC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-1909",

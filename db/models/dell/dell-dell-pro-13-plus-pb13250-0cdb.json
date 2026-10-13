@@ -8,6 +8,9 @@
     "Dell Pro 13 Plus PB13250",
     "0CDB"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-VT1WP",

@@ -8,6 +8,9 @@
     "8c6f",
     "HP ZBook Firefly 14 inch G11 A Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp161611-HP ZBook/EliteBook 8x5 G11/A Windows 11 Driver Pack",

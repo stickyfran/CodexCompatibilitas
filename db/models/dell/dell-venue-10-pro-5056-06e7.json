@@ -8,6 +8,9 @@
     "Venue 10 Pro 5056",
     "06E7"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-P4G6J",

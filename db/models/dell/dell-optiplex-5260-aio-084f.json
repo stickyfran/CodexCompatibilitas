@@ -8,6 +8,9 @@
     "OptiPlex 5260 AIO",
     "084F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-5TH0D",

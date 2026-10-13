@@ -8,6 +8,9 @@
     "XPS 13 7390",
     "0962"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-2JP94",

@@ -8,6 +8,9 @@
     "Latitude 7350 Detachable",
     "0DAA"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-CY6G2",

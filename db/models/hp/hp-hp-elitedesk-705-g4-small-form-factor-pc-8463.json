@@ -10,6 +10,9 @@
     "83e8",
     "HP EliteDesk 705 G4 Small Form Factor PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp101773-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",

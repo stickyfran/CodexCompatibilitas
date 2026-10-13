@@ -8,6 +8,9 @@
     "890d",
     "HP Engage One Essential All-in-One System"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145912-HP Engage One Essential AIO IoT10 2019 Driver Pack",

@@ -8,6 +8,9 @@
     "888d",
     "HP ZBook Power 15.6 inch G8 Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp113954-HP ZBook Power G8 Windows 10 x64 Driver Pack",

@@ -8,6 +8,9 @@
     "Latitude 7389",
     "07AB"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-FYHNG",

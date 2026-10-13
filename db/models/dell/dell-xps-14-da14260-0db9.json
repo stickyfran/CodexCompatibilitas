@@ -8,6 +8,9 @@
     "XPS 14 DA14260",
     "0DB9"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-10KF7",

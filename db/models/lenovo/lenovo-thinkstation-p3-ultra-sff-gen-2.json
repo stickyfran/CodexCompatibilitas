@@ -10,6 +10,9 @@
     "30J5",
     "30J4"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win11-24H2",

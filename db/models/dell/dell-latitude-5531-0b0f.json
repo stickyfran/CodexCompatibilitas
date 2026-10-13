@@ -8,6 +8,9 @@
     "Latitude 5531",
     "0B0F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-8J3VC",

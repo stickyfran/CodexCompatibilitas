@@ -8,6 +8,9 @@
     "Dell Pro Precision 7 16 PW716260",
     "0DB4"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-1V1TR",

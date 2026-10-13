@@ -8,6 +8,9 @@
     "221c",
     "HP EliteBook 745 G2 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp79214-HP EliteBook 7x5 G2 Windows 10 x64 Driver Pack",

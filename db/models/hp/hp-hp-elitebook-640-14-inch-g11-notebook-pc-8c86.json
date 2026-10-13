@@ -8,6 +8,9 @@
     "8C86",
     "HP EliteBook 640 14 inch G11 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp164397-HP Pro/EliteBook 4x0/6x0 G11 Windows 11 Driver Pack",

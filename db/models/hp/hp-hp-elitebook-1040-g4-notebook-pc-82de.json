@@ -9,6 +9,9 @@
     "8417",
     "HP EliteBook 1040 G4 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80239-HP EliteBook 1040 G4 Windows 10 x64 Driver Pack",

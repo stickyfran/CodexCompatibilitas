@@ -8,6 +8,9 @@
     "Precision 3591",
     "0CBB"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-CWG6R",

@@ -8,6 +8,9 @@
     "83e1",
     "HP EliteDesk 800 G4 Small Form Factor PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp84657-HP ElitePro 400/600/800 G4 PC Win10 x64 Driver Pack",

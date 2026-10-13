@@ -8,6 +8,9 @@
     "8881",
     "HP EliteDesk 805 G8 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp121400-HP ElitePro 4/805 G8 DM Windows 10 x64 Driver Pack",

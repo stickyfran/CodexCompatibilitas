@@ -8,6 +8,9 @@
     "Latitude 3180",
     "07B2"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-559Y5",

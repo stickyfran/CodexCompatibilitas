@@ -10,6 +10,9 @@
     "8abd",
     "HP Pro x360 Fortis 11 inch G11 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp158128-HP Pro x360 Fortis G11 Windows 11 Driver Pack",

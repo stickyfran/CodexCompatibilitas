@@ -8,6 +8,9 @@
     "Dell Pro Tower Plus QBT1250/Dell Pro Tower QCT1250",
     "0D01"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-3NT5G",

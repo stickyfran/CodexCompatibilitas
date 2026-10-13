@@ -8,6 +8,9 @@
     "82b4",
     "HP ProDesk 600 G3 Base Model Small Form Factor PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80492-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",

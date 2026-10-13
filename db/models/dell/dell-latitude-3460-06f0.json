@@ -8,6 +8,9 @@
     "Latitude 3460",
     "06F0"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-3F4DN",

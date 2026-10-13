@@ -8,6 +8,9 @@
     "81c5",
     "HP Z4 G4 Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp84802-HP Z4G4 Windows 10 x64 Driver Pack",

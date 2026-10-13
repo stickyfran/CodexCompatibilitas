@@ -8,6 +8,9 @@
     "8e86",
     "HP EliteBook X Flip G2i 14 inch Notebook Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp172736-HP EliteBook G2i Windows 11 Driver Pack",

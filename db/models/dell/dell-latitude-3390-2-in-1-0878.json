@@ -8,6 +8,9 @@
     "Latitude 3390 2-in-1",
     "0878"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-JGRW1",

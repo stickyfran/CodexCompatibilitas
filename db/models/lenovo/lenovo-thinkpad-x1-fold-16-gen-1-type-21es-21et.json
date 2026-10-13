@@ -8,6 +8,9 @@
     "21ES",
     "21ET"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win11-21H2",

@@ -8,6 +8,9 @@
     "8D84",
     "HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp157058-HP EliteBook G1i Notebook AI Windows 10 Driver Pack",

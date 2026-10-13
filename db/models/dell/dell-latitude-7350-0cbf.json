@@ -8,6 +8,9 @@
     "Latitude 7350",
     "0CBF"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-XY64P",

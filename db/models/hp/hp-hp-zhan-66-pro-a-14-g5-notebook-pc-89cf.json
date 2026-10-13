@@ -8,6 +8,9 @@
     "89CF",
     "HP ZHAN 66 Pro A 14 G5 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145268-HP ZHAN/Pro/Elite 4/6x5 Windows 10 x64 Driver Pack",

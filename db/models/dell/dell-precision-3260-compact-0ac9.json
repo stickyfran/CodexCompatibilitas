@@ -8,6 +8,9 @@
     "Precision 3260 Compact",
     "0AC9"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-1N3DV",

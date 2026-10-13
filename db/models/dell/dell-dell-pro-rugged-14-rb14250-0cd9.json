@@ -8,6 +8,9 @@
     "Dell Pro Rugged 14 RB14250",
     "0CD9"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-R2FJ7",

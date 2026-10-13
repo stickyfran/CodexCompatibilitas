@@ -8,6 +8,9 @@
     "OptiPlex 7760 AIO",
     "084A"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-TCNTX",

@@ -10,6 +10,9 @@
     "8953",
     "HP Pro Tower 480 G9 PCI Desktop PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145708-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Windows 10 x64 Driver Pack",

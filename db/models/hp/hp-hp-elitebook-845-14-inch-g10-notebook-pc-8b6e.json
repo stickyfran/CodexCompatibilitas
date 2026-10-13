@@ -8,6 +8,9 @@
     "8B6E",
     "HP EliteBook 845 14 inch G10 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp149192-HP ZBook/EliteBook 8x5 G10/A Windows 10 x64 Driver Pack",

@@ -8,6 +8,9 @@
     "OptiPlex 980",
     "02DA"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-F17H3",

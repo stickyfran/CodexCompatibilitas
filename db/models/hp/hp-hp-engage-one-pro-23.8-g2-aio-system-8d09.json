@@ -8,6 +8,9 @@
     "8d09",
     "HP Engage One Pro 23.8 G2 AiO System"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp160040-HP Engage One Pro AIO G2 IoT10 2021 Driver Pack",

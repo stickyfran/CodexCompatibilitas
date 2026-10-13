@@ -8,6 +8,9 @@
     "Precision 7920 Rack",
     "0718"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-3VNR3",

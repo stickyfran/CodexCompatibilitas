@@ -8,6 +8,9 @@
     "Latitude 3450",
     "0C99"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-XMT4F",

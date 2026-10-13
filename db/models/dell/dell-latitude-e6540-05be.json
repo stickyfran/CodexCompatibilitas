@@ -8,6 +8,9 @@
     "Latitude E6540",
     "05BE"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-HW0T8",

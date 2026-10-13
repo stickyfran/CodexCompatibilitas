@@ -8,6 +8,9 @@
     "Latitude 7380",
     "07F3"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-CW27C",

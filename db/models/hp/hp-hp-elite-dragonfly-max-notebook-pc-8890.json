@@ -8,6 +8,9 @@
     "8890",
     "HP Elite Dragonfly Max Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp111812-HP Elite Dragonfly G2 Windows 10 x64 Driver Pack",

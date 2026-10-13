@@ -10,6 +10,9 @@
     "896D",
     "HP EliteBook 840 14 inch G9 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp144912-HP EB 8x0 1040 ZB G9 MWS Windows 10 x64 Driver Pack",

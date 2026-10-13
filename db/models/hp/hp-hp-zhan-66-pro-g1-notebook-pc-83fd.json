@@ -9,6 +9,9 @@
     "8471",
     "HP ZHAN 66 Pro G1 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp90193-HP ZHAN 66 Pro G1 Windows 10 x64 Driver Pack",

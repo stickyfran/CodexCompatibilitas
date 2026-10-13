@@ -8,6 +8,9 @@
     "89B2",
     "HP ProBook Fortis 14 inch G10 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145122-HP Pro x360 Fortis 11 G10 Windows 10 x64 Driver Pack",

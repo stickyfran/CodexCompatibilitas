@@ -8,6 +8,9 @@
     "842a",
     "HP ZBook 15 G5 Mobile Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp88880-HP Zbook 15/17 G5 Windows 10 x64 Driver Pack",

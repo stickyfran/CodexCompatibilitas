@@ -8,6 +8,9 @@
     "8783",
     "HP ZBook Fury 15 G7 Mobile Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp107667-HP ZBook Fury 15/17 G7 Windows 10 x64 Driver Pack",

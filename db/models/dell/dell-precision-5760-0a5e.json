@@ -8,6 +8,9 @@
     "Precision 5760",
     "0A5E"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-TVYWT",

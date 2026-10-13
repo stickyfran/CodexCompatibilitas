@@ -9,6 +9,9 @@
     "894E",
     "HP Elite SFF 800 G9 Desktop PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp157726-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Win 11 Driver Pack",

@@ -8,6 +8,9 @@
     "Precision 3660 Tower",
     "0A9F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-TMG2W",

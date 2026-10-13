@@ -8,6 +8,9 @@
     "8060",
     "HP ProDesk 480 G3 Microtower PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp88958-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",

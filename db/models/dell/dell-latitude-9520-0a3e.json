@@ -8,6 +8,9 @@
     "Latitude 9520",
     "0A3E"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-6PP6H",

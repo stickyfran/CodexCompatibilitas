@@ -9,6 +9,9 @@
     "8d19",
     "HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp161705-HP Pro4 AIO G1i AI PC Windows 10 Driver Pack",

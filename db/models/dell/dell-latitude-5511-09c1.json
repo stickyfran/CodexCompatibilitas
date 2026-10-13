@@ -8,6 +8,9 @@
     "Latitude 5511",
     "09C1"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-Y8HRW",

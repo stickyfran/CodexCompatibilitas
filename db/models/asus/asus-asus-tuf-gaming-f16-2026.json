@@ -7,6 +7,9 @@
   "dmi_matches": [
     "2026"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [],
   "individual_drivers": [],
   "components": {}

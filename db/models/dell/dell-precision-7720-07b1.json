@@ -8,6 +8,9 @@
     "Precision 7720",
     "07B1"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-XHT1M",

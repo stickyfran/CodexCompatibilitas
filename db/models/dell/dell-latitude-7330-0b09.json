@@ -8,6 +8,9 @@
     "Latitude 7330",
     "0B09"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-RXRC4",

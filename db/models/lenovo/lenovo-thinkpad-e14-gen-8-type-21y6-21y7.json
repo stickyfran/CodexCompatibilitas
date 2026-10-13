@@ -8,6 +8,9 @@
     "21Y6",
     "21Y7"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win11-25H2",

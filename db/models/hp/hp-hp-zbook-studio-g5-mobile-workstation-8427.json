@@ -9,6 +9,9 @@
     "844F",
     "HP ZBook Studio G5 Mobile Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp88881-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",

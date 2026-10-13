@@ -8,6 +8,9 @@
     "Latitude E6510",
     "040B"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-9KKYW",

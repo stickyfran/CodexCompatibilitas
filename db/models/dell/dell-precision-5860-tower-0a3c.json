@@ -8,6 +8,9 @@
     "Precision 5860 Tower",
     "0A3C"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-F10G1",

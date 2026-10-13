@@ -11,6 +11,9 @@
     "8810",
     "HP ProOne 440 G6 24 All-in-One PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp123509-HP ProOne 4/600 G6 AiO Win 10 x64 Driver Pack",

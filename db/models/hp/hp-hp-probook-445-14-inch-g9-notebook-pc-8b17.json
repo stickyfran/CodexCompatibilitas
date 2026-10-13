@@ -9,6 +9,9 @@
     "89C9",
     "HP ProBook 445 14 inch G9 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145268-HP ZHAN/Pro/Elite 4/6x5 Windows 10 x64 Driver Pack",

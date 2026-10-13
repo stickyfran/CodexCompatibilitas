@@ -11,6 +11,9 @@
     "8b94",
     "HP ZBook Fury 16 G10 Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp149065-HP ZBook Fury G10 MWS Windows10 x64 Driver Pack",

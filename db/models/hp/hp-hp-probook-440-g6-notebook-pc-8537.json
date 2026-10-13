@@ -8,6 +8,9 @@
     "8537",
     "HP ProBook 440 G6 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp102073-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",

@@ -9,6 +9,9 @@
     "8d18",
     "HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp161707-HP EliteStudio 8 AIO G1i AI PC Windows 10 Driver Pack",

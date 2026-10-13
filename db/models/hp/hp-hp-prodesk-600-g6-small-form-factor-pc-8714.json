@@ -8,6 +8,9 @@
     "8714",
     "HP ProDesk 600 G6 Small Form Factor PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp105836-HP ElitePro 4/6/800 G6 DM/SFF Windows 10 x64 Driver Pack",

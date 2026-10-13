@@ -8,6 +8,9 @@
     "Precision T7600",
     "0495"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-D1G7F",

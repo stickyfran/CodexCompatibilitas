@@ -8,6 +8,9 @@
     "Latitude 5491",
     "0818"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-M714V",

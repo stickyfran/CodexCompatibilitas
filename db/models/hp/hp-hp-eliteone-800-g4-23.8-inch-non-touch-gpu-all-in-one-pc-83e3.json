@@ -8,6 +8,9 @@
     "83e3",
     "HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp89032-HP ElitePro 400/600/800 G4 AiO Win10 x64 Driver Pack",

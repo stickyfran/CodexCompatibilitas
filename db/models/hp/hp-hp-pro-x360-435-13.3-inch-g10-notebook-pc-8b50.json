@@ -8,6 +8,9 @@
     "8B50",
     "HP Pro x360 435 13.3 inch G10 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp147939-HP Pro x360 435 G10 Windows 10 x64 Driver Pack",

@@ -8,6 +8,9 @@
     "OptiPlex 7010 Micro",
     "0BE6"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-0WJN2",

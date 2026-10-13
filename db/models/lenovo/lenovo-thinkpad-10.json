@@ -8,6 +8,9 @@
     "20C1",
     "20C3"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-*",

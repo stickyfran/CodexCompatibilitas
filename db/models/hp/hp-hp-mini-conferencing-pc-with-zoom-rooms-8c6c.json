@@ -10,6 +10,9 @@
     "894f",
     "HP Mini Conferencing PC with Zoom Rooms"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp157679-HP Pro/Elite Mini 4/6/800 G9 Win 11 Driver Pack",

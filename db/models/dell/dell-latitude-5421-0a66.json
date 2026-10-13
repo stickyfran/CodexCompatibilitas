@@ -8,6 +8,9 @@
     "Latitude 5421",
     "0A66"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-NXWNT",

@@ -8,6 +8,9 @@
     "8D17",
     "HP ProDesk 4 Mini G1i Desktop AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp173483-HP ProDesk/Elite Desk Mini G1i Desktop Windows 11 Driver Pack",

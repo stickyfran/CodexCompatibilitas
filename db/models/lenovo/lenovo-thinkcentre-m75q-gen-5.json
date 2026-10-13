@@ -16,6 +16,9 @@
     "13E1",
     "12VG"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-22H2",

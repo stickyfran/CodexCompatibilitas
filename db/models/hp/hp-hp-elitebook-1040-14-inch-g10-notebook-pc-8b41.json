@@ -8,6 +8,9 @@
     "8B41",
     "HP EliteBook 1040 14 inch G10 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp147159-HP EB/ZB/x360 8x0/1040/FF G10 Windows 10 x64 Driver Pack",

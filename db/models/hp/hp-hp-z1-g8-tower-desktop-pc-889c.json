@@ -8,6 +8,9 @@
     "889c",
     "HP Z1 G8 Tower Desktop PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp123512-HP ElitePro 6/8x0 G8 PC Win 10 x64 Driver Pack",

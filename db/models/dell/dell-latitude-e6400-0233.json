@@ -8,6 +8,9 @@
     "Latitude E6400",
     "0233"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-RW93N",

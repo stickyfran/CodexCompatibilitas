@@ -8,6 +8,9 @@
     "Dell Pro 3 16 P316265",
     "0E5E"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-93CMF",

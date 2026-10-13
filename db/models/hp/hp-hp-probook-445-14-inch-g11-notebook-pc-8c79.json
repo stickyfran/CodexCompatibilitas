@@ -8,6 +8,9 @@
     "8C79",
     "HP ProBook 445 14 inch G11 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp160200-HP ProBook/EliteBook 4/6x5 G11 Windows 11 Driver Pack",

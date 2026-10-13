@@ -9,6 +9,9 @@
     "83ef",
     "HP MP9 G4 Retail System"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp88413-HP MP9 G4 Win10 x64 Driver Pack",

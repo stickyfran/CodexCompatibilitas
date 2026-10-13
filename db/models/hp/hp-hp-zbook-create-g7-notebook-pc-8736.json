@@ -8,6 +8,9 @@
     "8736",
     "HP ZBook Create G7 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp110361-HP ZBook Studio G7 Windows 10 x64 Driver Pack",

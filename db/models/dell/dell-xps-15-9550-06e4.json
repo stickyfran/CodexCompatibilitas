@@ -8,6 +8,9 @@
     "XPS 15 9550",
     "06E4"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-TV5DD",

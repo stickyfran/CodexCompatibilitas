@@ -8,6 +8,9 @@
     "20AL",
     "20AM"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-1607",

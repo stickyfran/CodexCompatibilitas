@@ -12,6 +12,9 @@
     "8de9",
     "HP ZBook Fury G1i 18 inch Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174546-HP ZBook Fury G1i MWS Windows 11 Driver Pack",

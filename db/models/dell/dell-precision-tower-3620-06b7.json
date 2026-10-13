@@ -8,6 +8,9 @@
     "Precision Tower 3620",
     "06B7"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-7T7FD",

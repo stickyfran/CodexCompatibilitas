@@ -8,6 +8,9 @@
     "Latitude ST",
     "050B"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-98DM2",

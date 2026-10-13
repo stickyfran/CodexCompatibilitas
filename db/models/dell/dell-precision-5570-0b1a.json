@@ -8,6 +8,9 @@
     "Precision 5570",
     "0B1A"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-78N9N",

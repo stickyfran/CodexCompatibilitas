@@ -8,6 +8,9 @@
     "85ad",
     "HP ProBook 445R G6 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp94975-HP ProBook 4x5R G6 Windows 10 x64 Driver Pack",

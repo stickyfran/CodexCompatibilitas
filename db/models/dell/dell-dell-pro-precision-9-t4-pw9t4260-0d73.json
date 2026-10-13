@@ -8,6 +8,9 @@
     "Dell Pro Precision 9 T4 PW9T4260",
     "0D73"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-32GP2",

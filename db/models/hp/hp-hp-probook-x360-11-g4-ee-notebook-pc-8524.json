@@ -8,6 +8,9 @@
     "8524",
     "HP ProBook x360 11 G4 EE Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp93458-HP ProBook x360 11 G4 Windows 10 x64 Driver Pack",

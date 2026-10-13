@@ -8,6 +8,9 @@
     "XPS 15 9530",
     "0BEB"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-K5VTV",

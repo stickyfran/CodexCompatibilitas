@@ -8,6 +8,9 @@
     "8C52",
     "HP EliteBook 1040 14 inch G11 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp167307-HP EliteBook 1040 G11 Windows 11 Driver Pack",

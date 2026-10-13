@@ -8,6 +8,9 @@
     "XPS 17 9720",
     "0AFE"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-4K4W5",

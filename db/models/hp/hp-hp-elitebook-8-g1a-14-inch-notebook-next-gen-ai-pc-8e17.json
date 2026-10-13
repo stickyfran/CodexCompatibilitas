@@ -8,6 +8,9 @@
     "8E17",
     "HP EliteBook 8 G1a 14 inch Notebook Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp168444-HP EB/ZB 8 G1a/ak NG NB/MWS Windows 11 Driver Pack",

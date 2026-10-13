@@ -9,6 +9,9 @@
     "8E58",
     "HP ProBook 4 G1iR 16 inch Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp162923-HP ProBook/EliteBook 6 G1iR Windows 10 Driver Pack",

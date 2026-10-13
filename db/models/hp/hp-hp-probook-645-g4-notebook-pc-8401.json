@@ -8,6 +8,9 @@
     "8401",
     "HP ProBook 645 G4 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp84351-HP Probook 6x5 G4 Windows 10 x64 Driver Pack",

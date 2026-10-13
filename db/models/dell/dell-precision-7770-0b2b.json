@@ -8,6 +8,9 @@
     "Precision 7770",
     "0B2B"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-YH6F8",

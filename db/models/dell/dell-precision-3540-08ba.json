@@ -8,6 +8,9 @@
     "Precision 3540",
     "08BA"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-XFN93",

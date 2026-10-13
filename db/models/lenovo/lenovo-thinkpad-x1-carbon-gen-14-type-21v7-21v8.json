@@ -8,6 +8,9 @@
     "21V7",
     "21V8"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win11-24H2",

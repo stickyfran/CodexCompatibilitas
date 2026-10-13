@@ -8,6 +8,9 @@
     "Dell Pro 5 16 P516260",
     "0E3F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-F9WXR",

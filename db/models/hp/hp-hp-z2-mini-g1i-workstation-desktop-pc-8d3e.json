@@ -8,6 +8,9 @@
     "8D3E",
     "HP Z2 Mini G1i Workstation Desktop PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp158332-HP Z2 Mini G1i Windows 10 x64 Driver Pack",

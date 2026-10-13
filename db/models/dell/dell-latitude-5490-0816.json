@@ -8,6 +8,9 @@
     "Latitude 5490",
     "0816"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-0DWT0",

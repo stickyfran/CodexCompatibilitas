@@ -8,6 +8,9 @@
     "XPS 15 9560",
     "07BE"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-TT7W3",

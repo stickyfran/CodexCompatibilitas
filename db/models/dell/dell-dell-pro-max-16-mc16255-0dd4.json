@@ -8,6 +8,9 @@
     "Dell Pro Max 16 MC16255",
     "0DD4"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-8V8N4",

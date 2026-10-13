@@ -8,6 +8,9 @@
     "2b5c",
     "Sprout Pro by HP"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80155-HP Sprout Pro Windows 10 x64 Driver Pack",

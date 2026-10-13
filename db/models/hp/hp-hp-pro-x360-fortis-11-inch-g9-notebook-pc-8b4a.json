@@ -9,6 +9,9 @@
     "89af",
     "HP Pro x360 Fortis 11 inch G9 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145152-HP ProBook x360 Fortis 11 G9 Windows 10 x64 Driver Pack",

@@ -8,6 +8,9 @@
     "OptiPlex 7070 ULTRA",
     "091B"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-N40JD",

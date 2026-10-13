@@ -8,6 +8,9 @@
     "Latitude 3470",
     "06F2"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-094G8",

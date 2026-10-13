@@ -8,6 +8,9 @@
     "8a94",
     "HP Engage Go 13.5 inch Mobile System"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp144918-HP Engage Go 13.5 inch Mobile System Win10 x64 Driver Pack",

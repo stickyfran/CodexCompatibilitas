@@ -8,6 +8,9 @@
     "Precision 7865 Tower",
     "0B22"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-WKWC0",

@@ -8,6 +8,9 @@
     "OptiPlex 5270 AIO",
     "0939"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-KRJXH",

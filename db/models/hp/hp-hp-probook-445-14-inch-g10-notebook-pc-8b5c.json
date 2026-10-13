@@ -8,6 +8,9 @@
     "8B5C",
     "HP ProBook 445 14 inch G10 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp147284-HP Pro/EliteBook 4/6x5 G10 Windows 10 x64 Driver Pack",

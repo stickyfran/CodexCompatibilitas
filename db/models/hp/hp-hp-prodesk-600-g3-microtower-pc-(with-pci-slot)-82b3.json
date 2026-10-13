@@ -9,6 +9,9 @@
     "829d",
     "HP ProDesk 600 G3 Microtower PC (with PCI slot)"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80492-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",

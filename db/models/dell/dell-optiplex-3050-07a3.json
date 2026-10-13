@@ -8,6 +8,9 @@
     "OptiPlex 3050",
     "07A3"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-84FTP",

@@ -8,6 +8,9 @@
     "Precision T1700",
     "05A6"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-M1X9P",

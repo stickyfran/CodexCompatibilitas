@@ -8,6 +8,9 @@
     "8F37",
     "HP EliteBook 6 G2i 14 inch Notebook AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174691-HP Pro/EliteBook 4/6 G2i NB AI Windows 11 Driver Pack",

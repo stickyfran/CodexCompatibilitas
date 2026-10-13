@@ -8,6 +8,9 @@
     "Dell 14 Premium DA14250",
     "0CE5"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-P1KTX",

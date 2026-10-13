@@ -8,6 +8,9 @@
     "Latitude 3550",
     "0632"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-YT0P2",

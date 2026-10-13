@@ -10,6 +10,9 @@
     "87DF",
     "HP ProBook 430 G8 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp110423-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",

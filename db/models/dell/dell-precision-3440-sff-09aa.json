@@ -8,6 +8,9 @@
     "Precision 3440 SFF",
     "09AA"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-634FC",

@@ -8,6 +8,9 @@
     "80fa",
     "HP EliteBook 1040 G3 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80904-HP Folio 1040 G3 Windows 10 x64 Driver Pack",

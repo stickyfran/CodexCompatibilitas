@@ -8,6 +8,9 @@
     "Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260",
     "0E38"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-K5VR6",

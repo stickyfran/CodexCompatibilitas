@@ -8,6 +8,9 @@
     "8873",
     "HP ZBook Studio 15.6 inch G8 Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp134293-HP ZBook Studio/Create G8 Windows 10 x64 Driver Pack",

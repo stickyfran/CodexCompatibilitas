@@ -8,6 +8,9 @@
     "Precision 7730",
     "0832"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-6VXK9",

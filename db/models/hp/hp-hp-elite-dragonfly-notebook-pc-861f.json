@@ -8,6 +8,9 @@
     "861F",
     "HP Elite Dragonfly Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp97057-HP Elite Dragonfly Windows 10 x64 Driver Pack",

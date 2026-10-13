@@ -8,6 +8,9 @@
     "8F12",
     "HP EliteDesk 8 Mini G2a Desktop Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174543-HP EliteDesk 8 Mini G2a Windows 11 Driver Pack",

@@ -8,6 +8,9 @@
     "OptiPlex 5000",
     "0AC3"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-N9V5D",

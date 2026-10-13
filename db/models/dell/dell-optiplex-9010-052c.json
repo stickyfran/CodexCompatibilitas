@@ -8,6 +8,9 @@
     "OptiPlex 9010",
     "052C"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-TRYJN",

@@ -8,6 +8,9 @@
     "85aa",
     "HP ZHAN 66 Pro 15 G2 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp102073-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",

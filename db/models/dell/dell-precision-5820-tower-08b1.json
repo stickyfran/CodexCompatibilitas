@@ -8,6 +8,9 @@
     "Precision 5820 Tower",
     "08B1"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-V63WG",

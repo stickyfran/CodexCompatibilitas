@@ -8,6 +8,9 @@
     "OptiPlex AIO 7420",
     "0C88"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-GVJ7G",

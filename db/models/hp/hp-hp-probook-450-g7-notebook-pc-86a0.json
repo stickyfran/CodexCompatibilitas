@@ -8,6 +8,9 @@
     "86a0",
     "HP ProBook 450 G7 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp99557-HP ProBook 4x0 G7/ZHAN G3 Win 10 x64 Driver Pack",

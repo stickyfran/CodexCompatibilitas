@@ -8,6 +8,9 @@
     "Dell Pro Precision 7 T1 PW7T1260",
     "0DF9"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-KYYN1",

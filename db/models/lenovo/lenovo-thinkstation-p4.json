@@ -9,6 +9,9 @@
     "30KN",
     "30KQ"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win11-24H2",

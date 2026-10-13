@@ -144,6 +144,21 @@ async def _harvest_drivers(vendor: str, limit: int):
                     total_drivers_harvested += len(drivers)
                     updated_models[m.id] = m
 
+    if "asus" in vendors:
+        console.print(f"\n[bold cyan]=== Extrayendo drivers de ASUS vía Web API (límite {limit}) ===[/bold cyan]")
+        from deepslop.extract.asus_harvester import AsusApiHarvester
+        ah = AsusApiHarvester(output_dir=os.path.join(BASE_DIR, "data", "manifests", "asus"))
+        asus_models = [m for m in models.values() if m.vendor.lower() == "asus"][:limit]
+        for am in asus_models:
+            code = am.system_id or am.dmi_matches[0] if am.dmi_matches else am.id.split("-")[-1].upper()
+            if code and len(code) >= 4:
+                drivers = await ah.harvest_model_drivers(code)
+                if drivers:
+                    am.individual_drivers.extend(drivers)
+                    total_drivers_harvested += len(drivers)
+                    updated_models[am.id] = am
+                    console.print(f"  ✓ {am.model_name}: {len(drivers)} drivers obtenidos.")
+
     if updated_models:
         registry.save_models(list(updated_models.values()))
         console.print(f"\n[bold green]¡Extracción masiva completada! {total_drivers_harvested} drivers individuales mapeados en {len(updated_models)} modelos.[/bold green]")
@@ -313,6 +328,11 @@ async def _process_model(model_id: str):
                 "fix_type": "color_icc_profile",
                 "fix_path": fixes_base,
             }
+
+    # Generar script unificado 'install-all.sh' para el modelo
+    from deepslop.generators.script_builder import ScriptBuilder
+    installer_path = ScriptBuilder.generate_installer_script(matched, fixes_base)
+    console.print(f"[bold cyan]✓ Script instalador integral generado: {installer_path}[/bold cyan]")
 
     # Guardar modelo actualizado en DB
     registry.save_models([matched])

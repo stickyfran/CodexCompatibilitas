@@ -8,6 +8,9 @@
     "Precision M6400",
     "0251"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-PN3XD",

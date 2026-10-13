@@ -8,6 +8,9 @@
     "OptiPlex 7020 SFF",
     "0C71"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-N51CN",

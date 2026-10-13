@@ -8,6 +8,9 @@
     "8b63",
     "HP Dragonfly 13.5 inch G4 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp147695-HP Elite Dragonfly G4 Windows 10 x64 Driver Pack",

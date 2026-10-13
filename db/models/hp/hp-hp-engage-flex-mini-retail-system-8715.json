@@ -8,6 +8,9 @@
     "8715",
     "HP Engage Flex Mini Retail System"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp144691-HP Engage Flex Mini IoT10 2019 Driver Pack",

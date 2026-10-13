@@ -8,6 +8,9 @@
     "8ED5",
     "HP EliteBook 8 Flip G2i 13 inch Notebook Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174427-HP EB/ZB 8 G2i NB/MWS Next Gen Windows 11 Driver Pack",

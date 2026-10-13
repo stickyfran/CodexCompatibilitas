@@ -9,6 +9,9 @@
     "874e",
     "HP Collaboration G6 24 All-in-One with Zoom Rooms"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp123503-HP EliteOne 800 G6 AiO Win 10 x64 Driver Pack",

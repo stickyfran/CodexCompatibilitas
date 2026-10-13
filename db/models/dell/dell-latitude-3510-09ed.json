@@ -8,6 +8,9 @@
     "Latitude 3510",
     "09ED"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-K9MN8",

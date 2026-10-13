@@ -8,6 +8,9 @@
     "83e5",
     "HP EliteOne 1000 G2 23.8-in All-in-One Business PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp88986-HP EliteOne 1000 G2 AiO Win10 x64 Driver Pack",

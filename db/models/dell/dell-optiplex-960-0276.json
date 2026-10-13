@@ -8,6 +8,9 @@
     "OptiPlex 960",
     "0276"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-WT9XW",

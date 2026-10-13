@@ -8,6 +8,9 @@
     "8298",
     "HP EliteDesk 800 G3 Tower PC (ENERGY STAR)"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80492-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",

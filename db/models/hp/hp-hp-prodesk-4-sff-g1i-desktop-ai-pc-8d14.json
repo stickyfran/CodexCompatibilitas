@@ -9,6 +9,9 @@
     "8FAE",
     "HP ProDesk 4 SFF G1i Desktop AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp173938-HP EliteDesk/ProDesk Z1 G1i Windows 11 Driver Pack",

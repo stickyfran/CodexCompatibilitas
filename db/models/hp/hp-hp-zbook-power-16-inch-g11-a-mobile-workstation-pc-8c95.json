@@ -8,6 +8,9 @@
     "8c95",
     "HP ZBook Power 16 inch G11 A Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp160214-HP ZBook Power G11A Mobile Workstation PC Windows 11 Driver Pack",

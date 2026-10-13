@@ -8,6 +8,9 @@
     "Latitude E5420m",
     "04EB"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-WW3JD",

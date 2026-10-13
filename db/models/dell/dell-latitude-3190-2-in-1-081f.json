@@ -8,6 +8,9 @@
     "Latitude 3190 2-in-1",
     "081F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-HM7VY",

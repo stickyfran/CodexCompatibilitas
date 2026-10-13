@@ -9,6 +9,9 @@
     "8724",
     "HP ZBook Firefly 14 G7 Mobile Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp104372-HP Elite/ZBook 8x0 G7 Windows 10 x64 Driver Pack",

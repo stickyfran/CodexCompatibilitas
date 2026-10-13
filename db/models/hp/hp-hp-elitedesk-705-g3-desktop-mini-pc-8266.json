@@ -8,6 +8,9 @@
     "8266",
     "HP EliteDesk 705 G3 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp79039-HP EliteDesk 705 G3 Win10 x64 Driver Pack",

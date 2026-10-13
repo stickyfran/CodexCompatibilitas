@@ -8,6 +8,9 @@
     "Latitude 5285",
     "07A4"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-NYPWP",

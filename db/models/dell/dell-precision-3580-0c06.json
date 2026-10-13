@@ -8,6 +8,9 @@
     "Precision 3580",
     "0C06"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-9K5Y5",

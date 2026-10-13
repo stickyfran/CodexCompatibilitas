@@ -8,6 +8,9 @@
     "Precision 3510",
     "06E0"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-8FHVG",

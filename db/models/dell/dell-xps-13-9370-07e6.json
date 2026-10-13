@@ -8,6 +8,9 @@
     "XPS 13 9370",
     "07E6"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-WNYXM",

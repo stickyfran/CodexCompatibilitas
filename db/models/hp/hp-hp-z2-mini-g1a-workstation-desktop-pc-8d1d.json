@@ -8,6 +8,9 @@
     "8D1D",
     "HP Z2 Mini G1a Workstation Desktop PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp172357-HP Z2 Mini G1a Windows 11 x64 Driver Pack",

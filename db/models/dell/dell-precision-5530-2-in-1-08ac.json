@@ -8,6 +8,9 @@
     "Precision 5530 2-IN-1",
     "08AC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-854JG",

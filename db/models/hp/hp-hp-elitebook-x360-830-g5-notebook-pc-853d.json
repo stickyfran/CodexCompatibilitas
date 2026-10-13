@@ -8,6 +8,9 @@
     "853d",
     "HP EliteBook x360 830 G5 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp94743-HP EliteBook x360 830 G5 Windows 10 Driver Pack",

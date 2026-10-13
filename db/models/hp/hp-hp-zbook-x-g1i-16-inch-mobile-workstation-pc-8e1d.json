@@ -8,6 +8,9 @@
     "8e1d",
     "HP ZBook X G1i 16 inch Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp158846-HP ZBook X G1i MWS Windows 10 Driver Pack",

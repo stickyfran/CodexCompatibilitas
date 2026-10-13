@@ -10,6 +10,9 @@
     "12HK",
     "12HM"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-21H2",

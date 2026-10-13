@@ -9,6 +9,9 @@
     "83ed",
     "HP ProDesk 600 G4 Microtower PC (with PCI slot)"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp84657-HP ElitePro 400/600/800 G4 PC Win10 x64 Driver Pack",

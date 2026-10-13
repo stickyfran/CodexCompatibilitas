@@ -8,6 +8,9 @@
     "805a",
     "HP EliteDesk 705 G2 Microtower PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80906-HP EliteDesk 705 G2 Win10 x64 Driver Pack",

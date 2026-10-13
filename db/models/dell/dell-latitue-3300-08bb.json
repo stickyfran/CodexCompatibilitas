@@ -8,6 +8,9 @@
     "Latitue 3300",
     "08BB"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-K15N4",

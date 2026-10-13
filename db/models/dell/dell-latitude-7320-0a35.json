@@ -8,6 +8,9 @@
     "Latitude 7320",
     "0A35"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-X2Y4G",

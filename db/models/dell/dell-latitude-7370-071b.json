@@ -8,6 +8,9 @@
     "Latitude 7370",
     "071B"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-W8J2J",

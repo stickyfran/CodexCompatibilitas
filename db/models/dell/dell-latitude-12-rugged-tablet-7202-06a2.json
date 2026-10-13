@@ -8,6 +8,9 @@
     "Latitude 12 Rugged Tablet 7202",
     "06A2"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-H82Y2",

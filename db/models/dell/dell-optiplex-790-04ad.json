@@ -8,6 +8,9 @@
     "OptiPlex 790",
     "04AD"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-Y90GC",

@@ -8,6 +8,9 @@
     "8760",
     "HP EliteBook 835 G7 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp106199-HP EliteBook 8x5 G7 Windows 10 x64 Driver Pack",

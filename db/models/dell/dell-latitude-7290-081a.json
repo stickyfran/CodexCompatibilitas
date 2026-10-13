@@ -8,6 +8,9 @@
     "Latitude 7290",
     "081A"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-CP4G4",

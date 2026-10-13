@@ -9,6 +9,9 @@
     "87EA",
     "HP ProBook 630 G8 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp110267-HP Probook 6x0 G8 Windows 10 x64 Driver Pack",

@@ -8,6 +8,9 @@
     "8D10",
     "HP EliteDesk 8 Tower G1i Desktop AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp173938-HP EliteDesk/ProDesk Z1 G1i Windows 11 Driver Pack",

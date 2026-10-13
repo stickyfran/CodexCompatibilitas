@@ -8,6 +8,9 @@
     "Dell Pro 14 Essential PV14250",
     "0DE9"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-53KFY",

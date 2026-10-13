@@ -9,6 +9,9 @@
     "82bf",
     "HP Z2 Mini G3 Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp84800-HP Z2 Mini G3 Windows 10 x64 Driver Pack",

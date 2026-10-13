@@ -8,6 +8,9 @@
     "OptiPlex 7490 AIO",
     "0A47"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-NGK7X",

@@ -8,6 +8,9 @@
     "225e",
     "HP EliteDesk 705 G1 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp92706-HP ElitePro 400-800 G1 PC Win10 x64 Driver Pack",

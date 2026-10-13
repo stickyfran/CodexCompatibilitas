@@ -8,6 +8,9 @@
     "Latitude 3150",
     "068F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-R27P9",

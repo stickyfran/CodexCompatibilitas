@@ -8,6 +8,9 @@
     "83da",
     "HP EliteBook 735 G5 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp84352-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",

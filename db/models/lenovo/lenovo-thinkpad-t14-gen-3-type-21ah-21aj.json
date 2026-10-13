@@ -8,6 +8,9 @@
     "21AH",
     "21AJ"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-20H2",

@@ -8,6 +8,9 @@
     "198f",
     "HP ZBook 14 Mobile Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp92710-HP EliteBook 7x0/8x0 G1 Windows 10 x64 Driver Pack",

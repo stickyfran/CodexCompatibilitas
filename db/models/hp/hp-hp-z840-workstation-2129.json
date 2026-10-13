@@ -8,6 +8,9 @@
     "2129",
     "HP Z840 Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80255-HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",

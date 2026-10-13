@@ -8,6 +8,9 @@
     "Latitude E5570",
     "06DF"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-441JC",

@@ -9,6 +9,9 @@
     "8F0C",
     "HP ZBook X G2i 16 inch Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp173906-HP ZBook X G2i MWS Windows11 Driver Pack",

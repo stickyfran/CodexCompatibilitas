@@ -8,6 +8,9 @@
     "Dell Pro Max 14 Premium MA14250",
     "0D32"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-GR86P",

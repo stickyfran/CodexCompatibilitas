@@ -8,6 +8,9 @@
     "8cf5",
     "HP ZBook Studio 16 inch G11 Mobile Workstation PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp160226-HP ZBook Studio G11 MWS Windows 11 Driver Pack",

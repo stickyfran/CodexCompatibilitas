@@ -11,6 +11,9 @@
     "11JL",
     "13E1"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-1903",

@@ -8,6 +8,9 @@
     "846f",
     "HP Engage Go Mobile System"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp112432-HP Engage Go G1 Win10 x64 Driver Pack",

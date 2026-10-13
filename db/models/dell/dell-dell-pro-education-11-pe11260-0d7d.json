@@ -8,6 +8,9 @@
     "Dell Pro Education 11 PE11260",
     "0D7D"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-96K0F",

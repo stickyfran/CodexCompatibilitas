@@ -8,6 +8,9 @@
     "XPS 13 9360",
     "075B"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-RTNJ7",

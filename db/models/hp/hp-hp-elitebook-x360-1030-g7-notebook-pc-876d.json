@@ -8,6 +8,9 @@
     "876d",
     "HP EliteBook x360 1030 G7 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp108939-HP EliteBook x360 1030/40 G7 Windows 10 Driver Pack",

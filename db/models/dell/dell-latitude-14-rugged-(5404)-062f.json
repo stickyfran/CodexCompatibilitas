@@ -8,6 +8,9 @@
     "Latitude 14 Rugged (5404)",
     "062F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-0X4M7",

@@ -10,6 +10,9 @@
     "8AC9",
     "HP Pro Mini 400 G9 PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp145699-HP Pro/Elite Mini 4/6/800 G9 Windows 10x64 Driver Pack",

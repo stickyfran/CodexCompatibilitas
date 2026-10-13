@@ -18,6 +18,9 @@
     "11G7",
     "11G6"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-1809",

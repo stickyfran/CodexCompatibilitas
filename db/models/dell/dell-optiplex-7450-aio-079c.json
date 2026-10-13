@@ -8,6 +8,9 @@
     "OptiPlex 7450 AIO",
     "079C"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-CMMF0",

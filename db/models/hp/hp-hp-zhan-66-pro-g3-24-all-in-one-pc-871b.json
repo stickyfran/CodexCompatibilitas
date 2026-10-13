@@ -11,6 +11,9 @@
     "8810",
     "HP ZHAN 66 Pro G3 24 All-in-One PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp144620-HP ProOne 4/600 G6 AiO Windows 11 Driver Pack",

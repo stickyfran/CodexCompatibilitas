@@ -8,6 +8,9 @@
     "Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260",
     "0E1A"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-JXVYW",

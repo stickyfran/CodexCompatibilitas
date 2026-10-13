@@ -8,6 +8,9 @@
     "OptiPlex AIO 7410",
     "0BCB"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-C7YJ8",

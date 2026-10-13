@@ -8,6 +8,9 @@
     "Latitude 3590",
     "083A"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-HFJ4R",

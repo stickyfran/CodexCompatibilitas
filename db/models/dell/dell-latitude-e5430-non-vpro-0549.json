@@ -8,6 +8,9 @@
     "Latitude E5430-non-vPro",
     "0549"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-0CYM6",

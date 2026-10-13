@@ -8,6 +8,9 @@
     "83f2",
     "HP ProDesk 400 G5 Small Form Factor PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp85217-HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",

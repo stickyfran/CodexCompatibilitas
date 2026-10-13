@@ -8,6 +8,9 @@
     "873E",
     "HP ZCentral 4R Workstation"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp147884-HP ZCentral 4R Windows 10 x64 Driver Pack",

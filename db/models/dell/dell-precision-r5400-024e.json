@@ -8,6 +8,9 @@
     "Precision R5400",
     "024E"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-6X46W",

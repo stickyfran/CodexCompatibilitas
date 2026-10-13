@@ -8,6 +8,9 @@
     "8E0D",
     "HP EliteBook 6 G1a 14 inch Notebook Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp174426-HP EliteBook 6 G1a Notebook Next Gen Windows 11 Driver Pack",

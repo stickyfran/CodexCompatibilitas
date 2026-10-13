@@ -8,6 +8,9 @@
     "8626",
     "HP ProDesk 405 G4 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp95002-HP ProDesk 405 G4 DM Win 10 x64 Driver Pack",

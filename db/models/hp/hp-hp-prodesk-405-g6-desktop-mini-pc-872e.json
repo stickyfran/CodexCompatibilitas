@@ -9,6 +9,9 @@
     "8836",
     "HP ProDesk 405 G6 Desktop Mini PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp111016-HP ElitePro 4/805 G6 DM Windows 10 x64 Driver Pack",

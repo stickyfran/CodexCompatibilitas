@@ -8,6 +8,9 @@
     "OptiPlex 360",
     "0294"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-35MNH",

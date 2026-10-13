@@ -8,6 +8,9 @@
     "Precision 7875 Tower",
     "0C61"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-6K46C",

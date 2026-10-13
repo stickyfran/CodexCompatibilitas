@@ -8,6 +8,9 @@
     "8886",
     "HP ProBook x360 435 G8 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp112708-HP ProBook x360 435 G8 Windows 10 x64 Driver Pack",

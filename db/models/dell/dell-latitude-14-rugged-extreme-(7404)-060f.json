@@ -8,6 +8,9 @@
     "Latitude 14 Rugged Extreme (7404)",
     "060F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-88C14",

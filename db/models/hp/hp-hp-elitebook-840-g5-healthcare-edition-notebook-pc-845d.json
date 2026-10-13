@@ -8,6 +8,9 @@
     "845d",
     "HP EliteBook 840 G5 Healthcare Edition Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp87003-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",

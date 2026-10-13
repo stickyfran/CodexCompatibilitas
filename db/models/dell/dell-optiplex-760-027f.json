@@ -8,6 +8,9 @@
     "OptiPlex 760",
     "027F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-YKCJ0",

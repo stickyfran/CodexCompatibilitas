@@ -8,6 +8,9 @@
     "Dell Pro Max 14 MC14250",
     "0CF0"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-T7HTK",

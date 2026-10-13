@@ -8,6 +8,9 @@
     "OptiPlex 7090 Tower",
     "0A52"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-C2R2G",

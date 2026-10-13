@@ -8,6 +8,9 @@
     "XPS 13 2in1 9310",
     "0A44"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-99FJJ",

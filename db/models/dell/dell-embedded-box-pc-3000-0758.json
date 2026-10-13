@@ -8,6 +8,9 @@
     "Embedded Box PC 3000",
     "0758"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-90PDY",

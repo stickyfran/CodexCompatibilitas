@@ -8,6 +8,9 @@
     "Latitude E7250",
     "062D"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-59X09",

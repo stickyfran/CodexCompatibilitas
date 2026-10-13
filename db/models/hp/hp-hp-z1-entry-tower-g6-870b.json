@@ -9,6 +9,9 @@
     "870c",
     "HP Z1 Entry Tower G6"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp123507-HP ElitePro 4/6/8x0 G6/7 PC Win 10 x64 Driver Pack",

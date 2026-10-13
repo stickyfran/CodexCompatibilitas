@@ -8,6 +8,9 @@
     "Latitude 10 - ST2",
     "0583"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-R8XJC",

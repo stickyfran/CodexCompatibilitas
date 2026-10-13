@@ -8,6 +8,9 @@
     "Precision T3610",
     "05D2"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-XPNV2",

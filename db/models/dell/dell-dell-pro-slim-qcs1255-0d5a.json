@@ -8,6 +8,9 @@
     "Dell Pro Slim QCS1255",
     "0D5A"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-T67MC",

@@ -8,6 +8,9 @@
     "895D",
     "HP Z2 SFF G9 Workstation Desktop PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp146391-HP Z2G9 Windows 10 x64 Driver Pack",

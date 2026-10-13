@@ -8,6 +8,9 @@
     "Latitude 3301",
     "094F"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-54X13",

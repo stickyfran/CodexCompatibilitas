@@ -9,6 +9,9 @@
     "8198",
     "HP Spectre Pro x360 G2 Convertible PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp80891-HP Spectre Pro x360 G2 Windows 10 x64 Driver Pack",

@@ -8,6 +8,9 @@
     "8e8a",
     "HP EliteBoard G1a Next Gen AI PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp173280-HP EliteBoard G1a Next Gen AI Windows 11 Driver Pack",

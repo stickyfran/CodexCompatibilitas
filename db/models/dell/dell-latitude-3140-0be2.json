@@ -8,6 +8,9 @@
     "Latitude 3140",
     "0BE2"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-VXNK8",

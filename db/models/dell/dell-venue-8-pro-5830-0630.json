@@ -8,6 +8,9 @@
     "Venue 8 Pro 5830",
     "0630"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-5VXCN",

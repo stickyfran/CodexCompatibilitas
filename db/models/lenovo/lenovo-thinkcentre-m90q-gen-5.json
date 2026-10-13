@@ -16,6 +16,9 @@
     "12TT",
     "12TV"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-22H2",

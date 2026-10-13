@@ -8,6 +8,9 @@
     "Precision T5600",
     "0496"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-674D0",

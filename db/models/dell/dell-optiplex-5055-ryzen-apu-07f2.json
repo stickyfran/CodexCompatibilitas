@@ -8,6 +8,9 @@
     "OptiPlex 5055 Ryzen APU",
     "07F2"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-CCG9P",

@@ -8,6 +8,9 @@
     "Embedded Box PC 5000",
     "0759"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-M2XHF",

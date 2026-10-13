@@ -8,6 +8,9 @@
     "888c",
     "HP Engage Go 10 Mobile System"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp144948-HP Engage Go 10 Mobile System IoT10 2019 Driver Pack",

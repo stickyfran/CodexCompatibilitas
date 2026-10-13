@@ -10,6 +10,9 @@
     "880D",
     "HP EliteBook 830 G8 Notebook PC"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "sp113369-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
