@@ -63,6 +63,18 @@
       "release_date": "6/14/2021 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteBook x360 1040 G5 Win 10 x64 Driver Pack",
+      "version": "10.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102088.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

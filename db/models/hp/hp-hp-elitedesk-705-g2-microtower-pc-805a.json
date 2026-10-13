@@ -83,6 +83,18 @@
       "release_date": "7/3/2020 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "version": "12.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100849.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

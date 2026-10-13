@@ -63,6 +63,18 @@
       "release_date": "6/4/2021 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook 15/17 G6 Win 10 x64 Driver Pack",
+      "version": "4.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101896.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

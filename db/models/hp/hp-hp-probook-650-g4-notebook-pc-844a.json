@@ -64,6 +64,51 @@
       "release_date": "6/15/2021 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "version": "12.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103616.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95435.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "version": "12.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103616.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95435.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

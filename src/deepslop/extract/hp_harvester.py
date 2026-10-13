@@ -12,12 +12,28 @@ console = Console()
 
 
 class HPMetaHarvester:
-    """Extrae metadatos y Hardware IDs de los archivos CVA de HP."""
+    """Extrae metadatos y Hardware IDs de los archivos CVA de HP vinculados a los productos del catálogo."""
 
     def __init__(self, catalog_xml_path: str, output_dir: str):
         self.catalog_xml_path = catalog_xml_path
         self.output_dir = output_dir
         os.makedirs(self.output_dir, exist_ok=True)
+        self.sp_to_system_ids: Dict[str, List[str]] = {}
+        self._load_product_mapping()
+
+    def _load_product_mapping(self):
+        tree = ET.parse(self.catalog_xml_path)
+        root = tree.getroot()
+        for p in root.findall(".//ProductOSDriverPack"):
+            sp = p.findtext("SoftPaqId", "").strip().lower()
+            sys_id = p.findtext("SystemId", "").strip()
+            if sp and sys_id:
+                if sp not in self.sp_to_system_ids:
+                    self.sp_to_system_ids[sp] = []
+                for s in sys_id.split(","):
+                    clean_s = s.strip().lower()
+                    if clean_s and clean_s not in self.sp_to_system_ids[sp]:
+                        self.sp_to_system_ids[sp].append(clean_s)
 
     def get_cva_targets(self) -> List[Tuple[str, str]]:
         tree = ET.parse(self.catalog_xml_path)
@@ -68,10 +84,13 @@ class HPMetaHarvester:
             for item in completed:
                 if item:
                     sp_id, driver, system_ids = item
-                    for sys_id in system_ids:
-                        if sys_id not in results:
-                            results[sys_id] = []
-                        results[sys_id].append(driver)
+                    # Unir los system_ids encontrados en el texto del CVA con los del catálogo XML
+                    all_sys_ids = set(system_ids + self.sp_to_system_ids.get(sp_id.lower(), []))
+                    for sys_id in all_sys_ids:
+                        clean_id = sys_id.strip().lower()
+                        if clean_id not in results:
+                            results[clean_id] = []
+                        results[clean_id].append(driver)
 
         return results
 
@@ -103,9 +122,8 @@ class HPMetaHarvester:
                 elif current_section == "general" and k == "version":
                     version = v
                 elif current_section == "system information":
-                    # HP enumera modelos y sysids
                     if "systemid" in k:
-                        system_ids.extend([s.strip() for s in v.split(",") if s.strip()])
+                        system_ids.extend([s.strip().lower() for s in v.split(",") if s.strip()])
                 elif "device" in current_section or "hardware" in current_section:
                     hwids.append(v)
 

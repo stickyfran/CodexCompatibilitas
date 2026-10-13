@@ -25,6 +25,40 @@
       "release_date": "4/5/2023 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "version": "11.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173508.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "version": "11.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173508.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "version": "11.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173508.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }
