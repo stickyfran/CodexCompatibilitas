@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-desktops-dell-pro-max-slim-fcs1250-0cfe",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Desktops",
+  "model_name": "Dell Pro Max Desktops Dell Pro Max Slim FCS1250",
+  "system_id": "0CFE",
+  "dmi_matches": [
+    "Dell Pro Max Desktops Dell Pro Max Slim FCS1250",
+    "Dell Pro Max Slim FCS1250",
+    "0CFE"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-PYX0C",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14278639M/1/FCS1250-PYX0C_Win10_1.0_A05.exe",
+      "size_bytes": 2861895728,
+      "md5": "24A703110E01F309DBE4774AE2B0D756",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-03-24T01:16:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

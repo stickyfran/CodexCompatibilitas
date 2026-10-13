@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-max-14-mc14255-0d80",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Max 14 MC14255",
+  "system_id": "0D80",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Max 14 MC14255",
+    "Dell Pro Max 14 MC14255",
+    "0D80"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-50P9Y",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14665684M/1/MC14255-50P9Y_Win11_1.0_A06.exe",
+      "size_bytes": 697016528,
+      "md5": "4E5696CC9AFC8BAACFD1B7E9D3B50D6E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

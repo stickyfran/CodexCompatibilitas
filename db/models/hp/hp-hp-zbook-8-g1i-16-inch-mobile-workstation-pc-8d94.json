@@ -1,0 +1,38 @@
+{
+  "id": "hp-hp-zbook-8-g1i-16-inch-mobile-workstation-pc-8d94",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 8 G1i 16 inch Mobile Workstation PC",
+  "system_id": "8d94",
+  "dmi_matches": [
+    "HP ZBook 8 G1i 16 inch Mobile Workstation PC",
+    "8d94"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp157757-HP Elite/ZBook 8 G1i NB/MWS Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157757.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "3/27/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp174297-HP Elite/ZBook 8 G1i NB/MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174297.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "8/11/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

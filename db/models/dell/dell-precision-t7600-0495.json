@@ -43,6 +43,249 @@
       "release_date": "2014-12-09T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Broadcom 57XX Driver/BACS Combined Package Driver",
+      "version": "17.4.2",
+      "url": "dell://0881V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Creative Labs Sound Blaster Recon3D PCIe Audio Card Driver",
+      "version": "V1.01.17",
+      "url": "dell://241T2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "LiteOn KeyBoard Driver",
+      "version": "4.0.8.5",
+      "url": "dell://207T0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6070",
+      "url": "dell://5P33P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 825xx 10/100/1000 Ethernet Network Driver",
+      "version": "17.4",
+      "url": "dell://615P2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "11.0.0.1153",
+      "url": "dell://KFR45_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Enterprise F6 Driver",
+      "version": "4.3.0.1198",
+      "url": "dell://6DD29_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 10 Gigabit X520 Adapters Driver",
+      "version": "17.2.0.0",
+      "url": "dell://V76GK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Unified AMT 7 WS Management Interface Driver",
+      "version": "7.1.70.1205",
+      "url": "dell://9WC69_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 353.30 for Windows 10 (32-bit).",
+      "version": "10.18.13.5330",
+      "url": "dell://VKN1R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 15.200.1045 for Windows 10 (32 and 64 bit).",
+      "version": "15.200.1045",
+      "url": "dell://MHGY8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Smartcard USB Keyboard Driver",
+      "version": "1.0",
+      "url": "dell://CCHT0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 57XX/BACS Combined Package Driver",
+      "version": "17.4.2",
+      "url": "dell://7R4RM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 15.200.1045 for Windows 10 (32 and 64 bit).",
+      "version": "15.200.1045",
+      "url": "dell://MHGY8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6070",
+      "url": "dell://5P33P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 825xx 10/100/1000 Ethernet Network Driver",
+      "version": "17.4",
+      "url": "dell://615P2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "11.0.0.1153",
+      "url": "dell://KFR45_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Enterprise F6 Driver",
+      "version": "4.3.0.1198",
+      "url": "dell://6DD29_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 353.30 for Windows 10 (64-bit).",
+      "version": "10.18.13.5330",
+      "url": "dell://H92FX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Unified AMT 7 WS Management Interface Driver",
+      "version": "7.1.70.1205",
+      "url": "dell://9WC69_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 10 Gigabit X520 Adapters Driver",
+      "version": "17.2.0.0",
+      "url": "dell://V76GK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Creative Labs Sound Blaster Recon3D PCIe Audio Card Driver",
+      "version": "V1.01.17",
+      "url": "dell://241T2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

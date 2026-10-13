@@ -43,6 +43,194 @@
       "release_date": "2016-02-08T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Collaborative Processor Performance Control Driver",
+      "version": "1.0.0.1018",
+      "url": "dell://C716G_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver",
+      "version": "14.5.0.1081",
+      "url": "dell://304PR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework Driver",
+      "version": "8.1.10600.147",
+      "url": "dell://0PGPG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Bizlink USB3.0 GBE Dongle Driver",
+      "version": "10.1.506.2015",
+      "url": "dell://0MKFC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel 9 Series Chipset Driver",
+      "version": "10.1.1.7",
+      "url": "dell://88RDD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10586.21289",
+      "url": "dell://MDR6D_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "20.19.15.4531",
+      "url": "dell://RTWTF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1560 Bluetooth Driver",
+      "version": "12.0.1.653",
+      "url": "dell://PJXKF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.1.0.21",
+      "url": "dell://VTKF1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "1.1.253.0",
+      "url": "dell://8RHJJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1560 WiFi Driver",
+      "version": "7.35.333.0",
+      "url": "dell://WD22T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Dual Band Wireless-AC 7265 Driver",
+      "version": "18.20.0",
+      "url": "dell://JT9F4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260 Bluetooth Driver",
+      "version": "18.1.1602.2934",
+      "url": "dell://D0X5H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "1.1.0.310",
+      "url": "dell://NP4FH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek Audio ALC3263 Driver",
+      "version": "6.4.10041.127",
+      "url": "dell://8FWK0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.7.0.1035",
+      "url": "dell://4J8MX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel PROSet/Wireless Bluetooth LEGUI Driver",
+      "version": "17.1.1525.1443",
+      "url": "dell://0KJ2P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

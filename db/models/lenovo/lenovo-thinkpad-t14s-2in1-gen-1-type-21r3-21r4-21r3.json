@@ -1,0 +1,48 @@
+{
+  "id": "lenovo-thinkpad-t14s-2in1-gen-1-type-21r3-21r4-21r3",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T14S 2IN1 Gen 1 Type 21R3 21R4 (Type 21R3)",
+  "system_id": "21R3",
+  "dmi_matches": [
+    "ThinkPad T14S 2IN1 Gen 1 Type 21R3 21R4",
+    "21R3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen6_mt21r1-21r2-t14s_2-in-1_gen1_mt21r3-21r4_w11_23_202512.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-28"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen6_mt21r1-21r2-t14s_2-in-1_gen1_mt21r3-21r4_w11_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-28"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen6_mt21r1-21r2-t14s_2-in-1_gen1_mt21r3-21r4_w11_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

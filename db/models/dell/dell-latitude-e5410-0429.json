@@ -43,6 +43,249 @@
       "release_date": "2014-07-18T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC",
+      "version": "16.4.0",
+      "url": "dell://YMHGV_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5540 HSPA Mini Card",
+      "version": "R2AA06",
+      "url": "dell://R283078",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Conexant D330 Modem Digital Line Detect v.92 Modem;Conexant D330 Modem Daughter Card 1.5 Modem",
+      "version": "MUP_Drv_XP_Vista_Win7_v01",
+      "url": "dell://51X8V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Broadcom Trusted Platform Module (TPM)",
+      "version": "2.0.0.11",
+      "url": "dell://WH2VV_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics;Intel GMA HD Graphics;Intel GMA HD",
+      "version": "6.14.10.5408",
+      "url": "dell://D58KC_A10-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250",
+      "version": "2.00.0011",
+      "url": "dell://G0D48_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel WiFi Link 6300;Intel WiFi Link 6200;Intel WiFi Link 6205",
+      "version": "15.3.1000.1637",
+      "url": "dell://FDGM0_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "controlpoint",
+      "name": "ASSY,BASE,NBK,LAT,E6510,EM,C1;ASSY,BASE,NBK,I,DTP,P,E6410,C2;ASSY,BASE,NBK,I,DTP,P,E6410,C3;ASSY,BASE,NBK,L13,FCG01,UK",
+      "version": "1.4.053",
+      "url": "dell://HG3V1_A17-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Conexant D400 External USB 56K Modem",
+      "version": "MUP_Drv_XP_Vista_Win7_v01",
+      "url": "dell://RF3W7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5620 EVDO-HSPA Mobile Broadband Mini Card",
+      "version": "1.1.146",
+      "url": "dell://WMCVT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology (Pre-OS Install);Intel Rapid Storage Technology",
+      "version": "9.6.0.1014",
+      "url": "dell://WFT09_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Alps Multi-Touch Touchpad",
+      "version": "7.1208.101.125",
+      "url": "dell://4XKP7_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Unified Management Engine",
+      "version": "6.2.0.1022 PV",
+      "url": "dell://6JNMJ_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "IDT 92HDxxx HD Audio;IDT 92HD93 HD Audio",
+      "version": "5.10.0.6285",
+      "url": "dell://6MY00_A13-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1030",
+      "url": "dell://R302424",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1520 802.11n MiniCard WLAN;Dell Wireless WLAN 1510 Half MiniCard (4322);Dell Wireless WLAN 1501 Half Mini-Card (4313bgn);Dell Wireless WLAN 1501 Half Mini Card;Dell Wireless WLAN 1397 Half MiniCard (4312bg)",
+      "version": "A37",
+      "url": "dell://M43X5_A37-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Sensor",
+      "version": "2.0.10.34",
+      "url": "dell://RCHTX_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "LiteOn KeyBoard Driver",
+      "version": "4.0.8.5",
+      "url": "dell://207T0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5620 EVDO-HSPA Mobile Broadband Mini-Card",
+      "version": "1.1.170",
+      "url": "dell://R280717",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Ricoh R5U24x Memory Card Reader;Ricoh R5U24x / R5U23x Memory Card;Ricoh R5C847/R5U24x Memory Card Reader",
+      "version": "2.11.01.02",
+      "url": "dell://NFP0X_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Wireless 375 Bluetooth Module",
+      "version": "5.6.0.3900",
+      "url": "dell://KCN21_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "ZTE IC Trusted Cryptography Module(TCM);ZTE IC Trusted Cryptography Module (TCM)",
+      "version": "2.1.5.04",
+      "url": "dell://JK4VM_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3470-0bc1",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3470",
+  "system_id": "0BC1",
+  "dmi_matches": [
+    "Precision Precision 3470",
+    "Precision 3470",
+    "0BC1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-T3YVN",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11657896M/1/Precision-3470-T3YVN_Win10_1.0_A04.exe",
+      "size_bytes": 3248180096,
+      "md5": "06FB448473B42FE68841BF9040AF9326",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    },
+    {
+      "name": "DellPack-T93JX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11657897M/1/Precision-3470-T93JX_Win11_1.0_A02.exe",
+      "size_bytes": 3246911920,
+      "md5": "30FC535AD5DCB0F3F1C379E5BF2599E3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

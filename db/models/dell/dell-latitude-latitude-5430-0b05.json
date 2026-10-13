@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-5430-0b05",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 5430",
+  "system_id": "0B05",
+  "dmi_matches": [
+    "Latitude Latitude 5430",
+    "Latitude 5430",
+    "0B05"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-R7DNM",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12854081M/1/Latitude-5430-R7DNM_Win10_1.0_A13.exe",
+      "size_bytes": 1579941048,
+      "md5": "07A7D0E2B92313ECF53BEAA651CBC3D1",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    },
+    {
+      "name": "DellPack-RRD1V",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12854082M/1/Latitude-5430-RRD1V_Win11_1.0_A13.exe",
+      "size_bytes": 1574972936,
+      "md5": "9623982C90F02DBC8BB10B3AD5E4296B",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

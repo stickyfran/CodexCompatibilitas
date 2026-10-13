@@ -1,0 +1,48 @@
+{
+  "id": "lenovo-thinkpad-l13-2-in-1-gen-6-type-21r7-21r8-21r7",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad L13 2 IN 1 Gen 6 Type 21R7 21R8 (Type 21R7)",
+  "system_id": "21R7",
+  "dmi_matches": [
+    "ThinkPad L13 2 IN 1 Gen 6 Type 21R7 21R8",
+    "21R7"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-6_s2-gen-10_l13-2-in-1-gen-6_s2-2-in-1-gen-10_intel_w11_23h2_202601.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-02-03"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-6_l13-2-in-1-gen-6_intel_w11_24h2_202609.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-23"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-6_l13-2-in-1-gen-6_intel_w11_25h2_202609.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

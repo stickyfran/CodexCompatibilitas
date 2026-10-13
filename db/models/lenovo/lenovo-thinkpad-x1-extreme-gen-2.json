@@ -133,6 +133,18 @@
       "release_date": "2023-01-05"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "lenovo://tp_x1extreme_mt20qv-20qw-p1_mt20qt-20qu_w1064_1809_202009.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-max-desktops-dell-pro-precision-7-t1-pw7t1260-0df9",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Desktops",
+  "model_name": "Dell Pro Max Desktops Dell Pro Precision 7 T1 PW7T1260",
+  "system_id": "0DF9",
+  "dmi_matches": [
+    "Dell Pro Max Desktops Dell Pro Precision 7 T1 PW7T1260",
+    "Dell Pro Precision 7 T1 PW7T1260",
+    "0DF9"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-KYYN1",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13995252M/1/PW7T1260-KYYN1_Win10_1.0_A00.exe",
+      "size_bytes": 2339660680,
+      "md5": "43CE1D353DF1531E9701F999A7F6F293",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-01-23T07:00:22"
+    },
+    {
+      "name": "DellPack-6FMRG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13995282M/1/PW7T1260-6FMRG_Win11_1.0_A00.exe",
+      "size_bytes": 2339788536,
+      "md5": "E45758B5455AD424F8A60756CB40D026",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-01-23T07:00:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

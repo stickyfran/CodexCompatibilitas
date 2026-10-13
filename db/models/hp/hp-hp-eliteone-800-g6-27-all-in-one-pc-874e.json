@@ -32,6 +32,26 @@
       "sha256": null,
       "version": "8.00 A 1",
       "release_date": "2/19/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp123503-HP EliteOne 800 G6 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123503.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp143099-HP EliteOne 800 G6 AiO Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143099.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "11/7/2022 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

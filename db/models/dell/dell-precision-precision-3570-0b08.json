@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3570-0b08",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3570",
+  "system_id": "0B08",
+  "dmi_matches": [
+    "Precision Precision 3570",
+    "Precision 3570",
+    "0B08"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-KPY8K",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12858538M/1/Precision-3570-KPY8K_Win10_1.0_A15.exe",
+      "size_bytes": 2743736088,
+      "md5": "443F2EE898790357D21EC72C72107614",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    },
+    {
+      "name": "DellPack-4KYR2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12858537M/1/Precision-3570-4KYR2_Win11_1.0_A14.exe",
+      "size_bytes": 2738702576,
+      "md5": "CAF339FE528E2AE46B58720C85F83F7B",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

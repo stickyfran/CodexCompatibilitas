@@ -1,0 +1,58 @@
+{
+  "id": "lenovo-thinkcentre-m70a-11e2",
+  "vendor": "Lenovo",
+  "family": "Thinkcentre",
+  "model_name": "ThinkCentre M70A (Type 11E2)",
+  "system_id": "11E2",
+  "dmi_matches": [
+    "ThinkCentre M70A",
+    "11E2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70a_gen1_w1064_1809_202209.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-09-28"
+    },
+    {
+      "name": "LenovoSCCM-2004",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70a_w1064_2004_202011.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-09-28"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70a_gen1_w1064_21h2_202209.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-09-28"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70a_gen1_w1164_21h2_202209.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-09-28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

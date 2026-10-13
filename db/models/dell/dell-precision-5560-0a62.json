@@ -33,6 +33,216 @@
       "release_date": "2023-07-06T23:45:27"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Application",
+      "version": "18.7.1.1003",
+      "url": "dell://8KYW6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "application",
+      "name": "Dell PremierColor Panel Driver",
+      "version": "1.0.0.0",
+      "url": "dell://699N2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "1.41.1335.0",
+      "url": "dell://TBTB4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Tuning Driver",
+      "version": "8.7.10800.23155",
+      "url": "dell://HM3HN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer AX1690/AX1675/AX1650 and Intel AX411/AX211/AX210/AX201/AX200/9560/9462/9260/8265/8260/7265/3165 Bluetooth UWD Driver",
+      "version": "22.200.0.2",
+      "url": "dell://XJFW3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.384",
+      "url": "dell://V2HFM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18698.8258",
+      "url": "dell://22X5D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.9481.1",
+      "url": "dell://FFC2D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2302.4.5.0",
+      "url": "dell://PVT7D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Goodix Fingerprint Sensor Driver",
+      "version": "3.4.39.260",
+      "url": "dell://V30Y0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.22000.21350",
+      "url": "dell://V7D59_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.2104.1",
+      "url": "dell://55PHH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio DCH Driver",
+      "version": "6.3.9600.2330",
+      "url": "dell://7366F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Integrated Sensor Solution Driver",
+      "version": "3.10.100.4477",
+      "url": "dell://0FM72_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "1153.10.20.1104",
+      "url": "dell://YK00J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel AX411/AX211/AX210/AX201/AX200/9560/9462/9260/8265/8260/7265/3165 Wi-Fi UWD Driver",
+      "version": "22.200.2.1",
+      "url": "dell://WHK54_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "3.0.0",
+      "url": "dell://MTM06_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD/Iris Xe Graphics Driver",
+      "version": "31.0.101.3616",
+      "url": "dell://RXVD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro T1200 and RTX A2000 Graphics Driver",
+      "version": "31.0.15.2879",
+      "url": "dell://CJN0Y_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

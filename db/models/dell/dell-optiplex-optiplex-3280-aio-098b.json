@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-3280-aio-098b",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 3280 AIO",
+  "system_id": "098B",
+  "dmi_matches": [
+    "Optiplex OptiPlex 3280 AIO",
+    "OptiPlex 3280 AIO",
+    "098B"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-VJ332",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11655190M/1/3280-AIO-VJ332_Win10_1.0_A19.exe",
+      "size_bytes": 1462822808,
+      "md5": "36FF459892B12A00388D5C5EF2EA97C4",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    },
+    {
+      "name": "DellPack-VTN8D",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11655193M/1/3280-AIO-VTN8D_Win11_1.0_A08.exe",
+      "size_bytes": 1456402520,
+      "md5": "0C090FBFBFE8539D1D3DA49AD3B76F6F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

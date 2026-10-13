@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkstation-p3-ultra-sff-gen-2-30j4",
+  "vendor": "Lenovo",
+  "family": "Thinkstation",
+  "model_name": "ThinkStation P3 ULTRA SFF Gen 2 (Type 30J4)",
+  "system_id": "30J4",
+  "dmi_matches": [
+    "ThinkStation P3 ULTRA SFF Gen 2",
+    "30J4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p3_ultra_g2_w1164_25h2_202601.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-01-13"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p3_ultra_g2_w1164_25h2_202601.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-01-13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

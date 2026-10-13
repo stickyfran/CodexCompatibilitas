@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-5340-0c04",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 5340",
+  "system_id": "0C04",
+  "dmi_matches": [
+    "Latitude Latitude 5340",
+    "Latitude 5340",
+    "0C04"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-YTNDG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13733402M/1/Latitude-5340-YTNDG_Win10_1.0_A11.exe",
+      "size_bytes": 1188083224,
+      "md5": "464759CFA7FF35DB062EDA8BE27BBD95",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    },
+    {
+      "name": "DellPack-30VC2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14425684M/1/Latitude-5340-30VC2_Win11_1.0_A12.exe",
+      "size_bytes": 1490238264,
+      "md5": "D15830640798E615C99B7A199C0ABEA3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dell-xps-notebook-xps-14-9440-0c6b",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook XPS 14 9440",
+  "system_id": "0C6B",
+  "dmi_matches": [
+    "XPS Notebook XPS 14 9440",
+    "XPS 14 9440",
+    "0C6B"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-49RJY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14229771M/1/XPS-14-9440-49RJY_Win11_1.0_A10.exe",
+      "size_bytes": 2094564104,
+      "md5": "1403B1E07BAEA6CE4C100F145547F151",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

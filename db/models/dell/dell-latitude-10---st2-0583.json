@@ -33,6 +33,139 @@
       "release_date": "2014-12-09T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell Smartcard USB Keyboard",
+      "version": "1.0",
+      "url": "dell://CCHT0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Clovertrail UMA Graphic",
+      "version": "9.14.3.1168",
+      "url": "dell://MVD9Y_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "SMSC LAN9500",
+      "version": "v2.6.0.4",
+      "url": "dell://TDRYP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Authentec AE850 Finger Print",
+      "version": "1.6.1.345",
+      "url": "dell://W89C0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "SMSC LAN7500",
+      "version": "2.2.2.2",
+      "url": "dell://R84GF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Encryption",
+      "version": "v8.4.0",
+      "url": "dell://948DT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom BCM47511 Standalone GPS Solution",
+      "version": "19.14.6362.4",
+      "url": "dell://P0P15_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom Wireless WLAN BT 1536C Half MiniCard",
+      "version": "12.0",
+      "url": "dell://4Y0Y8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage controller",
+      "name": "Smart Card Reader - O2Micro / OZ77CR6;O2Micro Memory Card Reader",
+      "version": "V1.1.4.223",
+      "url": "dell://9W4JK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5565 HSPA WWAN;ASSY,PWA,DTRBD,DW5565,HF;Dell Wireless 5565 HSPA+ WWAN",
+      "version": "8.1.0.7",
+      "url": "dell://324G9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5570 HSPA+ (42Mbps) Mobile Broadband Card;Dell Wireless 5806 Gobi 4G LTE Mobile Broadband Card",
+      "version": "2.16.1302.0",
+      "url": "dell://291RY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Access",
+      "version": "2.3.00003.071",
+      "url": "dell://R5JT9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

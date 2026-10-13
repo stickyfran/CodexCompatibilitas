@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3520-0a85",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3520",
+  "system_id": "0A85",
+  "dmi_matches": [
+    "Latitude Latitude 3520",
+    "Latitude 3520",
+    "0A85"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-VR5J8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11552489M/1/Latitude-3520-VR5J8_Win10_1.0_A16.exe",
+      "size_bytes": 3341599016,
+      "md5": "7F9CE95E7BC0C97F17C9484DFB285E00",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-05-13T01:58:46"
+    },
+    {
+      "name": "DellPack-R5RR9",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11552488M/1/Latitude-3520-R5RR9_Win11_1.0_A09.exe",
+      "size_bytes": 3336819944,
+      "md5": "7038C70E6B7FE37B5C3B43A12D77F093",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-05-13T01:58:46"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

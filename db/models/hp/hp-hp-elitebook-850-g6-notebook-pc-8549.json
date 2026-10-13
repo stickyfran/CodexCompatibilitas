@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-elitebook-850-g6-notebook-pc-8549",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 850 G6 Notebook PC",
+  "system_id": "8549",
+  "dmi_matches": [
+    "HP EliteBook 850 G6 Notebook PC",
+    "8549"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp99665-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99665.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/31/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100597-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100597.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/21/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110579-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110579.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114161-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114161.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "6/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

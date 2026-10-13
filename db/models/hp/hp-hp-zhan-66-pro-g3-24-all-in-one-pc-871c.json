@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-zhan-66-pro-g3-24-all-in-one-pc-871c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro G3 24 All-in-One PC",
+  "system_id": "871c",
+  "dmi_matches": [
+    "HP ZHAN 66 Pro G3 24 All-in-One PC",
+    "871c"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp123509-HP ProOne 4/600 G6 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123509.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp105884-HP ProOne 4/600 G6 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105884.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/2/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp144594-HP ProOne 4/600 G6 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144594.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "3/2/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp144620-HP ProOne 4/600 G6 AiO Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144620.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

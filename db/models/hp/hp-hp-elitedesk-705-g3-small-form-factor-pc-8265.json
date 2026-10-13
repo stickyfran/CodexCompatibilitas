@@ -1,0 +1,98 @@
+{
+  "id": "hp-hp-elitedesk-705-g3-small-form-factor-pc-8265",
+  "vendor": "HP",
+  "family": "Elitedesk",
+  "model_name": "HP EliteDesk 705 G3 Small Form Factor PC",
+  "system_id": "8265",
+  "dmi_matches": [
+    "HP EliteDesk 705 G3 Small Form Factor PC",
+    "8265"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp79039-HP EliteDesk 705 G3 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79039.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/13/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp83810-HP EliteDesk 705 G3 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp83501-84000/sp83810.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "11/18/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp90191-HP EliteDesk 705 G3 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90191.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "13.0 A 1",
+      "release_date": "7/25/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95328-HP EliteDesk 705 G3 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95328.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "15.0 A 1",
+      "release_date": "3/12/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp96059-HP EliteDesk 705 G3 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96059.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "16.0 A 1",
+      "release_date": "5/2/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100030-HP EliteDesk 705 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100030.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "17.0 A 1",
+      "release_date": "11/6/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp105595-HP EliteDesk 705 G3 Windows10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105595.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "18.0 A 1",
+      "release_date": "6/18/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp111957-HP EliteDesk 705 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111957.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "19.0 A 1",
+      "release_date": "12/28/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7420-0a37",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7420",
+  "system_id": "0A37",
+  "dmi_matches": [
+    "Latitude Latitude 7420",
+    "Latitude 7420",
+    "0A37"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-TXK42",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER10951429M/1/7420-TXK42_Win10_1.0_A12.exe",
+      "size_bytes": 1629205184,
+      "md5": "237CA04FBC20119FE1F78A80B5719CCD",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    },
+    {
+      "name": "DellPack-16KXP",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER10951470M/1/7420-16KXP_Win11_1.0_A07.exe",
+      "size_bytes": 1256357440,
+      "md5": "88B026A0402E57C3F5438B8D73EDD3B0",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

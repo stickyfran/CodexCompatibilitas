@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3410-09f1",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3410",
+  "system_id": "09F1",
+  "dmi_matches": [
+    "Latitude Latitude 3410",
+    "Latitude 3410",
+    "09F1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-FCN1X",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11311933M/1/3410-FCN1X_Win10_1.0_A14.exe",
+      "size_bytes": 2480560728,
+      "md5": "DD0C9E9A9580C22A34A634EBF995D1CB",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    },
+    {
+      "name": "DellPack-2K4XM",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11311931M/1/3410-2K4XM_Win11_1.0_A03.exe",
+      "size_bytes": 2480861048,
+      "md5": "D33AE3590BB890EE6C1D5AD203EDC0B8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

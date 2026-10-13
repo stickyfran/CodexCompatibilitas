@@ -1,0 +1,48 @@
+{
+  "id": "lenovo-thinkpad-x1-2-in-1-gen-10-type-21nu-21nv-21nv",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X1 2 IN 1 Gen 10 Type 21NU 21NV (Type 21NV)",
+  "system_id": "21NV",
+  "dmi_matches": [
+    "ThinkPad X1 2 IN 1 Gen 10 Type 21NU 21NV",
+    "21NV"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21ns-21nt-x1_2-in-1_mt21nu-21nv_w11_23_202512.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-12-22"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21ns-21nt-x1_2-in-1_mt21nu-21nv_w11_24_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-12"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21ns-21nt-x1_2-in-1_mt21nu-21nv_w11_25_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

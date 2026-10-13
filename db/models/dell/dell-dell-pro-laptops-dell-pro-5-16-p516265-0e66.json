@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-5-16-p516265-0e66",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 5 16 P516265",
+  "system_id": "0E66",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 5 16 P516265",
+    "Dell Pro 5 16 P516265",
+    "0E66"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-5FJYF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14857814M/1/P516265-5FJYF_Win11_1.0_A01.exe",
+      "size_bytes": 1057113800,
+      "md5": "CB18FEE74F60CC5540CBFB83E41E0EB8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

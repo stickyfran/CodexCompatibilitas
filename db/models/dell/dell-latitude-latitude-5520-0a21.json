@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-5520-0a21",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 5520",
+  "system_id": "0A21",
+  "dmi_matches": [
+    "Latitude Latitude 5520",
+    "Latitude 5520",
+    "0A21"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-7X6JY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11790727M/1/Latitude-5520-7X6JY_Win10_1.0_A20.exe",
+      "size_bytes": 3149770720,
+      "md5": "BB32FA6CA5B22AF35166BF371F038C00",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-6WMJ8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11790730M/1/Latitude-5520-6WMJ8_Win11_1.0_A12.exe",
+      "size_bytes": 3150065664,
+      "md5": "922BB39C70A6E262566C81C5350037E3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

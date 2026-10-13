@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-160-02c3",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex 160",
+  "system_id": "02C3",
+  "dmi_matches": [
+    "Optiplex 160",
+    "OptiPlex 7010",
+    "02C3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-JFH0G",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02291001M/1/160-vista-A01-JFH0G.CAB",
+      "size_bytes": 72429980,
+      "md5": "4B4B4330EBFF3E9F353D2C3D7B4450F6",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-2CFT1",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02249582M/1/160-xp-A01-2CFT1.CAB",
+      "size_bytes": 11741656,
+      "md5": "C8837120167C51F7F6D736454FC6372F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

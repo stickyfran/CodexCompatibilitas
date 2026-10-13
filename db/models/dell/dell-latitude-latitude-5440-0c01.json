@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-5440-0c01",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 5440",
+  "system_id": "0C01",
+  "dmi_matches": [
+    "Latitude Latitude 5440",
+    "Latitude 5440",
+    "0C01"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-CWHF7",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14424318M/1/Latitude-5440-CWHF7_Win10_1.0_A14.exe",
+      "size_bytes": 2238816960,
+      "md5": "F6A42FEBB3C4804A58FDA4180063C22C",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-3M32T",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14424319M/1/Latitude-5440-3M32T_Win11_1.0_A14.exe",
+      "size_bytes": 2239547432,
+      "md5": "D1C8FC1DFC0F3B8F1A943F3AAB533CFF",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

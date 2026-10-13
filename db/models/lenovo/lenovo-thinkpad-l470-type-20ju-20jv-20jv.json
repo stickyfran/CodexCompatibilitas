@@ -1,0 +1,60 @@
+{
+  "id": "lenovo-thinkpad-l470-type-20ju-20jv-20jv",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad L470 Type 20JU 20JV (Type 20JV)",
+  "system_id": "20JV",
+  "dmi_matches": [
+    "ThinkPad L470 Type 20JU 20JV",
+    "20JV"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1607",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l470_skl_w1064_202003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-04-22"
+    },
+    {
+      "name": "LenovoSCCM-20H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l470_w1064_202011.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-12-17"
+    },
+    {
+      "name": "LenovoSCCM-21H1",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/TP_L470_W1064_21H1_202105.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-05-26"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "lenovo://tp_l470_w1064_202011.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

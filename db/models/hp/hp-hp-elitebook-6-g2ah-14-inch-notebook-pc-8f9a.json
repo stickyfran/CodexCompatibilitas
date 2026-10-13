@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-6-g2ah-14-inch-notebook-pc-8f9a",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 6 G2ah 14 inch Notebook PC",
+  "system_id": "8F9A",
+  "dmi_matches": [
+    "HP EliteBook 6 G2ah 14 inch Notebook PC",
+    "8F9A"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp173107-HP Pro/EliteBook 4/6 G2a/G2ah NB Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173107.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/15/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

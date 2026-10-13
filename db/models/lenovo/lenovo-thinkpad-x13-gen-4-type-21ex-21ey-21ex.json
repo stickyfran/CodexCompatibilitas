@@ -1,0 +1,88 @@
+{
+  "id": "lenovo-thinkpad-x13-gen-4-type-21ex-21ey-21ex",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X13 Gen 4 Type 21EX 21EY (Type 21EX)",
+  "system_id": "21EX",
+  "dmi_matches": [
+    "ThinkPad X13 Gen 4 Type 21EX 21EY",
+    "21EX"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen4_mt21ex-21ey-x13y_gen4_mt21f2-21f3_w1064_21h2_202508.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen4_mt21ex-21ey-x13y_gen4_mt21f2-21f3_w1064_22h2_202508.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen4_mt21ex-21ey-x13y_gen4_mt21f2-21f3_w11_21_202406.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-01"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen4_mt21ex-21ey-x13y_gen4_mt21f2-21f3_w11_22_202508.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen4_mt21ex-21ey-x13y_gen4_mt21f2-21f3_w11_22_202508.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen4_mt21ex-21ey-x13y_gen4_mt21f2-21f3_w11_24_202508.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen4_mt21ex_21ey_x13y_gen4_mt21f2_21f3_w11_25h2_202601.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-02-09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

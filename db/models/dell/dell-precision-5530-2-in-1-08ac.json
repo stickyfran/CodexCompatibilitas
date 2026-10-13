@@ -33,6 +33,238 @@
       "release_date": "2024-01-22T07:15:21"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.16299.20038",
+      "url": "dell://8X9XJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "1.41.1193.0",
+      "url": "dell://TBTC0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon RX Vega Graphics Driver",
+      "version": "30.0.13025.1000",
+      "url": "dell://RCDDY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.4.11000.6436",
+      "url": "dell://W24TN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Goodix Fingerprint Sensor Driver",
+      "version": "3.31.30.110",
+      "url": "dell://KP8ND_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.377",
+      "url": "dell://33CDY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "27.20.100.9664",
+      "url": "dell://6D0DP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio DCH Driver",
+      "version": "6.3.9600.2299",
+      "url": "dell://KDGRR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.1943.2",
+      "url": "dell://6CYP4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "2.2.1.31",
+      "url": "dell://04DM5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2105.15.0.2157",
+      "url": "dell://T68M3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell://5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Integrated Sensor Solution Driver",
+      "version": "3.10.100.3527",
+      "url": "dell://8PFV9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.9008.1",
+      "url": "dell://HY5TT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer AX1650/1675 and Intel AX200/AX201/AX210/3165/9260/9560/9462/8265/8260/7265 Bluetooth UWD Driver",
+      "version": "22.70.0.3",
+      "url": "dell://VRV99_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.19041.21337",
+      "url": "dell://F2GF9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB eXtensible Host Controller Driver",
+      "version": "1.16.61.1",
+      "url": "dell://68PNM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "16.8.3.1004",
+      "url": "dell://2PMT8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Software Guard Extensions Platform Software",
+      "version": "2.2.100.47975",
+      "url": "dell://512PC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2021.0929",
+      "url": "dell://WCGPP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 3165/7265/8260/8265 Wi-Fi driver",
+      "version": "22.70.0.6",
+      "url": "dell://7189M_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

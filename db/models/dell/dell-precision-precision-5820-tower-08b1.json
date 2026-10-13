@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5820-tower-08b1",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5820 Tower",
+  "system_id": "08B1",
+  "dmi_matches": [
+    "Precision Precision 5820 Tower",
+    "Precision 5820 Tower",
+    "08B1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-V63WG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER05556055M/1/Precision 5820 Tower-win7-A04-V63WG.CAB",
+      "size_bytes": 722464893,
+      "md5": "1CA23B3D805052615E729FCC65828E0E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-05-14T00:00:00"
+    },
+    {
+      "name": "DellPack-12CM4",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER10865490M/1/Precision-5820-Tower-12CM4_Win11_1.0_A05.exe",
+      "size_bytes": 2891197704,
+      "md5": "38B526A259D1E3D7EDD37343C1786584",
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-11-24T15:35:13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

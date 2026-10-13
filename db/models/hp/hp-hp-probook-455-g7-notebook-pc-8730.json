@@ -1,0 +1,48 @@
+{
+  "id": "hp-hp-probook-455-g7-notebook-pc-8730",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455 G7 Notebook PC",
+  "system_id": "8730",
+  "dmi_matches": [
+    "HP ProBook 455 G7 Notebook PC",
+    "8730"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp107648-HP ProBook 4x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp107501-108000/sp107648.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "8/17/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp142806-HP ProBook 4x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142806.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "10/6/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp142807-HP ProBook 4x5 G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142807.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/6/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

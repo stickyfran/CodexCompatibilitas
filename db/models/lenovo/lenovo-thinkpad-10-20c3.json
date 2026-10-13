@@ -1,0 +1,40 @@
+{
+  "id": "lenovo-thinkpad-10-20c3",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad 10 (Type 20C3)",
+  "system_id": "20C3",
+  "dmi_matches": [
+    "ThinkPad 10",
+    "20C3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-*",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp10_mt20c1-20c3_w1064_201509.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-09-25"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "lenovo://tp10_mt20c1-20c3_w1064_201509.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

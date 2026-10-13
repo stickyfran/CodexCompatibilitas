@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-desktops-dell-pro-24-all-in-one-qc24250-qc24251-plus-qb24250-0ced",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Desktops Dell Pro 24 All-in-One QC24250/QC24251/Plus QB24250",
+  "system_id": "0CED",
+  "dmi_matches": [
+    "Dell Pro Desktops Dell Pro 24 All-in-One QC24250/QC24251/Plus QB24250",
+    "Dell Pro 24 All-in-One QC24250/QC24251/Plus QB24250",
+    "0CED"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-G0PFW",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14621299M/1/Qx2425x-G0PFW_Win10_1.0_A05.exe",
+      "size_bytes": 2006444376,
+      "md5": "D27C056E0D2801CDBA78FECDD42F23F3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-10T00:33:17"
+    },
+    {
+      "name": "DellPack-P8RMD",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14625150M/1/Qx2425x-P8RMD_Win11_1.0_A05.exe",
+      "size_bytes": 2009313320,
+      "md5": "9D5342C610F3784CEAB2B655745726B1",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-10T00:33:17"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

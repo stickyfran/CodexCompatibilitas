@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkpad-l13-gen-7-type-21xr-21xs-21xs",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad L13 Gen 7 Type 21XR 21XS (Type 21XS)",
+  "system_id": "21XS",
+  "dmi_matches": [
+    "ThinkPad L13 Gen 7 Type 21XR 21XS",
+    "21XS"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-7_l13-2-in-1-gen-7_intel_w11_24h2_202609.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-23"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-7_l13-2-in-1-gen-7_intel_w11_25h2_202609.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

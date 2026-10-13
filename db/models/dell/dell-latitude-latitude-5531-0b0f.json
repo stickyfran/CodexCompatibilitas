@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-5531-0b0f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 5531",
+  "system_id": "0B0F",
+  "dmi_matches": [
+    "Latitude Latitude 5531",
+    "Latitude 5531",
+    "0B0F"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-8J3VC",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12825424M/1/Latitude-5531-8J3VC_Win10_1.0_A16.exe",
+      "size_bytes": 2913099528,
+      "md5": "420B80799CB246F267861AFF1D2DC095",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-H5JVY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12825425M/1/Latitude-5531-H5JVY_Win11_1.0_A16.exe",
+      "size_bytes": 2908066216,
+      "md5": "8E0B529007B68CD429397FD3DC5CEEFD",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

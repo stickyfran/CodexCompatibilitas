@@ -36,6 +36,26 @@
       "sha256": null,
       "version": "11.00 A 1",
       "release_date": "6/12/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp145706-HP ProOne 440 23.8 G9 AIO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145706.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "6/15/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp168731-HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168501-169000/sp168731.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "10.00 A 1",
+      "release_date": "1/5/2026 12:00:00 AM"
     }
   ],
   "individual_drivers": [

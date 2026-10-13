@@ -1,0 +1,172 @@
+{
+  "id": "dell-internet-of-things-dell-embedded-box-pc-3000-0758",
+  "vendor": "Dell",
+  "family": "Internet of Things",
+  "model_name": "Internet of Things Dell Embedded Box PC 3000",
+  "system_id": "0758",
+  "dmi_matches": [
+    "Internet of Things Dell Embedded Box PC 3000",
+    "Embedded Box PC 3000",
+    "0758"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-90PDY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER05397218M/1/Dell Embedded Box PC 3000-win10-A03-90PDY.CAB",
+      "size_bytes": 230432190,
+      "md5": "BB69DA3724B2E4701C64A7C53071BFF1",
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-01-25T00:00:00"
+    },
+    {
+      "name": "DellPack-C7FVC",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER05397252M/1/Dell Embedded Box PC 3000-win7-A08-C7FVC.CAB",
+      "size_bytes": 233802668,
+      "md5": "1C46E13573ACB3FFD678A1B558877A6D",
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-01-25T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Dell Wireless 1901 WiFi/Bluetooth Driver",
+      "version": "1.0.0.19",
+      "url": "dell://KM4PK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition(HD) Audio ALC892 Driver",
+      "version": "6.0.1.7765",
+      "url": "dell://N2NR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "10.18.10.4885",
+      "url": "dell://WPY7C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "DW5818 Qualcomm Snapdragon X7 LTE Driver",
+      "version": "7.47.4743.506",
+      "url": "dell://CM5HF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.3.108.0",
+      "url": "dell://D8VDT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "DW5819 Qualcomm Snapdragon X7 LTE Driver",
+      "version": "7.47.4743.506",
+      "url": "dell://49G13_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA9377-6174A-HMC WLAN Driver",
+      "version": "12.0.0.461",
+      "url": "dell://J4V9V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA6174A-XT Bluetooth Driver",
+      "version": "10.0.0.714",
+      "url": "dell://T4CCD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.13",
+      "url": "dell://WGP6H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Bay Trail-I Platform Trusted Execution Engine Driver",
+      "version": "1.1.0.1064",
+      "url": "dell://VPMHF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "DW5580 HSPA+ Mobile Boradband Firmware Updater",
+      "version": "7.1.6.1",
+      "url": "dell://GXV92_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "DW5580 HSPA and Mobile Broadband Manager",
+      "version": "1.0.22",
+      "url": "dell://K6M3T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

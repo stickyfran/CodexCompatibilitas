@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3561-0a68",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3561",
+  "system_id": "0A68",
+  "dmi_matches": [
+    "Precision Precision 3561",
+    "Precision 3561",
+    "0A68"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-1RHX4",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11281509M/1/3561-1RHX4_Win10_1.0_A11.exe",
+      "size_bytes": 2818841880,
+      "md5": "F1BFA168CB4D8AFFB6A3A0B279DA0B59",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    },
+    {
+      "name": "DellPack-RGVFF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11281955M/1/3561-RGVFF_Win11_1.0_A05.exe",
+      "size_bytes": 2819136528,
+      "md5": "2DF4F7C64C3B1F46F5B089E7CE8FC667",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,98 @@
+{
+  "id": "lenovo-thinkpad-x1-yoga-4th-gen-type-20sa-20sb-20sa",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X1 Yoga 4th Gen Type 20SA 20SB (Type 20SA)",
+  "system_id": "20SA",
+  "dmi_matches": [
+    "ThinkPad X1 Yoga 4th Gen Type 20SA 20SB",
+    "20SA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1803",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20r1-20r2-x1yoga_mt20sa-20sb_w1064_1803_201912.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-12-23"
+    },
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20r1-20r2-x1yoga_mt20sa-20sb_w1064_1809_202009.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-10-16"
+    },
+    {
+      "name": "LenovoSCCM-1903",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_1903_202103.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-04-01"
+    },
+    {
+      "name": "LenovoSCCM-1909",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_1909_202103.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-04-01"
+    },
+    {
+      "name": "LenovoSCCM-2004",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_2004_202103.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-04-01"
+    },
+    {
+      "name": "LenovoSCCM-20H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_20h2_202103.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-04-01"
+    },
+    {
+      "name": "LenovoSCCM-21H1",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_21h1_202105.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-05-31"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w11_21_202110.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-11-05"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

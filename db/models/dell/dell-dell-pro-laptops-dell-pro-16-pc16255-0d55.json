@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-16-pc16255-0d55",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 16 PC16255",
+  "system_id": "0D55",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 16 PC16255",
+    "Dell Pro 16 PC16255",
+    "0D55"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-K29JH",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14686539M/1/PC16255-K29JH_Win10_1.0_A06.exe",
+      "size_bytes": 569091616,
+      "md5": "936E214CE44DC665060966A31CEF0BED",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    },
+    {
+      "name": "DellPack-3GY5J",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14698666M/1/PC16255-3GY5J_Win11_1.0_A07.exe",
+      "size_bytes": 672695592,
+      "md5": "E7327846495C3E40CC564A93E3BB5F9E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

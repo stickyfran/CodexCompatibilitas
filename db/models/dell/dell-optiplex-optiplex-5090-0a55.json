@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-5090-0a55",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 5090",
+  "system_id": "0A55",
+  "dmi_matches": [
+    "Optiplex OptiPlex 5090",
+    "OptiPlex 5090",
+    "0A55"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-DRD6W",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11055464M/1/5090-DRD6W_Win10_1.0_A13.exe",
+      "size_bytes": 3567315656,
+      "md5": "E7A7EE1EAB9C1D07AE138003B3BAD3E4",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-02-26T00:51:20"
+    },
+    {
+      "name": "DellPack-V7VRD",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11010121M/1/5090-V7VRD_Win11_1.0_A06.exe",
+      "size_bytes": 3515931312,
+      "md5": "E069CD731AB23620ABE431035C98DE6F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-02-26T00:51:20"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

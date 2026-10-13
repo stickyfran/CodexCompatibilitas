@@ -1,0 +1,28 @@
+{
+  "id": "lenovo-thinkpad-yoga-14-20fy-20fy",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad Yoga 14 20FY (Type 20FY)",
+  "system_id": "20FY",
+  "dmi_matches": [
+    "ThinkPad Yoga 14 20FY",
+    "20FY"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-*",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/yoga14-yoga460_w1064_20150915.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-09-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

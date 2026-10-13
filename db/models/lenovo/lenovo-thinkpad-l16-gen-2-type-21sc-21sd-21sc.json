@@ -1,0 +1,48 @@
+{
+  "id": "lenovo-thinkpad-l16-gen-2-type-21sc-21sd-21sc",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad L16 Gen 2 Type 21SC 21SD (Type 21SC)",
+  "system_id": "21SC",
+  "dmi_matches": [
+    "ThinkPad L16 Gen 2 Type 21SC 21SD",
+    "21SC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21s8_mt21s9_l16_mt21sc_mt21sd_w11_23h2_202510.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-07"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21s8_mt21s9_l16_mt21sc_mt21sd_w11_24h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-02"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21s8_mt21s9_l16_mt21sc_mt21sd_w11_25h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-02"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-laptops-dell-14-premium-da14250-0ce5",
+  "vendor": "Dell",
+  "family": "Dell Laptops",
+  "model_name": "Dell Laptops Dell 14 Premium DA14250",
+  "system_id": "0CE5",
+  "dmi_matches": [
+    "Dell Laptops Dell 14 Premium DA14250",
+    "Dell 14 Premium DA14250",
+    "0CE5"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-P1KTX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14665856M/1/DA14250-P1KTX_Win11_1.0_A07.exe",
+      "size_bytes": 2060302752,
+      "md5": "93533961C1B0672596A0FB2C8B7F079D",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

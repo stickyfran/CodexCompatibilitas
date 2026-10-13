@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3140-0bdc",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3140",
+  "system_id": "0BDC",
+  "dmi_matches": [
+    "Latitude Latitude 3140",
+    "Latitude 3140",
+    "0BDC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-VXNK8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14339015M/1/Latitude-3140-VXNK8_Win10_1.0_A11.exe",
+      "size_bytes": 950965208,
+      "md5": "D94FFABC9E544B145DBF0A81D8216B20",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-NVP68",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14372102M/1/Latitude-3140-NVP68_Win11_1.0_A11.exe",
+      "size_bytes": 952612704,
+      "md5": "4AA75BBC400837E3EBBE6D5C5C488A25",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

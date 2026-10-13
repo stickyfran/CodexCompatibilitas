@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-max-14-mc14250-0cf0",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Max 14 MC14250",
+  "system_id": "0CF0",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Max 14 MC14250",
+    "Dell Pro Max 14 MC14250",
+    "0CF0"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-T7HTK",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14100840M/1/MC14250-T7HTK_Win10_1.0_A05.exe",
+      "size_bytes": 1862082168,
+      "md5": "54E177EE183A7752BD36B563EE486DA1",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-03-09T04:05:31"
+    },
+    {
+      "name": "DellPack-MJXYP",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14895939M/1/MC14250-MJXYP_Win11_1.0_A08.exe",
+      "size_bytes": 2175990432,
+      "md5": "E719E4894FECA63AF1A2BE9FEE1D0E8A",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

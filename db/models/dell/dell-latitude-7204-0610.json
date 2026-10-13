@@ -1,0 +1,281 @@
+{
+  "id": "dell-latitude-7204-0610",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7204",
+  "system_id": "0610",
+  "dmi_matches": [
+    "Latitude 7204",
+    "Latitude 12 Rugged Extreme (7204)",
+    "0610"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-CJ9XY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04895537M/1/7204-Win10-A05-CJ9XY.CAB",
+      "size_bytes": 333092815,
+      "md5": "EEA2E514D86471F6DDF733C414672D41",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-1P5C3",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04895299M/1/7204-Win7-A08-1P5C3.CAB",
+      "size_bytes": 389727558,
+      "md5": "03CD0BF753268AF5796CC05F2033CD1B",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-G0PGN",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03569313M/1/7204-Win8.1-A06-G0PGN.CAB",
+      "size_bytes": 212080238,
+      "md5": "1573A7C9CC9816DDF7E91B91BDD90BBB",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "audio",
+      "name": "Conexant Audio CX20772 Driver",
+      "version": "1.0.59.0",
+      "url": "dell://1HNN3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.0.0",
+      "url": "dell://PX8MM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 7260/3160 WiFi Driver",
+      "version": "18.11.0.8",
+      "url": "dell://YH1F1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault Driver",
+      "version": "3.3.14.68",
+      "url": "dell://WDRHG_A19-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.1.0.21",
+      "url": "dell://DJ3TC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "8M Liteon Camera Flash Driver",
+      "version": "10.0.10240.11155",
+      "url": "dell://VFP3R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.67",
+      "url": "dell://CP3V3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Drivers",
+      "version": "20.1.0.0",
+      "url": "dell://0J8HP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.7",
+      "url": "dell://C1XJ9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6070",
+      "url": "dell://5P33P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "14.5.0.1081",
+      "url": "dell://1YT2G_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel Graphics HD 4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver",
+      "version": "20.19.15.4454",
+      "url": "dell://1C5FX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "FTDI USB Serial Port Driver",
+      "version": "2.12.6.0",
+      "url": "dell://PF73W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1611.3223",
+      "url": "dell://N7VN8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "3.1.1",
+      "url": "dell://9HFCM_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Realtek Ethernet Driver",
+      "version": "10.1.506.2015",
+      "url": "dell://FMXNP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "U-Blox GPS Driver",
+      "version": "2.1.0.5",
+      "url": "dell://9WX66_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX memory card reader Driver",
+      "version": "3.0.8.52",
+      "url": "dell://FFXJM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Ls Mtron GPS Serial Driver",
+      "version": "2.12.6.0",
+      "url": "dell://TP1F2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.7.0.1035",
+      "url": "dell://4J8MX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808 LTE Mobile Broadband Driver",
+      "version": "6.21.4431.506",
+      "url": "dell://GH5Y3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

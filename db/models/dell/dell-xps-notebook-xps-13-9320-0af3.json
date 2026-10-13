@@ -1,0 +1,39 @@
+{
+  "id": "dell-xps-notebook-xps-13-9320-0af3",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook XPS 13 9320",
+  "system_id": "0AF3",
+  "dmi_matches": [
+    "XPS Notebook XPS 13 9320",
+    "XPS 13 9320",
+    "0AF3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-KP6R0",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13720138M/1/XPS-13-9320-KP6R0_Win11_1.0_A15.exe",
+      "size_bytes": 1101921304,
+      "md5": "18F1D8BB745CC34FF3F56EFD1368B260",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    },
+    {
+      "name": "DellPack-7VC53",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14366129M/1/XPS-13-9320-7VC53_Win10_1.0_A17.exe",
+      "size_bytes": 1067925408,
+      "md5": "94DC35126255FF126EBBF4F1FA3BCB7F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

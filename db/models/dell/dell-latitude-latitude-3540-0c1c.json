@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3540-0c1c",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3540",
+  "system_id": "0C1C",
+  "dmi_matches": [
+    "Latitude Latitude 3540",
+    "Latitude 3540",
+    "0C1C"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-JVRYV",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14365693M/1/Latitude-3540-JVRYV_Win10_1.0_A13.exe",
+      "size_bytes": 3609395648,
+      "md5": "E4D824E3FA4B4671BDBBEBC328215CB7",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-6FJP3",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14366837M/1/Latitude-3540-6FJP3_Win11_1.0_A13.exe",
+      "size_bytes": 3604260896,
+      "md5": "D35CE050A31F593A6FA73FFA9BB736A9",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

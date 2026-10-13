@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5690-0cc8",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5690",
+  "system_id": "0CC8",
+  "dmi_matches": [
+    "Precision Precision 5690",
+    "Precision 5690",
+    "0CC8"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-CN2V7",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14520775M/1/Precision-5690-CN2V7_Win10_1.0_A09.exe",
+      "size_bytes": 2302299000,
+      "md5": "EFA07206B24586A529AEE5530DBB38FD",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-02VKF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14520796M/1/Precision-5690-02VKF_Win11_1.0_A09.exe",
+      "size_bytes": 2324636616,
+      "md5": "E9E25D7CFE8E813A1A60B6C1755DD986",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,314 @@
+{
+  "id": "dell-latitude-5404-062f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5404",
+  "system_id": "062F",
+  "dmi_matches": [
+    "Latitude 5404",
+    "Latitude 14 Rugged (5404)",
+    "062F"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-0X4M7",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04901932M/1/5404-Win10-A06-0X4M7.CAB",
+      "size_bytes": 810563574,
+      "md5": "A8D9BB422DC945A3EA7E28D75A7D4A6B",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-VFY8T",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04917846M/1/5404-win7-A10-VFY8T.CAB",
+      "size_bytes": 1049033200,
+      "md5": "0A64449935434B6B7FCB6D7BD6BF05E9",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-422HK",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03481078M/1/5404-win8.1-A05-422HK.CAB",
+      "size_bytes": 441945310,
+      "md5": "961336C23C473A777A75AC1166FBBBFB",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5809e LTE Mobile Broadband Driver and GPS driver",
+      "version": "6.19.4382.502",
+      "url": "dell://0GN3K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell://X15C9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell://9NMJ4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "8.1206.101.115",
+      "url": "dell://202PY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "GPS Serial Driver",
+      "version": "2.10.6",
+      "url": "dell://FW3JM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808e LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.14.4316.502",
+      "url": "dell://KT1RD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "eGalaxTouch Panel Driver",
+      "version": "5.14.0.14205",
+      "url": "dell://PPNMX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.38",
+      "url": "dell://VX3YR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.6041",
+      "url": "dell://2KR4K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "9.5.15.1730",
+      "url": "dell://GJVHD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx 10/100/1000 Ethernet Network Driver",
+      "version": "19.2.0.0",
+      "url": "dell://MXH3C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Conexant Audio CX20772 Driver",
+      "version": "1.31.36.6",
+      "url": "dell://KFW05_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "FTDI USB Serial Port Driver",
+      "version": "2.12.6.0",
+      "url": "dell://PF73W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "9.4.0.1027",
+      "url": "dell://TTVVT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1707 WiFi/Bluetooth Driver",
+      "version": "10.0.0.293",
+      "url": "dell://VJ9T2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.1.0.1058",
+      "url": "dell://R4HDM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault Driver",
+      "version": "2.3.00443A",
+      "url": "dell://HJJ01_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA Graphics Driver",
+      "version": "10.18.13.5382",
+      "url": "dell://DT64T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "EgalaxTouch Driver",
+      "version": "5.13.0.12517",
+      "url": "dell://F56WC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection Driver",
+      "version": "4.10.51",
+      "url": "dell://9RRX6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Realtek RTL8153-VB LAN Driver",
+      "version": "2.4.2015.324",
+      "url": "dell://JCGG0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell://90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell://FGGYJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "5.0.10.2848",
+      "url": "dell://50C42_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

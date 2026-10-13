@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3420-0b20",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3420",
+  "system_id": "0B20",
+  "dmi_matches": [
+    "Latitude Latitude 3420",
+    "Latitude 3420",
+    "0B20"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-VVTW9",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11553927M/1/Latitude-3420-VVTW9_Win10_1.0_A14.exe",
+      "size_bytes": 3287863616,
+      "md5": "5B3EC2877411871C4371822E8C547B12",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-05-13T01:58:46"
+    },
+    {
+      "name": "DellPack-KV28P",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11553933M/1/Latitude-3420-KV28P_Win11_1.0_A10.exe",
+      "size_bytes": 3283083960,
+      "md5": "40EA825D2155AD8EB5B3E21AC05A9818",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-05-13T01:58:46"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

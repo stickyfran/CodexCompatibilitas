@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-7770-0b2b",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 7770",
+  "system_id": "0B2B",
+  "dmi_matches": [
+    "Precision Precision 7770",
+    "Precision 7770",
+    "0B2B"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-YH6F8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12822225M/1/Precision-7770-YH6F8_Win10_1.0_A12.exe",
+      "size_bytes": 2808390520,
+      "md5": "4E0EAE1A1DBFDE41DAC67C0381D1EDC0",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-1H7J8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12822226M/1/Precision-7770-1H7J8_Win11_1.0_A11.exe",
+      "size_bytes": 2669699856,
+      "md5": "1E027884B5631F677DFC9178EE092E62",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

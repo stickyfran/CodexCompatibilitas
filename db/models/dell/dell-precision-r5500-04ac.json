@@ -53,6 +53,227 @@
       "release_date": "2014-07-16T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "video",
+      "name": "NVS 300",
+      "version": "267.17",
+      "url": "dell://R297564",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Rapid Storage Technology",
+      "version": "10.1.0.1008",
+      "url": "dell://R291722",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1019",
+      "url": "dell://R293337",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Remote Access Host Card For FX100",
+      "version": "3.1.11",
+      "url": "dell://R265995",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVS-295 256MB,Quadro 5000,C2050 GPGPU,Quadro 2000,Quadro 4000,Quadro 600,Quadro 6000,NVS 300",
+      "version": "266.87",
+      "url": "dell://R296953",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Controller",
+      "version": "16.4.0",
+      "url": "dell://R292138",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "sas raid",
+      "name": "SAS 5/iR Integrated,SAS 5/iR Adapter,SAS 6/iR Adapter,SAS 6/IR Integrated Workstations",
+      "version": "1.28.03.01",
+      "url": "dell://R193682",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smart Card Reader Keyboard - LTN",
+      "version": "4.0.8.5",
+      "url": "dell://R257269",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "ADI 198x Integrated HD Audio",
+      "version": "6.10.x.7280",
+      "url": "dell://R297329",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "sas raid",
+      "name": "PERC 5/i Adapter,PERC 6/i Adapter",
+      "version": "2.24.0.32",
+      "url": "dell://R210500",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVS-295 256MB,Quadro 5000,C2050 GPGPU,Quadro 2000,Quadro 4000,Quadro 600,Quadro 6000,NVS 300",
+      "version": "266.87",
+      "url": "dell://R296975",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "sas raid",
+      "name": "SAS 5/iR Integrated,SAS 5/iR Adapter,SAS 6/iR Adapter,SAS 6/IR Integrated Workstations",
+      "version": "1.28.03.01",
+      "url": "dell://R193683",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Rapid Storage Technology",
+      "version": "10.1.0.1008",
+      "url": "dell://R291722",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Controller",
+      "version": "16.4.0",
+      "url": "dell://R292146",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1019",
+      "url": "dell://R293337",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Remote Access Host Card For FX100",
+      "version": "3.1.11",
+      "url": "dell://R265995",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVS 300",
+      "version": "267.17",
+      "url": "dell://R297565",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smart Card Reader Keyboard - LTN",
+      "version": "4.0.8.5",
+      "url": "dell://R257269",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "ADI 198x Integrated HD Audio",
+      "version": "6.10.x.7280",
+      "url": "dell://R297329",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "sas raid",
+      "name": "PERC 5/i Adapter,PERC 6/i Adapter",
+      "version": "2.24.0.64",
+      "url": "dell://R210501",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

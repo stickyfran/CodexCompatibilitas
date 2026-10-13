@@ -1,0 +1,68 @@
+{
+  "id": "hp-hp-proone-440-g5-23.8-in-all-in-one-business-pc-85a1",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 440 G5 23.8-in All-in-One Business PC",
+  "system_id": "85a1",
+  "dmi_matches": [
+    "HP ProOne 440 G5 23.8-in All-in-One Business PC",
+    "85a1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp96782-HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96782.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/30/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99589-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99589.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/16/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101209-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101209.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/6/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp109028-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp109001-109500/sp109028.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "9/10/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114248-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114248.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

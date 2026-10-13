@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-4-flip-g2i-13-inch-notebook-ai-pc-9035",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 Flip G2i 13 inch Notebook AI PC",
+  "system_id": "9035",
+  "dmi_matches": [
+    "HP ProBook 4 Flip G2i 13 inch Notebook AI PC",
+    "9035"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp174691-HP Pro/EliteBook 4/6 G2i NB AI Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174691.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/15/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

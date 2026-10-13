@@ -1,0 +1,48 @@
+{
+  "id": "lenovo-thinkpad-t1g-gen-8-type-21td-21te-21td",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T1G Gen 8 Type 21TD 21TE (Type 21TD)",
+  "system_id": "21TD",
+  "dmi_matches": [
+    "ThinkPad T1G Gen 8 Type 21TD 21TE",
+    "21TD"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21q8-21q9_t1g_mt21td-21te_w11_23_202510.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-10-01"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21q8-21q9_t1g_mt21td-21te_w11_24_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-17"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21q8-21q9_t1g_mt21td-21te_w11_25_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-17"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

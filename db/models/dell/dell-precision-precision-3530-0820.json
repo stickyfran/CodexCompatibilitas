@@ -1,0 +1,305 @@
+{
+  "id": "dell-precision-precision-3530-0820",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3530",
+  "system_id": "0820",
+  "dmi_matches": [
+    "Precision Precision 3530",
+    "Precision 3530",
+    "0820"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-F0GK4",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER09089346M/1/3530-F0GK4_Win11_1.0_A00.exe",
+      "size_bytes": 1860006608,
+      "md5": "8860A581407F471B48B719E6A621F4CF",
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-10-27T10:57:08"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "10.3201.101.215",
+      "url": "dell://2NNNK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "17.5.9.1040",
+      "url": "dell://KV2CM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.16299.20038",
+      "url": "dell://8X9XJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.4.10501.6067",
+      "url": "dell://591DK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
+      "version": "12.0.0.1016",
+      "url": "dell://241FM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel PCIe Ethernet Controller Driver",
+      "version": "24.1.0.0",
+      "url": "dell://VP20T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.377",
+      "url": "dell://33CDY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "27.20.100.9126",
+      "url": "dell://2XND9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2103.15.0.2135",
+      "url": "dell://J6JHK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.12.5.8",
+      "url": "dell://N23KC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.2020.7",
+      "url": "dell://RDY6W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "STMicroelectronics Free Fall Data Protection Driver",
+      "version": "4.10.104",
+      "url": "dell://CCXN6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.8838.1",
+      "url": "dell://MHXXD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
+      "version": "22.30.0.11",
+      "url": "dell://2MMMT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA GeForce and Quadro Graphics Driver",
+      "version": "27.21.14.5266",
+      "url": "dell://VDJHR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell://5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.16299.21305",
+      "url": "dell://8N0GR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "DW5811e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.54.4799.502",
+      "url": "dell://97FX1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2020.0601",
+      "url": "dell://7VDGG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.1.4.1",
+      "url": "dell://RV0MM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
+      "version": "22.30.0.4",
+      "url": "dell://050PP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB eXtensible Host Controller Driver",
+      "version": "1.16.61.1",
+      "url": "dell://68PNM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "17.4.79.510",
+      "url": "dell://TBT79_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio DCH Driver",
+      "version": "6.3.9600.2277",
+      "url": "dell://CCGX7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "DW5816e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.60.4835.501",
+      "url": "dell://7PR38_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

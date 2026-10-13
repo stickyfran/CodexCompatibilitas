@@ -62,6 +62,16 @@
       "sha256": null,
       "version": "14.00 A 1",
       "release_date": "6/15/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp87575-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87575.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/1/2018 12:00:00 AM"
     }
   ],
   "individual_drivers": [

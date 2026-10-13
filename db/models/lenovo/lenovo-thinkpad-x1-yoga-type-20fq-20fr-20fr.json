@@ -1,0 +1,78 @@
+{
+  "id": "lenovo-thinkpad-x1-yoga-type-20fq-20fr-20fr",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X1 Yoga Type 20FQ 20FR (Type 20FR)",
+  "system_id": "20FR",
+  "dmi_matches": [
+    "ThinkPad X1 Yoga Type 20FQ 20FR",
+    "20FR"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1703",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20fb-20fc-x1yoga_mt20fq-20fr_w1064_1703_201705.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2017-05-31"
+    },
+    {
+      "name": "LenovoSCCM-1709",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20fb-20fc-x1yoga_mt20fq-20fr_w1064_1709_201711.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2017-11-30"
+    },
+    {
+      "name": "LenovoSCCM-1803",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20fb-20fc-x1yoga_mt20fq-20fr_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-07-26"
+    },
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20fb-20fc-x1yoga_mt20fq-20fr_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-10-30"
+    },
+    {
+      "name": "LenovoSCCM-1903",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1Carbon_mt20fb-20fc-x1yoga_mt20fq-20fr_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-04-23"
+    },
+    {
+      "name": "LenovoSCCM-1909",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20fb-20fc-x1yoga_mt20fq-20fr_w1064_1909_201911.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-11-28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

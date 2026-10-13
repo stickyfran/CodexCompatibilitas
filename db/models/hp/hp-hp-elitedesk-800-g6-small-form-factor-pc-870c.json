@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-elitedesk-800-g6-small-form-factor-pc-870c",
+  "vendor": "HP",
+  "family": "Elitedesk",
+  "model_name": "HP EliteDesk 800 G6 Small Form Factor PC",
+  "system_id": "870C",
+  "dmi_matches": [
+    "HP EliteDesk 800 G6 Small Form Factor PC",
+    "870C"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp123507-HP ElitePro 4/6/8x0 G6/7 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123507.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp108773-HP ElitePro 4/6/8x0 G6/7 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108773.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "8/26/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp144592-HP ElitePro 4/6/8x0 G6/7 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144592.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp143649-HP ElitePro 6/8x0 G6 PC Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143501-144000/sp143649.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "11/26/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

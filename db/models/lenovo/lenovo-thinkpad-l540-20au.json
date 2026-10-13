@@ -1,0 +1,40 @@
+{
+  "id": "lenovo-thinkpad-l540-20au",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad L540 (Type 20AU)",
+  "system_id": "20AU",
+  "dmi_matches": [
+    "ThinkPad L540",
+    "20AU"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-*",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l440_l540_w1064_20160219.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-10-30"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "lenovo://tp_l440_l540_w1064_20160219.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

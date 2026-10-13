@@ -1,0 +1,392 @@
+{
+  "id": "dell-tablet-7130-0604",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Tablet 7130",
+  "system_id": "0604",
+  "dmi_matches": [
+    "Tablet 7130",
+    "Venue 11 Pro 7130",
+    "0604"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-WDD3H",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04898339M/1/7130-win10-A04-WDD3H.CAB",
+      "size_bytes": 289452832,
+      "md5": "6797DDD536976C47B63324D1B51AC11D",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-JCPDX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03544019M/1/7130-win8.1-A07-JCPDX.CAB",
+      "size_bytes": 205914229,
+      "md5": "E125C9B351D54329047BE9EC3896792C",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-02-22T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel 8 Series Chipset Device Software Driver",
+      "version": "9.4.0.1027",
+      "url": "dell://3664N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Rapid Start Technology",
+      "version": "3.0.0.1053",
+      "url": "dell://KVKKW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO driver",
+      "version": "1.1.165.0",
+      "url": "dell://N1FCG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell://FGGYJ_A17-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell://17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1537 WiFi/BT Driver",
+      "version": "3.7.2.59",
+      "url": "dell://7NTPT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2Micro OZ77CR6 Smartcard Driver",
+      "version": "1.1.4.244",
+      "url": "dell://5JWV9_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Intel/NXP Near Field Communications Driver",
+      "version": "6.5.11.0",
+      "url": "dell://CGWNF_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell://X15C9_A12-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Validity FingerPrint Reader 495 Driver",
+      "version": "4.5.233.0",
+      "url": "dell://NYYYN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "9.5.15.1730",
+      "url": "dell://GJVHD_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.4.1000",
+      "url": "dell://D60VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons driver",
+      "version": "1.0.0.13",
+      "url": "dell://CXWWX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808e (DW5808e) LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.19.4382.502",
+      "url": "dell://FXRMY_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.38",
+      "url": "dell://VX3YR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.7399",
+      "url": "dell://47P33_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel 8 Series Chipset Device Software Driver",
+      "version": "9.4.0.1027",
+      "url": "dell://3664N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Rapid Start Technology",
+      "version": "3.0.0.1053",
+      "url": "dell://KVKKW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO driver",
+      "version": "1.1.165.0",
+      "url": "dell://N1FCG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell://FGGYJ_A17-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell://17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1537 WiFi/BT Driver",
+      "version": "3.7.2.59",
+      "url": "dell://7NTPT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2Micro OZ77CR6 Smartcard Driver",
+      "version": "1.1.4.244",
+      "url": "dell://5JWV9_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Intel/NXP Near Field Communications Driver",
+      "version": "6.5.11.0",
+      "url": "dell://CGWNF_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell://X15C9_A12-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Validity FingerPrint Reader 495 Driver",
+      "version": "4.5.233.0",
+      "url": "dell://NYYYN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "9.5.15.1730",
+      "url": "dell://GJVHD_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.4.1000",
+      "url": "dell://D60VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons driver",
+      "version": "1.0.0.13",
+      "url": "dell://CXWWX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808e (DW5808e) LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.19.4382.502",
+      "url": "dell://FXRMY_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.38",
+      "url": "dell://VX3YR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.7399",
+      "url": "dell://47P33_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

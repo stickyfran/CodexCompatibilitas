@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-7020-tower-0c77",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 7020 Tower",
+  "system_id": "0C77",
+  "dmi_matches": [
+    "Optiplex OptiPlex 7020 Tower",
+    "OptiPlex 7020 Tower",
+    "0C77"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-HFM3W",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13680146M/1/OptiPlex-7020-Tower-HFM3W_Win10_1.0_A09.exe",
+      "size_bytes": 3031378640,
+      "md5": "5AC921AF009614ADB52BEA1B49AAAB62",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-10-27T04:04:52"
+    },
+    {
+      "name": "DellPack-79X67",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13680147M/1/OptiPlex-7020-Tower-79X67_Win11_1.0_A09.exe",
+      "size_bytes": 3031492328,
+      "md5": "893E5067B561FEBF9C1070AA2040F580",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-10-27T04:04:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

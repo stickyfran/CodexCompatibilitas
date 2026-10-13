@@ -1,0 +1,78 @@
+{
+  "id": "lenovo-thinkstation-p7-30f7",
+  "vendor": "Lenovo",
+  "family": "Thinkstation",
+  "model_name": "ThinkStation P7 (Type 30F7)",
+  "system_id": "30F7",
+  "dmi_matches": [
+    "ThinkStation P7",
+    "30F7"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p7_intel_p5_w1064_21h2_202410.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p7_intel_p5_intel_px_w1064_22h2_202607.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p7_intel_w1164_21h2_202401.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p7_intel_p5_w1164_22h2_or_later_202505.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_px_p7_intel_p5_w11_24h2_202607.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_px_p7_intel_p5_w11_25h2_202607.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-10"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

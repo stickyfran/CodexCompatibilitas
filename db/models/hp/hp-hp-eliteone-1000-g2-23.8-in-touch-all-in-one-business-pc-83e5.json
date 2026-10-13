@@ -1,0 +1,78 @@
+{
+  "id": "hp-hp-eliteone-1000-g2-23.8-in-touch-all-in-one-business-pc-83e5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC",
+  "system_id": "83e5",
+  "dmi_matches": [
+    "HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC",
+    "83e5"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp88986-HP EliteOne 1000 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88986.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/20/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95459-HP EliteOne 1000 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95459.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99725-HP EliteOne 1000 G2 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99725.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "10/23/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101466-HP EliteOne 1000 G2 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101466.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "1/24/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103582-HP EliteOne 1000 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103582.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp115294-HP EliteOne 1000 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp115001-115500/sp115294.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "14.00 A 1",
+      "release_date": "6/29/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

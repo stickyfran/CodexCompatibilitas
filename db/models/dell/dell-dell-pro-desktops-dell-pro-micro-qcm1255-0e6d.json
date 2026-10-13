@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-desktops-dell-pro-micro-qcm1255-0e6d",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Desktops Dell Pro Micro QCM1255",
+  "system_id": "0E6D",
+  "dmi_matches": [
+    "Dell Pro Desktops Dell Pro Micro QCM1255",
+    "Dell Pro Micro QCM1255",
+    "0E6D"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-065RY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14310975M/1/QCM1255-065RY_Win10_1.0_A06.exe",
+      "size_bytes": 449960176,
+      "md5": "3B8B94940BB7F7F908EA0EEEA77F73B5",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    },
+    {
+      "name": "DellPack-8D5YW",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14310980M/1/QCM1255-8D5YW_Win11_1.0_A06.exe",
+      "size_bytes": 448795832,
+      "md5": "BA84E39C2BF101A873B98EC3DCDD3D7D",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

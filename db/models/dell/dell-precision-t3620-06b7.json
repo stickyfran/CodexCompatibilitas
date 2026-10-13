@@ -1,0 +1,226 @@
+{
+  "id": "dell-precision-t3620-06b7",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T3620",
+  "system_id": "06B7",
+  "dmi_matches": [
+    "Precision T3620",
+    "Precision Tower 3620",
+    "06B7"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-7T7FD",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER05422014M/1/T3620-win10-A13-7T7FD.CAB",
+      "size_bytes": 1441686615,
+      "md5": "8087788D1327B9E5CF82F2E70866E32E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-03-12T00:00:00"
+    },
+    {
+      "name": "DellPack-16GDG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER05491890M/1/T3620-win7-A12-16GDG.CAB",
+      "size_bytes": 1753562561,
+      "md5": "30E3359EEA8E24B31AA84641E3390D01",
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-03-26T00:00:00"
+    },
+    {
+      "name": "DellPack-HF6PX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03788643M/1/T3620-win8.1-A03-HF6PX.CAB",
+      "size_bytes": 860656960,
+      "md5": "4100D832DDC43A93B785885A5E089C12",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.9",
+      "url": "dell://320CP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 15.201.2401 for Windows 7, Windows 8.1, and Windows 10 (32 and 64 bit).",
+      "version": "15.201.2401",
+      "url": "dell://480GD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/7260/3165 WiFi Driver",
+      "version": "18.32.0.5",
+      "url": "dell://P9MR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine  Interface Driver",
+      "version": "11.0.0.1162",
+      "url": "dell://MX1JJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Thunderbolt(TM) Driver",
+      "version": "15.2.32.250",
+      "url": "dell://MYDH5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "v8.4.1/MasterInstaller 1.4.1.857",
+      "url": "dell://M03V6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 361.91 for Windows 7 (64-bit) and Windows 8.1 (64-bit).",
+      "version": "10.18.13.6191",
+      "url": "dell://1KV1N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6102",
+      "url": "dell://D00J4_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Hardware Crypto Accelerator (Network and Computing Encryption/Decryption Controller) Device Driver",
+      "version": "V2.0.0.81",
+      "url": "dell://GYV2D_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell://81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Drivers",
+      "version": "20.2.0.0",
+      "url": "dell://KJTXR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "14.7.0.1000",
+      "url": "dell://1XJK6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.0.8.7",
+      "url": "dell://7P3TV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Sunix Serial/Parallel Card Driver",
+      "version": "8.1.1.0",
+      "url": "dell://KHW7P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell PCIe Serial Card Driver for Windows",
+      "version": "1.2.721.2015",
+      "url": "dell://YDGCC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4454",
+      "url": "dell://4TYM7_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

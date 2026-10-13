@@ -1,0 +1,48 @@
+{
+  "id": "hp-hp-eliteone-800-g8-27-all-in-one-pc-88aa",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G8 27 All-in-One PC",
+  "system_id": "88AA",
+  "dmi_matches": [
+    "HP EliteOne 800 G8 27 All-in-One PC",
+    "88AA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp123514-HP EliteOne 800 G8 AIO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123514.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138786-HP EliteOne 800 G8 AIO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138786.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/10/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp136261-HP EliteOne 800 G8 AIO Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136261.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

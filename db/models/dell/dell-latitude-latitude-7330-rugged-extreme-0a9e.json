@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7330-rugged-extreme-0a9e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7330 Rugged Extreme",
+  "system_id": "0A9E",
+  "dmi_matches": [
+    "Latitude Latitude 7330 Rugged Extreme",
+    "Latitude 7330 Rugged Extreme",
+    "0A9E"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-YV55G",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11909854M/1/Latitude-7330-Rugged-Extreme-YV55G_Win10_1.0_A15.exe",
+      "size_bytes": 1749507800,
+      "md5": "3FE4D2192D96B832C0E6650148CB9756",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-08-09T08:20:14"
+    },
+    {
+      "name": "DellPack-T09XN",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11919530M/1/Latitude-7330-Rugged-Extreme-T09XN_Win11_1.0_A14.exe",
+      "size_bytes": 1368920048,
+      "md5": "03418E59644357DFA5FDE01C869D0EA9",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-08-09T08:20:14"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

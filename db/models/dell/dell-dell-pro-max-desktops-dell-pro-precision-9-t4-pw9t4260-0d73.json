@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-desktops-dell-pro-precision-9-t4-pw9t4260-0d73",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Desktops",
+  "model_name": "Dell Pro Max Desktops Dell Pro Precision 9 T4 PW9T4260",
+  "system_id": "0D73",
+  "dmi_matches": [
+    "Dell Pro Max Desktops Dell Pro Precision 9 T4 PW9T4260",
+    "Dell Pro Precision 9 T4 PW9T4260",
+    "0D73"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-32GP2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14879686M/1/PW9T4260-32GP2_Win11_1.0_A02.exe",
+      "size_bytes": 2575072744,
+      "md5": "AF367500A895B2203B88339CF5D2BA73",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

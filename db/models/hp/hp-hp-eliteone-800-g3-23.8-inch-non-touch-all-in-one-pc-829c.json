@@ -63,6 +63,16 @@
       "sha256": null,
       "version": "19.0 A 1",
       "release_date": "6/22/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp111958-HP ElitePro 600/800 G3 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111958.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "20.0 A 1",
+      "release_date": "12/28/2020 12:00:00 AM"
     }
   ],
   "individual_drivers": [

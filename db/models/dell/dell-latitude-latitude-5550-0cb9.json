@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-5550-0cb9",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 5550",
+  "system_id": "0CB9",
+  "dmi_matches": [
+    "Latitude Latitude 5550",
+    "Latitude 5550",
+    "0CB9"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-WX54V",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14061164M/1/Latitude-5550-WX54V_Win10_1.0_A11.exe",
+      "size_bytes": 2945812096,
+      "md5": "386FFACF7FD0285D7A9F2E30ABB984DA",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-02-05T03:36:06"
+    },
+    {
+      "name": "DellPack-J96V1",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14532459M/1/Latitude-5550-J96V1_Win11_1.0_A12.exe",
+      "size_bytes": 3290883424,
+      "md5": "D2A48583F00E02720771186EE0ED963F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

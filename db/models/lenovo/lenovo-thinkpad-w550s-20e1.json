@@ -1,0 +1,68 @@
+{
+  "id": "lenovo-thinkpad-w550s-20e1",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad W550S (Type 20E1)",
+  "system_id": "20E1",
+  "dmi_matches": [
+    "ThinkPad W550S",
+    "20E1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1703",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1703_201706.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2017-06-24"
+    },
+    {
+      "name": "LenovoSCCM-1709",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1709_201710.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2017-10-31"
+    },
+    {
+      "name": "LenovoSCCM-1803",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-07-23"
+    },
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-10-30"
+    },
+    {
+      "name": "LenovoSCCM-1903",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-06-05"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

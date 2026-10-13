@@ -43,6 +43,183 @@
       "release_date": "2016-02-22T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell PCIe Serial Card Driver for Windows",
+      "version": "1.2.802.2016",
+      "url": "dell://XVW7H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 354.13 for Windows 10 (32-bit).",
+      "version": "10.18.13.5413",
+      "url": "dell://71P4M_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 16.40 for Windows 7, Windows 8.1, and Windows 10 (32 and 64 bit).",
+      "version": "16.400.2802",
+      "url": "dell://C5FPW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Enterprise Driver and Management Console",
+      "version": "4.3.0.1198",
+      "url": "dell://0J9KM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.2.10",
+      "url": "dell://YV36W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "1.0",
+      "url": "dell://MKHCF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.2.10",
+      "url": "dell://YV36W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 16 50 2701 for Windows 7 and Windows 10 64 bit",
+      "version": "16.500.2701",
+      "url": "dell://XDVRC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Enterprise Driver and Management Console",
+      "version": "4.3.0.1198",
+      "url": "dell://0J9KM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 369.39 for Windows 10 (64-bit).",
+      "version": "21.21.13.6939",
+      "url": "dell://P4Y4X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Graphics Driver",
+      "version": "22.21.13.8165",
+      "url": "dell://V677X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Windows Server 2016 Driver 6.604.06.00 for PERC H330/H730/H730P/H830/H730P MX/FD33xD/FD33xS Controllers",
+      "version": "6.604.06.00",
+      "url": "dell://T244W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel NIC Family Version 17.5.0 Drivers for Windows 64-bit Operating Systems",
+      "version": "17.5.0",
+      "url": "dell://FDP8R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 16.40 for Windows 7, Windows 8.1, and Windows 10 (32 and 64 bit).",
+      "version": "16.400.2802",
+      "url": "dell://C5FPW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel HHHL PCIe Solid State Drive Driver",
+      "version": "1.8.0.1011",
+      "url": "dell://8FD9M_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell PCIe Serial Card Driver for Windows",
+      "version": "1.2.802.2016",
+      "url": "dell://XVW7H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -43,6 +43,293 @@
       "release_date": "2013-11-29T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "video",
+      "name": "FirePro V4800",
+      "version": "8.723",
+      "url": "dell://R268435",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Rapid Storage Technology",
+      "version": "10.1.0.1008",
+      "url": "dell://R291722",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Unified AMT 7 Management Interface Driver",
+      "version": "7.1.0.1028",
+      "url": "dell://R292087",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "FirePro 2270",
+      "version": "8.801.4",
+      "url": "dell://R291319",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVS 420,NVS-295 256MB,Quadro 5000,C2050 GPGPU,Quadro 2000,Quadro 4000,Quadro 600,Quadro 6000,NVS 300",
+      "version": "265.70",
+      "url": "dell://R293394",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "825xx Gigabit Platform LAN Network Device",
+      "version": "11.8.81.0",
+      "url": "dell://R291627",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1019",
+      "url": "dell://R293337",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smart Card Reader Keyboard - LTN",
+      "version": "4.0.8.5",
+      "url": "dell://R257269",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "USB 3.0",
+      "version": "2.0.30.0",
+      "url": "dell://R292027",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Serial / Parallel port PCIE add-in card",
+      "version": "7.2.0.0",
+      "url": "dell://R291908",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "GMA HD 3000 (DT),GMA HD 3000 (NB),GMA HD 2000 (DT),GMA HD 2000 (NB)",
+      "version": "8.15.10.2253",
+      "url": "dell://R291625",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Controller",
+      "version": "16.4.0",
+      "url": "dell://R292138",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "ALC269 HD Audio",
+      "version": "6.0.1.5883",
+      "url": "dell://R289789",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "FirePro V4800",
+      "version": "8.723",
+      "url": "dell://R268435",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Rapid Storage Technology",
+      "version": "10.1.0.1008",
+      "url": "dell://R291722",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Unified AMT 7 Management Interface Driver",
+      "version": "7.1.0.1028",
+      "url": "dell://R292087",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "FirePro 2270",
+      "version": "8.801.4",
+      "url": "dell://R291319",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "GMA HD 3000 (DT),GMA HD 3000 (NB),GMA HD 2000 (DT),GMA HD 2000 (NB)",
+      "version": "8.15.10.2253",
+      "url": "dell://R291626",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "825xx Gigabit Platform LAN Network Device",
+      "version": "11.8.81.0",
+      "url": "dell://R291627",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1019",
+      "url": "dell://R293337",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smart Card Reader Keyboard - LTN",
+      "version": "4.0.8.5",
+      "url": "dell://R257269",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVS 420,NVS-295 256MB,Quadro 5000,C2050 GPGPU,Quadro 2000,Quadro 4000,Quadro 600,Quadro 6000,NVS 300",
+      "version": "265.70",
+      "url": "dell://R293395",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "USB 3.0",
+      "version": "2.0.30.0",
+      "url": "dell://R292027",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Serial / Parallel port PCIE add-in card",
+      "version": "7.2.0.0",
+      "url": "dell://R291908",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Controller",
+      "version": "16.4.0",
+      "url": "dell://R292146",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "ALC269 HD Audio",
+      "version": "6.0.1.5883",
+      "url": "dell://R289789",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

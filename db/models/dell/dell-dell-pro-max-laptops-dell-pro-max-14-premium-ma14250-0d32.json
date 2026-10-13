@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-max-14-premium-ma14250-0d32",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Max 14 Premium MA14250",
+  "system_id": "0D32",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Max 14 Premium MA14250",
+    "Dell Pro Max 14 Premium MA14250",
+    "0D32"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-GR86P",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14892370M/1/MA14250-GR86P_Win10_1.0_A06.exe",
+      "size_bytes": 1975326848,
+      "md5": "85C37357D64369F86F1ECAB20A4EA049",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    },
+    {
+      "name": "DellPack-VKW2M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14892405M/1/MA14250-VKW2M_Win11_1.0_A06.exe",
+      "size_bytes": 2465227832,
+      "md5": "E790A1EC7BB04D467075BE05D020D4B6",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

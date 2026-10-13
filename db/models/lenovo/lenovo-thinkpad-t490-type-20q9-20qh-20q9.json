@@ -1,0 +1,148 @@
+{
+  "id": "lenovo-thinkpad-t490-type-20q9-20qh-20q9",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T490 Type 20Q9 20QH (Type 20Q9)",
+  "system_id": "20Q9",
+  "dmi_matches": [
+    "ThinkPad T490 Type 20Q9 20QH",
+    "20Q9"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1709",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p53s_p43s_w1064_1709_201909.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-11-11"
+    },
+    {
+      "name": "LenovoSCCM-1803",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p53s_p43s_w1064_1803_201909.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-11-01"
+    },
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_1809_202003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-03-27"
+    },
+    {
+      "name": "LenovoSCCM-1903",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_1903_202009.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-10-06"
+    },
+    {
+      "name": "LenovoSCCM-1909",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_1909_202011.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-01-13"
+    },
+    {
+      "name": "LenovoSCCM-2004",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_2004_202011.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-02-06"
+    },
+    {
+      "name": "LenovoSCCM-20H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_20h2_202011.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-01-13"
+    },
+    {
+      "name": "LenovoSCCM-21H1",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_21h1_202105.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-05-26"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_21h2_202201.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-02-28"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_22h2_202302.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-03-23"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w11_21_202110.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-11-05"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w11_22_202210.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-11-08"
+    },
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w11_22_202210.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-11-08"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

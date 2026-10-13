@@ -1,0 +1,68 @@
+{
+  "id": "hp-hp-elitebook-846r-g4-notebook-pc-8418",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 846r G4 Notebook PC",
+  "system_id": "8418",
+  "dmi_matches": [
+    "HP EliteBook 846r G4 Notebook PC",
+    "8418"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp84353-HP EliteBook 840r G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84001-84500/sp84353.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "2/1/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp88717-HP EliteBook 840r G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88717.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/26/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95451-HP EliteBook 840r G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95451.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp102099-HP EliteBook 840r G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102099.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "3/24/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114232-HP EliteBook 840r G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114232.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "12.00 A 1",
+      "release_date": "6/21/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

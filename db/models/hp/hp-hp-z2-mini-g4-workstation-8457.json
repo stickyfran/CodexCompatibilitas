@@ -32,6 +32,16 @@
       "sha256": null,
       "version": "1.00 A 1",
       "release_date": "4/15/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp108840-HP Z2G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108840.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 2",
+      "release_date": "8/31/2020 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

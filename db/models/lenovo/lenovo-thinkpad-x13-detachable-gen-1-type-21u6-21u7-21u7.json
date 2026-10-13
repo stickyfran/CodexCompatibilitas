@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkpad-x13-detachable-gen-1-type-21u6-21u7-21u7",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X13 DETACHABLE Gen 1 Type 21U6 21U7 (Type 21U7)",
+  "system_id": "21U7",
+  "dmi_matches": [
+    "ThinkPad X13 DETACHABLE Gen 1 Type 21U6 21U7",
+    "21U7"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_mt21u6_mt21u7_w11_24h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-24"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_mt21u6_mt21u7_w11_25h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

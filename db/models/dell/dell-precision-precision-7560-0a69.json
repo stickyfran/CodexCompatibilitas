@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-7560-0a69",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 7560",
+  "system_id": "0A69",
+  "dmi_matches": [
+    "Precision Precision 7560",
+    "Precision 7560",
+    "0A69"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-P7RNH",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11759929M/1/Precision-7560-P7RNH_Win11_1.0_A10.exe",
+      "size_bytes": 2312587944,
+      "md5": "EA2E1B8AE4374984685070B948AA1F86",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-6M77J",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11759683M/1/Precision-7560-6M77J_Win10_1.0_A15.exe",
+      "size_bytes": 2446173744,
+      "md5": "A8A9A436F989F6A2320F7C0A1D5A95B8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

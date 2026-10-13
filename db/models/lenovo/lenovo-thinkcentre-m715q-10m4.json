@@ -1,0 +1,40 @@
+{
+  "id": "lenovo-thinkcentre-m715q-10m4",
+  "vendor": "Lenovo",
+  "family": "Thinkcentre",
+  "model_name": "ThinkCentre M715Q (Type 10M4)",
+  "system_id": "10M4",
+  "dmi_matches": [
+    "ThinkCentre M715Q",
+    "10M4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-*",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715q_w1064_201804.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-30"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Version number",
+      "url": "lenovo://tc_m715q_w1064_201804.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

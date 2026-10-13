@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-7680-0c41",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 7680",
+  "system_id": "0C41",
+  "dmi_matches": [
+    "Precision Precision 7680",
+    "Precision 7680",
+    "0C41"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-JDWW8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14365655M/1/Precision-7680-JDWW8_Win10_1.0_A11.exe",
+      "size_bytes": 2201800232,
+      "md5": "42FD36B971175C01FB53644224015586",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-C23T5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14365845M/1/Precision-7680-C23T5_Win11_1.0_A11.exe",
+      "size_bytes": 2066911928,
+      "md5": "B13D6C02EE0B9873A80DADFD9941284E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

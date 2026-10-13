@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-precision-5-14s-pw514260-0e1f",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Precision 5 14S PW514260",
+  "system_id": "0E1F",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Precision 5 14S PW514260",
+    "Dell Pro Precision 5 14S PW514260",
+    "0E1F"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-4XXRX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14835666M/1/PW514260-4XXRX_Win11_1.0_A02.exe",
+      "size_bytes": 1390636488,
+      "md5": "DC79D0690375DBAC27C8E6F8959AD9F2",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-22T02:46:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

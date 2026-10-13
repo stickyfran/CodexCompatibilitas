@@ -1,0 +1,29 @@
+{
+  "id": "dell-xps-notebook-xps-13-9350-0cc9",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook XPS 13 9350",
+  "system_id": "0CC9",
+  "dmi_matches": [
+    "XPS Notebook XPS 13 9350",
+    "XPS 13 9350",
+    "0CC9"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-NMV3M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14169627M/1/XPS-13-9350-NMV3M_Win11_1.0_A03.exe",
+      "size_bytes": 962391864,
+      "md5": "9CC2108CA0CFC7FE28B2E096748803A3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-03-09T04:05:31"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

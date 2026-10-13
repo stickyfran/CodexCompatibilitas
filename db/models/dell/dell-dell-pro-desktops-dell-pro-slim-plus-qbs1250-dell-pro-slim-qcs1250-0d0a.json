@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-desktops-dell-pro-slim-plus-qbs1250-dell-pro-slim-qcs1250-0d0a",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Desktops Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+  "system_id": "0D0A",
+  "dmi_matches": [
+    "Dell Pro Desktops Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+    "Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+    "0D0A"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-N8PHV",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14271868M/1/QxS1250-N8PHV_Win10_1.0_A05.exe",
+      "size_bytes": 2862013752,
+      "md5": "9D005B7A4EF1B1B16DDCF31654805BC5",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-03-24T01:16:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

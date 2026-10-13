@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-5-14-p514265-0e65",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 5 14 P514265",
+  "system_id": "0E65",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 5 14 P514265",
+    "Dell Pro 5 14 P514265",
+    "0E65"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-5D0VR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14857362M/1/P514265-5D0VR_Win11_1.0_A01.exe",
+      "size_bytes": 1057109728,
+      "md5": "DEEC113D21CC08A441609D8186A317AE",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

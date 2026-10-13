@@ -1,0 +1,98 @@
+{
+  "id": "lenovo-thinkpad-p15v-gen-3-type-21en-21em-21en",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad P15V Gen 3 Type 21EN 21EM (Type 21EN)",
+  "system_id": "21EN",
+  "dmi_matches": [
+    "ThinkPad P15V Gen 3 Type 21EN 21EM",
+    "21EN"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-20H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vgen3_amd_mt21em-21en_win10_20h2_202212.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-01-18"
+    },
+    {
+      "name": "LenovoSCCM-21H1",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vgen3_amd_mt21em-21en_win10_21h1_21h2_202311.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-02-16"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vgen3_amd_mt21em-21en_win10_21h1_21h2_202311.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-02-16"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vgen3_amd_mt21em-21en_win1064_22h2_202311.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-12-14"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vgen3_amd_mt21em-21en_win11_21h2_202311.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-12-14"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vgen3_amd_mt21em-21en_win11_22h2_202311.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-12-14"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vgen3_amd_mt21em-21en_win11_24_202409.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-10-29"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vgen3_amd_mt21em-21en_win11_25h2_202601.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-02-11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

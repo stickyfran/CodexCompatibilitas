@@ -1,0 +1,95 @@
+{
+  "id": "dell-tablet-5830-0630",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Tablet 5830",
+  "system_id": "0630",
+  "dmi_matches": [
+    "Tablet 5830",
+    "Venue 8 Pro 5830",
+    "0630"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-5VXCN",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03698751M/1/5830-win10-A02-5VXCN.CAB",
+      "size_bytes": 89631954,
+      "md5": "3ED590B3B02301F88E448F30E79A69AA",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-06-14T00:00:00"
+    },
+    {
+      "name": "DellPack-VW1H3",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03538886M/1/5830-win8.1-A07-VW1H3.CAB",
+      "size_bytes": 158211614,
+      "md5": "EFE325F47D30C052C351EAD8A3D87CA8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5810e LTE Mobile Broadband Driver",
+      "version": "1.0.4",
+      "url": "dell://HNG0D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1538 WiFi/Bluetooth Driver",
+      "version": "3.7.2.63705",
+      "url": "dell://Y3DWJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Atom Z3000 Series Driver",
+      "version": "603.9600.2067.27988",
+      "url": "dell://67YC3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Trusted Execution Engine Interface Driver",
+      "version": "1.0.0.1054",
+      "url": "dell://76XFC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5570 WWAN Mobile Broadband and GNSS (GPS) Driver",
+      "version": "6.14.4316.502",
+      "url": "dell://443X0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

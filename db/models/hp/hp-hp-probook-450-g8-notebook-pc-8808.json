@@ -25,6 +25,36 @@
       "sha256": null,
       "version": "2.00 A 1",
       "release_date": "10/7/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp110423-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110423.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/12/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114062-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114062.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "5/31/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp137144-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp137001-137500/sp137144.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/20/2022 12:00:00 AM"
     }
   ],
   "individual_drivers": [

@@ -42,6 +42,16 @@
       "sha256": null,
       "version": "4.00 A 1",
       "release_date": "11/7/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp109005-HP EliteOne 800 G6 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp109001-109500/sp109005.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "9/9/2020 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

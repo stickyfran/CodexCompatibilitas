@@ -1,0 +1,271 @@
+{
+  "id": "dell-optiplex-optiplex-380-0400",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 380",
+  "system_id": "0400",
+  "dmi_matches": [
+    "Optiplex OptiPlex 380",
+    "OptiPlex 380",
+    "0400"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-J5VX9",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02123413M/1/Optiplex 380-win7-A05-J5VX9.CAB",
+      "size_bytes": 287414587,
+      "md5": "042B07C62F02AEE81542780E580D9DB0",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-GMVHW",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02123383M/1/Optiplex 380-xp-A08-GMVHW.CAB",
+      "size_bytes": 306705552,
+      "md5": "3A988518C5D13D25D79FC6502B59F38B",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "security",
+      "name": "UPEK Windows Biometric Framework",
+      "version": "1.5.0",
+      "url": "dell://M7XVP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC269 HD Audio",
+      "version": "6.0.1.5876",
+      "url": "dell://XF89F_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "controlpoint",
+      "name": "Dell ControlPoint Security Device Driver Pack",
+      "version": "1.4.056",
+      "url": "dell://V3P97_A18-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC",
+      "version": "16.4.0",
+      "url": "dell://CTNGD_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 4500MHD;Intel GM45/GE45/GS45 UMA Graphics for Envy;Intel(R) 4 Series Express Chipset Family;Intel 4500MHD Graphics;Intel 4500HD Graphics;Intel GMA 4500MHD Graphics",
+      "version": "8.15.10.2869",
+      "url": "dell://1M8J9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 9300GE;nVIDIA GeForce 9300GE Graphics",
+      "version": "8.16.11.9141",
+      "url": "dell://136PV_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "v92 Internal Modem;Conexant D850 PCI DF Modem ULD; V92 Lead Free (Cher);Conexant D850 56K V.9X PCI DF Modem ULD;56K V.9x DFVc Modem",
+      "version": "Drv_Win7-32_7.80.4.0",
+      "url": "dell://43N6R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "ZTE IC Trusted Cryptography Module(TCM);ZTE IC Trusted Cryptography Module (TCM)",
+      "version": "05/04/2009,2.1.5.04",
+      "url": "dell://HK8TV_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Wireless 1505 Draft 802.11n WLAN Mini-Card Desktops,Wireless WLAN 1510 Half MiniCard (4322),Wireless 1520 802.11n MiniCard WLAN for Desktops",
+      "version": "A32",
+      "url": "dell://R255720",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD3450 256M",
+      "version": "8.680.0.0000",
+      "url": "dell://1KWRY_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Mobile Chipset;Intel Chipset",
+      "version": "9.1.1.1025",
+      "url": "dell://R0JHR_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 9300GE;nVIDIA GeForce 9300GE Graphics",
+      "version": "8.16.11.9141",
+      "url": "dell://NX5G4_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "UPEK Windows Biometric Framework",
+      "version": "1.5.0",
+      "url": "dell://10CT3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Wireless 1505 Draft 802.11n WLAN Mini-Card Desktops,Wireless WLAN 1510 Half MiniCard (4322),Wireless 1520 802.11n MiniCard WLAN for Desktops",
+      "version": "A32",
+      "url": "dell://R255720",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC269 HD Audio",
+      "version": "6.0.1.5876",
+      "url": "dell://XF89F_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 4500MHD;Intel GM45/GE45/GS45 UMA Graphics for Envy;Intel(R) 4 Series Express Chipset Family;Intel 4500MHD Graphics;Intel 4500HD Graphics;Intel GMA 4500MHD Graphics",
+      "version": "8.15.10.2869",
+      "url": "dell://CR3WK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "v92 Internal Modem;Conexant D850 PCI DF Modem ULD; V92 Lead Free (Cher);Conexant D850 56K V.9X PCI DF Modem ULD;56K V.9x DFVc Modem",
+      "version": "Drv_Win7-32_7.80.4.0",
+      "url": "dell://43N6R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "ZTE IC Trusted Cryptography Module(TCM);ZTE IC Trusted Cryptography Module (TCM)",
+      "version": "05/04/2009,2.1.5.04",
+      "url": "dell://HK8TV_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC",
+      "version": "16.4.0",
+      "url": "dell://YMHGV_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD3450 256M",
+      "version": "8.680.0.0000",
+      "url": "dell://1KWRY_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Mobile Chipset;Intel Chipset",
+      "version": "9.1.1.1025",
+      "url": "dell://R0JHR_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

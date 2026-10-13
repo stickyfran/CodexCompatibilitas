@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7330-0b0a",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7330",
+  "system_id": "0B0A",
+  "dmi_matches": [
+    "Latitude Latitude 7330",
+    "Latitude 7330",
+    "0B0A"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-RXRC4",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12858194M/1/Latitude-7330-RXRC4_Win10_1.0_A12.exe",
+      "size_bytes": 1841210440,
+      "md5": "5A5C2975B601CEC2D8F47C54985A62B9",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    },
+    {
+      "name": "DellPack-DDM6W",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12858191M/1/Latitude-7330-DDM6W_Win11_1.0_A12.exe",
+      "size_bytes": 1480135728,
+      "md5": "BE23BF1911DE22782E294623483FC616",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

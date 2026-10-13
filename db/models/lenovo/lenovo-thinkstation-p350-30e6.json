@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkstation-p350-30e6",
+  "vendor": "Lenovo",
+  "family": "Thinkstation",
+  "model_name": "ThinkStation P350 (Type 30E6)",
+  "system_id": "30E6",
+  "dmi_matches": [
+    "ThinkStation P350",
+    "30E6"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-21H1",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p350_w1064_21h1_202504.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-06-12"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p350_w11_21_202504.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-06-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-max-desktops-dell-pro-max-micro-fcm2250-0d14",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Desktops",
+  "model_name": "Dell Pro Max Desktops Dell Pro Max Micro FCM2250",
+  "system_id": "0D14",
+  "dmi_matches": [
+    "Dell Pro Max Desktops Dell Pro Max Micro FCM2250",
+    "Dell Pro Max Micro FCM2250",
+    "0D14"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-5898M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14649131M/1/FCM2250-5898M_Win10_1.0_A07.exe",
+      "size_bytes": 4090298128,
+      "md5": "2AFC9A222B09A1969C77C813EC68C83A",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-28T04:57:01"
+    },
+    {
+      "name": "DellPack-4DK5R",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14649137M/1/FCM2250-4DK5R_Win11_1.0_A07.exe",
+      "size_bytes": 4123691384,
+      "md5": "B4C43BE655299FAE3C07B5FD6FF0FD13",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-28T04:57:01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-680-g1-tower-pc-18e7",
+  "vendor": "HP",
+  "family": "Prodesk",
+  "model_name": "HP ProDesk 680 G1 Tower PC",
+  "system_id": "18e7",
+  "dmi_matches": [
+    "HP ProDesk 680 G1 Tower PC",
+    "18e7"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp92706-HP ElitePro 400-800 G1 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92706.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/14/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

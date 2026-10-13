@@ -1,0 +1,78 @@
+{
+  "id": "lenovo-thinkpad-l15-gen-4-type-21h7-21h8-21h8",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad L15 Gen 4 Type 21H7 21H8 (Type 21H8)",
+  "system_id": "21H8",
+  "dmi_matches": [
+    "ThinkPad L15 Gen 4 Type 21H7 21H8",
+    "21H8"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21h5_mt21h6_l15_mt21h7_mt21h8_w10_21h2_202507.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-01"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21h5_mt21h6_l15_mt21h7_mt21h8_w10_22h2_202507.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-01"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21h5_mt21h6_l15_mt21h7_mt21h8_w11_21h2_202401.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-01-23"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21h5_mt21h6_l15_mt21h7_mt21h8_w11_22h2_202406.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-12"
+    },
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21h5_mt21h6_l15_mt21h7_mt21h8_w11_23h2_202507.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-07"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21h5_mt21h6_l15_mt21h7_mt21h8_w11_24h2_202507.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-07-31"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

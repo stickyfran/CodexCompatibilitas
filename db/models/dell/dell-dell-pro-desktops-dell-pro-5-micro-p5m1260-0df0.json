@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-desktops-dell-pro-5-micro-p5m1260-0df0",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Desktops Dell Pro 5 Micro P5M1260",
+  "system_id": "0DF0",
+  "dmi_matches": [
+    "Dell Pro Desktops Dell Pro 5 Micro P5M1260",
+    "Dell Pro 5 Micro P5M1260",
+    "0DF0"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-9TWT5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14747918M/1/P5M1260-9TWT5_Win11_1.0_A02.exe",
+      "size_bytes": 892858144,
+      "md5": "99E3BD1646F9D05E295E6483BA2E85B3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hp-hp-elitebook-6-g1i-14-inch-notebook-ai-pc-8deb",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 6 G1i 14 inch Notebook AI PC",
+  "system_id": "8DEB",
+  "dmi_matches": [
+    "HP EliteBook 6 G1i 14 inch Notebook AI PC",
+    "8DEB"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp161684-HP EliteBook 6 G1i  AI  Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161684.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/29/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp174329-HP EliteBook 6 G1i  AI  Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174329.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "8/12/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

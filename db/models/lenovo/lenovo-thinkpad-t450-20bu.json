@@ -1,0 +1,28 @@
+{
+  "id": "lenovo-thinkpad-t450-20bu",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T450 (Type 20BU)",
+  "system_id": "20BU",
+  "dmi_matches": [
+    "ThinkPad T450",
+    "20BU"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-*",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t450s_w1064_201906.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-07-05"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

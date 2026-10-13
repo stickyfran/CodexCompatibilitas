@@ -43,6 +43,249 @@
       "release_date": "2014-05-29T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "10.1207.101.102",
+      "url": "dell://VRPMP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ600xxx Memory Card Reader Driver",
+      "version": "3.0.7.23",
+      "url": "dell://KC9W0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology (Pre-OS Install) Driver",
+      "version": "10.1.0.1008",
+      "url": "dell://4HM0V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless WLAN 1501/1530 Half Mini-Card Driver",
+      "version": "A01",
+      "url": "dell://6J9V8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine 7.1 Components Installer",
+      "version": "7.1.70.1205",
+      "url": "dell://MPGY4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Intel(R) WiFi Link 6300, Intel (R) WiFi Link 6250, Intel(R) WiFi Link 6205, v.14.00.20110, A01",
+      "version": "14.0.20110",
+      "url": "dell://FDKT7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault",
+      "version": "2.3.309.1625",
+      "url": "dell://5DKPT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.67",
+      "url": "dell://CP3V3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Ethernet controller;Intel Ethernet Connection I217-LM - Diags;Intel 825xx 10/100/1000 Ethernet Network Device;Intel Ethernet Connection I2XX;Intel Ethernet Controller;Intel I2xx/825xx Gigabit Platform LAN Network Device;Intel I2xx/825xx Gigabit Ethernet Controller;Intel 825xx 10/100/1000 Ethernet Network;Intel 825xx Gigabit Ethernet Controller;Intel 825xx Gigabit platform LAN Network Device;Intel 825xx Gigabit Platform LAN Network Device;Intel 825xx 10/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet controller;Intel Device Manager Diagnostics (DMIX)",
+      "version": "18.1.0.0",
+      "url": "dell://NNGMH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Conexant D400 External USB 56K Modem",
+      "version": "Drv_Win7-32_2.0.20.0",
+      "url": "dell://H9VYG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Driver",
+      "version": "9.2.0.1030",
+      "url": "dell://T4TP8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "IDT 92HDxxx High Definition Audio Driver",
+      "version": "1.18.0",
+      "url": "dell://TT92D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Driver",
+      "version": "9.2.0.1030",
+      "url": "dell://T4TP8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "10.1207.101.102",
+      "url": "dell://VRPMP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ600xxx Memory Card Reader Driver",
+      "version": "3.0.7.23",
+      "url": "dell://KC9W0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault",
+      "version": "2.3.24.1437",
+      "url": "dell://8THGX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless WLAN 1501/1530 Half Mini-Card Driver",
+      "version": "A01",
+      "url": "dell://6J9V8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Conexant D400 External USB 56K Modem",
+      "version": "Drv_Win7-64_2.0.20.0",
+      "url": "dell://1VNXJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine 7.1 Components Installer",
+      "version": "7.1.70.1205",
+      "url": "dell://MPGY4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Ethernet controller;Intel Ethernet Connection I217-LM - Diags;Intel 825xx 10/100/1000 Ethernet Network Device;Intel Ethernet Connection I2XX;Intel Ethernet Controller;Intel I2xx/825xx Gigabit Platform LAN Network Device;Intel I2xx/825xx Gigabit Ethernet Controller;Intel 825xx 10/100/1000 Ethernet Network;Intel 825xx Gigabit Ethernet Controller;Intel 825xx Gigabit platform LAN Network Device;Intel 825xx Gigabit Platform LAN Network Device;Intel 825xx 10/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet controller;Intel Device Manager Diagnostics (DMIX)",
+      "version": "18.1.0.0",
+      "url": "dell://NNGMH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.67",
+      "url": "dell://CP3V3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver",
+      "version": "10.1.0.1008",
+      "url": "dell://9NCD1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

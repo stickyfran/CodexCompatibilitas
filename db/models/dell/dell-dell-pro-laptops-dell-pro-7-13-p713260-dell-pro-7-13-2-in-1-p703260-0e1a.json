@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-7-13-p713260-dell-pro-7-13-2-in-1-p703260-0e1a",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260",
+  "system_id": "0E1A",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260",
+    "Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260",
+    "0E1A"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-JXVYW",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14814777M/1/P7x3260-JXVYW_Win11_1.0_A03.exe",
+      "size_bytes": 1357286416,
+      "md5": "F8CFC4F253A51A01482DCE62141A36D7",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-precision-5-14s-pw514265-0e26",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Precision 5 14S PW514265",
+  "system_id": "0E26",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Precision 5 14S PW514265",
+    "Dell Pro Precision 5 14S PW514265",
+    "0E26"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-MJ98T",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14819870M/1/PW514265-MJ98T_Win11_1.0_A01.exe",
+      "size_bytes": 1057125688,
+      "md5": "1D7857C910ABFA8D7B8E0F2F893C5B5A",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-22T02:46:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

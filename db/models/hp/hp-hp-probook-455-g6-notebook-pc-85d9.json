@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-probook-455-g6-notebook-pc-85d9",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455 G6 Notebook PC",
+  "system_id": "85d9",
+  "dmi_matches": [
+    "HP ProBook 455 G6 Notebook PC",
+    "85d9"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp93254-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93001-93500/sp93254.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "1/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99461-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99461.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/30/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp103578-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103578.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114179-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114179.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/11/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

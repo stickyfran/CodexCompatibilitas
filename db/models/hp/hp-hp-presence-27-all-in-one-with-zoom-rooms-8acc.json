@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-presence-27-all-in-one-with-zoom-rooms-8acc",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Presence 27 All-in-One with Zoom Rooms",
+  "system_id": "8acc",
+  "dmi_matches": [
+    "HP Presence 27 All-in-One with Zoom Rooms",
+    "8acc"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp144635-HP EliteOne 8x0 27 G9 AIO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144635.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

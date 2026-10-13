@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3490-0cb3",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3490",
+  "system_id": "0CB3",
+  "dmi_matches": [
+    "Precision Precision 3490",
+    "Precision 3490",
+    "0CB3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-GGD17",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14525451M/1/Precision-3490-GGD17_Win11_1.0_A10.exe",
+      "size_bytes": 2976935712,
+      "md5": "F0A84E8562C5F77EC252A09C159AC5A1",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-WJW5M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14525424M/1/Precision-3490-WJW5M_Win10_1.0_A10.exe",
+      "size_bytes": 3146238168,
+      "md5": "6A7E12342D57F51DCC41F7E236C99C05",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-26T01:54:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

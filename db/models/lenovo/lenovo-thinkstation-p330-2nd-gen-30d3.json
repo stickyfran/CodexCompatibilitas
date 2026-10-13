@@ -1,0 +1,58 @@
+{
+  "id": "lenovo-thinkstation-p330-2nd-gen-30d3",
+  "vendor": "Lenovo",
+  "family": "Thinkstation",
+  "model_name": "ThinkStation P330 2nd Gen (Type 30D3)",
+  "system_id": "30D3",
+  "dmi_matches": [
+    "ThinkStation P330 2nd Gen",
+    "30D3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_2nd_gen_win10_1809_201906.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-09-15"
+    },
+    {
+      "name": "LenovoSCCM-1903",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_2nd_gen_win10_1903_201908.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-08-22"
+    },
+    {
+      "name": "LenovoSCCM-1909",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_2nd_gen_win10_1909_202001.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-09-15"
+    },
+    {
+      "name": "LenovoSCCM-2004",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_2nd_gen_w1064_2004_202008.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-09-15"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

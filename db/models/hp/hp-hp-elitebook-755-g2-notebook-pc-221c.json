@@ -1,0 +1,48 @@
+{
+  "id": "hp-hp-elitebook-755-g2-notebook-pc-221c",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 755 G2 Notebook PC",
+  "system_id": "221c",
+  "dmi_matches": [
+    "HP EliteBook 755 G2 Notebook PC",
+    "221c"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp79214-HP EliteBook 7x5 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79214.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "2/24/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp92598-HP EliteBook 7x5 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92598.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "11/9/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp96748-HP EliteBook 7x5 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96748.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/29/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

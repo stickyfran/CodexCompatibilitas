@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3930-rack-0873",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3930 Rack",
+  "system_id": "0873",
+  "dmi_matches": [
+    "Precision Precision 3930 Rack",
+    "Precision 3930 Rack",
+    "0873"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-945W2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11759414M/1/Precision-3930-Rack-945W2_Win11_1.0_A05.exe",
+      "size_bytes": 3368061200,
+      "md5": "B6F053C19C147940071A56D4687BB8A3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-W8PVM",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11759413M/1/Precision-3930-Rack-W8PVM_Win10_1.0_A23.exe",
+      "size_bytes": 3368053248,
+      "md5": "7F0AC2544A33B9A2363A8AD5594B63F4",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

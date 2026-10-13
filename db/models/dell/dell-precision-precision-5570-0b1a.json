@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5570-0b1a",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5570",
+  "system_id": "0B1A",
+  "dmi_matches": [
+    "Precision Precision 5570",
+    "Precision 5570",
+    "0B1A"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-78N9N",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12816986M/1/Precision-5570-78N9N_Win10_1.0_A15.exe",
+      "size_bytes": 2760121736,
+      "md5": "963C9561A00542FDFE044E2398BB5882",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-P9F25",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12816987M/1/Precision-5570-P9F25_Win11_1.0_A12.exe",
+      "size_bytes": 2753595736,
+      "md5": "1197BE294B4A8665077E1D563DB4F965",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

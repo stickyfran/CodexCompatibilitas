@@ -1,0 +1,29 @@
+{
+  "id": "dell-xps-notebook-xps-17-9730-0bda",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook XPS 17 9730",
+  "system_id": "0BDA",
+  "dmi_matches": [
+    "XPS Notebook XPS 17 9730",
+    "XPS 17 9730",
+    "0BDA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-4RVD0",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13701606M/1/XPS-17-9730-4RVD0_Win11_1.0_A12.exe",
+      "size_bytes": 1948394288,
+      "md5": "F915439B4B5EA6FFF7C38A1D82F0C717",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-precision-5-16-pw516261-0dbd",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Precision 5 16 PW516261",
+  "system_id": "0DBD",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Precision 5 16 PW516261",
+    "Dell Pro Precision 5 16 PW516261",
+    "0DBD"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-NP4MH",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14753372M/1/PW516261-NP4MH_Win11_1.0_A01.exe",
+      "size_bytes": 2283655968,
+      "md5": "C8C7A79AB9A61F76DF64720B63D51FDC",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

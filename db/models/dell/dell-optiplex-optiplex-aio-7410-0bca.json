@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-aio-7410-0bca",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex AIO 7410",
+  "system_id": "0BCA",
+  "dmi_matches": [
+    "Optiplex OptiPlex AIO 7410",
+    "OptiPlex AIO 7410",
+    "0BCA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-C7YJ8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14364016M/1/OptiPlex-AIO-7410-C7YJ8_Win10_1.0_A14.exe",
+      "size_bytes": 3157509936,
+      "md5": "9EE9488E27C62C34550E71D19FB334F4",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-457F3",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14364024M/1/OptiPlex-AIO-7410-457F3_Win11_1.0_A14.exe",
+      "size_bytes": 3151671904,
+      "md5": "9A27F441199A05FCD13F1B9A3D0A1F3D",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,194 @@
+{
+  "id": "dell-latitude-3300-08bb",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3300",
+  "system_id": "08BB",
+  "dmi_matches": [
+    "Latitude 3300",
+    "Latitue 3300",
+    "08BB"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-K15N4",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER08644746M/1/3300_Win10_K15N4_64Bit_1.0_A13.exe",
+      "size_bytes": 2050709888,
+      "md5": "BE6CBB2BEBB9BC898E20F7A753105E31",
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-06-13T14:57:24"
+    },
+    {
+      "name": "DellPack-67P1H",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER08103691M/1/3300-win11-A00-67P1H.CAB",
+      "size_bytes": 828272595,
+      "md5": "20EFA7CAB072B4782B34369C8CB71BC5",
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell://5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.9228.1",
+      "url": "dell://553GV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2141.15.0.2511",
+      "url": "dell://YDF1N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.1943.2",
+      "url": "dell://6CYP4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.18362.31252",
+      "url": "dell://66CVW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "2.2.1.31",
+      "url": "dell://04DM5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.4.11000.6436",
+      "url": "dell://2JFT4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.377",
+      "url": "dell://33CDY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel AX211/AX210/AX201/AX200/9560/9260/9462/8265/3165 Wi-Fi UWD Driver",
+      "version": "22.100.0.3",
+      "url": "dell://9G4G4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel AX211/AX210/AX200/AX201/9560/9260/9462/8265/3165 Bluetooth UWD Driver",
+      "version": "22.100.0.3",
+      "url": "dell://FVF95_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
+      "version": "12.0.0.1118",
+      "url": "dell://8875N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe Ethernet Controller Driver",
+      "version": "2.45.2018.0626",
+      "url": "dell://2G7WM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver",
+      "version": "17.9.6.1019",
+      "url": "dell://62C56_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "26.20.100.7262",
+      "url": "dell://11XKD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

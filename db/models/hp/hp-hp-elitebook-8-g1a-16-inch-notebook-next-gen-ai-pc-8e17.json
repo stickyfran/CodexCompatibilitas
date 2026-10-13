@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-8-g1a-16-inch-notebook-next-gen-ai-pc-8e17",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC",
+  "system_id": "8E17",
+  "dmi_matches": [
+    "HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC",
+    "8E17"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp168444-HP EB/ZB 8 G1a/ak NG NB/MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168444.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "12/17/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

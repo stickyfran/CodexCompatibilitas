@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7350-detachable-0daa",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7350 Detachable",
+  "system_id": "0DAA",
+  "dmi_matches": [
+    "Latitude Latitude 7350 Detachable",
+    "Latitude 7350 Detachable",
+    "0DAA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-CY6G2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14355817M/1/Latitude-7350-Detachable-CY6G2_Win10_1.0_A09.exe",
+      "size_bytes": 1304550520,
+      "md5": "B24AE32385974B226E86304E9A20FD75",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    },
+    {
+      "name": "DellPack-2M87N",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14355831M/1/Latitude-7350-Detachable-2M87N_Win11_1.0_A09.exe",
+      "size_bytes": 1130164424,
+      "md5": "D19D97794A3FBE106E5F0EE38410DA49",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

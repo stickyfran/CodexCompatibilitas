@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-7960-rack-0aaa",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 7960 Rack",
+  "system_id": "0AAA",
+  "dmi_matches": [
+    "Precision Precision 7960 Rack",
+    "Precision 7960 Rack",
+    "0AAA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-THW7X",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14214603M/1/Precision-7960-Rack-THW7X_Win10_1.0_A09.exe",
+      "size_bytes": 1417705360,
+      "md5": "5D1164D44FF944F8F9D0AECEEED5160E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    },
+    {
+      "name": "DellPack-DVXGJ",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14214605M/1/Precision-7960-Rack-DVXGJ_Win11_1.0_A09.exe",
+      "size_bytes": 1416468008,
+      "md5": "88AE13F477A2237E56BFEA0F1B958F05",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

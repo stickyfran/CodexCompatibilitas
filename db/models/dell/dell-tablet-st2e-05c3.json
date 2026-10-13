@@ -1,0 +1,84 @@
+{
+  "id": "dell-tablet-st2e-05c3",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Tablet ST2E",
+  "system_id": "05C3",
+  "dmi_matches": [
+    "Tablet ST2E",
+    "Latitude 10 - ST2e",
+    "05C3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-CJV1P",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02228912M/1/ST2E-Win8.1-A02-CJV1P.CAB",
+      "size_bytes": 25671474,
+      "md5": "7376AE67A4C2CAACDBC6B84023EDB1CD",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-06-28T00:00:00"
+    },
+    {
+      "name": "DellPack-53K39",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER01948327M/1/ST2E-win8-A06-53K39.CAB",
+      "size_bytes": 125928888,
+      "md5": "2E0C62AFE298CC00D351792AABEDD70A",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-01-24T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Driver Pack for User Installation",
+      "version": "9.14.3.1168",
+      "url": "dell://T0Y17_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Smartcard USB Keyboard",
+      "version": "1.0",
+      "url": "dell://CCHT0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "SMSC LAN7500",
+      "version": "2.2.2.2",
+      "url": "dell://R84GF_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom Wireless WLAN BT 1536C Half MiniCard",
+      "version": "12.0",
+      "url": "dell://4Y0Y8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

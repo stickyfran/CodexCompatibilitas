@@ -43,6 +43,26 @@
       "sha256": null,
       "version": "8.00 A 1",
       "release_date": "6/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp99589-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99589.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/16/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101209-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101209.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/6/2020 12:00:00 AM"
     }
   ],
   "individual_drivers": [

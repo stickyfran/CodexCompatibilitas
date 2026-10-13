@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkpad-e14-gen-7-type-21sx-21sy-21sy",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad E14 Gen 7 Type 21SX 21SY (Type 21SY)",
+  "system_id": "21SY",
+  "dmi_matches": [
+    "ThinkPad E14 Gen 7 Type 21SX 21SY",
+    "21SY"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_g7_e16_g3_l14p_g6_mt21sx-sy-sr-ss-ua_w11_24h2_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-07"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_g7_e16_g3_l14p_g6_mt21sx-sy-sr-ss-ua_w11_24h2_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

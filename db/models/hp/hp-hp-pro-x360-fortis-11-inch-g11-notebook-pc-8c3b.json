@@ -23,6 +23,26 @@
       "sha256": null,
       "version": "7.00 1 A",
       "release_date": "4/27/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp149054-HP Pro x360 Fortis G11 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149054.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "8/31/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp150165-HP Pro x360 Fortis G11 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150001-150500/sp150165.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "11/16/2023 12:00:00 AM"
     }
   ],
   "individual_drivers": [

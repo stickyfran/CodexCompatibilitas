@@ -42,6 +42,36 @@
       "sha256": null,
       "version": "14.00 A 1",
       "release_date": "6/15/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp91854-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp91501-92000/sp91854.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/7/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95435-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95435.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "3/21/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp103616-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103616.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "12.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
     }
   ],
   "individual_drivers": [

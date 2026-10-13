@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-7-13-p713265-dell-pro-7-13-2-in-1-p703265-0e21",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265",
+  "system_id": "0E21",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265",
+    "Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265",
+    "0E21"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-PKJTY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14830868M/1/P7x3265-PKJTY_Win11_1.0_A01.exe",
+      "size_bytes": 1055205104,
+      "md5": "8F269AB52ECE68B4160B0CCB46463066",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-22T02:46:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

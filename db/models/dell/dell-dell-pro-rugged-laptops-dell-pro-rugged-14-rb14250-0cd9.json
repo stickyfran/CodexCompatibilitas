@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-rugged-laptops-dell-pro-rugged-14-rb14250-0cd9",
+  "vendor": "Dell",
+  "family": "Dell Pro Rugged Laptops",
+  "model_name": "Dell Pro Rugged Laptops Dell Pro Rugged 14 RB14250",
+  "system_id": "0CD9",
+  "dmi_matches": [
+    "Dell Pro Rugged Laptops Dell Pro Rugged 14 RB14250",
+    "Dell Pro Rugged 14 RB14250",
+    "0CD9"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-R2FJ7",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14209159M/1/RB14250-R2FJ7_Win10_1.0_A05.exe",
+      "size_bytes": 2758457392,
+      "md5": "F2E0A4F5A9FA4957969394E5369FF44B",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-03-09T04:11:11"
+    },
+    {
+      "name": "DellPack-XHT33",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14274805M/1/RB14250-XHT33_Win11_1.0_A05.exe",
+      "size_bytes": 2301459912,
+      "md5": "5313428F90596B31D0337AF47EB8FCE3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-03-09T04:11:11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,128 @@
+{
+  "id": "lenovo-thinkpad-p52-type-20m9-20ma-20m9",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad P52 Type 20M9 20MA (Type 20M9)",
+  "system_id": "20M9",
+  "dmi_matches": [
+    "ThinkPad P52 Type 20M9 20MA",
+    "20M9"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1703",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_1703_202003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-10-31"
+    },
+    {
+      "name": "LenovoSCCM-1709",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_1709_202003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-07-29"
+    },
+    {
+      "name": "LenovoSCCM-1803",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_1803_202003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-09-19"
+    },
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_1809_202003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-09-30"
+    },
+    {
+      "name": "LenovoSCCM-1903",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_1903_202003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-09-30"
+    },
+    {
+      "name": "LenovoSCCM-1909",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_1909_202003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-02-17"
+    },
+    {
+      "name": "LenovoSCCM-2004",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_2004_202005.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-06-16"
+    },
+    {
+      "name": "LenovoSCCM-20H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_20h2_202011.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-12-22"
+    },
+    {
+      "name": "LenovoSCCM-21H1",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_21H1_202105.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-05-24"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w1064_21h2_202201.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-02-28"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p52_p72_w11_21_202110.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-11-02"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

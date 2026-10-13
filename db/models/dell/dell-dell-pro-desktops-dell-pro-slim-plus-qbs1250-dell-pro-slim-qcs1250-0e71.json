@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-desktops-dell-pro-slim-plus-qbs1250-dell-pro-slim-qcs1250-0e71",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Desktops Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+  "system_id": "0E71",
+  "dmi_matches": [
+    "Dell Pro Desktops Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+    "Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+    "0E71"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-HJTM6",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14643760M/1/QxS1250-HJTM6_Win11_1.0_A06.exe",
+      "size_bytes": 4139590424,
+      "md5": "6C4181F2FF8D8DA4DBAE85CBF5FE7BEA",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-28T04:57:01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

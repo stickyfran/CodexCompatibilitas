@@ -1,0 +1,392 @@
+{
+  "id": "dell-optiplex-optiplex-7490-aio-0a46",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 7490 AIO",
+  "system_id": "0A46",
+  "dmi_matches": [
+    "Optiplex OptiPlex 7490 AIO",
+    "OptiPlex 7490 AIO",
+    "0A46"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-NGK7X",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11010022M/1/7490-AIO-NGK7X_Win10_1.0_A12.exe",
+      "size_bytes": 2478195232,
+      "md5": "803E126F4FE3509D505D6B38465DDB7F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-03-08T00:14:17"
+    },
+    {
+      "name": "DellPack-9MFPM",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11010023M/1/7490-AIO-9MFPM_Win11_1.0_A06.exe",
+      "size_bytes": 2478209696,
+      "md5": "BA26D7FB208756821D0E0BC4AC8013BB",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-03-08T00:14:17"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2313.4.16.0",
+      "url": "dell://FKVDM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel AX411/AX211/AX210/AX201/AX200/9560/9462/9260/7265/3165 Wi-Fi UWD Driver",
+      "version": "22.250.0.4",
+      "url": "dell://VTN7J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA GeForce MX330/MX110 and GTX 1050/1650/1650 Ti Graphics Driver",
+      "version": "31.0.15.4609",
+      "url": "dell://31FF2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel PCIe Ethernet Controller Driver",
+      "version": "12.19.2.50",
+      "url": "dell://99KJH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.19041.20149",
+      "url": "dell://TPP6D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.19468.8385",
+      "url": "dell://RVRV0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Genesys Memory Card Reader Driver",
+      "version": "1.1.25.0",
+      "url": "dell://549WY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Application",
+      "version": "18.7.1.1003",
+      "url": "dell://8KYW6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "31.0.101.4502",
+      "url": "dell://C19G3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "3.0.0",
+      "url": "dell://MTM06_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
+      "version": "12.0.0.1118",
+      "url": "dell://R6WP6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "application",
+      "name": "Dell Watchdog Timer Driver",
+      "version": "1.2.1.0",
+      "url": "dell://NF5DX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.22000.21350",
+      "url": "dell://V7D59_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel AX411/AX211/AX210/AX201/AX200/9560/9462/9260/7265/3165 Bluetooth UWD Driver",
+      "version": "22.250.0.2",
+      "url": "dell://PGNRR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.384",
+      "url": "dell://V2HFM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.9582.1",
+      "url": "dell://41CWH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2313.4.16.0",
+      "url": "dell://FKVDM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel AX411/AX211/AX210/AX201/AX200/9560/9462/9260/7265/3165 Wi-Fi UWD Driver",
+      "version": "22.250.0.4",
+      "url": "dell://VTN7J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA GeForce MX330/MX110 and GTX 1050/1650/1650 Ti Graphics Driver",
+      "version": "31.0.15.4609",
+      "url": "dell://31FF2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel PCIe Ethernet Controller Driver",
+      "version": "12.19.2.50",
+      "url": "dell://99KJH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.19041.20149",
+      "url": "dell://TPP6D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.19468.8385",
+      "url": "dell://RVRV0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Genesys Memory Card Reader Driver",
+      "version": "1.1.25.0",
+      "url": "dell://549WY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Application",
+      "version": "18.7.1.1003",
+      "url": "dell://8KYW6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "31.0.101.4502",
+      "url": "dell://C19G3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "3.0.0",
+      "url": "dell://MTM06_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 Wi-Fi and Bluetooth Driver",
+      "version": "12.0.0.1118",
+      "url": "dell://R6WP6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "application",
+      "name": "Dell Watchdog Timer Driver",
+      "version": "1.2.1.0",
+      "url": "dell://NF5DX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.22000.21350",
+      "url": "dell://V7D59_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel AX411/AX211/AX210/AX201/AX200/9560/9462/9260/7265/3165 Bluetooth UWD Driver",
+      "version": "22.250.0.2",
+      "url": "dell://PGNRR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.384",
+      "url": "dell://V2HFM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.9582.1",
+      "url": "dell://41CWH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-zbook-firefly-15-g7-mobile-workstation-8724",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 15 G7 Mobile Workstation",
+  "system_id": "8724",
+  "dmi_matches": [
+    "HP ZBook Firefly 15 G7 Mobile Workstation",
+    "8724"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp104372-HP Elite/ZBook 8x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp104001-104500/sp104372.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/10/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110181-HP Elite/ZBook 8x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110181.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/21/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113588-HP Elite/ZBook 8x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113588.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "5/3/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140701-HP Elite/ZBook 8x0 G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140701.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "6/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

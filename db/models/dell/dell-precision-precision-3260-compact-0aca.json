@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3260-compact-0aca",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3260 Compact",
+  "system_id": "0ACA",
+  "dmi_matches": [
+    "Precision Precision 3260 Compact",
+    "Precision 3260 Compact",
+    "0ACA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-1N3DV",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14630267M/1/Precision-3260-Compact-1N3DV_Win11_1.0_A18.exe",
+      "size_bytes": 2957920104,
+      "md5": "8DBD831A88D26F666730283704907CD8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    },
+    {
+      "name": "DellPack-RTTN2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14630213M/1/Precision-3260-Compact-RTTN2_Win10_1.0_A19.exe",
+      "size_bytes": 2954123368,
+      "md5": "AF605136FCB3695687E8E112AFF7CC96",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

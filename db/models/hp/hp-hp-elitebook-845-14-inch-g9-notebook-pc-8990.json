@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-elitebook-845-14-inch-g9-notebook-pc-8990",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 845 14 inch G9 Notebook PC",
+  "system_id": "8990",
+  "dmi_matches": [
+    "HP EliteBook 845 14 inch G9 Notebook PC",
+    "8990"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp150286-HP EliteBook 8x5 G9 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150001-150500/sp150286.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "11/30/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp153074-HP EliteBook 8x5 G9 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp153001-153500/sp153074.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "5/27/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp150287-HP EliteBook 8x5 G9 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150001-150500/sp150287.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "12/3/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp153111-HP EliteBook 8x5 G9 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp153001-153500/sp153111.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "12/5/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

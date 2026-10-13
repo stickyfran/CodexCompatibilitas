@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-3-14-p314260-0ea3",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 3 14 P314260",
+  "system_id": "0EA3",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 3 14 P314260",
+    "Dell Pro 3 14 P314260",
+    "0EA3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-5V66Y",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14619842M/1/P314260-5V66Y_Win11_1.0_A01.exe",
+      "size_bytes": 1265083296,
+      "md5": "145F87633AA9C7CA1B5787E780C3AD9F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-02T04:51:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

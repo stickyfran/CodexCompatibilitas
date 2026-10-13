@@ -1,0 +1,260 @@
+{
+  "id": "dell-xps-notebook-9710-0a5d",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook 9710",
+  "system_id": "0A5D",
+  "dmi_matches": [
+    "XPS Notebook 9710",
+    "XPS 17 9710",
+    "0A5D"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-4KHFH",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER10496427M/1/9710-4KHFH_Win10_1.0_A14.exe",
+      "size_bytes": 2088837968,
+      "md5": "8226C448640C61D476F63C46E713FD72",
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-10-10T04:04:50"
+    },
+    {
+      "name": "DellPack-0R0TF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER10496448M/1/9710-0R0TF_Win11_1.0_A12.exe",
+      "size_bytes": 2088840224,
+      "md5": "09FFF5BB1154F540D340374F39E76F24",
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-10-10T04:04:50"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "application",
+      "name": "Dolby Vision Panel Driver",
+      "version": "1.0.0.1",
+      "url": "dell://PPF5K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Application",
+      "version": "18.7.1.1003",
+      "url": "dell://8KYW6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer 1690/1675/1650 Wi-Fi Controller Driver",
+      "version": "34.23.386",
+      "url": "dell://JC4KG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA GeForce RTX 3050/3060 Graphics Driver",
+      "version": "31.0.15.3209",
+      "url": "dell://2P2VC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek Audio Driver",
+      "version": "10.0.220.1",
+      "url": "dell://TT1D9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "1.41.1335.0",
+      "url": "dell://TBTB4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Tuning Driver",
+      "version": "8.7.10800.23155",
+      "url": "dell://HM3HN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.384",
+      "url": "dell://V2HFM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18698.8258",
+      "url": "dell://22X5D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "DisplayLink Dock Driver",
+      "version": "10.3.6400.0",
+      "url": "dell://N3YD5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2313.4.16.0",
+      "url": "dell://FKVDM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Goodix Fingerprint Sensor Driver",
+      "version": "3.4.39.260",
+      "url": "dell://V30Y0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.22000.21350",
+      "url": "dell://V7D59_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.2104.1",
+      "url": "dell://55PHH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio DCH Driver",
+      "version": "6.3.9600.2330",
+      "url": "dell://7366F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer AX1690/AX1675/AX1650 and Intel AX411/AX211/AX210/AX201/AX200/9560/9462/9260/8265/8260/7265/3165 Bluetooth UWD Driver",
+      "version": "22.200.0.2",
+      "url": "dell://XJFW3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "1153.10.20.1104",
+      "url": "dell://YK00J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD/Iris Xe Graphics Driver",
+      "version": "31.0.101.4502",
+      "url": "dell://RX9J1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "application",
+      "name": "Dell PremierColor Panel Driver",
+      "version": "1.0.0.0",
+      "url": "dell://KJTVY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Integrated Sensor Solution Driver",
+      "version": "3.10.100.4477",
+      "url": "dell://0FM72_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-max-desktops-fct2250-0ce1",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Desktops",
+  "model_name": "Dell Pro Max Desktops FCT2250",
+  "system_id": "0CE1",
+  "dmi_matches": [
+    "Dell Pro Max Desktops FCT2250",
+    "FCT2250",
+    "0CE1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-15WH7",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13500586M/1/FCT2250-15WH7_Win11_1.0_A01.exe",
+      "size_bytes": 4277711424,
+      "md5": "2C8323E6B93073AE6D767630B8F4ACF8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-24T23:48:03"
+    },
+    {
+      "name": "DellPack-PKJKR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13500584M/1/FCT2250-PKJKR_Win10_1.0_A01.exe",
+      "size_bytes": 4274092224,
+      "md5": "D7D4F6CCD6DF7BA387A734E5479DA213",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-08-24T23:48:03"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-3090-ultra-0a31",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 3090 Ultra",
+  "system_id": "0A31",
+  "dmi_matches": [
+    "Optiplex OptiPlex 3090 Ultra",
+    "OptiPlex 3090 Ultra",
+    "0A31"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-V85TP",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11265367M/1/3090-ULTRA-V85TP_Win10_1.0_A16.exe",
+      "size_bytes": 1734425656,
+      "md5": "3711E60FBD9BED3040C8CF3393E16824",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    },
+    {
+      "name": "DellPack-F2F6F",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11266159M/1/3090-ULTRA-F2F6F_Win11_1.0_A08.exe",
+      "size_bytes": 1710938888,
+      "md5": "3F31A52A8444E45CFC64E429FA633EBA",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

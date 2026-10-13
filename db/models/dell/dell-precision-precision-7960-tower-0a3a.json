@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-7960-tower-0a3a",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 7960 Tower",
+  "system_id": "0A3A",
+  "dmi_matches": [
+    "Precision Precision 7960 Tower",
+    "Precision 7960 Tower",
+    "0A3A"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-WMT25",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14372391M/1/Precision-7960-Tower-WMT25_Win10_1.0_A11.exe",
+      "size_bytes": 1683674080,
+      "md5": "A7FC43CF9872D539B82209B5EC2E2E7A",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-WN2Y6",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14372392M/1/Precision-7960-Tower-WN2Y6_Win11_1.0_A08.exe",
+      "size_bytes": 1684075656,
+      "md5": "FFF402D3E7772C4ECE1BABFE91021A14",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

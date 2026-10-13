@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-elitebook-655-15.6-inch-g10-notebook-pc-8b5f",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 655 15.6 inch G10 Notebook PC",
+  "system_id": "8B5F",
+  "dmi_matches": [
+    "HP EliteBook 655 15.6 inch G10 Notebook PC",
+    "8B5F"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp147284-HP Pro/EliteBook 4/6x5 G10 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147284.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/22/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149205-HP Pro/EliteBook 4/6x5 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149205.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/14/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151777-HP Pro/EliteBook 4/6x5 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151777.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/20/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp169014-HP Pro/EliteBook 4/6x5 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp169001-169500/sp169014.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/16/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

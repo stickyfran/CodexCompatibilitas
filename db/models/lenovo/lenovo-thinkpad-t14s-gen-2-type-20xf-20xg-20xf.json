@@ -1,0 +1,108 @@
+{
+  "id": "lenovo-thinkpad-t14s-gen-2-type-20xf-20xg-20xf",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T14S Gen 2 Type 20XF 20XG (Type 20XF)",
+  "system_id": "20XF",
+  "dmi_matches": [
+    "ThinkPad T14S Gen 2 Type 20XF 20XG",
+    "20XF"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1909",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen2_1909_w1064_202204.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-04-28"
+    },
+    {
+      "name": "LenovoSCCM-2004",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen_2a_mt20xf-20xg-20xh-20xj_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "LenovoSCCM-20H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen_2a_mt20xf-20xg-20xh-20xj_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "LenovoSCCM-21H1",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen_2a_mt20xf-20xg-20xh-20xj_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen_2a_mt20xf-20xg-20xh-20xj_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen_2a_mt20xf-20xg-20xh-20xj_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen_2a_mt20xf-20xg-20xh-20xj_w11_21_22_24_202409.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-10-14"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen_2a_mt20xf-20xg-20xh-20xj_w11_21_22_24_202409.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-10-14"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_x13_gen_2a_mt20xf-20xg-20xh-20xj_w11_21_22_24_202409.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-10-14"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

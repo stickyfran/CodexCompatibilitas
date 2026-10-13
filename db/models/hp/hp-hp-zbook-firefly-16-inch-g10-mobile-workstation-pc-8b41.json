@@ -1,0 +1,48 @@
+{
+  "id": "hp-hp-zbook-firefly-16-inch-g10-mobile-workstation-pc-8b41",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 16 inch G10 Mobile Workstation PC",
+  "system_id": "8b41",
+  "dmi_matches": [
+    "HP ZBook Firefly 16 inch G10 Mobile Workstation PC",
+    "8b41"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp147159-HP EB/ZB/x360 8x0/1040/FF G10 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147159.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp150833-HP EB/ZB/x360 8x0/1040/FF G10 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150833.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "1/12/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp160195-HP EB/ZB/x360 8x0/1040/FF G10 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160195.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "11/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

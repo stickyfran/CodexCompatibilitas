@@ -22,6 +22,36 @@
       "sha256": null,
       "version": "6.00 A 1",
       "release_date": "2/18/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp123507-HP ElitePro 4/6/8x0 G6/7 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123507.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp108773-HP ElitePro 4/6/8x0 G6/7 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108773.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "8/26/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp136330-HP ElitePro 4/6/8x0 G6/7 PC Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136330.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/24/2021 12:00:00 AM"
     }
   ],
   "individual_drivers": [

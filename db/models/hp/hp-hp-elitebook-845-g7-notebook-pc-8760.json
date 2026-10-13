@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-elitebook-845-g7-notebook-pc-8760",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 845 G7 Notebook PC",
+  "system_id": "8760",
+  "dmi_matches": [
+    "HP EliteBook 845 G7 Notebook PC",
+    "8760"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp106199-HP EliteBook 8x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp106001-106500/sp106199.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/16/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110931-HP EliteBook 8x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110931.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "11/6/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp142805-HP EliteBook 8x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142805.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "9/30/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp142804-HP EliteBook 8x5 G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142804.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/6/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

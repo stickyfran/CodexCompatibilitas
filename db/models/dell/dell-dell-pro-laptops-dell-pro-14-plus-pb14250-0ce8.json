@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-14-plus-pb14250-0ce8",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 14 Plus PB14250",
+  "system_id": "0CE8",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 14 Plus PB14250",
+    "Dell Pro 14 Plus PB14250",
+    "0CE8"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-121HY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14767362M/1/PB14250-121HY_Win11_1.0_A08.exe",
+      "size_bytes": 1912958200,
+      "md5": "945B8401E58F9D1E6D04648E03252568",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-22T22:53:24"
+    },
+    {
+      "name": "DellPack-PTXY3",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14670531M/1/PB14250-PTXY3_Win10_1.0_A08.exe",
+      "size_bytes": 1999804720,
+      "md5": "371984A12E4C2D31E583CC0B6629B604",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,78 @@
+{
+  "id": "hp-hp-elitebook-846-g5-notebook-pc-83b2",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 846 G5 Notebook PC",
+  "system_id": "83b2",
+  "dmi_matches": [
+    "HP EliteBook 846 G5 Notebook PC",
+    "83b2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp87003-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87001-87500/sp87003.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "3/27/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp87609-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87609.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "5/3/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95434-HP Elite/ZBook 8x0 G5 Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95434.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "3/21/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99708-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99708.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "11/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp103617-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103617.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114196-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114196.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "13.00 A 1",
+      "release_date": "6/15/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

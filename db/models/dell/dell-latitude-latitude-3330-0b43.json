@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3330-0b43",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3330",
+  "system_id": "0B43",
+  "dmi_matches": [
+    "Latitude Latitude 3330",
+    "Latitude 3330",
+    "0B43"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-809MK",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13708508M/1/Latitude-3330-809MK_Win10_1.0_A17.exe",
+      "size_bytes": 870162472,
+      "md5": "A2356D36140B4B5E2B23B805D1726628",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    },
+    {
+      "name": "DellPack-8RFR2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13708505M/1/Latitude-3330-8RFR2_Win11_1.0_A17.exe",
+      "size_bytes": 870758688,
+      "md5": "8D1C08573F359FF64922115E04EEFC76",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

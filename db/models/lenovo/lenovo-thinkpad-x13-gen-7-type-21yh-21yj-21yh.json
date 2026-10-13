@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkpad-x13-gen-7-type-21yh-21yj-21yh",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X13 Gen 7 Type 21YH 21YJ (Type 21YH)",
+  "system_id": "21YH",
+  "dmi_matches": [
+    "ThinkPad X13 Gen 7 Type 21YH 21YJ",
+    "21YH"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen7_intel_mt21yh-21yj_w11_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-27"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen7_intel_mt21yh-21yj_w11_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

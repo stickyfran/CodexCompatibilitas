@@ -1,0 +1,48 @@
+{
+  "id": "hp-hp-elitedesk-800-g8-tower-pc-889c",
+  "vendor": "HP",
+  "family": "Elitedesk",
+  "model_name": "HP EliteDesk 800 G8 Tower PC",
+  "system_id": "889C",
+  "dmi_matches": [
+    "HP EliteDesk 800 G8 Tower PC",
+    "889C"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp123512-HP ElitePro 6/8x0 G8 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123512.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138480-HP ElitePro 6/8x0 G8 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138480.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/21/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp136262-HP ElitePro 6/8x0 G8 PC Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136262.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

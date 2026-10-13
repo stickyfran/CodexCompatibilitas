@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-7010-tower-0bce",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 7010 Tower",
+  "system_id": "0BCE",
+  "dmi_matches": [
+    "Optiplex OptiPlex 7010 Tower",
+    "OptiPlex 7010 Tower",
+    "0BCE"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-P130Y",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14418518M/1/OptiPlex-7010-Tower-P130Y_Win10_1.0_A13.exe",
+      "size_bytes": 2969913160,
+      "md5": "0079DFD64F6E99EECD6D03432477DD26",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    },
+    {
+      "name": "DellPack-DC6VX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14418523M/1/OptiPlex-7010-Tower-DC6VX_Win11_1.0_A13.exe",
+      "size_bytes": 2973028704,
+      "md5": "2C87D8ADD4B3CD6BC72E190B093C2649",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

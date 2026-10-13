@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkstation-p3-tower-gen-2-30ht",
+  "vendor": "Lenovo",
+  "family": "Thinkstation",
+  "model_name": "ThinkStation P3 TOWER Gen 2 (Type 30HT)",
+  "system_id": "30HT",
+  "dmi_matches": [
+    "ThinkStation P3 TOWER Gen 2",
+    "30HT"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p2_gen2-p3_gen2_w11_24_25_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-09"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p2_gen2-p3_gen2_w11_24_25_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

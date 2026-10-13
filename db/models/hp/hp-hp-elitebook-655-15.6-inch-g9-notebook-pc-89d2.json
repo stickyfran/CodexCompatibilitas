@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-elitebook-655-15.6-inch-g9-notebook-pc-89d2",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 655 15.6 inch G9 Notebook PC",
+  "system_id": "89D2",
+  "dmi_matches": [
+    "HP EliteBook 655 15.6 inch G9 Notebook PC",
+    "89D2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp145268-HP ZHAN/Pro/Elite 4/6x5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145268.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "3/18/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp150831-HP ZHAN/Pro/Elite 4/6x5 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150831.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "1/11/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp151810-HP ZHAN/Pro/Elite 4/6x5 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151810.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/27/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp155663-HP ZHAN/Pro/Elite 4/6x5 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155501-156000/sp155663.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/21/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

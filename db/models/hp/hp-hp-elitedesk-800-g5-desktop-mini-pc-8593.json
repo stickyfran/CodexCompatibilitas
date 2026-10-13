@@ -43,6 +43,36 @@
       "sha256": null,
       "version": "9.00 A 2",
       "release_date": "6/14/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp96974-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96974.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/10/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101208-HP ElitePro 4/6/800 G5 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101208.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "1/27/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112643-HP ElitePro 4/6/800 G5 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112643.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/8/2021 12:00:00 AM"
     }
   ],
   "individual_drivers": [

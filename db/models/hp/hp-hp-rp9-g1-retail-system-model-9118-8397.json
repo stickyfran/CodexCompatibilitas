@@ -62,6 +62,36 @@
       "sha256": null,
       "version": "9.00 A 1",
       "release_date": "2/8/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp92272-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92272.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/22/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp112598-HP RP9 G1 IoT10 2016 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112598.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/5/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp94920-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp94501-95000/sp94920.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "5/8/2019 12:00:00 AM"
     }
   ],
   "individual_drivers": [

@@ -1,0 +1,216 @@
+{
+  "id": "dell-tablet-7140-066b",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Tablet 7140",
+  "system_id": "066B",
+  "dmi_matches": [
+    "Tablet 7140",
+    "Venue 11 Pro 7140",
+    "066B"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-XNGHF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04843753M/1/7140-win10-A06-XNGHF.CAB",
+      "size_bytes": 327920916,
+      "md5": "329DF3D4F3B8562688504A534B4F1512",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-2R3GJ",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03476108M/1/7140-win8.1-A03-2R3GJ.CAB",
+      "size_bytes": 244428832,
+      "md5": "C1943DD7F7149C29CD69B6CB3A0DEFF3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-01-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "10.0.31.1000",
+      "url": "dell://3TY1R_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.20",
+      "url": "dell://35P7F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "ASIX AX88772 Local Area Network Driver",
+      "version": "3.16.8.0",
+      "url": "dell://RJFNY_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek I2S Audio Codec Driver",
+      "version": "6.4.10041.128",
+      "url": "dell://99G4C_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX memory card reader Driver",
+      "version": "3.0.8.45",
+      "url": "dell://VPNKY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform & Thermal Framework Driver",
+      "version": "8.0.10002.14",
+      "url": "dell://66P3R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.0.0.15",
+      "url": "dell://41P2V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.4.1000",
+      "url": "dell://D60VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265 Bluetooth Application",
+      "version": "17.1.1433.2",
+      "url": "dell://YKJC1_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell://FGGYJ_A17-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Collaborative Processor Performance Control",
+      "version": "1.0.0.1016",
+      "url": "dell://1FCDH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/7260/3165 WiFi Driver",
+      "version": "18.30.0.9",
+      "url": "dell://W29M2_A16-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "1.1.226.0",
+      "url": "dell://J97VW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5810e LTE Mobile Broadband Driver and GPS Driver - This driver is not applicable to users located in Japan",
+      "version": "1.0.19",
+      "url": "dell://7RMFD_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Intel/NXP Near Field Communications Driver",
+      "version": "7.7.3.0",
+      "url": "dell://78G0N_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell://9NMJ4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

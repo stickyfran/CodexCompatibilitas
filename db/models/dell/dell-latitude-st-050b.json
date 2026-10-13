@@ -23,6 +23,106 @@
       "release_date": "2014-06-17T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "video",
+      "name": "GMA 600",
+      "version": "8.14.6.3080",
+      "url": "dell://TR5K5_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "LAN7500 NDIS Driver v1.1.9.0 for Windows (32 bit & 64 bit)",
+      "version": "v1.1.9.0",
+      "url": "dell://NJKX3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "92HD87 HD-Audio Codec Driver",
+      "version": "1.0.6359.0",
+      "url": "dell://C8RGN_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "LiteOn KeyBoard Driver",
+      "version": "4.0.8.5",
+      "url": "dell://207T0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset",
+      "version": "9.2.2.1029",
+      "url": "dell://PG38R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5550 HSPA Mini Card",
+      "version": "7.2.2.0",
+      "url": "dell://C3XKT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5630 EVDO-HSPA Mobile Broadband Mini-Card;Dell WiFi;Dell MBB AT&T US SIM Card",
+      "version": "2.2.30.1.1",
+      "url": "dell://04M3Y_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Multi-Touch Digitizer",
+      "version": "6.252.0",
+      "url": "dell://9KVFG_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless WLAN BT 1535C Half MiniCard;Dell Wireless 1535C",
+      "version": "7.4.0.135",
+      "url": "dell://TKWFP_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

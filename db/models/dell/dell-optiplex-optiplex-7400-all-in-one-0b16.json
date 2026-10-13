@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-7400-all-in-one-0b16",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 7400 All-in-One",
+  "system_id": "0B16",
+  "dmi_matches": [
+    "Optiplex OptiPlex 7400 All-in-One",
+    "OptiPlex 7400 All-in-One",
+    "0B16"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-HYN9P",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12224990M/1/OptiPlex-7400-All-in-One-HYN9P_Win10_1.0_A13.exe",
+      "size_bytes": 1758360320,
+      "md5": "B0B1EE64D4B51A53ECC658FD34254E36",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-01-09T05:44:51"
+    },
+    {
+      "name": "DellPack-8GK00",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12225008M/1/OptiPlex-7400-All-in-One-8GK00_Win11_1.0_A14.exe",
+      "size_bytes": 1758356664,
+      "md5": "0C1BFA15B6977A3E2ABE55D5F6D4C080",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-01-09T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

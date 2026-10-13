@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-7-14-p714265-dell-pro-7-14-2-in-1-p704265-0e23",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 7 14 P714265/Dell Pro 7 14 2-in-1 P704265",
+  "system_id": "0E23",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 7 14 P714265/Dell Pro 7 14 2-in-1 P704265",
+    "Dell Pro 7 14 P714265/Dell Pro 7 14 2-in-1 P704265",
+    "0E23"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-H37T2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14795743M/1/P7x4265-H37T2_Win11_1.0_A01.exe",
+      "size_bytes": 1054381168,
+      "md5": "46BD0FB0C702504A123C6CAF26F80162",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-22T02:46:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

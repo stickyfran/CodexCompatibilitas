@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-max-16-plus-mb16250-0d12",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Max 16 Plus MB16250",
+  "system_id": "0D12",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Max 16 Plus MB16250",
+    "Dell Pro Max 16 Plus MB16250",
+    "0D12"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-K9TK1",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14610473M/1/MB16250-K9TK1_Win10_1.0_A05.exe",
+      "size_bytes": 2666519576,
+      "md5": "AEDBE5C1771C154C30E41CF460AC9DF8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    },
+    {
+      "name": "DellPack-FWT3C",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14709713M/1/MB16250-FWT3C_Win11_1.0_A06.exe",
+      "size_bytes": 2281343008,
+      "md5": "0487E1A2F4710614C06F95BBDE53CB65",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-02T05:01:33"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

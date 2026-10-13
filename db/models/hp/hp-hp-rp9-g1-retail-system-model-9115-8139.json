@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-rp9-g1-retail-system-model-9115-8139",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP RP9 G1 Retail System Model 9115",
+  "system_id": "8139",
+  "dmi_matches": [
+    "HP RP9 G1 Retail System Model 9115",
+    "8139"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp99584-HP RP9 G1 IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99584.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/23/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

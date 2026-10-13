@@ -1,0 +1,138 @@
+{
+  "id": "lenovo-thinkpad-x1-carbon-7th-gen-type-20qd-20qe-20qe",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X1 Carbon 7TH Gen Type 20QD 20QE (Type 20QE)",
+  "system_id": "20QE",
+  "dmi_matches": [
+    "ThinkPad X1 Carbon 7TH Gen Type 20QD 20QE",
+    "20QE"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1709",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-x1yoga_mt20qf-20qg_w1064_1709_201912.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-12-23"
+    },
+    {
+      "name": "LenovoSCCM-1803",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-x1yoga_mt20qf-20qg_w1064_1803_202006.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-06-29"
+    },
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-x1yoga_mt20qf-20qg_w1064_1809_202006.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-06-29"
+    },
+    {
+      "name": "LenovoSCCM-1903",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_1903_202103.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-04-01"
+    },
+    {
+      "name": "LenovoSCCM-1909",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_1909_202103.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-04-01"
+    },
+    {
+      "name": "LenovoSCCM-2004",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_2004_202103.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-04-01"
+    },
+    {
+      "name": "LenovoSCCM-20H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_20h2_202103.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-04-01"
+    },
+    {
+      "name": "LenovoSCCM-21H1",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_21h1_202105.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-05-31"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_21h2_202204.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-06-13"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w1064_22h2_202211.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-03-31"
+    },
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w11_21_202110.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2021-11-05"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20qd-20qe-20r1-20r2-x1yoga_mt20qf-20qg-20sa-20sb_w11_22_202210.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2022-11-11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

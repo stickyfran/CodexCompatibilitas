@@ -1,0 +1,38 @@
+{
+  "id": "hp-hp-proone-400-g1-23-inch-non-touch-all-in-one-pc-2179",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 400 G1 23-inch Non-Touch All-in-One PC",
+  "system_id": "2179",
+  "dmi_matches": [
+    "HP ProOne 400 G1 23-inch Non-Touch All-in-One PC",
+    "2179"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp92706-HP ElitePro 400-800 G1 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92706.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/14/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp96758-HP ElitePro 400-800 G1 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96758.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/29/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

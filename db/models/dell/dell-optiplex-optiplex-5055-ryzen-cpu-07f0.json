@@ -1,0 +1,129 @@
+{
+  "id": "dell-optiplex-optiplex-5055-ryzen-cpu-07f0",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 5055 Ryzen CPU",
+  "system_id": "07F0",
+  "dmi_matches": [
+    "Optiplex OptiPlex 5055 Ryzen CPU",
+    "OptiPlex 5055 Ryzen CPU",
+    "07F0"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-42WR6",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER05767101M/1/OptiPlex 5055 Ryzen CPU-win10-A07-42WR6.CAB",
+      "size_bytes": 457179847,
+      "md5": "21E4BED3267EA3DFCDC5AD446E20F8F6",
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-10-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Broadcom NetXtreme Gigabit Ethernet Driver",
+      "version": "212.0.2.2",
+      "url": "dell://VCM57_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8311",
+      "url": "dell://KXXRV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R7 450 and R5 430 Graphics Driver",
+      "version": "23.20.808.6400",
+      "url": "dell://MN5GR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/18265/8265/7265/3165 WiFi Driver",
+      "version": "21.20.1.1834",
+      "url": "dell://417VV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.16299.21305",
+      "url": "dell://8N0GR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/18265/8265/7265/3165 Bluetooth UWD Driver",
+      "version": "21.20.0.4",
+      "url": "dell://Y19VV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Sunix Serial/Parallel Card Driver",
+      "version": "9.0.2.0",
+      "url": "dell://2JT77_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Sunix USB31 Card Cypress Driver",
+      "version": "1.2.3.20",
+      "url": "dell://GXFYW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "AMD Chipset Device Software Driver",
+      "version": "18.100.0",
+      "url": "dell://9FG0D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

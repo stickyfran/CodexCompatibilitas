@@ -1,0 +1,98 @@
+{
+  "id": "hp-hp-engage-one-all-in-one-system-model-145-830a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One All-in-One System Model 145",
+  "system_id": "830a",
+  "dmi_matches": [
+    "HP Engage One All-in-One System Model 145",
+    "830a"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp92264-HP Engage One G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92264.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/24/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp142965-HP Engage One G1 IoT10 2016 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142965.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "10/3/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp144685-HP Engage One G1 IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144685.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "1/19/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp94910-HP Engage One G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp94501-95000/sp94910.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "5/15/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99581-HP Engage One G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99581.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/21/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101288-HP Engage One G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101288.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/14/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp104128-HP Engage One G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp104001-104500/sp104128.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/27/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp142953-HP Engage One G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142953.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "9/30/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

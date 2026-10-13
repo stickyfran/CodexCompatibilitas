@@ -1,0 +1,48 @@
+{
+  "id": "hp-hp-elitebook-830-13-inch-g11-notebook-pc-8c26",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 830 13 inch G11 Notebook PC",
+  "system_id": "8C26",
+  "dmi_matches": [
+    "HP EliteBook 830 13 inch G11 Notebook PC",
+    "8C26"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp160042-HP ZB Firefly/EB x360 8x0 MWS/NB Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160042.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/29/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp152748-HP ZBook Firefly/Elite x360 8x0 G11 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152748.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp174328-HP ZB Firefly/EB x360 8x0 MWS/NB Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174328.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "8/12/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "lenovo-thinkpad-x260-20f6",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X260 (Type 20F6)",
+  "system_id": "20F6",
+  "dmi_matches": [
+    "ThinkPad X260",
+    "20F6"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-*",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x260_w1064_202001.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-01-14"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

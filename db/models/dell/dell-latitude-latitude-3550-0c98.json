@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3550-0c98",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3550",
+  "system_id": "0C98",
+  "dmi_matches": [
+    "Latitude Latitude 3550",
+    "Latitude 3550",
+    "0C98"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-FDJDG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14246835M/1/Latitude-3550-FDJDG_Win10_1.0_A09.exe",
+      "size_bytes": 3759159968,
+      "md5": "256BC0B21E593DB3C78949AC7F3EBCD8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    },
+    {
+      "name": "DellPack-9D4TY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14229238M/1/Latitude-3550-9D4TY_Win11_1.0_A09.exe",
+      "size_bytes": 3754762928,
+      "md5": "D25E7C14E8C6FD6420628A1E08EC0233",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

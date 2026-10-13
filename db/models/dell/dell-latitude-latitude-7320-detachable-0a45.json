@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7320-detachable-0a45",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7320 Detachable",
+  "system_id": "0A45",
+  "dmi_matches": [
+    "Latitude Latitude 7320 Detachable",
+    "Latitude 7320 Detachable",
+    "0A45"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-JVCCJ",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11552408M/1/Latitude-7320-Detachable-JVCCJ_Win10_1.0_A17.exe",
+      "size_bytes": 1573661120,
+      "md5": "A824A95DC78B3D4FFC1D93AC796DCA56",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-05-13T01:58:46"
+    },
+    {
+      "name": "DellPack-TCNRY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11611334M/1/Latitude-7320-Detachable-TCNRY_Win11_1.0_A10.exe",
+      "size_bytes": 1322817576,
+      "md5": "938B52F7D18C43EB77BE6F18423DE4B4",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-05-14T05:51:34"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

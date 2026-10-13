@@ -45,6 +45,16 @@
       "sha256": null,
       "version": "6.00 A 1",
       "release_date": "1/20/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp142908-HP ProBook 4x0 G8/ZHAN G4 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142908.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/7/2022 12:00:00 AM"
     }
   ],
   "individual_drivers": [

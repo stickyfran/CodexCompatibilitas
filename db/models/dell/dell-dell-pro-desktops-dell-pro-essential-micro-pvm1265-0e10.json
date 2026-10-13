@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-desktops-dell-pro-essential-micro-pvm1265-0e10",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Desktops Dell Pro Essential Micro PVM1265",
+  "system_id": "0E10",
+  "dmi_matches": [
+    "Dell Pro Desktops Dell Pro Essential Micro PVM1265",
+    "Dell Pro Essential Micro PVM1265",
+    "0E10"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-T99VW",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14873881M/1/PVM1265-T99VW_Win11_1.0_A02.exe",
+      "size_bytes": 1003361656,
+      "md5": "B0EB78A0E729FD5564261CB1E71B6C6A",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

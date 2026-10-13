@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkpad-x1-2-in-1-gen-11-type-21v9-21va-21va",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X1 2 IN 1 Gen 11 Type 21V9 21VA (Type 21VA)",
+  "system_id": "21VA",
+  "dmi_matches": [
+    "ThinkPad X1 2 IN 1 Gen 11 Type 21V9 21VA",
+    "21VA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21v7-21v8-x1_2-in-1_mt21v9-21va_w11_24_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-17"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21v7-21v8-x1_2-in-1_mt21v9-21va_w11_25_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-17"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

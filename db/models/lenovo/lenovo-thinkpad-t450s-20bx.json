@@ -1,0 +1,28 @@
+{
+  "id": "lenovo-thinkpad-t450s-20bx",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T450S (Type 20BX)",
+  "system_id": "20BX",
+  "dmi_matches": [
+    "ThinkPad T450S",
+    "20BX"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-*",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t450s_w1064_201906.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-07-05"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

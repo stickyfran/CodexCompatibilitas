@@ -33,6 +33,84 @@
       "release_date": "2022-05-06T09:41:28"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell://5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I210/I350/X540/X550/X710 NIC Driver",
+      "version": "25.6.0",
+      "url": "dell://X0VX3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Pxxxx/Quadro GVxxx/RTX xxxx/RTX Axxxx/Txxx Series Desktop Graphics Driver",
+      "version": "30.0.14.7239",
+      "url": "dell://XH6JW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Sunix Serial and Parallel Card Driver",
+      "version": "9.0.5.1",
+      "url": "dell://8H57J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon Pro W xx00/WX xx00 series Desktop Graphics Driver and Application",
+      "version": "30.0.13018.2",
+      "url": "dell://MXJP3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage controller",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "5.5.4.1037",
+      "url": "dell://2206F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell PCIe Serial Card Driver",
+      "version": "1.3.314.2018",
+      "url": "dell://5RMMF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

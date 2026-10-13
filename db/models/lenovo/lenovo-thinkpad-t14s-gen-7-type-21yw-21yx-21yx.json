@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkpad-t14s-gen-7-type-21yw-21yx-21yx",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T14S Gen 7 Type 21YW 21YX (Type 21YX)",
+  "system_id": "21YX",
+  "dmi_matches": [
+    "ThinkPad T14S Gen 7 Type 21YW 21YX",
+    "21YX"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14sg7_amd_mt21yw-21yx_w1164_24h2_202605.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14sg7_amd_mt21yw-21yx_w1164_25h2_202605.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

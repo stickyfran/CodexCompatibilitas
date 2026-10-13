@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-16-plus-pb16255-0d4e",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 16 Plus PB16255",
+  "system_id": "0D4E",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 16 Plus PB16255",
+    "Dell Pro 16 Plus PB16255",
+    "0D4E"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-8995J",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14709850M/1/PB16255-8995J_Win10_1.0_A06.exe",
+      "size_bytes": 720314392,
+      "md5": "DA1852F4BD15505B1F71678EE646772F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    },
+    {
+      "name": "DellPack-FHJ5G",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14709851M/1/PB16255-FHJ5G_Win11_1.0_A07.exe",
+      "size_bytes": 762618784,
+      "md5": "FAB7F78315471697951EC0259DAEC998",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

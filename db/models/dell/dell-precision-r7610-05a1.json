@@ -53,6 +53,293 @@
       "release_date": "2014-12-09T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Intel Ethernet Connection I217-LM (Driver Win7/8.1 32/64-bit);Intel Ethernet controller;Intel I2xx/825xx Gigabit Ethernet Controller;Intel 825xx Gigabit Ethernet Controller;Intel 825xx Gigabit Platform LAN Network Device;Intel 825xx Gigabit platform LAN Network Device;Intel 825xx 10/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet Network Drivers;Intel 825xx 10/100/1000 Ethernet controller",
+      "version": "18.5.0.0",
+      "url": "dell://N6RY0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Smartcard USB Keyboard",
+      "version": "1.0",
+      "url": "dell://CCHT0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3661 HD Audio Codec;Realtek ALC3234 High-Definition Audio Codec;Realtek ALC 3226 High Definition Audio Codec;Realtek ALC3220 High Definition Audio Codec;Realtek ALC3226 HD Audio Codec;Realtek ALC3220 High-Definition Audio Codec",
+      "version": "6.0.1.6053",
+      "url": "dell://Y8V8V_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Encryption Application",
+      "version": "v8.4.0",
+      "url": "dell://948DT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "9.5.15.1730",
+      "url": "dell://GJVHD_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Teradici 1 and 2 PCoIP Host Card Windows 7 32bit Driver",
+      "version": "4.2.2",
+      "url": "dell://6N56P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.46",
+      "url": "dell://V6681_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 10 Gigabit X540 Adapters Driver",
+      "version": "18.8.0.0",
+      "url": "dell://1C3C2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA K20C/NVS 310/510 and Quadro 410/K2000/K4000/K5000/K600/K6000 Graphics Driver",
+      "version": "9.18.13.3182",
+      "url": "dell://5TFHX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "LSI 9271-8I Storage Controller",
+      "version": "6.600.25.0",
+      "url": "dell://XVCHX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "LSI SAS2308 integrated RAID for Precision Workstations;LSI SAS2308 integrated RAID;LSI 9217-8I Storage Controller for Precision Workstations",
+      "version": "1.0",
+      "url": "dell://19T2M_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software;Intel Chipset;Intel Chipset Software Installation",
+      "version": "9.3.2.1017",
+      "url": "dell://JWNTP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro V7900;AMD Graphics FirePro W7000;AMD FirePro V4900;AMD Graphics FirePro W5000;AMD FirePro V5900;AMD FirePro V3900;AMD Graphics FireProW8000;AMD FirePro MV2270",
+      "version": "13.251.1",
+      "url": "dell://652YH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Ethernet Connection I217-LM (Driver Win7/8.1 32/64-bit);Intel Ethernet controller;Intel I2xx/825xx Gigabit Ethernet Controller;Intel 825xx Gigabit Ethernet Controller;Intel 825xx Gigabit Platform LAN Network Device;Intel 825xx Gigabit platform LAN Network Device;Intel 825xx 10/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet Network Drivers;Intel 825xx 10/100/1000 Ethernet controller",
+      "version": "18.5.0.0",
+      "url": "dell://N6RY0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "LSI 9271-8I Storage Controller",
+      "version": "6.600.25.0",
+      "url": "dell://316Y8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Graphics FirePro W7000;AMD FirePro V4900;AMD Graphics FirePro W5000;AMD FirePro V3900;AMD Graphics FireProW8000;AMD FirePro MV2270",
+      "version": "13.152.0",
+      "url": "dell://T8VKM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Encryption Application",
+      "version": "v8.4.0",
+      "url": "dell://948DT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Smartcard USB Keyboard",
+      "version": "1.0",
+      "url": "dell://CCHT0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.46",
+      "url": "dell://V6681_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Teradici 1 and 2 PCoIP Host Card Windows 7/8.1 64bit Driver",
+      "version": "4.2.2",
+      "url": "dell://CMK8G_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 10 Gigabit X540 Adapters Driver",
+      "version": "18.8.0.0",
+      "url": "dell://1C3C2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3661 HD Audio Codec;Realtek ALC3234 High-Definition Audio Codec;Realtek ALC 3226 High Definition Audio Codec;Realtek ALC3220 High Definition Audio Codec;Realtek ALC3226 HD Audio Codec;Realtek ALC3220 High-Definition Audio Codec",
+      "version": "6.0.1.6053",
+      "url": "dell://Y8V8V_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "9.5.15.1730",
+      "url": "dell://GJVHD_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software;Intel Chipset;Intel Chipset Software Installation",
+      "version": "9.3.2.1017",
+      "url": "dell://JWNTP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA K20C/NVS 310/510 and Quadro 410/K2000/K4000/K5000/K600/K6000 Graphics Driver",
+      "version": "9.18.13.3182",
+      "url": "dell://094C9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "LSI SAS2308 integrated RAID for Precision Workstations;LSI SAS2308 integrated RAID;LSI 9217-8I Storage Controller for Precision Workstations",
+      "version": "2.00.66.02",
+      "url": "dell://MW17D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

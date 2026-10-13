@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3660-tower-0a9f",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3660 Tower",
+  "system_id": "0A9F",
+  "dmi_matches": [
+    "Precision Precision 3660 Tower",
+    "Precision 3660 Tower",
+    "0A9F"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-TMG2W",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14356106M/1/Precision-3660-Tower-TMG2W_Win10_1.0_A17.exe",
+      "size_bytes": 4114776624,
+      "md5": "7D8288B3D82EE01DF28DBBD81D414DB3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-WC1VR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14358982M/1/Precision-3660-Tower-WC1VR_Win11_1.0_A16.exe",
+      "size_bytes": 4114512808,
+      "md5": "472F332A0619D3F26E402098141A9496",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "dell-latitude-e5550-5550-0646",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5550/5550",
+  "system_id": "0646",
+  "dmi_matches": [
+    "Latitude E5550/5550",
+    "Latitude 5550",
+    "0646"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-YTCDG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04850247M/1/E5550_5550-win10-A08-YTCDG.CAB",
+      "size_bytes": 852856879,
+      "md5": "22891E341EB0D47BF6A36942ACA13B73",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-JH8XD",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04848290M/1/E5550_5550-win7-A11-JH8XD.CAB",
+      "size_bytes": 803497752,
+      "md5": "E79A513A3B29BC8281BFC59CEBD377FA",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-YHV16",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03481251M/1/E5550_5550-Win8.1-A05-YHV16.CAB",
+      "size_bytes": 445042570,
+      "md5": "28F26B4F98B0FD87C6E7A4FB7F2E2BF7",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

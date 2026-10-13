@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-8-mini-g1a-desktop-next-gen-ai-pc-8daa",
+  "vendor": "HP",
+  "family": "Elitedesk",
+  "model_name": "HP EliteDesk 8 Mini G1a Desktop Next Gen AI PC",
+  "system_id": "8DAA",
+  "dmi_matches": [
+    "HP EliteDesk 8 Mini G1a Desktop Next Gen AI PC",
+    "8DAA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp173494-HP EliteDesk 8 Mini G1a Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173494.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "6/5/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dell-precision-precision-5820-xl-tower-08b1",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5820 XL Tower",
+  "system_id": "08B1",
+  "dmi_matches": [
+    "Precision Precision 5820 XL Tower",
+    "Precision 5820 Tower",
+    "08B1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-P9GC7",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER10785074M/1/Precision-5820-Tower-P9GC7_Win10_1.0_A20.exe",
+      "size_bytes": 2891193352,
+      "md5": "3E9CA53FE763EAAA4B5F86AC58A84422",
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-11-09T01:05:40"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

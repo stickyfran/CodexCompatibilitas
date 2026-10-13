@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-4-g2a-16-inch-notebook-ai-pc-8f99",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G2a 16 inch Notebook AI PC",
+  "system_id": "8f99",
+  "dmi_matches": [
+    "HP ProBook 4 G2a 16 inch Notebook AI PC",
+    "8f99"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp173107-HP Pro/EliteBook 4/6 G2a/G2ah NB Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173107.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/15/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

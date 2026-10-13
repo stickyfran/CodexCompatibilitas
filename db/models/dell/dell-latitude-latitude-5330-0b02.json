@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-5330-0b02",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 5330",
+  "system_id": "0B02",
+  "dmi_matches": [
+    "Latitude Latitude 5330",
+    "Latitude 5330",
+    "0B02"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-RX6KT",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12854083M/1/Latitude-5330-RX6KT_Win10_1.0_A16.exe",
+      "size_bytes": 1795558496,
+      "md5": "4D7EE8F8F965695D7BB0EBA9F1926B7F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    },
+    {
+      "name": "DellPack-R07WK",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12854084M/1/Latitude-5330-R07WK_Win11_1.0_A15.exe",
+      "size_bytes": 1790524656,
+      "md5": "9D06D9B03619732FC04AACC95497D136",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -33,6 +33,337 @@
       "release_date": "2014-05-15T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Initial A00 release",
+      "version": "6.1.7600.30103",
+      "url": "dell://GFYYF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5540 HSPA Mini Card",
+      "version": "R2Y04",
+      "url": "dell://R276933",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology (Pre-OS Install);Intel Matrix Storage Manager - Notebooks;Intel Rapid Storage Technology",
+      "version": "9.6.0.1014",
+      "url": "dell://RRGGD_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel(R) WiFi Link 5300,Intel(R) WiFi Link 5100,Intel(R) WiFi Link 5000 Series WLAN Half-Mini Card",
+      "version": "13.3",
+      "url": "dell://R277776",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "controlpoint",
+      "name": "Dell ControlPoint Security Device Driver Pack",
+      "version": "1.4.056",
+      "url": "dell://V3P97_A18-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 4500MHD;Intel GM45/GE45/GS45 UMA Graphics for Envy;Intel(R) 4 Series Express Chipset Family;Intel 4500MHD Graphics;Intel 4500HD Graphics;Intel GMA 4500MHD Graphics",
+      "version": "8.15.10.2869",
+      "url": "dell://1M8J9_A15-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Multi-Finger Gestures Driver",
+      "version": "14.0.19",
+      "url": "dell://HP0XR_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1030",
+      "url": "dell://R302424",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5620 EVDO-HSPA Mobile Broadband Mini-Card",
+      "version": "1.1.170",
+      "url": "dell://R280717",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 365 Bluetooth Module",
+      "version": "6.2.1.100",
+      "url": "dell://31N70_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Free Fall Data Protection",
+      "version": "4.11.28",
+      "url": "dell://5PJ50_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek HD Audio Driver support Vista/Windows 7 WHQL Supporting",
+      "version": "6.0.1.6015",
+      "url": "dell://C3JF2_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 64bit 57XX Driver/BACS combined update package",
+      "version": "14.2.0",
+      "url": "dell://WDJXC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1520 802.11n MiniCard WLAN;Dell Wireless WLAN 1510 Half MiniCard (4322);Dell Wireless WLAN 1501 Half Mini-Card (4313bgn);Dell Wireless WLAN 1501 Half Mini Card;Dell Wireless WLAN 1397 Half MiniCard (4312bg)",
+      "version": "A37",
+      "url": "dell://WD35F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "D400 External USB 56K Modem",
+      "version": "Drv_Win7-64_2.0.20.0",
+      "url": "dell://1VNXJ_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Initial A00 release",
+      "version": "6.1.7600.30103",
+      "url": "dell://GFYYF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5540 HSPA Mini Card",
+      "version": "R2Y04",
+      "url": "dell://R276933",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 32bit 57XX Driver/BACS combined update package",
+      "version": "14.2.0",
+      "url": "dell://4WDN1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1520 802.11n MiniCard WLAN;Dell Wireless WLAN 1510 Half MiniCard (4322);Dell Wireless WLAN 1501 Half Mini-Card (4313bgn);Dell Wireless WLAN 1501 Half Mini Card;Dell Wireless WLAN 1397 Half MiniCard (4312bg)",
+      "version": "A37",
+      "url": "dell://WD35F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel(R) WiFi Link 5300,Intel(R) WiFi Link 5100,Intel(R) WiFi Link 5000 Series WLAN Half-Mini Card",
+      "version": "13.3",
+      "url": "dell://R277775",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Conexant D400 External USB 56K Modem",
+      "version": "Drv_Win7-32_2.0.22.0",
+      "url": "dell://DDK3R_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Multi-Finger Gestures Driver",
+      "version": "14.0.19",
+      "url": "dell://HP0XR_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1030",
+      "url": "dell://R302424",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "controlpoint",
+      "name": "ASSY,BASE,NBK,LAT,E6510,EM,C1;ASSY,BASE,NBK,I,DTP,P,E6410,C2;ASSY,BASE,NBK,I,DTP,P,E6410,C3;Dell ControlPoint Security Device Driver Pack;ASSY,BASE,NBK,L13,FCG01,UK",
+      "version": "1.4.055",
+      "url": "dell://0KRP3_A18-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 365 Bluetooth Module",
+      "version": "6.2.1.100",
+      "url": "dell://31N70_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 4500MHD;Intel GM45/GE45/GS45 UMA Graphics for Envy;Intel(R) 4 Series Express Chipset Family;Intel 4500MHD Graphics;Intel 4500HD Graphics;Intel GMA 4500MHD Graphics",
+      "version": "8.15.10.2869",
+      "url": "dell://CR3WK_A15-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Free Fall Data Protection",
+      "version": "4.11.28",
+      "url": "dell://5PJ50_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek HD Audio Driver support Vista/Windows 7 WHQL Supporting",
+      "version": "6.0.1.6015",
+      "url": "dell://C3JF2_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology (Pre-OS Install);Intel Matrix Storage Manager - Notebooks;Intel Rapid Storage Technology",
+      "version": "9.6.0.1014",
+      "url": "dell://RRGGD_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5620 EVDO-HSPA Mobile Broadband Mini-Card",
+      "version": "1.1.170",
+      "url": "dell://R280717",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7030-rugged-0cd3",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7030 Rugged",
+  "system_id": "0CD3",
+  "dmi_matches": [
+    "Latitude Latitude 7030 Rugged",
+    "Latitude 7030 Rugged",
+    "0CD3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-Y9J8J",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12950280M/1/Latitude-7030-Rugged-Y9J8J_Win10_1.0_A07.exe",
+      "size_bytes": 2590171960,
+      "md5": "9AF58AD2754BC553DAB64E16AE081A32",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-06-11T01:27:22"
+    },
+    {
+      "name": "DellPack-VPY4R",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14387597M/1/Latitude-7030-Rugged-VPY4R_Win11_1.0_A12.exe",
+      "size_bytes": 1424468544,
+      "md5": "8CA062D1F1410B9AF063A62472A58B19",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:40:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

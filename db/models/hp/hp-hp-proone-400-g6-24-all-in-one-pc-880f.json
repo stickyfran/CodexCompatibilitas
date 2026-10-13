@@ -34,6 +34,26 @@
       "sha256": null,
       "version": "4.00 A 1",
       "release_date": "2/19/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp123509-HP ProOne 4/600 G6 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123509.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp105884-HP ProOne 4/600 G6 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105884.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/2/2020 12:00:00 AM"
     }
   ],
   "individual_drivers": [

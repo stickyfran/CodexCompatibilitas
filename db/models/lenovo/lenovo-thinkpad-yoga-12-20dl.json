@@ -1,0 +1,28 @@
+{
+  "id": "lenovo-thinkpad-yoga-12-20dl",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad Yoga 12 (Type 20DL)",
+  "system_id": "20DL",
+  "dmi_matches": [
+    "ThinkPad Yoga 12",
+    "20DL"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-*",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1_yoga_12_w1064_201705.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2017-07-07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

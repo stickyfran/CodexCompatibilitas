@@ -43,6 +43,183 @@
       "release_date": "2014-05-15T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1030",
+      "url": "dell://R302424",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smart Card Reader Keyboard",
+      "version": "A00",
+      "url": "dell://3WF91_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics;Intel GMA HD Graphics;Intel GMA HD",
+      "version": "6.14.10.5408",
+      "url": "dell://D58KC_A10-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Unified AMT6 HECI",
+      "version": "6.2.0.1022",
+      "url": "dell://20JP5_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "v92 Internal Modem;Conexant D850 PCI DF Modem ULD; V92 Lead Free (Cher);Conexant D850 56K V.9X PCI DF Modem ULD;56K V.9x DFVc Modem",
+      "version": "Drv_xp32_7.74.00.00-A",
+      "url": "dell://6CGJX_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "825xx Gigabit Platform LAN Network Device",
+      "version": "11.6.92.0",
+      "url": "dell://R290983",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 9300GE;nVIDIA GeForce 9300GE Graphics",
+      "version": "6.14.11.8627",
+      "url": "dell://DVXRD_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Radeon HD3470 256M",
+      "version": "8.83",
+      "url": "dell://R301335",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD4550",
+      "version": "8.700.0.0000",
+      "url": "dell://MC1HW_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA NVS 420 Graphics",
+      "version": "6.14.11.9175",
+      "url": "dell://JD1K5_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC269 HD Audio",
+      "version": "6.0.1.5876",
+      "url": "dell://XF89F_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC",
+      "version": "16.4.0",
+      "url": "dell://YMHGV_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology (Pre-OS Install);Intel Matrix Storage Manager - Notebooks;Intel Rapid Storage Technology",
+      "version": "9.6.0.1014",
+      "url": "dell://RRGGD_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "ASSY,BASE,NBK,LAT,E6510,EM,C1;ASSY,BASE,NBK,I,DTP,P,E6410,C2;ASSY,BASE,NBK,I,DTP,P,E6410,C3;Dell ControlPoint Security Device Driver Pack;ASSY,BASE,NBK,L13,FCG01,UK",
+      "version": "1.4.055",
+      "url": "dell://0KRP3_A18-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GT330",
+      "version": "6.14.11.9114",
+      "url": "dell://M51PH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "CA-400 Enhanced 19-1 Card Reader",
+      "version": "1001",
+      "url": "dell://R264564",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

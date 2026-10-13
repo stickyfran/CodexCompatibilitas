@@ -1,0 +1,39 @@
+{
+  "id": "dell-xps-notebook-9310-2n1-0a44",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook 9310 2n1",
+  "system_id": "0A44",
+  "dmi_matches": [
+    "XPS Notebook 9310 2n1",
+    "XPS 13 2in1 9310",
+    "0A44"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-99FJJ",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER09504017M/1/9310-2n1-99FJJ_Win10_1.0_A11.exe",
+      "size_bytes": 2275878248,
+      "md5": "FB58BB0F5632F24D78BCE3FFEE42B654",
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-02-09T12:04:59"
+    },
+    {
+      "name": "DellPack-KDD8H",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER09501834M/1/9310-2n1-KDD8H_Win11_1.0_A05.exe",
+      "size_bytes": 2261589776,
+      "md5": "0449F062E984528856D76123E6C79586",
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-02-09T12:04:59"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

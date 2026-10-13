@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3430-0bc2",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3430",
+  "system_id": "0BC2",
+  "dmi_matches": [
+    "Latitude Latitude 3430",
+    "Latitude 3430",
+    "0BC2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-C6CG9",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13146006M/1/Latitude-3430-C6CG9_Win10_1.0_A12.exe",
+      "size_bytes": 1547825720,
+      "md5": "73DC374A35645C6EC3C5E4ECD8244959",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    },
+    {
+      "name": "DellPack-G4HJX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13146007M/1/Latitude-3430-G4HJX_Win11_1.0_A12.exe",
+      "size_bytes": 1538525320,
+      "md5": "A4FF1840111C5A2B428F583766D6DDBC",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

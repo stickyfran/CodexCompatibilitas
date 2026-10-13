@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-5350-0cb6",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 5350",
+  "system_id": "0CB6",
+  "dmi_matches": [
+    "Latitude Latitude 5350",
+    "Latitude 5350",
+    "0CB6"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-0JRXW",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14061233M/1/Latitude-5350-0JRXW_Win10_1.0_A11.exe",
+      "size_bytes": 1537156848,
+      "md5": "71AF500689B7773128F8AB0D101FDE24",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-02-05T03:36:06"
+    },
+    {
+      "name": "DellPack-YCJ3W",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14615910M/1/Latitude-5350-YCJ3W_Win11_1.0_A12.exe",
+      "size_bytes": 1327477208,
+      "md5": "B1AF551291748ED3EA47D4E648D6822E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

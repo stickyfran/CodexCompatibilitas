@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-8-g2a-16-inch-notebook-next-gen-ai-pc-8f41",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 G2a 16 inch Notebook Next Gen AI PC",
+  "system_id": "8F41",
+  "dmi_matches": [
+    "HP EliteBook 8 G2a 16 inch Notebook Next Gen AI PC",
+    "8F41"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp174518-HP EB/ZB 8 G2a NB/MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174518.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/1/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

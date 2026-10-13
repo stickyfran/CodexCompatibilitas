@@ -1,0 +1,29 @@
+{
+  "id": "dell-xps-notebook-9360-075b",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook 9360",
+  "system_id": "075B",
+  "dmi_matches": [
+    "XPS Notebook 9360",
+    "XPS 13 9360",
+    "075B"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-RTNJ7",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER06104751M/1/9360-win10-A15-RTNJ7.CAB",
+      "size_bytes": 651217693,
+      "md5": "BC73660A14F0E094BC659A9A7F6275D4",
+      "sha256": null,
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

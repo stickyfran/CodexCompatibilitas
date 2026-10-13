@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-16-plus-pb16250-0cf6",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 16 Plus PB16250",
+  "system_id": "0CF6",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 16 Plus PB16250",
+    "Dell Pro 16 Plus PB16250",
+    "0CF6"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-J20PF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14670517M/1/PB16250-J20PF_Win10_1.0_A08.exe",
+      "size_bytes": 1850773904,
+      "md5": "E487FBE0142FB3FD2C51DAC6AEB89DEC",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    },
+    {
+      "name": "DellPack-55MV5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14817094M/1/PB16250-55MV5_Win11_1.0_A08.exe",
+      "size_bytes": 1938538200,
+      "md5": "2EB991C3BFA890E8B1360102E0762208",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

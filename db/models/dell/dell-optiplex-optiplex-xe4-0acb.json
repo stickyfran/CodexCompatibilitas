@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-xe4-0acb",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex XE4",
+  "system_id": "0ACB",
+  "dmi_matches": [
+    "Optiplex OptiPlex XE4",
+    "OptiPlex XE4",
+    "0ACB"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-HHCH3",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12234772M/1/OptiPlex-XE4-HHCH3_Win10_1.0_A13.exe",
+      "size_bytes": 3535494824,
+      "md5": "2EB57E58A271217C5790C516B5346A54",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-01-09T05:44:51"
+    },
+    {
+      "name": "DellPack-J79H8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12234801M/1/OptiPlex-XE4-J79H8_Win11_1.0_A12.exe",
+      "size_bytes": 3535500176,
+      "md5": "77F624434418F987E95E70EE17EA48CC",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-01-09T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

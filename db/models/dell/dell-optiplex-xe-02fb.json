@@ -43,6 +43,95 @@
       "release_date": "2014-06-17T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "storage",
+      "name": "Matrix Storage Manager (OS Pre-Install Driver Only)",
+      "version": "8.9.2.1002",
+      "url": "dell://R235889",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Radeon HD4550",
+      "version": "8.65_RC4",
+      "url": "dell://R237718",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Q43/Q45/G43/G45 (Eaglelake) Graphics Controller,G41 (intel) Graphics Controller",
+      "version": "6.14.10.5082",
+      "url": "dell://R230881",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Integrated Controller,5721C1 NetXtreme Gigabit Ethernet PCI-E,BCM95722 PCI-E NIC",
+      "version": "14.1.0",
+      "url": "dell://R233421",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Power Serial Port Card",
+      "version": "V1.01.0918.2009 ",
+      "url": "dell://R247083",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.1.1.1015",
+      "url": "dell://R227558",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "ALC269 HD Audio",
+      "version": "5874",
+      "url": "dell://R248298",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Wireless 1505 Draft 802.11n WLAN Mini-Card Desktops",
+      "version": "5.10.79.14",
+      "url": "dell://R217231",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

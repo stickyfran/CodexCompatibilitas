@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5470-0b29",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5470",
+  "system_id": "0B29",
+  "dmi_matches": [
+    "Precision Precision 5470",
+    "Precision 5470",
+    "0B29"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-32P3D",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12839158M/1/Precision-5470-32P3D_Win10_1.0_A11.exe",
+      "size_bytes": 2749679120,
+      "md5": "DACEC2E2BC77AB6FF93F70F3214AAE85",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-4PYF5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12839095M/1/Precision-5470-4PYF5_Win11_1.0_A11.exe",
+      "size_bytes": 2743153168,
+      "md5": "E59C0447F1865D82F871C9FF4EEEFDD3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

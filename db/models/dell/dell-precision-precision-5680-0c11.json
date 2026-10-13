@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5680-0c11",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5680",
+  "system_id": "0C11",
+  "dmi_matches": [
+    "Precision Precision 5680",
+    "Precision 5680",
+    "0C11"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-4H0MG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14237650M/1/Precision-5680-4H0MG_Win10_1.0_A10.exe",
+      "size_bytes": 2503988032,
+      "md5": "EFE1AB1554D641F650F7E697F28296FA",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    },
+    {
+      "name": "DellPack-GD50M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14237648M/1/Precision-5680-GD50M_Win11_1.0_A09.exe",
+      "size_bytes": 2506301840,
+      "md5": "46BE31F4B07714F743A19847827F7BE3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

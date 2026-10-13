@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-precision-5-16s-pw516265-0e28",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Precision 5 16S PW516265",
+  "system_id": "0E28",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Precision 5 16S PW516265",
+    "Dell Pro Precision 5 16S PW516265",
+    "0E28"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-T5RD1",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14830112M/1/PW516265-T5RD1_Win11_1.0_A01.exe",
+      "size_bytes": 1057115752,
+      "md5": "80A183167A4C61C86B369E68C02E11E1",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-22T02:46:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

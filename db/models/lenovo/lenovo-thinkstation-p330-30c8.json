@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkstation-p330-30c8",
+  "vendor": "Lenovo",
+  "family": "Thinkstation",
+  "model_name": "ThinkStation P330 (Type 30C8)",
+  "system_id": "30C8",
+  "dmi_matches": [
+    "ThinkStation P330",
+    "30C8"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1803",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_w1064_1803_20180613.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-06-26"
+    },
+    {
+      "name": "LenovoSCCM-1809",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_w1064_1809_20190124.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-01-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

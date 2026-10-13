@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkcentre-m90a-gen-6-13au",
+  "vendor": "Lenovo",
+  "family": "Thinkcentre",
+  "model_name": "ThinkCentre M90A Gen 6 (Type 13AU)",
+  "system_id": "13AU",
+  "dmi_matches": [
+    "ThinkCentre M90A Gen 6",
+    "13AU"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_gen6-m90a_pro_gen6-m70a_gen6_w11_24_25_202603.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-30"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_gen6-m90a_pro_gen6-m70a_gen6_w11_24_25_202603.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-5-14-p514260-0eaa",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 5 14 P514260",
+  "system_id": "0EAA",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 5 14 P514260",
+    "Dell Pro 5 14 P514260",
+    "0EAA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-1CG01",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14620281M/1/P514260-1CG01_Win11_1.0_A02.exe",
+      "size_bytes": 1353943376,
+      "md5": "72DA879458A0C74EE00A5507DE5820CD",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-02T04:51:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

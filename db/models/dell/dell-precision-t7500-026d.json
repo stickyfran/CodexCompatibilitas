@@ -1,0 +1,49 @@
+{
+  "id": "dell-precision-t7500-026d",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T7500",
+  "system_id": "026D",
+  "dmi_matches": [
+    "Precision T7500",
+    "Precision WorkStation T7500",
+    "026D"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-7G1G1",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02289585M/1/T7500-Vista-A01-7G1G1.CAB",
+      "size_bytes": 355923272,
+      "md5": "357BFA31FCB0B0C5341BBB8FF65F0C89",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-1NH6X",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02233251M/1/T7500-Win7-A01-1NH6X.CAB",
+      "size_bytes": 316167340,
+      "md5": "B9945D028EA76187015FBC0A6C1D627F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-MVH0J",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02251903M/1/T7500-XP-A01-MVH0J.CAB",
+      "size_bytes": 146209373,
+      "md5": "CF47B4CA8C4C6B4A9F4B79AA533B623F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

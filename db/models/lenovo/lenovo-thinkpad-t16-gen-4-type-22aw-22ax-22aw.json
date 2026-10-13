@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkpad-t16-gen-4-type-22aw-22ax-22aw",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T16 Gen 4 Type 22AW 22AX (Type 22AW)",
+  "system_id": "22AW",
+  "dmi_matches": [
+    "ThinkPad T16 Gen 4 Type 22AW 22AX",
+    "22AW"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen6_t16_gen4_mt21qg_21qh_22aw_22ax_w11_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-31"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen6_t16_gen4_mt21qg_21qh_22aw_22ax_w11_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

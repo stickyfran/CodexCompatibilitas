@@ -32,6 +32,46 @@
       "sha256": null,
       "version": "11.00 A 1",
       "release_date": "12/31/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp80239-HP EliteBook 1040 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80239.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/24/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp90224-HP EliteBook 1040 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90224.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "7/26/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95271-HP EliteBook 1040 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95271.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "3/6/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99541-HP EliteBook 1040 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99541.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "10/7/2019 12:00:00 AM"
     }
   ],
   "individual_drivers": [

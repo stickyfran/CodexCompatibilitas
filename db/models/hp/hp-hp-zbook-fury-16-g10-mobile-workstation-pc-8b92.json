@@ -24,6 +24,26 @@
       "sha256": null,
       "version": "5.00 A 1",
       "release_date": "12/1/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp149065-HP ZBook Fury G10 MWS Windows10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149065.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149066-HP ZBook Fury G10 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149066.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/1/2023 12:00:00 AM"
     }
   ],
   "individual_drivers": [

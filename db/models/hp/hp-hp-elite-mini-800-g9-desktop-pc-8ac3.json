@@ -42,6 +42,16 @@
       "sha256": null,
       "version": "11.00 A 1",
       "release_date": "6/22/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp151266-HP Pro/Elite Mini 4/6/800 G9 Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151266.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "2/13/2024 12:00:00 AM"
     }
   ],
   "individual_drivers": [

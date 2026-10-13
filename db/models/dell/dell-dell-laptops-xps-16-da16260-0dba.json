@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-laptops-xps-16-da16260-0dba",
+  "vendor": "Dell",
+  "family": "Dell Laptops",
+  "model_name": "Dell Laptops XPS 16 DA16260",
+  "system_id": "0DBA",
+  "dmi_matches": [
+    "Dell Laptops XPS 16 DA16260",
+    "XPS 16 DA16260",
+    "0DBA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-7D92M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14363594M/1/XPS-16-DA16260-7D92M_Win11_1.0_A01.exe",
+      "size_bytes": 995488104,
+      "md5": "BD3D6620756AC39B2A19BFB6E92340B3",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

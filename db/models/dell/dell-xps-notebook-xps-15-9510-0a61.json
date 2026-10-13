@@ -1,0 +1,39 @@
+{
+  "id": "dell-xps-notebook-xps-15-9510-0a61",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook XPS 15 9510",
+  "system_id": "0A61",
+  "dmi_matches": [
+    "XPS Notebook XPS 15 9510",
+    "XPS 15 9510",
+    "0A61"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-4Y0M3",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11655210M/1/XPS-15-9510-4Y0M3_Win10_1.0_A17.exe",
+      "size_bytes": 2054611648,
+      "md5": "25EB1FF03B75480BD2EF134DC8C36100",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    },
+    {
+      "name": "DellPack-MNC36",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11655208M/1/XPS-15-9510-MNC36_Win11_1.0_A14.exe",
+      "size_bytes": 2054364952,
+      "md5": "B8DD2CFF5D3F0A73FA713F4387AD36E7",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

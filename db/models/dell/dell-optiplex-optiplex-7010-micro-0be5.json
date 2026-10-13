@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-7010-micro-0be5",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 7010 Micro",
+  "system_id": "0BE5",
+  "dmi_matches": [
+    "Optiplex OptiPlex 7010 Micro",
+    "OptiPlex 7010 Micro",
+    "0BE5"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-0WJN2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14364004M/1/OptiPlex-7010-Micro-0WJN2_Win10_1.0_A12.exe",
+      "size_bytes": 1638467048,
+      "md5": "BB927FDC0A79A96818E8E4DDB525D957",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-RY26G",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14364002M/1/OptiPlex-7010-Micro-RY26G_Win11_1.0_A12.exe",
+      "size_bytes": 1623420816,
+      "md5": "2AE60AD969EB394C8318811CFC5F2178",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

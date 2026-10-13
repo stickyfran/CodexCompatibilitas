@@ -1,0 +1,18 @@
+#!/bin/bash
+# ==========================================================================
+# Script de Instalación Automatizado — Lenovo ThinkPad P1 Gen 7 Type 21KV 21KW (Type 21KV)
+# Generado por DeepSlopSuperLaptop para lenovo-thinkpad-p1-gen-7-type-21kv-21kw-21kv
+# Sin daemons que gasten batería. 100% nativo.
+# ==========================================================================
+set -e
+
+echo "🚀 Aplicando configuraciones de hardware para Lenovo ThinkPad P1 Gen 7 Type 21KV 21KW (Type 21KV)..."
+
+# --- 4. Modo Térmico por Defecto ---
+if [ -f /sys/firmware/acpi/platform_profile ]; then
+    echo "balanced" | sudo tee /sys/firmware/acpi/platform_profile >/dev/null 2>&1 || true
+    echo "  ✓ Perfil térmico establecido en 'balanced'"
+fi
+
+echo "🎉 ¡Configuración completada exitosamente!"
+echo "Reinicie la sesión o el equipo para disfrutar de la experiencia completa."

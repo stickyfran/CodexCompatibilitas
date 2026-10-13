@@ -1,0 +1,78 @@
+{
+  "id": "lenovo-thinkpad-x13-2-in-1-gen-5-type-21lw-21lx-21lx",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X13 2 IN 1 Gen 5 Type 21LW 21LX (Type 21LX)",
+  "system_id": "21LX",
+  "dmi_matches": [
+    "ThinkPad X13 2 IN 1 Gen 5 Type 21LW 21LX",
+    "21LX"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen5_mt21lu-21lv-x13_2-in-1_gen5_mt21lw-21lx_w10_21h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen5_mt21lu-21lv-x13_2-in-1_gen5_mt21lw-21lx_w10_22h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen5_mt21lu-21lv-x13_2-in-1_gen5_mt21lw-21lx_w11_22_202408.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-09-02"
+    },
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen5_mt21lu-21lv-x13_2-in-1_gen5_mt21lw-21lx_w11_23h2_202512.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen5_mt21lu-21lv-x13_2-in-1_gen5_mt21lw-21lx_w11_24h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13_gen5_mt21lu-21lv-x13_2-in-1_gen5_mt21lw-21lx_w11_25h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

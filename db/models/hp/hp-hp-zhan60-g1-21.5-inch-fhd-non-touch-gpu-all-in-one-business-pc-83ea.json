@@ -1,0 +1,78 @@
+{
+  "id": "hp-hp-zhan60-g1-21.5-inch-fhd-non-touch-gpu-all-in-one-business-pc-83ea",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC",
+  "system_id": "83ea",
+  "dmi_matches": [
+    "HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC",
+    "83ea"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp89032-HP ElitePro 400/600/800 G4 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp89001-89500/sp89032.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/17/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95456-HP ElitePro 4/6/800 G4 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95456.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99724-HP ElitePro 400/600/800 G4 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99724.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "10/23/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101775-HP ElitePro 400/600/800 G4 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101775.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "2/27/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103580-HP ElitePro 400/600/800 G4 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103580.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "12.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114256-HP ElitePro 400/600/800 G4 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114256.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "14.00 A 1",
+      "release_date": "6/24/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

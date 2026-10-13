@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3460-sff-0ac7",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3460 SFF",
+  "system_id": "0AC7",
+  "dmi_matches": [
+    "Precision Precision 3460 SFF",
+    "Precision 3460 SFF",
+    "0AC7"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-F1F14",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14454005M/1/Precision-3460-SFF-F1F14_Win10_1.0_A15.exe",
+      "size_bytes": 3233034304,
+      "md5": "A5F0BBAE64974E970E89304C82630C07",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-29T02:30:38"
+    },
+    {
+      "name": "DellPack-7TTDP",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14454030M/1/Precision-3460-SFF-7TTDP_Win11_1.0_A14.exe",
+      "size_bytes": 3228707680,
+      "md5": "6259BC30C47992463076AF012E2A04EB",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-29T02:30:38"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

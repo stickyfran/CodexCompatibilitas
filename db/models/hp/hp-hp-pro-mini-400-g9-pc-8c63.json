@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-pro-mini-400-g9-pc-8c63",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro Mini 400 G9 PC",
+  "system_id": "8C63",
+  "dmi_matches": [
+    "HP Pro Mini 400 G9 PC",
+    "8C63"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp145699-HP Pro/Elite Mini 4/6/800 G9 Windows 10x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145699.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "4/5/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151266-HP Pro/Elite Mini 4/6/800 G9 Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151266.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "2/13/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp157679-HP Pro/Elite Mini 4/6/800 G9 Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157679.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "11/27/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp173508-HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173508.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "6/22/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

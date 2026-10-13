@@ -1,0 +1,48 @@
+{
+  "id": "lenovo-thinkpad-t14s-gen-6-type-21qx-21qy-21qy",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T14S Gen 6 Type 21QX 21QY (Type 21QY)",
+  "system_id": "21QY",
+  "dmi_matches": [
+    "ThinkPad T14S Gen 6 Type 21QX 21QY",
+    "21QY"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen6_21qx_21qy_w11_23_202512.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-28"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen6_21qx_21qy_w11_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-28"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen6_21qx_21qy_w11_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,68 @@
+{
+  "id": "hp-hp-elitedesk-705-g4-microtower-pc-8460",
+  "vendor": "HP",
+  "family": "Elitedesk",
+  "model_name": "HP EliteDesk 705 G4 Microtower PC",
+  "system_id": "8460",
+  "dmi_matches": [
+    "HP EliteDesk 705 G4 Microtower PC",
+    "8460"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp92293-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92293.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/16/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp99766-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99766.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/6/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101773-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101773.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/27/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp111437-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111437.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "12/3/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114270-HP EliteDesk 705 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114270.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "12.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

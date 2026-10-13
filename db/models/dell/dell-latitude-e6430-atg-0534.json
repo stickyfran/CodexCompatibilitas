@@ -1,0 +1,411 @@
+{
+  "id": "dell-latitude-e6430-atg-0534",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6430 ATG",
+  "system_id": "0534",
+  "dmi_matches": [
+    "Latitude E6430 ATG",
+    "Latitude E6430",
+    "0534"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-6GCWC",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03647870M/1/E6430-win10-A01-6GCWC.CAB",
+      "size_bytes": 674383165,
+      "md5": "1E3FDC7FDA0E37056ED49F135C49CFC9",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-04-15T00:00:00"
+    },
+    {
+      "name": "DellPack-YTNXR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03481138M/1/E6430-win7-A13-YTNXR.CAB",
+      "size_bytes": 790325198,
+      "md5": "FBF42FF5FA2716A2D41EE6BF733D2085",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    },
+    {
+      "name": "DellPack-P20XM",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02757548M/1/E6430-Win8.1-A03-P20XM.CAB",
+      "size_bytes": 737841711,
+      "md5": "F2A493F63D61CAF52D6C040739E09EE9",
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-03-10T00:00:00"
+    },
+    {
+      "name": "DellPack-F0T8C",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02633416M/1/E6430-win8-A06-F0T8C.CAB",
+      "size_bytes": 603203107,
+      "md5": "C20449DD3D1520AD1D4409351D410603",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-PJ5V1",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02061419M/1/E6430-xp-A05-PJ5V1.CAB",
+      "size_bytes": 221688885,
+      "md5": "2454579208402A7A95243D77EC7CB52D",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "audio",
+      "name": "IDT 92HD93 High-Definition Audio Driver",
+      "version": "1.0.6491.0",
+      "url": "dell://C6HVR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000 Graphics Driver",
+      "version": "10.18.10.4276",
+      "url": "dell://JRHH9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808E/5808 LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.14.4316.502",
+      "url": "dell://JP75T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Driver",
+      "version": "9.3.0.1019",
+      "url": "dell://CPNKY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5560 and 5565 Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "8.2.5.0",
+      "url": "dell://CNYGV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540/1550/1560 WiFi Driver",
+      "version": "7.35.317.0",
+      "url": "dell://P73MT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "12.8.2.1000",
+      "url": "dell://RTCGK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "11.0.0.1163",
+      "url": "dell://4HP0D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault Driver",
+      "version": "3.3.14.68",
+      "url": "dell://G5JH7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 380/1550/1560 Bluetooth Driver",
+      "version": "12.0.1.654",
+      "url": "dell://T3GMW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.67",
+      "url": "dell://CP3V3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.2",
+      "url": "dell://0MHTV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Discrete Graphics - nVIDIA GeForce 830M/840M/GT 720M and NVS 5200M",
+      "version": "10.18.13.5382",
+      "url": "dell://WKHHY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Drivers",
+      "version": "20.1.0.0",
+      "url": "dell://0J8HP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 6235/6300/6250/6205/6200 WiFi Driver",
+      "version": "15.10.0.10",
+      "url": "dell://4FW6K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "10.1207.101.109",
+      "url": "dell://YXX3D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "IDT 92HD93 High-Definition Audio Driver",
+      "version": "1.0.6491.0",
+      "url": "dell://C6HVR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Driver",
+      "version": "9.3.0.1019",
+      "url": "dell://CPNKY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Discrete Graphics - nVIDIA GeForce 830M/840M/GT 720M and NVS 5200M",
+      "version": "10.18.13.5382",
+      "url": "dell://N4MHX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5560 and 5565 Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "8.2.5.0",
+      "url": "dell://CNYGV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540/1550/1560 WiFi Driver",
+      "version": "7.35.317.0",
+      "url": "dell://P73MT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology F6 Driver",
+      "version": "12.8.2.1000",
+      "url": "dell://C8P0T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "11.0.0.1163",
+      "url": "dell://4HP0D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 380/1550/1560 Bluetooth Driver",
+      "version": "12.0.1.654",
+      "url": "dell://T3GMW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.67",
+      "url": "dell://CP3V3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.0.0",
+      "url": "dell://PX8MM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000 Graphics Driver",
+      "version": "10.18.10.4276",
+      "url": "dell://MDX68_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Drivers",
+      "version": "20.1.0.0",
+      "url": "dell://0J8HP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808E/5808 LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.14.4316.502",
+      "url": "dell://JP75T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault Driver",
+      "version": "3.3.14.68",
+      "url": "dell://WDRHG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "10.1207.101.109",
+      "url": "dell://YXX3D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

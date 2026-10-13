@@ -43,6 +43,16 @@
       "sha256": null,
       "version": "9.00 A 1",
       "release_date": "12/1/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp174468-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174468.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "12.00 A 1",
+      "release_date": "8/26/2026 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

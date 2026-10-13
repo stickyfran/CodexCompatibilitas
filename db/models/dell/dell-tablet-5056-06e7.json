@@ -1,0 +1,128 @@
+{
+  "id": "dell-tablet-5056-06e7",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Tablet 5056",
+  "system_id": "06E7",
+  "dmi_matches": [
+    "Tablet 5056",
+    "Venue 10 Pro 5056",
+    "06E7"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-P4G6J",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER05382957M/1/5056-win10-A12-P4G6J.CAB",
+      "size_bytes": 267215256,
+      "md5": "83C27BDD6672D976992039AF6905064C",
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-CRJ34",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03714947M/1/5056-win8.1-A03-CRJ34.CAB",
+      "size_bytes": 203197998,
+      "md5": "7E80F9717137B88E4503ADB009E83B8A",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-06-14T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808e LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.14.4316.502",
+      "url": "dell://349RY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver for Dell Wireless Dock, Dell Thunderbolt Dock, and Dell Dock.",
+      "version": "6.3.9600.44",
+      "url": "dell://0PP6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell://75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5809e LTE Mobile Broadband Driver and GPS driver",
+      "version": "6.14.4316.502",
+      "url": "dell://JRTWC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Driver",
+      "version": "603.9600.2709.44124",
+      "url": "dell://Y50M4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Dual Band Wireless-AC 8260 Driver",
+      "version": "18.32.0.5",
+      "url": "dell://CGRKK_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC5672 High-Definition (HD) Audio Driver",
+      "version": "6.2.9600.4371",
+      "url": "dell://J9VX0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.43.2015.1225",
+      "url": "dell://9YCY0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

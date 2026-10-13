@@ -1,0 +1,68 @@
+{
+  "id": "hp-hp-elite-slice-g2---partner-ready-with-microsoft-teams-rooms-8396",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms",
+  "system_id": "8396",
+  "dmi_matches": [
+    "HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms",
+    "8396"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp85545-HP Elite Slice G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp85501-86000/sp85545.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/24/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp99864-HP Elite Slice G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99864.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "10/28/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp105671-HP Elite Slice G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105671.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "6/22/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp134315-HP Elite Slice G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp134001-134500/sp134315.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "17.00 A 1",
+      "release_date": "9/2/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp136512-HP Elite Slice G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136501-137000/sp136512.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "19.00 A 1",
+      "release_date": "12/2/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

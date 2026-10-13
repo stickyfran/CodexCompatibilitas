@@ -1,0 +1,204 @@
+{
+  "id": "dell-optiplex-9030-0625",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex 9030",
+  "system_id": "0625",
+  "dmi_matches": [
+    "Optiplex 9030",
+    "OptiPlex 9030 AIO",
+    "0625"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-09R0F",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04901695M/1/9030-win10-A04-09R0F.CAB",
+      "size_bytes": 932837668,
+      "md5": "14872B0B214E2DEBA5FB507C6483E6A6",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-8CG1M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04901720M/1/9030-win7-A08-8CG1M.CAB",
+      "size_bytes": 570513830,
+      "md5": "94D579AB76DAFBB526727A5C3FD27343",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-D2N5F",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03538734M/1/9030-win8.1-A05-D2N5F.CAB",
+      "size_bytes": 341939635,
+      "md5": "32285DF997EC93D3A20ACD18DDE661E7",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell://X15C9_A12-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "5.0.10.2848",
+      "url": "dell://50C42_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell://9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "12.8.7.1000",
+      "url": "dell://1KX2H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.13",
+      "url": "dell://TH57N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx 10/100/1000 Ethernet Network Driver",
+      "version": "19.2.0.0",
+      "url": "dell://MXH3C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Hardware Crypto Accelerator (Network and Computing Encryption/Decryption Controller) Device Driver",
+      "version": "V2.0.0.81",
+      "url": "dell://GYV2D_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3226 HD Audio Codec Driver",
+      "version": "6.0.1.6053",
+      "url": "dell://Y8V8V_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer Driver",
+      "version": "10.0.2.1000",
+      "url": "dell://KTGFH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R7 A265 Graphics Driver",
+      "version": "14.301.1001",
+      "url": "dell://5XM4D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.38",
+      "url": "dell://VX3YR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Rapid Start Technology Application",
+      "version": "3.0.0.1056",
+      "url": "dell://DD9PK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell://FGGYJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.0.8.7",
+      "url": "dell://MC8V1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

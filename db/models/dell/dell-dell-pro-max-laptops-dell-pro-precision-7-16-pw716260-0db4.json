@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-precision-7-16-pw716260-0db4",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Precision 7 16 PW716260",
+  "system_id": "0DB4",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Precision 7 16 PW716260",
+    "Dell Pro Precision 7 16 PW716260",
+    "0DB4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-1V1TR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14780053M/1/PW716260-1V1TR_Win11_1.0_A02.exe",
+      "size_bytes": 2098697520,
+      "md5": "8DB14D3979377FD63FB376548BD3AE82",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

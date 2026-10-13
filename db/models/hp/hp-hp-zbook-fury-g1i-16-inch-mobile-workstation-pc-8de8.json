@@ -24,6 +24,16 @@
       "sha256": null,
       "version": "5.00 A 1",
       "release_date": "9/2/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp164412-HP ZBook Fury G1i MWS Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp164001-164500/sp164412.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/8/2025 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

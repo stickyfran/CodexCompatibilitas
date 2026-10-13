@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-elitebook-x360-1040-g7-notebook-pc-876d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1040 G7 Notebook PC",
+  "system_id": "876d",
+  "dmi_matches": [
+    "HP EliteBook x360 1040 G7 Notebook PC",
+    "876d"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp108939-HP EliteBook x360 1030/40 G7 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108939.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/4/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110783-HP EliteBook x360 1030/40 G7 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110783.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/29/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113980-HP EliteBook x360 1030/40 G7 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113980.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "5/25/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140867-HP EliteBook x360 10x0 G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140867.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "6/30/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

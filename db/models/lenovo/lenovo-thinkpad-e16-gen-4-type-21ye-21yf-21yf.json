@@ -1,0 +1,28 @@
+{
+  "id": "lenovo-thinkpad-e16-gen-4-type-21ye-21yf-21yf",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad E16 Gen 4 Type 21YE 21YF (Type 21YF)",
+  "system_id": "21YF",
+  "dmi_matches": [
+    "ThinkPad E16 Gen 4 Type 21YE 21YF",
+    "21YF"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_g8_l14p_g7_e16_g4_mt21y8-y9-yb-ye-yf_w11_25h2_20260528.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-19"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

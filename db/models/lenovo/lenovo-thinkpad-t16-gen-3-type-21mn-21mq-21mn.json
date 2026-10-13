@@ -1,0 +1,78 @@
+{
+  "id": "lenovo-thinkpad-t16-gen-3-type-21mn-21mq-21mn",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad T16 Gen 3 Type 21MN 21MQ (Type 21MN)",
+  "system_id": "21MN",
+  "dmi_matches": [
+    "ThinkPad T16 Gen 3 Type 21MN 21MQ",
+    "21MN"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-21H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen5_mt21ml-21mm-t16_gen3_mt21mn-21mq_w1064_21h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen5_mt21ml-21mm-t16_gen3_mt21mn-21mq_w1064_22h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    },
+    {
+      "name": "LenovoSCCM-22H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_Gen5_mt21ml-21mm-t16_Gen3_mt21mn-21mq_w11_22_202408.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-09-02"
+    },
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen5_mt21ml-21mm-t16_gen3_mt21mn-21mq_w11_23h2_202512.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen5_mt21ml-21mm-t16_gen3_mt21mn-21mq_w11_24h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen5_mt21ml-21mm-t16_gen3_mt21mn-21mq_w11_25h2_202606.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-06"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

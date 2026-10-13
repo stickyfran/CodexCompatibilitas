@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7350-0cbd",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7350",
+  "system_id": "0CBD",
+  "dmi_matches": [
+    "Latitude Latitude 7350",
+    "Latitude 7350",
+    "0CBD"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-XY64P",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14137324M/1/Latitude-7350-XY64P_Win10_1.0_A09.exe",
+      "size_bytes": 2109638472,
+      "md5": "4459766870C8E395EAC3101CF6B46B60",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-02-05T03:36:06"
+    },
+    {
+      "name": "DellPack-4CRFW",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14509408M/1/Latitude-7350-4CRFW_Win11_1.0_A10.exe",
+      "size_bytes": 1980805920,
+      "md5": "673CC116F8A5A152B4EB4A828EF44D09",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-22T02:46:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

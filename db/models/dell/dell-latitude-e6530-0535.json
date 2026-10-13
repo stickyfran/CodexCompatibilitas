@@ -63,6 +63,337 @@
       "release_date": "2014-05-05T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce GT 720M;nVIDIA Quadro K1100M;nVIDIA Quadro 5010M;nVIDIA Quadro 1000M;nVIDIA Quadro K4000M;nVIDIA Quadro 3000M;nVIDIA Quadro K2000M;nVIDIA Quadro K5000M;nVIDIA Quadro K4100M;nVIDIA Quadro K2100M;nVIDIA Quadro K3100M;nVIDIA Quadro K1000M;nVIDIA NVS 5200M;nVIDIA Quadro 2000M;nVIDIA NVS 4200M;nVIDIA Quadro 4000M;nVIDIA Quadro K3000M;nVIDIA Quadro K5100M",
+      "version": "9.18.13.2762",
+      "url": "dell://JNK9K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1",
+      "url": "dell://HFY8N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5560 HSPA Mini Card",
+      "version": "8.1.0.7",
+      "url": "dell://M3FGW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "STMicro device driver for Dell Data Encryption Accelerator Card",
+      "version": "V2.0.0.81",
+      "url": "dell://GYV2D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "IDT High-Definition Audio 92HD93;IDT 92HD93 Audio;IDT 92HD93 High-Definition Audio Codec;IDT 92HD93 HD Audio",
+      "version": "1.0.6491.0",
+      "url": "dell://C6HVR_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology",
+      "version": "12.8.2.1000",
+      "url": "dell://RTCGK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 380 Bluetooth",
+      "version": "12.0",
+      "url": "dell://5P1GM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault",
+      "version": "2.3.415.120",
+      "url": "dell://TTGT7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 2000/2500/3000/4000;Intel HD, HD 4200/4400/4600/5000/5100/5200 Graphics;Intel HD Graphics 4000;Intel Graphics HD 4200/4400/4600/5000/5100/5200;Intel HD, HD Graphics 2000/2500/3000/4000;Intel HD Graphics 2000/3000/4000;Intel Graphics HD, HD 4200/4400/4600/5000/5100/5200;Intel HD, HD 4200/4400/4600/5000/5100/5200;Intel HD, HD 2000/2500/3000/4000",
+      "version": "10.18.10.3277",
+      "url": "dell://3NH82_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Ethernet Connection I217-LM (Driver Win7/8.1 32/64-bit);Intel Ethernet controller;Intel I2xx/825xx Gigabit Ethernet Controller;Intel 825xx Gigabit Ethernet Controller;Intel 825xx Gigabit Platform LAN Network Device;Intel 825xx Gigabit platform LAN Network Device;Intel 825xx 10/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet Network Drivers;Intel 825xx 10/100/1000 Ethernet controller",
+      "version": "18.5.0.0",
+      "url": "dell://N6RY0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless WLAN 1530 Half Mini Card;Dell Wireless 1540 Half MiniCard",
+      "version": "6.30.223.215",
+      "url": "dell://4NR1T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer;Intel Management Engine 9.x Components Installer;Intel Management Engine 9.5 Components Installer;Intel Management Engine 8.x Components Installer;Intel Unified AMT 8.1 WS Management Interface;Intel Management Engine 8.x Components;Intel Management Engine 8.0 Components Installer",
+      "version": "9.5.15.1730",
+      "url": "dell://GJVHD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.46",
+      "url": "dell://V6681_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell://17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "8.1200.101.134",
+      "url": "dell://JXJ2F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.46",
+      "url": "dell://V6681_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 2000/2500/3000/4000;Intel HD, HD 4200/4400/4600/5000/5100/5200 Graphics;Intel HD Graphics 4000;Intel Graphics HD 4200/4400/4600/5000/5100/5200;Intel HD, HD Graphics 2000/2500/3000/4000;Intel HD Graphics 2000/3000/4000;Intel Graphics HD, HD 4200/4400/4600/5000/5100/5200;Intel HD, HD 4200/4400/4600/5000/5100/5200;Intel HD, HD 2000/2500/3000/4000",
+      "version": "10.18.10.3277",
+      "url": "dell://YGVRN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5560 HSPA Mini Card",
+      "version": "8.1.0.7",
+      "url": "dell://M3FGW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "STMicro device driver for Dell Data Encryption Accelerator Card",
+      "version": "V2.0.0.81",
+      "url": "dell://GYV2D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell://17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce GT 720M;nVIDIA Quadro K1100M;nVIDIA Quadro 5010M;nVIDIA Quadro 1000M;nVIDIA Quadro K4000M;nVIDIA Quadro 3000M;nVIDIA Quadro K2000M;nVIDIA Quadro K5000M;nVIDIA Quadro K4100M;nVIDIA Quadro K2100M;nVIDIA Quadro K3100M;nVIDIA Quadro K1000M;nVIDIA NVS 5200M;nVIDIA Quadro 2000M;nVIDIA NVS 4200M;nVIDIA Quadro 4000M;nVIDIA Quadro K3000M;nVIDIA Quadro K5100M",
+      "version": "9.18.13.2762",
+      "url": "dell://GKPWX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 380 Bluetooth",
+      "version": "12.0",
+      "url": "dell://5P1GM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology F6;Intel Rapid Storage Technology",
+      "version": "12.8.2.1000",
+      "url": "dell://C8P0T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault",
+      "version": "2.3.415.120",
+      "url": "dell://D2JF6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Ethernet Connection I217-LM (Driver Win7/8.1 32/64-bit);Intel Ethernet controller;Intel I2xx/825xx Gigabit Ethernet Controller;Intel 825xx Gigabit Ethernet Controller;Intel 825xx Gigabit Platform LAN Network Device;Intel 825xx Gigabit platform LAN Network Device;Intel 825xx 10/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet Network Drivers;Intel 825xx 10/100/1000 Ethernet controller",
+      "version": "18.5.0.0",
+      "url": "dell://N6RY0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell://90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless WLAN 1530 Half Mini Card;Dell Wireless 1540 Half MiniCard",
+      "version": "6.30.223.215",
+      "url": "dell://4NR1T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer;Intel Management Engine 9.x Components Installer;Intel Management Engine 9.5 Components Installer;Intel Management Engine 8.x Components Installer;Intel Unified AMT 8.1 WS Management Interface;Intel Management Engine 8.x Components;Intel Management Engine 8.0 Components Installer",
+      "version": "9.5.15.1730",
+      "url": "dell://GJVHD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "IDT High-Definition Audio 92HD93;IDT 92HD93 Audio;IDT 92HD93 High-Definition Audio Codec;IDT 92HD93 HD Audio",
+      "version": "1.0.6491.0",
+      "url": "dell://C6HVR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "8.1200.101.134",
+      "url": "dell://JXJ2F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

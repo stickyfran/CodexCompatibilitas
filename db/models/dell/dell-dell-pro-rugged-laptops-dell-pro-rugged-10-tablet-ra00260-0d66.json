@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-rugged-laptops-dell-pro-rugged-10-tablet-ra00260-0d66",
+  "vendor": "Dell",
+  "family": "Dell Pro Rugged Laptops",
+  "model_name": "Dell Pro Rugged Laptops Dell Pro Rugged 10 Tablet RA00260",
+  "system_id": "0D66",
+  "dmi_matches": [
+    "Dell Pro Rugged Laptops Dell Pro Rugged 10 Tablet RA00260",
+    "Dell Pro Rugged 10 Tablet RA00260",
+    "0D66"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-R0VMY",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14753853M/1/RA00260-R0VMY_Win10_1.0_A03.exe",
+      "size_bytes": 1240837688,
+      "md5": "D67503F97D284C310584993F2C8BB4FD",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    },
+    {
+      "name": "DellPack-2HHDX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14690336M/1/RA00260-2HHDX_Win11_1.0_A03.exe",
+      "size_bytes": 1113808752,
+      "md5": "34D1B1E1436C3F336999185E191D91F0",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

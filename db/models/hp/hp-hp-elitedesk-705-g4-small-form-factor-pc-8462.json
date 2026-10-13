@@ -53,6 +53,16 @@
       "sha256": null,
       "version": "12.00 A 1",
       "release_date": "6/25/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp101773-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101773.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/27/2020 12:00:00 AM"
     }
   ],
   "individual_drivers": [

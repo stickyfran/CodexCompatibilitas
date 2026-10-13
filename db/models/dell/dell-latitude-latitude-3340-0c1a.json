@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3340-0c1a",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3340",
+  "system_id": "0C1A",
+  "dmi_matches": [
+    "Latitude Latitude 3340",
+    "Latitude 3340",
+    "0C1A"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-0GG2N",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13725057M/1/Latitude-3340-0GG2N_Win10_1.0_A12.exe",
+      "size_bytes": 873585384,
+      "md5": "387F8C455D57D572B6B4FAAC9667511A",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    },
+    {
+      "name": "DellPack-8KPMF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13733231M/1/Latitude-3340-8KPMF_Win11_1.0_A12.exe",
+      "size_bytes": 875293912,
+      "md5": "7840BF59BB86A4C3D916887CB1583A3C",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

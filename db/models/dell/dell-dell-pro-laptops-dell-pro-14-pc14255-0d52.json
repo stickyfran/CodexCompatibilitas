@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-14-pc14255-0d52",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 14 PC14255",
+  "system_id": "0D52",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 14 PC14255",
+    "Dell Pro 14 PC14255",
+    "0D52"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-0XNTG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14722754M/1/PC14255-0XNTG_Win10_1.0_A06.exe",
+      "size_bytes": 569094776,
+      "md5": "47147D381E1F12014173A7BD5AA3CCBA",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    },
+    {
+      "name": "DellPack-KPTK1",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14974146M/1/PC14255-KPTK1_Win11_1.0_A07.exe",
+      "size_bytes": 664347568,
+      "md5": "E83F324D60B0DC6C92CF5EF562A739A0",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-15T00:53:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

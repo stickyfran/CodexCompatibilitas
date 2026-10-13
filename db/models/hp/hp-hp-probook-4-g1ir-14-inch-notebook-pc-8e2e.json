@@ -1,0 +1,38 @@
+{
+  "id": "hp-hp-probook-4-g1ir-14-inch-notebook-pc-8e2e",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G1iR 14 inch Notebook PC",
+  "system_id": "8E2E",
+  "dmi_matches": [
+    "HP ProBook 4 G1iR 14 inch Notebook PC",
+    "8E2E"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp162923-HP ProBook/EliteBook 6 G1iR Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp162501-163000/sp162923.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "8/22/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp174341-HP ProBook/EliteBook 6 G1iR Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174341.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "8/13/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

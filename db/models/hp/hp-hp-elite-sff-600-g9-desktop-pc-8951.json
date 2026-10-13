@@ -42,6 +42,16 @@
       "sha256": null,
       "version": "10.00 A 1",
       "release_date": "12/15/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp151654-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151654.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "3/12/2024 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

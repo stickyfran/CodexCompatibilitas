@@ -1,0 +1,58 @@
+{
+  "id": "lenovo-thinkpad-x240-20am",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad X240 (Type 20AM)",
+  "system_id": "20AM",
+  "dmi_matches": [
+    "ThinkPad X240",
+    "20AM"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1607",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x240-x240s_w1064_201611.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "LenovoSCCM-1703",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x240-x240s_w1064_201611.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "LenovoSCCM-1709",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x240-x240s_w1064_201611.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "LenovoSCCM-1803",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x240-x240s_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-07-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

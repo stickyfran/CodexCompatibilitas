@@ -23,6 +23,36 @@
       "sha256": null,
       "version": "5.00 A 1",
       "release_date": "11/28/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp105836-HP ElitePro 4/6/800 G6 DM/SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105836.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/3/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113468-HP ElitePro 4/6/800 G6 DM Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113468.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/26/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp144615-HP ElitePro 4/6/800 G6 Desktop Mini Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144615.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
     }
   ],
   "individual_drivers": [

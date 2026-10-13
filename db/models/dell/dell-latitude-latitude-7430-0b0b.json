@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7430-0b0b",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7430",
+  "system_id": "0B0B",
+  "dmi_matches": [
+    "Latitude Latitude 7430",
+    "Latitude 7430",
+    "0B0B"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-CG1N8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12858197M/1/Latitude-7430-CG1N8_Win10_1.0_A11.exe",
+      "size_bytes": 2016326888,
+      "md5": "3A7E0169BC8CD4ECB53E2E05A3ADE895",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    },
+    {
+      "name": "DellPack-F8X0F",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12858195M/1/Latitude-7430-F8X0F_Win11_1.0_A11.exe",
+      "size_bytes": 1521210160,
+      "md5": "C42571D2785B36BA5A292F56506AB4CD",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

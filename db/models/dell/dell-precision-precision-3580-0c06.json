@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3580-0c06",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3580",
+  "system_id": "0C06",
+  "dmi_matches": [
+    "Precision Precision 3580",
+    "Precision 3580",
+    "0C06"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-9K5Y5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13729836M/1/Precision-3580-9K5Y5_Win10_1.0_A12.exe",
+      "size_bytes": 2213284472,
+      "md5": "23FE60577215F73540E983357D012B1F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    },
+    {
+      "name": "DellPack-38H7Y",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14412459M/1/Precision-3580-38H7Y_Win11_1.0_A13.exe",
+      "size_bytes": 2539507536,
+      "md5": "78E967E237CA3D1AA567595808CA4353",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

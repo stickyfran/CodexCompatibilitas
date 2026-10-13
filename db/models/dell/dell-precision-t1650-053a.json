@@ -63,6 +63,150 @@
       "release_date": "2014-05-05T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "security",
+      "name": "STMicron device driver for Dell Data Encryption Accelerator Card",
+      "version": "V2.0.0.40",
+      "url": "dell://VVJ28_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro MV2270 Graphics",
+      "version": "8.850.7",
+      "url": "dell://9JY3R_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel Ethernet controller;Intel Ethernet Controller;Intel 825xx 10/100/1000 Ethernet controller;Intel Ethernet Connection I2XX;Intel I2xx/825xx Gigabit Platform LAN Network Device;Intel I2xx/825xx Gigabit Ethernet Controller;Intel 825xx 10/100/1000 Ethernet Network;Intel 825xx Gigabit Ethernet Controller;Intel 825xx Gigabit platform LAN Network Device;Intel 825xx Gigabit Platform LAN Network Device;Intel Ethernet Connection I217-LM - Diags Win7/8.1 32/64-bit;Intel 825xx 10/100/1000 Ethernet Network Drivers;Intel 825xx 10/100/1000 Ethernet Controller;Intel Device Manager Diagnostics (DMIX)",
+      "version": "18.1.0.0",
+      "url": "dell://NNGMH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVidia Quadro 410",
+      "version": "2.2.0.0",
+      "url": "dell://31YN5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Sunix Serial/Parallel Card;CUS,CRD,INTFC,PCIE,SER,FH,790;ASSY,CRD,INTFC,PCIE,SER/PRL,FH;ASSY,CRD,INTFC,PCIE,PRL,FH;ASSY,CRD,INTFC,PCIE,SER,HH;ASSY,CRD,INTFC,PCIE,PRL,LPF",
+      "version": "7.2.0.0",
+      "url": "dell://23G1C_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "ALC269 HD Audio Codec",
+      "version": "6.0.1.5907",
+      "url": "dell://K5T2P_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Management Engine 8.x Components Installer",
+      "version": "8.1.0.1281",
+      "url": "dell://46WD8_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "LiteOn KeyBoard Driver",
+      "version": "4.0.8.5",
+      "url": "dell://207T0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Access",
+      "version": "2.2.3.8",
+      "url": "dell://KPCWG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset",
+      "version": "9.3.0.1019",
+      "url": "dell://CPNKY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology",
+      "version": "11.0.0.1032",
+      "url": "dell://1V7GN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 57XX Driver/BACS;BCM95722 PCI-E NIC WIN 8;Broadcom BCM95722 PCI-E NIC;Broadcom 57XX Gigabit Integrated Controller;Broadcom 57XX Driver/BACS combined package;Broadcom 57XX Ethernet Controller",
+      "version": "17.4.2",
+      "url": "dell://0881V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 2000/3000;Intel HD Graphics 2000/3000/4000;Intel HD Graphics 4000;Intel HD Graphics 2000/2500/3000/4000;Intel HD, HD 2000/2500/3000/4000",
+      "version": "6.14.10.5436",
+      "url": "dell://95G93_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

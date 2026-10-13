@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkpad-l14-gen-7-type-21x2-21x3-21x3",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad L14 Gen 7 Type 21X2 21X3 (Type 21X3)",
+  "system_id": "21X3",
+  "dmi_matches": [
+    "ThinkPad L14 Gen 7 Type 21X2 21X3",
+    "21X3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21x2_mt21x3_l16_mt21x8_mt21x9_no_wwan_w11_24h2_202609.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-29"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14_mt21x2_mt21x3_l16_mt21x8_mt21x9_no_wwan_w11_25h2_202609.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

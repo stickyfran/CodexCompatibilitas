@@ -1,0 +1,48 @@
+{
+  "id": "lenovo-thinkpad-p16v-gen-3-type-21rs-21rt-21rt",
+  "vendor": "Lenovo",
+  "family": "Thinkpad",
+  "model_name": "ThinkPad P16V Gen 3 Type 21RS 21RT (Type 21RT)",
+  "system_id": "21RT",
+  "dmi_matches": [
+    "ThinkPad P16V Gen 3 Type 21RS 21RT",
+    "21RT"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-23H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16vgen3_mt21rs-21rt_w1164_23h2.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-09-03"
+    },
+    {
+      "name": "LenovoSCCM-24H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16vgen3_mt21rs-21rt_w1164_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-02"
+    },
+    {
+      "name": "LenovoSCCM-25H2",
+      "os": "win11",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16vgen3_mt21rs-21rt_w1164_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-02"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

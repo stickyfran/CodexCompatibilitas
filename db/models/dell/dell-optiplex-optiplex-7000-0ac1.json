@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-7000-0ac1",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 7000",
+  "system_id": "0AC1",
+  "dmi_matches": [
+    "Optiplex OptiPlex 7000",
+    "OptiPlex 7000",
+    "0AC1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-2W5GR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12213321M/1/OptiPlex-7000-2W5GR_Win10_1.0_A14.exe",
+      "size_bytes": 2967944152,
+      "md5": "4ECBB78A661ADFFF620AC7CEB1927980",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-12-05T01:34:38"
+    },
+    {
+      "name": "DellPack-CKDM3",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12213322M/1/OptiPlex-7000-CKDM3_Win11_1.0_A13.exe",
+      "size_bytes": 2967949568,
+      "md5": "308E2113784EA216B827F8E540D1879D",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-12-05T01:34:38"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

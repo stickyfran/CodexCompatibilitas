@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5770-0b00",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5770",
+  "system_id": "0B00",
+  "dmi_matches": [
+    "Precision Precision 5770",
+    "Precision 5770",
+    "0B00"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-TD1FM",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13178894M/1/Precision-5770-TD1FM_Win10_1.0_A12.exe",
+      "size_bytes": 2801200312,
+      "md5": "3CE614E68B360DC776C104FCA4D7AE4E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    },
+    {
+      "name": "DellPack-70PY2",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13178898M/1/Precision-5770-70PY2_Win11_1.0_A14.exe",
+      "size_bytes": 2796937688,
+      "md5": "E23312B99DA09049EB490B67C66DBA2C",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

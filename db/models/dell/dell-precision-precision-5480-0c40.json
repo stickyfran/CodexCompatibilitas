@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5480-0c40",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5480",
+  "system_id": "0C40",
+  "dmi_matches": [
+    "Precision Precision 5480",
+    "Precision 5480",
+    "0C40"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-THJRG",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14339008M/1/Precision-5480-THJRG_Win10_1.0_A09.exe",
+      "size_bytes": 2051213496,
+      "md5": "8BB3311667A303334FBDC8AA375D7D37",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-38CK9",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14378701M/1/Precision-5480-38CK9_Win11_1.0_A09.exe",
+      "size_bytes": 2051279920,
+      "md5": "1F73121D14061D0EDADCC0E08998AAF6",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

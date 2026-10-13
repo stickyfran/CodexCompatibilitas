@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkcentre-m910z-10ns",
+  "vendor": "Lenovo",
+  "family": "Thinkcentre",
+  "model_name": "ThinkCentre M910Z (Type 10NS)",
+  "system_id": "10NS",
+  "dmi_matches": [
+    "ThinkCentre M910Z",
+    "10NS"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "LenovoSCCM-1607",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m910z_w10rs164_20170106.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2017-05-15"
+    },
+    {
+      "name": "LenovoSCCM-1703",
+      "os": "win10",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m910z_w10rs264_20170628.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": null,
+      "release_date": "2017-06-28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

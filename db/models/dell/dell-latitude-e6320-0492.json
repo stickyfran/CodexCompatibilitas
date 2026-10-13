@@ -53,6 +53,315 @@
       "release_date": "2014-05-29T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "security",
+      "name": "Dell ControlVault",
+      "version": "2.3.309.1625",
+      "url": "dell://RDYG9_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless WLAN 1501 Half Mini Card;Dell Wireless WLAN 1530 Half Mini Card",
+      "version": "A00",
+      "url": "dell://C9VJ1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 380 Bluetooth;Dell Wireless 380 Bluetooth4.0 Module",
+      "version": "12.0",
+      "url": "dell://VY4F2_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Alps Multi-Touch Touchpad",
+      "version": "8.1200.101.134",
+      "url": "dell://VW486_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology",
+      "version": "11.6.0.1030",
+      "url": "dell://2PWDK_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5550 HSPA Mini Card",
+      "version": "7.2.2.0",
+      "url": "dell://C3XKT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 2000/2500/3000/4000;Intel HD Graphics 4000;Intel HD, HD Graphics 2000/2500/3000/4000;Intel HD Graphics 2000/3000/4000;Intel HD Graphics 2000/3000;Intel HD, HD 2000/2500/3000/4000",
+      "version": "9.17.10.3040",
+      "url": "dell://XGPWM_A12-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel(R) WiFi Link 6235;Intel WiFi Link 6300;Intel WiFi Link 6200;Intel(R) WiFi Link 6205",
+      "version": "16.1.1",
+      "url": "dell://3MNPT_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Sensor",
+      "version": "2.0.10.34",
+      "url": "dell://RCHTX_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 825xx and I210 10/100/1000 Ethernet Network Drivers/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet controller",
+      "version": "18.1.0.0",
+      "url": "dell://NNGMH_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250",
+      "version": "7.50.0",
+      "url": "dell://G1MYR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine 7.1 Components for 5MB",
+      "version": "7.1.70.1205",
+      "url": "dell://MPGY4_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "application",
+      "name": "Dell Data Protection | Access",
+      "version": "2.3.00003.072",
+      "url": "dell://X1C1N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Memory Card reader O2Micro Utility Driver",
+      "version": "3.0.7.23",
+      "url": "dell://KC9W0_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless WLAN 1501 Half Mini Card;Dell Wireless WLAN 1530 Half Mini Card",
+      "version": "A00",
+      "url": "dell://C9VJ1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel(R) WiFi Link 6235;Intel WiFi Link 6300;Intel WiFi Link 6200;Intel(R) WiFi Link 6205",
+      "version": "16.1.1",
+      "url": "dell://4FW6K_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Alps Multi-Touch Touchpad",
+      "version": "8.1200.101.134",
+      "url": "dell://VW486_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250",
+      "version": "7.50.0",
+      "url": "dell://98K0N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology",
+      "version": "11.6.0.1030",
+      "url": "dell://2PWDK_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5550 HSPA Mini Card",
+      "version": "7.2.2.0",
+      "url": "dell://C3XKT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "application",
+      "name": "Dell Data Protection | Access",
+      "version": "2.3.00003.071",
+      "url": "dell://R5JT9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 2000/2500/3000/4000;Intel HD Graphics 4000;Intel HD, HD Graphics 2000/2500/3000/4000;Intel HD Graphics 2000/3000/4000;Intel HD Graphics 2000/3000;Intel HD, HD 2000/2500/3000/4000",
+      "version": "9.17.10.3040",
+      "url": "dell://3WRFM_A12-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Sensor",
+      "version": "2.0.10.34",
+      "url": "dell://RCHTX_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 825xx and I210 10/100/1000 Ethernet Network Drivers/100/1000 Ethernet Controller;Intel 825xx 10/100/1000 Ethernet controller",
+      "version": "18.1.0.0",
+      "url": "dell://NNGMH_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault",
+      "version": "2.3.309.1625",
+      "url": "dell://5DKPT_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine 7.1 Components for 5MB",
+      "version": "7.1.70.1205",
+      "url": "dell://MPGY4_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 380 Bluetooth;Dell Wireless 380 Bluetooth4.0 Module",
+      "version": "12.0",
+      "url": "dell://VY4F2_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Memory Card reader O2Micro Utility Driver",
+      "version": "3.0.7.23",
+      "url": "dell://KC9W0_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

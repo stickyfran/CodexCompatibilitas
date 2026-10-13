@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7340-0c08",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7340",
+  "system_id": "0C08",
+  "dmi_matches": [
+    "Latitude Latitude 7340",
+    "Latitude 7340",
+    "0C08"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-PVTT7",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13725473M/1/Latitude-7340-PVTT7_Win10_1.0_A12.exe",
+      "size_bytes": 1306452048,
+      "md5": "3647CF40D33088DE9522F7EFCA8C4C3E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    },
+    {
+      "name": "DellPack-MVFK6",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14364013M/1/Latitude-7340-MVFK6_Win11_1.0_A13.exe",
+      "size_bytes": 2099781056,
+      "md5": "88150E139AFE7DDDEDE41A575BD61209",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:40:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

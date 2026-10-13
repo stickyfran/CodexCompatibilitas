@@ -1,0 +1,58 @@
+{
+  "id": "hp-hp-elitebook-650-15.6-inch-g9-notebook-pc-897c",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 650 15.6 inch G9 Notebook PC",
+  "system_id": "897C",
+  "dmi_matches": [
+    "HP EliteBook 650 15.6 inch G9 Notebook PC",
+    "897C"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp145052-HP EB 4/6x0 G9 ZHAN Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145052.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/1/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149088-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149088.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151808-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151808.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/25/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp155186-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155001-155500/sp155186.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-3090-0b8a",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex Optiplex 3090",
+  "system_id": "0B8A",
+  "dmi_matches": [
+    "Optiplex Optiplex 3090",
+    "Optiplex 3090",
+    "0B8A"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-HP2XT",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11291704M/1/Optiplex-3090-HP2XT_Win10_1.0_A13.exe",
+      "size_bytes": 1845860832,
+      "md5": "8544B68A0CB75742049975729AEA9F5B",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    },
+    {
+      "name": "DellPack-D1RXX",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11286494M/1/Optiplex-3090-D1RXX_Win11_1.0_A11.exe",
+      "size_bytes": 1840639080,
+      "md5": "E82B9E75D5F97D80E4697451537411B2",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

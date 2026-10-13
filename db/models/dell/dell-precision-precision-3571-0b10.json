@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3571-0b10",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3571",
+  "system_id": "0B10",
+  "dmi_matches": [
+    "Precision Precision 3571",
+    "Precision 3571",
+    "0B10"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-H4WX6",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12825871M/1/Precision-3571-H4WX6_Win10_1.0_A16.exe",
+      "size_bytes": 2914927648,
+      "md5": "25B4498F09F43E614125DCF7497625A1",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-P8R31",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12825597M/1/Precision-3571-P8R31_Win11_1.0_A16.exe",
+      "size_bytes": 2909894216,
+      "md5": "FD8EB5D49D8E3C6E37A7F493AF5905AE",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-desktops-dell-slim-ds1265-0e0f",
+  "vendor": "Dell",
+  "family": "Dell Desktops",
+  "model_name": "Dell Desktops Dell Slim DS1265",
+  "system_id": "0E0F",
+  "dmi_matches": [
+    "Dell Desktops Dell Slim DS1265",
+    "Dell Slim DS1265",
+    "0E0F"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-11RGM",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14873746M/1/DS1265-11RGM_Win11_1.0_A02.exe",
+      "size_bytes": 1003349112,
+      "md5": "BE6EC94E8C1EE49E0A9934442F294C88",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

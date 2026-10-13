@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7220-093d",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7220",
+  "system_id": "093D",
+  "dmi_matches": [
+    "Latitude Latitude 7220",
+    "Latitude 7220",
+    "093D"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-V6X6K",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12260643M/1/Latitude-7220-V6X6K_Win10_1.0_A15.exe",
+      "size_bytes": 1596068472,
+      "md5": "9114CBD3FB98FB9AF9121D2DF0A98873",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-12-05T01:34:38"
+    },
+    {
+      "name": "DellPack-DPVDR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER12260641M/1/Latitude-7220-DPVDR_Win11_1.0_A06.exe",
+      "size_bytes": 1200886504,
+      "md5": "CFA4DBE96012AB07745DC35BAEBE8217",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-12-05T01:34:38"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

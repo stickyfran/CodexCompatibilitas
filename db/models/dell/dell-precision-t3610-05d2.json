@@ -53,6 +53,227 @@
       "release_date": "2014-11-12T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "1.0",
+      "url": "dell://MKHCF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Creative Labs Sound Blaster Recon3D PCIe Audio Card Driver",
+      "version": "V1.01.17",
+      "url": "dell://241T2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 15.200.1045 for Windows 10 (32 and 64 bit).",
+      "version": "15.200.1045",
+      "url": "dell://MHGY8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "11.0.0.1153",
+      "url": "dell://KFR45_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 10 Gigabit X540 Adapters Driver",
+      "version": "18.8.0.0",
+      "url": "dell://1C3C2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Enterprise F6 Driver",
+      "version": "4.3.0.1198",
+      "url": "dell://6DD29_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3226 HD Audio Codec Driver",
+      "version": "6.0.1.6053",
+      "url": "dell://Y8V8V_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "9.3.2.1010",
+      "url": "dell://RKDH5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 353.30 for Windows 10 (32-bit).",
+      "version": "10.18.13.5330",
+      "url": "dell://VKN1R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 57XX Driver/BACS Combined Package Driver",
+      "version": "18.8.0",
+      "url": "dell://GTN5Y_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 10 Gigabit X540 Adapters Driver",
+      "version": "18.8.0.0",
+      "url": "dell://1C3C2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Creative Labs Sound Blaster Recon3D PCIe Audio Card Driver",
+      "version": "V1.01.17",
+      "url": "dell://241T2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 15.200.1045 for Windows 10 (32 and 64 bit).",
+      "version": "15.200.1045",
+      "url": "dell://MHGY8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "IRSTe driver/applicaton combo release",
+      "version": "3.7.4.1004",
+      "url": "dell://9F51R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 57XX/BACS Combined Package Driver",
+      "version": "19.2.0",
+      "url": "dell://N4T4V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "LSI MegaRAID 9271 Driver",
+      "version": "6.600.25.0",
+      "url": "dell://316Y8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 353.30 for Windows 10 (64-bit).",
+      "version": "10.18.13.5330",
+      "url": "dell://H92FX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3226 HD Audio Codec Driver",
+      "version": "6.0.1.6053",
+      "url": "dell://Y8V8V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.0.6.1194",
+      "url": "dell://C3VMM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "9.3.2.1017",
+      "url": "dell://JWNTP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

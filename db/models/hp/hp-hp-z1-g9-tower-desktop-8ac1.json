@@ -32,6 +32,26 @@
       "sha256": null,
       "version": "11.00 A 1",
       "release_date": "6/8/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp145708-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145708.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/21/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151654-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151654.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "3/12/2024 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

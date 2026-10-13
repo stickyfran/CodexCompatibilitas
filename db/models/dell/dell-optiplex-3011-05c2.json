@@ -1,0 +1,214 @@
+{
+  "id": "dell-optiplex-3011-05c2",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex 3011",
+  "system_id": "05C2",
+  "dmi_matches": [
+    "Optiplex 3011",
+    "OptiPlex 3011 AIO",
+    "05C2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-YP44V",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03480611M/1/3011-win10-A01-YP44V.CAB",
+      "size_bytes": 473616707,
+      "md5": "113A45101636339D80E3E65A97F5CF95",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-NRR8Y",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02815606M/1/3011-win7-A06-NRR8Y.CAB",
+      "size_bytes": 453643350,
+      "md5": "ED80BE81B81D916B327801B2AF5E8207",
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-04-16T00:00:00"
+    },
+    {
+      "name": "DellPack-PJHF5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02815636M/1/3011-win8.1-A04-PJHF5.CAB",
+      "size_bytes": 328764900,
+      "md5": "496EA5060871D7FFED5AC8E55A865662",
+      "sha256": null,
+      "version": null,
+      "release_date": "2015-04-16T00:00:00"
+    },
+    {
+      "name": "DellPack-WJ53M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02580867M/1/3011-win8-A05-WJ53M.CAB",
+      "size_bytes": 213737484,
+      "md5": "3AA15623EDD92D3181BEA96ECDD0DE14",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "9.3.0.1021",
+      "url": "dell://7D9G2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6070",
+      "url": "dell://5P33P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "11.0.0.1153",
+      "url": "dell://KFR45_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540/1550/1560 WiFi Driver",
+      "version": "7.35.317.0",
+      "url": "dell://P73MT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R5 A240 Series Driver",
+      "version": "15.200.1045",
+      "url": "dell://WJPR8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "12.8.7.1000",
+      "url": "dell://1KX2H_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe GBE Family Controller Driver",
+      "version": "2.43.2015.609",
+      "url": "dell://531KT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 2000/2500/3000/4000 Graphics Driver (except Latitude XT3 tablet)",
+      "version": "9.17.10.3040",
+      "url": "dell://868JH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe GBE Family Controller Driver",
+      "version": "2.43.2015.609",
+      "url": "dell://531KT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6070",
+      "url": "dell://5P33P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R5 A240 Series Driver",
+      "version": "15.200.1045",
+      "url": "dell://WJPR8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "12.8.7.1000",
+      "url": "dell://1KX2H_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540/1550/1560 WiFi Driver",
+      "version": "7.35.317.0",
+      "url": "dell://P73MT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "11.0.0.1153",
+      "url": "dell://KFR45_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

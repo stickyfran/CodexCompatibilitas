@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5490-0cc7",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5490",
+  "system_id": "0CC7",
+  "dmi_matches": [
+    "Precision Precision 5490",
+    "Precision 5490",
+    "0CC7"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-R2W9C",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14525191M/1/Precision-5490-R2W9C_Win10_1.0_A11.exe",
+      "size_bytes": 2024925880,
+      "md5": "8ECB72A0C4114FB4A8A49E830742FF43",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-RGXW8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14525256M/1/Precision-5490-RGXW8_Win11_1.0_A11.exe",
+      "size_bytes": 2039634912,
+      "md5": "619852CDFD5D9D641B8F0A5743E129F7",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

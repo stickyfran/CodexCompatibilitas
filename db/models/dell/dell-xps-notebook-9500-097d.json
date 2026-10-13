@@ -1,0 +1,282 @@
+{
+  "id": "dell-xps-notebook-9500-097d",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook 9500",
+  "system_id": "097D",
+  "dmi_matches": [
+    "XPS Notebook 9500",
+    "XPS 15 9500",
+    "097D"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-Y2PC8",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER09602222M/1/9500-Y2PC8_Win10_1.0_A13.exe",
+      "size_bytes": 3254366336,
+      "md5": "8683DF2EA3942C1DDA5D2CA695462850",
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    },
+    {
+      "name": "DellPack-J0H81",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER09721771M/1/9500-J0H81_Win11_1.0_A03.exe",
+      "size_bytes": 3255150792,
+      "md5": "8459DAAD1265DE125F8E9373F5772214",
+      "sha256": null,
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Killer 500 Wi-Fi UWD Driver",
+      "version": "1.0.0.1769",
+      "url": "dell://7882H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "application",
+      "name": "Dolby Vision Panel Driver",
+      "version": "1.0.0.2",
+      "url": "dell://KKYXD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer 500 WLAN Component and Extension driver",
+      "version": "3.1121.1165.0",
+      "url": "dell://HRRHT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2229.3.16.0",
+      "url": "dell://3DC3X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.2020.7",
+      "url": "dell://3MK53_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "1.41.1335.0",
+      "url": "dell://TBTB4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer Wireless AX500s Bluetooth UWD Driver",
+      "version": "1.0.0.1769",
+      "url": "dell://99MHH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "1153.9.823.2022",
+      "url": "dell://6621F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Integrated Sensor Solution Driver",
+      "version": "3.10.100.4122",
+      "url": "dell://0FDVP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer 1690/1675/1650 Wi-Fi Controller Driver",
+      "version": "3.1222.7103",
+      "url": "dell://XWCCG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Application",
+      "version": "18.7.1.1003",
+      "url": "dell://8KYW6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Goodix Fingerprint Sensor Driver",
+      "version": "3.20.30.120",
+      "url": "dell://CTYCM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.22000.21350",
+      "url": "dell://V7D59_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "30.0.101.1404",
+      "url": "dell://XRTJ7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio DCH Driver",
+      "version": "6.3.9600.2330",
+      "url": "dell://7366F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer AX1690/AX1675/AX1650 and Intel AX411/AX211/AX210/AX201/AX200/9560/9642/8265/8260/7265/3165 Bluetooth UWD Driver",
+      "version": "22.170.0.2",
+      "url": "dell://943H6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA GeForce GTX 1650 Ti Graphics Driver",
+      "version": "30.0.14.9649",
+      "url": "dell://39MJK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Tuning Driver",
+      "version": "8.7.10600.20700",
+      "url": "dell://CGHTN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.377",
+      "url": "dell://33CDY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18267.8194",
+      "url": "dell://5J88W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro T1000/T2000 with Max-Q Design Graphics Driver",
+      "version": "31.0.15.2737",
+      "url": "dell://2VWTW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.9257.1",
+      "url": "dell://VV9FY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3310-097f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3310",
+  "system_id": "097F",
+  "dmi_matches": [
+    "Latitude Latitude 3310",
+    "Latitude 3310",
+    "097F"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-MHK59",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11780386M/1/Latitude-3310-MHK59_Win11_1.0_A07.exe",
+      "size_bytes": 1468203448,
+      "md5": "B5201CAE5A72B4F067E6312B415546C9",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-M1N60",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11780352M/1/Latitude-3310-M1N60_Win10_1.0_A19.exe",
+      "size_bytes": 1472990864,
+      "md5": "033EE77EE5BA6F46BD3B8E136258F490",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

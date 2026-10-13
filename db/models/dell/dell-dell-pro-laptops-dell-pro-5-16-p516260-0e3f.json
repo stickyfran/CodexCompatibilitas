@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-5-16-p516260-0e3f",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 5 16 P516260",
+  "system_id": "0E3F",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 5 16 P516260",
+    "Dell Pro 5 16 P516260",
+    "0E3F"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-F9WXR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14931265M/1/P516260-F9WXR_Win11_1.0_A03.exe",
+      "size_bytes": 1394049776,
+      "md5": "A8FBEFBED69425528FC5FA8161690FFD",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

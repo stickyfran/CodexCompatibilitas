@@ -1,0 +1,29 @@
+{
+  "id": "dell-latitude-xfr-e6400-0233",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude XFR E6400",
+  "system_id": "0233",
+  "dmi_matches": [
+    "Latitude XFR E6400",
+    "Latitude E6400",
+    "0233"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-J30K5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER02045492M/1/E6400-win7-A05-J30K5.CAB",
+      "size_bytes": 500116516,
+      "md5": "B8A0A38CFDD7D80B9144630B7075328C",
+      "sha256": null,
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

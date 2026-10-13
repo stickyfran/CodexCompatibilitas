@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-3590-0cba",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 3590",
+  "system_id": "0CBA",
+  "dmi_matches": [
+    "Precision Precision 3590",
+    "Precision 3590",
+    "0CBA"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-2WJ8M",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14134926M/1/Precision-3590-2WJ8M_Win10_1.0_A10.exe",
+      "size_bytes": 3128413368,
+      "md5": "CA74A1A8D5102FB3C207AC5F6E3B0537",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-02-05T03:36:06"
+    },
+    {
+      "name": "DellPack-PF09Y",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14573825M/1/Precision-3590-PF09Y_Win11_1.0_A11.exe",
+      "size_bytes": 2984962792,
+      "md5": "89CB75C5D8FEF6492E92345B313B66EF",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

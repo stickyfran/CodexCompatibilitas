@@ -1,0 +1,48 @@
+{
+  "id": "hp-hp-zbook-fury-16-g11-mobile-workstation-pc-8cc8",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 16 G11 Mobile Workstation PC",
+  "system_id": "8cc8",
+  "dmi_matches": [
+    "HP ZBook Fury 16 G11 Mobile Workstation PC",
+    "8cc8"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp161460-HP ZBook Fury G11 MWS PC Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161001-161500/sp161460.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "7/14/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp152762-HP ZBook Fury G11 MWS PC Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152762.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp174205-HP ZBook Fury G11 MWS PC Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174205.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "8/5/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

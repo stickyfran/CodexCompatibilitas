@@ -1,0 +1,39 @@
+{
+  "id": "dell-optiplex-optiplex-3000-0ac5",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex OptiPlex 3000",
+  "system_id": "0AC5",
+  "dmi_matches": [
+    "Optiplex OptiPlex 3000",
+    "OptiPlex 3000",
+    "0AC5"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-RK6RN",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14357844M/1/OptiPlex-3000-RK6RN_Win10_1.0_A16.exe",
+      "size_bytes": 2171588000,
+      "md5": "104EF82BCEB6355C777A705A13DF8F90",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-JN664",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14357843M/1/OptiPlex-3000-JN664_Win11_1.0_A15.exe",
+      "size_bytes": 2176361336,
+      "md5": "5CA4134408E3C4FCE27673E9A8942AD5",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

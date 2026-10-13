@@ -52,6 +52,26 @@
       "sha256": null,
       "version": "12.2018 M 1",
       "release_date": "12/3/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp80258-HP Z2 Mini G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80258.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "06.2017 C 1",
+      "release_date": "6/15/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp79089-HP Z2 Mini G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79089.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "02.2017 A 1",
+      "release_date": "2/21/2017 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

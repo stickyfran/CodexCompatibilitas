@@ -1,0 +1,282 @@
+{
+  "id": "dell-xps-notebook-9550-06e4",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook 9550",
+  "system_id": "06E4",
+  "dmi_matches": [
+    "XPS Notebook 9550",
+    "XPS 15 9550",
+    "06E4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-TV5DD",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER05395260M/1/9550-Win10-A14-TV5DD.CAB",
+      "size_bytes": 822625061,
+      "md5": "F0D7EB1BE2CF9BDCD183DE2B89CCED49",
+      "sha256": null,
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-PR3DJ",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03910836M/1/9550-win8.1-A06-PR3DJ.CAB",
+      "size_bytes": 720550681,
+      "md5": "78A643CF30A0A1BDB0B9C68EBC629013",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-09-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Intel 3165 7265 8260 8265 Wi-Fi Driver",
+      "version": "20.10.1.1190",
+      "url": "dell://19G25_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer Wireless 1435s 1535 WiFi Driver",
+      "version": "1.5.1852",
+      "url": "dell://C9C7H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel 100 Series Chipset Driver",
+      "version": "10.1.1.13",
+      "url": "dell://H5FY9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.0079",
+      "url": "dell://DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce GTX /Quadro graphic Driver",
+      "version": "23.21.13.9125",
+      "url": "dell://T31HW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel  3160 7260 3165 7265 8260 8265 Bluetooth Driver",
+      "version": "20.60.0",
+      "url": "dell://YV365_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10586.21289",
+      "url": "dell://MDR6D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.7.5.1025",
+      "url": "dell://66MG5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.2.10900.330",
+      "url": "dell://NWWR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB Extended Host Controller Driver",
+      "version": "1.16.54.1",
+      "url": "dell://JCDN0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3266/3246 High Definition Audio Driver",
+      "version": "6.0.1.8233",
+      "url": "dell://RYY5N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.1633.3",
+      "url": "dell://FC98F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "1.1.0.313",
+      "url": "dell://5M95W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver",
+      "version": "6.3.9600.172",
+      "url": "dell://CCV58_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "23.20.16.4973",
+      "url": "dell://10X01_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1820A Bluetooth Driver",
+      "version": "12.0.1.1104",
+      "url": "dell://8CP25_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Killer Wireless AC 1525, 1535, and 1435 Bluetooth Driver",
+      "version": "10.0.0.709",
+      "url": "dell://VP1XV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "ASIX USB to Serial / Parallel Port Driver",
+      "version": "2.0.2.0",
+      "url": "dell://WGNN6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.7.0.1054",
+      "url": "dell://19Y3F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1820A 1830 WiFi Driver",
+      "version": "1.566.0.2",
+      "url": "dell://D63K3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Realtek USB GBE Ethernet Controller Driver is applicable for TB16/WD15/DS1000 Dock",
+      "version": "2.44.2018.0504",
+      "url": "dell://G8VCP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "17.4.77.400",
+      "url": "dell://886C9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

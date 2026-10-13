@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-3-16-p316260-0df5",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 3 16 P316260",
+  "system_id": "0DF5",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 3 16 P316260",
+    "Dell Pro 3 16 P316260",
+    "0DF5"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-2YT5X",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14619697M/1/P316260-2YT5X_Win11_1.0_A01.exe",
+      "size_bytes": 1265085512,
+      "md5": "6813B7AFAB02BD84DBFFA49FC66F2EC4",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-02T04:51:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

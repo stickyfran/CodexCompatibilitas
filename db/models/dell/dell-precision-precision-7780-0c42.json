@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-7780-0c42",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 7780",
+  "system_id": "0C42",
+  "dmi_matches": [
+    "Precision Precision 7780",
+    "Precision 7780",
+    "0C42"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-G0RHD",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14365981M/1/Precision-7780-G0RHD_Win10_1.0_A11.exe",
+      "size_bytes": 2190789552,
+      "md5": "E177EC5B627F31BA3044058006D02D48",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-611J5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14365970M/1/Precision-7780-611J5_Win11_1.0_A11.exe",
+      "size_bytes": 2061379240,
+      "md5": "CEA1C8E9660AECBEC288943B0134BCB6",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

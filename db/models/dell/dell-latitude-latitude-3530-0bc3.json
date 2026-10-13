@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3530-0bc3",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3530",
+  "system_id": "0BC3",
+  "dmi_matches": [
+    "Latitude Latitude 3530",
+    "Latitude 3530",
+    "0BC3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-R3VFW",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13156478M/1/Latitude-3530-R3VFW_Win10_1.0_A12.exe",
+      "size_bytes": 1624190880,
+      "md5": "B406FBF680789E5D274B08AC9E071482",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    },
+    {
+      "name": "DellPack-WRNC5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13156477M/1/Latitude-3530-WRNC5_Win11_1.0_A12.exe",
+      "size_bytes": 1614890432,
+      "md5": "296BB63592E5199BCDAB677450CC67BE",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -33,6 +33,293 @@
       "release_date": "2014-06-17T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "application",
+      "name": "Free Fall Sensor",
+      "version": "2.00.10.33",
+      "url": "dell://R309372",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "OZ600XXX Memory Card",
+      "version": "3.0.07.23",
+      "url": "dell://R300787",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Rapid Storage Technology",
+      "version": "10.1.0.1008",
+      "url": "dell://R291722",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Wireless 375 Bluetooth Module",
+      "version": "5.6.0.6500",
+      "url": "dell://R293053",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "GM45/GE45/GS45 Integrated Graphics",
+      "version": "6.14.10.5303",
+      "url": "dell://R293443",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1019",
+      "url": "dell://R293337",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smart Card Reader Keyboard - LTN",
+      "version": "4.0.8.5",
+      "url": "dell://R257269",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "92HDxxx HD Audio",
+      "version": "1.16.0",
+      "url": "dell://R297613",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "AES2810",
+      "version": "8.4.2.0",
+      "url": "dell://R230570",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "D330,HDA,MDC,v.92,modem,D330,HDA,MDC1.5,v.92,modem",
+      "version": "Drv_XP64_7.75.00.51",
+      "url": "dell://R230795",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Controller",
+      "version": "16.4.0",
+      "url": "dell://R296762",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Multi-Touch Touchpad",
+      "version": "7.1208.101.118",
+      "url": "dell://R302450",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Wireless WLAN 1501 Half Mini-Card (4313bgn),Wireless WLAN 1530 Half MiniCard,Wireless DW15xx Half MiniCard",
+      "version": "A01",
+      "url": "dell://R294109",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "application",
+      "name": "Free Fall Sensor",
+      "version": "2.00.10.33",
+      "url": "dell://R309372",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "OZ600XXX Memory Card",
+      "version": "3.0.07.23",
+      "url": "dell://R300787",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Rapid Storage Technology",
+      "version": "10.1.0.1008",
+      "url": "dell://R291722",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Wireless 375 Bluetooth Module",
+      "version": "5.6.0.6500",
+      "url": "dell://R293053",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Controller",
+      "version": "16.4.0",
+      "url": "dell://R296753",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "communication",
+      "name": "D330,HDA,MDC,v.92,modem,D330,HDA,MDC1.5,v.92,modem",
+      "version": "Drv_XP_7.75.00.51",
+      "url": "dell://R230794",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1019",
+      "url": "dell://R293337",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smart Card Reader Keyboard - LTN",
+      "version": "4.0.8.5",
+      "url": "dell://R257269",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "92HDxxx HD Audio",
+      "version": "1.16.0",
+      "url": "dell://R297613",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "AES2810",
+      "version": "8.4.2.0",
+      "url": "dell://R230570",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "GM45/GE45/GS45 Integrated Graphics",
+      "version": "6.14.10.5303",
+      "url": "dell://R293442",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Multi-Touch Touchpad",
+      "version": "7.1208.101.118",
+      "url": "dell://R302450",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Wireless WLAN 1501 Half Mini-Card (4313bgn),Wireless WLAN 1530 Half MiniCard,Wireless DW15xx Half MiniCard",
+      "version": "A01",
+      "url": "dell://R294109",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

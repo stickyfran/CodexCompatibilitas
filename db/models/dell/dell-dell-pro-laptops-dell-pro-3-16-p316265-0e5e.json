@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-3-16-p316265-0e5e",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 3 16 P316265",
+  "system_id": "0E5E",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 3 16 P316265",
+    "Dell Pro 3 16 P316265",
+    "0E5E"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-93CMF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14857566M/1/P316265-93CMF_Win11_1.0_A01.exe",
+      "size_bytes": 697170728,
+      "md5": "7F2AC401F8F5C90E7462FDC0B4B20570",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

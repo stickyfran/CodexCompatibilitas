@@ -1,0 +1,413 @@
+{
+  "id": "dell-precision-t7810-0618",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T7810",
+  "system_id": "0618",
+  "dmi_matches": [
+    "Precision T7810",
+    "Precision Tower 7810",
+    "0618"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-7DNKJ",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04846464M/1/T7810-win10-A06-7DNKJ.CAB",
+      "size_bytes": 1747018159,
+      "md5": "2D217FE3DB07518971DE4CAE98BE505E",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-T4K43",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER04890934M/1/T7810-win7-A09-T4K43.CAB",
+      "size_bytes": 1749782148,
+      "md5": "674EE13A655E5AC0AEE3FD42400E3E09",
+      "sha256": null,
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-FP0VM",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER03512054M/1/T7810-win8.1-A04-FP0VM.CAB",
+      "size_bytes": 452352538,
+      "md5": "05DD7203539B0C744CD70B02DB61B221",
+      "sha256": null,
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "1.0",
+      "url": "dell://MKHCF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell://9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.2.10",
+      "url": "dell://YV36W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 16.40 for Windows 7, Windows 8.1, and Windows 10 (32 and 64 bit).",
+      "version": "16.400.2802",
+      "url": "dell://C5FPW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Windows 10x86 Driver for LSI 9341-8I Controller",
+      "version": "6.710.11.0",
+      "url": "dell://PD0G2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Windows 10x86 Drivers for LSI 9361-8I Controller",
+      "version": "6.710.11.0",
+      "url": "dell://KK01Y_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6070",
+      "url": "dell://5P33P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Creative Labs Sound Blaster Recon3D PCIe Audio Card Driver",
+      "version": "V1.01.17",
+      "url": "dell://241T2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "11.0.0.1163",
+      "url": "dell://4HP0D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology enterprise Driver and Management Console",
+      "version": "4.6.0.1048",
+      "url": "dell://F64VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Thunderbolt(TM) Driver",
+      "version": "15.2.32.250",
+      "url": "dell://MYDH5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Drivers",
+      "version": "20.1.0.0",
+      "url": "dell://0J8HP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 354.13 for Windows 10 (32-bit).",
+      "version": "10.18.13.5413",
+      "url": "dell://71P4M_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell PCIe Serial Card Driver for Windows",
+      "version": "1.2.802.2016",
+      "url": "dell://XVW7H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology enterprise Driver and Management Console",
+      "version": "4.6.0.1048",
+      "url": "dell://F64VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 16 50 2701 for Windows 7 and Windows 10 64 bit",
+      "version": "16.500.2701",
+      "url": "dell://XDVRC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell PCIe Serial Card Driver for Windows",
+      "version": "1.2.802.2016",
+      "url": "dell://XVW7H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Drivers",
+      "version": "20.1.0.0",
+      "url": "dell://0J8HP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Creative Labs Sound Blaster Recon3D PCIe Audio Card Driver",
+      "version": "V1.01.17",
+      "url": "dell://241T2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "1.0",
+      "url": "dell://MKHCF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Turbo Boost Max Technology Driver",
+      "version": "1.0.0.1024",
+      "url": "dell://8W65V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Intel HHHL PCIe Solid State Drive Driver",
+      "version": "1.8.0.1011",
+      "url": "dell://8FD9M_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "AMD FirePro Driver 16.40 for Windows 7, Windows 8.1, and Windows 10 (32 and 64 bit).",
+      "version": "16.400.2802",
+      "url": "dell://C5FPW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Graphics Driver",
+      "version": "22.21.13.8165",
+      "url": "dell://V677X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.2.10",
+      "url": "dell://YV36W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "input",
+      "name": "Thunderbolt(TM) Driver for Windows",
+      "version": "16.2.52.250",
+      "url": "dell://99H03_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell://9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6111",
+      "url": "dell://DDG39_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Driver 369.39 for Windows 10 (64-bit).",
+      "version": "21.21.13.6939",
+      "url": "dell://P4Y4X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "storage",
+      "name": "Windows 10x64 Driver for LSI 9341-8I/9361-8I Controller",
+      "version": "6.711.6.0",
+      "url": "dell://WP7HD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.7.0.1035",
+      "url": "dell://4J8MX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "Intel 10 Gigabit X540 Adapter Driver",
+      "version": "20.1.0.0",
+      "url": "dell://8MVGV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce Desktop Graphics Driver",
+      "version": "22.21.13.8167",
+      "url": "dell://NV3PY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
+  "components": {}
+}

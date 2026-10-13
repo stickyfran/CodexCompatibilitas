@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-spectre-pro-x360-g2-convertible-pc-8198",
+  "vendor": "HP",
+  "family": "Spectre",
+  "model_name": "HP Spectre Pro x360 G2 Convertible PC",
+  "system_id": "8198",
+  "dmi_matches": [
+    "HP Spectre Pro x360 G2 Convertible PC",
+    "8198"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp80891-HP Spectre Pro x360 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80501-81000/sp80891.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/23/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

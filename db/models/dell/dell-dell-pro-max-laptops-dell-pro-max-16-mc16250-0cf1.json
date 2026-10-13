@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-max-laptops-dell-pro-max-16-mc16250-0cf1",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max Laptops Dell Pro Max 16 MC16250",
+  "system_id": "0CF1",
+  "dmi_matches": [
+    "Dell Pro Max Laptops Dell Pro Max 16 MC16250",
+    "Dell Pro Max 16 MC16250",
+    "0CF1"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-PJFNJ",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14100836M/1/MC16250-PJFNJ_Win10_1.0_A05.exe",
+      "size_bytes": 2176835904,
+      "md5": "D26F8C0BB4BB10F32A5C298196F38012",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-03-09T04:05:31"
+    },
+    {
+      "name": "DellPack-KK4G0",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14891435M/1/MC16250-KK4G0_Win11_1.0_A08.exe",
+      "size_bytes": 2406642848,
+      "md5": "BE2CB5ABDEDAD3AD2B0DBF7487B09EB8",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

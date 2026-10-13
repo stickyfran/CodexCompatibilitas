@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-desktops-dell-pro-slim-qcs1255-0e6c",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Desktops Dell Pro Slim QCS1255",
+  "system_id": "0E6C",
+  "dmi_matches": [
+    "Dell Pro Desktops Dell Pro Slim QCS1255",
+    "Dell Pro Slim QCS1255",
+    "0E6C"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-C7DK5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14312302M/1/QCS1255-C7DK5_Win11_1.0_A06.exe",
+      "size_bytes": 1412848200,
+      "md5": "25B871A08B28C22E1F2E364C18291498",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

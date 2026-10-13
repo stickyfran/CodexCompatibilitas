@@ -1,0 +1,39 @@
+{
+  "id": "dell-precision-precision-5760-0a5e",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Precision 5760",
+  "system_id": "0A5E",
+  "dmi_matches": [
+    "Precision Precision 5760",
+    "Precision 5760",
+    "0A5E"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-TVYWT",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11786950M/1/Precision-5760-TVYWT_Win10_1.0_A14.exe",
+      "size_bytes": 2267795024,
+      "md5": "CA9882A02D86B99F4CF38D5A1CC1A480",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-FNV6C",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11786951M/1/Precision-5760-FNV6C_Win11_1.0_A11.exe",
+      "size_bytes": 2267798424,
+      "md5": "5586C033F21198AB078284BA16C8E0DB",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

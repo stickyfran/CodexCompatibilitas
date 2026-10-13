@@ -1,0 +1,29 @@
+{
+  "id": "dell-dell-pro-max-desktops-dell-pro-precision-7-r1-pw7r1260-0e02",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Desktops",
+  "model_name": "Dell Pro Max Desktops Dell Pro Precision 7 R1 PW7R1260",
+  "system_id": "0E02",
+  "dmi_matches": [
+    "Dell Pro Max Desktops Dell Pro Precision 7 R1 PW7R1260",
+    "Dell Pro Precision 7 R1 PW7R1260",
+    "0E02"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-3Y38C",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14467319M/1/PW7R1260-3Y38C_Win11_1.0_A00.exe",
+      "size_bytes": 2238785928,
+      "md5": "1BD81DAA87907012B2461C24D6C17A62",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-07T05:02:12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

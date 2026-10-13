@@ -1,0 +1,29 @@
+{
+  "id": "dell-xps-notebook-xps-17-9720-0afe",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS Notebook XPS 17 9720",
+  "system_id": "0AFE",
+  "dmi_matches": [
+    "XPS Notebook XPS 17 9720",
+    "XPS 17 9720",
+    "0AFE"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-4K4W5",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER13155416M/1/XPS-17-9720-4K4W5_Win11_1.0_A14.exe",
+      "size_bytes": 2804562784,
+      "md5": "A24A79C5DD3C8FBDAC7799B03200CE25",
+      "sha256": null,
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

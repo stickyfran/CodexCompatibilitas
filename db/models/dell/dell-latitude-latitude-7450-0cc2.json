@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-7450-0cc2",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 7450",
+  "system_id": "0CC2",
+  "dmi_matches": [
+    "Latitude Latitude 7450",
+    "Latitude 7450",
+    "0CC2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-CFP74",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14630666M/1/Latitude-7450-CFP74_Win10_1.0_A10.exe",
+      "size_bytes": 2121428600,
+      "md5": "B2ECE295368EE2D0BD14BBB33AC46367",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    },
+    {
+      "name": "DellPack-2X2TF",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14525456M/1/Latitude-7450-2X2TF_Win11_1.0_A10.exe",
+      "size_bytes": 1955603168,
+      "md5": "E603128E20EF3C20F39834D7561F3F00",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

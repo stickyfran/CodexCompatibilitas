@@ -42,6 +42,26 @@
       "sha256": null,
       "version": "2.00 A 1",
       "release_date": "4/15/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp135910-HP Z2G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135910.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/15/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140433-HP Z2G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140433.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/10/2022 12:00:00 AM"
     }
   ],
   "individual_drivers": [],

@@ -1,0 +1,39 @@
+{
+  "id": "dell-latitude-latitude-3120-0a33",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Latitude 3120",
+  "system_id": "0A33",
+  "dmi_matches": [
+    "Latitude Latitude 3120",
+    "Latitude 3120",
+    "0A33"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-W8WYR",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11747601M/1/Latitude-3120-W8WYR_Win10_1.0_A19.exe",
+      "size_bytes": 862936696,
+      "md5": "7F67B0BF503B9A85968D25C022C02ABF",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-FMW4D",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER11747602M/1/Latitude-3120-FMW4D_Win11_1.0_A13.exe",
+      "size_bytes": 863220944,
+      "md5": "7D8F8DEE0681AED2B08234BB1BCF1C20",
+      "sha256": null,
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

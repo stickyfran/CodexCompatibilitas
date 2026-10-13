@@ -36,6 +36,16 @@
       "sha256": null,
       "version": "6.00 A 1",
       "release_date": "8/5/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp152762-HP ZBook Fury G11 MWS PC Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152762.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
     }
   ],
   "individual_drivers": [

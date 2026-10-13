@@ -1,0 +1,48 @@
+{
+  "id": "hp-hp-probook-455r-g6-notebook-pc-85ad",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455R G6 Notebook PC",
+  "system_id": "85ad",
+  "dmi_matches": [
+    "HP ProBook 455R G6 Notebook PC",
+    "85ad"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "sp94975-HP ProBook 4x5R G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp94501-95000/sp94975.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "2/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp103577-HP ProBook 4x5R G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103577.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "5/4/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114178-HP ProBook 4x5R G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114178.exe",
+      "size_bytes": null,
+      "md5": null,
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/11/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

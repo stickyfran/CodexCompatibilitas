@@ -1,0 +1,39 @@
+{
+  "id": "dell-dell-pro-laptops-dell-pro-16-pc16250-0d64",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro Laptops Dell Pro 16 PC16250",
+  "system_id": "0D64",
+  "dmi_matches": [
+    "Dell Pro Laptops Dell Pro 16 PC16250",
+    "Dell Pro 16 PC16250",
+    "0D64"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "DellPack-TMR64",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14643886M/1/PC16250-TMR64_Win10_1.0_A06.exe",
+      "size_bytes": 2634772312,
+      "md5": "FBE46A596FEAF29456674444B1AD076F",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-07-28T04:57:01"
+    },
+    {
+      "name": "DellPack-47XXN",
+      "os": "Windows",
+      "url": "https://downloads.dell.com/FOLDER14892286M/1/PC16250-47XXN_Win11_1.0_A08.exe",
+      "size_bytes": 1645621696,
+      "md5": "F940A6DA4BE9B7EDB765D87F44060715",
+      "sha256": null,
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}
