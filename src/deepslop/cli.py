@@ -75,6 +75,82 @@ async def _sync_catalogs(vendor: str):
     registry.print_summary()
 
 
+@catalog_app.command("harvest")
+def catalog_harvest(
+    vendor: str = typer.Option("all", help="Fabricante a extraer metadatos: all, dell, hp, lenovo"),
+    limit: int = typer.Option(50, help="Límite de manifiestos/CVAs a extraer"),
+):
+    """Extrae la lista granular de drivers individuales (.inf, versiones, audio, chips) desde los manifiestos oficiales."""
+    asyncio.run(_harvest_drivers(vendor, limit))
+
+
+async def _harvest_drivers(vendor: str, limit: int):
+    from deepslop.extract.dell_harvester import DellManifestHarvester
+    from deepslop.extract.hp_harvester import HPMetaHarvester
+    from deepslop.extract.lenovo_harvester import LenovoMetaHarvester
+
+    registry = Registry(DB_DIR)
+    models = {m.id: m for m in registry.load_all_models()}
+    vendors = [vendor.lower()] if vendor.lower() != "all" else ["dell", "hp", "lenovo"]
+
+    total_drivers_harvested = 0
+    updated_models: Dict[str, LaptopModel] = {}
+
+    if "dell" in vendors:
+        console.print(f"\n[bold cyan]=== Extrayendo manifiestos de drivers de Dell (límite {limit}) ===[/bold cyan]")
+        dh = DellManifestHarvester(
+            catalog_xml_path=os.path.join(DATA_DIR, "DriverPackCatalog.xml"),
+            output_dir=os.path.join(BASE_DIR, "data", "manifests", "dell"),
+        )
+        dell_results = await dh.harvest_manifests(limit=limit)
+        console.print(f"[green]✓ Extraídos {len(dell_results)} manifiestos de sistemas Dell.[/green]")
+
+        for sys_id, drivers in dell_results.items():
+            for m in models.values():
+                if m.vendor.lower() == "dell" and (m.system_id == sys_id or any(sys_id.lower() in d.lower() for d in m.dmi_matches)):
+                    m.individual_drivers.extend(drivers)
+                    total_drivers_harvested += len(drivers)
+                    updated_models[m.id] = m
+
+    if "hp" in vendors:
+        console.print(f"\n[bold cyan]=== Extrayendo metadatos CVA de HP (límite {limit}) ===[/bold cyan]")
+        hh = HPMetaHarvester(
+            catalog_xml_path=os.path.join(DATA_DIR, "HPClientDriverPackCatalog.xml"),
+            output_dir=os.path.join(BASE_DIR, "data", "manifests", "hp"),
+        )
+        hp_results = await hh.harvest_cvas(limit=limit)
+        console.print(f"[green]✓ Extraídos metadatos de {len(hp_results)} sistemas HP.[/green]")
+
+        for sys_id, drivers in hp_results.items():
+            for m in models.values():
+                if m.vendor.lower() == "hp" and (m.system_id == sys_id or any(sys_id.lower() in d.lower() for d in m.dmi_matches)):
+                    m.individual_drivers.extend(drivers)
+                    total_drivers_harvested += len(drivers)
+                    updated_models[m.id] = m
+
+    if "lenovo" in vendors:
+        console.print(f"\n[bold cyan]=== Extrayendo READMEs de drivers de Lenovo (límite {limit}) ===[/bold cyan]")
+        lh = LenovoMetaHarvester(
+            catalog_xml_path=os.path.join(DATA_DIR, "lenovo_catalogv2.xml"),
+            output_dir=os.path.join(BASE_DIR, "data", "manifests", "lenovo"),
+        )
+        lenovo_results = await lh.harvest_readmes(limit=limit)
+        console.print(f"[green]✓ Extraídos listados de drivers de {len(lenovo_results)} modelos Lenovo.[/green]")
+
+        for model_name, drivers in lenovo_results.items():
+            for m in models.values():
+                if m.vendor.lower() == "lenovo" and m.model_name.lower() in model_name.lower():
+                    m.individual_drivers.extend(drivers)
+                    total_drivers_harvested += len(drivers)
+                    updated_models[m.id] = m
+
+    if updated_models:
+        registry.save_models(list(updated_models.values()))
+        console.print(f"\n[bold green]¡Extracción masiva completada! {total_drivers_harvested} drivers individuales mapeados en {len(updated_models)} modelos.[/bold green]")
+    else:
+        console.print("[yellow]No se encontraron modelos locales para vincular los manifiestos.[/yellow]")
+
+
 @catalog_app.command("stats")
 def catalog_stats():
     """Muestra estadísticas actuales de la base de datos DeepSlopSuperLaptop."""

@@ -8,6 +8,9 @@
     "Latitude 2110",
     "0461"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-VNM0H",
@@ -40,6 +43,348 @@
       "release_date": "2014-06-17T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Disable power saving D3 feature for XP",
+      "version": "6.1.7600.00040",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/NCM1G_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\chipset\\NCM1G_A01-00\\extracted\\rtspstor.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "ALC269 HD Audio",
+      "version": "5.10.0.6072",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/GC0PN_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\audio\\GC0PN_A03-00\\extracted\\hdamaxxd.inf",
+        "2110\\xp\\x86\\audio\\GC0PN_A03-00\\extracted\\hdart.inf",
+        "2110\\xp\\x86\\audio\\GC0PN_A03-00\\extracted\\hdxmaxxd.inf",
+        "2110\\xp\\x86\\audio\\GC0PN_A03-00\\extracted\\hdxrt.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC",
+      "version": "16.4.0",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/YMHGV_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\xp-x86\\b57win32.inf",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\xp-x86\\k57win32.inf",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\ndis2\\oemsetup.inf",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\5703.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\ad5717.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\ad5761.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\apediag.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpu.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpu05.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpu14a.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpu14b.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpudg05.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpudiag.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpume.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpumem.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpusc.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpusd.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpusj.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\cpust.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshd14a.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshd14b.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshdg05.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshdg5x.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshdgsc.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshdgsd.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshdgsj.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshdgst.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshdgtc.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\flshdiag.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\ump14a.bin",
+        "2110\\xp\\x86\\network\\YMHGV_A07-00\\extracted\\dos\\dosdiag\\ump14b.bin"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "GMA 3150",
+      "version": "6.14.10.5260",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/R293536",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\video\\R293536\\graphics\\kit27898.inf",
+        "2110\\xp\\x86\\video\\R293536\\graphics\\igcompkrng500.bin",
+        "2110\\xp\\x86\\video\\R293536\\graphics\\igkrng400.bin",
+        "2110\\xp\\x86\\video\\R293536\\graphics\\igkrng500.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel WiFi Link 6300;Intel WiFi Link 6200;Intel WiFi Link 6205",
+      "version": "15.3.1000.1637",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/FDGM0_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\network\\FDGM0_A04-00\\production\\xp-x86\\netwlx32.inf",
+        "2110\\xp\\x86\\network\\FDGM0_A04-00\\production\\xp-x86\\netwnx32.inf",
+        "2110\\xp\\x86\\network\\FDGM0_A04-00\\production\\xp-x86\\netwxn00.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel WiMAX Link 6250;Intel WiFi Link 6300;Intel WiFi Link 6200",
+      "version": "TRFXW0038D",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/GCPC4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\network\\GCPC4_A00-00\\drivers\\bpenum.inf",
+        "2110\\xp\\x86\\network\\GCPC4_A00-00\\drivers\\bpmp.inf",
+        "2110\\xp\\x86\\network\\GCPC4_A00-00\\drivers\\bpusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Wireless 375 Bluetooth Module",
+      "version": "5.6.0.3900",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/KCN21_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\network\\KCN21_A03-00\\xpx86\\production\\btwusb.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5540 HSPA Mini Card",
+      "version": "R2AA06",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/R283078",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\communication\\R283078\\production\\5540\\d554bus1.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5540\\d554bus2.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5540\\d554gps.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5540\\d554mdm2.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5540\\d554ndis.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5540\\d554scard.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5540\\d554sdm2.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5540\\d554unic.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d5532mdm2.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d553bus1.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d553bus2.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d553gps.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d553mdm2.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d553ndis.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d553scard.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d553smc2.inf",
+        "2110\\xp\\x86\\communication\\R283078\\production\\5530\\d553unic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1030",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/R302424",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\chipset\\R302424\\all\\2008s4el.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\5000xzvp.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\5400.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\852.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\855.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\865.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\915.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\915m.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\945.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\945gm.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\965g.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\965m.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\cougahci.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\cougcore.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\cougheci.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\cougide.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\cougme.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\cougsmb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\cougusb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\e5100.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\e7220.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\e7230.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\e7300.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\e7520.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\e8500.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\esb2id2.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\esb2ide.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\esb2usb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\g33q35.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ibexahci.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ibexcore.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ibexid2.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ibexide.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ibexsmb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ibexusb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich5core.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich5id2.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich5ide.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich5usb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich6core.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich6id2.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich6ide.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich6usb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich78id2.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich78ide.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich78usb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich7core.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich8core.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich9core.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ich9usb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ichacore.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ichausb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ichxdev.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\intelcp2.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\intelcpu.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\intelioh.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\ioatdma.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\jasperfo.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\nehalmex.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\pm45gm45.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\qd3nodrv.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\snb2009.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\tcreek.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\tcrkahci.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\tcrksd.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\tcrkusb.inf",
+        "2110\\xp\\x86\\chipset\\R302424\\all\\whed_dev.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "ST Microelectronics DE351DL Motion Sensor",
+      "version": "1.08.03.00",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/VCMK5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\system utilities\\VCMK5_A00-00\\xpx86\\acceler.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1520 802.11n MiniCard WLAN;Dell Wireless WLAN 1501 Half Mini-Card (4313bgn);Dell Wireless WLAN 1501 Half Mini Card;Dell Wireless WLAN 1397 Half MiniCard (4312bg)",
+      "version": "5.60.48.35",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/65XT4_A36-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\network\\65XT4_A36-00\\extracted\\driver_us\\bcmwl5.inf",
+        "2110\\xp\\x86\\network\\65XT4_A36-00\\extracted\\driver_row\\bcmwl5.inf",
+        "2110\\xp\\x86\\network\\65XT4_A36-00\\extracted\\driver_jpn\\bcmwl5.inf",
+        "2110\\xp\\x86\\network\\65XT4_A36-00\\extracted\\layout.bin"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Multi-Finger Gestures Driver",
+      "version": "15.0.6",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/74T20_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\input\\74T20_A06-00\\extracted\\autorun.inf",
+        "2110\\xp\\x86\\input\\74T20_A06-00\\extracted\\winwdf\\x86\\synpd.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5620 EVDO-HSPA Mobile Broadband Mini Card",
+      "version": "1.1.146",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/WMCVT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\communication\\WMCVT_A00-00\\extracted\\drivers\\qcfilterdl2k.inf",
+        "2110\\xp\\x86\\communication\\WMCVT_A00-00\\extracted\\drivers\\qcmdmdl2k.inf",
+        "2110\\xp\\x86\\communication\\WMCVT_A00-00\\extracted\\drivers\\qcnetdl2k.inf",
+        "2110\\xp\\x86\\communication\\WMCVT_A00-00\\extracted\\drivers\\qcserdl2k.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Matrix Storage Manager 32-Bit driver.",
+      "version": "8.9.4.1004",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/6PPDN_A09-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\storage\\6PPDN_A09-00\\extracted\\iaahci.inf",
+        "2110\\xp\\x86\\storage\\6PPDN_A09-00\\extracted\\iastor.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Wireless 5620 EVDO-HSPA Mobile Broadband Mini-Card",
+      "version": "1.1.170",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/R280717",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\communication\\R280717\\production\\qcfilterdl2k.inf",
+        "2110\\xp\\x86\\communication\\R280717\\production\\qcmdmdl2k.inf",
+        "2110\\xp\\x86\\communication\\R280717\\production\\qcnetdl2k.inf",
+        "2110\\xp\\x86\\communication\\R280717\\production\\qcserdl2k.inf"
+      ]
+    },
+    {
+      "category": "application",
+      "name": "DE351DL Motion Sensor",
+      "version": "1.08.03.00",
+      "url": "dell-pack://2110-xp-A05-MRTRP.xml/R261859",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "2110\\xp\\x86\\application\\R261859\\x86\\acceler.inf"
+      ]
+    }
+  ],
   "components": {}
 }

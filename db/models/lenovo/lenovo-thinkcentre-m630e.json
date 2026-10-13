@@ -10,6 +10,9 @@
     "10YN",
     "10YQ"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-1903",
@@ -32,6 +35,18 @@
       "release_date": "2019-01-08"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Version number",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m630E_w1064_2004_202006.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

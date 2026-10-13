@@ -8,6 +8,9 @@
     "Latitude 7212",
     "07D3"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "DellPack-H4GY4",
@@ -30,6 +33,486 @@
       "release_date": "2020-04-14T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.1.4.1",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/RV0MM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\input\\RV0MM_A00-00\\windows10-x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.44",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/H41NR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\wellsburgusb.inf\\wellsburgusb.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\valleyview2usb.inf\\valleyview2usb.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\valleyview2system.inf\\valleyview2system.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\skylakesystem.inf\\skylakesystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\skylake-esystem.inf\\skylake-esystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\patsburgusb.inf\\patsburgusb.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\patsburgsystem.inf\\patsburgsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\kabylakesystem.inf\\kabylakesystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\haswellsystem.inf\\haswellsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\cougarpointusb.inf\\cougarpointusb.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\commonsystem.inf\\commonsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\broadwellsystem.inf\\broadwellsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\braswellsystem.inf\\braswellsystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "7212\\win10\\x64\\chipset\\H41NR_A00-00\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "1932.12.0.1298",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/DJT82_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\wiman_wlan_extension.inf\\wiman_wlan_extension.inf",
+        "7212\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\wiman.inf\\wiman.inf",
+        "7212\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\oemextension.inf\\oemextension.inf",
+        "7212\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\mesrl.inf\\mesrl.inf",
+        "7212\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2019.0618",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/MT3YW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\network\\MT3YW_A00-00\\windows10-x64\\rtux64w10.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.364",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/779H4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\chipset\\779H4_A00-00\\windows10-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "FTDI USB Serial Port Driver",
+      "version": "2.12.24",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/PJ7CK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\docks\\PJ7CK_A00-00\\win10x64\\ftdibus.inf",
+        "7212\\win10\\x64\\docks\\PJ7CK_A00-00\\win10x64\\ftdiport.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.12.5.8",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/N23KC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\security\\N23KC_A00-00\\windows10-x64\\cv\\bcmnfcser.inf",
+        "7212\\win10\\x64\\security\\N23KC_A00-00\\windows10-x64\\cv\\bcmnfcusb.inf",
+        "7212\\win10\\x64\\security\\N23KC_A00-00\\windows10-x64\\cv\\cvusbdrv.inf",
+        "7212\\win10\\x64\\security\\N23KC_A00-00\\windows10-x64\\cv\\ushwbfdrv.inf",
+        "7212\\win10\\x64\\security\\N23KC_A00-00\\windows10-x64\\cv\\firmware\\clearscd.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework Driver",
+      "version": "8.3.10209.6897",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/74P16_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\chipset\\74P16_A00-00\\windows10-x64\\esif_manager.inf\\esif_manager.inf",
+        "7212\\win10\\x64\\chipset\\74P16_A00-00\\windows10-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "7212\\win10\\x64\\chipset\\74P16_A00-00\\windows10-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.17763.21313",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/R16KJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\chipset\\R16KJ_A00-00\\w10-x64\\rtsperdlnqs.inf",
+        "7212\\win10\\x64\\chipset\\R16KJ_A00-00\\w10-x64\\extinf\\rtscrext.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "16.8.3.1003",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/SV16A_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\storage\\SV16A_A00-00\\w10-x64\\iastorswext.inf\\iastorswext.inf",
+        "7212\\win10\\x64\\storage\\SV16A_A00-00\\w10-x64\\iastorsw.inf\\iastorsw.inf",
+        "7212\\win10\\x64\\storage\\SV16A_A00-00\\w10-x64\\iastorac.inf\\iastorac.inf",
+        "7212\\win10\\x64\\storage\\SV16A_A00-00\\w10-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Realtek PC Camera",
+      "version": "10.0.14393.11269",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/N2CVC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\video\\N2CVC_A00-00\\windows10-x64\\rtdell.inf",
+        "7212\\win10\\x64\\video\\N2CVC_A00-00\\windows10-x64\\rtdellf.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver",
+      "version": "6.3.9600.2215",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/08CKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\u\\rtdusbad.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\u\\realtek\\realtekservice_128\\realtekservice.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\u\\realtek\\realtekapo_685\\realtekusbapo.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\u\\realtek\\codecextoem_rtk_2215\\dellextrtxusb_waves.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbad.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbad2.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbad3.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbad4.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbadft1.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbadft2.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbsf.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbwc.inf",
+        "7212\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\sadesusbad.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Intel 2D Imaging Driver",
+      "version": "30.15063.10991.4659",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/FHMWJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858.inf",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670.inf",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\iaisp64.inf\\30.15063.10991.4659\\iaisp64.inf",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\iactrllogic64.inf\\30.15063.10991.4659\\iactrllogic64.inf",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\iacamera64.inf\\30.15063.10991.4659\\iacamera64.inf",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\csi2hostcontrollerdriver.inf\\30.15063.10991.4659\\csi2hostcontrollerdriver.inf",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_4ba862t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_5ba802t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_5ba812t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_5ba821t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_6ba803t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_6ba807t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_6ba808t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_bcbm84v01-200_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_bcms84v2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_cbad822_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_cjae840_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_cjae845_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_cjag829_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_fo80af468h_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_gegr1601270_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_gegr1601271_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov8858.inf\\30.15063.4659.2\\ov8858_vnvpd_cn6d9_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_4bf523t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_5bf501t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_5bf503t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_6bf502t2_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_am-5c013_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_cdxp9_jrmgf_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_cjae533_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_cjae547-1_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_cjae563_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_cjfe561_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_cjfe563_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\ov5670.inf\\30.15063.4659.2\\ov5670_cjff528_sky_pipecfg.bin",
+        "7212\\win10\\x64\\input\\FHMWJ_A00-00\\iacamera64.inf\\30.15063.10991.4659\\css_fw.bin"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "UBlox GPS Driver",
+      "version": "2.33.0.0",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/W62MC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\communication\\W62MC_A00-00\\ubloxvcpdriver\\ubloxvcp.inf",
+        "7212\\win10\\x64\\communication\\W62MC_A00-00\\ubloxsensor\\wingpssensordriverx64\\ubloxsensorgps.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 WiFi and Bluetooth Driver",
+      "version": "12.0.0.916",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/4424H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\netathr10x.inf",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\bluetooth_driver\\atheros_bth.inf",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0419.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e0.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e2.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e9.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p83f.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p87g.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_089c.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p87g.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p88g.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\qca61x4_2_2.bin",
+        "7212\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\qca9377_2_0.bin"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8569",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/88YYY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\r\\hdxadc.inf",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\r\\hdxadcmax8.inf",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\r\\hdxadcmax8s.inf",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\detectionverificationdrv.inf",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\intcaudiobus.inf",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\intcdmic.inf",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\intcoed.inf",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\wovartifacts\\sid\\ubm.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\wovartifacts\\echo\\m\\cohort_echo.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\fw.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\fw_7cad0808-ab10-cd23-ef45-12ab34cd56ef.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_cpath.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_cpath_46cb87fb-d2c9-4970-96d2-6d7e614bb605.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_dolby.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_dolby_e0e018a8-3550-4b54-a8d0-a8e05d0fcba2.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_dolby_ll.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_dolby_ll_849f0d73-1678-4d57-8c78-61c548253993.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_dsm_core.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_dsm_core_c75061f3-f2b2-4dcc-8f9f-82abb4131e66.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_dts.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_dts_e1284052-8664-4fe4-a353-3878f72704c3.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_fm.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_fm_b3573eff-6441-4a75-91f7-4281eec4597d.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_int_sst.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_int_sst_7c708106-3aff-40fe-88be-8c999b3f7445.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_int_wov.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_int_wov_ec774fa9-28d3-424a-90e4-69f984f1eeb7.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_smartamp.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_smartamp_2c093145-5895-4699-9ddb-6fefdc77e85d.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_waves.bin",
+        "7212\\win10\\x64\\audio\\88YYY_A00-00\\w10-x64\\i\\fw\\lib_waves_b489c2de-0f96-42e1-8a2d-c25b5091ee49.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.1.1.22",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/MCFJ3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\chipset\\MCFJ3_A00-00\\production\\windows10-x64\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "DisplayLink Dock Driver",
+      "version": "8.6.1333.0",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/K13DP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\nivo\\displaylinkusb.inf",
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\dlusbaudio\\dlusbaudio.inf",
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\dlidusb\\x86\\dlcdcncm.inf",
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\dlidusb\\x86\\dlidusb.inf",
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\dlidusb\\x86\\dlusbaudio.inf",
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\dlidusb\\x64\\dlcdcncm.inf",
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\dlidusb\\x64\\dlidusb.inf",
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\dlidusb\\x64\\dlusbaudio.inf",
+        "7212\\win10\\x64\\docks\\K13DP_A00-00\\dlcdcncm\\dlcdcncm.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/18265/8265/7265/3165 WiFi Driver",
+      "version": "21.40.1.2307",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/3P529_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\network\\3P529_A00-00\\windows10-x64\\netwtw04.inf",
+        "7212\\win10\\x64\\network\\3P529_A00-00\\windows10-x64\\netwtw06.inf",
+        "7212\\win10\\x64\\network\\3P529_A00-00\\windows10-x64\\netwtw08.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "26.20.100.7263",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/PP4W5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\video\\PP4W5_A00-00\\graphics\\hdbusext.inf",
+        "7212\\win10\\x64\\video\\PP4W5_A00-00\\graphics\\ki134039.inf",
+        "7212\\win10\\x64\\video\\PP4W5_A00-00\\graphics\\displayaudio\\10.27\\intcdaud.inf",
+        "7212\\win10\\x64\\video\\PP4W5_A00-00\\graphics\\displayaudio\\10.26\\intcdaud.inf",
+        "7212\\win10\\x64\\video\\PP4W5_A00-00\\graphics\\cp_resources.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/18265/8265/7265/3165 Bluetooth UWD Driver",
+      "version": "21.20.0.4",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/Y19VV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "7212\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\thp\\ibtusb.inf",
+        "7212\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\stp\\ibtusb.inf",
+        "7212\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\sfp\\ibtusb.inf",
+        "7212\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\jfp\\ibtusb.inf",
+        "7212\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\hrp\\ibtusb.inf",
+        "7212\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\ccp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5816e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.60.4835.501",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/7PR38_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swlocrm.inf",
+        "7212\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swmbbmdm05.inf",
+        "7212\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swmbbnm05.inf",
+        "7212\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swmbbnode05.inf",
+        "7212\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Integrated Sensor Solution Driver",
+      "version": "3.10.100.3429",
+      "url": "dell-pack://7212-win10-A10-H4GY4.xml/7TH4D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7212\\win10\\x64\\chipset\\7TH4D_A00-00\\windows10-x64\\ish_busdriver\\ish_busdriver.inf",
+        "7212\\win10\\x64\\chipset\\7TH4D_A00-00\\windows10-x64\\ish\\ish.inf",
+        "7212\\win10\\x64\\chipset\\7TH4D_A00-00\\windows10-x64\\hid_pci\\hid_pci.inf"
+      ]
+    }
+  ],
   "components": {}
 }

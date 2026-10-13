@@ -16,6 +16,9 @@
     "10V0",
     "10TL"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-1809",
@@ -48,6 +51,40 @@
       "release_date": "2020-01-06"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build number",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m625q_w1064_1809_20190305.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m625q_w1064_1903_201908.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build number",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m625q_w1064_1909_202001.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

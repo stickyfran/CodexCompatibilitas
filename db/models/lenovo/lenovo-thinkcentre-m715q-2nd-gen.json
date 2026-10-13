@@ -14,6 +14,9 @@
     "10VH",
     "10VK"
   ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
   "driver_packs": [
     {
       "name": "SCCM-win10-1803",
@@ -46,6 +49,40 @@
       "release_date": "2020-02-24"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Version number",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715q_2nd_w1064_201805.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715q_2nd_w1064_1809_201903.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715q_2nd_w1064_1909_202002.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }
