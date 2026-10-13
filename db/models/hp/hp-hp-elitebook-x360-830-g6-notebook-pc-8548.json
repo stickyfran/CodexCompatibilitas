@@ -64,6 +64,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteBook x360 830 G6 Win 10 Driver Pack",
+      "version": "4.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102064.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

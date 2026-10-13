@@ -75,6 +75,50 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteDesk 705 G4 Win10 x64 Driver Pack",
+      "version": "3.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92293.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProDesk 405 G4 SFF Win 10 Driver Pack",
+      "version": "2.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100259.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteDesk 705 G4 Win10 x64 Driver Pack",
+      "version": "12.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114270.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteDesk 705 G4 Win10 x64 Driver Pack",
+      "version": "11.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111437.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

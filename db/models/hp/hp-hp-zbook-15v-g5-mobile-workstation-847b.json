@@ -53,6 +53,18 @@
       "release_date": "10/19/2021 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook 15v G5 Win 10 x64 Driver Pack",
+      "version": "6.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135797.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -113,6 +113,29 @@
       "release_date": "2021-11-02"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1extreme-p1_w1064_1703_201903.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1extreme_mt20mf-20mg-p1_mt20md-20me_w1064_1709_201904.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -44,6 +44,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Engage One Essential AIO IoT10 2019 Driver Pack",
+      "version": "3.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145912.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

@@ -849,6 +849,832 @@
         "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_waves.bin",
         "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_waves_b489c2de-0f96-42e1-8a2d-c25b5091ee49.bin"
       ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.1943.2",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/WVVGP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\WVVGP_A00-00\\wu\\ialpss2_gpio2_skl.inf",
+        "3590\\win10\\x64\\chipset\\WVVGP_A00-00\\wu\\ialpss2_i2c_skl.inf",
+        "3590\\win10\\x64\\chipset\\WVVGP_A00-00\\wu\\ialpss2_spi_skl.inf",
+        "3590\\win10\\x64\\chipset\\WVVGP_A00-00\\wu\\ialpss2_uart2_skl.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "17.5.9.1040",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/KV2CM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\storage\\KV2CM_A00-00\\w10-x64\\iastorac.inf\\iastorac.inf",
+        "3590\\win10\\x64\\storage\\KV2CM_A00-00\\w10-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "DRVR,SGX",
+      "version": "1.8.105.38781",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/K4KN7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\K4KN7_A00-00\\d\\intel_sgx\\sgx_base.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Synaptics Fingerprint Sensor Driver",
+      "version": "5.5.4.1032",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/NKXR6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\security\\NKXR6_A00-00\\w10-x64\\synawudfbiousbdellprod.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Interface Driver",
+      "version": "2036.15.0.1835",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/6R3Y3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\6R3Y3_A00-00\\windows10-x64\\wiman_wlan_extension.inf\\wiman_wlan_extension.inf",
+        "3590\\win10\\x64\\chipset\\6R3Y3_A00-00\\windows10-x64\\wiman.inf\\wiman.inf",
+        "3590\\win10\\x64\\chipset\\6R3Y3_A00-00\\windows10-x64\\mesrl.inf\\mesrl.inf",
+        "3590\\win10\\x64\\chipset\\6R3Y3_A00-00\\windows10-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe Ethernet Controller Driver",
+      "version": "2.43.2018.0302",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/XWMV0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\network\\XWMV0_A00-00\\w10-x64\\rt640x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework Driver",
+      "version": "8.3.10209.6897",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/74P16_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\74P16_A00-00\\w10-x64\\esif_manager.inf\\esif_manager.inf",
+        "3590\\win10\\x64\\chipset\\74P16_A00-00\\w10-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "3590\\win10\\x64\\chipset\\74P16_A00-00\\w10-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.15063.20012",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/X0RPC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\input\\X0RPC_A00-00\\winx64\\rs3_64\\rtdell.inf",
+        "3590\\win10\\x64\\input\\X0RPC_A00-00\\winx64\\rs3_64\\rtdellf.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.377",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/33CDY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\33CDY_A00-00\\windows10-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA9377 WiFi and Bluetooth Driver",
+      "version": "12.0.0.916",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/4747J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\netathr10x.inf",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\bluetooth_driver\\atheros_bth.inf",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0419.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e0.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e2.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e9.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p83f.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p87g.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_089c.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p87g.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p88g.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\qca61x4_2_2.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\qca9377_2_0.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsdhost.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsdhost.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\coffeelakesystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cometlakepch-lpsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cometlakepch-lpsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cometlakepch-lpsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\denvertonports.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\denvertonsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\geminilakesystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\geminilakesystemgmm.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\geminilakesystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\geminilakesystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-lpsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-lpsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-lpsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-nsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-nsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakesystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakeusbfunctioncontroller.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakepch-hsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakepch-hsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakepch-hsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakepch-hsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakesystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakesystemgmm.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\lewisburgsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\null_hecisystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\skylake-esystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\skylakesystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\skylakesystemgmm.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\skylakesystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-hsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-hsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-hsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsdhost.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsystemthermal.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "DisplayLink Dock Driver",
+      "version": "9.3.3324.0",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/VHPDW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\docks\\VHPDW_A00-00\\w10-x64\\dlcdcncm.inf",
+        "3590\\win10\\x64\\docks\\VHPDW_A00-00\\w10-x64\\dlidusb.inf",
+        "3590\\win10\\x64\\docks\\VHPDW_A00-00\\w10-x64\\dlusbaudio.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.18362.31252",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/66CVW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\66CVW_A00-00\\w10-x64\\rtsuer.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5811e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.54.4799.502",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/97FX1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swlocrm.inf",
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swmbbmdm05.inf",
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swmbbnm05.inf",
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swmbbnode05.inf",
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2020.0601",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/7VDGG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\docks\\7VDGG_A00-00\\w10-x64\\rtux64w10.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "STMicro Accelerometer for Free Fall Data Protection",
+      "version": "4.10.90",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/HX7PX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\HX7PX_A00-00\\w10-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Legacy Driver",
+      "version": "6.3.9600.258",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/TJCPP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\docks\\TJCPP_A00-00\\w10-x64\\r\\rtxusbad_dell.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 3165/7265/8260/8265 Wi-Fi driver",
+      "version": "22.30.0.11",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/9697W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\network\\9697W_A00-00\\drivers\\netwtw04.inf",
+        "3590\\win10\\x64\\network\\9697W_A00-00\\drivers\\netwtw06.inf",
+        "3590\\win10\\x64\\network\\9697W_A00-00\\drivers\\netwtw08.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon Graphics Driver",
+      "version": "26.20.15026.1",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/TNWDT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\video\\TNWDT_A00-00\\w10-x64\\display\\c0354716.inf",
+        "3590\\win10\\x64\\video\\TNWDT_A00-00\\w10-x64\\display\\amdlog\\amdlog.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Killer AX1650/1675 and Intel AX200/AX201/AX210/3165/9260/9560/9462/8265/8260/7265 Bluetooth UWD Driver",
+      "version": "22.30.0.4",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/V7G66_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\wsp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\typ\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\thp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\stp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\sfp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\jfp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\hrp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\ccp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "27.20.100.8854",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/WV4GX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\hdbusext.inf",
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\igdlh64.inf",
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\displayaudio\\10.27\\intcdaud.inf",
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\displayaudio\\10.26\\intcdaud.inf",
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\cp_resources.bin"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.8934.1",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/MMVP7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\r\\hdxma7.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\r\\hdxssma7.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\detectionverificationdrv.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\intcaudiobus.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\intcdmic.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\intcoed.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\wovartifacts\\sid\\ubm.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\wovartifacts\\echo\\m\\cohort_echo.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\fw.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\fw_7cad0808-ab10-cd23-ef45-12ab34cd56ef.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_cpath.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_cpath_46cb87fb-d2c9-4970-96d2-6d7e614bb605.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dolby.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dolby_e0e018a8-3550-4b54-a8d0-a8e05d0fcba2.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dolby_ll.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dolby_ll_849f0d73-1678-4d57-8c78-61c548253993.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dsm_core.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dsm_core_c75061f3-f2b2-4dcc-8f9f-82abb4131e66.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dts.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dts_e1284052-8664-4fe4-a353-3878f72704c3.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_fm.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_fm_b3573eff-6441-4a75-91f7-4281eec4597d.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_int_sst.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_int_sst_7c708106-3aff-40fe-88be-8c999b3f7445.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_int_wov.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_int_wov_ec774fa9-28d3-424a-90e4-69f984f1eeb7.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_smartamp.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_smartamp_2c093145-5895-4699-9ddb-6fefdc77e85d.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_waves.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_waves_b489c2de-0f96-42e1-8a2d-c25b5091ee49.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.1943.2",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/WVVGP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\WVVGP_A00-00\\wu\\ialpss2_gpio2_skl.inf",
+        "3590\\win10\\x64\\chipset\\WVVGP_A00-00\\wu\\ialpss2_i2c_skl.inf",
+        "3590\\win10\\x64\\chipset\\WVVGP_A00-00\\wu\\ialpss2_spi_skl.inf",
+        "3590\\win10\\x64\\chipset\\WVVGP_A00-00\\wu\\ialpss2_uart2_skl.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "17.5.9.1040",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/KV2CM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\storage\\KV2CM_A00-00\\w10-x64\\iastorac.inf\\iastorac.inf",
+        "3590\\win10\\x64\\storage\\KV2CM_A00-00\\w10-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "DRVR,SGX",
+      "version": "1.8.105.38781",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/K4KN7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\K4KN7_A00-00\\d\\intel_sgx\\sgx_base.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Synaptics Fingerprint Sensor Driver",
+      "version": "5.5.4.1032",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/NKXR6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\security\\NKXR6_A00-00\\w10-x64\\synawudfbiousbdellprod.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Interface Driver",
+      "version": "2036.15.0.1835",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/6R3Y3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\6R3Y3_A00-00\\windows10-x64\\wiman_wlan_extension.inf\\wiman_wlan_extension.inf",
+        "3590\\win10\\x64\\chipset\\6R3Y3_A00-00\\windows10-x64\\wiman.inf\\wiman.inf",
+        "3590\\win10\\x64\\chipset\\6R3Y3_A00-00\\windows10-x64\\mesrl.inf\\mesrl.inf",
+        "3590\\win10\\x64\\chipset\\6R3Y3_A00-00\\windows10-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe Ethernet Controller Driver",
+      "version": "2.43.2018.0302",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/XWMV0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\network\\XWMV0_A00-00\\w10-x64\\rt640x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework Driver",
+      "version": "8.3.10209.6897",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/74P16_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\74P16_A00-00\\w10-x64\\esif_manager.inf\\esif_manager.inf",
+        "3590\\win10\\x64\\chipset\\74P16_A00-00\\w10-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "3590\\win10\\x64\\chipset\\74P16_A00-00\\w10-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.15063.20012",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/X0RPC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\input\\X0RPC_A00-00\\winx64\\rs3_64\\rtdell.inf",
+        "3590\\win10\\x64\\input\\X0RPC_A00-00\\winx64\\rs3_64\\rtdellf.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.377",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/33CDY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\33CDY_A00-00\\windows10-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA9377 WiFi and Bluetooth Driver",
+      "version": "12.0.0.916",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/4747J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\netathr10x.inf",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\bluetooth_driver\\atheros_bth.inf",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0419.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e0.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e2.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e9.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p83f.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p87g.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_089c.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p87g.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p88g.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\qca61x4_2_2.bin",
+        "3590\\win10\\x64\\network\\4747J_A00-00\\w10-x64\\wlan_driver\\qca9377_2_0.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsdhost.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-hsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsdhost.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cannonlake-lpsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\coffeelakesystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cometlakepch-lpsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cometlakepch-lpsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\cometlakepch-lpsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\denvertonports.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\denvertonsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\geminilakesystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\geminilakesystemgmm.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\geminilakesystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\geminilakesystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-lpsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-lpsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-lpsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-nsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakepch-nsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakesystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\icelakeusbfunctioncontroller.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakepch-hsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakepch-hsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakepch-hsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakepch-hsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakesystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\kabylakesystemgmm.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\lewisburgsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\null_hecisystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\skylake-esystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\skylakesystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\skylakesystemgmm.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\skylakesystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-hsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-hsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-hsystemthermal.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsdhost.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsystem.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsystemlpss.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsystemnorthpeak.inf",
+        "3590\\win10\\x64\\chipset\\5MPRF_A00-00\\w10-x64\\sunrisepoint-lpsystemthermal.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "DisplayLink Dock Driver",
+      "version": "9.3.3324.0",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/VHPDW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\docks\\VHPDW_A00-00\\w10-x64\\dlcdcncm.inf",
+        "3590\\win10\\x64\\docks\\VHPDW_A00-00\\w10-x64\\dlidusb.inf",
+        "3590\\win10\\x64\\docks\\VHPDW_A00-00\\w10-x64\\dlusbaudio.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.18362.31252",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/66CVW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\66CVW_A00-00\\w10-x64\\rtsuer.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5811e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.54.4799.502",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/97FX1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swlocrm.inf",
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swmbbmdm05.inf",
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swmbbnm05.inf",
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swmbbnode05.inf",
+        "3590\\win10\\x64\\communication\\97FX1_A00-00\\w10x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2020.0601",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/7VDGG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\docks\\7VDGG_A00-00\\w10-x64\\rtux64w10.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "STMicro Accelerometer for Free Fall Data Protection",
+      "version": "4.10.90",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/HX7PX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\chipset\\HX7PX_A00-00\\w10-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Legacy Driver",
+      "version": "6.3.9600.258",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/TJCPP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\docks\\TJCPP_A00-00\\w10-x64\\r\\rtxusbad_dell.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 3165/7265/8260/8265 Wi-Fi driver",
+      "version": "22.30.0.11",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/9697W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\network\\9697W_A00-00\\drivers\\netwtw04.inf",
+        "3590\\win10\\x64\\network\\9697W_A00-00\\drivers\\netwtw06.inf",
+        "3590\\win10\\x64\\network\\9697W_A00-00\\drivers\\netwtw08.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon Graphics Driver",
+      "version": "26.20.15026.1",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/TNWDT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\video\\TNWDT_A00-00\\w10-x64\\display\\c0354716.inf",
+        "3590\\win10\\x64\\video\\TNWDT_A00-00\\w10-x64\\display\\amdlog\\amdlog.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Killer AX1650/1675 and Intel AX200/AX201/AX210/3165/9260/9560/9462/8265/8260/7265 Bluetooth UWD Driver",
+      "version": "22.30.0.4",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/V7G66_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\wsp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\typ\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\thp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\stp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\sfp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\jfp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\hrp\\ibtusb.inf",
+        "3590\\win10\\x64\\network\\V7G66_A00-00\\drivers\\ccp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "27.20.100.8854",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/WV4GX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\hdbusext.inf",
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\igdlh64.inf",
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\displayaudio\\10.27\\intcdaud.inf",
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\displayaudio\\10.26\\intcdaud.inf",
+        "3590\\win10\\x64\\video\\WV4GX_A00-00\\x64\\graphics\\cp_resources.bin"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.8934.1",
+      "url": "dell-pack://3590-win10-A15-HFJ4R.xml/MMVP7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\r\\hdxma7.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\r\\hdxssma7.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\detectionverificationdrv.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\intcaudiobus.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\intcdmic.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\intcoed.inf",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\wovartifacts\\sid\\ubm.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\wovartifacts\\echo\\m\\cohort_echo.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\fw.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\fw_7cad0808-ab10-cd23-ef45-12ab34cd56ef.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_cpath.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_cpath_46cb87fb-d2c9-4970-96d2-6d7e614bb605.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dolby.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dolby_e0e018a8-3550-4b54-a8d0-a8e05d0fcba2.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dolby_ll.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dolby_ll_849f0d73-1678-4d57-8c78-61c548253993.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dsm_core.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dsm_core_c75061f3-f2b2-4dcc-8f9f-82abb4131e66.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dts.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_dts_e1284052-8664-4fe4-a353-3878f72704c3.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_fm.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_fm_b3573eff-6441-4a75-91f7-4281eec4597d.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_int_sst.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_int_sst_7c708106-3aff-40fe-88be-8c999b3f7445.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_int_wov.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_int_wov_ec774fa9-28d3-424a-90e4-69f984f1eeb7.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_smartamp.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_smartamp_2c093145-5895-4699-9ddb-6fefdc77e85d.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_waves.bin",
+        "3590\\win10\\x64\\audio\\MMVP7_A00-00\\w10-x64\\i\\fw\\lib_waves_b489c2de-0f96-42e1-8a2d-c25b5091ee49.bin"
+      ]
     }
   ],
   "components": {}

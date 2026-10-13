@@ -43,6 +43,214 @@
       "release_date": "2016-03-07T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "communication",
+      "name": "Sunix Serial/Parallel Card Driver",
+      "version": "8.1.1.0",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/KHW7P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\communication\\KHW7P_A00-00\\production\\windows8.1-x64\\snxpci.inf",
+        "7020\\win8.1\\x64\\communication\\KHW7P_A00-00\\production\\windows8.1-x64\\snxpcip.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel Graphics HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/FGGYJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "7020\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\10.18.14.4280\\64-4280.inf",
+        "7020\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\10.18.14.4280\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.0.8.7",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/MC8V1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\input\\MC8V1_A00-00\\64 bits\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540/1530 WiFi Driver",
+      "version": "6.30.223.143",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/77G98_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\network\\77G98_A00-00\\wl\\bcmwl64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx 10/100/1000 Ethernet Network Drivers",
+      "version": "19.5.0.0",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/JGGHH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\network\\JGGHH_A00-00\\windows8.1-x64\\e1c64x64.inf",
+        "7020\\win8.1\\x64\\network\\JGGHH_A00-00\\windows8.1-x64\\e1d64x64.inf",
+        "7020\\win8.1\\x64\\network\\JGGHH_A00-00\\windows8.1-x64\\e1r64x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\chipset\\17H49_A00-00\\x64\\driver\\isctd.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R5 240,R7 250 Graphics Driver",
+      "version": "13.251.0",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/RNXYX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\video\\RNXYX_A00-00\\production\\windows8.1-x64\\wdm\\hdmi\\atihdwb6.inf",
+        "7020\\win8.1\\x64\\video\\RNXYX_A00-00\\production\\windows8.1-x64\\display\\cu166043.inf",
+        "7020\\win8.1\\x64\\video\\RNXYX_A00-00\\production\\windows8.1-x64\\amdkmpfd\\amdkmpfd.inf",
+        "7020\\win8.1\\x64\\video\\RNXYX_A00-00\\production\\windows8.1-x64\\amdkiomd\\amdkiomd.inf",
+        "7020\\win8.1\\x64\\video\\RNXYX_A00-00\\production\\windows8.1-x64\\amdkfd\\amdkfd.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "v8.4.1/MasterInstaller 1.4.1.857",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/M03V6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\security\\M03V6_A00-00\\win8.1x64\\drivers\\vfp\\driver\\wbf_vfs_003f.inf",
+        "7020\\win8.1\\x64\\security\\M03V6_A00-00\\win8.1x64\\drivers\\o2\\o2micro\\win8.1x64\\oz776x64.inf",
+        "7020\\win8.1\\x64\\security\\M03V6_A00-00\\win8.1x64\\drivers\\dell\\touchchip4wbf\\x64\\dptcdrv\\tcwbfadv.inf",
+        "7020\\win8.1\\x64\\security\\M03V6_A00-00\\win8.1x64\\drivers\\dell\\esrg\\64bits\\gemccid.inf",
+        "7020\\win8.1\\x64\\security\\M03V6_A00-00\\win8.1x64\\drivers\\dell\\aes2810wbf\\x64\\drivers\\atswpwdf.inf",
+        "7020\\win8.1\\x64\\security\\M03V6_A00-00\\win8.1x64\\drivers\\aes850fp\\x64\\tcwbf_driver\\tcwbfadv.inf",
+        "7020\\win8.1\\x64\\security\\M03V6_A00-00\\win8.1x64\\drivers\\aes850fp\\x64\\drivers\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.13",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/TH57N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\chipset\\TH57N_A00-00\\production\\windows8.1-x64\\chipset_smbus.inf",
+        "7020\\win8.1\\x64\\chipset\\TH57N_A00-00\\production\\windows8.1-x64\\chipset_system.inf",
+        "7020\\win8.1\\x64\\chipset\\TH57N_A00-00\\production\\windows8.1-x64\\chipset_thermal.inf",
+        "7020\\win8.1\\x64\\chipset\\TH57N_A00-00\\production\\windows8.1-x64\\chipset_usb.inf",
+        "7020\\win8.1\\x64\\chipset\\TH57N_A00-00\\production\\windows8.1-x64\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.0.0.1098",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/341WV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\storage\\341WV_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf",
+        "7020\\win8.1\\x64\\storage\\341WV_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek combined High-Definition Audio Driver",
+      "version": "6.0.1.6068",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/4GGVY_A10-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\audio\\4GGVY_A10-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "7020\\win8.1\\x64\\audio\\4GGVY_A10-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "7020\\win8.1\\x64\\audio\\4GGVY_A10-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "7020\\win8.1\\x64\\audio\\4GGVY_A10-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "7020\\win8.1\\x64\\audio\\4GGVY_A10-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.7.1.1309",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/V615W_A16-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\security\\V615W_A16-00\\gpe\\st7007.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Rapid Start Technology Application",
+      "version": "3.0.0.1056",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/DD9PK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\chipset\\DD9PK_A00-00\\production\\windows8.1-x64\\irstrtdv.inf\\irstrtdv.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer Driver",
+      "version": "10.0.0.1204",
+      "url": "dell-pack://7020-win8.1-A05-GN6NJ.xml/GPV06_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7020\\win8.1\\x64\\chipset\\GPV06_A00-00\\heci.inf\\heci.inf",
+        "7020\\win8.1\\x64\\chipset\\GPV06_A00-00\\heci.inf\\mesrl.inf"
+      ]
+    }
+  ],
   "components": {}
 }

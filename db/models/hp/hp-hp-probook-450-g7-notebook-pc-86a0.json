@@ -64,6 +64,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProBook 4x0 G7/ZHAN G3 Win 10 x64 Driver Pack",
+      "version": "1.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99557.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

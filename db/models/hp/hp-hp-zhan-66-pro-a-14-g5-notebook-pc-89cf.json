@@ -54,6 +54,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZHAN/Pro/Elite 4/6x5 Windows 11 Driver Pack",
+      "version": "5.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150831.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

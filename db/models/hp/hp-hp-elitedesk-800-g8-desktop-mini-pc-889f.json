@@ -66,6 +66,28 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteDesk 800 G8 DM Windows 10 x64 Driver Pack",
+      "version": "3.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138682.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteDesk 800 G8 DM Windows 10 x64 Driver Pack",
+      "version": "3.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138682.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

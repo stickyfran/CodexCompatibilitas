@@ -90,6 +90,94 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151271.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157671.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151271.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157671.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151271.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157671.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151271.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157671.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

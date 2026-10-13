@@ -84,6 +84,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Z4G4 Windows 10 x64 Driver Pack",
+      "version": "13.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147781.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

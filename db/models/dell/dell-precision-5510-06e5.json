@@ -33,6 +33,368 @@
       "release_date": "2017-05-19T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver",
+      "version": "6.3.9600.85",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/80TGT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\docks\\80TGT_A00-00\\windows8.1-x64\\rtxusbad.inf",
+        "5510\\Win8.1\\x64\\docks\\80TGT_A00-00\\windows8.1-x64\\rtxusbad2.inf",
+        "5510\\Win8.1\\x64\\docks\\80TGT_A00-00\\windows8.1-x64\\rtxusbad3.inf",
+        "5510\\Win8.1\\x64\\docks\\80TGT_A00-00\\windows8.1-x64\\rtxusbsf.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\chipset\\81YKK_A00-00\\win8.1x64\\drivers\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB 3.0 Extended Host Controller Driver",
+      "version": "1.16.41.3",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/CH1P1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\docks\\CH1P1_A00-00\\windows8.1-x64\\asmthub3.inf",
+        "5510\\Win8.1\\x64\\docks\\CH1P1_A00-00\\windows8.1-x64\\asmtxhci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1830 802.11ac Driver",
+      "version": "1.400.66.0",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/RH8GN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\network\\RH8GN_A00-00\\windows8.1-x64\\bcbtums-win8x64-brcm.inf",
+        "5510\\Win8.1\\x64\\network\\RH8GN_A00-00\\windows8.1-x64\\bcbtumsld-win7x64.inf",
+        "5510\\Win8.1\\x64\\network\\RH8GN_A00-00\\windows8.1-x64\\bcmhidnossr.inf",
+        "5510\\Win8.1\\x64\\network\\RH8GN_A00-00\\windows8.1-x64\\bcmpciedhd63.inf",
+        "5510\\Win8.1\\x64\\network\\RH8GN_A00-00\\windows8.1-x64\\4350c5rtecdc.bin",
+        "5510\\Win8.1\\x64\\network\\RH8GN_A00-00\\windows8.1-x64\\4356a2rtecdc.bin",
+        "5510\\Win8.1\\x64\\network\\RH8GN_A00-00\\windows8.1-x64\\43602a1rtecdc.bin",
+        "5510\\Win8.1\\x64\\network\\RH8GN_A00-00\\windows8.1-x64\\4371c2rtecdc.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "16.3.59.250",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/M6YD4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\chipset\\M6YD4_A00-00\\windows8.1-x64\\tbt81x.inf",
+        "5510\\Win8.1\\x64\\chipset\\M6YD4_A00-00\\windows8.1-x64\\tp2p81x.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.0.8.7",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/7P3TV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\input\\7P3TV_A00-00\\drivers\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer",
+      "version": "11.5.0.1020",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/X37VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\chipset\\X37VM_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "5510\\Win8.1\\x64\\chipset\\X37VM_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 530/P530 Driver",
+      "version": "21.20.16.4590",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/9MYVH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\video\\9MYVH_A00-00\\windows8.1-x64\\k120635.inf\\21.20.16.4590\\k120635.inf",
+        "5510\\Win8.1\\x64\\video\\9MYVH_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3197\\intcdaud.inf",
+        "5510\\Win8.1\\x64\\video\\9MYVH_A00-00\\windows8.1-x64\\intcdaud.inf\\10.22.01.97\\intcdaud.inf",
+        "5510\\Win8.1\\x64\\video\\9MYVH_A00-00\\windows8.1-x64\\k120635.inf\\21.20.16.4590\\cp_resources.bin",
+        "5510\\Win8.1\\x64\\video\\9MYVH_A00-00\\windows8.1-x64\\k120635.inf\\21.20.16.4590\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA Quadro M1000M Graphics Driver",
+      "version": "10.18.13.5894",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/PPJF5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\video\\PPJF5_A00-00\\windows8.1-x64\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3266 High Definition Audio Driver",
+      "version": "6.0.1.7917",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/876VV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxdell.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxdmini.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxdnhm.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxma7.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxmatp3.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxmaxxd.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxmb3hd.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxsg.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxsg2.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxsgaw.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxsgma4.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxsrsd.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxsrsd2.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxssma7.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxsstp3.inf",
+        "5510\\Win8.1\\x64\\audio\\876VV_A00-00\\windows8.1-x64\\hdaudio\\hdxthxd.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel 100 Series Chipset Driver",
+      "version": "10.1.1.13",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/H5FY9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\commonsystem.inf\\commonsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "5510\\Win8.1\\x64\\chipset\\H5FY9_A00-00\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "19.0.15.2",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/Y9Y7K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\input\\Y9Y7K_A00-00\\windows8_1-x64\\synpd.inf",
+        "5510\\Win8.1\\x64\\input\\Y9Y7K_A00-00\\windows8_1-x64\\synrmihid.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework Driver",
+      "version": "8.1.10605.221",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/YPN7Y_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\chipset\\YPN7Y_A00-00\\windows8.1-x64\\esif_manager.inf\\esif_manager.inf",
+        "5510\\Win8.1\\x64\\chipset\\YPN7Y_A00-00\\windows8.1-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "5510\\Win8.1\\x64\\chipset\\YPN7Y_A00-00\\windows8.1-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "5510\\Win8.1\\x64\\chipset\\YPN7Y_A00-00\\windows8.1-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel PROSet/Wireless Bluetooth LEGUI Driver",
+      "version": "18.1.1527.1552",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/TJDFT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\network\\TJDFT_A00-00\\drivers\\ibtuart.inf",
+        "5510\\Win8.1\\x64\\network\\TJDFT_A00-00\\drivers\\ibtusb.inf",
+        "5510\\Win8.1\\x64\\network\\TJDFT_A00-00\\drivers\\boot\\ibtusbbl.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.43.2017.220",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/0GC43_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\docks\\0GC43_A00-00\\windows8.1-x64\\rtux64w8.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel HID Event Filter Driver",
+      "version": "1.1.0.310",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/XW7JX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\network\\XW7JX_A00-00\\windows8.1-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1820A 802.11ac Driver",
+      "version": "1.400.66.0",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/CM6T6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\network\\CM6T6_A00-00\\windows8.1-x64\\bcbtums-win8x64-brcm.inf",
+        "5510\\Win8.1\\x64\\network\\CM6T6_A00-00\\windows8.1-x64\\bcbtumsld-win7x64.inf",
+        "5510\\Win8.1\\x64\\network\\CM6T6_A00-00\\windows8.1-x64\\bcmhidnossr.inf",
+        "5510\\Win8.1\\x64\\network\\CM6T6_A00-00\\windows8.1-x64\\bcmpciedhd63.inf",
+        "5510\\Win8.1\\x64\\network\\CM6T6_A00-00\\windows8.1-x64\\4350c5rtecdc.bin",
+        "5510\\Win8.1\\x64\\network\\CM6T6_A00-00\\windows8.1-x64\\4356a2rtecdc.bin",
+        "5510\\Win8.1\\x64\\network\\CM6T6_A00-00\\windows8.1-x64\\43602a1rtecdc.bin",
+        "5510\\Win8.1\\x64\\network\\CM6T6_A00-00\\windows8.1-x64\\4371c2rtecdc.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microlectronics LNG3DMTR Motion Sensor Driver",
+      "version": "4.10.67",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/3K80H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\chipset\\3K80H_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.2.15.1058",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/CRRKJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\storage\\CRRKJ_A00-00\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "5510\\Win8.1\\x64\\storage\\CRRKJ_A00-00\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.63.1519.7",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/PFCV6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\chipset\\PFCV6_A00-00\\windows8.1-x64\\ialpss2_uart2_skl.inf\\ialpss2_uart2_skl.inf",
+        "5510\\Win8.1\\x64\\chipset\\PFCV6_A00-00\\windows8.1-x64\\ialpss2_spi_skl.inf\\ialpss2_spi_skl.inf",
+        "5510\\Win8.1\\x64\\chipset\\PFCV6_A00-00\\windows8.1-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "5510\\Win8.1\\x64\\chipset\\PFCV6_A00-00\\windows8.1-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel Dual Band Wireless AC 8260 WiFi Driver",
+      "version": "18.12.0",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/PCVHT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\network\\PCVHT_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "5510\\Win8.1\\x64\\network\\PCVHT_A00-00\\windows8.1-x64\\netwew00.inf",
+        "5510\\Win8.1\\x64\\network\\PCVHT_A00-00\\windows8.1-x64\\netwew01.inf",
+        "5510\\Win8.1\\x64\\network\\PCVHT_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "5510\\Win8.1\\x64\\network\\PCVHT_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10586.21289",
+      "url": "dell-pack://5510-Win8.1-A06-49TC7.xml/MDR6D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5510\\Win8.1\\x64\\chipset\\MDR6D_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    }
+  ],
   "components": {}
 }

@@ -74,6 +74,39 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteBook x360 1040 G5 Win 10 x64 Driver Pack",
+      "version": "10.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102088.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteBook x360 1040 G5 Win 10 x64 Driver Pack",
+      "version": "11.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103610.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteBook x360 1040 G5 Win 10 x64 Driver Pack",
+      "version": "2.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92312.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

@@ -84,6 +84,28 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Engage Go 13.5 inch Mobile System Win11 x64 Driver Pack",
+      "version": "6.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158769.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Engage Go 13.5 inch Mobile System IoT11 2024 Driver Pack",
+      "version": "1.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160149.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

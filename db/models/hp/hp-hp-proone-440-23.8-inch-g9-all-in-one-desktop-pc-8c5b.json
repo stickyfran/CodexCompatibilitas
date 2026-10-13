@@ -104,6 +104,72 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151268.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151268.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151268.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151268.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151268.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151268.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

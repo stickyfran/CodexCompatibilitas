@@ -54,6 +54,73 @@
       "release_date": "11/23/2021 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/805 G6 SFF Win 10 x64 Driver Pack",
+      "version": "6.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138598.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/805 G6 SFF Win 11 Driver Pack",
+      "version": "1.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136309.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/805 G6 SFF Win 10 x64 Driver Pack",
+      "version": "5.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123510.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/805 G6 SFF Win 10 x64 Driver Pack",
+      "version": "6.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138598.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/805 G6 SFF Win 11 Driver Pack",
+      "version": "1.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136309.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/805 G6 SFF Win 10 x64 Driver Pack",
+      "version": "5.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123510.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

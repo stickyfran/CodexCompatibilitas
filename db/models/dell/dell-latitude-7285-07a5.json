@@ -23,6 +23,450 @@
       "release_date": "2020-04-28T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "1932.12.0.1298",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/DJT82_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\wiman_wlan_extension.inf\\wiman_wlan_extension.inf",
+        "7285\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\wiman.inf\\wiman.inf",
+        "7285\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\oemextension.inf\\oemextension.inf",
+        "7285\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\mesrl.inf\\mesrl.inf",
+        "7285\\win10\\x64\\chipset\\DJT82_A00-00\\windows10-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB eXtensible Host Controller Driver",
+      "version": "1.16.59.1",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/PY41V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\docks\\PY41V_A00-00\\windows10-x64\\asmthub3.inf",
+        "7285\\win10\\x64\\docks\\PY41V_A00-00\\windows10-x64\\asmtxhci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "2.2.1.364",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/779H4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\779H4_A00-00\\windows10-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASIX USB to Serial / Parallel Port Driver",
+      "version": "2.0.2.0",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/WGNN6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\docks\\WGNN6_A00-00\\win10x64\\mosucomp.inf",
+        "7285\\win10\\x64\\docks\\WGNN6_A00-00\\win10x64\\mosuport.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework Driver",
+      "version": "8.3.10209.6897",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/74P16_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\74P16_A00-00\\windows10-x64\\esif_manager.inf\\esif_manager.inf",
+        "7285\\win10\\x64\\chipset\\74P16_A00-00\\windows10-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "7285\\win10\\x64\\chipset\\74P16_A00-00\\windows10-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.1725.1",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/RXDJM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\RXDJM_A00-00\\w10-x64\\ialpss2_uart2_skl.inf\\ialpss2_uart2_skl.inf",
+        "7285\\win10\\x64\\chipset\\RXDJM_A00-00\\w10-x64\\ialpss2_spi_skl.inf\\ialpss2_spi_skl.inf",
+        "7285\\win10\\x64\\chipset\\RXDJM_A00-00\\w10-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "7285\\win10\\x64\\chipset\\RXDJM_A00-00\\w10-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18019.8144",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/9NNTR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-hsdhost.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-hsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-hsystemlpss.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-hsystemnorthpeak.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-hsystemthermal.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-lpsdhost.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-lpsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-lpsystemlpss.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-lpsystemnorthpeak.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cannonlake-lpsystemthermal.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\coffeelakesystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cometlakepch-lpsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cometlakepch-lpsystemnorthpeak.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\cometlakepch-lpsystemthermal.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\denvertonports.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\denvertonsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\geminilakesystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\geminilakesystemgmm.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\geminilakesystemlpss.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\geminilakesystemnorthpeak.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\icelakepch-lpsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\icelakepch-lpsystemlpss.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\icelakepch-lpsystemnorthpeak.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\kabylakepch-hsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\kabylakepch-hsystemlpss.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\kabylakepch-hsystemnorthpeak.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\kabylakepch-hsystemthermal.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\kabylakesystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\kabylakesystemgmm.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\lewisburgsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\null_hecisystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\skylake-esystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\skylakesystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\skylakesystemgmm.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\skylakesystemthermal.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\sunrisepoint-hsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\sunrisepoint-hsystemlpss.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\sunrisepoint-hsystemthermal.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\sunrisepoint-lpsdhost.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\sunrisepoint-lpsystem.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\sunrisepoint-lpsystemlpss.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\sunrisepoint-lpsystemnorthpeak.inf",
+        "7285\\win10\\x64\\chipset\\9NNTR_A00-00\\windows10-x64\\sunrisepoint-lpsystemthermal.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Integrated Sensor Solution Driver",
+      "version": "3.10.100.3363",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/PJGRM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\PJGRM_A00-00\\windows10-x64\\ish_busdriver\\ish_busdriver.inf",
+        "7285\\win10\\x64\\chipset\\PJGRM_A00-00\\windows10-x64\\ish\\ish.inf",
+        "7285\\win10\\x64\\chipset\\PJGRM_A00-00\\windows10-x64\\hid_pci\\hid_pci.inf",
+        "7285\\win10\\x64\\chipset\\PJGRM_A00-00\\windows10-x64\\advsensorhidclassdriverv2\\advsensorhidclassdriverv2.inf",
+        "7285\\win10\\x64\\chipset\\PJGRM_A00-00\\windows10-x64\\advsensorclassdriver\\advsensorclassdriver.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "17.5.0.1017",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/589C4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\storage\\589C4_A00-00\\windows10-x64\\iastorac.inf\\iastorac.inf",
+        "7285\\win10\\x64\\storage\\589C4_A00-00\\windows10-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265 WiGig Driver",
+      "version": "3.0.53144.2",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/X482X_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\network\\X482X_A00-00\\windows10-x64\\imausbhpal.inf",
+        "7285\\win10\\x64\\network\\X482X_A00-00\\windows10-x64\\imausbhub.inf",
+        "7285\\win10\\x64\\network\\X482X_A00-00\\windows10-x64\\iwigig.inf",
+        "7285\\win10\\x64\\network\\X482X_A00-00\\windows10-x64\\iwigigum.inf",
+        "7285\\win10\\x64\\network\\X482X_A00-00\\windows10-x64\\psm.inf",
+        "7285\\win10\\x64\\network\\X482X_A00-00\\windows10-x64\\psm_p.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/18265/8265/7265/3165 Bluetooth UWD Driver",
+      "version": "21.20.0.4",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/Y19VV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "7285\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\thp\\ibtusb.inf",
+        "7285\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\stp\\ibtusb.inf",
+        "7285\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\sfp\\ibtusb.inf",
+        "7285\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\jfp\\ibtusb.inf",
+        "7285\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\hrp\\ibtusb.inf",
+        "7285\\win10\\x64\\network\\Y19VV_A00-00\\windows10-x64\\ibtusb\\ccp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.1.0.21",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/6X22C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\6X22C_A00-00\\windows10-x64\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.18362.31252",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/66CVW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\66CVW_A00-00\\windows10-x64\\rtsuer.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Intel Skycam Driver",
+      "version": "30.15063.10991.4659",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/PHRPM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov9734.inf\\30.15063.4659.2\\ov9734.inf",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov9234.inf\\30.15063.4713.11\\ov9234.inf",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858.inf",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\iaisp64.inf\\30.15063.10991.4659\\iaisp64.inf",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\iactrllogic64.inf\\30.15063.10991.4659\\iactrllogic64.inf",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\iacamera64.inf\\30.15063.10991.4659\\iacamera64.inf",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\csi2hostcontrollerdriver.inf\\30.15063.10991.4659\\csi2hostcontrollerdriver.inf",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov9734.inf\\30.15063.4659.2\\ov9734_6bf119t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov9734.inf\\30.15063.4659.2\\ov9734_ipu3_yjfxg_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov9734.inf\\30.15063.4659.2\\ov9734_s1vm02_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov9234.inf\\30.15063.4713.11\\ov9234_5sf010t1_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov9234.inf\\30.15063.4713.11\\ov9234_6bf120t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov9234.inf\\30.15063.4713.11\\ov9234_ipu3_pv28t_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_4ba862t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_5ba802t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_5ba812t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_5ba821t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_6ba803t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_6ba807t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_6ba808t2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_bcbm84v01-200_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_bcms84v2_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_cbad822_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_cjae840_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_cjae845_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_cjag829_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_fo80af468h_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_gegr1601270_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_gegr1601271_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\ov8858.inf\\30.15063.4659.2\\ov8858_vnvpd_cn6d9_sky_pipecfg.bin",
+        "7285\\win10\\x64\\input\\PHRPM_A00-00\\w10x64\\iacamera64.inf\\30.15063.10991.4659\\css_fw.bin"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver",
+      "version": "6.3.9600.2215",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/08CKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\u\\rtdusbad.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\u\\realtek\\realtekservice_128\\realtekservice.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\u\\realtek\\realtekapo_685\\realtekusbapo.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\u\\realtek\\codecextoem_rtk_2215\\dellextrtxusb_waves.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbad.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbad2.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbad3.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbad4.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbadft1.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbadft2.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbsf.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\rtxusbwc.inf",
+        "7285\\win10\\x64\\docks\\08CKK_A00-00\\windows10-x64\\r\\sadesusbad.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/18265/8265/7265/3165 WiFi Driver",
+      "version": "21.40.1.2307",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/3P529_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\network\\3P529_A00-00\\windows10-x64\\netwtw04.inf",
+        "7285\\win10\\x64\\network\\3P529_A00-00\\windows10-x64\\netwtw06.inf",
+        "7285\\win10\\x64\\network\\3P529_A00-00\\windows10-x64\\netwtw08.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "26.20.100.7263",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/PP4W5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\video\\PP4W5_A00-00\\windows10-x64\\26.20.100.7263\\hdbusext.inf",
+        "7285\\win10\\x64\\video\\PP4W5_A00-00\\windows10-x64\\26.20.100.7263\\ki134039.inf",
+        "7285\\win10\\x64\\video\\PP4W5_A00-00\\windows10-x64\\26.20.100.7263\\displayaudio\\10.27\\intcdaud.inf",
+        "7285\\win10\\x64\\video\\PP4W5_A00-00\\windows10-x64\\26.20.100.7263\\displayaudio\\10.26\\intcdaud.inf",
+        "7285\\win10\\x64\\video\\PP4W5_A00-00\\windows10-x64\\26.20.100.7263\\cp_resources.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "17.4.79.510",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/TBT79_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\chipset\\TBT79_A00-00\\w10-x64\\tbt100x.inf",
+        "7285\\win10\\x64\\chipset\\TBT79_A00-00\\w10-x64\\tp2p100x.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2019.0618",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/5V6RY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\docks\\5V6RY_A00-00\\windows10-x64\\rtux64w10.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5816e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.60.4835.501",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/7PR38_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swlocrm.inf",
+        "7285\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swmbbmdm05.inf",
+        "7285\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swmbbnm05.inf",
+        "7285\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swmbbnode05.inf",
+        "7285\\win10\\x64\\communication\\7PR38_A00-00\\windows10-x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.8809.1",
+      "url": "dell-pack://7285-win10-A11-5VWFM.xml/88KKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\r\\hdxadc.inf",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\r\\hdxadcmax8.inf",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\r\\hdxadcmax8s.inf",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\detectionverificationdrv.inf",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\intcaudiobus.inf",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\intcdmic.inf",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\intcoed.inf",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\wovartifacts\\sid\\ubm.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\wovartifacts\\echo\\m\\cohort_echo.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\fw.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\fw_7cad0808-ab10-cd23-ef45-12ab34cd56ef.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\libconexant.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\libconexant_f3578986-4400-4adf-ae7e-cd433cd3f26e.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\libicesoundmfx.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\libicesoundmfx_88373a01-16a5-469d-a39a-bdeb594178b8.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\libmvm1.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\libmvm1_347297c3-a6d5-40db-8120-ace66babf491.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\libsraudio.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\libsraudio_d46f9d72-81a4-47fd-b301-8e39d17c0981.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_cpath.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_cpath_46cb87fb-d2c9-4970-96d2-6d7e614bb605.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_dolby.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_dolby_e0e018a8-3550-4b54-a8d0-a8e05d0fcba2.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_dolby_ll.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_dolby_ll_849f0d73-1678-4d57-8c78-61c548253993.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_dsm_core.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_dsm_core_c75061f3-f2b2-4dcc-8f9f-82abb4131e66.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_dts.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_dts_e1284052-8664-4fe4-a353-3878f72704c3.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_fm.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_fm_b3573eff-6441-4a75-91f7-4281eec4597d.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_int_sst.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_int_sst_7c708106-3aff-40fe-88be-8c999b3f7445.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_int_wov.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_int_wov_ec774fa9-28d3-424a-90e4-69f984f1eeb7.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_smartamp.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_smartamp_2c093145-5895-4699-9ddb-6fefdc77e85d.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_waves.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\lib_waves_b489c2de-0f96-42e1-8a2d-c25b5091ee49.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtkdrc_lib.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtkdrc_lib_bb303551-0914-4d56-a3ff-20955c598a8f.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtkeq_lib.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtkeq_lib_b55eba24-8349-4dad-afc7-8489d23c93ef.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtkns_lib.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtkns_lib_271f72a1-bc28-44c7-aa94-2b2c17c32561.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtksep2_lib.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtksep2_lib_7111001f-d35f-44d9-81d2-77e0d5e1bcd8.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtksep_lib.bin",
+        "7285\\win10\\x64\\audio\\88KKK_A00-00\\windows10-x64\\i\\fw\\rtksep_lib_7111001f-d35f-44d9-81d2-7ac685bed3d7.bin"
+      ]
+    }
+  ],
   "components": {}
 }

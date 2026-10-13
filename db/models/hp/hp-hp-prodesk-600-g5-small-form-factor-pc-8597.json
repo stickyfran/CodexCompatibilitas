@@ -73,6 +73,29 @@
       "release_date": "6/14/2021 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "version": "3.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99588.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "version": "4.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101208.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -34,6 +34,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp8_w1064_201509.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

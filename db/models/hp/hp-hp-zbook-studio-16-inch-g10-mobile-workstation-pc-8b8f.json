@@ -64,6 +64,39 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook Studio G10 MWS Windows 10 x64 Driver Pack",
+      "version": "2.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149061.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook Studio G10 MWS Windows 10 x64 Driver Pack",
+      "version": "3.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155001-155500/sp155181.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook Studio G10 MWS Windows 11 Driver Pack",
+      "version": "2.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149062.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

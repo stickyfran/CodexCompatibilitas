@@ -43,6 +43,1825 @@
       "release_date": "2017-12-12T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10608.329",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DJYD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\DJYD8_A00-00\\windows7-x64\\esif_manager.inf\\esif_manager.inf",
+        "5580\\win7\\x64\\chipset\\DJYD8_A00-00\\windows7-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "5580\\win7\\x64\\chipset\\DJYD8_A00-00\\windows7-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "5580\\win7\\x64\\chipset\\DJYD8_A00-00\\windows7-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265 18260 17265 WiGig Driver",
+      "version": "2.0.0.11",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/MRX1W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver2\\rtux64w7.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\imausbhpal.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\imausbhub.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\iwigig.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\iwigigum.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\psm.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\psm_p.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB eXtensible Host Controller Driver",
+      "version": "1.16.59.1",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/PY41V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\docks\\PY41V_A00-00\\windows7-x64\\asmthub3.inf",
+        "5580\\win7\\x64\\docks\\PY41V_A00-00\\windows7-x64\\asmtxhci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265/3165 WiFi Driver",
+      "version": "21.40.4.2614",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/C7RR6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\C7RR6_A00-00\\windows7-x64\\netwsw04.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA9377 WiFi and Bluetooth Driver",
+      "version": "11.0.0.788",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/JNXJ9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\netathr7x.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\atheros_bth.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_a2dp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_audio_flt.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_bus.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_flt.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_hcrp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_hid.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_lwflt.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_rcp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\leath_hid.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\dell\\atheros_bth.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_a2dp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_audio_flt.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_rcp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\qca61x430.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265/3165 Bluetooth Driver",
+      "version": "20.90.6",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/RXXR7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\RXXR7_A00-00\\windows7-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "5580\\win7\\x64\\network\\RXXR7_A00-00\\windows7-x64\\ibtusb\\stp\\ibtusb.inf",
+        "5580\\win7\\x64\\network\\RXXR7_A00-00\\windows7-x64\\ibtusb\\sfp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.7.5.1025",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/66MG5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\storage\\66MG5_A00-00\\iastorac.inf\\iastorac.inf",
+        "5580\\win7\\x64\\storage\\66MG5_A00-00\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "STMicroelectronics Free Fall Data Protection Driver",
+      "version": "4.10.0079",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\DFDP5_A00-00\\win7x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5814E LTE Mobile Broadband Driver",
+      "version": "6.3.3.1408",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/X2X8F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\communication\\X2X8F_A00-00\\win7x64\\mbim\\intelmbim.inf",
+        "5580\\win7\\x64\\communication\\X2X8F_A00-00\\win7x64\\mbim\\mbimss.inf",
+        "5580\\win7\\x64\\communication\\X2X8F_A00-00\\win7x64\\gnss\\gnssdriversha1.inf",
+        "5580\\win7\\x64\\communication\\X2X8F_A00-00\\win7x64\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.61.1519.7",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/R47PT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\R47PT_A00-00\\windows7-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "5580\\win7\\x64\\chipset\\R47PT_A00-00\\windows7-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "1915.12.0.1267",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/W2XGP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\W2XGP_A00-00\\w7-x64\\oeme.inf\\oemextension.inf",
+        "5580\\win7\\x64\\chipset\\W2XGP_A00-00\\w7-x64\\mesrl.inf\\mesrl.inf",
+        "5580\\win7\\x64\\chipset\\W2XGP_A00-00\\w7-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.14393.11242",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/TWVGH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\input\\TWVGH_A00-00\\windows7-x64\\rtdell.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.38",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\wellsburgusb.inf\\wellsburgusb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\valleyview2system.inf\\valleyview2system.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylakesystem.inf\\skylakesystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylake-esystem.inf\\skylake-esystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\patsburgusb.inf\\patsburgusb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\patsburgsystem.inf\\patsburgsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystem.inf\\kabylakesystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\haswellsystem.inf\\haswellsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\commonsystem.inf\\commonsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\braswellsystem.inf\\braswellsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5811e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.54.4799.502",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/97FX1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\communication\\97FX1_A00-00\\win7x64\\swmbbmdm05.inf",
+        "5580\\win7\\x64\\communication\\97FX1_A00-00\\win7x64\\swmbbnet05.inf",
+        "5580\\win7\\x64\\communication\\97FX1_A00-00\\win7x64\\swmbbnm05.inf",
+        "5580\\win7\\x64\\communication\\97FX1_A00-00\\win7x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB eXtensible Host Controller Driver",
+      "version": "5.0.4.43",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/FW1H3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\FW1H3_A00-00\\win7x64\\x64\\iusb3hub.inf",
+        "5580\\win7\\x64\\chipset\\FW1H3_A00-00\\win7x64\\x64\\iusb3xhc.inf",
+        "5580\\win7\\x64\\chipset\\FW1H3_A00-00\\win7x64\\hcswitch\\x64\\iusb3hcs.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCIe Memory Card Reader Driver",
+      "version": "10.0.16299.21304",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/6G1JT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\6G1JT_A00-00\\windows7-x64\\rtsperdl.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA GeForce/Quadro Series Graphics Driver",
+      "version": "26.21.14.3206",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/2F49G_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\video\\2F49G_A00-00\\hdaudio\\nvhda.inf",
+        "5580\\win7\\x64\\video\\2F49G_A00-00\\display.driver\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "16.3.61.275",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/7X8Y6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\7X8Y6_A00-00\\windows7-x64\\tbt70x.inf",
+        "5580\\win7\\x64\\chipset\\7X8Y6_A00-00\\windows7-x64\\tp2p70x.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "21.20.16.5077",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/1V791_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\video\\1V791_A00-00\\windows7-x64\\ki134042.inf\\21.20.16.5077\\ki134042.inf",
+        "5580\\win7\\x64\\video\\1V791_A00-00\\windows7-x64\\intcdaud.inf\\6.16.00.3200\\intcdaud.inf",
+        "5580\\win7\\x64\\video\\1V791_A00-00\\windows7-x64\\ki134042.inf\\21.20.16.5077\\cp_resources.bin",
+        "5580\\win7\\x64\\video\\1V791_A00-00\\windows7-x64\\ki134042.inf\\21.20.16.5077\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.10.12.13",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/CKGX6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\wbf\\ushwbfdrv.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\nfc\\bcmnfcscr7.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\nfc\\bcmnfcser7.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\nfc\\bcmnfcusb7.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\cv\\cvusbdrv.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\ccid\\bcmccid.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\cv\\firmware\\clearscd.bin"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "10.2207.101.114",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/94HPR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\input\\94HPR_A00-00\\windows7-x64\\ps2x64\\apfiltr.inf",
+        "5580\\win7\\x64\\input\\94HPR_A00-00\\windows7-x64\\i2cx64\\alphidi2c.inf",
+        "5580\\win7\\x64\\input\\94HPR_A00-00\\windows7-x64\\i2cx64\\aphidfiltr.inf",
+        "5580\\win7\\x64\\input\\94HPR_A00-00\\windows7-x64\\i2cx64\\apvhid.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASIX USB to Serial / Parallel Port Driver",
+      "version": "2.0.2.0",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/WGNN6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\docks\\WGNN6_A00-00\\windows7-x64\\mosucomp.inf",
+        "5580\\win7\\x64\\docks\\WGNN6_A00-00\\windows7-x64\\mosuport.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx and 825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.9.16.0",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/XCNCN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\XCNCN_A00-00\\win7x64\\e1c62x64.inf",
+        "5580\\win7\\x64\\network\\XCNCN_A00-00\\win7x64\\e1d62x64.inf",
+        "5580\\win7\\x64\\network\\XCNCN_A00-00\\win7x64\\e1r62x64.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2019.0618",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/5V6RY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\docks\\5V6RY_A00-00\\windows7-x64\\rtux64w7.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver",
+      "version": "6.3.9600.2215",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/08CKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbad.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbad2.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbad3.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbad4.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbadft1.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbadft2.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbsf.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbwc.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\sadesusbad.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8403",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/88PPP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\intcaudiobus.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\intcdmic.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\intcoed.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\intcsst.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\h\\hdxadc.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\h\\hdxadcmax8.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\h\\hdxadcmax8s.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\wovartifacts\\prop\\m\\ubm_proprietary.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\wovartifacts\\hwkws\\m\\ubm_cortana.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\wovartifacts\\echo\\m\\ubm_echo.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_fw_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_fw_release_7cad0808-ab10-cd23-ef45-12ab34cd56ef.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_cpath_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_cpath_release_46cb87fb-d2c9-4970-96d2-6d7e614bb605.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dolby_ll_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dolby_ll_release_849f0d73-1678-4d57-8c78-61c548253993.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dolby_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dolby_release_e0e018a8-3550-4b54-a8d0-a8e05d0fcba2.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dsm_core_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dsm_core_release_c75061f3-f2b2-4dcc-8f9f-82abb4131e66.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dts_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dts_release_e1284052-8664-4fe4-a353-3878f72704c3.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_fortemedia_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_fortemedia_release_b3573eff-6441-4a75-91f7-4281eec4597d.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_intel_sst_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_intel_sst_release_7c708106-3aff-40fe-88be-8c999b3f7445.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_intel_wov_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_intel_wov_release_ec774fa9-28d3-424a-90e4-69f984f1eeb7.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_smartamp_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_smartamp_release_2c093145-5895-4699-9ddb-6fefdc77e85d.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_waves_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_waves_release_b489c2de-0f96-42e1-8a2d-c25b5091ee49.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_xa_audyssey_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_xa_audyssey_release_bd70ce66-7cee-4277-a91a-d6368feaf83d.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10608.329",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DJYD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\DJYD8_A00-00\\windows7-x86\\esif_manager.inf\\esif_manager.inf",
+        "5580\\win7\\x86\\chipset\\DJYD8_A00-00\\windows7-x86\\dptf_pch.inf\\dptf_pch.inf",
+        "5580\\win7\\x86\\chipset\\DJYD8_A00-00\\windows7-x86\\dptf_cpu.inf\\dptf_cpu.inf",
+        "5580\\win7\\x86\\chipset\\DJYD8_A00-00\\windows7-x86\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265 18260 17265 WiGig Driver",
+      "version": "2.0.0.11",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/MRX1W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver2\\rtux86w7.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\imausbhpal.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\imausbhub.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\iwigig.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\iwigigum.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\psm.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\psm_p.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265/3165 WiFi Driver",
+      "version": "21.40.4.2614",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/M44V8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\M44V8_A00-00\\windows7-x86\\netwsn04.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265/8260/7265/3165/7260 Bluetooth Driver",
+      "version": "20.90.6",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/11WNC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\11WNC_A00-00\\windows7-x86\\ibtusb\\wsp\\ibtusb.inf",
+        "5580\\win7\\x86\\network\\11WNC_A00-00\\windows7-x86\\ibtusb\\stp\\ibtusb.inf",
+        "5580\\win7\\x86\\network\\11WNC_A00-00\\windows7-x86\\ibtusb\\sfp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "21.20.16.5077",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/MK7KP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\video\\MK7KP_A00-00\\windows7-x86\\ki134046.inf\\21.20.16.5077\\ki134046.inf",
+        "5580\\win7\\x86\\video\\MK7KP_A00-00\\windows7-x86\\intcdaud.inf\\6.16.00.3200\\intcdaud.inf",
+        "5580\\win7\\x86\\video\\MK7KP_A00-00\\windows7-x86\\ki134046.inf\\21.20.16.5077\\cp_resources.bin",
+        "5580\\win7\\x86\\video\\MK7KP_A00-00\\windows7-x86\\ki134046.inf\\21.20.16.5077\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASIX USB to Serial / Parallel Port Driver",
+      "version": "2.0.2.0",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/V3843_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\docks\\V3843_A00-00\\windows7-x86\\mosucomp.inf",
+        "5580\\win7\\x86\\docks\\V3843_A00-00\\windows7-x86\\mosuport.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA9377 WiFi and Bluetooth Driver",
+      "version": "11.0.0.788",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/JNXJ9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\netathr7.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\atheros_bth.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_a2dp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_audio_flt.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_bus.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_flt.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_hcrp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_hid.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_lwflt.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_rcp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\leath_hid.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\dell\\atheros_bth.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_a2dp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_audio_flt.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_rcp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\qca61x430.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.7.5.1025",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/66MG5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\storage\\66MG5_A00-00\\iastorac.inf\\iastorac.inf",
+        "5580\\win7\\x86\\storage\\66MG5_A00-00\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "STMicroelectronics Free Fall Data Protection Driver",
+      "version": "4.10.0079",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\DFDP5_A00-00\\win7x86\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.61.1519.7",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/R47PT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\R47PT_A00-00\\windows7-x86\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "5580\\win7\\x86\\chipset\\R47PT_A00-00\\windows7-x86\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8351",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/VVPPY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\audio\\VVPPY_A00-00\\win7x86\\hdaadc.inf",
+        "5580\\win7\\x86\\audio\\VVPPY_A00-00\\win7x86\\hdaadcmax8.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "1915.12.0.1267",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/W2XGP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\W2XGP_A00-00\\windows7-x86\\oemextension.inf\\oemextension.inf",
+        "5580\\win7\\x86\\chipset\\W2XGP_A00-00\\windows7-x86\\mesrl.inf\\mesrl.inf",
+        "5580\\win7\\x86\\chipset\\W2XGP_A00-00\\windows7-x86\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5814E LTE Mobile Broadband Driver",
+      "version": "6.3.3.1408",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DTT2D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\communication\\DTT2D_A00-00\\win7x86\\mbim\\intelmbim.inf",
+        "5580\\win7\\x86\\communication\\DTT2D_A00-00\\win7x86\\mbim\\mbimss.inf",
+        "5580\\win7\\x86\\communication\\DTT2D_A00-00\\win7x86\\gnss\\gnssdriversha1.inf",
+        "5580\\win7\\x86\\communication\\DTT2D_A00-00\\win7x86\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.14393.11242",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/TWVGH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\input\\TWVGH_A00-00\\windows7-x86\\rtdell.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.38",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\wellsburgusb.inf\\wellsburgusb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\valleyview2system.inf\\valleyview2system.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\skylakesystem.inf\\skylakesystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\skylake-esystem.inf\\skylake-esystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\patsburgusb.inf\\patsburgusb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\patsburgsystem.inf\\patsburgsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystem.inf\\kabylakesystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\haswellsystem.inf\\haswellsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\commonsystem.inf\\commonsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\braswellsystem.inf\\braswellsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5811e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.54.4799.502",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/97FX1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\communication\\97FX1_A00-00\\win7x86\\swmbbmdm05.inf",
+        "5580\\win7\\x86\\communication\\97FX1_A00-00\\win7x86\\swmbbnet05.inf",
+        "5580\\win7\\x86\\communication\\97FX1_A00-00\\win7x86\\swmbbnm05.inf",
+        "5580\\win7\\x86\\communication\\97FX1_A00-00\\win7x86\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB eXtensible Host Controller Driver",
+      "version": "5.0.4.43",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/FW1H3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\FW1H3_A00-00\\win7x86\\x86\\iusb3hub.inf",
+        "5580\\win7\\x86\\chipset\\FW1H3_A00-00\\win7x86\\x86\\iusb3xhc.inf",
+        "5580\\win7\\x86\\chipset\\FW1H3_A00-00\\win7x86\\hcswitch\\x86\\iusb3hcs.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCIe Memory Card Reader Driver",
+      "version": "10.0.16299.21304",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/6G1JT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\6G1JT_A00-00\\win7x86\\rtsperdl.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 930MX GeForce 940MX Garaphic Driver",
+      "version": "23.21.13.8795",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/FFFVV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\video\\FFFVV_A00-00\\win7x86\\nv3dvisionusb.driver\\nvstusb.inf",
+        "5580\\win7\\x86\\video\\FFFVV_A00-00\\win7x86\\hdaudio\\nvhda.inf",
+        "5580\\win7\\x86\\video\\FFFVV_A00-00\\win7x86\\display.driver\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "10.2207.101.114",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/94HPR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\input\\94HPR_A00-00\\windows7-x86\\ps2x86\\apfiltr.inf",
+        "5580\\win7\\x86\\input\\94HPR_A00-00\\windows7-x86\\i2cx86\\alphidi2c.inf",
+        "5580\\win7\\x86\\input\\94HPR_A00-00\\windows7-x86\\i2cx86\\aphidfiltr.inf",
+        "5580\\win7\\x86\\input\\94HPR_A00-00\\windows7-x86\\i2cx86\\apvhid.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.10.12.13",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/2TG4R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\wbf\\ushwbfdrv.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\nfc\\bcmnfcscr7.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\nfc\\bcmnfcser7.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\nfc\\bcmnfcusb7.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\cv\\cvusbdrv.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\ccid\\bcmccid.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\cv\\firmware\\clearscd.bin"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2019.0618",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/5V6RY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\docks\\5V6RY_A00-00\\windows7-x86\\rtux86w7.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver",
+      "version": "6.3.9600.2215",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/08CKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbad.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbad2.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbad3.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbad4.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbadft1.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbadft2.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbsf.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbwc.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\sadesusbad.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx and 825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.9.16.0",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/XCNCN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\XCNCN_A00-00\\win7x86\\e1c6232.inf",
+        "5580\\win7\\x86\\network\\XCNCN_A00-00\\win7x86\\e1d6232.inf",
+        "5580\\win7\\x86\\network\\XCNCN_A00-00\\win7x86\\e1r6232.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10608.329",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DJYD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\DJYD8_A00-00\\windows7-x64\\esif_manager.inf\\esif_manager.inf",
+        "5580\\win7\\x64\\chipset\\DJYD8_A00-00\\windows7-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "5580\\win7\\x64\\chipset\\DJYD8_A00-00\\windows7-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "5580\\win7\\x64\\chipset\\DJYD8_A00-00\\windows7-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265 18260 17265 WiGig Driver",
+      "version": "2.0.0.11",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/MRX1W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver2\\rtux64w7.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\imausbhpal.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\imausbhub.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\iwigig.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\iwigigum.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\psm.inf",
+        "5580\\win7\\x64\\network\\MRX1W_A00-00\\win7x64\\driver1\\psm_p.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB eXtensible Host Controller Driver",
+      "version": "1.16.59.1",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/PY41V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\docks\\PY41V_A00-00\\windows7-x64\\asmthub3.inf",
+        "5580\\win7\\x64\\docks\\PY41V_A00-00\\windows7-x64\\asmtxhci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265/3165 WiFi Driver",
+      "version": "21.40.4.2614",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/C7RR6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\C7RR6_A00-00\\windows7-x64\\netwsw04.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA9377 WiFi and Bluetooth Driver",
+      "version": "11.0.0.788",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/JNXJ9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\netathr7x.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\atheros_bth.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_a2dp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_audio_flt.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_bus.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_flt.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_hcrp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_hid.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_lwflt.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_rcp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\leath_hid.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\dell\\atheros_bth.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_a2dp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_audio_flt.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_rcp.inf",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\qca61x430.bin",
+        "5580\\win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265/3165 Bluetooth Driver",
+      "version": "20.90.6",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/RXXR7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\RXXR7_A00-00\\windows7-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "5580\\win7\\x64\\network\\RXXR7_A00-00\\windows7-x64\\ibtusb\\stp\\ibtusb.inf",
+        "5580\\win7\\x64\\network\\RXXR7_A00-00\\windows7-x64\\ibtusb\\sfp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.7.5.1025",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/66MG5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\storage\\66MG5_A00-00\\iastorac.inf\\iastorac.inf",
+        "5580\\win7\\x64\\storage\\66MG5_A00-00\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "STMicroelectronics Free Fall Data Protection Driver",
+      "version": "4.10.0079",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\DFDP5_A00-00\\win7x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5814E LTE Mobile Broadband Driver",
+      "version": "6.3.3.1408",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/X2X8F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\communication\\X2X8F_A00-00\\win7x64\\mbim\\intelmbim.inf",
+        "5580\\win7\\x64\\communication\\X2X8F_A00-00\\win7x64\\mbim\\mbimss.inf",
+        "5580\\win7\\x64\\communication\\X2X8F_A00-00\\win7x64\\gnss\\gnssdriversha1.inf",
+        "5580\\win7\\x64\\communication\\X2X8F_A00-00\\win7x64\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.61.1519.7",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/R47PT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\R47PT_A00-00\\windows7-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "5580\\win7\\x64\\chipset\\R47PT_A00-00\\windows7-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "1915.12.0.1267",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/W2XGP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\W2XGP_A00-00\\w7-x64\\oeme.inf\\oemextension.inf",
+        "5580\\win7\\x64\\chipset\\W2XGP_A00-00\\w7-x64\\mesrl.inf\\mesrl.inf",
+        "5580\\win7\\x64\\chipset\\W2XGP_A00-00\\w7-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.14393.11242",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/TWVGH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\input\\TWVGH_A00-00\\windows7-x64\\rtdell.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.38",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\wellsburgusb.inf\\wellsburgusb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\valleyview2system.inf\\valleyview2system.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylakesystem.inf\\skylakesystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\skylake-esystem.inf\\skylake-esystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\patsburgusb.inf\\patsburgusb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\patsburgsystem.inf\\patsburgsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystem.inf\\kabylakesystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\haswellsystem.inf\\haswellsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\commonsystem.inf\\commonsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\braswellsystem.inf\\braswellsystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "5580\\win7\\x64\\chipset\\HMDR4_A00-00\\drivers\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5811e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.54.4799.502",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/97FX1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\communication\\97FX1_A00-00\\win7x64\\swmbbmdm05.inf",
+        "5580\\win7\\x64\\communication\\97FX1_A00-00\\win7x64\\swmbbnet05.inf",
+        "5580\\win7\\x64\\communication\\97FX1_A00-00\\win7x64\\swmbbnm05.inf",
+        "5580\\win7\\x64\\communication\\97FX1_A00-00\\win7x64\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB eXtensible Host Controller Driver",
+      "version": "5.0.4.43",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/FW1H3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\FW1H3_A00-00\\win7x64\\x64\\iusb3hub.inf",
+        "5580\\win7\\x64\\chipset\\FW1H3_A00-00\\win7x64\\x64\\iusb3xhc.inf",
+        "5580\\win7\\x64\\chipset\\FW1H3_A00-00\\win7x64\\hcswitch\\x64\\iusb3hcs.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCIe Memory Card Reader Driver",
+      "version": "10.0.16299.21304",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/6G1JT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\6G1JT_A00-00\\windows7-x64\\rtsperdl.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA GeForce/Quadro Series Graphics Driver",
+      "version": "26.21.14.3206",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/2F49G_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\video\\2F49G_A00-00\\hdaudio\\nvhda.inf",
+        "5580\\win7\\x64\\video\\2F49G_A00-00\\display.driver\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "16.3.61.275",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/7X8Y6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\chipset\\7X8Y6_A00-00\\windows7-x64\\tbt70x.inf",
+        "5580\\win7\\x64\\chipset\\7X8Y6_A00-00\\windows7-x64\\tp2p70x.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "21.20.16.5077",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/1V791_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\video\\1V791_A00-00\\windows7-x64\\ki134042.inf\\21.20.16.5077\\ki134042.inf",
+        "5580\\win7\\x64\\video\\1V791_A00-00\\windows7-x64\\intcdaud.inf\\6.16.00.3200\\intcdaud.inf",
+        "5580\\win7\\x64\\video\\1V791_A00-00\\windows7-x64\\ki134042.inf\\21.20.16.5077\\cp_resources.bin",
+        "5580\\win7\\x64\\video\\1V791_A00-00\\windows7-x64\\ki134042.inf\\21.20.16.5077\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.10.12.13",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/CKGX6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\wbf\\ushwbfdrv.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\nfc\\bcmnfcscr7.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\nfc\\bcmnfcser7.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\nfc\\bcmnfcusb7.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\cv\\cvusbdrv.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\ccid\\bcmccid.inf",
+        "5580\\win7\\x64\\security\\CKGX6_A00-00\\w7-x64\\cv\\firmware\\clearscd.bin"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "10.2207.101.114",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/94HPR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\input\\94HPR_A00-00\\windows7-x64\\ps2x64\\apfiltr.inf",
+        "5580\\win7\\x64\\input\\94HPR_A00-00\\windows7-x64\\i2cx64\\alphidi2c.inf",
+        "5580\\win7\\x64\\input\\94HPR_A00-00\\windows7-x64\\i2cx64\\aphidfiltr.inf",
+        "5580\\win7\\x64\\input\\94HPR_A00-00\\windows7-x64\\i2cx64\\apvhid.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASIX USB to Serial / Parallel Port Driver",
+      "version": "2.0.2.0",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/WGNN6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\docks\\WGNN6_A00-00\\windows7-x64\\mosucomp.inf",
+        "5580\\win7\\x64\\docks\\WGNN6_A00-00\\windows7-x64\\mosuport.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx and 825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.9.16.0",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/XCNCN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\network\\XCNCN_A00-00\\win7x64\\e1c62x64.inf",
+        "5580\\win7\\x64\\network\\XCNCN_A00-00\\win7x64\\e1d62x64.inf",
+        "5580\\win7\\x64\\network\\XCNCN_A00-00\\win7x64\\e1r62x64.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2019.0618",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/5V6RY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\docks\\5V6RY_A00-00\\windows7-x64\\rtux64w7.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver",
+      "version": "6.3.9600.2215",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/08CKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbad.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbad2.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbad3.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbad4.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbadft1.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbadft2.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbsf.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\rtxusbwc.inf",
+        "5580\\win7\\x64\\docks\\08CKK_A00-00\\w7-x64\\r\\sadesusbad.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8403",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/88PPP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\intcaudiobus.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\intcdmic.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\intcoed.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\intcsst.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\h\\hdxadc.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\h\\hdxadcmax8.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\h\\hdxadcmax8s.inf",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\wovartifacts\\prop\\m\\ubm_proprietary.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\wovartifacts\\hwkws\\m\\ubm_cortana.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\wovartifacts\\echo\\m\\ubm_echo.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_fw_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_fw_release_7cad0808-ab10-cd23-ef45-12ab34cd56ef.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_cpath_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_cpath_release_46cb87fb-d2c9-4970-96d2-6d7e614bb605.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dolby_ll_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dolby_ll_release_849f0d73-1678-4d57-8c78-61c548253993.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dolby_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dolby_release_e0e018a8-3550-4b54-a8d0-a8e05d0fcba2.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dsm_core_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dsm_core_release_c75061f3-f2b2-4dcc-8f9f-82abb4131e66.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dts_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_dts_release_e1284052-8664-4fe4-a353-3878f72704c3.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_fortemedia_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_fortemedia_release_b3573eff-6441-4a75-91f7-4281eec4597d.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_intel_sst_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_intel_sst_release_7c708106-3aff-40fe-88be-8c999b3f7445.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_intel_wov_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_intel_wov_release_ec774fa9-28d3-424a-90e4-69f984f1eeb7.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_smartamp_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_smartamp_release_2c093145-5895-4699-9ddb-6fefdc77e85d.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_waves_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_waves_release_b489c2de-0f96-42e1-8a2d-c25b5091ee49.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_xa_audyssey_release.bin",
+        "5580\\win7\\x64\\audio\\88PPP_A00-00\\i\\firmware\\dsp_lib_xa_audyssey_release_bd70ce66-7cee-4277-a91a-d6368feaf83d.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10608.329",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DJYD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\DJYD8_A00-00\\windows7-x86\\esif_manager.inf\\esif_manager.inf",
+        "5580\\win7\\x86\\chipset\\DJYD8_A00-00\\windows7-x86\\dptf_pch.inf\\dptf_pch.inf",
+        "5580\\win7\\x86\\chipset\\DJYD8_A00-00\\windows7-x86\\dptf_cpu.inf\\dptf_cpu.inf",
+        "5580\\win7\\x86\\chipset\\DJYD8_A00-00\\windows7-x86\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265 18260 17265 WiGig Driver",
+      "version": "2.0.0.11",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/MRX1W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver2\\rtux86w7.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\imausbhpal.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\imausbhub.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\iwigig.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\iwigigum.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\psm.inf",
+        "5580\\win7\\x86\\network\\MRX1W_A00-00\\win7x86\\driver1\\psm_p.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265/3165 WiFi Driver",
+      "version": "21.40.4.2614",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/M44V8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\M44V8_A00-00\\windows7-x86\\netwsn04.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265/8260/7265/3165/7260 Bluetooth Driver",
+      "version": "20.90.6",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/11WNC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\11WNC_A00-00\\windows7-x86\\ibtusb\\wsp\\ibtusb.inf",
+        "5580\\win7\\x86\\network\\11WNC_A00-00\\windows7-x86\\ibtusb\\stp\\ibtusb.inf",
+        "5580\\win7\\x86\\network\\11WNC_A00-00\\windows7-x86\\ibtusb\\sfp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics Driver",
+      "version": "21.20.16.5077",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/MK7KP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\video\\MK7KP_A00-00\\windows7-x86\\ki134046.inf\\21.20.16.5077\\ki134046.inf",
+        "5580\\win7\\x86\\video\\MK7KP_A00-00\\windows7-x86\\intcdaud.inf\\6.16.00.3200\\intcdaud.inf",
+        "5580\\win7\\x86\\video\\MK7KP_A00-00\\windows7-x86\\ki134046.inf\\21.20.16.5077\\cp_resources.bin",
+        "5580\\win7\\x86\\video\\MK7KP_A00-00\\windows7-x86\\ki134046.inf\\21.20.16.5077\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASIX USB to Serial / Parallel Port Driver",
+      "version": "2.0.2.0",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/V3843_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\docks\\V3843_A00-00\\windows7-x86\\mosucomp.inf",
+        "5580\\win7\\x86\\docks\\V3843_A00-00\\windows7-x86\\mosuport.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA9377 WiFi and Bluetooth Driver",
+      "version": "11.0.0.788",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/JNXJ9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\netathr7.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\atheros_bth.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_a2dp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_audio_flt.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_bus.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_flt.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_hcrp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_hid.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_lwflt.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_rcp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\leath_hid.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\dell\\atheros_bth.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_a2dp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_audio_flt.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_rcp.inf",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\qca61x430.bin",
+        "5580\\win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.7.5.1025",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/66MG5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\storage\\66MG5_A00-00\\iastorac.inf\\iastorac.inf",
+        "5580\\win7\\x86\\storage\\66MG5_A00-00\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "STMicroelectronics Free Fall Data Protection Driver",
+      "version": "4.10.0079",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\DFDP5_A00-00\\win7x86\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.61.1519.7",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/R47PT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\R47PT_A00-00\\windows7-x86\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "5580\\win7\\x86\\chipset\\R47PT_A00-00\\windows7-x86\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8351",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/VVPPY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\audio\\VVPPY_A00-00\\win7x86\\hdaadc.inf",
+        "5580\\win7\\x86\\audio\\VVPPY_A00-00\\win7x86\\hdaadcmax8.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "1915.12.0.1267",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/W2XGP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\W2XGP_A00-00\\windows7-x86\\oemextension.inf\\oemextension.inf",
+        "5580\\win7\\x86\\chipset\\W2XGP_A00-00\\windows7-x86\\mesrl.inf\\mesrl.inf",
+        "5580\\win7\\x86\\chipset\\W2XGP_A00-00\\windows7-x86\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5814E LTE Mobile Broadband Driver",
+      "version": "6.3.3.1408",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/DTT2D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\communication\\DTT2D_A00-00\\win7x86\\mbim\\intelmbim.inf",
+        "5580\\win7\\x86\\communication\\DTT2D_A00-00\\win7x86\\mbim\\mbimss.inf",
+        "5580\\win7\\x86\\communication\\DTT2D_A00-00\\win7x86\\gnss\\gnssdriversha1.inf",
+        "5580\\win7\\x86\\communication\\DTT2D_A00-00\\win7x86\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Realtek IR Camera Driver",
+      "version": "10.0.14393.11242",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/TWVGH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\input\\TWVGH_A00-00\\windows7-x86\\rtdell.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.38",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\wellsburgusb.inf\\wellsburgusb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\valleyview2system.inf\\valleyview2system.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\skylakesystem.inf\\skylakesystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\skylake-esystem.inf\\skylake-esystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\patsburgusb.inf\\patsburgusb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\patsburgsystem.inf\\patsburgsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakesystem.inf\\kabylakesystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\haswellsystem.inf\\haswellsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\commonsystem.inf\\commonsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\braswellsystem.inf\\braswellsystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "5580\\win7\\x86\\chipset\\HMDR4_A00-00\\drivers\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5811e Qualcomm Snapdragon X7 LTE Firmware and GNSS Driver",
+      "version": "7.54.4799.502",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/97FX1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\communication\\97FX1_A00-00\\win7x86\\swmbbmdm05.inf",
+        "5580\\win7\\x86\\communication\\97FX1_A00-00\\win7x86\\swmbbnet05.inf",
+        "5580\\win7\\x86\\communication\\97FX1_A00-00\\win7x86\\swmbbnm05.inf",
+        "5580\\win7\\x86\\communication\\97FX1_A00-00\\win7x86\\swmbbser05.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB eXtensible Host Controller Driver",
+      "version": "5.0.4.43",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/FW1H3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\FW1H3_A00-00\\win7x86\\x86\\iusb3hub.inf",
+        "5580\\win7\\x86\\chipset\\FW1H3_A00-00\\win7x86\\x86\\iusb3xhc.inf",
+        "5580\\win7\\x86\\chipset\\FW1H3_A00-00\\win7x86\\hcswitch\\x86\\iusb3hcs.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCIe Memory Card Reader Driver",
+      "version": "10.0.16299.21304",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/6G1JT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\chipset\\6G1JT_A00-00\\win7x86\\rtsperdl.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 930MX GeForce 940MX Garaphic Driver",
+      "version": "23.21.13.8795",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/FFFVV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\video\\FFFVV_A00-00\\win7x86\\nv3dvisionusb.driver\\nvstusb.inf",
+        "5580\\win7\\x86\\video\\FFFVV_A00-00\\win7x86\\hdaudio\\nvhda.inf",
+        "5580\\win7\\x86\\video\\FFFVV_A00-00\\win7x86\\display.driver\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "10.2207.101.114",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/94HPR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\input\\94HPR_A00-00\\windows7-x86\\ps2x86\\apfiltr.inf",
+        "5580\\win7\\x86\\input\\94HPR_A00-00\\windows7-x86\\i2cx86\\alphidi2c.inf",
+        "5580\\win7\\x86\\input\\94HPR_A00-00\\windows7-x86\\i2cx86\\aphidfiltr.inf",
+        "5580\\win7\\x86\\input\\94HPR_A00-00\\windows7-x86\\i2cx86\\apvhid.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.10.12.13",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/2TG4R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\wbf\\ushwbfdrv.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\nfc\\bcmnfcscr7.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\nfc\\bcmnfcser7.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\nfc\\bcmnfcusb7.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\cv\\cvusbdrv.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\ccid\\bcmccid.inf",
+        "5580\\win7\\x86\\security\\2TG4R_A00-00\\w7-x86\\cv\\firmware\\clearscd.bin"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.45.2019.0618",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/5V6RY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\docks\\5V6RY_A00-00\\windows7-x86\\rtux86w7.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver",
+      "version": "6.3.9600.2215",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/08CKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbad.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbad2.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbad3.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbad4.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbadft1.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbadft2.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbsf.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\rtkusbwc.inf",
+        "5580\\win7\\x86\\docks\\08CKK_A00-00\\windows7-x86\\r\\sadesusbad.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx and 825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.9.16.0",
+      "url": "dell-pack://5580-win7-A11-1CPYP.xml/XCNCN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5580\\win7\\x86\\network\\XCNCN_A00-00\\win7x86\\e1c6232.inf",
+        "5580\\win7\\x86\\network\\XCNCN_A00-00\\win7x86\\e1d6232.inf",
+        "5580\\win7\\x86\\network\\XCNCN_A00-00\\win7x86\\e1r6232.inf"
+      ]
+    }
+  ],
   "components": {}
 }

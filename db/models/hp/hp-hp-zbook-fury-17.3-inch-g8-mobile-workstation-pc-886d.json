@@ -53,6 +53,18 @@
       "release_date": "9/27/2022 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook Fury G8 Windows 11 Driver Pack",
+      "version": "2.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142669.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

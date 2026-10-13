@@ -85,6 +85,28 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteBook 840r G4 Win 10 x64 Driver Pack",
+      "version": "12.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114232.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteBook 840r G4 Win 10 x64 Driver Pack",
+      "version": "5.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95451.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

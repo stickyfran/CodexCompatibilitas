@@ -33,6 +33,18 @@
       "release_date": "11/29/2022 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro x360 435 G9 Win 11 Driver Pack",
+      "version": "2.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143501-144000/sp143619.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -54,6 +54,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro x360 Fortis 11 G10 Windows 11 Driver Pack",
+      "version": "4.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158075.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

@@ -43,6 +43,29 @@
       "release_date": "6/24/2022 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProBook x360 11 G6 Win 10 x64 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp134501-135000/sp134540.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProBook x360 11 G6 Win 10 x64 Driver Pack",
+      "version": "1.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101475.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

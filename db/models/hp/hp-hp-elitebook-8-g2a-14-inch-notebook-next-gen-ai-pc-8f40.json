@@ -46,6 +46,28 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EB/ZB 8 G2a NB/MWS Windows 11 Driver Pack",
+      "version": "4.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174518.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EB/ZB 8 G2a NB/MWS Windows 11 Driver Pack",
+      "version": "4.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174518.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

@@ -43,6 +43,29 @@
       "release_date": "8/12/2026 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook Power G11A Mobile Workstation PC Win 10 Driver Pack",
+      "version": "1.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152773.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook Power G11A Mobile Workstation PC Win 11 Driver Pack",
+      "version": "3.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160214.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

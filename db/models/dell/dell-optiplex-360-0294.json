@@ -221,6 +221,184 @@
       "hardware_ids": [
         "360\\xp\\x86\\communication\\R189668\\del200fk.inf"
       ]
+    },
+    {
+      "category": "video",
+      "name": "RADEON HD 2400 PRO",
+      "version": "8.49WHQLed-080409a-063306C-Dell_XP3264",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R186683",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Integrated Controller,59XX 10/100 Ethernet Controller",
+      "version": "XP v11.17 Vista v11.21.0.0",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R192772",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "360\\xp\\x86\\network\\R192772\\win2k_xp\\k57win32.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.1.0.1007",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R205428",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "360\\xp\\x86\\chipset\\R205428\\all\\2008s4el.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\5000xzvp.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\5400.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\852.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\855.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\865.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\915.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\915m.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\945.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\945gm.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\965g.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\965m.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\dmi_pci.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\e5100.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\e7220.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\e7230.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\e7300.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\e7520.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\e8500.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\esb2id2.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\esb2ide.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\esb2usb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\g33q35.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich5core.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich5id2.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich5ide.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich5usb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich6core.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich6id2.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich6ide.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich6usb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich7core.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich7id2.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich7ide.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich7usb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich8core.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich8id2.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich8ide.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich8smb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich8usb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich9core.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich9id2.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich9ide.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich9smb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ich9usb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ichacore.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ichaid2.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ichaide.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ichasmb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ichausb.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ichxdev.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\intelcpu.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\intelioh.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\ioatdma.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\pm45gm45.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\qd3nodrv.inf",
+        "360\\xp\\x86\\chipset\\R205428\\all\\whed_dev.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "5721C1 NetXtreme Gigabit Ethernet PCI-E",
+      "version": "XP v10.85 Vista v10.100.0.0",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R192771",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "360\\xp\\x86\\network\\R192771\\win2k_xp\\b57win32.inf",
+        "360\\xp\\x86\\network\\R192771\\dos\\ndis2\\oemsetup.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "ADI 198x Integrated HD Audio",
+      "version": "5.10.x.5850",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R192825",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "360\\xp\\x86\\audio\\R192825\\i386\\smaxwdm\\w2k_xp\\adihdaud.inf",
+        "360\\xp\\x86\\audio\\R192825\\i386\\layout.bin"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Radeon HD3450 256M",
+      "version": "8.561.0.0",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R206482",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "360\\xp\\x86\\video\\R206482\\cx_67419.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "G31/G33/Q33/Q35 Graphics Controller",
+      "version": "6.14.10.4957",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R205648",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "360\\xp\\x86\\video\\R205648\\14986.inf",
+        "360\\xp\\x86\\video\\R205648\\intchdmi.inf",
+        "360\\xp\\x86\\video\\R205648\\igcompkrng500.bin",
+        "360\\xp\\x86\\video\\R205648\\igkrng400.bin",
+        "360\\xp\\x86\\video\\R205648\\igkrng500.bin"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "GeForce 9300GE",
+      "version": "6.14.11.7542",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R206948",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "360\\xp\\x86\\video\\R206948\\nvdd.inf",
+        "360\\xp\\x86\\video\\R206948\\layout.bin"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "56K V.9x DFVc Modem,D850 56K V.9X PCI DF Modem ULD",
+      "version": "Drv_xp32_7.74.00.00",
+      "url": "dell-pack://360-xp-A02-80W4K.xml/R189668",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "360\\xp\\x86\\communication\\R189668\\del200fk.inf"
+      ]
     }
   ],
   "components": {}

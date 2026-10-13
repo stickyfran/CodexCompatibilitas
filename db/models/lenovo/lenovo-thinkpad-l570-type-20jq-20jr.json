@@ -103,6 +103,95 @@
       "release_date": "2021-05-31"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l570_w1064_1709_201803.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l570_w1064_1803_201809.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l570_w1064_1809_201903.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l570_w1064_1903_201909.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l570_w1064_1909_201912.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l570_w1064_2004_202012.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l570_w1064_20h2_202011.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l570_w1064_21h1_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -95,6 +95,50 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook x2 G4 Win10 x64 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95452.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook x2 G4 Win10 x64 Driver Pack",
+      "version": "10.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100225.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook x2 G4 Win10 x64 Driver Pack",
+      "version": "11.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105759.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook x2 G4 Win10 x64 Driver Pack",
+      "version": "12.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112035.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

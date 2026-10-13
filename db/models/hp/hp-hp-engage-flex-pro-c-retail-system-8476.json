@@ -124,6 +124,28 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "version": "5.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99578.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Engage Flex Pro G1 IoT10 2019 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144660.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

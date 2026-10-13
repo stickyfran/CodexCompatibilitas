@@ -208,6 +208,161 @@
         "3011\\win8\\x64\\video\\C2M5D_A00-00\\windows8-x64\\display\\c8152677.inf",
         "3011\\win8\\x64\\video\\C2M5D_A00-00\\windows8-x64\\amdkmpfd\\amdkmpfd.inf"
       ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540 Half MiniCard;Dell Wireless DW1540 WiFi",
+      "version": "A00",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/M0D48_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\network\\M0D48_A01-00\\drivers\\bcmwl63.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek LAN RTL8151GD",
+      "version": "2.0.0.3",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/YWN7R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\network\\YWN7R_A00-00\\win8\\ndis6\\64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 2000/2500/3000/4000;Intel HD Graphics 4000;Intel HD, HD Graphics 2000/2500/3000/4000;Intel HD Graphics 2000/3000/4000;Intel HD Graphics 2000/3000;Intel HD, HD 2000/2500/3000/4000",
+      "version": "9.17.10.3040",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/7VMTY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\video\\7VMTY_A00-00\\windows8-x64\\intcdaud.inf\\intcdaud.inf",
+        "3011\\win8\\x64\\video\\7VMTY_A00-00\\windows8-x64\\3040-64.inf\\3040-64.inf",
+        "3011\\win8\\x64\\video\\7VMTY_A00-00\\windows8-x64\\3040-64.inf\\igcodeckrng600.bin",
+        "3011\\win8\\x64\\video\\7VMTY_A00-00\\windows8-x64\\3040-64.inf\\igcodeckrng700.bin",
+        "3011\\win8\\x64\\video\\7VMTY_A00-00\\windows8-x64\\3040-64.inf\\igvpkrng600.bin",
+        "3011\\win8\\x64\\video\\7VMTY_A00-00\\windows8-x64\\3040-64.inf\\igvpkrng700.bin"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Encryption",
+      "version": "v8.4.0",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/948DT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\security\\948DT_A00-00\\vfp\\wbf_vfs_003f.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\touchchip4wbf\\dptcdrvx64\\tcwbfadv.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\o2micro\\win8x64\\oz776x64.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\gpe\\st7007.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\fpsensor\\x64\\atswpwdf.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\esrg\\64bits\\gemccid.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\esr\\64bits\\gkupro2d.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\ushwbfdrv\\ushwbfdrv.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\cv\\cvusbdrv.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\ccid\\ccidflt64v.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\cv\\x64\\bcmccid\\bcmccid.inf",
+        "3011\\win8\\x64\\security\\948DT_A00-00\\authentec\\x64\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC 3226 High Definition Audio Codec;Realtek ALC3220 High Definition Audio Codec",
+      "version": "6.0.1.6027",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/26FF1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\audio\\26FF1_A00-00\\windows8-x64\\hdxadc.inf",
+        "3011\\win8\\x64\\audio\\26FF1_A00-00\\windows8-x64\\hdxadcma.inf",
+        "3011\\win8\\x64\\audio\\26FF1_A00-00\\windows8-x64\\hdxadcmax6.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Access",
+      "version": "2.3.00002.041",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/63FXG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\security\\63FXG_A00-00\\wave infrastructure\\waveminidriver.inf",
+        "3011\\win8\\x64\\security\\63FXG_A00-00\\wave infrastructure\\wavesmartcarddriver.inf",
+        "3011\\win8\\x64\\security\\63FXG_A00-00\\preboot\\hapi64\\dcdbas64.inf",
+        "3011\\win8\\x64\\security\\63FXG_A00-00\\aes2810\\atswpwdf.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology",
+      "version": "12.0.0.1082",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/4KC55_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\storage\\4KC55_A00-00\\win8x64\\extracted\\iaahcic.inf",
+        "3011\\win8\\x64\\storage\\4KC55_A00-00\\win8x64\\extracted\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer;Intel Management Engine 9.x Components Installer;Intel Management Engine 9.5 Components Installer;Intel Management Engine 8.x Components Installer;Intel Unified AMT 8.1 WS Management Interface;Intel Management Engine 8.x Components;Intel Management Engine 8.0 Components Installer",
+      "version": "9.5.15.1730",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/GJVHD_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\chipset\\GJVHD_A02-00\\win8x64\\win8x64\\mesrl.inf\\mesrl.inf",
+        "3011\\win8\\x64\\chipset\\GJVHD_A02-00\\win8x64\\win8x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Smart Connect Technology",
+      "version": "5.0.10.2848",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/50C42_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\chipset\\50C42_A00-00\\driver\\x64\\isctd.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD8490",
+      "version": "12.100.18",
+      "url": "dell-pack://3011-win8-A05-WJ53M.xml/C2M5D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3011\\win8\\x64\\video\\C2M5D_A00-00\\windows8-x64\\wdm\\hdmice\\atihdw86.inf",
+        "3011\\win8\\x64\\video\\C2M5D_A00-00\\windows8-x64\\display\\c8152677.inf",
+        "3011\\win8\\x64\\video\\C2M5D_A00-00\\windows8-x64\\amdkmpfd\\amdkmpfd.inf"
+      ]
     }
   ],
   "components": {}

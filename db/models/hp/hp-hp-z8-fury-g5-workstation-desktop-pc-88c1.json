@@ -43,6 +43,29 @@
       "release_date": "5/20/2025 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Z4 G5, Z6 G5, Z8 G5 Windows 11 x64 Driver Pack",
+      "version": "12.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158929.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Z4 G5, Z6 G5, Z8 G5 Windows 11 x64 Driver Pack",
+      "version": "11.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155501-156000/sp155856.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

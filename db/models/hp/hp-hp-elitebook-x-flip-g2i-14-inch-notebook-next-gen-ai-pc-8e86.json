@@ -23,6 +23,18 @@
       "release_date": "8/17/2026 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteBook G2i Windows 11 Driver Pack",
+      "version": "4.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp172501-173000/sp172736.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

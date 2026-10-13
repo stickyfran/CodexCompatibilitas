@@ -33,6 +33,51 @@
       "release_date": "2021-05-26"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l470_w1064_202011.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/TP_L470_W1064_21H1_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l470_w1064_202011.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/TP_L470_W1064_21H1_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

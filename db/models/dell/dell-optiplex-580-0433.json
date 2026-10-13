@@ -43,6 +43,190 @@
       "release_date": "2014-05-15T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "video",
+      "name": "AMD Radeon HD4670 512MB DDR3 (Dual DVI)",
+      "version": "8.563.0.0000",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/YR6XR_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\video\\YR6XR_A05-00\\payload\\hdaudiodrv\\hdaudio\\xp64a\\atihdaud.inf",
+        "580\\xp\\x86\\video\\YR6XR_A05-00\\payload\\hdaudiodrv\\hdaudio\\xp\\atihdaud.inf",
+        "580\\xp\\x86\\video\\YR6XR_A05-00\\payload\\driver\\xp_inf\\cx_74892.inf",
+        "580\\xp\\x86\\video\\YR6XR_A05-00\\payload\\driver\\xp6a_inf\\ca_74892.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Radeon HD3470 256M",
+      "version": "8.83",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/R301335",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\video\\R301335\\packages\\drivers\\display\\xp_inf\\cx115078.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC269 HD Audio",
+      "version": "5875",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/1V10W_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\audio\\1V10W_A01-00\\realtek hd audio\\xp-x86\\hdaadc.inf",
+        "580\\xp\\x86\\audio\\1V10W_A01-00\\realtek hd audio\\xp-x86\\hdxadc.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "LiteOn KeyBoard Driver",
+      "version": "4.0.8.5",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/207T0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\input\\207T0_A00-00\\32bits\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1505 Draft 802.11n WLAN Mini Card Desktops;KIT,CRD,NTWK,DOC,ANT,SCR,ASSY",
+      "version": "5.10.79.14",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/4JMJ7_A25-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\network\\4JMJ7_A25-00\\driver_us\\bcmwl5.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 9300GE;nVIDIA GeForce 9300GE Graphics",
+      "version": "6.14.11.9141",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/FMNXC_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\video\\FMNXC_A06-00\\payload\\nvdd.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC",
+      "version": "16.4.0",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/YMHGV_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\network\\YMHGV_A07-00\\xp-x86\\b57win32.inf",
+        "580\\xp\\x86\\network\\YMHGV_A07-00\\xp-x86\\k57win32.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "AMD Chipset driver",
+      "version": "1.3.1.49/5.10.1000.8",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/R5RWR_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\chipset\\R5RWR_A02-00\\packages\\drivers\\sbdrv\\filter\\nb\\lh64a\\atipcie.inf",
+        "580\\xp\\x86\\chipset\\R5RWR_A02-00\\packages\\drivers\\sbdrv\\filter\\nb\\lh\\atipcie.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Graphic Driver",
+      "version": "8.663 WHQL",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/HKYVK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\video\\HKYVK_A00-00\\sbdrv\\smbus\\smbusati.inf",
+        "580\\xp\\x86\\video\\HKYVK_A00-00\\driver\\xp_inf\\cx_90514.inf",
+        "580\\xp\\x86\\video\\HKYVK_A00-00\\driver\\xp6a_inf\\ca_90514.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Access;Dell Data Protection | Access -- Driver Package",
+      "version": "2.01.018",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/VX3FH_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\security\\VX3FH_A03-00\\upek fprdr\\drivers\\tcusb.inf",
+        "580\\xp\\x86\\security\\VX3FH_A03-00\\stmicro tpm\\tpmdrv\\tpmdrv.inf",
+        "580\\xp\\x86\\security\\VX3FH_A03-00\\gemccid\\gemccid.inf",
+        "580\\xp\\x86\\security\\VX3FH_A03-00\\dell smrtcrd\\gkupro2d.inf",
+        "580\\xp\\x86\\security\\VX3FH_A03-00\\dell pba dd\\pbadrv.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "AMD AHCI/RAID Driver",
+      "version": "3.2.1540.14",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/9V0W5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\storage\\9V0W5_A00-00\\x86\\ahcix86.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "AMD Chipset Driver",
+      "version": "1.3.1.49/5.10.1000.8",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/4XMR0_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\chipset\\4XMR0_A01-00\\packages\\drivers\\sbdrv\\smbus\\xp\\smbusati.inf",
+        "580\\xp\\x86\\chipset\\4XMR0_A01-00\\packages\\drivers\\sbdrv\\filter\\nb\\lh64a\\atipcie.inf",
+        "580\\xp\\x86\\chipset\\4XMR0_A01-00\\packages\\drivers\\sbdrv\\filter\\nb\\lh\\atipcie.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA NVS 420 Graphics",
+      "version": "6.14.11.7899",
+      "url": "dell-pack://580-xp-A06-M24NX.xml/R5CH8_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "580\\xp\\x86\\video\\R5CH8_A07-00\\payload\\nvdw.inf"
+      ]
+    }
+  ],
   "components": {}
 }

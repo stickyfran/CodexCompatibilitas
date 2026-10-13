@@ -43,6 +43,18 @@
       "release_date": "8/12/2026 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ZBook Firefly/Elite x360 8x0 G11 Windows 11 Driver Pack",
+      "version": "7.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160042.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

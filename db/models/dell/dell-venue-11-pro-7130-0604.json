@@ -33,6 +33,673 @@
       "release_date": "2016-02-22T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel 8 Series Chipset Device Software Driver",
+      "version": "9.4.0.1027",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/3664N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cdvcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\centcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\centsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\centurt.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\couide2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cryswell.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-ahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-cor.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-id2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-ide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-me.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-smb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-usb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\haswell.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ich78id2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ich78ide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ich78usb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ich7core.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\intelcp2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\intelioh.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ivybridg.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ivytown.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\jaketown.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\jasperfo.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpsens.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpthrm.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpusb3.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptusb3.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\nehalmex.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantusb3.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\tcreek.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\tcrkahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\tcrksd.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\tcrkusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\whtpi2c.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\whtpi2c2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\whtpoint.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\whtptsd.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\wptahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\wptusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Rapid Start Technology",
+      "version": "3.0.0.1053",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/KVKKW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\KVKKW_A00-00\\drivers\\irstrtdv.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO driver",
+      "version": "1.1.165.0",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/N1FCG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart2\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart2\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart2\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart2\\ialpss_uart2.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart\\ialpss_uart.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_uart.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_uart2.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_uart.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_uart2.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_uart.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_uart2.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/FGGYJ_A17-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\video\\FGGYJ_A17-00\\drivers\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "7130\\win8.1\\x64\\video\\FGGYJ_A17-00\\drivers\\64-4280.inf\\64-4280.inf",
+        "7130\\win8.1\\x64\\video\\FGGYJ_A17-00\\drivers\\64-4280.inf\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\17H49_A00-00\\driver\\isctd.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1537 WiFi/BT Driver",
+      "version": "3.7.2.59",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/7NTPT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\network\\7NTPT_A00-00\\wlan-driver\\ar6knwfx81.inf",
+        "7130\\win8.1\\x64\\network\\7NTPT_A00-00\\wlan-driver\\ar6004v3_0fw.bin",
+        "7130\\win8.1\\x64\\network\\7NTPT_A00-00\\wlan-driver\\boarddatav3_0.bin",
+        "7130\\win8.1\\x64\\network\\7NTPT_A00-00\\wlan-driver\\boarddata_cus251-711_v92.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2Micro OZ77CR6 Smartcard Driver",
+      "version": "1.1.4.244",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/5JWV9_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\5JWV9_A06-00\\drivers\\oz776x64.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Intel/NXP Near Field Communications Driver",
+      "version": "6.5.11.0",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/CGWNF_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\communication\\CGWNF_A03-00\\drivers\\nxpnfpprovider_win8.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/X15C9_A12-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwbw02.inf",
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwew00.inf",
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwew01.inf",
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwsw00.inf",
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Validity FingerPrint Reader 495 Driver",
+      "version": "4.5.233.0",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/NYYYN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\security\\NYYYN_A00-00\\drivers\\wbf_vfs_003f.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "9.5.15.1730",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/GJVHD_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\GJVHD_A02-00\\mesrl\\mesrl.inf",
+        "7130\\win8.1\\x64\\chipset\\GJVHD_A02-00\\heci\\heci.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.4.1000",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/D60VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win8.1x64\\drivers\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win8.1x64\\drivers\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x86\\production\\windows7-x86\\iastorac.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x86\\production\\windows7-x86\\iastorac.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x86\\production\\windows7-x86\\iaahcic.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x86\\production\\windows7-x86\\iaahcic.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x64\\production\\windows7-x64\\iastorac.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x64\\production\\windows7-x64\\iastorac.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x64\\production\\windows7-x64\\iaahcic.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x64\\production\\windows7-x64\\iaahcic.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x86\\drivers\\iastorac.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x86\\drivers\\iastorac.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x86\\drivers\\iaahcic.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x86\\drivers\\iaahcic.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x64\\drivers\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x64\\drivers\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons driver",
+      "version": "1.0.0.13",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/CXWWX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\CXWWX_A00-00\\drivers\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808e (DW5808e) LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.19.4382.502",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/FXRMY_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swg3kmdm05.inf",
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swg3knm05.inf",
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swg3kser05.inf",
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swlocrm.inf",
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swsfnode05.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.38",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/VX3YR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\VX3YR_A00-00\\drivers\\o2fj2w8x64.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.7399",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/47P33_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\audio\\47P33_A00-00\\windows8.1-x64\\hdxdbc.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel 8 Series Chipset Device Software Driver",
+      "version": "9.4.0.1027",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/3664N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cdvcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\centcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\centsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\centurt.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cougusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\couide2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\cryswell.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-ahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-cor.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-id2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-ide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-me.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-smb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\dh89xxcc-usb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\haswell.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ibexusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ich78id2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ich78ide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ich78usb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ich7core.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\intelcp2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\intelioh.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ivybridg.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\ivytown.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\jaketown.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\jasperfo.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpsens.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpthrm.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxlpusb3.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\lxptusb3.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\nehalmex.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\pantusb3.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patcore.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patid2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patide.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patsmb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\patusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\tcreek.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\tcrkahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\tcrksd.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\tcrkusb.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\whtpi2c.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\whtpi2c2.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\whtpoint.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\whtptsd.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\wptahci.inf",
+        "7130\\win8.1\\x64\\chipset\\3664N_A00-00\\drivers\\wptusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Rapid Start Technology",
+      "version": "3.0.0.1053",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/KVKKW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\KVKKW_A00-00\\drivers\\irstrtdv.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO driver",
+      "version": "1.1.165.0",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/N1FCG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart2\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart2\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart2\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart2\\ialpss_uart2.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_uart\\ialpss_uart.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_uart.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_spi\\ialpss_uart2.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_uart.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_i2c\\ialpss_uart2.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_gpio.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_i2c.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_spi.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_uart.inf",
+        "7130\\win8.1\\x64\\chipset\\N1FCG_A00-00\\windows8.1-x64\\ialpss_gpio\\ialpss_uart2.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/FGGYJ_A17-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\video\\FGGYJ_A17-00\\drivers\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "7130\\win8.1\\x64\\video\\FGGYJ_A17-00\\drivers\\64-4280.inf\\64-4280.inf",
+        "7130\\win8.1\\x64\\video\\FGGYJ_A17-00\\drivers\\64-4280.inf\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\17H49_A00-00\\driver\\isctd.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1537 WiFi/BT Driver",
+      "version": "3.7.2.59",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/7NTPT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\network\\7NTPT_A00-00\\wlan-driver\\ar6knwfx81.inf",
+        "7130\\win8.1\\x64\\network\\7NTPT_A00-00\\wlan-driver\\ar6004v3_0fw.bin",
+        "7130\\win8.1\\x64\\network\\7NTPT_A00-00\\wlan-driver\\boarddatav3_0.bin",
+        "7130\\win8.1\\x64\\network\\7NTPT_A00-00\\wlan-driver\\boarddata_cus251-711_v92.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2Micro OZ77CR6 Smartcard Driver",
+      "version": "1.1.4.244",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/5JWV9_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\5JWV9_A06-00\\drivers\\oz776x64.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Intel/NXP Near Field Communications Driver",
+      "version": "6.5.11.0",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/CGWNF_A03-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\communication\\CGWNF_A03-00\\drivers\\nxpnfpprovider_win8.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/X15C9_A12-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwbw02.inf",
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwew00.inf",
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwew01.inf",
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwsw00.inf",
+        "7130\\win8.1\\x64\\network\\X15C9_A12-00\\drivers\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Validity FingerPrint Reader 495 Driver",
+      "version": "4.5.233.0",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/NYYYN_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\security\\NYYYN_A00-00\\drivers\\wbf_vfs_003f.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "9.5.15.1730",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/GJVHD_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\GJVHD_A02-00\\mesrl\\mesrl.inf",
+        "7130\\win8.1\\x64\\chipset\\GJVHD_A02-00\\heci\\heci.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.4.1000",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/D60VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win8.1x64\\drivers\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win8.1x64\\drivers\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x86\\production\\windows7-x86\\iastorac.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x86\\production\\windows7-x86\\iastorac.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x86\\production\\windows7-x86\\iaahcic.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x86\\production\\windows7-x86\\iaahcic.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x64\\production\\windows7-x64\\iastorac.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x64\\production\\windows7-x64\\iastorac.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x64\\production\\windows7-x64\\iaahcic.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win7x64\\production\\windows7-x64\\iaahcic.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x86\\drivers\\iastorac.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x86\\drivers\\iastorac.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x86\\drivers\\iaahcic.inf\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x86\\drivers\\iaahcic.inf\\iastorac.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x64\\drivers\\iaahcic.inf",
+        "7130\\win8.1\\x64\\storage\\D60VM_A00-00\\win10x64\\drivers\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons driver",
+      "version": "1.0.0.13",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/CXWWX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\CXWWX_A00-00\\drivers\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5808e (DW5808e) LTE Mobile Broadband Driver and GNSS (GPS) Driver",
+      "version": "6.19.4382.502",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/FXRMY_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swg3kmdm05.inf",
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swg3knm05.inf",
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swg3kser05.inf",
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swlocrm.inf",
+        "7130\\win8.1\\x64\\communication\\FXRMY_A07-00\\drivers\\swsfnode05.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.38",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/VX3YR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\chipset\\VX3YR_A00-00\\drivers\\o2fj2w8x64.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.7399",
+      "url": "dell-pack://7130-win8.1-A07-JCPDX.xml/47P33_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7130\\win8.1\\x64\\audio\\47P33_A00-00\\windows8.1-x64\\hdxdbc.inf"
+      ]
+    }
+  ],
   "components": {}
 }

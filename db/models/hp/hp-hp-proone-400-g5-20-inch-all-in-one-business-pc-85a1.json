@@ -64,6 +64,73 @@
       "release_date": "6/23/2021 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "version": "8.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114248.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "version": "5.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp109001-109500/sp109028.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "version": "2.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99589.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "version": "8.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114248.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "version": "5.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp109001-109500/sp109028.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "version": "2.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99589.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

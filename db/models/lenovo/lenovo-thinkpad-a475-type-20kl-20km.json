@@ -103,6 +103,106 @@
       "release_date": "2021-05-21"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "driver",
+      "name": "Software name",
+      "version": "Build ID",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_a475_w1064_202105.txt",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

@@ -43,6 +43,18 @@
       "release_date": "5/20/2025 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Z6 G5 A Windows 10",
+      "version": "1.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150537.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

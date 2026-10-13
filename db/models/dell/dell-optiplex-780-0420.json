@@ -43,6 +43,383 @@
       "release_date": "2014-05-15T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC",
+      "version": "16.4.0",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/YMHGV_A07-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\network\\YMHGV_A07-00\\xp-x86\\b57win32.inf",
+        "780\\xp\\x86\\network\\YMHGV_A07-00\\xp-x86\\k57win32.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 4500MHD;Intel GM45/GE45/GS45 UMA Graphics for Envy;Intel(R) 4 Series Express Chipset Family;Intel 4500MHD Graphics;Intel 4500HD Graphics;Intel GMA 4500MHD Graphics",
+      "version": "6.14.10.5420",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/MXYGW_A15-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\autorun.inf",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\iips\\impcd.inf",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\ibxhdmi\\intcdaud.inf",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\hdmi\\intchdmi.inf",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\graphics\\k5420d3v.inf",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\graphics\\igcompkrng500.bin",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\graphics\\igcompkrng575.bin",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\graphics\\igkrng400.bin",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\graphics\\igkrng500.bin",
+        "780\\xp\\x86\\video\\MXYGW_A15-00\\graphics\\igkrng575.bin"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 9300GE;nVIDIA GeForce 9300GE Graphics",
+      "version": "6.14.11.9141",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/FMNXC_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\video\\FMNXC_A06-00\\payload\\nvdd.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "CA-400 Enhanced 19-1 Card Reader",
+      "version": "1001",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/R264564",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\input\\R264564\\100319\\bin\\teac_cr.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GT330",
+      "version": "6.14.11.9114",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/M51PH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\video\\M51PH_A00-00\\payload\\hdaudio\\nvhda.inf",
+        "780\\xp\\x86\\video\\M51PH_A00-00\\payload\\display\\nvdd.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology (Pre-OS Install);Intel Matrix Storage Manager - Notebooks;Intel Rapid Storage Technology",
+      "version": "9.6.0.1014",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/RRGGD_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\storage\\RRGGD_A04-00\\iaahci.inf",
+        "780\\xp\\x86\\storage\\RRGGD_A04-00\\iastor.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1030",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/R302424",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\chipset\\R302424\\all\\2008s4el.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\5000xzvp.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\5400.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\852.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\855.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\865.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\915.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\915m.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\945.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\945gm.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\965g.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\965m.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\cougahci.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\cougcore.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\cougheci.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\cougide.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\cougme.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\cougsmb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\cougusb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\e5100.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\e7220.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\e7230.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\e7300.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\e7520.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\e8500.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\esb2id2.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\esb2ide.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\esb2usb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\g33q35.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ibexahci.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ibexcore.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ibexid2.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ibexide.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ibexsmb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ibexusb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich5core.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich5id2.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich5ide.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich5usb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich6core.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich6id2.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich6ide.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich6usb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich78id2.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich78ide.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich78usb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich7core.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich8core.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich9core.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ich9usb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ichacore.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ichausb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ichxdev.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\intelcp2.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\intelcpu.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\intelioh.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\ioatdma.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\jasperfo.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\nehalmex.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\pm45gm45.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\qd3nodrv.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\snb2009.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\tcreek.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\tcrkahci.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\tcrksd.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\tcrkusb.inf",
+        "780\\xp\\x86\\chipset\\R302424\\all\\whed_dev.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD6450(1G DDR3);AMD Radeon HD6450 (1G DDR3)",
+      "version": "8.863.0",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/KXVDP_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\video\\KXVDP_A02-00\\packages\\drivers\\wdm\\hdmi\\xp\\atihdxp3.inf",
+        "780\\xp\\x86\\video\\KXVDP_A02-00\\packages\\drivers\\display\\xp_inf\\cx122547.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "ZTE IC Trusted Cryptography Module(TCM);ZTE IC Trusted Cryptography Module (TCM)",
+      "version": "05/04/2009,2.1.5.04",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/HK8TV_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\security\\HK8TV_A01-00\\zteic tcm\\tcm.inf"
+      ]
+    },
+    {
+      "category": "controlpoint",
+      "name": "ASSY,BASE,NBK,LAT,E6510,EM,C1;ASSY,BASE,NBK,I,DTP,P,E6410,C2;ASSY,BASE,NBK,I,DTP,P,E6410,C3;Dell ControlPoint Security Device Driver Pack;ASSY,BASE,NBK,L13,FCG01,UK",
+      "version": "1.4.055",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/0KRP3_A18-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\controlpoint\\0KRP3_A18-00\\upek\\drivers\\tcusb.inf",
+        "780\\xp\\x86\\controlpoint\\0KRP3_A18-00\\stmicrotpm\\tpmdrv\\tpmdrv.inf",
+        "780\\xp\\x86\\controlpoint\\0KRP3_A18-00\\pba\\pbadrv.inf",
+        "780\\xp\\x86\\controlpoint\\0KRP3_A18-00\\dellsmrtcrd\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "825xx Gigabit Platform LAN Network Device",
+      "version": "11.6.92.0",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/R290983",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\network\\R290983\\xp-x86\\e1k5132.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel AMT HECI",
+      "version": "5.2.10.1023 PV",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/T4XFW_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\chipset\\T4XFW_A02-00\\mei\\heci.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Radeon HD3470 256M",
+      "version": "8.83",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/R301335",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\video\\R301335\\packages\\drivers\\wdm\\hdmi\\xp64a\\atihdxp6.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD3450 256M",
+      "version": "8.680.0.0000",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/1KWRY_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\video\\1KWRY_A08-00\\payload\\packages\\drivers\\wdm\\hdmi\\xp64a\\atihdaud.inf",
+        "780\\xp\\x86\\video\\1KWRY_A08-00\\payload\\packages\\drivers\\wdm\\hdmi\\xp\\atihdaud.inf",
+        "780\\xp\\x86\\video\\1KWRY_A08-00\\payload\\packages\\drivers\\display\\xp_inf\\cx_92617.inf",
+        "780\\xp\\x86\\video\\1KWRY_A08-00\\payload\\packages\\drivers\\display\\xp6a_inf\\ca_92617.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA NVS 420 Graphics",
+      "version": "6.14.11.9175",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/JD1K5_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\video\\JD1K5_A08-00\\payload\\nvdw.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD3470 256M",
+      "version": "8.951",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/K7D7M_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\video\\K7D7M_A01-00\\extracted\\packages\\drivers\\wdm\\hdmi\\xp64a\\atihdxp6.inf",
+        "780\\xp\\x86\\video\\K7D7M_A01-00\\extracted\\packages\\drivers\\wdm\\hdmi\\xp\\atihdxp3.inf",
+        "780\\xp\\x86\\video\\K7D7M_A01-00\\extracted\\packages\\drivers\\display\\xp_inf\\cx139111.inf",
+        "780\\xp\\x86\\video\\K7D7M_A01-00\\extracted\\packages\\drivers\\display\\xp6a_inf\\ca139111.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1505 Draft 802.11n WLAN Mini Card Desktops;Dell Wireless 1520 802.11n MiniCard WLAN;Dell Wireless 1520 802.11n PCIe WLAN for Desktops;Dell Wireless WLAN 1510 Half MiniCard (4322);ASSY,CRD,NTWK,WRLES,DW1520,DT;KIT,CRD,NTWK,DOC,ANT,SCR,ASSY",
+      "version": "A32",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/P80FY_A32-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\network\\P80FY_A32-00\\disk1\\driver_us\\bcmwl5.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "ADI 198x Integrated HD Audio",
+      "version": "5.10.1.7270",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/R282894",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\audio\\R282894\\payload\\i386\\smaxwdm\\w2k_xp\\adihdaud.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "LiteOn KeyBoard Driver",
+      "version": "4.0.8.5",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/207T0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\input\\207T0_A00-00\\32bits\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "v92 Internal Modem;Conexant D850 PCI DF Modem ULD; V92 Lead Free (Cher);Conexant D850 56K V.9X PCI DF Modem ULD;56K V.9x DFVc Modem",
+      "version": "Drv_xp32_7.74.00.00-A",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/6CGJX_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\communication\\6CGJX_A06-00\\del200fk.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "This package provides the Intel Serial Over LAN/Local Management Service Driver and is supported on OptiPlex 760/980/755/780/780USFF/960 that are running the following Windows Operating Systems: XP, Windows 7 and Windows 8.",
+      "version": "5.2.70.1046",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/YFVJY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\chipset\\YFVJY_A00-00\\solinf\\mesrl.inf",
+        "780\\xp\\x86\\chipset\\YFVJY_A00-00\\solinf\\mesrle.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Broadcom BCM95722 PCI-E NIC;Broadcom BCM95721A211 C1 Lead Free PCI-e NIC;Broadcom 5721C1 NetXtreme Gigabit Ethernet PCI-E",
+      "version": "14.1.0",
+      "url": "dell-pack://780-xp-A11-XH1XW.xml/WMDY8_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "780\\xp\\x86\\network\\WMDY8_A04-00\\xp\\b57win32.inf",
+        "780\\xp\\x86\\network\\WMDY8_A04-00\\xp\\k57win32.inf"
+      ]
+    }
+  ],
   "components": {}
 }

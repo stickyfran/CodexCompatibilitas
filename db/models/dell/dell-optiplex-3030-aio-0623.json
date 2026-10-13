@@ -371,6 +371,334 @@
         "3030 AIO\\win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
         "3030 AIO\\win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf"
       ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "5.0.10.2848",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/50C42_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\chipset\\50C42_A00-00\\win8.1x86\\driver\\x86\\isctd.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.34",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/4Y1R8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\chipset\\4Y1R8_A00-00\\windows8.1-x86\\o2fj2w8.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe GBE Family Controller Driver",
+      "version": "2.4.2014.806",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/7TRHR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\network\\7TRHR_A00-00\\windows8.1-x86\\rt630x86.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer Driver",
+      "version": "10.0.2.1000",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/KTGFH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\chipset\\KTGFH_A00-00\\windows8.1-x86\\heci.inf\\heci.inf",
+        "3030 AIO\\win8.1\\x86\\chipset\\KTGFH_A00-00\\windows8.1-x86\\heci.inf\\mesrl.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\security\\9NMJ4_A11-00\\vfp\\wbf_003f_drv\\wbf_vfs_003f.inf",
+        "3030 AIO\\win8.1\\x86\\security\\9NMJ4_A11-00\\o2\\oz776\\win8.1\\oz776.inf",
+        "3030 AIO\\win8.1\\x86\\security\\9NMJ4_A11-00\\gpe\\st7007.inf",
+        "3030 AIO\\win8.1\\x86\\security\\9NMJ4_A11-00\\esr\\32bits\\gkupro2d.inf",
+        "3030 AIO\\win8.1\\x86\\security\\9NMJ4_A11-00\\dell\\touchchip4wbf\\x32\\dptcdrv\\tcwbfadv.inf",
+        "3030 AIO\\win8.1\\x86\\security\\9NMJ4_A11-00\\dell\\esrg\\32bits\\gemccid.inf",
+        "3030 AIO\\win8.1\\x86\\security\\9NMJ4_A11-00\\dell\\aes2810wbf\\x86\\drivers\\atswpwdf.inf",
+        "3030 AIO\\win8.1\\x86\\security\\9NMJ4_A11-00\\aes850fp\\x86\\authentec\\drivers\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.13",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/TH57N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\chipset\\TH57N_A00-00\\win8.1x86\\windows8.1-x86\\chipset_smbus.inf",
+        "3030 AIO\\win8.1\\x86\\chipset\\TH57N_A00-00\\win8.1x86\\windows8.1-x86\\chipset_system.inf",
+        "3030 AIO\\win8.1\\x86\\chipset\\TH57N_A00-00\\win8.1x86\\windows8.1-x86\\chipset_thermal.inf",
+        "3030 AIO\\win8.1\\x86\\chipset\\TH57N_A00-00\\win8.1x86\\windows8.1-x86\\chipset_usb.inf",
+        "3030 AIO\\win8.1\\x86\\chipset\\TH57N_A00-00\\win8.1x86\\windows8.1-x86\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R5 A240 Series Driver",
+      "version": "13.251.8",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/VJR79_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\video\\VJR79_A00-00\\windows8.1-x86\\display\\cb174062.inf",
+        "3030 AIO\\win8.1\\x86\\video\\VJR79_A00-00\\windows8.1-x86\\amdkmpfd\\amdkmpfd.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7260 WiFi Driver",
+      "version": "17.0.5.8",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/HD7F4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\network\\HD7F4_A00-00\\windows8.1-x86\\netwbn02.inf",
+        "3030 AIO\\win8.1\\x86\\network\\HD7F4_A00-00\\windows8.1-x86\\netwen00.inf",
+        "3030 AIO\\win8.1\\x86\\network\\HD7F4_A00-00\\windows8.1-x86\\netwsn00.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "1.3.0",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/49XN1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\input\\49XN1_A00-00\\win8.1x86\\windows8.1-x86\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/4K2WK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\video\\4K2WK_A00-00\\win8.1x86\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "3030 AIO\\win8.1\\x86\\video\\4K2WK_A00-00\\win8.1x86\\32-4280.inf\\10.18.14.4280\\32-4280.inf",
+        "3030 AIO\\win8.1\\x86\\video\\4K2WK_A00-00\\win8.1x86\\32-4280.inf\\10.18.14.4280\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek combined High-Definition Audio Driver",
+      "version": "6.0.1.6068",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/4GGVY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x86\\audio\\4GGVY_A00-00\\windows8.1-x86\\usbaudio\\rtkusbad.inf",
+        "3030 AIO\\win8.1\\x86\\audio\\4GGVY_A00-00\\windows8.1-x86\\usbaudio\\rtkusbad2.inf",
+        "3030 AIO\\win8.1\\x86\\audio\\4GGVY_A00-00\\windows8.1-x86\\hdaudio\\hdaadc.inf",
+        "3030 AIO\\win8.1\\x86\\audio\\4GGVY_A00-00\\windows8.1-x86\\hdaudio\\hdaadcma.inf",
+        "3030 AIO\\win8.1\\x86\\audio\\4GGVY_A00-00\\windows8.1-x86\\hdaudio\\hdaadcmax6.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "5.0.10.2848",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/50C42_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\chipset\\50C42_A00-00\\win8.1x64\\win8.1x64\\driver\\isctd.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.34",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/4Y1R8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\chipset\\4Y1R8_A00-00\\win8.1x64\\o2fj2w8x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe GBE Family Controller Driver",
+      "version": "2.4.2014.806",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/7TRHR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\network\\7TRHR_A00-00\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\security\\9NMJ4_A11-00\\vfp\\wbf_003f_drv\\wbf_vfs_003f.inf",
+        "3030 AIO\\win8.1\\x64\\security\\9NMJ4_A11-00\\o2\\oz776\\win8.1x64\\oz776x64.inf",
+        "3030 AIO\\win8.1\\x64\\security\\9NMJ4_A11-00\\gpe\\st7007.inf",
+        "3030 AIO\\win8.1\\x64\\security\\9NMJ4_A11-00\\esr\\64bits\\gkupro2d.inf",
+        "3030 AIO\\win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\touchchip4wbf\\x64\\dptcdrv\\tcwbfadv.inf",
+        "3030 AIO\\win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\esrg\\64bits\\gemccid.inf",
+        "3030 AIO\\win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\aes2810wbf\\x64\\drivers\\atswpwdf.inf",
+        "3030 AIO\\win8.1\\x64\\security\\9NMJ4_A11-00\\aes850fp\\x64\\authentec\\drivers\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.13",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/TH57N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\chipset\\TH57N_A00-00\\win8.1x64\\production\\windows8.1-x64\\chipset_smbus.inf",
+        "3030 AIO\\win8.1\\x64\\chipset\\TH57N_A00-00\\win8.1x64\\production\\windows8.1-x64\\chipset_system.inf",
+        "3030 AIO\\win8.1\\x64\\chipset\\TH57N_A00-00\\win8.1x64\\production\\windows8.1-x64\\chipset_thermal.inf",
+        "3030 AIO\\win8.1\\x64\\chipset\\TH57N_A00-00\\win8.1x64\\production\\windows8.1-x64\\chipset_usb.inf",
+        "3030 AIO\\win8.1\\x64\\chipset\\TH57N_A00-00\\win8.1x64\\production\\windows8.1-x64\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7260 WiFi Driver",
+      "version": "17.0.5.8",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/Y37J5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\network\\Y37J5_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3030 AIO\\win8.1\\x64\\network\\Y37J5_A00-00\\windows8.1-x64\\netwew00.inf",
+        "3030 AIO\\win8.1\\x64\\network\\Y37J5_A00-00\\windows8.1-x64\\netwsw00.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R5 A240 Series Driver",
+      "version": "13.251.8",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/VJR79_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\video\\VJR79_A00-00\\windows8.1-x64\\display\\cu174062.inf",
+        "3030 AIO\\win8.1\\x64\\video\\VJR79_A00-00\\windows8.1-x64\\amdkmpfd\\amdkmpfd.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer Driver",
+      "version": "10.0.2.1000",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/KTGFH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\chipset\\KTGFH_A00-00\\win8.1x64\\heci.inf\\heci.inf",
+        "3030 AIO\\win8.1\\x64\\chipset\\KTGFH_A00-00\\win8.1x64\\heci.inf\\mesrl.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "1.3.0",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/49XN1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\input\\49XN1_A00-00\\windows8.1-x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/FGGYJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "3030 AIO\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\64-4280.inf",
+        "3030 AIO\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek combined High-Definition Audio Driver",
+      "version": "6.0.1.6068",
+      "url": "dell-pack://3030 AIO-win8.1-A07-JP26P.xml/4GGVY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3030 AIO\\win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3030 AIO\\win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3030 AIO\\win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3030 AIO\\win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3030 AIO\\win8.1\\x64\\audio\\4GGVY_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf"
+      ]
     }
   ],
   "components": {}

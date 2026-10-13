@@ -33,6 +33,18 @@
       "release_date": "6/22/2020 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ElitePro 4/6/800 G3 PC Win10 x64 Driver Pack",
+      "version": "15.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93501-94000/sp93539.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

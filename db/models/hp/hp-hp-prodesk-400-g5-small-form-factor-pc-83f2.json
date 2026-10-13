@@ -105,6 +105,28 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99723.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "version": "10.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101758.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

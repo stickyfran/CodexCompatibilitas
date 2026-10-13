@@ -758,6 +758,237 @@
       "hardware_ids": [
         "390\\xp\\x86\\network\\R301239\\windows\\winxp\\pcie\\netrtle.inf"
       ]
+    },
+    {
+      "category": "chipset",
+      "name": "Unified 7 Management Interface Driver",
+      "version": "7.1.0.1028",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R300750",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\chipset\\R300750\\drivers\\mei\\heci.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "GMA HD 3000 (DT),GMA HD 3000 (NB),GMA HD 2000 (DT),GMA HD 2000 (NB)",
+      "version": "6.14.10.5337",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R299311",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\video\\R299311\\production\\xp-x86\\intcdaud.inf\\intcdaud.inf",
+        "390\\xp\\x86\\video\\R299311\\production\\xp-x86\\impcd.inf\\impcd.inf",
+        "390\\xp\\x86\\video\\R299311\\production\\xp-x86\\5337-32.inf\\5337-32.inf",
+        "390\\xp\\x86\\video\\R299311\\production\\xp-x86\\5337-32.inf\\igcompkrng575.bin",
+        "390\\xp\\x86\\video\\R299311\\production\\xp-x86\\5337-32.inf\\igcompkrng600.bin",
+        "390\\xp\\x86\\video\\R299311\\production\\xp-x86\\5337-32.inf\\igfcg600m.bin",
+        "390\\xp\\x86\\video\\R299311\\production\\xp-x86\\5337-32.inf\\igkrng575.bin",
+        "390\\xp\\x86\\video\\R299311\\production\\xp-x86\\5337-32.inf\\igkrng600.bin"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD6450(1G DDR3).",
+      "version": "8.783.2.2",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R289243",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\video\\R289243\\packages\\drivers\\wdm\\hdmi\\xp\\atihdxp3.inf",
+        "390\\xp\\x86\\video\\R289243\\packages\\drivers\\display\\xp_inf\\cx108749.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Audio (CX20641/CX20651)",
+      "version": "1.0.17.0",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R299945",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\audio\\R299945\\xp32\\h61car5a.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.2.0.1019",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R293337",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\chipset\\R293337\\all\\2008s4el.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\5000xzvp.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\5400.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\852.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\855.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\865.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\915.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\915m.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\945.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\945gm.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\965g.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\965m.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\cougahci.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\cougcore.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\cougide.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\cougsmb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\cougusb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\e5100.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\e7220.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\e7230.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\e7300.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\e7520.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\e8500.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\esb2id2.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\esb2ide.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\esb2usb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\g33q35.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ibexahci.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ibexcore.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ibexid2.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ibexide.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ibexsmb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ibexusb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich5core.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich5id2.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich5ide.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich5usb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich6core.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich6id2.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich6ide.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich6usb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich78id2.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich78ide.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich78usb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich7core.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich8core.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich9core.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ich9usb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ichacore.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ichausb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ichxdev.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\intelcp2.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\intelcpu.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\intelioh.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\ioatdma.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\jasperfo.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\nehalmex.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\pm45gm45.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\qd3nodrv.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\snb2009.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\tcreek.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\tcrkahci.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\tcrkusb.inf",
+        "390\\xp\\x86\\chipset\\R293337\\all\\whed_dev.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "57XX Gigabit Controller",
+      "version": "16.4.0",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R296753",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\network\\R296753\\xp-x86\\b57win32.inf",
+        "390\\xp\\x86\\network\\R296753\\xp-x86\\k57win32.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Serial / Parallel port PCIE add-in card",
+      "version": "7.2.0.0",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R296702",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\communication\\R296702\\disk1\\snxpci.inf",
+        "390\\xp\\x86\\communication\\R296702\\disk1\\snxpcip.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Wireless 1520 802.11n MiniCard WLAN for Desktops,Wireless 1520 802.11n PCIe WLAN for Desktops",
+      "version": "A38",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R295623",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\network\\R295623\\driver_us\\bcmwl5.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "D400,External USB 56K Modem",
+      "version": "1.0.10.0",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R294048",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\communication\\R294048\\production\\xp-x86\\dellusb5.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "USB 3.0",
+      "version": "2.0.30.0",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R292027",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\chipset\\R292027\\production\\xp-x86\\nusb3hub.inf",
+        "390\\xp\\x86\\chipset\\R292027\\production\\xp-x86\\nusb3xhc.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD6350(512M DDR3).",
+      "version": "8.783.2.2",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R289635",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\video\\R289635\\packages\\drivers\\wdm\\hdmi\\xp\\atihdxp3.inf",
+        "390\\xp\\x86\\video\\R289635\\packages\\drivers\\display\\xp_inf\\cx108749.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "RTL81XX PCI-E Network Connection",
+      "version": " 7.038.0113.2011",
+      "url": "dell-pack://390-xp-A01-T8T9P.xml/R301239",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "390\\xp\\x86\\network\\R301239\\windows\\winxp\\pcie\\netrtle.inf"
+      ]
     }
   ],
   "components": {}

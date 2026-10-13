@@ -84,6 +84,17 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP EliteOne 1000 G2 AiO Win 10 x64 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99725.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

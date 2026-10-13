@@ -43,6 +43,441 @@
       "release_date": "2016-03-07T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.0.8.7",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/MC8V1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\input\\MC8V1_A00-00\\64 bits\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek Ethernet Driver",
+      "version": "2.4.2014.106",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/JJ4DD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\network\\JJ4DD_A00-00\\windows8.1-x64\\rtu30x64w8.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.0.0.13",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/7P8X2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\system utilities\\7P8X2_A00-00\\production\\windows8.1-x64\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "GPS Serial Driver",
+      "version": "2.10.6",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/FW3JM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\communication\\FW3JM_A00-00\\ftdibus.inf",
+        "7204\\Win8.1\\x64\\communication\\FW3JM_A00-00\\ftdiport.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology F6 Driver for x64 Windows",
+      "version": "12.9.0.1001",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/WK4PH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\storage\\WK4PH_A00-00\\driver\\iaahcic.inf",
+        "7204\\Win8.1\\x64\\storage\\WK4PH_A00-00\\driver\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.34",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/4Y1R8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\chipset\\4Y1R8_A00-00\\windows8.1-x64\\o2fj2w8x64.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "FTDI USB Serial Port Driver",
+      "version": "2.10.6",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/R5K9D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\communication\\R5K9D_A00-00\\ftdibus.inf",
+        "7204\\Win8.1\\x64\\communication\\R5K9D_A00-00\\ftdiport.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel Graphics HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/FGGYJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "7204\\Win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\10.18.14.4280\\64-4280.inf",
+        "7204\\Win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\10.18.14.4280\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Rapid Start Technology Application",
+      "version": "3.0.0.1056",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/DD9PK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\chipset\\DD9PK_A00-00\\windows8.1-x64\\irstrtdv.inf\\irstrtdv.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5570 WWAN Mobile Broadband Driver",
+      "version": "6.9.4237.501",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/GGXGC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\communication\\GGXGC_A00-00\\windows8.1-x64\\swg3kmdm05.inf",
+        "7204\\Win8.1\\x64\\communication\\GGXGC_A00-00\\windows8.1-x64\\swg3knm05.inf",
+        "7204\\Win8.1\\x64\\communication\\GGXGC_A00-00\\windows8.1-x64\\swg3kser05.inf",
+        "7204\\Win8.1\\x64\\communication\\GGXGC_A00-00\\windows8.1-x64\\swlocrm.inf",
+        "7204\\Win8.1\\x64\\communication\\GGXGC_A00-00\\windows8.1-x64\\swmbbmdm05.inf",
+        "7204\\Win8.1\\x64\\communication\\GGXGC_A00-00\\windows8.1-x64\\swmbbnm05.inf",
+        "7204\\Win8.1\\x64\\communication\\GGXGC_A00-00\\windows8.1-x64\\swmbbser05.inf",
+        "7204\\Win8.1\\x64\\communication\\GGXGC_A00-00\\windows8.1-x64\\swsfnode05.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "FTDI USB Serial Port Driver",
+      "version": "2.12.6.0",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/PF73W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\network\\PF73W_A00-00\\ftdibus.inf",
+        "7204\\Win8.1\\x64\\network\\PF73W_A00-00\\ftdiport.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx/10/100/1000 Ethernet Network Driver",
+      "version": "18.5.0.0",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/N6RY0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\network\\N6RY0_A00-00\\win8.1x64\\extracted\\e1r\\windows8.1-x64\\e1r64x64.inf",
+        "7204\\Win8.1\\x64\\network\\N6RY0_A00-00\\win8.1x64\\extracted\\e1q\\windows8-x64\\e1q63x64.inf",
+        "7204\\Win8.1\\x64\\network\\N6RY0_A00-00\\win8.1x64\\extracted\\e1d\\windows8.1-x64\\e1d64x64.inf",
+        "7204\\Win8.1\\x64\\network\\N6RY0_A00-00\\win8.1x64\\extracted\\e1c\\windows8.1-x64\\e1c64x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/X15C9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "7204\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwew00.inf",
+        "7204\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwew01.inf",
+        "7204\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "7204\\Win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver",
+      "version": "9.5.15.1730",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/GJVHD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\chipset\\GJVHD_A00-00\\drivers\\sol\\mesrl.inf",
+        "7204\\Win8.1\\x64\\chipset\\GJVHD_A00-00\\drivers\\mei\\heci.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Conexant Audio CX20772 Driver",
+      "version": "1.0.59.0",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/WR3MX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\audio\\WR3MX_A00-00\\windows8.1-x64\\dpdokua.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3226 High-Definition Audio Driver",
+      "version": "6.0.1.6027",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/YYGNT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\audio\\YYGNT_A00-00\\windows8.1-x64\\hdxadc.inf",
+        "7204\\Win8.1\\x64\\audio\\YYGNT_A00-00\\windows8.1-x64\\hdxadcma.inf",
+        "7204\\Win8.1\\x64\\audio\\YYGNT_A00-00\\windows8.1-x64\\hdxadcmax6.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "9.4.0.1027",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/TTVVT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\cdvcore.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\centcore.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\centsmb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\centurt.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\cougahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\cougcore.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\cougide.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\cougsmb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\cougusb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\couide2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\cryswell.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\dh89xxcc-ahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\dh89xxcc-cor.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\dh89xxcc-id2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\dh89xxcc-ide.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\dh89xxcc-me.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\dh89xxcc-smb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\dh89xxcc-usb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\haswell.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ibexahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ibexcore.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ibexid2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ibexide.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ibexsmb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ibexusb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ich78id2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ich78ide.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ich78usb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ich7core.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\intelcp2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\intelioh.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ivybridg.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\ivytown.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\jaketown.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\jasperfo.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpcore.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpid2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpide.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpsens.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpsmb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpthrm.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpusb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxlpusb3.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxptahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxptcore.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxptid2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxptide.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxptsmb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxptusb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\lxptusb3.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\nehalmex.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\pantahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\pantcore.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\pantid2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\pantide.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\pantsmb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\pantusb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\pantusb3.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\patahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\patcore.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\patid2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\patide.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\patsmb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\patusb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\snb2009.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\tcreek.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\tcrkahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\tcrksd.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\tcrkusb.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\whtpi2c.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\whtpi2c2.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\whtpoint.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\whtptsd.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\wptahci.inf",
+        "7204\\Win8.1\\x64\\chipset\\TTVVT_A00-00\\driver\\win7\\wptusb.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "3.1.1",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/9HFCM_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\input\\9HFCM_A01-00\\x64\\ievp.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault Driver",
+      "version": "2.3.00443A",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/HJJ01_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\security\\HJJ01_A00-00\\wbdidrv\\wbdidrv.inf",
+        "7204\\Win8.1\\x64\\security\\HJJ01_A00-00\\ushwbfdrv\\ushwbfdrv.inf",
+        "7204\\Win8.1\\x64\\security\\HJJ01_A00-00\\tpm\\driver\\btpmwin.inf",
+        "7204\\Win8.1\\x64\\security\\HJJ01_A00-00\\cv\\driver\\cvusbdrv.inf",
+        "7204\\Win8.1\\x64\\security\\HJJ01_A00-00\\ccid\\ccidflt64v.inf",
+        "7204\\Win8.1\\x64\\security\\HJJ01_A00-00\\bcmccid\\bcmccid.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Liteon Camera Flash Driver",
+      "version": "6.3.9600.327",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/3HG60_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\chipset\\3HG60_A00-00\\extracted\\aitdrv.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\chipset\\17H49_A00-00\\driver\\isctd.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection Driver",
+      "version": "4.10.51",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/9RRX6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\chipset\\9RRX6_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\o2\\oz776x64.inf",
+        "7204\\Win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\gpe\\st7007.inf",
+        "7204\\Win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\esr\\64bits\\gkupro2d.inf",
+        "7204\\Win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\dell\\touchchip4wbf\\drivers\\tcwbfadv.inf",
+        "7204\\Win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\dell\\esrg\\64bits\\gemccid.inf",
+        "7204\\Win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\dell\\aes2810wbf\\drivers\\atswpwdf.inf",
+        "7204\\Win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\aes850fp\\drivers\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek RTL8153-VB LAN Driver",
+      "version": "2.4.2015.324",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/JCGG0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\network\\JCGG0_A00-00\\windows8.1-x64\\rtu30x64w8.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://7204-Win8.1-A06-G0PGN.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7204\\Win8.1\\x64\\network\\90M6T_A00-00\\dellrbtn.inf"
+      ]
+    }
+  ],
   "components": {}
 }

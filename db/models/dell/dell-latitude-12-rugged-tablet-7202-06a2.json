@@ -43,6 +43,288 @@
       "release_date": "2016-02-08T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "communication",
+      "name": "Registry Optimization - Livingstone Platform",
+      "version": "1.0",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/KK2RM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\communication\\KK2RM_A00-00\\windows8.1-x64\\ftdibus.inf",
+        "7202\\win8.1\\x64\\communication\\KK2RM_A00-00\\windows8.1-x64\\ftdiport.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.0.22",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/0D24K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\chipset\\0D24K_A00-00\\production\\windows8.1-x64\\chipset_smbus.inf",
+        "7202\\win8.1\\x64\\chipset\\0D24K_A00-00\\production\\windows8.1-x64\\chipset_system.inf",
+        "7202\\win8.1\\x64\\chipset\\0D24K_A00-00\\production\\windows8.1-x64\\chipset_thermal.inf",
+        "7202\\win8.1\\x64\\chipset\\0D24K_A00-00\\production\\windows8.1-x64\\chipset_usb.inf",
+        "7202\\win8.1\\x64\\chipset\\0D24K_A00-00\\production\\windows8.1-x64\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3234/ALC3235 High Definition Audio Driver for Dell Wireless Docking",
+      "version": "6.0.1.6075",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/0VFFR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdxadc.inf",
+        "7202\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdxadcma.inf",
+        "7202\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdxadcmax6.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX memory card reader Driver",
+      "version": "3.0.8.52",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/VG5XT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\chipset\\VG5XT_A00-00\\win8.1x64\\o2fj2x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer",
+      "version": "11.0.0.1158",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/78C1C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\chipset\\78C1C_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "7202\\win8.1\\x64\\chipset\\78C1C_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.1.0.21",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/DJ3TC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\system utilities\\DJ3TC_A00-00\\windows8.1-x64\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform & Thermal Framework Driver",
+      "version": "8.0.10002.14",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/66P3R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\esif_manager.inf\\dptf_acpi.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\esif_manager.inf\\dptf_cpu.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\esif_manager.inf\\dptf_pch.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\esif_manager.inf\\esif_manager.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_pch.inf\\dptf_acpi.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_pch.inf\\dptf_cpu.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_pch.inf\\esif_manager.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_cpu.inf\\dptf_acpi.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_cpu.inf\\dptf_pch.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_cpu.inf\\esif_manager.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_acpi.inf\\dptf_acpi.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_acpi.inf\\dptf_cpu.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_acpi.inf\\dptf_pch.inf",
+        "7202\\win8.1\\x64\\chipset\\66P3R_A00-00\\production\\windows8.1-x64\\dptf_acpi.inf\\esif_manager.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver",
+      "version": "4.0.34.106",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/19XD6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\wbdidrv\\wbdidrv.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\ushwbfdrv\\ushwbfdrv.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\tpm\\driver\\btpmwin.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\cv\\driver\\cvusbdrv.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\ccid\\ccidflt64v.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\bcmnfcusb81\\bcmnfcusb.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\bcmnfcusb7\\bcmnfcusb7.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\bcmnfcusb\\bcmnfcusb.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\bcmnfcser81\\bcmnfcser.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\bcmnfcser7\\bcmnfcser7.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\bcmnfcser\\bcmnfcser.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\bcmnfcscr7\\bcmnfcscr7.inf",
+        "7202\\win8.1\\x64\\security\\19XD6_A00-00\\bcmccid\\bcmccid.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "FTDI USB Serial Port Driver",
+      "version": "2.12.6.0",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/PF73W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\communication\\PF73W_A00-00\\windows8.1-x64\\ftdibus.inf",
+        "7202\\win8.1\\x64\\communication\\PF73W_A00-00\\windows8.1-x64\\ftdiport.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "DisplayLink Dock Driver",
+      "version": "7.7.60366",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/G9V6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\network\\G9V6T_A00-00\\windows8.1-x64\\displaylinkusb.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5809e LTE Mobile Broadband Driver",
+      "version": "6.12.4277.505",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/70CR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\communication\\70CR5_A00-00\\production\\windows8.1-x64\\swg3kmdm05.inf",
+        "7202\\win8.1\\x64\\communication\\70CR5_A00-00\\production\\windows8.1-x64\\swg3knm05.inf",
+        "7202\\win8.1\\x64\\communication\\70CR5_A00-00\\production\\windows8.1-x64\\swg3kser05.inf",
+        "7202\\win8.1\\x64\\communication\\70CR5_A00-00\\production\\windows8.1-x64\\swlocrm.inf",
+        "7202\\win8.1\\x64\\communication\\70CR5_A00-00\\production\\windows8.1-x64\\swsfnode05.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Collaborative Processor Performance Control",
+      "version": "1.0.0.1016",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/1FCDH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\system utilities\\1FCDH_A00-00\\windows8.1-x64\\intelpcc.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "10.0.31.1000",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/3TY1R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\chipset\\3TY1R_A00-00\\heci.inf\\heci.inf",
+        "7202\\win8.1\\x64\\chipset\\3TY1R_A00-00\\heci.inf\\mesrl.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4200/4400/4600/5000/5100/5200/5300/5500 graphics driver",
+      "version": "10.18.14.4170",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/NHY1P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\video\\NHY1P_A00-00\\windows8.1-x64\\intcdaud.inf\\intcdaud.inf",
+        "7202\\win8.1\\x64\\video\\NHY1P_A00-00\\windows8.1-x64\\4170-64.inf\\4170-64.inf",
+        "7202\\win8.1\\x64\\video\\NHY1P_A00-00\\windows8.1-x64\\4170-64.inf\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265 WiFi Driver",
+      "version": "18.20.0.9",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/0DHF7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\network\\0DHF7_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "7202\\win8.1\\x64\\network\\0DHF7_A00-00\\windows8.1-x64\\netwew00.inf",
+        "7202\\win8.1\\x64\\network\\0DHF7_A00-00\\windows8.1-x64\\netwew01.inf",
+        "7202\\win8.1\\x64\\network\\0DHF7_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "7202\\win8.1\\x64\\network\\0DHF7_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\network\\90M6T_A00-00\\windows8.1-x64\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Liteon Camera 8MP Flash Driver",
+      "version": "6.3.9600.50604",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/RV64P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\video\\RV64P_A00-00\\windows8.1-x64\\aitdrv.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek LAN Driver",
+      "version": "2.4.2015.0305",
+      "url": "dell-pack://7202-win8.1-A01-12VX4.xml/T808T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7202\\win8.1\\x64\\network\\T808T_A00-00\\64\\rtu30x64w8.inf"
+      ]
+    }
+  ],
   "components": {}
 }

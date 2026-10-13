@@ -53,6 +53,276 @@
       "release_date": "2014-11-12T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology (Driver Win7/8.1 32/64-bit);Intel Ethernet Connection I2XX;Intel Rapid Storage Technology F6;Intel Rapid Storage Technology;Intel Rapid Storage Technology (F6);Intel Rapid Storage Technology  Management Console and Driver;Intel Rapid Storage Technology 12.6",
+      "version": "13.1.0.1058",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/G29CM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\storage\\G29CM_A00-00\\iaahcic.inf",
+        "9020 AIO\\win8\\x64\\storage\\G29CM_A00-00\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Graphic Radeon HD 8750A",
+      "version": "13.101.0",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/6HK39_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\video\\6HK39_A01-00\\production\\windows8-x64\\display\\c8158562.inf",
+        "9020 AIO\\win8\\x64\\video\\6HK39_A01-00\\production\\windows8-x64\\amdkmpfd\\amdkmpfd.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4200/4400/4600/5000/5100/5200 Graphics Driver",
+      "version": "10.18.10.3412",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/J86W5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\video\\J86W5_A00-00\\windows8-x64\\intcdaud.inf\\intcdaud.inf",
+        "9020 AIO\\win8\\x64\\video\\J86W5_A00-00\\windows8-x64\\3412-64.inf\\3412-64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1540 Half MiniCard",
+      "version": "A00",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/925RG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\network\\925RG_A00-00\\win8x64\\drivers\\win8\\wl\\bcmwl63.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Software Installation Utility (Driver Win7/8.1 32/64-bit);Intel Chipset Device Software;Intel Chipset;Intel Chipset Software Installation;Intel 8 Series Chipset",
+      "version": "9.4.0.1027",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/3664N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\pantherpoint\\pantusb.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\cryswell.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\haswell.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxlpahci.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxlpcore.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxlpid2.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxlpide.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxlpsens.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxlpsmb.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxlpusb.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxlpusb3.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxptahci.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxptcore.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxptid2.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxptide.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxptsmb.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxptusb.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\lynxpoint\\lxptusb3.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\cougarpoint\\dh89xxcc-me.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\centerton\\centcore.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\centerton\\centsmb.inf",
+        "9020 AIO\\win8\\x64\\chipset\\3664N_A00-00\\windows8-x64\\centerton\\centurt.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer;Intel Management Engine 9.x Components Installer",
+      "version": "10.0.1.1000",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/G1XKX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\chipset\\G1XKX_A00-00\\windows8-x64\\heci.inf\\heci.inf",
+        "9020 AIO\\win8\\x64\\chipset\\G1XKX_A00-00\\windows8-x64\\heci.inf\\mesrl.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 6235 BT driver",
+      "version": "2.6.1211.294",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/V9T18_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\network\\V9T18_A00-00\\wpedrivers\\win64\\ibtusbbl.inf",
+        "9020 AIO\\win8\\x64\\network\\V9T18_A00-00\\drivers\\btmaud.inf",
+        "9020 AIO\\win8\\x64\\network\\V9T18_A00-00\\drivers\\btmaux.inf",
+        "9020 AIO\\win8\\x64\\network\\V9T18_A00-00\\drivers\\btmlehid.inf",
+        "9020 AIO\\win8\\x64\\network\\V9T18_A00-00\\drivers\\win64\\ibtusbrk.inf",
+        "9020 AIO\\win8\\x64\\network\\V9T18_A00-00\\coexdrivers\\ibtfltcoexhs.inf",
+        "9020 AIO\\win8\\x64\\network\\V9T18_A00-00\\coexdrivers\\ibtfltcoexhs_wp8.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Smartcard USB Keyboard",
+      "version": "1.0",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/CCHT0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\input\\CCHT0_A00-00\\win8x64\\x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel Ethernet Connection I217-LM;Intel LOM;Intel Ethernet Connection I217-LM (Driver Win7/8.1 32/64-bit);Intel Integrated Network Controller;Intel Ethernet Connection I2XX;Intel I2xx/825xx Gigabit Ethernet Controller;Intel 825xx 10/100/1000 Ethernet Network;Integrated Network Controller;Intel 825xx Gigabit Platform LAN Network Device",
+      "version": "19.2.0.0",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/MXH3C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\network\\MXH3C_A00-00\\windows8-x64\\e1c63x64.inf",
+        "9020 AIO\\win8\\x64\\network\\MXH3C_A00-00\\windows8-x64\\e1d63x64.inf",
+        "9020 AIO\\win8\\x64\\network\\MXH3C_A00-00\\windows8-x64\\e1r63x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek RTS5209",
+      "version": "6.2.9200.28130",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/4DYHW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\chipset\\4DYHW_A00-00\\production\\windows8-x64\\rtspstormsi.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel(R) WiFi Link 7260",
+      "version": "17.0.0.34",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/D8TJ3_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\network\\D8TJ3_A06-00\\windows8-x64\\netwew00.inf",
+        "9020 AIO\\win8\\x64\\network\\D8TJ3_A06-00\\windows8-x64\\netwew02.inf",
+        "9020 AIO\\win8\\x64\\network\\D8TJ3_A06-00\\windows8-x64\\netwsw00.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Encryption",
+      "version": "v8.4.0",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/948DT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\vfp\\wbf_vfs_003f.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\touchchip4wbf\\dptcdrvx64\\tcwbfadv.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\o2micro\\win8x64\\oz776x64.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\fpsensor\\x64\\atswpwdf.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\esrg\\64bits\\gemccid.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\cv\\ushwbfdrv\\ushwbfdrv.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\cv\\cv\\cvusbdrv.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\cv\\ccid\\ccidflt64v.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\cv\\bcmccid\\bcmccid.inf",
+        "9020 AIO\\win8\\x64\\security\\948DT_A00-00\\authentec\\x64\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC 3226 High Definition Audio Codec;Realtek ALC3220 High Definition Audio Codec",
+      "version": "6.0.1.6027",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/26FF1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\audio\\26FF1_A00-00\\windows8-x64\\hdxadc.inf",
+        "9020 AIO\\win8\\x64\\audio\\26FF1_A00-00\\windows8-x64\\hdxadcma.inf",
+        "9020 AIO\\win8\\x64\\audio\\26FF1_A00-00\\windows8-x64\\hdxadcmax6.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 6235 WiFi driver",
+      "version": "15.6.0",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/JJMM5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\network\\JJMM5_A00-00\\production\\windows8-x64\\netwew00.inf",
+        "9020 AIO\\win8\\x64\\network\\JJMM5_A00-00\\production\\windows8-x64\\netwns64.inf",
+        "9020 AIO\\win8\\x64\\network\\JJMM5_A00-00\\production\\windows8-x64\\netwsw00.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Rapid Start;Intel Rapid Start Technology",
+      "version": "3.0.0.1056",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/26Y23_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\chipset\\26Y23_A00-00\\windows8-x64\\irstrtdv.inf\\irstrtdv.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Smart Connect Technology",
+      "version": "5.0.10.2848",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/50C42_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\chipset\\50C42_A00-00\\driver\\x64\\isctd.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "STMicro device driver for Dell Data Encryption Accelerator Card",
+      "version": "V2.0.0.81",
+      "url": "dell-pack://9020 AIO-win8-A05-CNRN1.xml/GYV2D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "9020 AIO\\win8\\x64\\security\\GYV2D_A00-00\\drivers\\st7007.inf"
+      ]
+    }
+  ],
   "components": {}
 }

@@ -63,6 +63,18 @@
       "release_date": "6/20/2022 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Elite Dragonfly Win 10 x64 Driver Pack",
+      "version": "1.0",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140741.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

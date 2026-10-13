@@ -43,6 +43,220 @@
       "release_date": "2016-07-13T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.9",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/320CP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\commonsystem.inf\\commonsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Drivers",
+      "version": "20.2.0.0",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/KJTXR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\network\\KJTXR_A00-00\\windows8.1-x64\\e1c64x64.inf",
+        "7440 AIO\\win8.1\\x64\\network\\KJTXR_A00-00\\windows8.1-x64\\e1d64x64.inf",
+        "7440 AIO\\win8.1\\x64\\network\\KJTXR_A00-00\\windows8.1-x64\\e1r64x64.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection | Hardware Crypto Accelerator (Network and Computing Encryption/Decryption Controller) Device Driver",
+      "version": "V2.0.0.81",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/GYV2D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\security\\GYV2D_A00-00\\st7007.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "7440 AIO\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "7440 AIO\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4454",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/4TYM7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\ki115784.inf\\20.19.15.4454\\ki115784.inf",
+        "7440 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\intcdaud.inf\\8.20.00.922\\intcdaud.inf",
+        "7440 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3196\\intcdaud.inf",
+        "7440 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\ki115784.inf\\20.19.15.4454\\cp_resources.bin",
+        "7440 AIO\\win8.1\\x64\\video\\4TYM7_A00-00\\windows8.1-x64\\ki115784.inf\\20.19.15.4454\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Seiral I/O Driver",
+      "version": "30.100.1519.7",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/WYTN6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\chipset\\WYTN6_A00-00\\drivers\\ialpss2_uart2_skl.inf\\ialpss2_uart2_skl.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\WYTN6_A00-00\\drivers\\ialpss2_spi_skl.inf\\ialpss2_spi_skl.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\WYTN6_A00-00\\drivers\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\WYTN6_A00-00\\drivers\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.10240.21281",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/74XM1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\chipset\\74XM1_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\chipset\\81YKK_A00-00\\drivers\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/7260/3165 WiFi Driver",
+      "version": "18.32.0.5",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/P9MR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\drivers\\netwbw02.inf",
+        "7440 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\drivers\\netwew00.inf",
+        "7440 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\drivers\\netwew01.inf",
+        "7440 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\drivers\\netwsw00.inf",
+        "7440 AIO\\win8.1\\x64\\network\\P9MR5_A00-00\\drivers\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine  Interface Driver",
+      "version": "11.0.0.1167",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/316K0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "7440 AIO\\win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon R7 A370 Graphics Card Driver",
+      "version": "15.201.1301.1001",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/7PWH4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\video\\7PWH4_A00-00\\windows8.1-x64\\display\\cu188788.inf",
+        "7440 AIO\\win8.1\\x64\\video\\7PWH4_A00-00\\windows8.1-x64\\amdkmpfd\\amdkmpfd.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6088",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/J44XX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "7440 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "7440 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "7440 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "7440 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "7440 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "7440 AIO\\win8.1\\x64\\audio\\J44XX_A00-00\\windows8.1-x64\\hdaudio\\hdxsst.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "14.8.9.1053",
+      "url": "dell-pack://7440 AIO-win8.1-A03-CGRVW.xml/PFJ82_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7440 AIO\\win8.1\\x64\\storage\\PFJ82_A00-00\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "7440 AIO\\win8.1\\x64\\storage\\PFJ82_A00-00\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    }
+  ],
   "components": {}
 }

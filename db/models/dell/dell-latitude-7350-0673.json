@@ -33,6 +33,335 @@
       "release_date": "2017-05-09T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "communication",
+      "name": "Realtek USB3.0 GBE Dongle Driver",
+      "version": "2.43.2015.429",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/1R7C4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\communication\\1R7C4_A00-00\\windows8.1-x64\\rtu30x64w8.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault Driver",
+      "version": "3.3.14.68",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/WDRHG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\wbdidrv\\wbdidrv.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\ushwbfdrv\\ushwbfdrv.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\tpm\\driver\\btpmwin.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\cv\\driver\\cvusbdrv.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\ccid\\ccidflt64v.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmnfcusb81_10\\bcmnfcusb.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmnfcusb80\\bcmnfcusb.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmnfcusb7\\bcmnfcusb7.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmnfcser81_10\\bcmnfcser.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmnfcser80\\bcmnfcser.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmnfcser7\\bcmnfcser7.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmnfcscr80\\bcmnfcscr.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmnfcscr7\\bcmnfcscr7.inf",
+        "7350\\win8.1\\x64\\security\\WDRHG_A00-00\\win8.1x64\\bcmccid\\bcmccid.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.20",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/35P7F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_smbus.inf",
+        "7350\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_system.inf",
+        "7350\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_thermal.inf",
+        "7350\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_usb.inf",
+        "7350\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5809e LTE Mobile Broadband Driver and GPS driver",
+      "version": "6.14.4316.502",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/JRTWC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\swg3kbus05.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\swg3kmdm05.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\swg3knet05.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\swg3knm05.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\swg3kser05.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\swlocrm.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\swsfnode05.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\win7net\\swg3knet05.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\win7net\\swg3knm05.inf",
+        "7350\\win8.1\\x64\\communication\\JRTWC_A00-00\\drivers\\comp\\swg3kcomp05.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.0.1016",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/5FNR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\storage\\5FNR5_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf",
+        "7350\\win8.1\\x64\\storage\\5FNR5_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 17265/18260 WiGig Application",
+      "version": "1.0.0.16",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/0K43N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\network\\0K43N_A00-00\\windows8.1-x64\\driver2\\rtux64w8.inf",
+        "7350\\win8.1\\x64\\network\\0K43N_A00-00\\windows8.1-x64\\driver1\\imausbhpal.inf",
+        "7350\\win8.1\\x64\\network\\0K43N_A00-00\\windows8.1-x64\\driver1\\imausbhub.inf",
+        "7350\\win8.1\\x64\\network\\0K43N_A00-00\\windows8.1-x64\\driver1\\iwigig.inf",
+        "7350\\win8.1\\x64\\network\\0K43N_A00-00\\windows8.1-x64\\driver1\\iwigigum.inf",
+        "7350\\win8.1\\x64\\network\\0K43N_A00-00\\windows8.1-x64\\driver1\\psm.inf",
+        "7350\\win8.1\\x64\\network\\0K43N_A00-00\\windows8.1-x64\\driver1\\psm_p.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "SMSC LAN7500 USB to Ethernet Adapter Driver",
+      "version": "13.8.8.0",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/D6FX1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\network\\D6FX1_A00-00\\production\\windows8.1-x64\\net7500-x64-n630f.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10605.221",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/JXYJD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\chipset\\JXYJD_A00-00\\esif_manager.inf\\esif_manager.inf",
+        "7350\\win8.1\\x64\\chipset\\JXYJD_A00-00\\dptf_pch.inf\\dptf_pch.inf",
+        "7350\\win8.1\\x64\\chipset\\JXYJD_A00-00\\dptf_cpu.inf\\dptf_cpu.inf",
+        "7350\\win8.1\\x64\\chipset\\JXYJD_A00-00\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.0.0.15",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/K9RFF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\system utilities\\K9RFF_A00-00\\production\\windows8.1-x64\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5810e LTE Mobile Broadband and GPS Driver",
+      "version": "1.0.5",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/1PFRD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\communication\\1PFRD_A00-00\\gnss\\gnssdriver.inf",
+        "7350\\win8.1\\x64\\communication\\1PFRD_A00-00\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Genesys GL3215 CardReader Driver",
+      "version": "4.5.0.0",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/KFDF6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\chipset\\KFDF6_A00-00\\production\\windows8.1-x64\\genestor.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "10.1207.101.113",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/Y5Y8F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\input\\Y5Y8F_A00-00\\windows8.1-x64\\apfiltr.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/7260/3165 WiFi Driver",
+      "version": "18.32.0.5",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/P9MR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\network\\P9MR5_A00-00\\win8.1x64\\drivers\\netwbw02.inf",
+        "7350\\win8.1\\x64\\network\\P9MR5_A00-00\\win8.1x64\\drivers\\netwew00.inf",
+        "7350\\win8.1\\x64\\network\\P9MR5_A00-00\\win8.1x64\\drivers\\netwew01.inf",
+        "7350\\win8.1\\x64\\network\\P9MR5_A00-00\\win8.1x64\\drivers\\netwsw00.inf",
+        "7350\\win8.1\\x64\\network\\P9MR5_A00-00\\win8.1x64\\drivers\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "system utilities",
+      "name": "Intel Collaborative Processor Performance Control",
+      "version": "1.0.0.1016",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/1FCDH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\system utilities\\1FCDH_A00-00\\drivers\\x64\\intelpcc.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer",
+      "version": "11.5.0.1020",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/X37VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\chipset\\X37VM_A00-00\\mesrl.inf\\mesrl.inf",
+        "7350\\win8.1\\x64\\chipset\\X37VM_A00-00\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\vfp\\wbf_003f_drv\\wbf_vfs_003f.inf",
+        "7350\\win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\o2\\drivers\\oz776x64.inf",
+        "7350\\win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\gpe\\st7007.inf",
+        "7350\\win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\esr\\64bits\\gkupro2d.inf",
+        "7350\\win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\dell\\touchchip4wbf\\drivers\\tcwbfadv.inf",
+        "7350\\win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\dell\\esrg\\64bits\\gemccid.inf",
+        "7350\\win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\dell\\aes2810wbf\\drivers\\atswpwdf.inf",
+        "7350\\win8.1\\x64\\security\\9NMJ4_A11-00\\win8.1x64\\aes850fp\\drivers\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 4200, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4531",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/XPJ04_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\video\\XPJ04_A00-00\\kt118917.inf\\20.19.15.4531\\kt118917.inf",
+        "7350\\win8.1\\x64\\video\\XPJ04_A00-00\\intcdaud.inf\\8.20.00.950\\intcdaud.inf",
+        "7350\\win8.1\\x64\\video\\XPJ04_A00-00\\intcdaud.inf\\6.16.00.3197\\intcdaud.inf",
+        "7350\\win8.1\\x64\\video\\XPJ04_A00-00\\kt118917.inf\\20.19.15.4531\\cp_resources.bin",
+        "7350\\win8.1\\x64\\video\\XPJ04_A00-00\\kt118917.inf\\20.19.15.4531\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\network\\90M6T_A00-00\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "1.1.226.0",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/97YW4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\chipset\\97YW4_A00-00\\production\\windows8.1-x64\\ialpss_gpio.inf\\ialpss_gpio.inf",
+        "7350\\win8.1\\x64\\chipset\\97YW4_A00-00\\production\\windows8.1-x64\\ialpss_gpio.inf\\ialpss_i2c.inf",
+        "7350\\win8.1\\x64\\chipset\\97YW4_A00-00\\production\\windows8.1-x64\\ialpss_gpio.inf\\ialpss_spi.inf",
+        "7350\\win8.1\\x64\\chipset\\97YW4_A00-00\\production\\windows8.1-x64\\ialpss_gpio.inf\\ialpss_uart2.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek I2S Audio Codec Driver",
+      "version": "6.4.10041.128",
+      "url": "dell-pack://7350-win8.1-A07-X37VX.xml/99G4C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcadsp.inf",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcadspdell.inf",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcadspwaves.inf",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\i2saudio\\rtki2sacdell.inf",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcpp01.bin",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcpp02.bin",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcpp03.bin",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcpp04.bin",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcpp05.bin",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcsst1.bin",
+        "7350\\win8.1\\x64\\audio\\99G4C_A00-00\\windows8.1-x64\\isst\\intcsst2.bin"
+      ]
+    }
+  ],
   "components": {}
 }

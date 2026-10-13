@@ -63,6 +63,18 @@
       "release_date": "12/30/2019 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Folio 1040 G3 Win 10 x64 Driver Pack",
+      "version": "8.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80501-81000/sp80904.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

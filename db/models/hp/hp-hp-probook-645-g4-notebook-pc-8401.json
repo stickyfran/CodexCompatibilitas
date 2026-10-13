@@ -73,6 +73,29 @@
       "release_date": "6/22/2021 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "version": "4.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93501-94000/sp93537.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "version": "8.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103626.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

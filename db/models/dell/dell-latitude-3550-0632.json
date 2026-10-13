@@ -266,6 +266,229 @@
       "hardware_ids": [
         "3550\\win8.1\\x64\\network\\7M000_A00-00\\x64\\rt630x64.inf"
       ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "10.0.31.1000",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/3TY1R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\chipset\\3TY1R_A00-00\\win7x64\\heci.inf",
+        "3550\\win8.1\\x64\\chipset\\3TY1R_A00-00\\win7x64\\mesrl.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/FGGYJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "3550\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\10.18.14.4280\\64-4280.inf",
+        "3550\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\10.18.14.4280\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.20",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/35P7F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_smbus.inf",
+        "3550\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_system.inf",
+        "3550\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_thermal.inf",
+        "3550\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_usb.inf",
+        "3550\\win8.1\\x64\\chipset\\35P7F_A00-00\\production\\windows8.1-x64\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA GeForce 830M Graphics Driver",
+      "version": "9.18.13.3325",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/TX25Y_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\video\\TX25Y_A00-00\\win8.1x64\\nv3dvisionusb.driver\\nvstusb.inf",
+        "3550\\win8.1\\x64\\video\\TX25Y_A00-00\\win8.1x64\\hdaudio\\nvhda.inf",
+        "3550\\win8.1\\x64\\video\\TX25Y_A00-00\\win8.1x64\\display.driver\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/9NMJ4_A11-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\security\\9NMJ4_A11-00\\o2\\oz776x64.inf",
+        "3550\\win8.1\\x64\\security\\9NMJ4_A11-00\\gpe\\st7007.inf",
+        "3550\\win8.1\\x64\\security\\9NMJ4_A11-00\\esr\\64bits\\gkupro2d.inf",
+        "3550\\win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\touchchip4wbf\\drivers\\tcwbfadv.inf",
+        "3550\\win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\esrg\\64bits\\gemccid.inf",
+        "3550\\win8.1\\x64\\security\\9NMJ4_A11-00\\dell\\aes2810wbf\\drivers\\atswpwdf.inf",
+        "3550\\win8.1\\x64\\security\\9NMJ4_A11-00\\aes850fp\\drivers\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Validity FingerPrint Reader 495 Driver",
+      "version": "4.5.238.0",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/GRVYF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\security\\GRVYF_A00-00\\wbf_003f_drv\\wbf_vfs_003f.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek RTS5176E Memory Card reader Driver",
+      "version": "6.2.9600.30169",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/722M5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\chipset\\722M5_A00-00\\windows8.1-x64\\rtsustor.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1707 WiFi/Bluetooth Driver",
+      "version": "10.0.0.298",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/RTN8N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\wlan-driver\\athwbx.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\atheros_bth.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_a2dp.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_audio_flt.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_bus.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_flt.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_hcrp.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_hid.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_lwflt.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_pan.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\btath_rcp.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\bthathfax.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\audio\\btath_a2dp.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\audio\\btath_audio_flt.inf",
+        "3550\\win8.1\\x64\\network\\RTN8N_A00-00\\production\\bluetooth-driver\\audio\\btath_rcp.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek ALC3234/ALC3235 High Definition Audio Driver for Dell Wireless Docking",
+      "version": "6.0.1.6075",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/0VFFR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3550\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3550\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3550\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3550\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "3550\\win8.1\\x64\\audio\\0VFFR_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "3550\\win8.1\\x64\\audio\\0VFFR_A00-00\\usbaud\\win8.1\\x64\\rtxusbad.inf",
+        "3550\\win8.1\\x64\\audio\\0VFFR_A00-00\\usbaud\\win8.1\\x64\\rtxusbad2.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\network\\90M6T_A00-00\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.0.1016",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/5FNR5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\storage\\5FNR5_A00-00\\drivers\\iaahcic.inf",
+        "3550\\win8.1\\x64\\storage\\5FNR5_A00-00\\drivers\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "19.0.27.3",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/WWVKD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\input\\WWVKD_A00-00\\windows8_1-x64\\synpd.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/X15C9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3550\\win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwew00.inf",
+        "3550\\win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3550\\win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "3550\\win8.1\\x64\\network\\X15C9_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe GBE Family Controller Driver",
+      "version": "8.30.328.2014",
+      "url": "dell-pack://3550-win8.1-A04-CD2VN.xml/7M000_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3550\\win8.1\\x64\\network\\7M000_A00-00\\x64\\rt630x64.inf"
+      ]
     }
   ],
   "components": {}

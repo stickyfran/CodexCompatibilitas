@@ -43,6 +43,477 @@
       "release_date": "2017-05-26T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform and Thermal Framework",
+      "version": "8.1.10608.329",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/DJYD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\DJYD8_A00-00\\windows8.1-x64\\esif_manager.inf\\esif_manager.inf",
+        "5520\\Win8.1\\x64\\chipset\\DJYD8_A00-00\\windows8.1-x64\\dptf_pch.inf\\dptf_pch.inf",
+        "5520\\Win8.1\\x64\\chipset\\DJYD8_A00-00\\windows8.1-x64\\dptf_cpu.inf\\dptf_cpu.inf",
+        "5520\\Win8.1\\x64\\chipset\\DJYD8_A00-00\\windows8.1-x64\\dptf_acpi.inf\\dptf_acpi.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.0079",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\DFDP5_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB Audio Driver for Dell Wireless Dock, Dell Thunderbolt Dock, Dell Docking Monitor Stand and Dell Dock.",
+      "version": "6.3.9600.50",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/DTW9T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\docks\\DTW9T_A00-00\\windows8.1-x64\\rtxusbad.inf",
+        "5520\\Win8.1\\x64\\docks\\DTW9T_A00-00\\windows8.1-x64\\rtxusbad2.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASIX USB to Serial / Parallel Port Driver",
+      "version": "2.0.2.0",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/WGNN6_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\docks\\WGNN6_A00-00\\windows8.1-x64\\mosucomp.inf",
+        "5520\\Win8.1\\x64\\docks\\WGNN6_A00-00\\windows8.1-x64\\mosuport.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "ASMedia USB 3.0 Extended Host Controller Driver",
+      "version": "1.16.41.3",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/CH1P1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\docks\\CH1P1_A00-00\\drivers\\asmthub3.inf",
+        "5520\\Win8.1\\x64\\docks\\CH1P1_A00-00\\drivers\\asmtxhci.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics",
+      "version": "21.20.16.4574",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/779Y2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows8.1-x64\\ki120780.inf\\21.20.16.4574\\ki120780.inf",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3197\\intcdaud.inf",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows8.1-x64\\intcdaud.inf\\10.22.01.97\\intcdaud.inf",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows7-x64\\intcdaud.inf\\6.16.00.3197\\intcdaud.inf",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows10-x64\\ki120780.inf\\21.20.16.4574\\ki120780.inf",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows10-x64\\intcdaud.inf\\6.16.00.3197\\intcdaud.inf",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows10-x64\\intcdaud.inf\\10.22.01.97\\intcdaud.inf",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows8.1-x64\\ki120780.inf\\21.20.16.4574\\cp_resources.bin",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows8.1-x64\\ki120780.inf\\21.20.16.4574\\igdclbif.bin",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows10-x64\\ki120780.inf\\21.20.16.4574\\cp_resources.bin",
+        "5520\\Win8.1\\x64\\Video\\779Y2_A00-00\\windows10-x64\\ki120780.inf\\21.20.16.4574\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.63.1633.3",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/XV3FT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\XV3FT_A00-00\\windows8.1-x64\\ialpss2_uart2_skl.inf\\ialpss2_uart2_skl.inf",
+        "5520\\Win8.1\\x64\\chipset\\XV3FT_A00-00\\windows8.1-x64\\ialpss2_spi_skl.inf\\ialpss2_spi_skl.inf",
+        "5520\\Win8.1\\x64\\chipset\\XV3FT_A00-00\\windows8.1-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "5520\\Win8.1\\x64\\chipset\\XV3FT_A00-00\\windows8.1-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.38",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\wellsburgusb.inf\\wellsburgusb.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\skylake-esystem.inf\\skylake-esystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\patsburgusb.inf\\patsburgusb.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\patsburgsystem.inf\\patsburgsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\kabylakesystem.inf\\kabylakesystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\commonsystem.inf\\commonsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "5520\\Win8.1\\x64\\chipset\\HMDR4_A00-00\\windows8.1-x64\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "docks",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.43.2016.1026",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/3FKMW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\docks\\3FKMW_A00-00\\windows8.1-x64\\rtux64w8.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer",
+      "version": "11.6.0.1047",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/RNXGY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\RNXGY_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "5520\\Win8.1\\x64\\chipset\\RNXGY_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA Quadro M1200 Graphics Driver",
+      "version": "21.21.13.7674",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/R57YT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\Video\\R57YT_A00-00\\drivers\\shieldwirelesscontroller\\nvswcfilter.inf",
+        "5520\\Win8.1\\x64\\Video\\R57YT_A00-00\\drivers\\nvvhci\\nvvhci.inf",
+        "5520\\Win8.1\\x64\\Video\\R57YT_A00-00\\drivers\\nvvad\\nvvad.inf",
+        "5520\\Win8.1\\x64\\Video\\R57YT_A00-00\\drivers\\display.driver\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265 WIFI Driver",
+      "version": "19.20.0.6",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/6HT23_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\network\\6HT23_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "5520\\Win8.1\\x64\\network\\6HT23_A00-00\\windows8.1-x64\\netwbw04.inf",
+        "5520\\Win8.1\\x64\\network\\6HT23_A00-00\\windows8.1-x64\\netwew01.inf",
+        "5520\\Win8.1\\x64\\network\\6HT23_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265 Bluetooth Driver",
+      "version": "19.30.1648.922",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/9N9NX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\network\\9N9NX_A00-00\\production\\windows8.1-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "5520\\Win8.1\\x64\\network\\9N9NX_A00-00\\production\\windows8.1-x64\\ibtusb\\wp\\ibtusb.inf",
+        "5520\\Win8.1\\x64\\network\\9N9NX_A00-00\\production\\windows8.1-x64\\ibtusb\\stp\\ibtusb.inf",
+        "5520\\Win8.1\\x64\\network\\9N9NX_A00-00\\production\\windows8.1-x64\\ibtusb\\sfp\\ibtusb.inf",
+        "5520\\Win8.1\\x64\\network\\9N9NX_A00-00\\production\\windows8.1-x64\\ibtusb\\sdp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8059",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/PRP2K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\intcaudiobus.inf",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\intcdmic.inf",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\intcoed.inf",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\intcsst.inf",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\hdaudio\\hdxma7.inf",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\hdaudio\\hdxssma7.inf",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yudian\\models\\ubm_yudian.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yudian\\models\\zh-cn\\acoustic_model_yudian_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yudian\\models\\zh-cn\\lpe_package_yudian_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yudian\\models\\zh-cn\\norm_blob_yudian_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yudian\\models\\zh-cn\\phrase_yudian_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yoga\\models\\ubm_yoga.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yoga\\models\\zh-cn\\acoustic_model_yoga_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yoga\\models\\zh-cn\\lpe_package_yoga_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yoga\\models\\zh-cn\\norm_blob_yoga_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\yoga\\models\\zh-cn\\phrase_yoga_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\proprietary\\models\\ubm_proprietary.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\proprietary\\models\\en-us\\acoustic_model_proprietary_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\proprietary\\models\\en-us\\lpe_package_proprietary_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\proprietary\\models\\en-us\\norm_blob_proprietary_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\proprietary\\models\\en-us\\phrase_proprietary_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\ubm_cortana.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\zh-cn\\acoustic_model_cortana_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\zh-cn\\lpe_package_cortana_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\zh-cn\\norm_blob_cortana_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\zh-cn\\phrase_cortana_zh-cn.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\pt-br\\acoustic_model_cortana_pt-br.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\pt-br\\lpe_package_cortana_pt-br.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\pt-br\\norm_blob_cortana_pt-br.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\pt-br\\phrase_cortana_pt-br.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\ja-jp\\acoustic_model_cortana_ja-jp.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\ja-jp\\lpe_package_cortana_ja-jp.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\ja-jp\\norm_blob_cortana_ja-jp.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\ja-jp\\phrase_cortana_ja-jp.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\it-it\\acoustic_model_cortana_it-it.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\it-it\\lpe_package_cortana_it-it.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\it-it\\norm_blob_cortana_it-it.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\it-it\\phrase_cortana_it-it.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\fr-fr\\acoustic_model_cortana_fr-fr.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\fr-fr\\lpe_package_cortana_fr-fr.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\fr-fr\\norm_blob_cortana_fr-fr.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\fr-fr\\phrase_cortana_fr-fr.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\fr-ca\\acoustic_model_cortana_fr-ca.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\fr-ca\\lpe_package_cortana_fr-ca.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\fr-ca\\norm_blob_cortana_fr-ca.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\fr-ca\\phrase_cortana_fr-ca.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\es-mx\\acoustic_model_cortana_es-mx.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\es-mx\\lpe_package_cortana_es-mx.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\es-mx\\norm_blob_cortana_es-mx.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\es-mx\\phrase_cortana_es-mx.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\es-es\\acoustic_model_cortana_es-es.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\es-es\\lpe_package_cortana_es-es.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\es-es\\norm_blob_cortana_es-es.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\es-es\\phrase_cortana_es-es.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-us\\acoustic_model_cortana_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-us\\lpe_package_cortana_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-us\\norm_blob_cortana_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-us\\phrase_cortana_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-uk\\acoustic_model_cortana_en-uk.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-uk\\lpe_package_cortana_en-uk.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-uk\\norm_blob_cortana_en-uk.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-uk\\phrase_cortana_en-uk.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-in\\acoustic_model_cortana_en-in.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-in\\lpe_package_cortana_en-in.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-in\\norm_blob_cortana_en-in.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-in\\phrase_cortana_en-in.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-ca\\acoustic_model_cortana_en-ca.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-ca\\lpe_package_cortana_en-ca.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-ca\\norm_blob_cortana_en-ca.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-ca\\phrase_cortana_en-ca.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-au\\acoustic_model_cortana_en-au.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-au\\lpe_package_cortana_en-au.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-au\\norm_blob_cortana_en-au.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\en-au\\phrase_cortana_en-au.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\de-de\\acoustic_model_cortana_de-de.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\de-de\\lpe_package_cortana_de-de.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\de-de\\norm_blob_cortana_de-de.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\intelkeyworddetectoradapter\\models\\de-de\\phrase_cortana_de-de.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\echo\\models\\ubm_echo.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\echo\\models\\en-us\\acoustic_model_echo_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\echo\\models\\en-us\\lpe_package_echo_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\echo\\models\\en-us\\norm_blob_echo_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\wovartifacts\\echo\\models\\en-us\\phrase_echo_en-us.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_fw_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_fw_release_7cad0808-ab10-cd23-ef45-12ab34cd56ef.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_cpath_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_cpath_release_46cb87fb-d2c9-4970-96d2-6d7e614bb605.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_dolby_ll_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_dolby_ll_release_849f0d73-1678-4d57-8c78-61c548253993.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_dolby_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_dolby_release_e0e018a8-3550-4b54-a8d0-a8e05d0fcba2.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_dsm_core_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_dsm_core_release_c75061f3-f2b2-4dcc-8f9f-82abb4131e66.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_dts_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_dts_release_e1284052-8664-4fe4-a353-3878f72704c3.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_fortemedia_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_fortemedia_release_b3573eff-6441-4a75-91f7-4281eec4597d.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_intel_sst_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_intel_sst_release_7c708106-3aff-40fe-88be-8c999b3f7445.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_intel_wov_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_intel_wov_release_ec774fa9-28d3-424a-90e4-69f984f1eeb7.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_smartamp_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_smartamp_release_2c093145-5895-4699-9ddb-6fefdc77e85d.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_waves_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_waves_release_b489c2de-0f96-42e1-8a2d-c25b5091ee49.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_xa_audyssey_release.bin",
+        "5520\\Win8.1\\x64\\audio\\PRP2K_A00-00\\firmware\\dsp_lib_xa_audyssey_release_bd70ce66-7cee-4277-a91a-d6368feaf83d.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "2.0.0.11",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/3N9D5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\3N9D5_A00-00\\windows8.1-x64\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel HID Event Filter Driver",
+      "version": "1.1.0.310",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/39D9F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\39D9F_A00-00\\windows8.1-x64\\hideventfilter.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA9377 Wi-Fi/Bluetooth Driver",
+      "version": "11.0.0.648",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/7X70J_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\wlan_driver\\netathrx.inf",
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\bluetooth_driver\\btfilter.inf",
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\wlan_driver\\qca61x430.bin",
+        "5520\\Win8.1\\x64\\network\\7X70J_A00-00\\production\\windows8.1-x64\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.1.4.1",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/RV0MM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\input\\RV0MM_A00-00\\windows8.1-x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Thunderbolt(TM) Controller Driver",
+      "version": "16.2.55.275",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/J95RR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\J95RR_A00-00\\windows8.1-x64\\tbt81x.inf",
+        "5520\\Win8.1\\x64\\chipset\\J95RR_A00-00\\windows8.1-x64\\tp2p81x.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.43.2016.1026",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/12GX5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\network\\12GX5_A00-00\\windows8.1-x64\\rtux64w8.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.2.10.1044",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/02RN8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\storage\\02RN8_A00-00\\windows8.1-x64\\iaahcic.inf",
+        "5520\\Win8.1\\x64\\storage\\02RN8_A00-00\\windows8.1-x64\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.14393.21292",
+      "url": "dell-pack://5520-Win8.1-A00-MK0RT.xml/30XR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5520\\Win8.1\\x64\\chipset\\30XR4_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    }
+  ],
   "components": {}
 }

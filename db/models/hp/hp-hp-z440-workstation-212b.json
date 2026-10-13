@@ -53,6 +53,18 @@
       "release_date": "1/11/2017 12:00:00 AM"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",
+      "version": "5.2018",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87513.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    }
+  ],
   "components": {}
 }

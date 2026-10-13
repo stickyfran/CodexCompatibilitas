@@ -238,6 +238,201 @@
         "3050 AIO\\win8.1\\x64\\network\\16MYP_A00-00\\ibtusb\\wsp\\ibtusb.inf",
         "3050 AIO\\win8.1\\x64\\network\\16MYP_A00-00\\ibtusb\\sfp\\ibtusb.inf"
       ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 510 / 530 / 630 Driver",
+      "version": "21.20.16.4627",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/9X1XX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\video\\9X1XX_A00-00\\ki121375.inf\\21.20.16.4627\\ki121375.inf",
+        "3050 AIO\\win8.1\\x64\\video\\9X1XX_A00-00\\intcdaud.inf\\6.16.00.3197\\intcdaud.inf",
+        "3050 AIO\\win8.1\\x64\\video\\9X1XX_A00-00\\intcdaud.inf\\10.22.01.97\\intcdaud.inf",
+        "3050 AIO\\win8.1\\x64\\video\\9X1XX_A00-00\\ki121375.inf\\21.20.16.4627\\cp_resources.bin",
+        "3050 AIO\\win8.1\\x64\\video\\9X1XX_A00-00\\ki121375.inf\\21.20.16.4627\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek PCI-E Memory Card Reader Driver",
+      "version": "10.0.14393.21292",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/30XR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\chipset\\30XR4_A00-00\\windows8.1-x64\\rtsperx.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18265/8265/7265(SD)/3165 WiFi Driver",
+      "version": "19.10.2.1",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/TKDP7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\network\\TKDP7_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3050 AIO\\win8.1\\x64\\network\\TKDP7_A00-00\\windows8.1-x64\\netwbw04.inf",
+        "3050 AIO\\win8.1\\x64\\network\\TKDP7_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3050 AIO\\win8.1\\x64\\network\\TKDP7_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.7.5.1025",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/66MG5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\storage\\66MG5_A00-00\\iastorac.inf\\iastorac.inf",
+        "3050 AIO\\win8.1\\x64\\storage\\66MG5_A00-00\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "2.0.0.11",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/3N9D5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\chipset\\3N9D5_A00-00\\windows8.1-x64\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCIe Ethernet Controller Driver",
+      "version": "2.43.2017.727",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/6W6KV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\network\\6W6KV_A00-00\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.38",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/HMDR4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\wellsburgusb.inf\\wellsburgusb.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\wellsburgsystem.inf\\wellsburgsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\valleyview2usb.inf\\valleyview2usb.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\valleyview2system.inf\\valleyview2system.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsystemthermal.inf\\sunrisepoint-lpsystemthermal.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsystemnorthpeak.inf\\sunrisepoint-lpsystemnorthpeak.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsystemlpss.inf\\sunrisepoint-lpsystemlpss.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-hsystemthermal.inf\\sunrisepoint-hsystemthermal.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-hsystemlpss.inf\\sunrisepoint-hsystemlpss.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\skylakesystemgmm.inf\\skylakesystemgmm.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\skylakesystem.inf\\skylakesystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\skylake-esystem.inf\\skylake-esystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\patsburgusb.inf\\patsburgusb.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\patsburgsystem.inf\\patsburgsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakesystemgmm.inf\\kabylakesystemgmm.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakesystem.inf\\kabylakesystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakepch-hsystemthermal.inf\\kabylakepch-hsystemthermal.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakepch-hsystemnorthpeak.inf\\kabylakepch-hsystemnorthpeak.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakepch-hsystemlpss.inf\\kabylakepch-hsystemlpss.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\kabylakepch-hsystem.inf\\kabylakepch-hsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\haswellsystem.inf\\haswellsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\cougarpointusb.inf\\cougarpointusb.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\commonsystem.inf\\commonsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\broadwellsystem.inf\\broadwellsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\braswellsystem.inf\\braswellsystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\baytrail-isystem.inf\\baytrail-isystem.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\HMDR4_A00-00\\apollolakesystem.inf\\apollolakesystem.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265/8260/7265/7260/3165/18265/18260/17265 Bluetooth Driver",
+      "version": "19.1.1627.3533",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/M4VHD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\network\\M4VHD_A00-00\\windows8.1-x64\\ibtusb\\wsp\\ibtusb_wsp.inf",
+        "3050 AIO\\win8.1\\x64\\network\\M4VHD_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "3050 AIO\\win8.1\\x64\\network\\M4VHD_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "3050 AIO\\win8.1\\x64\\network\\M4VHD_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.8142",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/P71YY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\audio\\P71YY_A00-00\\w8.1-x64\\hdxadcmax8.inf",
+        "3050 AIO\\win8.1\\x64\\audio\\P71YY_A00-00\\w8.1-x64\\hdxadcmax8s.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.7.0.1035",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/4J8MX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\chipset\\4J8MX_A00-00\\mesrl.inf\\mesrl.inf",
+        "3050 AIO\\win8.1\\x64\\chipset\\4J8MX_A00-00\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265/8260/18265/18260 Bluetooth Driver",
+      "version": "19.30.1648.922",
+      "url": "dell-pack://3050 AIO-win8.1-A03-4R75M.xml/16MYP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3050 AIO\\win8.1\\x64\\network\\16MYP_A00-00\\ibtusb\\wsp\\ibtusb.inf",
+        "3050 AIO\\win8.1\\x64\\network\\16MYP_A00-00\\ibtusb\\sfp\\ibtusb.inf"
+      ]
     }
   ],
   "components": {}

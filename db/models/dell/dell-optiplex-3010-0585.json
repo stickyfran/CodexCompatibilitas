@@ -299,6 +299,242 @@
       "hardware_ids": [
         "3010\\xp\\x86\\network\\NJP9P_A00-00\\extracted\\drivers\\winxp\\wl\\bcmwl5.inf"
       ]
+    },
+    {
+      "category": "communication",
+      "name": "Conexant D400 USB 56K Modem;D400 External USB 56K Modem",
+      "version": "1.0.0.0",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/691P6_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\communication\\691P6_A02-00\\xpx86\\dellusb5.inf",
+        "3010\\xp\\x86\\communication\\691P6_A02-00\\xpx86\\nw\\layout.bin",
+        "3010\\xp\\x86\\communication\\691P6_A02-00\\xpx86\\dld\\layout.bin"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "CUS,CRD,INTFC,PCIE,SER,FH,790;ASSY,CRD,INTFC,PCIE,SER/PRL,FH;ASSY,CRD,INTFC,PCIE,SER,HH;ASSY,CRD,INTFC,PCIE,PRL,LPF",
+      "version": "7.2.0.0",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/DMD90_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\communication\\DMD90_A00-00\\xpx86\\snxpci.inf",
+        "3010\\xp\\x86\\communication\\DMD90_A00-00\\xpx86\\snxpcip.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek RTL81XX PCI-E Network Connection",
+      "version": "2.1.2013.416",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/5M02W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\network\\5M02W_A00-00\\production\\xp-x86\\netrtle.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "IO Interconnect USB 3.0 PCIe Card",
+      "version": "1.0.0.114",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/J1RHD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\chipset\\J1RHD_A00-00\\extracted\\drivers\\x86\\etronxhci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "NEC USB3.0 xHCI;ASSY,CRD,INTFC,USB,3.0,HH,ECS;USB 3.0 Host Controller Driver;ASSY,CRD,INTFC,USB,3.0,FH,ECS;NEC USB 3.0 xHCI",
+      "version": "2.0.30.0",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/36X7D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\chipset\\36X7D_A00-00\\production\\xp-x86\\nusb3hub.inf",
+        "3010\\xp\\x86\\chipset\\36X7D_A00-00\\production\\xp-x86\\nusb3xhc.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Conexant High-Definition Audio Codec CX20641/CX20651;Conexant CX20641/CX20651 HD Audio",
+      "version": "1.0.47.0",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/VWV9D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\audio\\VWV9D_A00-00\\production\\xp-x86\\pbcar5a.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Management Engine 8.x Components Installer",
+      "version": "8.1.0.1248",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/G2TGX_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\chipset\\G2TGX_A01-00\\xpx86\\extracted\\nac_pp\\intelamtpp.inf",
+        "3010\\xp\\x86\\chipset\\G2TGX_A01-00\\xpx86\\extracted\\drivers\\mei\\heci.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon HD7470;AMD Radeon HD7570;AMD HD Audio 7470",
+      "version": "8.922.0",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/38YMT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\video\\38YMT_A00-00\\packages\\drivers\\wdm\\hdmi\\xp\\atihdxp3.inf",
+        "3010\\xp\\x86\\video\\38YMT_A00-00\\packages\\drivers\\display\\xp_inf\\cx132038.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Device Software Utiity",
+      "version": "9.2.0.1030",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/T4TP8_A04-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\2008s4el.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\5000xzvp.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\5400.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\852.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\855.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\865.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\915.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\915m.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\945.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\945gm.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\965g.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\965m.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\cougahci.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\cougcore.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\cougheci.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\cougide.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\cougme.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\cougsmb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\cougusb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\e5100.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\e7220.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\e7230.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\e7300.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\e7520.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\e8500.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\esb2id2.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\esb2ide.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\esb2usb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\g33q35.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ibexahci.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ibexcore.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ibexid2.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ibexide.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ibexsmb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ibexusb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich5core.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich5id2.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich5ide.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich5usb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich6core.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich6id2.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich6ide.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich6usb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich78id2.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich78ide.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich78usb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich7core.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich8core.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich9core.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ich9usb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ichacore.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ichausb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ichxdev.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\intelcp2.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\intelcpu.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\intelioh.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\ioatdma.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\jasperfo.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\nehalmex.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\pm45gm45.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\qd3nodrv.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\snb2009.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\tcreek.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\tcrkahci.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\tcrksd.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\tcrkusb.inf",
+        "3010\\xp\\x86\\chipset\\T4TP8_A04-00\\all\\whed_dev.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Broadcom 57XX Driver/BACS;BCM95722 PCI-E NIC WIN 8;Broadcom BCM95722 PCI-E NIC;Broadcom 57XX Gigabit Integrated Controller;Broadcom 57XX Driver/BACS combined package;Broadcom 57XX Ethernet Controller",
+      "version": "17.4.2",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/0881V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\network\\0881V_A00-00\\drivers\\bdrvk57inst\\k57win32.inf",
+        "3010\\xp\\x86\\network\\0881V_A00-00\\drivers\\bdrvinst\\b57ports.inf",
+        "3010\\xp\\x86\\network\\0881V_A00-00\\drivers\\bdrvinst\\b57win32.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 2000/3000;Intel HD Graphics 2000/3000/4000;Intel HD Graphics 4000;Intel HD Graphics 2000/2500/3000/4000;Intel HD, HD 2000/2500/3000/4000",
+      "version": "6.14.10.5436",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/95G93_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\video\\95G93_A00-00\\graphics\\5436-32.inf",
+        "3010\\xp\\x86\\video\\95G93_A00-00\\displayaudio\\intcdaud.inf",
+        "3010\\xp\\x86\\video\\95G93_A00-00\\graphics\\igcompkrng600.bin",
+        "3010\\xp\\x86\\video\\95G93_A00-00\\graphics\\igfcg600m.bin",
+        "3010\\xp\\x86\\video\\95G93_A00-00\\graphics\\igfcg700m.bin",
+        "3010\\xp\\x86\\video\\95G93_A00-00\\graphics\\igkrng600.bin",
+        "3010\\xp\\x86\\video\\95G93_A00-00\\graphics\\igkrng700.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "CUS,CRD,HMCRD,1530,ROW;CUS,CRD,HMCRD,1530,SAF;Broadcom Wireless WLAN 1530 for Desktops;CUS,CRD,HMCRD,1530,BCC;CUS,CRD,HMCRD,1530,MAL;Dell Wireless WLAN 1530 Half Mini Card",
+      "version": "X00",
+      "url": "dell-pack://3010-xp-A05-G54YD.xml/NJP9P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3010\\xp\\x86\\network\\NJP9P_A00-00\\extracted\\drivers\\winxp\\wl\\bcmwl5.inf"
+      ]
     }
   ],
   "components": {}

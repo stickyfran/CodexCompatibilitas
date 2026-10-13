@@ -347,6 +347,310 @@
         "3340\\win8.1\\x64\\storage\\R4HDM_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf",
         "3340\\win8.1\\x64\\storage\\R4HDM_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iastorac.inf"
       ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel 8 Series Chipset Device Software Driver",
+      "version": "9.4.0.1027",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/3664N_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\cdvcore.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\centcore.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\centsmb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\centurt.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\cougahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\cougcore.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\cougide.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\cougsmb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\cougusb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\couide2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\cryswell.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\dh89xxcc-ahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\dh89xxcc-cor.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\dh89xxcc-id2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\dh89xxcc-ide.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\dh89xxcc-me.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\dh89xxcc-smb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\dh89xxcc-usb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\haswell.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ibexahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ibexcore.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ibexid2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ibexide.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ibexsmb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ibexusb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ich78id2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ich78ide.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ich78usb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ich7core.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\intelcp2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\intelioh.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ivybridg.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\ivytown.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\jaketown.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\jasperfo.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpcore.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpid2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpide.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpsens.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpsmb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpthrm.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpusb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxlpusb3.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxptahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxptcore.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxptid2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxptide.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxptsmb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxptusb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\lxptusb3.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\nehalmex.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\pantahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\pantcore.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\pantid2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\pantide.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\pantsmb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\pantusb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\pantusb3.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\patahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\patcore.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\patid2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\patide.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\patsmb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\patusb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\tcreek.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\tcrkahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\tcrksd.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\tcrkusb.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\whtpi2c.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\whtpi2c2.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\whtpoint.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\whtptsd.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\wptahci.inf",
+        "3340\\win8.1\\x64\\chipset\\3664N_A00-00\\win7\\wptusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1707 WiFi/BT Driver",
+      "version": "10.0.0.276",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/8Y1TW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\network\\8Y1TW_A00-00\\production\\windows8.1-x64\\wlan-driver\\athwbx.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Free Fall Data Protection",
+      "version": "4.10.55",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/GY99K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\chipset\\GY99K_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Multi-Touch Touchpad Driver",
+      "version": "10.1207.101.109",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/YXX3D_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\input\\YXX3D_A00-00\\windows8.1-x64\\apfiltr.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX Memory Card Reader Driver",
+      "version": "3.0.8.38",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/VX3YR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\chipset\\VX3YR_A00-00\\windows8.1-x64\\o2fj2w8x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Smart Connect Technology Application",
+      "version": "4.2.41.2633",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/17H49_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\chipset\\17H49_A00-00\\driver\\isctd.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/9NMJ4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\security\\9NMJ4_A00-00\\vfp\\wbf_003f_drv\\wbf_vfs_003f.inf",
+        "3340\\win8.1\\x64\\security\\9NMJ4_A00-00\\o2\\oz776\\win8.1x64\\oz776x64.inf",
+        "3340\\win8.1\\x64\\security\\9NMJ4_A00-00\\gpe\\st7007.inf",
+        "3340\\win8.1\\x64\\security\\9NMJ4_A00-00\\esr\\64bits\\gkupro2d.inf",
+        "3340\\win8.1\\x64\\security\\9NMJ4_A00-00\\dell\\touchchip4wbf\\x64\\dptcdrv\\tcwbfadv.inf",
+        "3340\\win8.1\\x64\\security\\9NMJ4_A00-00\\dell\\esrg\\64bits\\gemccid.inf",
+        "3340\\win8.1\\x64\\security\\9NMJ4_A00-00\\dell\\aes2810wbf\\x64\\drivers\\atswpwdf.inf",
+        "3340\\win8.1\\x64\\security\\9NMJ4_A00-00\\aes850fp\\x64\\authentec\\drivers\\tcusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine Components Installer Driver (for non-vPro systems)",
+      "version": "9.5.15.1730",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/X0JY8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\chipset\\X0JY8_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265/3165/7260/3160 WiFi Driver",
+      "version": "17.15.0.5",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/X15C9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwbw02.inf",
+        "3340\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwew00.inf",
+        "3340\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwew01.inf",
+        "3340\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwsw00.inf",
+        "3340\\win8.1\\x64\\network\\X15C9_A00-00\\production\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5570 WWAN Mobile Broadband and GNSS (GPS) Driver",
+      "version": "6.14.4316.502",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/4R1HW_A08-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\communication\\4R1HW_A08-00\\drivers\\swg3kmdm05.inf",
+        "3340\\win8.1\\x64\\communication\\4R1HW_A08-00\\drivers\\swg3knm05.inf",
+        "3340\\win8.1\\x64\\communication\\4R1HW_A08-00\\drivers\\swg3kser05.inf",
+        "3340\\win8.1\\x64\\communication\\4R1HW_A08-00\\drivers\\swlocrm.inf",
+        "3340\\win8.1\\x64\\communication\\4R1HW_A08-00\\drivers\\swsfnode05.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\network\\90M6T_A00-00\\drivers\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek combined High-Definition Audio Driver",
+      "version": "6.0.1.6055",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/1KVVV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\audio\\1KVVV_A00-00\\production\\windows8.1-x64\\hdxadc.inf",
+        "3340\\win8.1\\x64\\audio\\1KVVV_A00-00\\production\\windows8.1-x64\\hdxadcma.inf",
+        "3340\\win8.1\\x64\\audio\\1KVVV_A00-00\\production\\windows8.1-x64\\hdxadcmax6.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx 10/100/1000 Ethernet Network Drivers",
+      "version": "20.2.0.0",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/RYMJ1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\network\\RYMJ1_A00-00\\windows8.1-x64\\e1c64x64.inf",
+        "3340\\win8.1\\x64\\network\\RYMJ1_A00-00\\windows8.1-x64\\e1d64x64.inf",
+        "3340\\win8.1\\x64\\network\\RYMJ1_A00-00\\windows8.1-x64\\e1r64x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Rapid Start Technology Application",
+      "version": "3.0.0.1056",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/DD9PK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\chipset\\DD9PK_A00-00\\production\\windows8.1-x64\\irstrtdv.inf\\irstrtdv.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/FGGYJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "3340\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\64-4280.inf",
+        "3340\\win8.1\\x64\\video\\FGGYJ_A00-00\\windows8.1-x64\\64-4280.inf\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.1.0.1058",
+      "url": "dell-pack://3340-win8.1-A06-2J9G1.xml/R4HDM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3340\\win8.1\\x64\\storage\\R4HDM_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf",
+        "3340\\win8.1\\x64\\storage\\R4HDM_A00-00\\production\\windows8.1-x64\\iaahcic.inf\\iastorac.inf"
+      ]
     }
   ],
   "components": {}

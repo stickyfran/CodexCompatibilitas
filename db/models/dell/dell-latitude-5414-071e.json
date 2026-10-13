@@ -33,6 +33,827 @@
       "release_date": "2019-02-12T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "communication",
+      "name": "U-Blox GPS Driver",
+      "version": "2.24.0.0",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/TX5Y1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\communication\\TX5Y1_A00-00\\ubloxvcpdriver\\ubloxvcp.inf",
+        "5414\\Win7\\x64\\communication\\TX5Y1_A00-00\\ubloxsensor\\wingpssensordriverx64\\ubloxsensorgps.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.7.0.1054",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/19Y3F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\chipset\\19Y3F_A00-00\\windows7-x64\\mesrl.inf\\mesrl.inf",
+        "5414\\Win7\\x64\\chipset\\19Y3F_A00-00\\windows7-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.0079",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\chipset\\DFDP5_A00-00\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.44.2018.0504",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/7MFNK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\network\\7MFNK_A00-00\\w7-x64\\rtux64w7.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.3.108.0",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/D8VDT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\network\\D8VDT_A00-00\\windows7-x64\\e1c62x64.inf",
+        "5414\\Win7\\x64\\network\\D8VDT_A00-00\\windows7-x64\\e1d62x64.inf",
+        "5414\\Win7\\x64\\network\\D8VDT_A00-00\\windows7-x64\\e1r62x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.13",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/WGP6H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\commonsystem.inf\\commonsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "5414\\Win7\\x64\\chipset\\WGP6H_A00-00\\windows7-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB eXtensible Host Controller Driver",
+      "version": "5.0.3.42",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/4H5XG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\chipset\\4H5XG_A00-00\\x64\\iusb3hub.inf",
+        "5414\\Win7\\x64\\chipset\\4H5XG_A00-00\\x64\\iusb3xhc.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1802/1707/1601/1506 WiFi/Bluetooth Driver",
+      "version": "10.0.0.341",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/WF2N2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\wlan-driver\\netathrx.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\athdfu.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\atheros_bth.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_a2dp.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_audio_flt.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_bus.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_flt.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_hcrp.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_hid.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_lwflt.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_pan.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_rcp.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_vdp.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\bthathfax.inf",
+        "5414\\Win7\\x64\\network\\WF2N2_A00-00\\bluetooth-driver\\leath_hid.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "FTDI USB Serial Port Driver",
+      "version": "2.12.10.0",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/YXC63_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\communication\\YXC63_A00-00\\ftdibus.inf",
+        "5414\\Win7\\x64\\communication\\YXC63_A00-00\\ftdiport.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.2.2.1030",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/58JD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\storage\\58JD8_A00-00\\iastorac.inf\\iastorac.inf",
+        "5414\\Win7\\x64\\storage\\58JD8_A00-00\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A QCA9377 WiFi Bluetooth Driver",
+      "version": "11.0.0.788",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/JNXJ9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\netathr7x.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\atheros_bth.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_a2dp.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_audio_flt.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_bus.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_flt.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_hcrp.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_hid.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_lwflt.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\btath_rcp.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\leath_hid.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\dell\\atheros_bth.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_a2dp.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_audio_flt.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\bluetooth_driver\\audio\\btath_rcp.inf",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\qca61x430.bin",
+        "5414\\Win7\\x64\\network\\JNXJ9_A00-00\\windows7-x64\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek USB Memory Card Reader Driver",
+      "version": "10.0.10586.31222",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/N77M2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\chipset\\N77M2_A00-00\\windows7-x64\\rtsuerx.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 500 P500 series Driver",
+      "version": "21.20.16.4821",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/TJ1KJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\video\\TJ1KJ_A00-00\\w7-x64\\ki125585.inf\\21.20.16.4821\\ki125585.inf",
+        "5414\\Win7\\x64\\video\\TJ1KJ_A00-00\\w7-x64\\intcdaud.inf\\6.16.00.3200\\intcdaud.inf",
+        "5414\\Win7\\x64\\video\\TJ1KJ_A00-00\\w7-x64\\ki125585.inf\\21.20.16.4821\\cp_resources.bin",
+        "5414\\Win7\\x64\\video\\TJ1KJ_A00-00\\w7-x64\\ki125585.inf\\21.20.16.4821\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Conexant Audio CX20772 Driver",
+      "version": "1.0.65.0",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/FJ3VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\audio\\FJ3VM_A00-00\\windows7-x64\\dpdokua.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Graphics Driver",
+      "version": "15.201.1201",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/KR4R3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\display\\wt_inf\\cb188456.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\display\\wt_inf\\ct188456.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\display\\wt_inf\\cw188456.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\display\\wt6a_inf\\c0188456.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\display\\wt6a_inf\\c7188456.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\display\\wt6a_inf\\cu188456.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\wt64a\\amdkmpfd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\wt\\amdkmpfd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\wb64a\\amdkmpfd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\wb\\amdkmpfd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\w764a\\amdkmpfd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\w7\\amdkmpfd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmafd\\wt64a\\amdkmafd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmafd\\wt\\amdkmafd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmafd\\wb64a\\amdkmafd.inf",
+        "5414\\Win7\\x64\\video\\KR4R3_A00-00\\drivers\\amdkmafd\\wb\\amdkmafd.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "10.2207.101.108",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/9HG8R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\input\\9HG8R_A00-00\\win7x64\\ps2x64\\apfiltr.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5814E LTE Mobile Broadband Driver",
+      "version": "6.3.3.1408",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/TJ1DC_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\communication\\TJ1DC_A00-00\\mbim\\intelmbim.inf",
+        "5414\\Win7\\x64\\communication\\TJ1DC_A00-00\\mbim\\mbimss.inf",
+        "5414\\Win7\\x64\\communication\\TJ1DC_A00-00\\gnss\\gnssdriversha1.inf",
+        "5414\\Win7\\x64\\communication\\TJ1DC_A00-00\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18260 17265 8265 8260 7265 3165 7260 WiFi Driver",
+      "version": "20.70.0.8912",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/1D55R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\network\\1D55R_A00-00\\windows7-x64\\netwsw02.inf",
+        "5414\\Win7\\x64\\network\\1D55R_A00-00\\windows7-x64\\netwsw04.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.7.30.74",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/MWKR0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\security\\MWKR0_A00-00\\w7-x64\\wbf\\ushwbfdrv.inf",
+        "5414\\Win7\\x64\\security\\MWKR0_A00-00\\w7-x64\\nfc\\bcmnfcscr7.inf",
+        "5414\\Win7\\x64\\security\\MWKR0_A00-00\\w7-x64\\nfc\\bcmnfcser7.inf",
+        "5414\\Win7\\x64\\security\\MWKR0_A00-00\\w7-x64\\nfc\\bcmnfcusb7.inf",
+        "5414\\Win7\\x64\\security\\MWKR0_A00-00\\w7-x64\\cv\\cvusbdrv.inf",
+        "5414\\Win7\\x64\\security\\MWKR0_A00-00\\w7-x64\\ccid\\bcmccid.inf",
+        "5414\\Win7\\x64\\security\\MWKR0_A00-00\\w7-x64\\cv\\firmware\\clearscd.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265 8260 7265 3165 7260 Bluetooth Driver",
+      "version": "20.20.0.2",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/CNMC0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\network\\CNMC0_A00-00\\w7-x64\\wsp\\ibtusb.inf",
+        "5414\\Win7\\x64\\network\\CNMC0_A00-00\\w7-x64\\wp\\ibtusb.inf",
+        "5414\\Win7\\x64\\network\\CNMC0_A00-00\\w7-x64\\stp\\ibtusb.inf",
+        "5414\\Win7\\x64\\network\\CNMC0_A00-00\\w7-x64\\sfp\\ibtusb.inf",
+        "5414\\Win7\\x64\\network\\CNMC0_A00-00\\w7-x64\\sdp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell WLAN HotKey Driver",
+      "version": "1.0.0.8",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/4FNWH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\network\\4FNWH_A00-00\\win7x64\\dellrctl.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5809e LTE Mobile Broadband and GNSS driver",
+      "version": "6.33.4706.503",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/FHCR9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\communication\\FHCR9_A00-00\\w7-x64\\swg3kbus05.inf",
+        "5414\\Win7\\x64\\communication\\FHCR9_A00-00\\w7-x64\\swg3kmdm05.inf",
+        "5414\\Win7\\x64\\communication\\FHCR9_A00-00\\w7-x64\\swg3knet05.inf",
+        "5414\\Win7\\x64\\communication\\FHCR9_A00-00\\w7-x64\\swg3knm05.inf",
+        "5414\\Win7\\x64\\communication\\FHCR9_A00-00\\w7-x64\\swg3kser05.inf",
+        "5414\\Win7\\x64\\communication\\FHCR9_A00-00\\w7-x64\\comp\\swg3kcomp05.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.6126",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/XV33H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\usbaudio\\rtxusbad.inf",
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\usbaudio\\rtxusbad2.inf",
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\usbaudio\\rtxusbad3.inf",
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\usbaudio\\rtxusbsf.inf",
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\hdaudio\\hdxadc.inf",
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\hdaudio\\hdxadcma.inf",
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\hdaudio\\hdxadcmax6.inf",
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\hdaudio\\hdxadcmax7.inf",
+        "5414\\Win7\\x64\\audio\\XV33H_A00-00\\windows7-x64\\hdaudio\\hdxsst.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18260 17265 8265 8260 7265 3165 7260 WiFi Driver",
+      "version": "20.70.0.8912",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/N67XJ_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\network\\N67XJ_A00-00\\windows7-x86\\netwsn02.inf",
+        "5414\\Win7\\x86\\network\\N67XJ_A00-00\\windows7-x86\\netwsn04.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "U-Blox GPS Driver",
+      "version": "2.24.0.0",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/TX5Y1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\communication\\TX5Y1_A00-00\\ubloxvcpdriver\\ubloxvcp.inf",
+        "5414\\Win7\\x86\\communication\\TX5Y1_A00-00\\ubloxsensor\\wingpssensordriverx86\\ubloxsensorgps.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.0079",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/DFDP5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\chipset\\DFDP5_A00-00\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD Graphics 500 P500 series Driver",
+      "version": "21.20.16.4821",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/877G5_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\video\\877G5_A00-00\\windows7-x86\\ki125497.inf\\21.20.16.4821\\ki125497.inf",
+        "5414\\Win7\\x86\\video\\877G5_A00-00\\windows7-x86\\intcdaud.inf\\6.16.00.3200\\intcdaud.inf",
+        "5414\\Win7\\x86\\video\\877G5_A00-00\\windows7-x86\\ki125497.inf\\21.20.16.4821\\cp_resources.bin",
+        "5414\\Win7\\x86\\video\\877G5_A00-00\\windows7-x86\\ki125497.inf\\21.20.16.4821\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel I2xx/825xx Gigabit Ethernet Network Controller Driver",
+      "version": "22.3.108.0",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/D8VDT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\network\\D8VDT_A00-00\\windows7-x86\\e1c6232.inf",
+        "5414\\Win7\\x86\\network\\D8VDT_A00-00\\windows7-x86\\e1d6232.inf",
+        "5414\\Win7\\x86\\network\\D8VDT_A00-00\\windows7-x86\\e1r6232.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.1.1.13",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/WGP6H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\valleyview2usb.inf\\valleyview2usb.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\valleyview2system.inf\\valleyview2system.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\skylakesystem.inf\\skylakesystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\haswellsystem.inf\\haswellsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\cougarpointusb.inf\\cougarpointusb.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\commonsystem.inf\\commonsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\broadwellsystem.inf\\broadwellsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\braswellsystem.inf\\braswellsystem.inf",
+        "5414\\Win7\\x86\\chipset\\WGP6H_A00-00\\windows7-x86\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB eXtensible Host Controller Driver",
+      "version": "5.0.3.42",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/4H5XG_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\chipset\\4H5XG_A00-00\\x86\\iusb3hub.inf",
+        "5414\\Win7\\x86\\chipset\\4H5XG_A00-00\\x86\\iusb3xhc.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell WLAN HotKey Driver",
+      "version": "1.0.0.8",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/K3K54_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\network\\K3K54_A00-00\\win7x86\\dellrctl.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "FTDI USB Serial Port Driver",
+      "version": "2.12.10.0",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/YXC63_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\communication\\YXC63_A00-00\\ftdibus.inf",
+        "5414\\Win7\\x86\\communication\\YXC63_A00-00\\ftdiport.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "15.2.2.1030",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/58JD8_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\storage\\58JD8_A00-00\\iastorac.inf\\iastorac.inf",
+        "5414\\Win7\\x86\\storage\\58JD8_A00-00\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A QCA9377 WiFi Bluetooth Driver",
+      "version": "11.0.0.788",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/JNXJ9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\netathr7.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\atheros_bth.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_a2dp.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_audio_flt.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_bus.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_flt.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_hcrp.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_hid.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_lwflt.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\btath_rcp.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\leath_hid.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\dell\\atheros_bth.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_a2dp.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_audio_flt.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\bluetooth_driver\\audio\\btath_rcp.inf",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\qca61x430.bin",
+        "5414\\Win7\\x86\\network\\JNXJ9_A00-00\\windows7-x86\\wlan_driver\\qca9377.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek USB Memory Card Reader Driver",
+      "version": "10.0.10586.31222",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/N77M2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\chipset\\N77M2_A00-00\\windows7-x86\\rtsuerx.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Conexant Audio CX20772 Driver",
+      "version": "1.0.65.0",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/FJ3VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\audio\\FJ3VM_A00-00\\windows7-x86\\dpdokua.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Graphics Driver",
+      "version": "15.201.1201",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/KR4R3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\display\\wt_inf\\cb188456.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\display\\wt_inf\\ct188456.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\display\\wt_inf\\cw188456.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\display\\wt6a_inf\\c0188456.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\display\\wt6a_inf\\c7188456.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\display\\wt6a_inf\\cu188456.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\wt64a\\amdkmpfd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\wt\\amdkmpfd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\wb64a\\amdkmpfd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\wb\\amdkmpfd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\w764a\\amdkmpfd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmpfd\\w7\\amdkmpfd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmafd\\wt64a\\amdkmafd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmafd\\wt\\amdkmafd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmafd\\wb64a\\amdkmafd.inf",
+        "5414\\Win7\\x86\\video\\KR4R3_A00-00\\drivers\\amdkmafd\\wb\\amdkmafd.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5814E LTE Mobile Broadband Driver",
+      "version": "6.3.3.1408",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/K1MHV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\communication\\K1MHV_A00-00\\mbim\\intelmbim.inf",
+        "5414\\Win7\\x86\\communication\\K1MHV_A00-00\\mbim\\mbimss.inf",
+        "5414\\Win7\\x86\\communication\\K1MHV_A00-00\\gnss\\gnssdriversha1.inf",
+        "5414\\Win7\\x86\\communication\\K1MHV_A00-00\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell Touchpad Driver",
+      "version": "10.2207.101.108",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/9HG8R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\input\\9HG8R_A00-00\\win7x86\\ps2x86\\apfiltr.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek USB GBE Ethernet Controller Driver",
+      "version": "2.44.2018.0504",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/7MFNK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\network\\7MFNK_A00-00\\w7-x86\\rtux86w7.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8265 8260 7265 3165 7260 Bluetooth Driver",
+      "version": "19.70.0.4",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/7JJ7Y_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\network\\7JJ7Y_A00-00\\w7-x86\\wsp\\ibtusb.inf",
+        "5414\\Win7\\x86\\network\\7JJ7Y_A00-00\\w7-x86\\wp\\ibtusb.inf",
+        "5414\\Win7\\x86\\network\\7JJ7Y_A00-00\\w7-x86\\stp\\ibtusb.inf",
+        "5414\\Win7\\x86\\network\\7JJ7Y_A00-00\\w7-x86\\sfp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "11.7.0.1054",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/19Y3F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\chipset\\19Y3F_A00-00\\windows7-x86\\mesrl.inf\\mesrl.inf",
+        "5414\\Win7\\x86\\chipset\\19Y3F_A00-00\\windows7-x86\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.1.6126",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/XV33H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\audio\\XV33H_A00-00\\windows7-x86\\usbaudio\\rtkusbad.inf",
+        "5414\\Win7\\x86\\audio\\XV33H_A00-00\\windows7-x86\\usbaudio\\rtkusbad2.inf",
+        "5414\\Win7\\x86\\audio\\XV33H_A00-00\\windows7-x86\\usbaudio\\rtkusbad3.inf",
+        "5414\\Win7\\x86\\audio\\XV33H_A00-00\\windows7-x86\\usbaudio\\rtkusbsf.inf",
+        "5414\\Win7\\x86\\audio\\XV33H_A00-00\\windows7-x86\\hdaudio\\hdaadc.inf",
+        "5414\\Win7\\x86\\audio\\XV33H_A00-00\\windows7-x86\\hdaudio\\hdaadcma.inf",
+        "5414\\Win7\\x86\\audio\\XV33H_A00-00\\windows7-x86\\hdaudio\\hdaadcmax6.inf",
+        "5414\\Win7\\x86\\audio\\XV33H_A00-00\\windows7-x86\\hdaudio\\hdaadcmax7.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1802/1707/1601/1506 WiFi/Bluetooth Driver",
+      "version": "10.0.0.341",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/WF2N2_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\wlan-driver\\netathr.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\athdfu.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\atheros_bth.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_a2dp.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_audio_flt.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_bus.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_flt.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_hcrp.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_hid.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_lwflt.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_pan.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_rcp.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\btath_vdp.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\bthathfax.inf",
+        "5414\\Win7\\x86\\network\\WF2N2_A00-00\\bluetooth-driver\\leath_hid.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "DW5809e LTE Mobile Broadband and GNSS driver",
+      "version": "6.33.4706.503",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/FHCR9_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\communication\\FHCR9_A00-00\\w7-x86\\swg3kbus05.inf",
+        "5414\\Win7\\x86\\communication\\FHCR9_A00-00\\w7-x86\\swg3kmdm05.inf",
+        "5414\\Win7\\x86\\communication\\FHCR9_A00-00\\w7-x86\\swg3knet05.inf",
+        "5414\\Win7\\x86\\communication\\FHCR9_A00-00\\w7-x86\\swg3knm05.inf",
+        "5414\\Win7\\x86\\communication\\FHCR9_A00-00\\w7-x86\\swg3kser05.inf",
+        "5414\\Win7\\x86\\communication\\FHCR9_A00-00\\w7-x86\\comp\\swg3kcomp05.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.7.30.74",
+      "url": "dell-pack://5414-Win7-A09-98Y48.xml/4YTKF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "5414\\Win7\\x86\\security\\4YTKF_A00-00\\w7-x86\\wbf\\ushwbfdrv.inf",
+        "5414\\Win7\\x86\\security\\4YTKF_A00-00\\w7-x86\\nfc\\bcmnfcscr7.inf",
+        "5414\\Win7\\x86\\security\\4YTKF_A00-00\\w7-x86\\nfc\\bcmnfcser7.inf",
+        "5414\\Win7\\x86\\security\\4YTKF_A00-00\\w7-x86\\nfc\\bcmnfcusb7.inf",
+        "5414\\Win7\\x86\\security\\4YTKF_A00-00\\w7-x86\\cv\\cvusbdrv.inf",
+        "5414\\Win7\\x86\\security\\4YTKF_A00-00\\w7-x86\\ccid\\bcmccid.inf",
+        "5414\\Win7\\x86\\security\\4YTKF_A00-00\\w7-x86\\cv\\firmware\\clearscd.bin"
+      ]
+    }
+  ],
   "components": {}
 }

@@ -841,6 +841,824 @@
         "3430\\win10\\x64\\communication\\9MFWH_A00-00\\windows10-x64\\14393\\drivers\\snxpci.inf",
         "3430\\win10\\x64\\communication\\9MFWH_A00-00\\windows10-x64\\14393\\drivers\\snxpcip.inf"
       ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "17.5.9.1040",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/KV2CM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\storage\\KV2CM_A00-00\\windows10-x64\\iastorac.inf\\iastorac.inf",
+        "3430\\win10\\x64\\storage\\KV2CM_A00-00\\windows10-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Desktop Graphics Driver",
+      "version": "27.21.14.5239",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/DRX48_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\video\\DRX48_A00-00\\ppc\\nvppc.inf",
+        "3430\\win10\\x64\\video\\DRX48_A00-00\\hdaudio\\nvhda.inf",
+        "3430\\win10\\x64\\video\\DRX48_A00-00\\1\\nvdw.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon Pro Desktop Graphics Driver",
+      "version": "27.20.1028.2002",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/89MY7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\ssg\\wt64a\\amdssg64.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\sbdrv\\amducsi\\wt64a\\amducsi.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\display\\wt6a_inf\\amdkmdae.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\display\\wt6a_inf\\u0358325.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\display\\wt6a_inf\\uwppair\\uwppair.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\display\\wt6a_inf\\amdlog\\amdlog.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\audio\\hdmi\\wt64a\\atihdwt6.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Sunix USB 3.1 Cypress Card Driver",
+      "version": "1.2.3.27",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/FWMC1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\communication\\FWMC1_A00-00\\windows10-x64\\cyusb3.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.2020.7",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/RDY6W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\RDY6W_A00-00\\production\\windows10-x64\\0\\drivers\\wu\\ialpss2_gpio2_cnl.inf",
+        "3430\\win10\\x64\\chipset\\RDY6W_A00-00\\production\\windows10-x64\\0\\drivers\\wu\\ialpss2_i2c_cnl.inf",
+        "3430\\win10\\x64\\chipset\\RDY6W_A00-00\\production\\windows10-x64\\0\\drivers\\wu\\ialpss2_spi_cnl.inf",
+        "3430\\win10\\x64\\chipset\\RDY6W_A00-00\\production\\windows10-x64\\0\\drivers\\wu\\ialpss2_uart2_cnl.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel PCIe Ethernet Controller Driver",
+      "version": "25.5.0.0",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/XX4J1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\XX4J1_A00-00\\windows10-x64\\e1d68x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel NIC Family Drivers",
+      "version": "24.1.0",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/RV00C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\RV00C_A00-00\\windows10-x64\\x710\\i40ea68.inf",
+        "3430\\win10\\x64\\network\\RV00C_A00-00\\windows10-x64\\x550\\ixs68x64.inf",
+        "3430\\win10\\x64\\network\\RV00C_A00-00\\windows10-x64\\x540\\ixt68x64.inf",
+        "3430\\win10\\x64\\network\\RV00C_A00-00\\windows10-x64\\i350_i210\\e1r68x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
+      "version": "21.110.0.3",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/52Y48_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\thp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\stp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\sfp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\sdp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\jfp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\hrp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\ccp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsdhost.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsdhost.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\coffeelakesystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\denvertonports.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\denvertonsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemgmm.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-nsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-nsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakesystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakeusbfunctioncontroller.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakesystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakesystemgmm.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\lewisburgsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\null_hecisystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylake-esystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystemgmm.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsdhost.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemthermal.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Aquantia 5G Network Add-in Card Driver",
+      "version": "2.1.16.0",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/20KV7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\20KV7_A00-00\\windows10-x64\\aqnic650.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
+      "version": "21.110.2.1",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/39G3R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv04customizations.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv06customizations.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv08customizations.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\pie\\piecomponent.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\pie\\pieextension.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw04.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw06.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw08.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.8710.1",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/WKKK3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxdellbc2018.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxdellbcsst2018.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxdellcsmb2018.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxdellsstcsmb2018.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxhapdellcsmb.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\thirdparty\\waves\\dellaudioextwaves.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\thirdparty\\waves\\wavesapo75de.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\realteksstppdll_21\\realteksstppdll.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\realtekservice_172\\realtekservice.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\realtekasio_4\\realtekasio.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\realtekapo_686\\realtekapo.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellbcext_dsp.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellbcext_waves.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellbcext_waves_ma8mv5.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellcsmbext_dsp.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellcsmbext_waves.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellcsmbext_waves_ma77mv47.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellcsmbext_waves_ma8mv5.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_hap_dellcsmbext_dsp.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_hap_dellcsmbext_waves_ma8mv5.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\alexacfgext_8710\\alexadellconfig.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 WiFi and Bluetooth Driver",
+      "version": "12.0.0.916",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/4424H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\netathr10x.inf",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\bluetooth_driver\\atheros_bth.inf",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0419.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e0.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e2.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e9.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p83f.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p87g.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_089c.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p87g.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p88g.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\qca61x4_2_2.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\qca9377_2_0.bin"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "27.20.100.8853",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/0JXVV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\cui_dch.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\hdbusext.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\igcc_dch.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\iigd_dch.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\iigd_ext.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\mshdadac.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\displayaudio\\11.2\\intcdaud.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\displayaudio\\11.1\\intcdaud.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\displayaudio\\10.27\\intcdaud.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\displayaudio\\10.26\\intcdaud.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\cp_resources.bin"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.12.6.15",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/CHJ9P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\wbf\\ushwbfdrv.inf",
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\nfc\\bcmnfcser.inf",
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\nfc\\bcmnfcusb.inf",
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\cv\\cvusbdrv.inf",
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\cv\\firmware\\clearscd.bin"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.1.4.1",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/RV0MM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\input\\RV0MM_A00-00\\win10x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Cypress USB Connector Manager Class Extension Driver",
+      "version": "1.2.1.20",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/H76XV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\H76XV_A00-00\\windows10-x64\\cyucmclient.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "17.4.78.500",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/3K7DX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\3K7DX_A00-00\\w10x64\\tbt100x.inf",
+        "3430\\win10\\x64\\chipset\\3K7DX_A00-00\\w10x64\\tp2p100x.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2036.15.0.1835",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/08PM4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\08PM4_A00-00\\windows10-x64\\wiman_wlan_extension.inf\\wiman_wlan_extension.inf",
+        "3430\\win10\\x64\\chipset\\08PM4_A00-00\\windows10-x64\\wiman.inf\\wiman.inf",
+        "3430\\win10\\x64\\chipset\\08PM4_A00-00\\windows10-x64\\mesrl.inf\\mesrl.inf",
+        "3430\\win10\\x64\\chipset\\08PM4_A00-00\\windows10-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.16299.21305",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/8N0GR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\8N0GR_A00-00\\windows10-x64\\rtsperdl.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Sunix Serial and Parallel Card Driver",
+      "version": "9.0.4.1",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/9MFWH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\communication\\9MFWH_A00-00\\windows10-x64\\14393\\drivers\\snxpci.inf",
+        "3430\\win10\\x64\\communication\\9MFWH_A00-00\\windows10-x64\\14393\\drivers\\snxpcip.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "17.5.9.1040",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/KV2CM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\storage\\KV2CM_A00-00\\windows10-x64\\iastorac.inf\\iastorac.inf",
+        "3430\\win10\\x64\\storage\\KV2CM_A00-00\\windows10-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "NVIDIA Quadro Desktop Graphics Driver",
+      "version": "27.21.14.5239",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/DRX48_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\video\\DRX48_A00-00\\ppc\\nvppc.inf",
+        "3430\\win10\\x64\\video\\DRX48_A00-00\\hdaudio\\nvhda.inf",
+        "3430\\win10\\x64\\video\\DRX48_A00-00\\1\\nvdw.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "AMD Radeon Pro Desktop Graphics Driver",
+      "version": "27.20.1028.2002",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/89MY7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\ssg\\wt64a\\amdssg64.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\sbdrv\\amducsi\\wt64a\\amducsi.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\display\\wt6a_inf\\amdkmdae.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\display\\wt6a_inf\\u0358325.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\display\\wt6a_inf\\uwppair\\uwppair.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\display\\wt6a_inf\\amdlog\\amdlog.inf",
+        "3430\\win10\\x64\\video\\89MY7_A00-00\\windows10-x64\\packages\\drivers\\audio\\hdmi\\wt64a\\atihdwt6.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Sunix USB 3.1 Cypress Card Driver",
+      "version": "1.2.3.27",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/FWMC1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\communication\\FWMC1_A00-00\\windows10-x64\\cyusb3.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.100.2020.7",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/RDY6W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\RDY6W_A00-00\\production\\windows10-x64\\0\\drivers\\wu\\ialpss2_gpio2_cnl.inf",
+        "3430\\win10\\x64\\chipset\\RDY6W_A00-00\\production\\windows10-x64\\0\\drivers\\wu\\ialpss2_i2c_cnl.inf",
+        "3430\\win10\\x64\\chipset\\RDY6W_A00-00\\production\\windows10-x64\\0\\drivers\\wu\\ialpss2_spi_cnl.inf",
+        "3430\\win10\\x64\\chipset\\RDY6W_A00-00\\production\\windows10-x64\\0\\drivers\\wu\\ialpss2_uart2_cnl.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel PCIe Ethernet Controller Driver",
+      "version": "25.5.0.0",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/XX4J1_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\XX4J1_A00-00\\windows10-x64\\e1d68x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel NIC Family Drivers",
+      "version": "24.1.0",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/RV00C_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\RV00C_A00-00\\windows10-x64\\x710\\i40ea68.inf",
+        "3430\\win10\\x64\\network\\RV00C_A00-00\\windows10-x64\\x550\\ixs68x64.inf",
+        "3430\\win10\\x64\\network\\RV00C_A00-00\\windows10-x64\\x540\\ixt68x64.inf",
+        "3430\\win10\\x64\\network\\RV00C_A00-00\\windows10-x64\\i350_i210\\e1r68x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/8265/7265/3165 Bluetooth UWD Driver",
+      "version": "21.110.0.3",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/52Y48_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\wsp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\thp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\stp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\sfp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\sdp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\jfp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\hrp\\ibtusb.inf",
+        "3430\\win10\\x64\\network\\52Y48_A00-00\\windows10-x64\\ibtusb\\ccp\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.18121.8164",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/5MPRF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsdhost.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-hsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsdhost.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cannonlake-lpsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\coffeelakesystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\cometlakepch-lpsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\denvertonports.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\denvertonsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemgmm.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\geminilakesystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-lpsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-nsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakepch-nsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakesystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\icelakeusbfunctioncontroller.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakepch-hsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakesystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\kabylakesystemgmm.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\lewisburgsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\null_hecisystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylake-esystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystemgmm.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\skylakesystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-hsystemthermal.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsdhost.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystem.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemlpss.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemnorthpeak.inf",
+        "3430\\win10\\x64\\chipset\\5MPRF_A00-00\\windows10-x64\\sunrisepoint-lpsystemthermal.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Aquantia 5G Network Add-in Card Driver",
+      "version": "2.1.16.0",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/20KV7_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\20KV7_A00-00\\windows10-x64\\aqnic650.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 9560/9260/8265/7265/3165 Wi-Fi Driver",
+      "version": "21.110.2.1",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/39G3R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv04customizations.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv06customizations.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\special configs\\wifidrv08customizations.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\pie\\piecomponent.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\utilities\\pie\\pieextension.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw04.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw06.inf",
+        "3430\\win10\\x64\\network\\39G3R_A00-00\\windows10-x64\\drivers\\netwtw08.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High Definition Audio Driver",
+      "version": "6.0.8710.1",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/WKKK3_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxdellbc2018.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxdellbcsst2018.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxdellcsmb2018.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxdellsstcsmb2018.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\hdxhapdellcsmb.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\thirdparty\\waves\\dellaudioextwaves.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\thirdparty\\waves\\wavesapo75de.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\realteksstppdll_21\\realteksstppdll.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\realtekservice_172\\realtekservice.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\realtekasio_4\\realtekasio.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\realtekapo_686\\realtekapo.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellbcext_dsp.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellbcext_waves.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellbcext_waves_ma8mv5.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellcsmbext_dsp.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellcsmbext_waves.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellcsmbext_waves_ma77mv47.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_dellcsmbext_waves_ma8mv5.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_hap_dellcsmbext_dsp.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\extrtk_8710\\hdx_hap_dellcsmbext_waves_ma8mv5.inf",
+        "3430\\win10\\x64\\audio\\WKKK3_A00-00\\windows10-x64\\r\\realtek\\alexacfgext_8710\\alexadellconfig.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Qualcomm QCA61x4A/QCA6174A-XR/QCA9377 WiFi and Bluetooth Driver",
+      "version": "12.0.0.916",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/4424H_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\netathr10x.inf",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\bluetooth_driver\\atheros_bth.inf",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0410.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_0419.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e0.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e2.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_08e9.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p83f.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_p87g.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_rv_0519.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0522.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0523.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_de_0524.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa364xp_ssku_rv_0519.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_089c.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p87g.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\eeprom_qca9377_1p1_nfa435_olpc_de_p88g.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\qca61x4_2_2.bin",
+        "3430\\win10\\x64\\network\\4424H_A00-00\\windows10-x64\\wlan_driver\\qca9377_2_0.bin"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel UHD Graphics Driver",
+      "version": "27.20.100.8853",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/0JXVV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\cui_dch.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\hdbusext.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\igcc_dch.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\iigd_dch.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\iigd_ext.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\mshdadac.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\displayaudio\\11.2\\intcdaud.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\displayaudio\\11.1\\intcdaud.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\displayaudio\\10.27\\intcdaud.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\displayaudio\\10.26\\intcdaud.inf",
+        "3430\\win10\\x64\\video\\0JXVV_A00-00\\windows10-x64\\graphics\\cp_resources.bin"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell ControlVault2 Driver and Firmware",
+      "version": "4.12.6.15",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/CHJ9P_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\wbf\\ushwbfdrv.inf",
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\nfc\\bcmnfcser.inf",
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\nfc\\bcmnfcusb.inf",
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\cv\\cvusbdrv.inf",
+        "3430\\win10\\x64\\security\\CHJ9P_A00-00\\windows10-x64\\cv\\firmware\\clearscd.bin"
+      ]
+    },
+    {
+      "category": "input",
+      "name": "Dell USB Smartcard Keyboard Driver",
+      "version": "4.1.4.1",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/RV0MM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\input\\RV0MM_A00-00\\win10x64\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Cypress USB Connector Manager Class Extension Driver",
+      "version": "1.2.1.20",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/H76XV_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\H76XV_A00-00\\windows10-x64\\cyucmclient.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Thunderbolt Controller Driver",
+      "version": "17.4.78.500",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/3K7DX_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\3K7DX_A00-00\\w10x64\\tbt100x.inf",
+        "3430\\win10\\x64\\chipset\\3K7DX_A00-00\\w10x64\\tp2p100x.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "2036.15.0.1835",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/08PM4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\08PM4_A00-00\\windows10-x64\\wiman_wlan_extension.inf\\wiman_wlan_extension.inf",
+        "3430\\win10\\x64\\chipset\\08PM4_A00-00\\windows10-x64\\wiman.inf\\wiman.inf",
+        "3430\\win10\\x64\\chipset\\08PM4_A00-00\\windows10-x64\\mesrl.inf\\mesrl.inf",
+        "3430\\win10\\x64\\chipset\\08PM4_A00-00\\windows10-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek Memory Card Reader Driver",
+      "version": "10.0.16299.21305",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/8N0GR_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\chipset\\8N0GR_A00-00\\windows10-x64\\rtsperdl.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Sunix Serial and Parallel Card Driver",
+      "version": "9.0.4.1",
+      "url": "dell-pack://3430-win10-A09-GH0FV.xml/9MFWH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3430\\win10\\x64\\communication\\9MFWH_A00-00\\windows10-x64\\14393\\drivers\\snxpci.inf",
+        "3430\\win10\\x64\\communication\\9MFWH_A00-00\\windows10-x64\\14393\\drivers\\snxpcip.inf"
+      ]
     }
   ],
   "components": {}

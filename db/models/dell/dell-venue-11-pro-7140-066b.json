@@ -33,6 +33,268 @@
       "release_date": "2016-01-12T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "chipset",
+      "name": "Intel Management Engine Components Installer",
+      "version": "10.0.31.1000",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/3TY1R_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\chipset\\3TY1R_A02-00\\drivers\\heci.inf",
+        "7140\\win8.1\\x64\\chipset\\3TY1R_A02-00\\drivers\\mesrl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software Driver",
+      "version": "10.0.20",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/35P7F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\chipset\\35P7F_A00-00\\drivers\\chipset_smbus.inf",
+        "7140\\win8.1\\x64\\chipset\\35P7F_A00-00\\drivers\\chipset_system.inf",
+        "7140\\win8.1\\x64\\chipset\\35P7F_A00-00\\drivers\\chipset_thermal.inf",
+        "7140\\win8.1\\x64\\chipset\\35P7F_A00-00\\drivers\\chipset_usb.inf",
+        "7140\\win8.1\\x64\\chipset\\35P7F_A00-00\\drivers\\chipset_win78only.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "ASIX AX88772 Local Area Network Driver",
+      "version": "3.16.8.0",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/RJFNY_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\network\\RJFNY_A01-00\\windows8.1-x64\\netax88772.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek I2S Audio Codec Driver",
+      "version": "6.4.10041.128",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/99G4C_A05-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\usbaudio\\rtxusbad.inf",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\usbaudio\\rtxusbad2.inf",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcadsp.inf",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcadspdell.inf",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcadspwaves.inf",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\i2saudio\\rtki2sacdell.inf",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcpp01.bin",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcpp02.bin",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcpp03.bin",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcpp04.bin",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcpp05.bin",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcsst1.bin",
+        "7140\\win8.1\\x64\\audio\\99G4C_A05-00\\drivers\\isst\\intcsst2.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "O2 Micro OZ777xxx/OZ621XX memory card reader Driver",
+      "version": "3.0.8.45",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/VPNKY_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\chipset\\VPNKY_A00-00\\win8.1x64\\o2fj2w8x64.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Dynamic Platform & Thermal Framework Driver",
+      "version": "8.0.10002.14",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/66P3R_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\chipset\\66P3R_A00-00\\drivers\\dptf_acpi.inf",
+        "7140\\win8.1\\x64\\chipset\\66P3R_A00-00\\drivers\\dptf_cpu.inf",
+        "7140\\win8.1\\x64\\chipset\\66P3R_A00-00\\drivers\\dptf_pch.inf",
+        "7140\\win8.1\\x64\\chipset\\66P3R_A00-00\\drivers\\esif_manager.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Virtual Buttons Driver",
+      "version": "1.0.0.15",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/41P2V_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\chipset\\41P2V_A00-00\\windows8.1-x64\\virtualbuttons.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "13.2.4.1000",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/D60VM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\storage\\D60VM_A00-00\\drivers\\iaahcic.inf",
+        "7140\\win8.1\\x64\\storage\\D60VM_A00-00\\drivers\\iastorac.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 7265 Bluetooth Application",
+      "version": "17.1.1433.2",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/YKJC1_A01-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\network\\YKJC1_A01-00\\drivers\\ibtusb.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, HD 4000/4200/4400/4600/5000/5100/5200/5300/5500 Graphics Driver.",
+      "version": "10.18.14.4280",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/FGGYJ_A17-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\video\\FGGYJ_A17-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3174\\intcdaud.inf",
+        "7140\\win8.1\\x64\\video\\FGGYJ_A17-00\\windows8.1-x64\\64-4280.inf\\64-4280.inf",
+        "7140\\win8.1\\x64\\video\\FGGYJ_A17-00\\windows8.1-x64\\64-4280.inf\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Collaborative Processor Performance Control",
+      "version": "1.0.0.1016",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/1FCDH_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\chipset\\1FCDH_A00-00\\drivers\\x64\\intelpcc.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/7260/3165 WiFi Driver",
+      "version": "18.30.0.9",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/W29M2_A16-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\network\\W29M2_A16-00\\windows8.1-x64\\netwbw02.inf",
+        "7140\\win8.1\\x64\\network\\W29M2_A16-00\\windows8.1-x64\\netwew00.inf",
+        "7140\\win8.1\\x64\\network\\W29M2_A16-00\\windows8.1-x64\\netwew01.inf",
+        "7140\\win8.1\\x64\\network\\W29M2_A16-00\\windows8.1-x64\\netwsw00.inf",
+        "7140\\win8.1\\x64\\network\\W29M2_A16-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "1.1.226.0",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/J97VW_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_uart2\\ialpss_gpio.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_uart2\\ialpss_i2c.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_uart2\\ialpss_spi.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_uart2\\ialpss_uart2.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_spi\\ialpss_gpio.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_spi\\ialpss_i2c.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_spi\\ialpss_spi.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_spi\\ialpss_uart2.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_i2c\\ialpss_gpio.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_i2c\\ialpss_i2c.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_i2c\\ialpss_spi.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_i2c\\ialpss_uart2.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_gpio\\ialpss_gpio.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_gpio\\ialpss_i2c.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_gpio\\ialpss_spi.inf",
+        "7140\\win8.1\\x64\\chipset\\J97VW_A00-00\\drivers\\ialpss_gpio\\ialpss_uart2.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Dell Wireless 5810e LTE Mobile Broadband Driver and GPS Driver - This driver is not applicable to users located in Japan",
+      "version": "1.0.19",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/7RMFD_A06-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\communication\\7RMFD_A06-00\\windows8.1-x64\\gnss\\gnssdriver.inf",
+        "7140\\win8.1\\x64\\communication\\7RMFD_A06-00\\windows8.1-x64\\flashdriver\\flashusb.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "Intel/NXP Near Field Communications Driver",
+      "version": "7.7.3.0",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/78G0N_A02-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\communication\\78G0N_A02-00\\drivers\\nfcgpiomanager.inf",
+        "7140\\win8.1\\x64\\communication\\78G0N_A02-00\\drivers\\nxpnfpprovider_win7.inf",
+        "7140\\win8.1\\x64\\communication\\78G0N_A02-00\\drivers\\nxpnfpprovider_win8.inf",
+        "7140\\win8.1\\x64\\communication\\78G0N_A02-00\\drivers\\nxpproximitypcscdrv.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Dell Data Protection|Encryption",
+      "version": "8.5.0.987",
+      "url": "dell-pack://7140-win8.1-A03-2R3GJ.xml/9NMJ4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "7140\\win8.1\\x64\\security\\9NMJ4_A00-00\\vfp\\wbf_003f_drv\\wbf_vfs_003f.inf",
+        "7140\\win8.1\\x64\\security\\9NMJ4_A00-00\\o2\\win8.1x64\\oz776x64.inf",
+        "7140\\win8.1\\x64\\security\\9NMJ4_A00-00\\gpe\\st7007.inf",
+        "7140\\win8.1\\x64\\security\\9NMJ4_A00-00\\esr\\64bits\\gkupro2d.inf",
+        "7140\\win8.1\\x64\\security\\9NMJ4_A00-00\\dell\\touchchip4wbf\\x64\\dptcdrv\\tcwbfadv.inf",
+        "7140\\win8.1\\x64\\security\\9NMJ4_A00-00\\dell\\esrg\\64bits\\gemccid.inf",
+        "7140\\win8.1\\x64\\security\\9NMJ4_A00-00\\dell\\aes2810wbf\\x64\\drivers\\atswpwdf.inf",
+        "7140\\win8.1\\x64\\security\\9NMJ4_A00-00\\aes850fp\\x64\\drivers\\tcusb.inf"
+      ]
+    }
+  ],
   "components": {}
 }

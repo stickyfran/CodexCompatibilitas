@@ -66,6 +66,50 @@
       "size_bytes": null,
       "release_date": null,
       "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "version": "11.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173508.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157679.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "version": "11.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173508.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
+    },
+    {
+      "category": "manageability - driver pack",
+      "name": "HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "version": "9.00",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157679.cva",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": []
     }
   ],
   "components": {}

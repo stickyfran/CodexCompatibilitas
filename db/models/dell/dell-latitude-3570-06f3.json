@@ -338,6 +338,301 @@
         "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
         "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
       ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel USB 3.0 eXtensible Host Controller Adaption Driver",
+      "version": "1.0.1.45",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/81YKK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\chipset\\81YKK_A00-00\\windows8.1-x64\\iusb3adp.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Intel HD, 5300, 5500, 6000, 515, 520, 530, P530, Iris 540 Graphics Driver",
+      "version": "20.19.15.4444",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/07NMM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\intcdaud.inf\\8.20.00.865\\intcdaud.inf",
+        "3570\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\intcdaud.inf\\6.16.00.3191\\intcdaud.inf",
+        "3570\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\4444-64-mb.inf\\20.19.15.4444\\4444-64-mb.inf",
+        "3570\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\4444-64-mb.inf\\20.19.15.4444\\cp_resources.bin",
+        "3570\\win8.1\\x64\\video\\07NMM_A00-00\\windows8.1-x64\\4444-64-mb.inf\\20.19.15.4444\\igdclbif.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 8260/7265/3165/7260 Bluetooth Driver",
+      "version": "18.1.1607.3129",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/75M5W_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\wp\\ibtusb_wp.inf",
+        "3570\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\stp\\ibtusb_stp.inf",
+        "3570\\win8.1\\x64\\network\\75M5W_A00-00\\windows8.1-x64\\ibtusb\\sfp\\ibtusb_sfp.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "NEXT Biometrics Fingerprint Driver",
+      "version": "11.54.2.746",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/PT9YD_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\security\\PT9YD_A00-00\\windows8.1-x64\\nbwbf.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel(R) Management Engine  Interface Driver",
+      "version": "11.0.0.1167",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/316K0_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\mesrl.inf\\mesrl.inf",
+        "3570\\win8.1\\x64\\chipset\\316K0_A00-00\\windows8.1-x64\\heci.inf\\heci.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1802 WiFi/Bluetooth Driver",
+      "version": "10.0.0.324",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/G5N9F_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\wlan-driver\\athwbx.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\atheros_bth.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_a2dp.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_audio_flt.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_bus.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_flt.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_hcrp.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_hid.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_lwflt.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_pan.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\btath_rcp.inf",
+        "3570\\win8.1\\x64\\network\\G5N9F_A00-00\\windows8.1-x64\\bluetooth-driver\\bthathfax.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell WLAN Radio Switch Driver",
+      "version": "1.0.0.5",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/R049T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\network\\R049T_A00-00\\windows8.1-x64\\dellrctl.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "ST Microelectronics Accelerometer Driver for Free Fall Data Protection",
+      "version": "4.10.71",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/KKRTP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\chipset\\KKRTP_A00-00\\windows8.1-x64\\st_accel.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Realtek USB Memory Card Reader Driver",
+      "version": "10.0.10125.31213",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/TPP51_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\chipset\\TPP51_A00-00\\windows8.1-x64\\rtsuerx.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "nVIDIA GeForce 920M Graphic Driver",
+      "version": "10.18.13.5382",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/71JCM_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\video\\71JCM_A00-00\\win8.1x64\\nv3dvisionusb.driver\\nvstusb.inf",
+        "3570\\win8.1\\x64\\video\\71JCM_A00-00\\win8.1x64\\hdaudio\\nvhda.inf",
+        "3570\\win8.1\\x64\\video\\71JCM_A00-00\\win8.1x64\\display.driver\\nvdm.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Intel 18260/17265/8260/7265/3165 WiFi Driver",
+      "version": "18.40.0.9",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/5TR5K_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwbw02.inf",
+        "3570\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwbw04.inf",
+        "3570\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwew00.inf",
+        "3570\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwew01.inf",
+        "3570\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwsw00.inf",
+        "3570\\win8.1\\x64\\network\\5TR5K_A00-00\\windows8.1-x64\\netwsw01.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Serial IO Driver",
+      "version": "30.63.1519.7",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/H94CT_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\chipset\\H94CT_A00-00\\windows8.1-x64\\ialpss2_uart2_skl.inf\\ialpss2_uart2_skl.inf",
+        "3570\\win8.1\\x64\\chipset\\H94CT_A00-00\\windows8.1-x64\\ialpss2_spi_skl.inf\\ialpss2_spi_skl.inf",
+        "3570\\win8.1\\x64\\chipset\\H94CT_A00-00\\windows8.1-x64\\ialpss2_i2c_skl.inf\\ialpss2_i2c_skl.inf",
+        "3570\\win8.1\\x64\\chipset\\H94CT_A00-00\\windows8.1-x64\\ialpss2_gpio2_skl.inf\\ialpss2_gpio2_skl.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Wireless 1820 WiFi/Bluetooth Driver",
+      "version": "11.0.0.628",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/VKGJP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\network\\VKGJP_A00-00\\windows8.1-x64\\wlan_driver\\netathrx.inf",
+        "3570\\win8.1\\x64\\network\\VKGJP_A00-00\\windows8.1-x64\\bluetooth_driver\\btfilter.inf",
+        "3570\\win8.1\\x64\\network\\VKGJP_A00-00\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213.bin",
+        "3570\\win8.1\\x64\\network\\VKGJP_A00-00\\windows8.1-x64\\wlan_driver\\eeprom_ar6320_3p0_nfa344a_power1213_de_5459.bin",
+        "3570\\win8.1\\x64\\network\\VKGJP_A00-00\\windows8.1-x64\\wlan_driver\\qca61x430.bin"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Realtek PCI-E Gigabit Ethernet Controller Drivers",
+      "version": "2.43.2015.709",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/9YMJF_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\network\\9YMJF_A00-00\\windows8.1-x64\\rt630x64.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "Dell Airplane Mode Switch Driver",
+      "version": "1.4.1.0",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/90M6T_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\network\\90M6T_A00-00\\windows8.1-x64\\dellrbtn.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Intel Rapid Storage Technology Driver and Management Console",
+      "version": "14.5.2.1088",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/T7DJK_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\storage\\T7DJK_A00-00\\windows8.1-x64\\iastorac.inf\\iastorac.inf",
+        "3570\\win8.1\\x64\\storage\\T7DJK_A00-00\\windows8.1-x64\\iaahcic.inf\\iaahcic.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "Realtek High-Definition Audio Driver",
+      "version": "6.0.1.6102",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/D00J4_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad.inf",
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\usbaudio\\rtxusbad2.inf",
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadc.inf",
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadcma.inf",
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax6.inf",
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadcmax7.inf",
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxadctype2.inf",
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxnsst.inf",
+        "3570\\win8.1\\x64\\audio\\D00J4_A00-00\\windows8.1-x64\\hdaudio\\hdxsst.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Intel Chipset Device Software",
+      "version": "10.1.1.9",
+      "url": "dell-pack://3570-win8.1-A02-PTGJ2.xml/320CP_A00-00",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\wildcatpointlpusb.inf\\wildcatpointlpusb.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\wildcatpointlpsystem.inf\\wildcatpointlpsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\valleyview2usb.inf\\valleyview2usb.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\valleyview2system.inf\\valleyview2system.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-lpsystem.inf\\sunrisepoint-lpsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-lpsdhost.inf\\sunrisepoint-lpsdhost.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sunrisepoint-hsystem.inf\\sunrisepoint-hsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\skylakesystem.inf\\skylakesystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\sandybridgesystem.inf\\sandybridgesystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\pantherpointsystem.inf\\pantherpointsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpointsystem.inf\\lynxpointsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpointlpsystem.inf\\lynxpointlpsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\lynxpoint-hrefreshsystem.inf\\lynxpoint-hrefreshsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\ivybridgesystem.inf\\ivybridgesystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\haswellsystem.inf\\haswellsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\cougarpointusb.inf\\cougarpointusb.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\cougarpointsystem.inf\\cougarpointsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\commonsystem.inf\\commonsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\broadwellsystem.inf\\broadwellsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\braswellsystem.inf\\braswellsystem.inf",
+        "3570\\win8.1\\x64\\chipset\\320CP_A00-00\\windows8.1-x64\\baytrail-isystem.inf\\baytrail-isystem.inf"
+      ]
     }
   ],
   "components": {}

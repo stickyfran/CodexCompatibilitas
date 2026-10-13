@@ -33,6 +33,281 @@
       "release_date": "2014-05-15T00:00:00"
     }
   ],
-  "individual_drivers": [],
+  "individual_drivers": [
+    {
+      "category": "input",
+      "name": "Dell USB Smart Card Reader Keyboard,Dell USB Smart Card Reader Keyboard - LTN",
+      "version": "A00",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R82752",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\input\\R82752\\gkupro2d.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Q43/Q45/G43/G45 (Eaglelake) Graphics Controller",
+      "version": "6.14.10.5009",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R207886",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\video\\R207886\\autorun.inf",
+        "760\\XP\\x86\\video\\R207886\\intchdmi.inf",
+        "760\\XP\\x86\\video\\R207886\\kit16476.inf",
+        "760\\XP\\x86\\video\\R207886\\igcompkrng500.bin",
+        "760\\XP\\x86\\video\\R207886\\igkrng400.bin",
+        "760\\XP\\x86\\video\\R207886\\igkrng500.bin"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "Chipset Software Installation Utility",
+      "version": "9.1.0.1007",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R205428",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\chipset\\R205428\\2008s4el.inf",
+        "760\\XP\\x86\\chipset\\R205428\\5000xzvp.inf",
+        "760\\XP\\x86\\chipset\\R205428\\5400.inf",
+        "760\\XP\\x86\\chipset\\R205428\\852.inf",
+        "760\\XP\\x86\\chipset\\R205428\\855.inf",
+        "760\\XP\\x86\\chipset\\R205428\\865.inf",
+        "760\\XP\\x86\\chipset\\R205428\\915.inf",
+        "760\\XP\\x86\\chipset\\R205428\\915m.inf",
+        "760\\XP\\x86\\chipset\\R205428\\945.inf",
+        "760\\XP\\x86\\chipset\\R205428\\945gm.inf",
+        "760\\XP\\x86\\chipset\\R205428\\965g.inf",
+        "760\\XP\\x86\\chipset\\R205428\\965m.inf",
+        "760\\XP\\x86\\chipset\\R205428\\dmi_pci.inf",
+        "760\\XP\\x86\\chipset\\R205428\\e5100.inf",
+        "760\\XP\\x86\\chipset\\R205428\\e7220.inf",
+        "760\\XP\\x86\\chipset\\R205428\\e7230.inf",
+        "760\\XP\\x86\\chipset\\R205428\\e7300.inf",
+        "760\\XP\\x86\\chipset\\R205428\\e7520.inf",
+        "760\\XP\\x86\\chipset\\R205428\\e8500.inf",
+        "760\\XP\\x86\\chipset\\R205428\\esb2id2.inf",
+        "760\\XP\\x86\\chipset\\R205428\\esb2ide.inf",
+        "760\\XP\\x86\\chipset\\R205428\\esb2usb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\g33q35.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich5core.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich5id2.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich5ide.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich5usb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich6core.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich6id2.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich6ide.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich6usb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich7core.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich7id2.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich7ide.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich7usb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich8core.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich8id2.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich8ide.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich8smb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich8usb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich9core.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich9id2.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich9ide.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich9smb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ich9usb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ichacore.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ichaid2.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ichaide.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ichasmb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ichausb.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ichxdev.inf",
+        "760\\XP\\x86\\chipset\\R205428\\intelcpu.inf",
+        "760\\XP\\x86\\chipset\\R205428\\intelioh.inf",
+        "760\\XP\\x86\\chipset\\R205428\\ioatdma.inf",
+        "760\\XP\\x86\\chipset\\R205428\\pm45gm45.inf",
+        "760\\XP\\x86\\chipset\\R205428\\qd3nodrv.inf",
+        "760\\XP\\x86\\chipset\\R205428\\whed_dev.inf"
+      ]
+    },
+    {
+      "category": "communication",
+      "name": "56K V.9x DFVc Modem,D850 56K V.9X PCI DF Modem ULD",
+      "version": "Drv_xp32_7.74.00.00",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R189668",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\communication\\R189668\\del200fk.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Radeon HD3470 256M",
+      "version": "8.561.0.0",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R206484",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\video\\R206484\\hdaudiodrv\\hdaudio\\xp64a\\atihdaud.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "RADEON HD 2400 XT",
+      "version": "8.49WHQLed-080409a-063306C-Dell_XP3264",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R188603",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\video\\R188603\\cx_63306.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "AMT HECI",
+      "version": "5.0.0.1098",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R197546",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\chipset\\R197546\\autorun.inf",
+        "760\\XP\\x86\\chipset\\R197546\\heci.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "ADI 198x Integrated HD Audio",
+      "version": "5.10.x.5852",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R199784",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\audio\\R199784\\adihdaud.inf"
+      ]
+    },
+    {
+      "category": "chipset",
+      "name": "AMT SOL/ LMS",
+      "version": "5.0.0.1098",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R197547",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\chipset\\R197547\\autorun.inf",
+        "760\\XP\\x86\\chipset\\R197547\\intelamtpp.inf",
+        "760\\XP\\x86\\chipset\\R197547\\mesrl.inf",
+        "760\\XP\\x86\\chipset\\R197547\\mesrle.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "RADEON HD 2400 PRO",
+      "version": "8.49WHQLed-080409a-063306C-Dell_XP3264",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R186683",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\video\\R186683\\cx_63306.inf"
+      ]
+    },
+    {
+      "category": "audio",
+      "name": "ADI 198x Integrated HD Audio",
+      "version": "5.10.x.5851",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R197257",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\audio\\R197257\\adihdaud.inf"
+      ]
+    },
+    {
+      "category": "security",
+      "name": "Trusted Platform Module (TPM)",
+      "version": "1.00.04.15",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R162565",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\security\\R162565\\tpmdrv.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "GeForce 9300GE",
+      "version": "6.14.11.7542",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R206948",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\video\\R206948\\nvdd.inf"
+      ]
+    },
+    {
+      "category": "video",
+      "name": "Radeon HD3450 256M",
+      "version": "8.561.0.0",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R206482",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\video\\R206482\\cx_67419.inf"
+      ]
+    },
+    {
+      "category": "network",
+      "name": "825xx Gigabit Platform LAN Network Device",
+      "version": "10.3.39.250",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R207259",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\network\\R207259\\e1k5132.inf"
+      ]
+    },
+    {
+      "category": "storage",
+      "name": "Matrix Storage Manager (OS Pre-Install Driver Only)",
+      "version": "8.7.1.1001",
+      "url": "dell-pack://760-XP-A02-3DWF1.xml/R208366",
+      "sha256": null,
+      "md5": null,
+      "size_bytes": null,
+      "release_date": null,
+      "hardware_ids": [
+        "760\\XP\\x86\\storage\\R208366\\iaahci.inf",
+        "760\\XP\\x86\\storage\\R208366\\iastor.inf"
+      ]
+    }
+  ],
   "components": {}
 }
