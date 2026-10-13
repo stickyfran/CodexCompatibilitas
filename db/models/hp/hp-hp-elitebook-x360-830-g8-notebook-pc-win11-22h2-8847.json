@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-830-g8-notebook-pc-win11-22h2-8847",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 830 G8 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8847",
+  "dmi_matches": [
+    "8847",
+    "HP EliteBook x360 830 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142776-HP EliteBook x360 830 G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142776.exe",
+      "size_bytes": 1307930616,
+      "md5": "d50caf78a496602cc92a4ffbbf27554a",
+      "sha256": "3DB06E297C6789BF4C8F11E4113D15B2A1F05B269EEAB2225EB5CFBF942F8B4A",
+      "version": "3.00 A 1",
+      "release_date": "9/28/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

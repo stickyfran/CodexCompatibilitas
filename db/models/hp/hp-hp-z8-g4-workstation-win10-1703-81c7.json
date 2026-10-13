@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z8-g4-workstation-win10-1703-81c7",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z8 G4 Workstation (Windows 10 64-bit, 1703)",
+  "system_id": "81c7",
+  "dmi_matches": [
+    "81c7",
+    "HP Z8 G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP84801-HP Z6/Z8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84801.exe",
+      "size_bytes": 1031299552,
+      "md5": "456884612f9f84472a05111b3e924b47",
+      "sha256": "6E8125A71EE50DF5D5710FD895622E0966570DAD43FC049205F3E4062DC20251",
+      "version": "2.2018 C 1",
+      "release_date": "2/21/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

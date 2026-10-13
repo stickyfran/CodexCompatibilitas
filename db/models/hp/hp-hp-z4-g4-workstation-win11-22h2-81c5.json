@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z4-g4-workstation-win11-22h2-81c5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 G4 Workstation (Windows 11 64-bit, 22H2)",
+  "system_id": "81c5",
+  "dmi_matches": [
+    "81c5",
+    "HP Z4 G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147782-HP Z4G4 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147782.exe",
+      "size_bytes": 1486910480,
+      "md5": "95171bd51cc7422c9cc03d765a62333a",
+      "sha256": "041AE54A0532D74A9B69F282AEE71CCD1AA4CCBD293EFDED45C1705962EDF5B6",
+      "version": "5.00 A 1",
+      "release_date": "6/12/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

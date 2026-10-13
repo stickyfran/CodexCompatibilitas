@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-705-g2-small-form-factor-pc-win10-1909-805a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G2 Small Form Factor PC (Windows 10 64-bit, 1909)",
+  "system_id": "805a",
+  "dmi_matches": [
+    "805a",
+    "HP EliteDesk 705 G2 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP100849-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100849.exe",
+      "size_bytes": 799176344,
+      "md5": "5b0e8d6e7916a0d4c0edec170fe10e52",
+      "sha256": "B88A990BF85CC47CA4DBCDB96E39A33811EBC831FB707213DEC1C77E952A77DB",
+      "version": "12.0 A 1",
+      "release_date": "12/19/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

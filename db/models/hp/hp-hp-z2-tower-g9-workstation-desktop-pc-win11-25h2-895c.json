@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-tower-g9-workstation-desktop-pc-win11-25h2-895c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Tower G9 Workstation Desktop PC (Windows 11 64-bit, 25H2)",
+  "system_id": "895C",
+  "dmi_matches": [
+    "895C",
+    "HP Z2 Tower G9 Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP171406-HP Z2G9 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp171001-171500/sp171406.exe",
+      "size_bytes": 3938258072,
+      "md5": "4793F51B5C459B85B4B37BC11EF8351D",
+      "sha256": "683282DB8B112C41E8FE1BA3FC305538AAD07494751F9686316DCB5C0222EE96",
+      "version": "12.00 A 2",
+      "release_date": "2/27/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

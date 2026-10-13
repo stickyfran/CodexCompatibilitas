@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-465-16-inch-g11-notebook-pc-win11-22h2-8c79",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 465 16 inch G11 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8C79",
+  "dmi_matches": [
+    "8C79",
+    "HP ProBook 465 16 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP160200-HP ProBook/EliteBook 4/6x5 G11 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160200.exe",
+      "size_bytes": 1277070824,
+      "md5": "B00E02FBF0FF91A27BB4BB4E97DEC9E6",
+      "sha256": "7780ED24D46B2DC9AC3A22711B6F135284BA6ADF8D29BCEDDA8A9EE476E61426",
+      "version": "4.00 A 1",
+      "release_date": "12/1/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

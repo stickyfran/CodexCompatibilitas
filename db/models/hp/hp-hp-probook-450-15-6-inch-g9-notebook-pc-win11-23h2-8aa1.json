@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-450-15-6-inch-g9-notebook-pc-win11-23h2-8aa1",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 450 15.6 inch G9 Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8AA1,8978",
+  "dmi_matches": [
+    "8AA1",
+    "8978",
+    "HP ProBook 450 15.6 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP155186-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155001-155500/sp155186.exe",
+      "size_bytes": 2065787272,
+      "md5": "DAF5D3EC0A949B6B146E57EFDFCD72DE",
+      "sha256": "651F166A6330053095F6AA07C200063B828714958EA79CD1412447D120E9B065",
+      "version": "7.00 A 1",
+      "release_date": "11/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

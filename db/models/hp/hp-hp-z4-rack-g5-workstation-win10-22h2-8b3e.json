@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z4-rack-g5-workstation-win10-22h2-8b3e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 Rack G5 Workstation (Windows 10 64-bit, 22H2)",
+  "system_id": "8B3E",
+  "dmi_matches": [
+    "8B3E",
+    "HP Z4 Rack G5 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149689-HP Z4 Rack G5 Windows 10",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149501-150000/sp149689.exe",
+      "size_bytes": 1886895528,
+      "md5": "8ce1cf6fb1f35cc96e38a13a3c64ab95",
+      "sha256": "6EBB1093A874F05E03D0DDC78027AFAB259D30AC9D93577B8F9B73F973141BE2",
+      "version": "2.0 A 1",
+      "release_date": "10/19/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

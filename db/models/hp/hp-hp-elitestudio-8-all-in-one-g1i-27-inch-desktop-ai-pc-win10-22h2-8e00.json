@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitestudio-8-all-in-one-g1i-27-inch-desktop-ai-pc-win10-22h2-8e00",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8e00,8d18",
+  "dmi_matches": [
+    "8e00",
+    "8d18",
+    "HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP161707-HP EliteStudio 8 AIO G1i AI PC Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161707.exe",
+      "size_bytes": 2716245976,
+      "md5": "C92BC6B234818A2DA4FCB91C62EEBB1F",
+      "sha256": "43A4359DD20CE45322B71A76FA9E14868FCF491CDE63999C26C6C4D88588B3BB",
+      "version": "2.00 A 1",
+      "release_date": "7/31/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

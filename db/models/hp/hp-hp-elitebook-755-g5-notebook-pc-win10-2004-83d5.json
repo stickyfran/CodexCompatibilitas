@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-755-g5-notebook-pc-win10-2004-83d5",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "83D5",
+  "dmi_matches": [
+    "83D5",
+    "HP EliteBook 755 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114233-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114233.exe",
+      "size_bytes": 1226433000,
+      "md5": "dada9462e89814a6ab255bac48e2b52f",
+      "sha256": "460971C37A8613DD89F32028212F6FEF7B733A461049E92C80BC78FA8C3F2C47",
+      "version": "11.00 A 1",
+      "release_date": "6/21/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

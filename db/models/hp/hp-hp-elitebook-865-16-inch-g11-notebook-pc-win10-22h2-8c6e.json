@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitebook-865-16-inch-g11-notebook-pc-win10-22h2-8c6e",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 865 16 inch G11 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8C6E,8D03",
+  "dmi_matches": [
+    "8C6E",
+    "8D03",
+    "HP EliteBook 865 16 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP152820-HP ZBook/EliteBook 8x5 G11/A Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152820.exe",
+      "size_bytes": 1110797232,
+      "md5": "a4277ca2b663aae649670ba822a48bb5",
+      "sha256": "C090837A4CB740BC38019005E9A58B41D052469BC6F757D942A25F156DEBDC43",
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-400-g6-microtower-pc-win10-1903-8599",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G6 Microtower PC (Windows 10 64-bit, 1903)",
+  "system_id": "8599,859a",
+  "dmi_matches": [
+    "8599",
+    "859a",
+    "HP ProDesk 400 G6 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101210-HP ProDesk 4x0 G6 SFF/MT Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101210.exe",
+      "size_bytes": 795385392,
+      "md5": "07f4c901060dd0f33df5b57ac0f16207",
+      "sha256": "F11CDFDA050B1F78268618E4C25AEBA8A1FC571B75D8A95F6D538084F360E7CE",
+      "version": "3.00 A 1",
+      "release_date": "1/6/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

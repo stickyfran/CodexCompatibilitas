@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-1030-g7-notebook-pc-win10-2004-876d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1030 G7 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "876d",
+  "dmi_matches": [
+    "876d",
+    "HP EliteBook x360 1030 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113980-HP EliteBook x360 1030/40 G7 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113980.exe",
+      "size_bytes": 1336715096,
+      "md5": "0856d43f2e70fa9500d2cf594a7fee6c",
+      "sha256": "0354C74DAB93B43349D57D37FEF38230C334BA39C63A694984FA0F87F40325A6",
+      "version": "5.00 A 1",
+      "release_date": "5/25/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g7-small-form-factor-pc-win10-22h2-8719",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G7 Small Form Factor PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8719",
+  "dmi_matches": [
+    "8719",
+    "HP ProDesk 400 G7 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144698-HP ProDesk 4/600 G6/G7 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144698.exe",
+      "size_bytes": 2400780224,
+      "md5": "4f73d71a8ca2b82771d35f30bbc84969",
+      "sha256": "44BE969C998176B4318EAD7D238046ECABDF196FA03598B2EFE845912A6A3E76",
+      "version": "7.00 A 1",
+      "release_date": "2/13/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

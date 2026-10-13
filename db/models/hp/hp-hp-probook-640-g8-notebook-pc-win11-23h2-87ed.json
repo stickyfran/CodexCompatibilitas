@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-640-g8-notebook-pc-win11-23h2-87ed",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 640 G8 Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "87ED,87EA",
+  "dmi_matches": [
+    "87ED",
+    "87EA",
+    "HP ProBook 640 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142734-HP Probook 6x0 G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142734.exe",
+      "size_bytes": 1276964016,
+      "md5": "7eb79b87de6e8445fde1c51c76793b09",
+      "sha256": "CE9E7F37ED0834FDACD8B57A55D968A0BD51EEF678C9235DD61E5BA5492F44CC",
+      "version": "2.00 A 1",
+      "release_date": "9/21/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

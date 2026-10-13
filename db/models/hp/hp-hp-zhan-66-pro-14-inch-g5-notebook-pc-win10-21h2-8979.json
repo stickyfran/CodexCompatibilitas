@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zhan-66-pro-14-inch-g5-notebook-pc-win10-21h2-8979",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro 14 inch G5 Notebook PC (Windows 10 64-bit, 21H2)",
+  "system_id": "8979,8B21",
+  "dmi_matches": [
+    "8979",
+    "8B21",
+    "HP ZHAN 66 Pro 14 inch G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145052-HP EB 4/6x0 G9 ZHAN Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145052.exe",
+      "size_bytes": 1804608680,
+      "md5": "aa59f9836bfec14884aef18d2ce87f10",
+      "sha256": "8F682852B3CF6AEC2736F1B180BD5FDEC7B33FF5AB6F232B2AE49C46E412A319",
+      "version": "4.00 A 1",
+      "release_date": "3/1/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

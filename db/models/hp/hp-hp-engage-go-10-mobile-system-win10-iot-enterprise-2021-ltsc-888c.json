@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-go-10-mobile-system-win10-iot-enterprise-2021-ltsc-888c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go 10 Mobile System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit)",
+  "system_id": "888c",
+  "dmi_matches": [
+    "888c",
+    "HP Engage Go 10 Mobile System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144947-HP Engage Go 10 Mobile System IoT10 2021 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2021 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144947.exe",
+      "size_bytes": 927566720,
+      "md5": "710a8fe021e0cd30af131520a677f5a4",
+      "sha256": "F5AF87D5375A4AEDA1813050C42BBE5427CA62B2E51DC68253A78FBAAC724977",
+      "version": "3.00 A 1",
+      "release_date": "2/17/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

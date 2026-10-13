@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-firefly-15-6-inch-g8-mobile-workstation-pc-win10-2004-8846",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 2004)",
+  "system_id": "8846",
+  "dmi_matches": [
+    "8846",
+    "HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114045-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114045.exe",
+      "size_bytes": 1334838632,
+      "md5": "bbf25a9e43a902f37cd9e92b4bfb54f4",
+      "sha256": "538C31EFFE888581DCF307228503F5588907EB6F2E045E64A2DC423601FB4417",
+      "version": "4.00 A 1",
+      "release_date": "5/28/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

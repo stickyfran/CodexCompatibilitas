@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-mp9-g4-retail-system-win10-iot-enterprise-2016-ltsb-8a39",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP MP9 G4 Retail System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit)",
+  "system_id": "8A39,83ef",
+  "dmi_matches": [
+    "8A39",
+    "83ef",
+    "HP MP9 G4 Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP133116-HP MP9 G4 IoT10 2016 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2016 LTSB, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp133001-133500/sp133116.exe",
+      "size_bytes": 570410880,
+      "md5": "3d388fdcf449a4e2a661936c700f2373",
+      "sha256": "A21ED6CF13C52398BB920B7CFCA0E91296C7AC1936F91F8A1838DED9CC29DF4A",
+      "version": "10.00 A 1",
+      "release_date": "8/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

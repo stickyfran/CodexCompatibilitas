@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-745-g2-notebook-pc-win10-1703-221c",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 745 G2 Notebook PC (Windows 10 64-bit, 1703)",
+  "system_id": "221c",
+  "dmi_matches": [
+    "221c",
+    "HP EliteBook 745 G2 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP79214-HP EliteBook 7x5 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79214.exe",
+      "size_bytes": 425155176,
+      "md5": "43cc60329abaaec5fd62b9d6806d94ef",
+      "sha256": "A524576E8129F191042E87CC337B6FC1E1825A079E3E46F011600CC772DF6421",
+      "version": "5.00 A 1",
+      "release_date": "2/24/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

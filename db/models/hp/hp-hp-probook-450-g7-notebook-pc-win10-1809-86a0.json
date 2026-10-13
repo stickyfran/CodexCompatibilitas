@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-450-g7-notebook-pc-win10-1809-86a0",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 450 G7 Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "86a0",
+  "dmi_matches": [
+    "86a0",
+    "HP ProBook 450 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99557-HP ProBook 4x0 G7/ZHAN G3 Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99557.exe",
+      "size_bytes": 859617296,
+      "md5": "9c85663d2963aed5787996e530c7335e",
+      "sha256": "958A2F7ED4134E27154EA83FAB370EF8B97C592375E58E412F4ECC6D80EDC144",
+      "version": "1.00 A 1",
+      "release_date": "10/8/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-g2-retail-system-win10-iot-enterprise-2021-ltsc-8bc5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro G2 Retail System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit)",
+  "system_id": "8BC5",
+  "dmi_matches": [
+    "8BC5",
+    "HP Engage Flex Pro G2 Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP168418-HP Engage Flex Pro G2 Windows 10 IoT Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2021 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168418.exe",
+      "size_bytes": 2490567520,
+      "md5": "1AF553A05C5E34018A6225321D0D8412",
+      "sha256": "40B618AC3F2DD7762F797E4753802C2640FB56A151736E66DDEDEB1682C55944",
+      "version": "7.00 A 1",
+      "release_date": "12/16/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

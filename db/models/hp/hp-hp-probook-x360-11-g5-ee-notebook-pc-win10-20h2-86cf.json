@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g5-ee-notebook-pc-win10-20h2-86cf",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G5 EE Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "86cf",
+  "dmi_matches": [
+    "86cf",
+    "HP ProBook x360 11 G5 EE Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140369-HP ProBook x360 11 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140369.exe",
+      "size_bytes": 1022596336,
+      "md5": "cc306e59ce18d2c5a2d9f91c220e7668",
+      "sha256": "EE0871E6C1B3C36A7C45D811F87AC6EDAEB735D26D881E44531F30B6099FBE08",
+      "version": "9.00 A 1",
+      "release_date": "5/18/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

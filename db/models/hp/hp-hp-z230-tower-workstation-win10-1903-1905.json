@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z230-tower-workstation-win10-1903-1905",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z230 Tower Workstation (Windows 10 64-bit, 1903)",
+  "system_id": "1905",
+  "dmi_matches": [
+    "1905",
+    "HP Z230 Tower Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP72465-HP Z230 Workstations Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp72001-72500/sp72465.exe",
+      "size_bytes": 764891304,
+      "md5": "0607fea96431a0d60f7c2a31b8009ae1",
+      "sha256": "4A5B5610AEEBC7899E4AD475208C1C59068F8A94FFA97CA01A8B50859A67DDDB",
+      "version": "1.00 A 1",
+      "release_date": "8/16/2015 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

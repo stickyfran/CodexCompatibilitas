@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-660-16-inch-g11-notebook-pc-win10-22h2-8c87",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 660 16 inch G11 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8C87",
+  "dmi_matches": [
+    "8C87",
+    "HP EliteBook 660 16 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP153107-HP Pro/EliteBook 4x0/6x0 G11 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp153001-153500/sp153107.exe",
+      "size_bytes": 1864770336,
+      "md5": "fa21951b2bbf262cb7e026e28af2517c",
+      "sha256": "C894014FE6AE083616B6931CD4121228B20F67E57974F271256E316027683D81",
+      "version": "2.00 A 1",
+      "release_date": "5/27/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

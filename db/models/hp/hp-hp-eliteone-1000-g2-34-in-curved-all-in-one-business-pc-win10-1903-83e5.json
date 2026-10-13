@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-1000-g2-34-in-curved-all-in-one-business-pc-win10-1903-83e5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 1903)",
+  "system_id": "83e5",
+  "dmi_matches": [
+    "83e5",
+    "HP EliteOne 1000 G2 34-in Curved All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101466-HP EliteOne 1000 G2 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101466.exe",
+      "size_bytes": 435079080,
+      "md5": "7a19a09f835c7cc684d4d125a0c6ed74",
+      "sha256": "8CA953EA9AC423FAC5179B4D02AA98BB72BC676E9DAA561092A0C906F284ADFF",
+      "version": "10.0 A 1",
+      "release_date": "1/24/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

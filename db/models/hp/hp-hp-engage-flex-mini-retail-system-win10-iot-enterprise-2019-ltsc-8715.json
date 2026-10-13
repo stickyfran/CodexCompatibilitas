@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-mini-retail-system-win10-iot-enterprise-2019-ltsc-8715",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Mini Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit)",
+  "system_id": "8715",
+  "dmi_matches": [
+    "8715",
+    "HP Engage Flex Mini Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144691-HP Engage Flex Mini IoT10 2019 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2019 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144691.exe",
+      "size_bytes": 435140224,
+      "md5": "7095772a9f53295b322ff87c89395448",
+      "sha256": "8A1B384A3793530F87C1F6C55AC2A3314614CE0E03391C347748EDB3A255BC49",
+      "version": "2.00 A 1",
+      "release_date": "1/24/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

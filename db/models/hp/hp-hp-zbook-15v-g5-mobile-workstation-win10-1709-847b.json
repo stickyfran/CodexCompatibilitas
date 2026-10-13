@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-15v-g5-mobile-workstation-win10-1709-847b",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 15v G5 Mobile Workstation (Windows 10 64-bit, 1709)",
+  "system_id": "847b",
+  "dmi_matches": [
+    "847b",
+    "HP ZBook 15v G5 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP92372-HP ZBook 15v G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92372.exe",
+      "size_bytes": 871211936,
+      "md5": "3b581d4d3a004759dc733e51322f487d",
+      "sha256": "4B6407FEAE33C4098021D600880F709C5CC66A9A7CB9911A652BBA4538BFE597",
+      "version": "1.00 A 1",
+      "release_date": "10/26/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

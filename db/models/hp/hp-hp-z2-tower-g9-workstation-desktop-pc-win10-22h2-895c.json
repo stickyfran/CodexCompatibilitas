@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-tower-g9-workstation-desktop-pc-win10-22h2-895c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Tower G9 Workstation Desktop PC (Windows 10 64-bit, 22H2)",
+  "system_id": "895C",
+  "dmi_matches": [
+    "895C",
+    "HP Z2 Tower G9 Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP150678-HP Z2G9 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150678.exe",
+      "size_bytes": 3069260640,
+      "md5": "776075bff17eb74db8017d276635867e",
+      "sha256": "53CBDCF338F9A96942D31E24037BF5C053C8766AB7F7C332A2139BC2E8E83137",
+      "version": "8.00 A 1",
+      "release_date": "12/21/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

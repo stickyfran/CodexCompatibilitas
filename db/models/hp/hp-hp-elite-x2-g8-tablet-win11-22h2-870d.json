@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-x2-g8-tablet-win11-22h2-870d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x2 G8 Tablet (Windows 11 64-bit, 22H2)",
+  "system_id": "870D",
+  "dmi_matches": [
+    "870D",
+    "HP Elite x2 G8 Tablet"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP151794-HP Elite x2 G8 Tablet Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151794.exe",
+      "size_bytes": 1109618856,
+      "md5": "3f49a1c531a0c3bb7319e89627157d71",
+      "sha256": "C6E2CB43027319B945B56DD030105754F4F3407AEAAB6918071E1B8C79D62147",
+      "version": "5.00 A 1",
+      "release_date": "5/14/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-dragonfly-13-5-inch-g4-notebook-pc-win11-23h2-8b63",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8b63",
+  "dmi_matches": [
+    "8b63",
+    "HP Dragonfly 13.5 inch G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158219-HP Elite Dragonfly G4 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158219.exe",
+      "size_bytes": 1541910056,
+      "md5": "9E95595BEA6A0AD09DCAD55333C16D86",
+      "sha256": "DC95398BC1C1BFACEFBB2133EB1600ED60286EB5D42EEA9B02F1815051FC047B",
+      "version": "6.00 A 1",
+      "release_date": "12/3/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

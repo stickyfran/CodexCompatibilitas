@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-pro-aio-system-win11-23h2-874f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Pro AIO System (Windows 11 64-bit, 23H2)",
+  "system_id": "874F",
+  "dmi_matches": [
+    "874F",
+    "HP Engage One Pro AIO System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP170248-HP Engage One Pro AIO Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170248.exe",
+      "size_bytes": 933360680,
+      "md5": "85803EC079DD89062CABD034B9D2D408",
+      "sha256": "898FBBF3476D50F4ADABDDA31DC4192EFA1017D1F13684395AEFEEF35A32F3A5",
+      "version": "8.00 A 1",
+      "release_date": "2/3/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

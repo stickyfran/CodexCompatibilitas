@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-x360-830-13-3-inch-g9-2-in-1-notebook-pc-win11-23h2-896e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "896E",
+  "dmi_matches": [
+    "896E",
+    "HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149137-HP EB 8x0 1040 ZB G9 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149137.exe",
+      "size_bytes": 1601075504,
+      "md5": "1e8da8a24a0cb2f733c9bc52df9ee7a9",
+      "sha256": "E32EAA6FDAC1B5E63BAE175E6949B9765E1E5E569C60D68FA1BAD6D2ED33A234",
+      "version": "5.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

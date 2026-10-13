@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z4-g4-workstation-win10-1903-81c5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 G4 Workstation (Windows 10 64-bit, 1903)",
+  "system_id": "81c5",
+  "dmi_matches": [
+    "81c5",
+    "HP Z4 G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113515-HP Z4G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113515.exe",
+      "size_bytes": 1071055776,
+      "md5": "e4894b1134e03e98a93e946b4d64ba37",
+      "sha256": "477EED5419E71BB678A4F277A386EEA706E9002FD754BC5A47CA01907BA69841",
+      "version": "6.00 A 1",
+      "release_date": "5/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-1030-g3-notebook-pc-win10-20h2-8438",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1030 G3 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8438",
+  "dmi_matches": [
+    "8438",
+    "HP EliteBook x360 1030 G3 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114188-HP EliteBook x360 1030 G3 Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114188.exe",
+      "size_bytes": 1599070328,
+      "md5": "8b88d8a0d8788e426d9bb57f01b24096",
+      "sha256": "897BAFBCB651B2311F26A3366EC9798684CF5FA758CF62A087C1B78C8EB9E595",
+      "version": "13.00 A 1",
+      "release_date": "6/14/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

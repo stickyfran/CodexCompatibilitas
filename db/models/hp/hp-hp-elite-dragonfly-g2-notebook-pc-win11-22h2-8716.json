@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-g2-notebook-pc-win11-22h2-8716",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly G2 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8716",
+  "dmi_matches": [
+    "8716",
+    "HP Elite Dragonfly G2 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142910-HP Elite Dragonfly G2 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142910.exe",
+      "size_bytes": 1291829184,
+      "md5": "a822888dc9d0f30f1d532766a32390c8",
+      "sha256": "64442DB15391BFFB05C2E90CE34FA7EECBD706A9ABC5FF1D69D5D98165AFF296",
+      "version": "2.00 A 1",
+      "release_date": "10/6/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

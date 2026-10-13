@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-elite-tower-600-g9-desktop-pc-win11-23h2-8ac4",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Tower 600 G9 Desktop PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8AC4,8B39,8950",
+  "dmi_matches": [
+    "8AC4",
+    "8B39",
+    "8950",
+    "HP Elite Tower 600 G9 Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP168373-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168373.exe",
+      "size_bytes": 2659303112,
+      "md5": "DB26EB32ACCEC11846431E3A5CF83D20",
+      "sha256": "62D4AA01B4CAE28352C0EC887242A29620F06901E853ABB3818D73CC09359F81",
+      "version": "10.00 A 1",
+      "release_date": "12/15/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-mp9-g4-retail-system-win10-1903-8a39",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP MP9 G4 Retail System (Windows 10 64-bit, 1903)",
+  "system_id": "8A39,83ef",
+  "dmi_matches": [
+    "8A39",
+    "83ef",
+    "HP MP9 G4 Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP98435-HP MP9 G4 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp98001-98500/sp98435.exe",
+      "size_bytes": 820782632,
+      "md5": "2b81ad0f12589ef1cca87f7ba03354f7",
+      "sha256": "6511E9D92B8B6C3C2D3D44F2F3351BB46F8B7C80B5874403B3D7759421B7410E",
+      "version": "5.00 A 1",
+      "release_date": "7/16/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

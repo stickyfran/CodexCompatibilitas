@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x2-612-g1-tablet-win10-1703-221b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x2 612 G1 Tablet (Windows 10 64-bit, 1703)",
+  "system_id": "221b",
+  "dmi_matches": [
+    "221b",
+    "HP Pro x2 612 G1 Tablet"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP79219-HP Elite/Pro G1 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79219.exe",
+      "size_bytes": 478142592,
+      "md5": "50d6be9aa5c6fcea64b8da3a6eb09dbf",
+      "sha256": "54E2CC4433CC7ED8570057DD4801BFA9B484361780D4280C080E412CCFC28F51",
+      "version": "5.00 A 1",
+      "release_date": "2/24/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

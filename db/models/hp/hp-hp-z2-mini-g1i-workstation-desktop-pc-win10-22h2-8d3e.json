@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-mini-g1i-workstation-desktop-pc-win10-22h2-8d3e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G1i Workstation Desktop PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8D3E",
+  "dmi_matches": [
+    "8D3E",
+    "HP Z2 Mini G1i Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158332-HP Z2 Mini G1i Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158332.exe",
+      "size_bytes": 2143883344,
+      "md5": "89F44D2BE675C53C885A81B615D98258",
+      "sha256": "9BCB77C3EDB5FF8B71BA849D8B3619561D99920856D8CDFDB6F8522E332ACFA0",
+      "version": "1.00 A 1",
+      "release_date": "4/23/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

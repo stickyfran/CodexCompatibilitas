@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-15-g5-mobile-workstation-win10-1903-842a",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 15 G5 Mobile Workstation (Windows 10 64-bit, 1903)",
+  "system_id": "842a",
+  "dmi_matches": [
+    "842a",
+    "HP ZBook 15 G5 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP102120-HP Zbook 15/17 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102120.exe",
+      "size_bytes": 962462448,
+      "md5": "6a28d3a90fae65777553933955d2142a",
+      "sha256": "83E45B1A72B5E47A50E69667C59FA55820AC78E0419FE34EFB6B91B4F716BBCB",
+      "version": "11.0 A 1",
+      "release_date": "3/25/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

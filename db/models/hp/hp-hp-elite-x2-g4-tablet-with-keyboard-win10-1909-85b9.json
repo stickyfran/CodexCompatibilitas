@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-x2-g4-tablet-with-keyboard-win10-1909-85b9",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x2 G4 Tablet with Keyboard (Windows 10 64-bit, 1909)",
+  "system_id": "85b9",
+  "dmi_matches": [
+    "85b9",
+    "HP Elite x2 G4 Tablet with Keyboard"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110397-HP Elite x2 G4 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110397.exe",
+      "size_bytes": 980671896,
+      "md5": "4ef919e0fd17a129bf42df6225d712be",
+      "sha256": "122C28EAE9A65116347998B2B116300F9780C6C848CA11CB692CEE4ACD8759AD",
+      "version": "7.00 A 1",
+      "release_date": "10/9/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

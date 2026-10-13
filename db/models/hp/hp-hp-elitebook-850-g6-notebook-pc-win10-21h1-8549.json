@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-850-g6-notebook-pc-win10-21h1-8549",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 850 G6 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "8549",
+  "dmi_matches": [
+    "8549",
+    "HP EliteBook 850 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114161-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114161.exe",
+      "size_bytes": 1702525096,
+      "md5": "60a521a44053671ecfab3370261f3238",
+      "sha256": "688913E21B3711A4BF1CA5354F9E45C855B7566854A89823FD61D9605FDCF502",
+      "version": "6.00 A 1",
+      "release_date": "6/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

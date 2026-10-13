@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-sff-g1i-workstation-desktop-pc-win10-22h2-8d3d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 SFF G1i Workstation Desktop PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8D3D",
+  "dmi_matches": [
+    "8D3D",
+    "HP Z2 SFF G1i Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158333-HP Z2 TWR SFF G1i Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158333.exe",
+      "size_bytes": 3643626704,
+      "md5": "EB066E04309BC60BDA22EB679D2EED0B",
+      "sha256": "0CE47AE46F47BC5FDE3907A5B03D44811EC85A8C84934A95B71B61E6228C01EF",
+      "version": "1.00 A 1",
+      "release_date": "4/23/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

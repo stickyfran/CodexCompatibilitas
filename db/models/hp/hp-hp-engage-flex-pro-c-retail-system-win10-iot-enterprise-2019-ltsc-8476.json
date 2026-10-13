@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-c-retail-system-win10-iot-enterprise-2019-ltsc-8476",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro-C Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit)",
+  "system_id": "8476",
+  "dmi_matches": [
+    "8476",
+    "HP Engage Flex Pro-C Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144660-HP Engage Flex Pro G1 IoT10 2019 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2019 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144660.exe",
+      "size_bytes": 907224632,
+      "md5": "8b46ea12db57d46ce0a8a3c5775fb4bc",
+      "sha256": "89F575DC018D87496B1594F3561DC8710CE38249040BCE91C192D15C0B9F80D1",
+      "version": "9.00 A 1",
+      "release_date": "1/18/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

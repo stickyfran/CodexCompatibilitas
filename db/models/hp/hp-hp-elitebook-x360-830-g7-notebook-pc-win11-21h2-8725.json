@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-830-g7-notebook-pc-win11-21h2-8725",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 830 G7 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8725",
+  "dmi_matches": [
+    "8725",
+    "HP EliteBook x360 830 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140853-HP EliteBook x360 830 G7 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140853.exe",
+      "size_bytes": 1214360280,
+      "md5": "fdc5f719daeb69883bc222dafee809cd",
+      "sha256": "D96A35890215007C872AA9A70D4967FFE6E09D452BEEC543271900457FB60865",
+      "version": "1.00 A 1",
+      "release_date": "6/29/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

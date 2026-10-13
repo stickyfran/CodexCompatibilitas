@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-g8-tower-workstation-desktop-pc-win10-22h2-88be",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 G8 Tower Workstation Desktop PC (Windows 10 64-bit, 22H2)",
+  "system_id": "88BE",
+  "dmi_matches": [
+    "88BE",
+    "HP Z2 G8 Tower Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140361-HP Z2G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140361.exe",
+      "size_bytes": 1686022488,
+      "md5": "f6aaa19cfb98fe15c77cd5c05eedc542",
+      "sha256": "03B433B5A1F7ED74B56A74DF49755E1C864CF88177714BF583E84E2152D90B18",
+      "version": "5.00 A 1",
+      "release_date": "5/16/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

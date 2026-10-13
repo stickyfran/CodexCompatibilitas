@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-sff-g9-workstation-desktop-pc-win10-21h1-895d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 SFF G9 Workstation Desktop PC (Windows 10 64-bit, 21H1)",
+  "system_id": "895D",
+  "dmi_matches": [
+    "895D",
+    "HP Z2 SFF G9 Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP146391-HP Z2G9 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp146001-146500/sp146391.exe",
+      "size_bytes": 3162207144,
+      "md5": "e79bf077ae14a93672cd076a689407a1",
+      "sha256": "228228B34C4372E1884BA03BCAB328D1C30D4B5CCA4BC4FB9620BF3F8BDA8211",
+      "version": "6.00 A 1",
+      "release_date": "4/18/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

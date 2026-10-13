@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitestudio-8-all-in-one-g1i-23-8-inch-desktop-ai-pc-win11-23h2-8d18",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8d18,8e00",
+  "dmi_matches": [
+    "8d18",
+    "8e00",
+    "HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173559-HP EliteStudio 8 AIO G1i AI PC Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173559.exe",
+      "size_bytes": 3039755024,
+      "md5": "FD859AA1F19782EEF090DFC8F5D60AFB",
+      "sha256": "94E9CB723A270CDE56BAD6A90C9D43AA32302723A31CF12D5D976647886C9FF1",
+      "version": "6.00 A 1",
+      "release_date": "6/11/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

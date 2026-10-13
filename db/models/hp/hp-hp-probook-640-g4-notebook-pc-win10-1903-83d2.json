@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-640-g4-notebook-pc-win10-1903-83d2",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 640 G4 Notebook PC (Windows 10 64-bit, 1903)",
+  "system_id": "83d2",
+  "dmi_matches": [
+    "83d2",
+    "HP ProBook 640 G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99707-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99707.exe",
+      "size_bytes": 808122336,
+      "md5": "0b4452549fe4c7b4215b690aa240223c",
+      "sha256": "0E1D703291E73450602301625ADD9B8B66894C5AAF7E5A50FA4F3D7EBC9A8C91",
+      "version": "10.0 A 1",
+      "release_date": "11/11/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

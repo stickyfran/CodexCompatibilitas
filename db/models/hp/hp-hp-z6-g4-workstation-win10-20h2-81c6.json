@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z6-g4-workstation-win10-20h2-81c6",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z6 G4 Workstation (Windows 10 64-bit, 20H2)",
+  "system_id": "81c6",
+  "dmi_matches": [
+    "81c6",
+    "HP Z6 G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147415-HP Z6/Z8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147415.exe",
+      "size_bytes": 1557492144,
+      "md5": "972fbb552b1fa38623e33cdeab0463ad",
+      "sha256": "8CC3D1B8345CBFA39AF60C3344C3AA5071E7544D206CD1ACE67B7770466C784D",
+      "version": "13.00 A 1",
+      "release_date": "5/19/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,32 @@
+{
+  "id": "hp-hp-zbook-fury-g1i-18-inch-mobile-workstation-pc-win10-22h2-8de7",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury G1i 18 inch Mobile Workstation PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8de7,8de9,8de5,8de2,8de3",
+  "dmi_matches": [
+    "8de7",
+    "8de9",
+    "8de5",
+    "8de2",
+    "8de3",
+    "HP ZBook Fury G1i 18 inch Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP164412-HP ZBook Fury G1i MWS Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp164001-164500/sp164412.exe",
+      "size_bytes": 2634547432,
+      "md5": "23A8BAC75324280E85806EA4B12218A1",
+      "sha256": "CFB901F07A00E3411D7ADB13DCAC3C6016446175A5BEDFED0BEE45F114119C6A",
+      "version": "2.00 A 1",
+      "release_date": "10/8/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

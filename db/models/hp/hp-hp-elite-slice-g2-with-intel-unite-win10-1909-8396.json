@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-slice-g2-with-intel-unite-win10-1909-8396",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice G2 with Intel Unite (Windows 10 64-bit, 1909)",
+  "system_id": "8396",
+  "dmi_matches": [
+    "8396",
+    "HP Elite Slice G2 with Intel Unite"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP134315-HP Elite Slice G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp134001-134500/sp134315.exe",
+      "size_bytes": 691266928,
+      "md5": "8550f2fcf7fec13fd2df56c74e8cd868",
+      "sha256": "2A7E6921AFCA6087D7BD4C3992BD005A5B1B2B0616B9D1AE31AF40018F1DB60E",
+      "version": "17.00 A 1",
+      "release_date": "9/2/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z8-g4-workstation-win11-21h2-81c7",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z8 G4 Workstation (Windows 11 64-bit, 21H2)",
+  "system_id": "81c7",
+  "dmi_matches": [
+    "81c7",
+    "HP Z8 G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147117-HP Z6/Z8 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147117.exe",
+      "size_bytes": 1458104616,
+      "md5": "bf5b9190a12c989921e4d0aebf0c5e5e",
+      "sha256": "AD52FB1F765A40F72E74878A3C538DAC1A32605CCE80A840BF263D19F78E190C",
+      "version": "5.00 A 1",
+      "release_date": "5/5/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

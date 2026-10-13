@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-405-g6-small-form-factor-pc-win10-21h2-8835",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G6 Small Form Factor PC (Windows 10 64-bit, 21H2)",
+  "system_id": "8835,872D",
+  "dmi_matches": [
+    "8835",
+    "872D",
+    "HP ProDesk 405 G6 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138598-HP ElitePro 4/805 G6 SFF Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138598.exe",
+      "size_bytes": 1499094112,
+      "md5": "6851b9c114af71b10e847ee229a667f1",
+      "sha256": "EF7B95EACA6AE14A014FA110B4D324C221E754CABC8A164F4057EC370724525B",
+      "version": "6.00 A 1",
+      "release_date": "3/3/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

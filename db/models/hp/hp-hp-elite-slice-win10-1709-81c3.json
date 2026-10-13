@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elite-slice-win10-1709-81c3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice (Windows 10 64-bit, 1709)",
+  "system_id": "81c3,8396",
+  "dmi_matches": [
+    "81c3",
+    "8396",
+    "HP Elite Slice"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP90256-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90256.exe",
+      "size_bytes": 423286792,
+      "md5": "de30a617914332bd1e4cf45c1031f57d",
+      "sha256": "DCD4641E3B500F15B85C4EDBD5CCDDF00588EE02B832A82588CC4BAF1FB3BB98",
+      "version": "12.0 A 1",
+      "release_date": "8/2/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

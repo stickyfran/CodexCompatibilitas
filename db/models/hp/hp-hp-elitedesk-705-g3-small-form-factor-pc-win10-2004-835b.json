@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitedesk-705-g3-small-form-factor-pc-win10-2004-835b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G3 Small Form Factor PC (Windows 10 64-bit, 2004)",
+  "system_id": "835b,8265",
+  "dmi_matches": [
+    "835b",
+    "8265",
+    "HP EliteDesk 705 G3 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP105595-HP EliteDesk 705 G3 Windows10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105595.exe",
+      "size_bytes": 746736296,
+      "md5": "36ea4720bd728b017737a02646d9ecf5",
+      "sha256": "5E690EAB403928431CFD68872AE593098150A37F50AD4CF6B1E30297EBE3F733",
+      "version": "18.0 A 1",
+      "release_date": "6/18/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

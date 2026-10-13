@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-proone-480-g3-20-inch-non-touch-all-in-one-pc-win10-20h2-82a6",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 480 G3 20-inch Non-Touch All-in One PC (Windows 10 64-bit, 20H2)",
+  "system_id": "82a6",
+  "dmi_matches": [
+    "82a6",
+    "HP ProOne 480 G3 20-inch Non-Touch All-in One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP111958-HP ElitePro 600/800 G3 PC Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111958.exe",
+      "size_bytes": 941719952,
+      "md5": "131008b12c785e2a71c3a5eb14168fe3",
+      "sha256": "A17BA7A8E0D6F85D1DEE884401D5819CF9859F09DA0EBABC67F633D03334264E",
+      "version": "20.0 A 1",
+      "release_date": "12/28/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

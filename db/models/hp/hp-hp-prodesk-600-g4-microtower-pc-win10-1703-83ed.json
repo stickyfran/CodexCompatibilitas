@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-600-g4-microtower-pc-win10-1703-83ed",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G4 Microtower PC (Windows 10 64-bit, 1703)",
+  "system_id": "83ed,83ec",
+  "dmi_matches": [
+    "83ed",
+    "83ec",
+    "HP ProDesk 600 G4 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP84657-HP ElitePro 400/600/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84657.exe",
+      "size_bytes": 920095384,
+      "md5": "c7102ab053dae3b762d1e2878547194b",
+      "sha256": "1608EFB8B70ABB9216E4A765BAA16B002A32879B05C7D9989B4C34211B942437",
+      "version": "1.00 A 1",
+      "release_date": "1/10/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

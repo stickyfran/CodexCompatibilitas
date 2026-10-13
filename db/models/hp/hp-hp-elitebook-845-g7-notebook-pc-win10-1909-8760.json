@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-845-g7-notebook-pc-win10-1909-8760",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 845 G7 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "8760",
+  "dmi_matches": [
+    "8760",
+    "HP EliteBook 845 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110931-HP EliteBook 8x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110931.exe",
+      "size_bytes": 507441800,
+      "md5": "49033a4fc19f25cfc204e83ab1e26279",
+      "sha256": "C414AD9FB4CEE33A9F1EFF1458661EC5881AEB0D73EF90D6C3AEB52F676E3A72",
+      "version": "2.00 A 1",
+      "release_date": "11/6/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

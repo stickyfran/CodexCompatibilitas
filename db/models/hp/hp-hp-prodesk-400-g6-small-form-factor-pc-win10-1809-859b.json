@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g6-small-form-factor-pc-win10-1809-859b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G6 Small Form Factor PC (Windows 10 64-bit, 1809)",
+  "system_id": "859b",
+  "dmi_matches": [
+    "859b",
+    "HP ProDesk 400 G6 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99623-HP ProDesk 4x0 G6 SFF/MT Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99623.exe",
+      "size_bytes": 830748224,
+      "md5": "caf952f16ff2264132facff1524b72a9",
+      "sha256": "169C110F2C7D886D669E2B674A597434B73D865E0B8DCF7EC38D764193464ADF",
+      "version": "2.00 A 1",
+      "release_date": "10/17/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

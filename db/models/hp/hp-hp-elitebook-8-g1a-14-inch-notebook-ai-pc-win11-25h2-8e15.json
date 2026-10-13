@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-8-g1a-14-inch-notebook-ai-pc-win11-25h2-8e15",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8E15",
+  "dmi_matches": [
+    "8E15",
+    "HP EliteBook 8 G1a 14 inch Notebook AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174545-HP EB/ZB 8 G1a/ak AI NB/MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174545.exe",
+      "size_bytes": 1073040168,
+      "md5": "5B4CBB55F97BD1ACE0122EF43977AB5C",
+      "sha256": "90EB60DCCB97053EC46156D98740251A11F1A6B786A4412E5E0A91BE0311A757",
+      "version": "5.00 A 1",
+      "release_date": "9/2/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitebook-6-g2ah-16-inch-notebook-pc-win11-25h2-8f19",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 6 G2ah 16 inch Notebook PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8F19,8F3B",
+  "dmi_matches": [
+    "8F19",
+    "8F3B",
+    "HP EliteBook 6 G2ah 16 inch Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173107-HP Pro/EliteBook 4/6 G2a/G2ah NB Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173107.exe",
+      "size_bytes": 1486121856,
+      "md5": "F180689E0CBADEE01086F6B9E1992B9E",
+      "sha256": "CCF8A3E34143AA31F66AC5497D19583A9DCB1BF0C169284E2200058C9D7E559B",
+      "version": "2.00 A 1",
+      "release_date": "5/15/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

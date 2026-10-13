@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-1000-g2-27-in-4k-uhd-all-in-one-business-pc-win10-1803-83e5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC (Windows 10 64-bit, 1803)",
+  "system_id": "83e5",
+  "dmi_matches": [
+    "83e5",
+    "HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95459-HP EliteOne 1000 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95459.exe",
+      "size_bytes": 593979520,
+      "md5": "a75c2aeadf5ad3d313515df990f6c279",
+      "sha256": "C4883B6BED20C4DD4DA7C6EFD5DE24176E24991BE2CC01B558830CD2681247E1",
+      "version": "6.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

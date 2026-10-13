@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z1-entry-tower-g6-win10-21h1-870b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 Entry Tower G6 (Windows 10 64-bit, 21H1)",
+  "system_id": "870b,870c",
+  "dmi_matches": [
+    "870b",
+    "870c",
+    "HP Z1 Entry Tower G6"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138464-HP ElitePro 4/6/8x0 G6/7 PC Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138464.exe",
+      "size_bytes": 1162157600,
+      "md5": "44aff550c6e2f95ad4ef0018cd18a08f",
+      "sha256": "15FDD2976A83E331A76A5B85BF161012B4CEA7E05844A79F9EFB5A88D90E6058",
+      "version": "6.00 A 1",
+      "release_date": "2/18/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

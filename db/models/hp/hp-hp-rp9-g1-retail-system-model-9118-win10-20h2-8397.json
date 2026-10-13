@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-rp9-g1-retail-system-model-9118-win10-20h2-8397",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP RP9 G1 Retail System Model 9118 (Windows 10 64-bit, 20H2)",
+  "system_id": "8397,8139",
+  "dmi_matches": [
+    "8397",
+    "8139",
+    "HP RP9 G1 Retail System Model 9118"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112600-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112600.exe",
+      "size_bytes": 561062032,
+      "md5": "8c5c5c1b0a921a5b4dea110930e95007",
+      "sha256": "8A59255AC3BE1BF56ABA58AF7DC7869F1BBE645882F84879BA085231183F83D1",
+      "version": "9.00 A 1",
+      "release_date": "2/8/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

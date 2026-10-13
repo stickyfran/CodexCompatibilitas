@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z8-fury-g5-workstation-desktop-pc-win10-22h2-88c1",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z8 Fury G5 Workstation Desktop PC (Windows 10 64-bit, 22H2)",
+  "system_id": "88C1",
+  "dmi_matches": [
+    "88C1",
+    "HP Z8 Fury G5 Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP150498-HP Z4 G5, Z6 G5, Z8 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150001-150500/sp150498.exe",
+      "size_bytes": 2522646328,
+      "md5": "1111f091bf67ff5c5b061deff78c13fb",
+      "sha256": "95869E7F3601059F554D1FB38E92EDA12A6F3352BED23925DBEE85420AB98724",
+      "version": "4.00 A 1",
+      "release_date": "12/5/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-4-g2ah-14-inch-notebook-pc-win11-25h2-8f13",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G2ah 14 inch Notebook PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8f13,8f98",
+  "dmi_matches": [
+    "8f13",
+    "8f98",
+    "HP ProBook 4 G2ah 14 inch Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173107-HP Pro/EliteBook 4/6 G2a/G2ah NB Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173107.exe",
+      "size_bytes": 1486121856,
+      "md5": "F180689E0CBADEE01086F6B9E1992B9E",
+      "sha256": "CCF8A3E34143AA31F66AC5497D19583A9DCB1BF0C169284E2200058C9D7E559B",
+      "version": "2.00 A 1",
+      "release_date": "5/15/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

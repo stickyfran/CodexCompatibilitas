@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-840-g5-notebook-pc-win10-1909-83b2",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 G5 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "83b2",
+  "dmi_matches": [
+    "83b2",
+    "HP EliteBook 840 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP103617-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103617.exe",
+      "size_bytes": 799062248,
+      "md5": "679e310b408a495306674ad48a1f1a94",
+      "sha256": "AEDEF116AFC5CCA1220602D338A36FB8474D6B45A539D42EF5F084B9144BCD14",
+      "version": "11.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

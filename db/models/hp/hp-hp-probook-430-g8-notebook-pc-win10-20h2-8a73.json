@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-probook-430-g8-notebook-pc-win10-20h2-8a73",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8A73,8A83,87DF",
+  "dmi_matches": [
+    "8A73",
+    "8A83",
+    "87DF",
+    "HP ProBook 430 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145051-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145051.exe",
+      "size_bytes": 1812436448,
+      "md5": "fafb6ebee1c54f0ec6de07d51fcac049",
+      "sha256": "5B25A202254B6BB65BF24DB9A9D453E5D0DD7BE6B908D1445B3FF51A991B3F1D",
+      "version": "8.00 A 1",
+      "release_date": "3/1/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z240-small-form-factor-workstation-win10-1809-802e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z240 Small Form Factor Workstation (Windows 10 64-bit, 1809)",
+  "system_id": "802e",
+  "dmi_matches": [
+    "802e",
+    "HP Z240 Small Form Factor Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99401-HP Z240 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99401.exe",
+      "size_bytes": 824912944,
+      "md5": "3acee6fd73900c1c713e7524619ea776",
+      "sha256": "A1ECD3882018ADEEA239A10B50508A0DCD480B7762A0C4C722801CEE5FF3BC97",
+      "version": "2.2019 N 3",
+      "release_date": "9/26/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

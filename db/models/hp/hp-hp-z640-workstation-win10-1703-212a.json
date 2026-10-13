@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z640-workstation-win10-1703-212a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z640 Workstation (Windows 10 64-bit, 1703)",
+  "system_id": "212a",
+  "dmi_matches": [
+    "212a",
+    "HP Z640 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP84798-HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84798.exe",
+      "size_bytes": 1048643200,
+      "md5": "2ba9c36f4c332b740ec1cf415e247801",
+      "sha256": "88693928E73AAF2A13BF42F65FA71E0BC2D65D1AC46BE8316ECE594517FE1471",
+      "version": "2.2018 H 1",
+      "release_date": "2/21/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

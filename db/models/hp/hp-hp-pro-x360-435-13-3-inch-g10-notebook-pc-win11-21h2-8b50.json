@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x360-435-13-3-inch-g10-notebook-pc-win11-21h2-8b50",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8B50",
+  "dmi_matches": [
+    "8B50",
+    "HP Pro x360 435 13.3 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149191-HP Pro x360 4x5 G10 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149191.exe",
+      "size_bytes": 854414552,
+      "md5": "f178c07b34eb3f435cd10a8b0b7212cc",
+      "sha256": "35EB33FA2169ABE0B8A21C310740C26FFD640DD67D74C915F81AE71E61037148",
+      "version": "4.00 A 1",
+      "release_date": "9/7/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

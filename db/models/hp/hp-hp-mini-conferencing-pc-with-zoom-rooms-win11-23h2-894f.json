@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-mini-conferencing-pc-with-zoom-rooms-win11-23h2-894f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Mini Conferencing PC with Zoom Rooms (Windows 11 64-bit, 23H2)",
+  "system_id": "894f,8c6c,8ac3",
+  "dmi_matches": [
+    "894f",
+    "8c6c",
+    "8ac3",
+    "HP Mini Conferencing PC with Zoom Rooms"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP157679-HP Pro/Elite Mini 4/6/800 G9 Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157679.exe",
+      "size_bytes": 1998501448,
+      "md5": "4E4DACC2C9E69764B2747589933E8033",
+      "sha256": "3F6F592F32D4FAC20B30C74D2E15FB074ABA0CAD5686278C33E7D311B06F088A",
+      "version": "9.00 A 1",
+      "release_date": "11/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

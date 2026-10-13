@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-rp5-retail-system-model-5810-win10-1803-2175",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP RP5 Retail System Model 5810 (Windows 10 64-bit, 1803)",
+  "system_id": "2175",
+  "dmi_matches": [
+    "2175",
+    "HP RP5 Retail System Model 5810"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP92270-HP RP5 5810 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92270.exe",
+      "size_bytes": 646467080,
+      "md5": "d914ecc7cc20c24ab50c512b964bf985",
+      "sha256": "13754F59B8300AE5423A94AA1B8CF22B98489E5CE96C33790A3CC9F0A419707D",
+      "version": "2.00 A 1",
+      "release_date": "10/22/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

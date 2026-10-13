@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g7-education-edition-win10-2004-887d",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G7 Education Edition (Windows 10 64-bit, 2004)",
+  "system_id": "887d",
+  "dmi_matches": [
+    "887d",
+    "HP ProBook x360 11 G7 Education Edition"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113444-HP ProBook x360 11 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113444.exe",
+      "size_bytes": 983638376,
+      "md5": "103926f46e3af3ead9f46cecea6bb4cf",
+      "sha256": "91C753C2EA525F3A37A68D60505F5CEC63949F6C756D453EA6D64A9D68542835",
+      "version": "2.00 A 1",
+      "release_date": "4/22/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

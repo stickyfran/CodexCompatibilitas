@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-405-g6-desktop-mini-pc-win10-21h2-872e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G6 Desktop Mini PC (Windows 10 64-bit, 21H2)",
+  "system_id": "872E,8836",
+  "dmi_matches": [
+    "872E",
+    "8836",
+    "HP ProDesk 405 G6 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138571-HP ElitePro 4/805 G6 DM Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138571.exe",
+      "size_bytes": 1122529616,
+      "md5": "80b1c26dc7983b7a1dabe4105d0026e7",
+      "sha256": "CD5D7C4673C6EF70ADD98D06F1D9104FC03661277324EFC6C5580001A19DC5EC",
+      "version": "6.00 A 1",
+      "release_date": "3/1/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

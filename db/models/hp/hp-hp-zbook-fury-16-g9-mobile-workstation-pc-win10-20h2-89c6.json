@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-fury-16-g9-mobile-workstation-pc-win10-20h2-89c6",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 16 G9 Mobile Workstation PC (Windows 10 64-bit, 20H2)",
+  "system_id": "89C6",
+  "dmi_matches": [
+    "89C6",
+    "HP ZBook Fury 16 G9 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145107-HP ZBook Fury 16 G9 MWS Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145107.exe",
+      "size_bytes": 2667499160,
+      "md5": "70974441c52f710a7552722c41fa6885",
+      "sha256": "176346BE4C44E99F962540AFB744F89F6E546741128A7440CDB3FF2B0C05C841",
+      "version": "2.00 A 1",
+      "release_date": "3/16/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

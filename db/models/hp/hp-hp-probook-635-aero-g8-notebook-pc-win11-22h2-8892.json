@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-635-aero-g8-notebook-pc-win11-22h2-8892",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 635 Aero G8 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8892",
+  "dmi_matches": [
+    "8892",
+    "HP ProBook 635 Aero G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149075-HP ProBook 635 Aero G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149075.exe",
+      "size_bytes": 1046349216,
+      "md5": "3bfccc3b09e198b53341cdc4dd4823dd",
+      "sha256": "98D8E71DCA25458AD4E104F4F820B7FAC1E3BA4D729714BA92A8BC0212B1D869",
+      "version": "3.00 A 1",
+      "release_date": "8/30/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

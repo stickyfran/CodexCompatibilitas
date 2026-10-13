@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-notebook-pc-win10-1709-861f",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 1709)",
+  "system_id": "861F",
+  "dmi_matches": [
+    "861F",
+    "HP Elite Dragonfly Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP97057-HP Elite Dragonfly Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp97001-97500/sp97057.exe",
+      "size_bytes": 778516464,
+      "md5": "00cb0554440cba4e01dda3d51a1de94f",
+      "sha256": "4EA4139871D383C17B1ABC12CBB630ED168FD8752233B999181B641CB4AB6558",
+      "version": "1.00 A 1",
+      "release_date": "6/13/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitedesk-8-sff-g2a-desktop-next-gen-ai-pc-win11-25h2-8f5a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 8 SFF G2a Desktop Next Gen AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8F5A,8E89",
+  "dmi_matches": [
+    "8F5A",
+    "8E89",
+    "HP EliteDesk 8 SFF G2a Desktop Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174423-HP EliteDesk 8 SFF G2a Desktop Next Gen AI Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174423.exe",
+      "size_bytes": 2270032280,
+      "md5": "2D0ED9BC793DC8071E7EAE459E99E4C9",
+      "sha256": "2DB6131A3AED11A0FBB207FFC8F156566D075C0DED2937F40432270C047F5221",
+      "version": "2.00 A 1",
+      "release_date": "8/21/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

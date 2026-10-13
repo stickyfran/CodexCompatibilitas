@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z1-g8-tower-desktop-pc-win10-1909-889c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 G8 Tower Desktop PC (Windows 10 64-bit, 1909)",
+  "system_id": "889c",
+  "dmi_matches": [
+    "889c",
+    "HP Z1 G8 Tower Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP123512-HP ElitePro 6/8x0 G8 PC Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123512.exe",
+      "size_bytes": 1668932840,
+      "md5": "afd6307ab22846a599e189a6aa30fb1a",
+      "sha256": "2618336CBB8725896503A4C52A64F6825D5E350A76FED242D6B229947B1F5216",
+      "version": "2.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

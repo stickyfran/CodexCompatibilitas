@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-800-g8-small-form-factor-pc-win11-21h2-889c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G8 Small Form Factor PC (Windows 11 64-bit, 21H2)",
+  "system_id": "889C",
+  "dmi_matches": [
+    "889C",
+    "HP EliteDesk 800 G8 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136262-HP ElitePro 6/8x0 G8 PC Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136262.exe",
+      "size_bytes": 1523093560,
+      "md5": "c8446958aae0fb26c76dfb8d806a9c50",
+      "sha256": "D63ECC1FE8658DFAD4DF8465DE193467A53283A1DF54DAB5A93B416225F3806D",
+      "version": "1.00 A 1",
+      "release_date": "11/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

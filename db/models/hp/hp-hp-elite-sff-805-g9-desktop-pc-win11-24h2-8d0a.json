@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-sff-805-g9-desktop-pc-win11-24h2-8d0a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite SFF 805 G9 Desktop PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8D0A",
+  "dmi_matches": [
+    "8D0A",
+    "HP Elite SFF 805 G9 Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174387-HP Elite SFF 805 G9 Desktop PC Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174387.exe",
+      "size_bytes": 2366000856,
+      "md5": "B4FA68EAC3392CD0D26D9A92CEC3DBE7",
+      "sha256": "C50ACBB697AA4FFAA43FA6C04B8929C64BAE56376063F6FBA4A9E044E3380586",
+      "version": "12.00 A 1",
+      "release_date": "8/18/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

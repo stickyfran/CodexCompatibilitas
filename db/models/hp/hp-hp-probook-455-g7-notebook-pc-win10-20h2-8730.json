@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-455-g7-notebook-pc-win10-20h2-8730",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455 G7 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8730",
+  "dmi_matches": [
+    "8730",
+    "HP ProBook 455 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142806-HP ProBook 4x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142806.exe",
+      "size_bytes": 1004011288,
+      "md5": "3df4d1b4ec940629cda209d5944a8c02",
+      "sha256": "D1583BC49BAD1B5F0D4A21C1A22BBDC1C999A3F53B58719BBC6580298E268DD3",
+      "version": "6.00 A 1",
+      "release_date": "10/6/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

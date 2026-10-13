@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g4-desktop-mini-pc-win10-1809-83f3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 1809)",
+  "system_id": "83f3",
+  "dmi_matches": [
+    "83f3",
+    "HP ProDesk 400 G4 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP100497-HP ElitePro 4/6/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100497.exe",
+      "size_bytes": 843131728,
+      "md5": "1dfd07f0e7c77e4ae7b9914296e2d564",
+      "sha256": "1E556C10463C23805B37488D7D15B7529A408E73471AC49E8952919C7B541538",
+      "version": "10.0 A 1",
+      "release_date": "12/4/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

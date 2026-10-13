@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-go-13-5-inch-mobile-system-win11-22h2-8a94",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go 13.5 inch Mobile System (Windows 11 64-bit, 22H2)",
+  "system_id": "8a94",
+  "dmi_matches": [
+    "8a94",
+    "HP Engage Go 13.5 inch Mobile System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158769-HP Engage Go 13.5 inch Mobile System Win11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158769.exe",
+      "size_bytes": 1421640048,
+      "md5": "836D0323641908DA0CA6907840C91E05",
+      "sha256": "EA9FAF04936EE7047F2E5D572C56C507D89F11F3A11BE47E895792ADAABBBD86",
+      "version": "6.00 A 1",
+      "release_date": "5/12/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-c-g2-retail-system-win11-24h2-8bc6",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro-C G2 Retail System (Windows 11 64-bit, 24H2)",
+  "system_id": "8BC6",
+  "dmi_matches": [
+    "8BC6",
+    "HP Engage Flex Pro-C G2 Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173588-HP Engage Flex Pro G2 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173588.exe",
+      "size_bytes": 2473983504,
+      "md5": "FCF4361EA2F67CD1514E2BA34994818A",
+      "sha256": "22C72E3F2E22027464E064E312C28733990D80BA403C4C1C175485991EC1CB90",
+      "version": "9.00 A 1",
+      "release_date": "6/15/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

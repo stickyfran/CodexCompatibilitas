@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-680-g4-microtower-pc-win10-1803-8580",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 680 G4 Microtower PC (Windows 10 64-bit, 1803)",
+  "system_id": "8580",
+  "dmi_matches": [
+    "8580",
+    "HP ProDesk 680 G4 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95450-HP ProDesk 680 G4 MT Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95450.exe",
+      "size_bytes": 795510296,
+      "md5": "3a3dd67a03998582635f4169e4eb66bf",
+      "sha256": "9BD456B79FBFA39430DAFF4F45D748FEDD894B0BF07848E6709E394D8F99A867",
+      "version": "2.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

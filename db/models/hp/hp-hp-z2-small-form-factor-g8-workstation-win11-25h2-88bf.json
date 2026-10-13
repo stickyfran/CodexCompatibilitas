@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-small-form-factor-g8-workstation-win11-25h2-88bf",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Small Form Factor G8 Workstation (Windows 11 64-bit, 25H2)",
+  "system_id": "88BF",
+  "dmi_matches": [
+    "88BF",
+    "HP Z2 Small Form Factor G8 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP139592-HP Z2G8 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139592.exe",
+      "size_bytes": 1732061872,
+      "md5": "b7f5760af7ae4aad5b50e7798f94e135",
+      "sha256": "9913C7C7237655F50F9025563CCCD0DD28AD65E6263BA5FE71B3240942E55656",
+      "version": "2.00 A 1",
+      "release_date": "4/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

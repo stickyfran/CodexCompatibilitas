@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-fortis-14-inch-g9-notebook-pc-win10-21h1-89b0",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook Fortis 14 inch G9 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "89b0,8b4b",
+  "dmi_matches": [
+    "89b0",
+    "8b4b",
+    "HP ProBook Fortis 14 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145152-HP ProBook x360 Fortis 11 G9 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145152.exe",
+      "size_bytes": 862814264,
+      "md5": "cbde15f1e9ecca0f9876ab4cadce0537",
+      "sha256": "6E96C8E1B1AF19052DAC700CBE1BCEC72478BEF64B8D26BC08BC7E8AD3323FF4",
+      "version": "4.00 A 1",
+      "release_date": "4/20/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

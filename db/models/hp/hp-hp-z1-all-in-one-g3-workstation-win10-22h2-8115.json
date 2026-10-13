@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z1-all-in-one-g3-workstation-win10-22h2-8115",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 22H2)",
+  "system_id": "8115",
+  "dmi_matches": [
+    "8115",
+    "HP Z1 All-in-One G3 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP78583-HP Z1G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp78501-79000/sp78583.exe",
+      "size_bytes": 500654016,
+      "md5": "3d4c980bfdb74957fcf9b2e7930bac51",
+      "sha256": "3BB5EB770E0D8A7D74E9053C8BB4049D3BF735564BD8D9E2521F91C50FE89AF8",
+      "version": "01.2017 A 1",
+      "release_date": "1/11/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

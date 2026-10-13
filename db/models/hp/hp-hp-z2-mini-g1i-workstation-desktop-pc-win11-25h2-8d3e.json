@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-mini-g1i-workstation-desktop-pc-win11-25h2-8d3e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G1i Workstation Desktop PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8D3E",
+  "dmi_matches": [
+    "8D3E",
+    "HP Z2 Mini G1i Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP172351-HP Z2 Mini G1i Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp172001-172500/sp172351.zip",
+      "size_bytes": 3410103342,
+      "md5": "A74A91E836191CDD08A801673E226638",
+      "sha256": "7C2E130CDF2C2ECF07BE36288D782F54C4DAF56D75789AA582DBEF4665D8CAAC",
+      "version": "3.00 A 1",
+      "release_date": "4/16/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-640-14-inch-g10-notebook-pc-win11-22h2-8b88",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 640 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8B88",
+  "dmi_matches": [
+    "8B88",
+    "HP EliteBook 640 14 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158202-HP EB/PB/ZH 6x0/4x0/Pro G10/G6 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158202.exe",
+      "size_bytes": 2173984456,
+      "md5": "B167126113B86ACF2AA68C18E74C05A4",
+      "sha256": "EE5B8D4919B889BD7118F70F34DF1D49CD0DA9019B879DE0A00ECA14E3209535",
+      "version": "6.00 A 1",
+      "release_date": "11/26/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

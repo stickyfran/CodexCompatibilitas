@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z440-workstation-win10-21h1-212b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z440 Workstation (Windows 10 64-bit, 21H1)",
+  "system_id": "212b",
+  "dmi_matches": [
+    "212b",
+    "HP Z440 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP87513-HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87513.exe",
+      "size_bytes": 729843336,
+      "md5": "b20f57da46d2612be620414dc9cafa1b",
+      "sha256": "EF6B17B561F3D29DB1A96067BE3268F6B3F8E2C94DC5C5EBECAA832FD8B4D9B8",
+      "version": "5.2018 J 1",
+      "release_date": "5/9/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

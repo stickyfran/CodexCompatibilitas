@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-proone-600-g4-21-5-inch-touch-all-in-one-business-pc-win10-21h2-83eb",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC (Windows 10 64-bit, 21H2)",
+  "system_id": "83eb,83ea",
+  "dmi_matches": [
+    "83eb",
+    "83ea",
+    "HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114256-HP ElitePro 400/600/800 G4 AiO Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114256.exe",
+      "size_bytes": 1086987800,
+      "md5": "b9491bbd00fd641ae63da5e1e1769b14",
+      "sha256": "1422087DFE8A45EC90CB09FD62A86B255933068CBA8EEE000AA1D96CA56CEE90",
+      "version": "14.00 A 1",
+      "release_date": "6/24/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

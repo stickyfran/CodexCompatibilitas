@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-g7-mobile-workstation-win10-21h1-87ec",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power G7 Mobile Workstation (Windows 10 64-bit, 21H1)",
+  "system_id": "87EC",
+  "dmi_matches": [
+    "87EC",
+    "HP ZBook Power G7 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140568-HP ZBook Power G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140568.exe",
+      "size_bytes": 1338253608,
+      "md5": "3127b5791ddef10e3738045645f1df6c",
+      "sha256": "324AFD2F73D2A49E53168E65FA032B09E4F6C595213107D5CD0CED0D437D12D0",
+      "version": "5.00 A 1",
+      "release_date": "6/2/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

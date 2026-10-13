@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-830-13-inch-g11-notebook-pc-win10-22h2-8c26",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 830 13 inch G11 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8C26",
+  "dmi_matches": [
+    "8C26",
+    "HP EliteBook 830 13 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP152748-HP ZBook Firefly/Elite x360 8x0 G11 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152748.exe",
+      "size_bytes": 3087226816,
+      "md5": "54e103cc0e7d116c6835a72de2dc8277",
+      "sha256": "EB963707180D634B80D1B24F3E6AF44DE9E43F85840369CD85C65BD1BB5EEF0D",
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

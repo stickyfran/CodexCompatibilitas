@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-470-g5-notebook-pc-win10-2004-837f",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 470 G5 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "837f",
+  "dmi_matches": [
+    "837f",
+    "HP ProBook 470 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP115298-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp115001-115500/sp115298.exe",
+      "size_bytes": 1627039704,
+      "md5": "40dea0e5a94d5ef9b89bef4bde9fc9e2",
+      "sha256": "C831F8A3397B2B035C6BEFBEB0DED7B3E62AAA3AEA60FA0F1A53335B94EEF504",
+      "version": "11.00 A 1",
+      "release_date": "6/30/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

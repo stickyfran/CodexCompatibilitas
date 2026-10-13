@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z4-g6i-workstation-desktop-pc-win11-25h2-8d5a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 G6i Workstation Desktop PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8D5A",
+  "dmi_matches": [
+    "8D5A",
+    "HP Z4 G6i Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173775-HP Z8 Fury G6i and Z4 G6i Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173775.exe",
+      "size_bytes": 1630448200,
+      "md5": "E211DE819F34D9A065DB622BA5C7D44C",
+      "sha256": "0CE17A42C492CBF63FAC4BC7FAB63BA1184B50E88D884C9AC28D9F7DC6AC5D07",
+      "version": "1.00 A 1",
+      "release_date": "7/15/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

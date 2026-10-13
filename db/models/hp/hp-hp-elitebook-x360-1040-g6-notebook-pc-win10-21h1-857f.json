@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-1040-g6-notebook-pc-win10-21h1-857f",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1040 G6 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "857F",
+  "dmi_matches": [
+    "857F",
+    "HP EliteBook x360 1040 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114134-HP EliteBook x360 1040 G6 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114134.exe",
+      "size_bytes": 1086996520,
+      "md5": "ef6633ce6de3f7b6674236cf0c7112aa",
+      "sha256": "93841ADEF37811C3910955E2FBE4F84DFAFB9D2ACDEA2E849440DAE42D33AEAE",
+      "version": "9.00 A 1",
+      "release_date": "6/7/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x2-612-g1-tablet-with-travel-keyboard-win10-1607-221b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x2 612 G1 Tablet with Travel Keyboard (Windows 10 64-bit, 1607)",
+  "system_id": "221b",
+  "dmi_matches": [
+    "221b",
+    "HP Pro x2 612 G1 Tablet with Travel Keyboard"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP77225-HP Elite/Pro G1 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1607",
+      "url": "https://ftp.hp.com/pub/softpaq/sp77001-77500/sp77225.exe",
+      "size_bytes": 516323304,
+      "md5": "63211795340609598f6c3e9ca7d336f6",
+      "sha256": "8B7DB0FB53F38509EB25DEA40274620E2102A3B15DB12780A73AD3FDEFEC38D2",
+      "version": "1.00 A 1",
+      "release_date": "8/22/2016 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

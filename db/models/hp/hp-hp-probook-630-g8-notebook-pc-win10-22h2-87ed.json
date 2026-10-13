@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-630-g8-notebook-pc-win10-22h2-87ed",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 630 G8 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "87ED,87EA",
+  "dmi_matches": [
+    "87ED",
+    "87EA",
+    "HP ProBook 630 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144683-HP Probook 6x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144683.exe",
+      "size_bytes": 1618021104,
+      "md5": "541bbe7479369db4c0e395194af29141",
+      "sha256": "FB98348B91BADC1BDD86080126E9361E8A624D9D2776E7489FE37CAF1C4765F5",
+      "version": "7.00 A 1",
+      "release_date": "2/2/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

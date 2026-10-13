@@ -1,0 +1,33 @@
+{
+  "id": "hp-hp-proone-440-23-8-inch-g9-all-in-one-desktop-pc-win10-22h2-8c5d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8c5d,8c5b,8acd,8ace,8959,8958",
+  "dmi_matches": [
+    "8c5d",
+    "8c5b",
+    "8acd",
+    "8ace",
+    "8959",
+    "8958",
+    "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145706-HP ProOne 440 23.8 G9 AIO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145706.exe",
+      "size_bytes": 1287486768,
+      "md5": "0085dd45b7e06cd65371e547d9f9bd4b",
+      "sha256": "5F72BDEF9ECC23F7F43D3A275B551578B3BE09CE95EA043F53C9CA63DD259ECE",
+      "version": "4.00 A 1",
+      "release_date": "6/15/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

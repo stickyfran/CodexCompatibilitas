@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-fury-17-3-inch-g8-mobile-workstation-pc-win10-2004-886d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 17.3 inch G8 Mobile Workstation PC (Windows 10 64-bit, 2004)",
+  "system_id": "886D",
+  "dmi_matches": [
+    "886D",
+    "HP ZBook Fury 17.3 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136447-HP ZBook Fury G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136447.exe",
+      "size_bytes": 1675693936,
+      "md5": "bcafe8bcf252ad73d0426eda4d2717dd",
+      "sha256": "4968A9A2132C8665D3CA3FD3BACC79E9C812A777AB2F5D7BE81519BEC9A1D4A0",
+      "version": "3.00 A 1",
+      "release_date": "11/30/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

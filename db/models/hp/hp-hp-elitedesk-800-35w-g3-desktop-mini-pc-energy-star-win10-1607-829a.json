@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-800-35w-g3-desktop-mini-pc-energy-star-win10-1607-829a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 35W G3 Desktop Mini PC (ENERGY STAR) (Windows 10 64-bit, 1607)",
+  "system_id": "829a",
+  "dmi_matches": [
+    "829a",
+    "HP EliteDesk 800 35W G3 Desktop Mini PC (ENERGY STAR)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP80492-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1607",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80492.exe",
+      "size_bytes": 743829992,
+      "md5": "5ea9ed620b1c8e1100dc6c285b67b90a",
+      "sha256": "B5E7EFB8A87DBA96A11659DCFD9496699719193776E074C63849C92252B0E07E",
+      "version": "2.10 A 1",
+      "release_date": "5/23/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

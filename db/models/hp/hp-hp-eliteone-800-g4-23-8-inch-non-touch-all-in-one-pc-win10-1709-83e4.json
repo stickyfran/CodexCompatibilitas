@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-800-g4-23-8-inch-non-touch-all-in-one-pc-win10-1709-83e4",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC (Windows 10 64-bit, 1709)",
+  "system_id": "83e4",
+  "dmi_matches": [
+    "83e4",
+    "HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP89032-HP ElitePro 400/600/800 G4 AiO Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp89001-89500/sp89032.exe",
+      "size_bytes": 606082768,
+      "md5": "dafdd80b8072ac3e7b4cbe88708aba90",
+      "sha256": "74F0276EC58B0943A3AC192B61DA90B73C1A146D7A81985611F2C0C664306388",
+      "version": "2.00 A 1",
+      "release_date": "7/17/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

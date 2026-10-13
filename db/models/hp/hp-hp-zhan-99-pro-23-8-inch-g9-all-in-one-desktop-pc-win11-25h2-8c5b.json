@@ -1,0 +1,33 @@
+{
+  "id": "hp-hp-zhan-99-pro-23-8-inch-g9-all-in-one-desktop-pc-win11-25h2-8c5b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8c5b,8c5d,8acd,8ace,8958,8959",
+  "dmi_matches": [
+    "8c5b",
+    "8c5d",
+    "8acd",
+    "8ace",
+    "8958",
+    "8959",
+    "HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173479-HP ProOne 440 23.8 G9 AIO Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173479.exe",
+      "size_bytes": 1995551520,
+      "md5": "77EA4D4F817B592B4B2912F787C6B738",
+      "sha256": "E1F6254D8EDB5EC0D041EE7D32BB8BB40388AB9291E2ADBBBC1474498FCBC32C",
+      "version": "11.00 A 1",
+      "release_date": "6/12/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

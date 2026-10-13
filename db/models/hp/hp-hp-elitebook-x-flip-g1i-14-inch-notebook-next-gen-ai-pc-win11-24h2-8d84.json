@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x-flip-g1i-14-inch-notebook-next-gen-ai-pc-win11-24h2-8d84",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8D84",
+  "dmi_matches": [
+    "8D84",
+    "HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174327-HP EliteBook X G1i NB Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174327.exe",
+      "size_bytes": 1228324696,
+      "md5": "5BC4910829EDA5E66085F0928DAF5E0A",
+      "sha256": "2085D3A72266BA016BA86850AB48F43C0DDA1017DA5EFD24A14CF41BA4280248",
+      "version": "4.00 A 1",
+      "release_date": "8/12/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

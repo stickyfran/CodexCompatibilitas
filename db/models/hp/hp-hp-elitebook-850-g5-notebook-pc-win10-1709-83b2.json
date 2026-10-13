@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-850-g5-notebook-pc-win10-1709-83b2",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 850 G5 Notebook PC (Windows 10 64-bit, 1709)",
+  "system_id": "83b2",
+  "dmi_matches": [
+    "83b2",
+    "HP EliteBook 850 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP87609-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87609.exe",
+      "size_bytes": 817192424,
+      "md5": "f331b346968281c59be47377832933c4",
+      "sha256": "693328FDCD1BBDB8FBEC0F7B053F5782851AD6E7970DFB6CDA08292ADCA7BFC6",
+      "version": "4.00 A 1",
+      "release_date": "5/3/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

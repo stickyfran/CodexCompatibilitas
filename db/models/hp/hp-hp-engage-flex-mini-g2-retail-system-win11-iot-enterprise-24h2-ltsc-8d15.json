@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-mini-g2-retail-system-win11-iot-enterprise-24h2-ltsc-8d15",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Mini G2 Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit)",
+  "system_id": "8D15",
+  "dmi_matches": [
+    "8D15",
+    "HP Engage Flex Mini G2 Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP168371-HP Engage Flex Mini G2 Windows 11 IoT Driver Pack",
+      "os": "Windows 11 IoT Enterprise 24H2 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168371.exe",
+      "size_bytes": 1331878392,
+      "md5": "A2D486E818A52D07C8DFAA050C0327E6",
+      "sha256": "851BC797348393405AF5272AEDC8CF0E5A45B9C56994C79BF8C238352229644C",
+      "version": "3.00 A 1",
+      "release_date": "12/15/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

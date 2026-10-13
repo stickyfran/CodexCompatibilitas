@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zhan-66-pro-g3-22-all-in-one-pc-win10-22h2-871b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 10 64-bit, 22H2)",
+  "system_id": "871b,871c",
+  "dmi_matches": [
+    "871b",
+    "871c",
+    "HP ZHAN 66 Pro G3 22 All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144594-HP ProOne 4/600 G6 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144594.exe",
+      "size_bytes": 1441141912,
+      "md5": "8f4135765c4858a318effc202633929c",
+      "sha256": "D44ECD24C949C44AF4397525B79A95047BF1DAEE44176459977EBC111EB7F0EE",
+      "version": "8.00 A 1",
+      "release_date": "3/2/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

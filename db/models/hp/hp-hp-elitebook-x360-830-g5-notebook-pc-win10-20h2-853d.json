@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-830-g5-notebook-pc-win10-20h2-853d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 830 G5 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "853d",
+  "dmi_matches": [
+    "853d",
+    "HP EliteBook x360 830 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114225-HP EliteBook x360 830 G5 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114225.exe",
+      "size_bytes": 1264780176,
+      "md5": "318b8b998e23fe4bddd3ef2bb7813d30",
+      "sha256": "1F77BCED74EC03536D4CED7E8938D8979D19A03B28E9EDCD4E37D16EFD0DA52D",
+      "version": "6.00 A 1",
+      "release_date": "6/18/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

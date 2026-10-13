@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x360-435-13-3-inch-g9-notebook-pc-win11-22h2-89ed",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "89ed",
+  "dmi_matches": [
+    "89ed",
+    "HP Pro x360 435 13.3 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP143619-HP Pro x360 435 G9 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143501-144000/sp143619.exe",
+      "size_bytes": 883740304,
+      "md5": "f642220ff0feb254e0a41be48f6783df",
+      "sha256": "5CDF29AB7C04F6A9111114BD06BCDB213EA17D113AE6767BAEF2EABF6B08B133",
+      "version": "2.00 A 1",
+      "release_date": "11/29/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

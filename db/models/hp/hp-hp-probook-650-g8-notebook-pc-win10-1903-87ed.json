@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-650-g8-notebook-pc-win10-1903-87ed",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 650 G8 Notebook PC (Windows 10 64-bit, 1903)",
+  "system_id": "87ED,87EA",
+  "dmi_matches": [
+    "87ED",
+    "87EA",
+    "HP ProBook 650 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110267-HP Probook 6x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110267.exe",
+      "size_bytes": 1618191344,
+      "md5": "88cf767acc51463efa897a6c41a15d72",
+      "sha256": "57C0BBFE9EBC03E0F608833EDB7DF070BBCB58F08A663A0B4A562506994244B7",
+      "version": "1.00 A 1",
+      "release_date": "9/28/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

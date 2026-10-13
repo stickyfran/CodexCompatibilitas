@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-840r-g4-notebook-pc-win10-1709-8418",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840r G4 Notebook PC (Windows 10 64-bit, 1709)",
+  "system_id": "8418",
+  "dmi_matches": [
+    "8418",
+    "HP EliteBook 840r G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP88717-HP EliteBook 840r G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88717.exe",
+      "size_bytes": 786478632,
+      "md5": "f4b57099d75a08b2eb31b60a05632d56",
+      "sha256": "3F468F680288895300BDADEEC81E988EAE26B12ABCA7991351E72E1E272AB8B4",
+      "version": "2.00 A 1",
+      "release_date": "6/26/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

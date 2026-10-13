@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-elitebook-840-14-inch-g9-notebook-pc-win11-25h2-8ad6",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8ad6,8ABB,896D",
+  "dmi_matches": [
+    "8ad6",
+    "8ABB",
+    "896D",
+    "HP EliteBook 840 14 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP155095-HP EB 8x0 1040 ZB G9 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155001-155500/sp155095.exe",
+      "size_bytes": 2088474584,
+      "md5": "BEEBB93DBD4FF71B410CFCB0B132C85C",
+      "sha256": "F4582C68C98A25F3328ABC43B144B102017A2BE3226D75056373D8B5A8AC00F8",
+      "version": "8.00 A 1",
+      "release_date": "11/21/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

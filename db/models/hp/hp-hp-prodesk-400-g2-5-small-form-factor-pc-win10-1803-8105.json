@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g2-5-small-form-factor-pc-win10-1803-8105",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G2.5 Small Form Factor PC (Windows 10 64-bit, 1803)",
+  "system_id": "8105",
+  "dmi_matches": [
+    "8105",
+    "HP ProDesk 400 G2.5 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95330-HP ElitePro 600/800 G2 PC Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95330.exe",
+      "size_bytes": 861386416,
+      "md5": "ae6996f3d52ad51ebc31e00b1c706c94",
+      "sha256": "2B4B7A06B38CD926F3344D6072B120DDECAC8BB1322EA9ABA565AD2666298FCE",
+      "version": "12.0 A 1",
+      "release_date": "3/12/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

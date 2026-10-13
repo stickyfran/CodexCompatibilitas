@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-15-g6-mobile-workstation-win10-1809-860f",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 15 G6 Mobile Workstation (Windows 10 64-bit, 1809)",
+  "system_id": "860F",
+  "dmi_matches": [
+    "860F",
+    "HP ZBook 15 G6 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99544-HP ZBook 15/17 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99544.exe",
+      "size_bytes": 901882232,
+      "md5": "4c26e35b4656e344796a9ea9ed49ac8f",
+      "sha256": "C078831E211B90A64E6358499D6FB4D263A52F5164C6DD471EAE5493FE03E262",
+      "version": "2.00 A 1",
+      "release_date": "10/9/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

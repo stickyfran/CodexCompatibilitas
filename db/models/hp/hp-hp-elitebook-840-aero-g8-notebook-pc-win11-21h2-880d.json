@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-840-aero-g8-notebook-pc-win11-21h2-880d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 Aero G8 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "880D",
+  "dmi_matches": [
+    "880D",
+    "HP EliteBook 840 Aero G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142670-HP Elite/ZBook 8x0 G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142670.exe",
+      "size_bytes": 1500744608,
+      "md5": "a0f256cb8ac16a3f65117af20567c692",
+      "sha256": "C5EA48AFDA2C818E3A5E59734F0CE721F157D4C06622D98AB92CCB504DFABB87",
+      "version": "3.00 A 1",
+      "release_date": "9/27/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

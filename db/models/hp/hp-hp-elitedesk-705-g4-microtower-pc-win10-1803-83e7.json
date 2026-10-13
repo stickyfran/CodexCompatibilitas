@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-elitedesk-705-g4-microtower-pc-win10-1803-83e7",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G4 Microtower PC (Windows 10 64-bit, 1803)",
+  "system_id": "83e7,8461,8460",
+  "dmi_matches": [
+    "83e7",
+    "8461",
+    "8460",
+    "HP EliteDesk 705 G4 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP92293-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92293.exe",
+      "size_bytes": 1114825176,
+      "md5": "3b999ae6fd705a1427fe9b6ff91bfe82",
+      "sha256": "C50B5629FCE1D4583E24C24E78170E7CAEE9B764C3C516748BFCFD849030232A",
+      "version": "3.00 A 1",
+      "release_date": "10/16/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

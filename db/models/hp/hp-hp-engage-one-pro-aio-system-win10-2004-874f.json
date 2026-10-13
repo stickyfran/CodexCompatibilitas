@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-pro-aio-system-win10-2004-874f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Pro AIO System (Windows 10 64-bit, 2004)",
+  "system_id": "874F",
+  "dmi_matches": [
+    "874F",
+    "HP Engage One Pro AIO System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP111578-HP Engage One Pro AIO Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111578.exe",
+      "size_bytes": 468544152,
+      "md5": "1f78693d332a00b0d99bfe4bd9717fc6",
+      "sha256": "16FE3130489B622CF58ABD665FB83AAEF11580624975AFD9C28399FA8F9CBC62",
+      "version": "1.00 A 1",
+      "release_date": "12/10/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

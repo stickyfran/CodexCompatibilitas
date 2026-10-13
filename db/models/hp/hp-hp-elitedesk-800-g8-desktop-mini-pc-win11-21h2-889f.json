@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitedesk-800-g8-desktop-mini-pc-win11-21h2-889f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G8 Desktop Mini PC (Windows 11 64-bit, 21H2)",
+  "system_id": "889F,88A0",
+  "dmi_matches": [
+    "889F",
+    "88A0",
+    "HP EliteDesk 800 G8 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136423-HP ElitePro 6/800 G8 DM Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136423.exe",
+      "size_bytes": 1449185032,
+      "md5": "52dd83c3beb915e06ee1f35deaadfd65",
+      "sha256": "E011CCD75461C2465DB362B15F90263F54FB2936A83B667C608B339B4CC09EEC",
+      "version": "1.00 A 1",
+      "release_date": "2/26/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

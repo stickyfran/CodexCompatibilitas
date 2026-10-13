@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-405-g8-desktop-mini-pc-win11-23h2-8882",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G8 Desktop Mini PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8882,8968",
+  "dmi_matches": [
+    "8882",
+    "8968",
+    "HP ProDesk 405 G8 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP143119-HP ElitePro 4/805 G8 DM Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143119.exe",
+      "size_bytes": 1208364592,
+      "md5": "4499a4e1066126f71ba210f58e004868",
+      "sha256": "994509AE0DA0AEB61E17A79A2E0E848FB7B2845455F5337ADE5A48286101B8B7",
+      "version": "4.00 A 1",
+      "release_date": "10/19/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

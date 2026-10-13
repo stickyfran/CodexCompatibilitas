@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-600-g5-desktop-mini-pc-win10-2004-8598",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G5 Desktop Mini PC (Windows 10 64-bit, 2004)",
+  "system_id": "8598",
+  "dmi_matches": [
+    "8598",
+    "HP ProDesk 600 G5 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112643-HP ElitePro 4/6/800 G5 PC Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112643.exe",
+      "size_bytes": 1827974072,
+      "md5": "168774fa8d395090920a8d4fc1bdc57a",
+      "sha256": "ABCBEA08C1C5AF3586E68A1422CFA0FED8C01710EFF67FC8D5432FFA3BE25E14",
+      "version": "8.00 A 1",
+      "release_date": "2/8/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

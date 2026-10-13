@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-645-14-inch-g10-notebook-pc-win11-24h2-8b5f",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 645 14 inch G10 Notebook PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8B5F",
+  "dmi_matches": [
+    "8B5F",
+    "HP EliteBook 645 14 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP169014-HP Pro/EliteBook 4/6x5 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp169001-169500/sp169014.exe",
+      "size_bytes": 1229907968,
+      "md5": "8A6076DF8BAEE80F44E09B704DE1CB68",
+      "sha256": "31D85F2F68B684FEAF959008E6EDE90B0E9746B780CF8F0D0670A68BD7BB94EE",
+      "version": "6.00 A 1",
+      "release_date": "1/16/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

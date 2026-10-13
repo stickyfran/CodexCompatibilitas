@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-6-g1a-14-inch-notebook-next-gen-ai-pc-win11-23h2-8e0d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 6 G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8E0D",
+  "dmi_matches": [
+    "8E0D",
+    "HP EliteBook 6 G1a 14 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174426-HP EliteBook 6 G1a Notebook Next Gen Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174426.exe",
+      "size_bytes": 1221754208,
+      "md5": "24E81206FF3521345405764D962A3479",
+      "sha256": "F64C31F0CFF16B99506DC4960E0A837DF7DC058BC52C89A548DC94455A0C096C",
+      "version": "4.00 A 1",
+      "release_date": "8/21/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

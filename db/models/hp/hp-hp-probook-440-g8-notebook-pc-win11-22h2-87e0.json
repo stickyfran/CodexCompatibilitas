@@ -1,0 +1,33 @@
+{
+  "id": "hp-hp-probook-440-g8-notebook-pc-win11-22h2-87e0",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 440 G8 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "87E0,8807,8A84,8A76,8A74,8A86",
+  "dmi_matches": [
+    "87E0",
+    "8807",
+    "8A84",
+    "8A76",
+    "8A74",
+    "8A86",
+    "HP ProBook 440 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142908-HP ProBook 4x0 G8/ZHAN G4 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142908.exe",
+      "size_bytes": 1298060736,
+      "md5": "4d3a123d8205f7fd5a669a50677e8c96",
+      "sha256": "65A55D5DB573679D0FCE48B5CF2BEA68B08A15B9CDD78D8CBF2CF4CF5EC6225F",
+      "version": "2.00 A 1",
+      "release_date": "10/7/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

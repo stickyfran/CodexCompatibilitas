@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z1-g9-tower-desktop-win11-22h2-8ac1",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 G9 Tower Desktop (Windows 11 64-bit, 22H2)",
+  "system_id": "8ac1,894d",
+  "dmi_matches": [
+    "8ac1",
+    "894d",
+    "HP Z1 G9 Tower Desktop"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP157726-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157726.exe",
+      "size_bytes": 3825933152,
+      "md5": "904E1F4DB15A95A756C4106AA1FBFD2E",
+      "sha256": "FE269583BFABE957EFF0F35120605D0416B9911CE319B390AF008F85B4FC1B20",
+      "version": "9.00 A 1",
+      "release_date": "12/1/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

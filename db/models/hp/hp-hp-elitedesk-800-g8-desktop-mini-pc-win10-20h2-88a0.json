@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitedesk-800-g8-desktop-mini-pc-win10-20h2-88a0",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G8 Desktop Mini PC (Windows 10 64-bit, 20H2)",
+  "system_id": "88A0,889F",
+  "dmi_matches": [
+    "88A0",
+    "889F",
+    "HP EliteDesk 800 G8 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138682-HP ElitePro 6/800 G8 DM Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138682.exe",
+      "size_bytes": 1449348440,
+      "md5": "8a5c35e715f8cbfa392d110a1f20f2c1",
+      "sha256": "0FFF06ED333A11124C7F3CE1CDBCAACCAA2B6E2F4573861A1787316C92FD63D0",
+      "version": "3.00 A 1",
+      "release_date": "3/7/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

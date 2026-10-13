@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-600-g6-desktop-mini-pc-win11-21h2-8715",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G6 Desktop Mini PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8715",
+  "dmi_matches": [
+    "8715",
+    "HP ProDesk 600 G6 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP143754-HP ElitePro 6/800 G6 SFF Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143501-144000/sp143754.exe",
+      "size_bytes": 1226001688,
+      "md5": "d5f2b06d204a514e0fd93fc6163004db",
+      "sha256": "5CB6061990A2154194889DBC1A9D922299ECE28660E2CE829C50EC69733B2494",
+      "version": "5.00 A 1",
+      "release_date": "11/28/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

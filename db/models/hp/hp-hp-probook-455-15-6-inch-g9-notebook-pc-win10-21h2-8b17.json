@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-455-15-6-inch-g9-notebook-pc-win10-21h2-8b17",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455 15.6 inch G9 Notebook PC (Windows 10 64-bit, 21H2)",
+  "system_id": "8B17,89C9",
+  "dmi_matches": [
+    "8B17",
+    "89C9",
+    "HP ProBook 455 15.6 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145268-HP ZHAN/Pro/Elite 4/6x5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145268.exe",
+      "size_bytes": 933538288,
+      "md5": "0e2b4a7c797a798cf1fd4bbf09bc377d",
+      "sha256": "85D32E04F744106D4667FD351E11BC4420BD793F4699A7D3C0831A6EECDB1F1F",
+      "version": "3.00 A 1",
+      "release_date": "3/18/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

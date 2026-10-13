@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitebook-1040-g4-notebook-pc-win10-1803-82de",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 1040 G4 Notebook PC (Windows 10 64-bit, 1803)",
+  "system_id": "82de,8417",
+  "dmi_matches": [
+    "82de",
+    "8417",
+    "HP EliteBook 1040 G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95271-HP EliteBook 1040 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95271.exe",
+      "size_bytes": 795097120,
+      "md5": "925a3f211818f60a4f459073cd903387",
+      "sha256": "588ECE1E0863C8B0E44AE3D7DA6D46909A1DDEF5626CE4E2ABADFCF589D35683",
+      "version": "7.00 A 1",
+      "release_date": "3/6/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

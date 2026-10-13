@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-x-g1i-16-inch-mobile-workstation-pc-win10-22h2-8e1d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook X G1i 16 inch Mobile Workstation PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8e1d",
+  "dmi_matches": [
+    "8e1d",
+    "HP ZBook X G1i 16 inch Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158846-HP ZBook X G1i MWS Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158846.exe",
+      "size_bytes": 2675517056,
+      "md5": "537087FC8AB0E57FC27AA8095311D55A",
+      "sha256": "2869F0D1B9AE96EAFDE6605336017557A196B3891C48596526D6287838262847",
+      "version": "1.00 A 1",
+      "release_date": "5/26/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

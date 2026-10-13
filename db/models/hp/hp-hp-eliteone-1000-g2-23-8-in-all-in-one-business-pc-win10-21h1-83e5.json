@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-1000-g2-23-8-in-all-in-one-business-pc-win10-21h1-83e5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 1000 G2 23.8-in All-in-One Business PC (Windows 10 64-bit, 21H1)",
+  "system_id": "83e5",
+  "dmi_matches": [
+    "83e5",
+    "HP EliteOne 1000 G2 23.8-in All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP115294-HP EliteOne 1000 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp115001-115500/sp115294.exe",
+      "size_bytes": 1120535560,
+      "md5": "fa0df33f370a354208be2696f6b23cb0",
+      "sha256": "E75F438BBB8F02E1CA2DB83A5F08EC8E9E701F58EF1E85E3DDC532F801AC6F86",
+      "version": "14.00 A 1",
+      "release_date": "6/29/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

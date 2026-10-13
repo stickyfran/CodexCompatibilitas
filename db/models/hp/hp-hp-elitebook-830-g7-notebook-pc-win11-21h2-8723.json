@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-830-g7-notebook-pc-win11-21h2-8723",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 830 G7 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8723",
+  "dmi_matches": [
+    "8723",
+    "HP EliteBook 830 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140701-HP Elite/ZBook 8x0 G7 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140701.exe",
+      "size_bytes": 1650155432,
+      "md5": "615a2b1dd28e281190bcc6fd27385ba2",
+      "sha256": "FF07329C68F004C2C6D82B85B820660A3AA991F2FBB478D6F170BD013D4C9D07",
+      "version": "1.00 A 1",
+      "release_date": "6/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

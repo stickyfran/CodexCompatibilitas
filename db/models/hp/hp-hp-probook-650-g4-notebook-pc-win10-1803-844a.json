@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-650-g4-notebook-pc-win10-1803-844a",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 650 G4 Notebook PC (Windows 10 64-bit, 1803)",
+  "system_id": "844a,8416",
+  "dmi_matches": [
+    "844a",
+    "8416",
+    "HP ProBook 650 G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95435-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95435.exe",
+      "size_bytes": 739890328,
+      "md5": "531180998fdd5c1c06027202e6692f25",
+      "sha256": "7AA503B6C3F6E98CAB075D9C8522DDEDF75279D0B110962C08B31DD52BEE42EA",
+      "version": "7.00 A 1",
+      "release_date": "3/21/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

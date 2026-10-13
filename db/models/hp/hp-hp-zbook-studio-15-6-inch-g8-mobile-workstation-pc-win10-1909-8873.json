@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-studio-15-6-inch-g8-mobile-workstation-pc-win10-1909-8873",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 1909)",
+  "system_id": "8873",
+  "dmi_matches": [
+    "8873",
+    "HP ZBook Studio 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP134293-HP ZBook Studio/Create G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp134001-134500/sp134293.exe",
+      "size_bytes": 1760043072,
+      "md5": "a60d028b691a6ad4f14476119ae98c7a",
+      "sha256": "450C88DC4D437035E50533A4764178A24DA06923806019381E4620F35C31D24E",
+      "version": "3.00 A 1",
+      "release_date": "9/1/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

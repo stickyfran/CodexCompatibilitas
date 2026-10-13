@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x-g2a-14-inch-notebook-next-gen-ai-pc-win11-25h2-8ef5",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook X G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8EF5",
+  "dmi_matches": [
+    "8EF5",
+    "HP EliteBook X G2a 14 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174204-HP EliteBook X G2a NB Next Gen AI Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174204.exe",
+      "size_bytes": 986943616,
+      "md5": "D25261F70B98FC3C067C8B7EDC57426D",
+      "sha256": "238BD489C26B55223679F6158F9B00E29BED33C30A00D24D84DA555115BB87E0",
+      "version": "3.00 A 1",
+      "release_date": "8/5/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

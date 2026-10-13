@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-600-g4-small-form-factor-pc-win10-21h2-83ee",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G4 Small Form Factor PC (Windows 10 64-bit, 21H2)",
+  "system_id": "83ee",
+  "dmi_matches": [
+    "83ee",
+    "HP ProDesk 600 G4 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114276-HP ElitePro 400/600/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114276.exe",
+      "size_bytes": 1496484384,
+      "md5": "fe508c14282d24f1ef3fc7bdedd81b53",
+      "sha256": "3864E2875EA9FD345F24C36ABB5A40359861D5700A902F3EB007245ACC4FB1E5",
+      "version": "14.00 A 1",
+      "release_date": "6/28/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

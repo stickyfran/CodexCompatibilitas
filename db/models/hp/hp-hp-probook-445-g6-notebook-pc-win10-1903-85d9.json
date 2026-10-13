@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-445-g6-notebook-pc-win10-1903-85d9",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 G6 Notebook PC (Windows 10 64-bit, 1903)",
+  "system_id": "85d9",
+  "dmi_matches": [
+    "85d9",
+    "HP ProBook 445 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP103578-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103578.exe",
+      "size_bytes": 921618616,
+      "md5": "0c57909ca5e213dd03a4485d190fad87",
+      "sha256": "7F54F3C5C9A2F82CAEE0CEB28AE4B8EE8DF0FF06FE9406E9B7CB85BEB121BDEA",
+      "version": "5.00 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

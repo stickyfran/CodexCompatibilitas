@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-elitedesk-800-g5-desktop-mini-pc-win10-1809-8593",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G5 Desktop Mini PC (Windows 10 64-bit, 1809)",
+  "system_id": "8593,8595,8594",
+  "dmi_matches": [
+    "8593",
+    "8595",
+    "8594",
+    "HP EliteDesk 800 G5 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99588-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99588.exe",
+      "size_bytes": 832327416,
+      "md5": "a178e51dd931676497168a7014185bb1",
+      "sha256": "8342C3984EDD09DB2D15FA81B640F4328FB243F0C59A83E56774F33420BEC45B",
+      "version": "3.00 A 1",
+      "release_date": "10/17/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

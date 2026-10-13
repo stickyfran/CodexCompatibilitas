@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-450-15-6-inch-g10-notebook-pc-win11-24h2-8b7c",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 450 15.6 inch G10 Notebook PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8B7C",
+  "dmi_matches": [
+    "8B7C",
+    "HP ProBook 450 15.6 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP170014-HP EB/PB/ZH 6x0/4x0/Pro G10/G6 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170014.exe",
+      "size_bytes": 2657464456,
+      "md5": "B8C4F2B44E1E7EF676B63C1CACF66D90",
+      "sha256": "2ACC37FD13A7DECE7748B26B6FFCA55B660C78DC0CF5290F7B95A7ED32DB74C7",
+      "version": "7.00 A 1",
+      "release_date": "1/19/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

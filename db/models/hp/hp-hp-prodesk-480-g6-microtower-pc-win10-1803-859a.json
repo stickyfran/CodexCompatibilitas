@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-480-g6-microtower-pc-win10-1803-859a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 480 G6 Microtower PC (Windows 10 64-bit, 1803)",
+  "system_id": "859a,8599",
+  "dmi_matches": [
+    "859a",
+    "8599",
+    "HP ProDesk 480 G6 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP96781-HP ProDesk 4x0 G6 SFF/MT Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96781.exe",
+      "size_bytes": 812260784,
+      "md5": "a9f98a759828fe824747bc966afb4c22",
+      "sha256": "23EE32166C64E850BD567A7C1EA71ABDFA96A59D6A738035AC8E170EB3F0E362",
+      "version": "1.00 A 1",
+      "release_date": "5/30/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

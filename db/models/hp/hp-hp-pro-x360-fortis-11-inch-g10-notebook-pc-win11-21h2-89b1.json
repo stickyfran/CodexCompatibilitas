@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x360-fortis-11-inch-g10-notebook-pc-win11-21h2-89b1",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 Fortis 11 inch G10 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "89B1",
+  "dmi_matches": [
+    "89B1",
+    "HP Pro x360 Fortis 11 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149060-HP Pro x360 Fortis G10 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149060.exe",
+      "size_bytes": 767658592,
+      "md5": "e65d4c9a917a3df72ddd99cae646ad67",
+      "sha256": "CDA338092918D6AE9D79DA1267DAE0A0D6F0E5A35BC4DA2897AB6D1B52A7F4F0",
+      "version": "3.00 A 1",
+      "release_date": "8/31/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x-flip-g2i-14-inch-notebook-next-gen-ai-pc-win11-24h2-8e86",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook X Flip G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8e86",
+  "dmi_matches": [
+    "8e86",
+    "HP EliteBook X Flip G2i 14 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP172736-HP EliteBook G2i Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp172501-173000/sp172736.exe",
+      "size_bytes": 1219676576,
+      "md5": "8AE93F5F3D51452357FDEFFD7B9C9CEE",
+      "sha256": "184537E7A9B043CBC8850889C0917AD5AB23F9EE3B7C72FF3E64B195D31F376E",
+      "version": "4.00 A 1",
+      "release_date": "8/17/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

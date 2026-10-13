@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elite-mini-800-g9-desktop-pc-win11-23h2-8ac3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Mini 800 G9 Desktop PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8AC3,894F",
+  "dmi_matches": [
+    "8AC3",
+    "894F",
+    "HP Elite Mini 800 G9 Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173508-HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173508.exe",
+      "size_bytes": 1249797176,
+      "md5": "91A0214A287E07915719D67A43CC482D",
+      "sha256": "97C7F622DF28276095EA455AACA124C6EF5671993BF32375C94603648D90CE1D",
+      "version": "11.00 A 1",
+      "release_date": "6/22/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

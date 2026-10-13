@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-440-g1-notebook-pc-win10-1703-84d8",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 440 G1 Notebook PC (Windows 10 64-bit, 1703)",
+  "system_id": "84d8",
+  "dmi_matches": [
+    "84d8",
+    "HP ProBook x360 440 G1 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP84654-HP ProBook x360 440 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84654.exe",
+      "size_bytes": 698137688,
+      "md5": "3233aec6a4edbcddfdc5a87cbb60b432",
+      "sha256": "D26B91429FB1C7A80B4C917BFC3FD6DB99B77BEAB769841DC59026E0992FA5C2",
+      "version": "1.00 A 1",
+      "release_date": "1/10/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

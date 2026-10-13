@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-spectre-pro-x360-g2-convertible-pc-win10-1607-8197",
+  "vendor": "HP",
+  "family": "Spectre",
+  "model_name": "HP Spectre Pro x360 G2 Convertible PC (Windows 10 64-bit, 1607)",
+  "system_id": "8197,8198",
+  "dmi_matches": [
+    "8197",
+    "8198",
+    "HP Spectre Pro x360 G2 Convertible PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP80891-HP Spectre Pro x360 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1607",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80501-81000/sp80891.exe",
+      "size_bytes": 404084848,
+      "md5": "23e5efd7d3e01649b5cb52c572b77815",
+      "sha256": "8C065D686049FB4A5C436ED9B44AD2AB7D6A82933041E56F7BB443B02A484F6A",
+      "version": "2.00 A 1",
+      "release_date": "6/23/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

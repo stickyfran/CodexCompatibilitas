@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-680-g3-microtower-pc-win10-1709-82b3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 680 G3 Microtower PC (Windows 10 64-bit, 1709)",
+  "system_id": "82b3,829d",
+  "dmi_matches": [
+    "82b3",
+    "829d",
+    "HP ProDesk 680 G3 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP88958-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88958.exe",
+      "size_bytes": 947806080,
+      "md5": "2994960e336ea8714b0375c2585361a1",
+      "sha256": "6CA9DFA69C98429F79DCF1C9E77057ACD44FC1B9ACEB2AB8E31415198D1EE9CC",
+      "version": "13.0 A 1",
+      "release_date": "7/24/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

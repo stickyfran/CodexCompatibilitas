@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zcentral-4r-workstation-win11-25h2-873e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZCentral 4R Workstation (Windows 11 64-bit, 25H2)",
+  "system_id": "873E",
+  "dmi_matches": [
+    "873E",
+    "HP ZCentral 4R Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145114-HP ZCentral 4R Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145114.exe",
+      "size_bytes": 1647288840,
+      "md5": "6935c587740bf1413184ca1e6ff50638",
+      "sha256": "C1B8FC227032F630210B43074F5BDAECF0D53F6600F6F26A39FC10DC5037B2D8",
+      "version": "4.00 A 1",
+      "release_date": "3/6/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

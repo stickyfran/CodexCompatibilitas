@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-405-g4-small-form-factor-pc-win10-1809-83e8",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G4 Small Form Factor PC (Windows 10 64-bit, 1809)",
+  "system_id": "83e8",
+  "dmi_matches": [
+    "83e8",
+    "HP ProDesk 405 G4 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP100259-HP ProDesk 405 G4 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100259.exe",
+      "size_bytes": 847213848,
+      "md5": "7a126f3aea6f6736549fbf1510f8c41d",
+      "sha256": "DB5E3C7888EA02183FC2EA8C1D249661CA269C710DD656FB15D9A7CCBEE438A8",
+      "version": "2.00 A 1",
+      "release_date": "11/26/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-645-g4-notebook-pc-win10-1709-8401",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 645 G4 Notebook PC (Windows 10 64-bit, 1709)",
+  "system_id": "8401",
+  "dmi_matches": [
+    "8401",
+    "HP ProBook 645 G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP91601-HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp91501-92000/sp91601.exe",
+      "size_bytes": 575707480,
+      "md5": "365676fd24d21dc79c6c05b8e42d60fb",
+      "sha256": "AFD7F44C928677798104272E3FD251934972E27D0A22B32DC63286EE41EFAD09",
+      "version": "2.01 A 1",
+      "release_date": "8/15/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

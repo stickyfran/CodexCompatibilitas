@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-15-6-inch-g8-mobile-workstation-pc-win11-25h2-888d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 25H2)",
+  "system_id": "888d",
+  "dmi_matches": [
+    "888d",
+    "HP ZBook Power 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142735-HP ZBook Power G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142735.exe",
+      "size_bytes": 1225949000,
+      "md5": "3bf7132904d70189f5d814a3cd497c7a",
+      "sha256": "D2D80F2CB2052A662E5479AEE78FDE7E080D161090C854C9AF715DFE2CBDDD3D",
+      "version": "2.00 A 1",
+      "release_date": "4/16/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z2-mini-g5-workstation-win10-1909-8755",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G5 Workstation (Windows 10 64-bit, 1909)",
+  "system_id": "8755,8754",
+  "dmi_matches": [
+    "8755",
+    "8754",
+    "HP Z2 Mini G5 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP135910-HP Z2G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135910.exe",
+      "size_bytes": 1499518472,
+      "md5": "2225fefc94e3dd69e7531d4513737728",
+      "sha256": "CFDC1182F8138F18771251F0A7B4D8AED30527F937A1611C03098AFF7F5CEB3B",
+      "version": "5.00 A 1",
+      "release_date": "10/15/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

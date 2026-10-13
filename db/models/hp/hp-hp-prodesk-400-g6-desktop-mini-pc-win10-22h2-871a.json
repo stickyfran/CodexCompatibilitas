@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g6-desktop-mini-pc-win10-22h2-871a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G6 Desktop Mini PC (Windows 10 64-bit, 22H2)",
+  "system_id": "871a",
+  "dmi_matches": [
+    "871a",
+    "HP ProDesk 400 G6 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144615-HP ElitePro 4/6/800 G6 Desktop Mini Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144615.exe",
+      "size_bytes": 1420438408,
+      "md5": "a46b65335542b7f32bb28a36ca5e2690",
+      "sha256": "76A3777E28BECBACC31E053DC2CA166F2F5809ACFD4E54141C753681873F64BC",
+      "version": "2.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-435-g8-notebook-pc-win10-20h2-8886",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 435 G8 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8886",
+  "dmi_matches": [
+    "8886",
+    "HP ProBook x360 435 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147679-HP ProBook x360 435 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147679.exe",
+      "size_bytes": 929051944,
+      "md5": "177e71e02a7de43d38d1715daf9e9a4d",
+      "sha256": "0129FC1D6CC8119721ED53483D2C8CC811B2F98633922D94B004BB7429797FFA",
+      "version": "4.00 A 1",
+      "release_date": "6/7/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

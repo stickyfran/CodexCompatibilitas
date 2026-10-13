@@ -1,0 +1,33 @@
+{
+  "id": "hp-hp-proone-440-23-8-inch-g9-all-in-one-desktop-pc-win11-22h2-8c5b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8c5b,8c5d,8acd,8ace,8959,8958",
+  "dmi_matches": [
+    "8c5b",
+    "8c5d",
+    "8acd",
+    "8ace",
+    "8959",
+    "8958",
+    "HP ProOne 440 23.8 inch G9 All-in-One Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP151268-HP ProOne 440 23.8 G9 AIO Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151268.exe",
+      "size_bytes": 1493086680,
+      "md5": "e66290234a3acc517b1ccc831ad18a0c",
+      "sha256": "7A6AABBEF5697E20FC8F765E12C14FEC1B28215CFE5EB44BDA65238CD0595848",
+      "version": "7.00 A 1",
+      "release_date": "2/20/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

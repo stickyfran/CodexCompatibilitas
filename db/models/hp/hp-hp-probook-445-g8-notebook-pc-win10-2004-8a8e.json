@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-445-g8-notebook-pc-win10-2004-8a8e",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 G8 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "8A8E,8861",
+  "dmi_matches": [
+    "8A8E",
+    "8861",
+    "HP ProBook 445 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113578-HP ProBook 4x5 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113578.exe",
+      "size_bytes": 1116523344,
+      "md5": "dee0a66126a46b03a74f7e397e2bfc20",
+      "sha256": "16A29A971BDD6D6AF0AB6752EED93E2B88CAD3CC505EA577C05F98B59E5B16F6",
+      "version": "2.00 A 1",
+      "release_date": "5/3/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

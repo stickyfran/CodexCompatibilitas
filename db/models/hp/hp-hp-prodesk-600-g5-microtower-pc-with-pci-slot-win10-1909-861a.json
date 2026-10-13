@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-600-g5-microtower-pc-with-pci-slot-win10-1909-861a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G5 Microtower PC (with PCI slot) (Windows 10 64-bit, 1909)",
+  "system_id": "861a,8596",
+  "dmi_matches": [
+    "861a",
+    "8596",
+    "HP ProDesk 600 G5 Microtower PC (with PCI slot)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP111207-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111207.exe",
+      "size_bytes": 1802888864,
+      "md5": "371c36fb504fceba8822c40414056ec6",
+      "sha256": "C041D62D4FB87F7683A3778C4A4C24E3D9908F4E6B38BA6893F94919BF5DD613",
+      "version": "7.00 A 1",
+      "release_date": "11/20/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

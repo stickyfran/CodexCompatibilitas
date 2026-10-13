@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-1040-g7-notebook-pc-win11-21h2-876d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1040 G7 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "876d",
+  "dmi_matches": [
+    "876d",
+    "HP EliteBook x360 1040 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140867-HP EliteBook x360 10x0 G7 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140867.exe",
+      "size_bytes": 1336698768,
+      "md5": "43d019da9a8e068971db9f1428e048e0",
+      "sha256": "253C23D61E512E71016D8F6994085C0F38841668A7BF15CAF9CB4A5890FF7FDE",
+      "version": "1.00 A 1",
+      "release_date": "6/30/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-c-retail-system-win10-1809-8476",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 1809)",
+  "system_id": "8476",
+  "dmi_matches": [
+    "8476",
+    "HP Engage Flex Pro-C Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP97052-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp97001-97500/sp97052.exe",
+      "size_bytes": 781081840,
+      "md5": "4dffb8f902147dd008c40dfc3992e817",
+      "sha256": "FB7BA2C513C084FA1CB213C373B615901BF0CA49D31511BC57F4D68CBC8EA2CC",
+      "version": "3.00 A 1",
+      "release_date": "6/13/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-8-g1i-16-inch-notebook-next-gen-ai-pc-win11-24h2-8d8a",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8D8A",
+  "dmi_matches": [
+    "8D8A",
+    "HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174398-HP EliteBook G1i NB Next Gen Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174398.exe",
+      "size_bytes": 1229009304,
+      "md5": "732E708172D8F5F06FAA134B6546E2A5",
+      "sha256": "A5709D108B0E39945461087414D501B25405446063BC90A8973938F7F06FB41B",
+      "version": "4.00 A 1",
+      "release_date": "8/18/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

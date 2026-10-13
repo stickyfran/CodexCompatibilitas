@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-850-g4-notebook-pc-win10-1607-828c",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 850 G4 Notebook PC (Windows 10 64-bit, 1607)",
+  "system_id": "828c",
+  "dmi_matches": [
+    "828c",
+    "HP EliteBook 850 G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112019-HP Elite/ZBook 8x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1607",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112019.exe",
+      "size_bytes": 1249542424,
+      "md5": "e84fbf6fade56908e18bf2812160455b",
+      "sha256": "6CE8818CA049C782F0F62E607243BD35CD1EA2AEE4CC90059CC615D03FF0F35E",
+      "version": "17.0 A 1",
+      "release_date": "12/31/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

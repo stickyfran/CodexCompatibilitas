@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prostudio-4-all-in-one-g1i-23-8-inch-desktop-ai-pc-win11-25h2-8d19",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8d19,8e01",
+  "dmi_matches": [
+    "8d19",
+    "8e01",
+    "HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173547-HP Pro4 AOI G1i AI PC Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173547.exe",
+      "size_bytes": 3039754952,
+      "md5": "75A056A2C916D33ADBC4B8D14A11BD2D",
+      "sha256": "474C4130774B20393806E5EA2E4BFCFB392AF89834D82AB31D11712C9C4F33F6",
+      "version": "6.00 A 1",
+      "release_date": "6/10/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

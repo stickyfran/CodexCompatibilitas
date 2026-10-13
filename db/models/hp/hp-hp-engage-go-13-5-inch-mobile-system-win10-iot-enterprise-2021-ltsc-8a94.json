@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-go-13-5-inch-mobile-system-win10-iot-enterprise-2021-ltsc-8a94",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go 13.5 inch Mobile System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit)",
+  "system_id": "8a94",
+  "dmi_matches": [
+    "8a94",
+    "HP Engage Go 13.5 inch Mobile System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144919-HP Engage Go 13.5 inch Mobile System IoT10 2021 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2021 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144919.exe",
+      "size_bytes": 927566696,
+      "md5": "d247c75756a49bca2513b6965c5687be",
+      "sha256": "C459FCAF821C62B5803C245D39CCD3E6BF53E3C528B30451F39C23A8F9218C49",
+      "version": "2.00 A 1",
+      "release_date": "2/16/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

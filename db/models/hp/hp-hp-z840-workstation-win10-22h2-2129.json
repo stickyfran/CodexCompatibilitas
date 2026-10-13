@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z840-workstation-win10-22h2-2129",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z840 Workstation (Windows 10 64-bit, 22H2)",
+  "system_id": "2129",
+  "dmi_matches": [
+    "2129",
+    "HP Z840 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP78922-HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp78501-79000/sp78922.exe",
+      "size_bytes": 673643544,
+      "md5": "fbd87cd4a7a27f4c0fd617f075d80fac",
+      "sha256": "673CC9B504CBF5FBCBA911FED060F2F698350BE2020C83DD1F1146D258CAABE4",
+      "version": "01.2017 A 1",
+      "release_date": "1/11/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

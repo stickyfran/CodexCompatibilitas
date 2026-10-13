@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-mini-g2-retail-system-win11-23h2-8d15",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Mini G2 Retail System (Windows 11 64-bit, 23H2)",
+  "system_id": "8D15",
+  "dmi_matches": [
+    "8D15",
+    "HP Engage Flex Mini G2 Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP168372-HP Engage Flex Mini G2 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168372.exe",
+      "size_bytes": 1331878384,
+      "md5": "52C879481617640C1296D66DB509BE4D",
+      "sha256": "4DCDB4A558151AF364270291F621BEB1AB55DAD8CC646CB9C28FA3B342B5DF24",
+      "version": "3.00 A 1",
+      "release_date": "12/15/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

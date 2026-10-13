@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g4-ee-notebook-pc-win10-1803-8524",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G4 EE Notebook PC (Windows 10 64-bit, 1803)",
+  "system_id": "8524",
+  "dmi_matches": [
+    "8524",
+    "HP ProBook x360 11 G4 EE Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101912-HP ProBook x360 11 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101912.exe",
+      "size_bytes": 793872392,
+      "md5": "1b919db8de50bde4254034b880baad12",
+      "sha256": "9CB0CA446CFBDFA0F3C86ACCC4A40C0738069EE57EDD2D6823E1BA833CC1535F",
+      "version": "6.00 A 1",
+      "release_date": "3/17/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

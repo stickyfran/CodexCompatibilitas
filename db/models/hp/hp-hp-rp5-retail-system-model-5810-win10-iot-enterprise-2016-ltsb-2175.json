@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-rp5-retail-system-model-5810-win10-iot-enterprise-2016-ltsb-2175",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP RP5 Retail System Model 5810 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit)",
+  "system_id": "2175",
+  "dmi_matches": [
+    "2175",
+    "HP RP5 Retail System Model 5810"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP94916-HP RP5 5810 IoT10 2016 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2016 LTSB, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp94501-95000/sp94916.exe",
+      "size_bytes": 1038883000,
+      "md5": "b6aa4ef4b4f4063135b4563975b5373a",
+      "sha256": "6D3B83B3DFE6704C8847C45146D0AA6BBCC7E25D95ECE14DE5F970DE814D8482",
+      "version": "3.00 A 1",
+      "release_date": "5/7/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-705-g1-desktop-mini-pc-win10-1903-225e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G1 Desktop Mini PC (Windows 10 64-bit, 1903)",
+  "system_id": "225e",
+  "dmi_matches": [
+    "225e",
+    "HP EliteDesk 705 G1 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP96758-HP ElitePro 400-800 G1 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96758.exe",
+      "size_bytes": 900475256,
+      "md5": "ee96507bd1530ae92e134ab781320a03",
+      "sha256": "A717EB418E19F452950A24CB30C6CF18B0AFA63308BF2CD128EEA844C8EBE6D1",
+      "version": "2.00 A 1",
+      "release_date": "5/29/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-17-g5-mobile-workstation-win10-2004-842d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 2004)",
+  "system_id": "842D",
+  "dmi_matches": [
+    "842D",
+    "HP Zbook 17 G5 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114269-HP Zbook 15/17 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114269.exe",
+      "size_bytes": 1672904048,
+      "md5": "014d2020fccb4e2d9c44133aa8798425",
+      "sha256": "2145E0F5C436AACC45A32DCD186DDC195F3B8F4A62B1FB6D5D1C17687DB1ACB7",
+      "version": "14.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

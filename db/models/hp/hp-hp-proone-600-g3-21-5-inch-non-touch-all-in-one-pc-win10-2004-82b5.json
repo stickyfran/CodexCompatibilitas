@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-proone-600-g3-21-5-inch-non-touch-all-in-one-pc-win10-2004-82b5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 600 G3 21.5-inch Non-Touch All-in-One PC (Windows 10 64-bit, 2004)",
+  "system_id": "82b5",
+  "dmi_matches": [
+    "82b5",
+    "HP ProOne 600 G3 21.5-inch Non-Touch All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP105672-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105672.exe",
+      "size_bytes": 975426896,
+      "md5": "062c23c5bc591d728a1554fc92357950",
+      "sha256": "03EE77C15EDE7B538E80BD95341A16C5D0C0E50173A64BFBFE9571FA69CF1120",
+      "version": "19.0 A 1",
+      "release_date": "6/22/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

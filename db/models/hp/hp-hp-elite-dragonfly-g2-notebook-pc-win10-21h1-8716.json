@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-g2-notebook-pc-win10-21h1-8716",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly G2 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "8716",
+  "dmi_matches": [
+    "8716",
+    "HP Elite Dragonfly G2 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145158-HP Elite Dragonfly G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145158.exe",
+      "size_bytes": 1191290704,
+      "md5": "9f168b413647abb1316c34960876763e",
+      "sha256": "62C663FA36E8A7E6CE45ACC2990DABCC444BD40085DF6233FD403B0B06C333B2",
+      "version": "6.00 A 1",
+      "release_date": "3/15/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

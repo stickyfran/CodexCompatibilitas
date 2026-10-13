@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-845-14-inch-g10-notebook-pc-win11-22h2-8b6e",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 845 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8B6E",
+  "dmi_matches": [
+    "8B6E",
+    "HP EliteBook 845 14 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP151792-HP ZBook/EliteBook 8x5 G10/A Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151792.exe",
+      "size_bytes": 1164102512,
+      "md5": "e2786315b93f21aa960e4d0731371117",
+      "sha256": "EC1F4E7B0D59084E74CC157C84D22CC647232E42880FA165621F3F8F1FF8B7B3",
+      "version": "4.00 A 1",
+      "release_date": "3/25/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

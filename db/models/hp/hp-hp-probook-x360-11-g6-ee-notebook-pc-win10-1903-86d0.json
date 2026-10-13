@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g6-ee-notebook-pc-win10-1903-86d0",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G6 EE Notebook PC (Windows 10 64-bit, 1903)",
+  "system_id": "86d0",
+  "dmi_matches": [
+    "86d0",
+    "HP ProBook x360 11 G6 EE Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101475-HP ProBook x360 11 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101475.exe",
+      "size_bytes": 601203584,
+      "md5": "af79b3796784cd7df292840377ef75b0",
+      "sha256": "53CBDE4F1ECFF7FD221DEB034D0501E85392D700E9138C7644BE884A613BBE6D",
+      "version": "1.00 A 1",
+      "release_date": "1/28/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-600-g3-microtower-pc-with-pci-slot-win10-1703-82b3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G3 Microtower PC (with PCI slot) (Windows 10 64-bit, 1703)",
+  "system_id": "82b3,829d",
+  "dmi_matches": [
+    "82b3",
+    "829d",
+    "HP ProDesk 600 G3 Microtower PC (with PCI slot)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP85276-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp85001-85500/sp85276.exe",
+      "size_bytes": 1013976592,
+      "md5": "26c0937623d6ccaf946069807fa215fe",
+      "sha256": "C15F629ABD9BFF1AF5863B2A0D8C68BE00EC49F345433F3D094A06702C2D3D1A",
+      "version": "11.0 A 1",
+      "release_date": "2/2/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

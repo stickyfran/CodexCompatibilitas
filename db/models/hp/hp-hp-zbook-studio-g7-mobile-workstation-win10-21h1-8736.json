@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-studio-g7-mobile-workstation-win10-21h1-8736",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio G7 Mobile Workstation (Windows 10 64-bit, 21H1)",
+  "system_id": "8736",
+  "dmi_matches": [
+    "8736",
+    "HP ZBook Studio G7 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113952-HP ZBook Studio G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113952.exe",
+      "size_bytes": 1300895432,
+      "md5": "966c14b2c40b86864e3669dd74e325b7",
+      "sha256": "2583E977168F9FD8E31AB11DFFCAFD7ACAEA86DEB7A52E07C8D0BCE261DBA5F1",
+      "version": "6.00 A 1",
+      "release_date": "5/21/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

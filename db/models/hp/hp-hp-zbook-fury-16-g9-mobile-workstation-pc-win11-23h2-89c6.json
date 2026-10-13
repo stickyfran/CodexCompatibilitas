@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-fury-16-g9-mobile-workstation-pc-win11-23h2-89c6",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 16 G9 Mobile Workstation PC (Windows 11 64-bit, 23H2)",
+  "system_id": "89C6",
+  "dmi_matches": [
+    "89C6",
+    "HP ZBook Fury 16 G9 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158224-HP ZBook Fury 16 G9 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158224.exe",
+      "size_bytes": 2452069104,
+      "md5": "2C5DA70495266A4D1FAF3DBB1578D9D4",
+      "sha256": "0E74DDB34E0BC5491953C551980DFBC991744F1D29E2A5D00C5717CBB848B1F7",
+      "version": "2.00 A 1",
+      "release_date": "4/18/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

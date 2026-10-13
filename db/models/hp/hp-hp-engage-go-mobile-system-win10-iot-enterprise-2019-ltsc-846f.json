@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-go-mobile-system-win10-iot-enterprise-2019-ltsc-846f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go Mobile System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit)",
+  "system_id": "846f",
+  "dmi_matches": [
+    "846f",
+    "HP Engage Go Mobile System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112356-HP Engage Go G1 IoT10 2019 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2019 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112356.exe",
+      "size_bytes": 1024691080,
+      "md5": "6f081e16b4047f979e9aa997a0051401",
+      "sha256": "8EE50B7AD709F70E412F7628BF616625C1A6131A10E3863280E6ECDA4AB9B2AF",
+      "version": "4.00 A 1",
+      "release_date": "1/27/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

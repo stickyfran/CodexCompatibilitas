@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-rp9-g1-retail-system-model-9118-win10-iot-enterprise-2019-ltsc-8397",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP RP9 G1 Retail System Model 9118 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit)",
+  "system_id": "8397,8139",
+  "dmi_matches": [
+    "8397",
+    "8139",
+    "HP RP9 G1 Retail System Model 9118"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112599-HP RP9 G1 IoT10 2019 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2019 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112599.exe",
+      "size_bytes": 640058624,
+      "md5": "b20f60de1d66ae7d8404969b04ac628f",
+      "sha256": "662E6B96E508AD258E1DB4D7633E01B3BF9802F244F68D6BD408B3F93BB24514",
+      "version": "5.00 A 1",
+      "release_date": "2/8/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

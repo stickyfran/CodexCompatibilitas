@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-15-6-inch-g10-mobile-workstation-pc-win11-24h2-8bef",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8bef",
+  "dmi_matches": [
+    "8bef",
+    "HP ZBook Power 15.6 inch G10 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158188-HP ZBook Power G10 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158188.exe",
+      "size_bytes": 2132532856,
+      "md5": "5EB4312855ED6B81418C6061686C6CCF",
+      "sha256": "F619DE211FB11B1E0C52C161D991AF216AA77005DE96758EDFDDA2C5B81E7C6B",
+      "version": "6.00 A 1",
+      "release_date": "11/26/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

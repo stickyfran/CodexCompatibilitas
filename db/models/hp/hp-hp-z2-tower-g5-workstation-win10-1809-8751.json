@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z2-tower-g5-workstation-win10-1809-8751",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Tower G5 Workstation (Windows 10 64-bit, 1809)",
+  "system_id": "8751,8750",
+  "dmi_matches": [
+    "8751",
+    "8750",
+    "HP Z2 Tower G5 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP107668-HP Z2G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp107501-108000/sp107668.exe",
+      "size_bytes": 1242701088,
+      "md5": "faba0e66e787581952001d5aecd867a5",
+      "sha256": "AD1E54FB5FABC2E453F5456A99B78517CEF1B6B513F09512B4A02F78E1D3573F",
+      "version": "1.00 A 1",
+      "release_date": "9/17/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

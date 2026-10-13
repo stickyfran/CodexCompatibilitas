@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zhan60-g1-21-5-inch-fhd-non-touch-gpu-all-in-one-business-pc-win10-1903-83ea",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 1903)",
+  "system_id": "83ea,83eb",
+  "dmi_matches": [
+    "83ea",
+    "83eb",
+    "HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101775-HP ElitePro 400/600/800 G4 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101775.exe",
+      "size_bytes": 413851664,
+      "md5": "9a7e6f3ec48a96aeb2de40b659b307a8",
+      "sha256": "19E38C1B5CC8FBBDDC133DEA23C278BE1A095D9BAF83E6059DB6AEEFD884B3BF",
+      "version": "11.0 A 1",
+      "release_date": "2/27/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

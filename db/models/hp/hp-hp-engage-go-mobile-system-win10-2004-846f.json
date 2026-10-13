@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-go-mobile-system-win10-2004-846f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go Mobile System (Windows 10 64-bit, 2004)",
+  "system_id": "846f",
+  "dmi_matches": [
+    "846f",
+    "HP Engage Go Mobile System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112432-HP Engage Go G1 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112432.exe",
+      "size_bytes": 1023454232,
+      "md5": "a05f332dc156943eadb845167bd70403",
+      "sha256": "FDC8F6BB6A7A5C3EB76DEB95B821C6719618C52FA0B4A767AB85957E527C8F92",
+      "version": "6.00 A 1",
+      "release_date": "1/29/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

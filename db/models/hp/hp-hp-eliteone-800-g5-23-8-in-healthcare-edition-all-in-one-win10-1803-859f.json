@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-eliteone-800-g5-23-8-in-healthcare-edition-all-in-one-win10-1803-859f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One (Windows 10 64-bit, 1803)",
+  "system_id": "859f,85a0,85eb",
+  "dmi_matches": [
+    "859f",
+    "85a0",
+    "85eb",
+    "HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP96782-HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96782.exe",
+      "size_bytes": 738862328,
+      "md5": "eebb0157f59933272493e925deef3d33",
+      "sha256": "640FCE37A390965D243F9507B42AB1C637FBBF62C6A4A80CF88381123812F09D",
+      "version": "1.00 A 1",
+      "release_date": "5/30/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

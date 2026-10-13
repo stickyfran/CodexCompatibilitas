@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-435-g7-notebook-pc-win11-21h2-8735",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 435 G7 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8735",
+  "dmi_matches": [
+    "8735",
+    "HP ProBook x360 435 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140851-HP ProBook x360 435 G7 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140851.exe",
+      "size_bytes": 998728560,
+      "md5": "537e05c765e9e6a3b73b5888a845002d",
+      "sha256": "C6458B60A863A1921F4336CBD50CD3A5BCBA5BFDF66B4151A69B47829A24C849",
+      "version": "1.00 A 1",
+      "release_date": "6/29/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

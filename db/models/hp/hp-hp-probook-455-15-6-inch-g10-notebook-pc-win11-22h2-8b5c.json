@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-455-15-6-inch-g10-notebook-pc-win11-22h2-8b5c",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455 15.6 inch G10 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8B5C",
+  "dmi_matches": [
+    "8B5C",
+    "HP ProBook 455 15.6 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP151777-HP Pro/EliteBook 4/6x5 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151777.exe",
+      "size_bytes": 1164146832,
+      "md5": "223975fea3cc26db0557d04b5a60687a",
+      "sha256": "3AD4BD9612BDED4309CE0211A5D81689EDBA7A609431FB3ED746F20CBDDC7451",
+      "version": "4.00 A 1",
+      "release_date": "3/20/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

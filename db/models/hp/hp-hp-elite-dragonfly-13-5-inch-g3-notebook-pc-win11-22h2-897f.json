@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-13-5-inch-g3-notebook-pc-win11-22h2-897f",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "897F",
+  "dmi_matches": [
+    "897F",
+    "HP Elite Dragonfly 13.5 inch G3 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142802-HP Elite Dragonfly G3 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142802.exe",
+      "size_bytes": 1319553824,
+      "md5": "23de4c2c0cb09798802569c28e59185a",
+      "sha256": "A5DB6B7C3198CA7F5F63BC5EF67C613E348A4D03D8E603BC629D1327D65F9E51",
+      "version": "4.00 A 1",
+      "release_date": "9/29/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

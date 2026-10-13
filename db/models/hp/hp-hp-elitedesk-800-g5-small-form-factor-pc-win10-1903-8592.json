@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-800-g5-small-form-factor-pc-win10-1903-8592",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G5 Small Form Factor PC (Windows 10 64-bit, 1903)",
+  "system_id": "8592",
+  "dmi_matches": [
+    "8592",
+    "HP EliteDesk 800 G5 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101208-HP ElitePro 4/6/800 G5 PC Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101208.exe",
+      "size_bytes": 412295160,
+      "md5": "6d52b617ed0c0ac6933414ff760d6545",
+      "sha256": "075533D1CB237F87F63E34F3360C504F8A41ADD188A8F2E9A891DC509193B39A",
+      "version": "4.00 A 1",
+      "release_date": "1/27/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-mini-805-g8-desktop-pc-win11-23h2-8881",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Mini 805 G8 Desktop PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8881",
+  "dmi_matches": [
+    "8881",
+    "HP Elite Mini 805 G8 Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP157588-HP EliteMini 805 G8 Desktop PC Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157588.exe",
+      "size_bytes": 929016112,
+      "md5": "6A7CEDE7BC4B5E68FA8373959B6630F8",
+      "sha256": "595A071540B4E18E9EAC2F3467AEC63F77FEAF4D6CD6A6D4537A61B2555EA04D",
+      "version": "3.00 A 1",
+      "release_date": "12/2/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

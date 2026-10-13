@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zbook-studio-g5-mobile-workstation-win10-1809-8427",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio G5 Mobile Workstation (Windows 10 64-bit, 1809)",
+  "system_id": "8427,844F",
+  "dmi_matches": [
+    "8427",
+    "844F",
+    "HP ZBook Studio G5 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99720-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99720.exe",
+      "size_bytes": 890260152,
+      "md5": "bf4ced07dd7348f601ce1d177af7bdce",
+      "sha256": "D8FA514DA8DE294D61D48528E7123E1C51D3E858A6003625DF334EB4B689EE99",
+      "version": "9.00 A 1",
+      "release_date": "11/14/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

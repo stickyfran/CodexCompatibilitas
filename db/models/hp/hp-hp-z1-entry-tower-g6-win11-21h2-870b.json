@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z1-entry-tower-g6-win11-21h2-870b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 Entry Tower G6 (Windows 11 64-bit, 21H2)",
+  "system_id": "870b,870c",
+  "dmi_matches": [
+    "870b",
+    "870c",
+    "HP Z1 Entry Tower G6"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136330-HP ElitePro 4/6/8x0 G6/7 PC Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136330.exe",
+      "size_bytes": 1075315208,
+      "md5": "1e9252df81b94d657e476ca306d3d8f2",
+      "sha256": "FE0B9D2562C98272F397C876EFB22ADCC35D2D100D6C5B97984619FF0CC870C4",
+      "version": "1.00 A 1",
+      "release_date": "11/24/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

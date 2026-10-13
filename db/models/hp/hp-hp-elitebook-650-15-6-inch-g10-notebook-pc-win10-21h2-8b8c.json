@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-650-15-6-inch-g10-notebook-pc-win10-21h2-8b8c",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 650 15.6 inch G10 Notebook PC (Windows 10 64-bit, 21H2)",
+  "system_id": "8B8C",
+  "dmi_matches": [
+    "8B8C",
+    "HP EliteBook 650 15.6 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147514-HP EB/PB/ZH 6x0/4x0/Pro G10/G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147514.exe",
+      "size_bytes": 1660192312,
+      "md5": "05e7dd20cf84aafff3ec74a938325ff1",
+      "sha256": "5C05E39EBA85CC311EE1D20D66CAA649774F318024F8EB81558CC5398098B66C",
+      "version": "2.00 A 1",
+      "release_date": "6/1/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

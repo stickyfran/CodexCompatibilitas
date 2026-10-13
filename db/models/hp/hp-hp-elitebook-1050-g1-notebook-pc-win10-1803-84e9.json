@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-1050-g1-notebook-pc-win10-1803-84e9",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 1050 G1 Notebook PC (Windows 10 64-bit, 1803)",
+  "system_id": "84e9",
+  "dmi_matches": [
+    "84e9",
+    "HP EliteBook 1050 G1 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95549-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95501-96000/sp95549.exe",
+      "size_bytes": 817369240,
+      "md5": "f4dcec5a1dbe3522256ed1b59526d6dd",
+      "sha256": "49D85F07E62FE370616EE1C73AA6CF151C6B2749C42CAACD53D8BDBA31B2D9AD",
+      "version": "5.00 A 1",
+      "release_date": "4/5/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

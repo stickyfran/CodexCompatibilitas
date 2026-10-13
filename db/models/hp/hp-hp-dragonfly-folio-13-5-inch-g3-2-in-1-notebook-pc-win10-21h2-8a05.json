@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-dragonfly-folio-13-5-inch-g3-2-in-1-notebook-pc-win10-21h2-8a05",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC (Windows 10 64-bit, 21H2)",
+  "system_id": "8a05",
+  "dmi_matches": [
+    "8a05",
+    "HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145106-HP Dragonfly Folio G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145106.exe",
+      "size_bytes": 1538415072,
+      "md5": "e500ea65bdf84984a0a085b1624a9a6e",
+      "sha256": "844C4D1947F728ED066FFDDBE40A571C08F551A51F9770574858CF42816B192F",
+      "version": "2.00 A 1",
+      "release_date": "3/10/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

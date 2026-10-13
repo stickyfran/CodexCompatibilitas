@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elite-mini-600-g9-pc-win11-21h2-8ac6",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Mini 600 G9 PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8AC6,8952",
+  "dmi_matches": [
+    "8AC6",
+    "8952",
+    "HP Elite Mini 600 G9 PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP151266-HP Pro/Elite Mini 4/6/800 G9 Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151266.exe",
+      "size_bytes": 1578922200,
+      "md5": "486e8ff49b97faae32eda2b5dd978b31",
+      "sha256": "DC5D493D2DEF39A78E5D7F91943F7A4D57756E2C006E08563FFC7D72A7223E09",
+      "version": "6.00 A 1",
+      "release_date": "2/13/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

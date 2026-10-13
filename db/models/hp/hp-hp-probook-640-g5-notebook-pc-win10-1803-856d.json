@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-640-g5-notebook-pc-win10-1803-856d",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 640 G5 Notebook PC (Windows 10 64-bit, 1803)",
+  "system_id": "856d",
+  "dmi_matches": [
+    "856d",
+    "HP ProBook 640 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95056-HP Probook 6x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95056.exe",
+      "size_bytes": 670887624,
+      "md5": "65a96b8a7964604213afa65f033a8fc7",
+      "sha256": "3ED92BA885A2A7CDE0832DAB5D49A97520FEA0FA3476889E3468671EBBC292E4",
+      "version": "1.00 A 1",
+      "release_date": "5/15/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

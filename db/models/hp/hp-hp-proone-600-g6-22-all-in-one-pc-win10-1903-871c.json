@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-proone-600-g6-22-all-in-one-pc-win10-1903-871c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 600 G6 22 All-in-One PC (Windows 10 64-bit, 1903)",
+  "system_id": "871c,871b",
+  "dmi_matches": [
+    "871c",
+    "871b",
+    "HP ProOne 600 G6 22 All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP105884-HP ProOne 4/600 G6 AiO Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105884.exe",
+      "size_bytes": 900319816,
+      "md5": "5debd84093b545f87c5503c6029ca545",
+      "sha256": "2F3F3B8CA919E1238DA643F56EC9545B1BB16C59D4C4AE86CC5B20A86151EE87",
+      "version": "1.00 A 1",
+      "release_date": "7/2/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

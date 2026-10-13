@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g3-ee-notebook-pc-win10-1809-8521",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G3 EE Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "8521",
+  "dmi_matches": [
+    "8521",
+    "HP ProBook x360 11 G3 EE Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99671-HP ProBook x360 11 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99671.exe",
+      "size_bytes": 682289688,
+      "md5": "31e34c28897494dee4ac8c7a9b7e8eaf",
+      "sha256": "143404C64F695C48E8F37CDB30182648C648D292D31FD263362BD4BA09A688E7",
+      "version": "4.00 A 1",
+      "release_date": "11/19/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

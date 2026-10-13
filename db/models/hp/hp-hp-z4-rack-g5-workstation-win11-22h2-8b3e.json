@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z4-rack-g5-workstation-win11-22h2-8b3e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 Rack G5 Workstation (Windows 11 64-bit, 22H2)",
+  "system_id": "8B3E",
+  "dmi_matches": [
+    "8B3E",
+    "HP Z4 Rack G5 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP155837-HP Z4 Rack G5 Windows 11",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155501-156000/sp155837.exe",
+      "size_bytes": 1878044704,
+      "md5": "B914422CFEB06A6C16AB07D1BE1DA7EE",
+      "sha256": "4351FC5371953AD85861040F2740B4F7636ECFE36EB69E06B2D0CA26187FE9CD",
+      "version": "7.00 A 1",
+      "release_date": "11/20/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "hp-hp-zbook-fury-g1i-16-inch-mobile-workstation-pc-win11-24h2-8de8",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8de8,8de6,8de2,8de4",
+  "dmi_matches": [
+    "8de8",
+    "8de6",
+    "8de2",
+    "8de4",
+    "HP ZBook Fury G1i 16 inch Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174546-HP ZBook Fury G1i MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174546.exe",
+      "size_bytes": 2347674384,
+      "md5": "71D8ADD5EEB14C519DF8FC636EFB5D73",
+      "sha256": "F18CFF16C10289F584CB5A5AF99C9899640DD790762053E029B27AB76373E6C7",
+      "version": "5.00 A 1",
+      "release_date": "9/2/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

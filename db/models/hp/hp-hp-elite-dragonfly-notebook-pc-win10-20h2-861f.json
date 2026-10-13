@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-notebook-pc-win10-20h2-861f",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "861F",
+  "dmi_matches": [
+    "861F",
+    "HP Elite Dragonfly Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114162-HP Elite Dragonfly Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114162.exe",
+      "size_bytes": 1076944520,
+      "md5": "836c1edba227d1af061ae9f94ea17ffd",
+      "sha256": "A1DD835A786A029B6EECB5E7045014042B6D2C8F4BF0A8BEA8130E7781D2761C",
+      "version": "9.00 A 1",
+      "release_date": "6/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

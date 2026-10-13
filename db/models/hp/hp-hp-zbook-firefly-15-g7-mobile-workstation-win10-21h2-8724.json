@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-firefly-15-g7-mobile-workstation-win10-21h2-8724",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 15 G7 Mobile Workstation (Windows 10 64-bit, 21H2)",
+  "system_id": "8724",
+  "dmi_matches": [
+    "8724",
+    "HP ZBook Firefly 15 G7 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113588-HP Elite/ZBook 8x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113588.exe",
+      "size_bytes": 1650063784,
+      "md5": "c37bd28d8d7a4a7640f1fdb88d088994",
+      "sha256": "72E198AD593A55A56E107758BF267C7C453BD6C08E37CFC90028D04752860B20",
+      "version": "6.00 A 1",
+      "release_date": "5/3/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

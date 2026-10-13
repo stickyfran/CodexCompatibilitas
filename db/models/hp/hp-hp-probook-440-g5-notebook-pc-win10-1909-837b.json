@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-440-g5-notebook-pc-win10-1909-837b",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 440 G5 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "837b",
+  "dmi_matches": [
+    "837b",
+    "HP ProBook 440 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP100638-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100638.exe",
+      "size_bytes": 857206720,
+      "md5": "c0856a1bcd5884f70843149d297f7f01",
+      "sha256": "7F43066335BABC5112F281EB64D39D389E09A20923F3C4DF25EE28E2818A08F8",
+      "version": "8.00 A 1",
+      "release_date": "12/11/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

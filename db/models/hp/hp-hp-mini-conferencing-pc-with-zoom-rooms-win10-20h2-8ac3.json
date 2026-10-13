@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-mini-conferencing-pc-with-zoom-rooms-win10-20h2-8ac3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Mini Conferencing PC with Zoom Rooms (Windows 10 64-bit, 20H2)",
+  "system_id": "8ac3,8c6c,894f",
+  "dmi_matches": [
+    "8ac3",
+    "8c6c",
+    "894f",
+    "HP Mini Conferencing PC with Zoom Rooms"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145699-HP Pro/Elite Mini 4/6/800 G9 Windows 10x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145699.exe",
+      "size_bytes": 1468090592,
+      "md5": "560fa9291fc20f76211194d24b414c66",
+      "sha256": "6239A07C6A0DFF8B9848F5E189E65CA77486BA2506BD8A9EDE414612A004CD09",
+      "version": "5.00 A 1",
+      "release_date": "4/5/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

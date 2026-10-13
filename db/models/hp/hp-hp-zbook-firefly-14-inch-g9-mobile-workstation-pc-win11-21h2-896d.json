@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zbook-firefly-14-inch-g9-mobile-workstation-pc-win11-21h2-896d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 11 64-bit, 21H2)",
+  "system_id": "896d,8abb",
+  "dmi_matches": [
+    "896d",
+    "8abb",
+    "HP ZBook Firefly 14 inch G9 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP150834-HP EB 8x0 1040 ZB G9 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150834.exe",
+      "size_bytes": 1602532416,
+      "md5": "18a815ee31e9e64be60c02fa7f699e9a",
+      "sha256": "966CB23483874BDE29410B6E8E01BBB9D40FC0A8B88C0E95CFC02459186D4FE1",
+      "version": "6.00 A 1",
+      "release_date": "1/15/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

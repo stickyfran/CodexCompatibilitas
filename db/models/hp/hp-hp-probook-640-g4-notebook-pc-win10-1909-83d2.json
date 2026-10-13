@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-640-g4-notebook-pc-win10-1909-83d2",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 640 G4 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "83d2",
+  "dmi_matches": [
+    "83d2",
+    "HP ProBook 640 G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP103616-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103616.exe",
+      "size_bytes": 759939728,
+      "md5": "a8e48de3bb265a70be1655b2d8e42a69",
+      "sha256": "4C2EBB7956A3FCEDBEFCDE10FBAC72CAC151FEEA2B26291612CA9AF6E6AB7168",
+      "version": "12.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

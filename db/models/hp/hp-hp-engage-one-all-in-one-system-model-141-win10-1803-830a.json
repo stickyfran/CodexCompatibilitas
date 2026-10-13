@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-all-in-one-system-model-141-win10-1803-830a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One All-in-One System Model 141 (Windows 10 64-bit, 1803)",
+  "system_id": "830a",
+  "dmi_matches": [
+    "830a",
+    "HP Engage One All-in-One System Model 141"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP92264-HP Engage One G1 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92264.exe",
+      "size_bytes": 360559800,
+      "md5": "18180e33d1e5e1192d90f439a7713fff",
+      "sha256": "19B4A50BBC642F4F1D1388E619F1A108017B16B3880B7ECF580446C7F350BD68",
+      "version": "2.00 A 1",
+      "release_date": "10/24/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-x2-g8-tablet-win10-1909-870d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x2 G8 Tablet (Windows 10 64-bit, 1909)",
+  "system_id": "870D",
+  "dmi_matches": [
+    "870D",
+    "HP Elite x2 G8 Tablet"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112840-HP Elite x2 G8 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112840.exe",
+      "size_bytes": 1515468264,
+      "md5": "9b1abecb13effe1aedeb252cf1cdbf1c",
+      "sha256": "180C025761B5A4F9BEE5A70DC6E8CC3A55E93B83DD78180EA26660A5AF7767E6",
+      "version": "1.00 A 1",
+      "release_date": "3/2/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

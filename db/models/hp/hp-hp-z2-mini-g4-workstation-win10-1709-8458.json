@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z2-mini-g4-workstation-win10-1709-8458",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G4 Workstation (Windows 10 64-bit, 1709)",
+  "system_id": "8458,8457",
+  "dmi_matches": [
+    "8458",
+    "8457",
+    "HP Z2 Mini G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP108840-HP Z2G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108840.exe",
+      "size_bytes": 1374088344,
+      "md5": "a8678cfcff4ec3ce48eb0bcc8a439a4c",
+      "sha256": "B1FF45F812B1ACE143CFF464F7B033B6042DD489681798FD7B1CE9F08572CE1F",
+      "version": "3.00 A 2",
+      "release_date": "8/31/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

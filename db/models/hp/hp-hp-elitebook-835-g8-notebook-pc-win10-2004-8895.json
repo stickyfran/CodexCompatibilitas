@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-835-g8-notebook-pc-win10-2004-8895",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 835 G8 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "8895",
+  "dmi_matches": [
+    "8895",
+    "HP EliteBook 835 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114138-HP EliteBook 8x5 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114138.exe",
+      "size_bytes": 579407168,
+      "md5": "efe2b1d944b2772b4b3a860d8362c477",
+      "sha256": "4CCE7140F6DDF274498DFF7C3D69B6DCC58C1378862D7B18521A0EAA7694461A",
+      "version": "2.00 A 1",
+      "release_date": "6/7/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

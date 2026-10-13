@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-pro-tower-400-g9-pci-desktop-pc-win10-21h1-8953",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro Tower 400 G9 PCI Desktop PC (Windows 10 64-bit, 21H1)",
+  "system_id": "8953,8C59,8AC7",
+  "dmi_matches": [
+    "8953",
+    "8C59",
+    "8AC7",
+    "HP Pro Tower 400 G9 PCI Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145708-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145708.exe",
+      "size_bytes": 2822576448,
+      "md5": "58c03558580bf6490dc64d3bc6b9604c",
+      "sha256": "3A928C6CF74E7668A0D5B1D15B8EDD2B02E3913DAE1210C9D7C96DA21D5E3378",
+      "version": "4.00 A 1",
+      "release_date": "4/21/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

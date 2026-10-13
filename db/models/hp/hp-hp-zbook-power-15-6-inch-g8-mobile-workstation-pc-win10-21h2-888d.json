@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-15-6-inch-g8-mobile-workstation-pc-win10-21h2-888d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H2)",
+  "system_id": "888d",
+  "dmi_matches": [
+    "888d",
+    "HP ZBook Power 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138435-HP ZBook Power G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138435.exe",
+      "size_bytes": 1217708984,
+      "md5": "6b6c60f3937b0f73b7ad50032931e827",
+      "sha256": "C0AF51705E5AC149B7E854BC07D656217B128FF959EC8A21044BB44988F7D6AA",
+      "version": "2.00 A 1",
+      "release_date": "2/16/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

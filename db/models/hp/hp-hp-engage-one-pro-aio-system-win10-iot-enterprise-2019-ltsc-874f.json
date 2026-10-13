@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-pro-aio-system-win10-iot-enterprise-2019-ltsc-874f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Pro AIO System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit)",
+  "system_id": "874F",
+  "dmi_matches": [
+    "874F",
+    "HP Engage One Pro AIO System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144689-HP Engage One Pro AIO G1 IoT10 2019 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2019 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144689.exe",
+      "size_bytes": 591927640,
+      "md5": "d941e92ab67af7506221a86ef873369f",
+      "sha256": "A28DC9CA18A260F84E17903E59E23C0532EE7361F7FE52B5E1D8D56171655B41",
+      "version": "4.00 A 1",
+      "release_date": "1/23/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-ultra-g3a-16-inch-mobile-workstation-pc-win11-25h2-8f6d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Ultra G3a 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8F6D",
+  "dmi_matches": [
+    "8F6D",
+    "HP ZBook Ultra G3a 16 inch Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174542-HP ZBook Ultra G3a MWS Windows11 DriverPack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174542.exe",
+      "size_bytes": 960748696,
+      "md5": "7950F345477F624797438814942D6428",
+      "sha256": "96E44EFC925A85D5D8E52E013BE569C73D9FAC5EEAE78EB5AA8E5589B7AF466A",
+      "version": "1.00 A 1",
+      "release_date": "9/2/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

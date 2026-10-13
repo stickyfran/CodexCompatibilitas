@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-405-g8-small-form-factor-pc-win11-22h2-8884",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G8 Small Form Factor PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8884",
+  "dmi_matches": [
+    "8884",
+    "HP ProDesk 405 G8 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP143133-HP ElitePro 4/805 G8 SFF Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143133.exe",
+      "size_bytes": 1573476968,
+      "md5": "f27245d0c03725ecfb3689f5214a2cef",
+      "sha256": "C9A6103A97299672488777EAAFBD770AF60B874AB86EAAD43FE454E9F7D55DA5",
+      "version": "3.00 A 1",
+      "release_date": "10/20/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

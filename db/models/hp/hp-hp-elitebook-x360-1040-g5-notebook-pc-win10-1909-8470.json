@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-1040-g5-notebook-pc-win10-1909-8470",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1040 G5 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "8470",
+  "dmi_matches": [
+    "8470",
+    "HP EliteBook x360 1040 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP103610-HP EliteBook x360 1040 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103610.exe",
+      "size_bytes": 683147368,
+      "md5": "be4810f4b4202c56fc5660e155d836fe",
+      "sha256": "4656B9F13A9D6257337103DF1D727B19B84EB7A51E1337052D3593FC0D8F8879",
+      "version": "11.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

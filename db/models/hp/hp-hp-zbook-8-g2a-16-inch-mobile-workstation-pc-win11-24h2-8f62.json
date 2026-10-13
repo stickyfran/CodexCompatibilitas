@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-8-g2a-16-inch-mobile-workstation-pc-win11-24h2-8f62",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 8 G2a 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8F62",
+  "dmi_matches": [
+    "8F62",
+    "HP ZBook 8 G2a 16 inch Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174518-HP EB/ZB 8 G2a NB/MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174518.exe",
+      "size_bytes": 1128811784,
+      "md5": "A69F65E31DE44A2CC37BC6228577443D",
+      "sha256": "F5272F80E6512A366C373577C28737D66D558335A35C9C2494EE5334DFD643E9",
+      "version": "4.00 A 1",
+      "release_date": "9/1/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

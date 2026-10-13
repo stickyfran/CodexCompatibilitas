@@ -1,0 +1,33 @@
+{
+  "id": "hp-hp-probook-440-g8-notebook-pc-win10-22h2-8a84",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 440 G8 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8A84,8A76,8A86,8A74,87E0,8807",
+  "dmi_matches": [
+    "8A84",
+    "8A76",
+    "8A86",
+    "8A74",
+    "87E0",
+    "8807",
+    "HP ProBook 440 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP137144-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp137001-137500/sp137144.exe",
+      "size_bytes": 1281754800,
+      "md5": "46ba0ae7ccc64215ff5f8a1bb102b86d",
+      "sha256": "A2579561A34CE23D32238E79183B9047C0BA3360FA239FF96D665B2A09FA8667",
+      "version": "6.00 A 1",
+      "release_date": "1/20/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

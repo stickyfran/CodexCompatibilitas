@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x360-435-13-3-inch-g10-notebook-pc-win11-23h2-8b50",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8B50",
+  "dmi_matches": [
+    "8B50",
+    "HP Pro x360 435 13.3 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP170006-HP Pro x360 435 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170006.exe",
+      "size_bytes": 1285483152,
+      "md5": "1578439B057EF0B5EA43095EBE7A4DD7",
+      "sha256": "77D04DD322DB25B1D75F76CD7DB37BEA9748C59162945E15F5156E0AC117DFE3",
+      "version": "3.00 A 1",
+      "release_date": "1/19/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

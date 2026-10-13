@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-600-g6-microtower-pc-win11-22h2-8712",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G6 Microtower PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8712",
+  "dmi_matches": [
+    "8712",
+    "HP ProDesk 600 G6 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP143649-HP ElitePro 6/8x0 G6 PC Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143501-144000/sp143649.exe",
+      "size_bytes": 2750204664,
+      "md5": "53ab8a3dbc020a7323b127585c713900",
+      "sha256": "BB07CF982FEE4CE49DCFDD4E668A053E5E0E7F12EE6641EAE0437C9431A32406",
+      "version": "4.00 A 1",
+      "release_date": "11/26/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

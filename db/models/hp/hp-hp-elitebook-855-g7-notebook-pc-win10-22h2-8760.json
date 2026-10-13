@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-855-g7-notebook-pc-win10-22h2-8760",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 855 G7 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8760",
+  "dmi_matches": [
+    "8760",
+    "HP EliteBook 855 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142805-HP EliteBook 8x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142805.exe",
+      "size_bytes": 656875728,
+      "md5": "39cdc3c2019e81ad55897747913f0b06",
+      "sha256": "521606129BA23C29A514799F7AB50A9E0DC7ED822980D812A957DEDE58FFA865",
+      "version": "6.00 A 1",
+      "release_date": "9/30/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-8-flip-g2i-13-inch-notebook-next-gen-ai-pc-win11-24h2-8ed5",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 Flip G2i 13 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8ED5",
+  "dmi_matches": [
+    "8ED5",
+    "HP EliteBook 8 Flip G2i 13 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174427-HP EB/ZB 8 G2i NB/MWS Next Gen Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174427.exe",
+      "size_bytes": 2440294536,
+      "md5": "146B9CA4EC529AFFCA812DDDE21EAEBD",
+      "sha256": "48805DCA0C48ED1726F08133B6050B1CEEA2757AC507E3F4ECAE3870EFD00311",
+      "version": "3.00 A 1",
+      "release_date": "8/21/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

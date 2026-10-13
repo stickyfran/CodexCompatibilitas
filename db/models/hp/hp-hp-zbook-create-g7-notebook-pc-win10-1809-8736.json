@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-create-g7-notebook-pc-win10-1809-8736",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Create G7 Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "8736",
+  "dmi_matches": [
+    "8736",
+    "HP ZBook Create G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110361-HP ZBook Studio G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110361.exe",
+      "size_bytes": 993965424,
+      "md5": "0441c6100a4578690391a5f87a20dd87",
+      "sha256": "C9E70F4B7C98A432D4046FD369729F74CC80D90B70F8195EE0452C6B0EDD9708",
+      "version": "3.00 A 1",
+      "release_date": "10/6/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

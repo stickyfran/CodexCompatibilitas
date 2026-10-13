@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-pro-15-6-g2-aio-system-win11-24h2-8d09",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Pro 15.6 G2 AiO System (Windows 11 64-bit, 24H2)",
+  "system_id": "8D09",
+  "dmi_matches": [
+    "8D09",
+    "HP Engage One Pro 15.6 G2 AiO System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP167338-HP Engage One Pro AIO G2 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp167001-167500/sp167338.exe",
+      "size_bytes": 1292726432,
+      "md5": "377FAA22A0F0A8DF4E25528C710ACE39",
+      "sha256": "9B3955A6B3CADDCF637EE7CA75DE340F35C7B686F68E045F401BAB3561BD5F47",
+      "version": "3.00 A 1",
+      "release_date": "12/12/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

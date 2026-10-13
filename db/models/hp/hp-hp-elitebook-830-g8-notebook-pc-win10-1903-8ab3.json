@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-elitebook-830-g8-notebook-pc-win10-1903-8ab3",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 830 G8 Notebook PC (Windows 10 64-bit, 1903)",
+  "system_id": "8AB3,8AB8,880D",
+  "dmi_matches": [
+    "8AB3",
+    "8AB8",
+    "880D",
+    "HP EliteBook 830 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112207-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112207.exe",
+      "size_bytes": 1651058824,
+      "md5": "588b905dc9c20fb398b826634935ff29",
+      "sha256": "91F246631122FDC54A144157C173E97722CE33A3C349874CBE60A450ABD47FDF",
+      "version": "2.00 A 1",
+      "release_date": "1/11/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

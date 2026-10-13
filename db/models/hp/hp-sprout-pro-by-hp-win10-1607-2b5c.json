@@ -1,0 +1,28 @@
+{
+  "id": "hp-sprout-pro-by-hp-win10-1607-2b5c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "Sprout Pro by HP (Windows 10 64-bit, 1607)",
+  "system_id": "2b5c",
+  "dmi_matches": [
+    "2b5c",
+    "Sprout Pro by HP"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP80155-HP Sprout Pro Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1607",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80155.exe",
+      "size_bytes": 667714744,
+      "md5": "baf56432ed603e1c4ebdd9cbc5ed5eb5",
+      "sha256": "FA21369C114C1EBA8F0912D6836138D50A4F087D22E20434E69F76DF6C9198AA",
+      "version": "10.2017 B 1",
+      "release_date": "10/20/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

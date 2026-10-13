@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-845-g8-notebook-pc-win10-21h2-8895",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 845 G8 Notebook PC (Windows 10 64-bit, 21H2)",
+  "system_id": "8895",
+  "dmi_matches": [
+    "8895",
+    "HP EliteBook 845 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP150284-HP EliteBook 8x5 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150001-150500/sp150284.exe",
+      "size_bytes": 1010952464,
+      "md5": "f780baec3e403c50368e65aab899bade",
+      "sha256": "7B58A53739B5F1B82DE1310F2F0892EC9EA115AEC0549FED641A2364C1BEE5FF",
+      "version": "5.00 A 1",
+      "release_date": "11/30/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

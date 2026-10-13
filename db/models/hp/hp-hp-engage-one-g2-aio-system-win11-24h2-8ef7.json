@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-g2-aio-system-win11-24h2-8ef7",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One G2 AiO System (Windows 11 64-bit, 24H2)",
+  "system_id": "8ef7",
+  "dmi_matches": [
+    "8ef7",
+    "HP Engage One G2 AiO System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174401-HP Engage One G2 AiO System Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174401.exe",
+      "size_bytes": 1051379352,
+      "md5": "A9601F1EB16E55D24F71FF13350890DA",
+      "sha256": "1857EADB0C0779EA44EEFFC7E60EC08681AB6C0B5FFB45DAA1C5414D30164DB6",
+      "version": "2.00 A 1",
+      "release_date": "8/18/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

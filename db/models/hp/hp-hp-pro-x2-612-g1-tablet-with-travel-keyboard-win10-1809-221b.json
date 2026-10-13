@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x2-612-g1-tablet-with-travel-keyboard-win10-1809-221b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x2 612 G1 Tablet with Travel Keyboard (Windows 10 64-bit, 1809)",
+  "system_id": "221b",
+  "dmi_matches": [
+    "221b",
+    "HP Pro x2 612 G1 Tablet with Travel Keyboard"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP92562-HP Elite/Pro G1 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92562.exe",
+      "size_bytes": 506033224,
+      "md5": "ea8bf4e1c02c4f41c075652a534c15ca",
+      "sha256": "6EA8160DAC9C2DE5D6B10E993C3453BF0032F5E1D1E68E22EDD5945E0C3152C5",
+      "version": "6.00 A 1",
+      "release_date": "11/8/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

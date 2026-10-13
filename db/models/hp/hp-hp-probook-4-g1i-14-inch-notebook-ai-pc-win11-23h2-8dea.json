@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-4-g1i-14-inch-notebook-ai-pc-win11-23h2-8dea",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8DEA",
+  "dmi_matches": [
+    "8DEA",
+    "HP ProBook 4 G1i 14 inch Notebook AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP170202-HP ProBook 4 G1i  AI  Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170202.exe",
+      "size_bytes": 2490076592,
+      "md5": "D8F41923ABAF9EC088B8C1A4733EB5C0",
+      "sha256": "1AC1A4DF66981DDA8623B46A0995AA8802A34F6091CE91713E392DDD16A5787D",
+      "version": "4.00 A 1",
+      "release_date": "8/17/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

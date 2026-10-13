@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-fury-15-g7-mobile-workstation-win11-21h2-8783",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 15 G7 Mobile Workstation (Windows 11 64-bit, 21H2)",
+  "system_id": "8783",
+  "dmi_matches": [
+    "8783",
+    "HP ZBook Fury 15 G7 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140881-HP ZBook Fury 15/17 G7 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140881.exe",
+      "size_bytes": 1343492288,
+      "md5": "b5df66dd57759011af1db7eb11877f81",
+      "sha256": "C66B5D27283239E202888C3C3FD2EF5BE4C0D7F481A32CB260EBD5E29462C39C",
+      "version": "1.00 A 1",
+      "release_date": "7/1/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

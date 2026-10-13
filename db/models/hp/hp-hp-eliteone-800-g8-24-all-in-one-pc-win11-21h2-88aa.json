@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-800-g8-24-all-in-one-pc-win11-21h2-88aa",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G8 24 All-in-One PC (Windows 11 64-bit, 21H2)",
+  "system_id": "88AA",
+  "dmi_matches": [
+    "88AA",
+    "HP EliteOne 800 G8 24 All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136261-HP EliteOne 800 G8 AIO Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136261.exe",
+      "size_bytes": 821687008,
+      "md5": "77812496a14c772088e24b55fb12d800",
+      "sha256": "81FF15C257DC5FA9CA1BE879545347149460D69EFFDDFEE9B4238A3B2E376CF0",
+      "version": "1.00 A 1",
+      "release_date": "11/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

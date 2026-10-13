@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-15u-g6-mobile-workstation-win10-1903-8549",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 15u G6 Mobile Workstation (Windows 10 64-bit, 1903)",
+  "system_id": "8549",
+  "dmi_matches": [
+    "8549",
+    "HP ZBook 15u G6 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP100597-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100597.exe",
+      "size_bytes": 870538968,
+      "md5": "0c19d6dcf4872b38d1dbcce16de0f7fc",
+      "sha256": "0D726164D52460180BFDA3F6CB4F38B47944F02AD0FE357170A221F8A18CC772",
+      "version": "3.00 A 1",
+      "release_date": "1/21/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

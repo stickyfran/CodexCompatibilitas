@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-fortis-14-inch-g10-notebook-pc-win10-20h2-89b2",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook Fortis 14 inch G10 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "89B2",
+  "dmi_matches": [
+    "89B2",
+    "HP ProBook Fortis 14 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145122-HP Pro x360 Fortis 11 G10 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145122.exe",
+      "size_bytes": 962408496,
+      "md5": "d715d09d422c2a1f0a153e905d25e299",
+      "sha256": "3CDD38E49CFCF9DD18932296271F8D565494A25D4D382B0F13095BA80D19A157",
+      "version": "2.00 A 1",
+      "release_date": "3/10/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

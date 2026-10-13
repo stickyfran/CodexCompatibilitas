@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-1040-14-inch-g11-notebook-pc-win11-23h2-8c52",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8C52",
+  "dmi_matches": [
+    "8C52",
+    "HP EliteBook 1040 14 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP170001-HP EliteBook 1040 G11 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170001.exe",
+      "size_bytes": 1603949432,
+      "md5": "2AD37EB75E872EA2FA158555B62F4601",
+      "sha256": "D228100FEB9B93C967F6EA02F57390816EF97BE774DF36606A98326ED09A96DE",
+      "version": "5.00 A 1",
+      "release_date": "1/17/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

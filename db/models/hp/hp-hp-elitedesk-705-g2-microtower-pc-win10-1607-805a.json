@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-705-g2-microtower-pc-win10-1607-805a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G2 Microtower PC (Windows 10 64-bit, 1607)",
+  "system_id": "805a",
+  "dmi_matches": [
+    "805a",
+    "HP EliteDesk 705 G2 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP80906-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1607",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80501-81000/sp80906.exe",
+      "size_bytes": 790596096,
+      "md5": "d24899cf28f23e2ff88cabc1b1f136a1",
+      "sha256": "B33CF9306110B32772A719D4E7960B6D8DAF3CA16741EBD4B6653CEF97BA4162",
+      "version": "7.00 A 1",
+      "release_date": "6/23/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

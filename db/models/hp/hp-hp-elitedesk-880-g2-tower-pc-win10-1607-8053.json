@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-880-g2-tower-pc-win10-1607-8053",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 880 G2 Tower PC (Windows 10 64-bit, 1607)",
+  "system_id": "8053",
+  "dmi_matches": [
+    "8053",
+    "HP EliteDesk 880 G2 Tower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP87288-HP ElitePro 600/800 G2 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1607",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87001-87500/sp87288.exe",
+      "size_bytes": 942577120,
+      "md5": "215cc4287f3ac63fdbc3481bbf48c96e",
+      "sha256": "2D0499CA7C231488970619F829AA18334F871417F62C816E3E523AD61B65579F",
+      "version": "10.0 A 1",
+      "release_date": "4/12/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-805-g8-desktop-mini-pc-win10-1909-8881",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 805 G8 Desktop Mini PC (Windows 10 64-bit, 1909)",
+  "system_id": "8881",
+  "dmi_matches": [
+    "8881",
+    "HP EliteDesk 805 G8 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP121400-HP ElitePro 4/805 G8 DM Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp121001-121500/sp121400.exe",
+      "size_bytes": 1118428792,
+      "md5": "8abd07de9645c77378bec828969aa586",
+      "sha256": "3B68D59CF23C5D388452314D0B4D50379588E9B5ED2CD8B6FBCEDFB84E392AEC",
+      "version": "1.00 A 1",
+      "release_date": "7/12/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

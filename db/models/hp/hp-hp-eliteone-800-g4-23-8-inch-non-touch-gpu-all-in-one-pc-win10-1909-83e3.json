@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-800-g4-23-8-inch-non-touch-gpu-all-in-one-pc-win10-1909-83e3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC (Windows 10 64-bit, 1909)",
+  "system_id": "83e3",
+  "dmi_matches": [
+    "83e3",
+    "HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP103580-HP ElitePro 400/600/800 G4 AiO Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103580.exe",
+      "size_bytes": 420116848,
+      "md5": "fae470e85c868cdfc76138464e9acd02",
+      "sha256": "6D7CD9F87434F6CA26452F7AE95E487C1C14263DC93781FD9DA0F5B9BB455FF9",
+      "version": "12.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

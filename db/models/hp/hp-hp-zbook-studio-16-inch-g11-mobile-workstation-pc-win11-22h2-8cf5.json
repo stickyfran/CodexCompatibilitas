@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-studio-16-inch-g11-mobile-workstation-pc-win11-22h2-8cf5",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8cf5",
+  "dmi_matches": [
+    "8cf5",
+    "HP ZBook Studio 16 inch G11 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP160226-HP ZBook Studio G11 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160226.exe",
+      "size_bytes": 2206677856,
+      "md5": "E2903F01B7A6B84D8C759BC7D09E8D2B",
+      "sha256": "966CA3110661F5C9B7BC34E9881BF31D62F2E260501137318E34A017AC7589ED",
+      "version": "4.00 A 1",
+      "release_date": "6/19/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-445r-g6-notebook-pc-win10-1909-85ad",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445R G6 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "85ad",
+  "dmi_matches": [
+    "85ad",
+    "HP ProBook 445R G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP103577-HP ProBook 4x5R G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103577.exe",
+      "size_bytes": 921589632,
+      "md5": "3e081dba361eb23ef7369dbf4003638e",
+      "sha256": "936CF78157F55DA701F23AC6035403DA963AFA12CF0F090C41638B958ADC0D4B",
+      "version": "5.00 A 1",
+      "release_date": "5/4/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

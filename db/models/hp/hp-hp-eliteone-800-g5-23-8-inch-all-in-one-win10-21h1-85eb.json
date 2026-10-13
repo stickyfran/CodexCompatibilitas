@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-eliteone-800-g5-23-8-inch-all-in-one-win10-21h1-85eb",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G5 23.8-inch All-in-One (Windows 10 64-bit, 21H1)",
+  "system_id": "85eb,859f,85a0",
+  "dmi_matches": [
+    "85eb",
+    "859f",
+    "85a0",
+    "HP EliteOne 800 G5 23.8-inch All-in-One"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114248-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114248.exe",
+      "size_bytes": 886134344,
+      "md5": "8b54cafe69710ecdb74024ed18c700a8",
+      "sha256": "A31A7DF53553329BDCF9C4C454694BA7B836E3A611AE52E77C1FD3AEB6D08E1E",
+      "version": "8.00 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

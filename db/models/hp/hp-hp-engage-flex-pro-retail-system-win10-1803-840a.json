@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-retail-system-win10-1803-840a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro Retail System (Windows 10 64-bit, 1803)",
+  "system_id": "840A",
+  "dmi_matches": [
+    "840A",
+    "HP Engage Flex Pro Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP91373-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp91001-91500/sp91373.exe",
+      "size_bytes": 1069692464,
+      "md5": "afa9171e79f40a34c154047fed7c509d",
+      "sha256": "D20ACFAA834D06517EB4A756936AC7F2F2F62E23EFD6AC4F66CFFFEE636DD636",
+      "version": "1.00 A 1",
+      "release_date": "9/13/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

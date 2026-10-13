@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-fury-15-6-inch-g8-mobile-workstation-pc-win10-21h1-8870",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H1)",
+  "system_id": "8870",
+  "dmi_matches": [
+    "8870",
+    "HP ZBook Fury 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144955-HP ZBook Fury G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144955.exe",
+      "size_bytes": 2791884488,
+      "md5": "549c1794d2f0d77b5f5c8beb2210931d",
+      "sha256": "574FA3E264ACC1BAD0435EA108A1C1BA2A8EE4FD82AA5F53C2D6F7DF0F11E07C",
+      "version": "4.00 A 1",
+      "release_date": "4/20/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

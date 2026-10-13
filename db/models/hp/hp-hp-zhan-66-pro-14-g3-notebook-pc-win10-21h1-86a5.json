@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zhan-66-pro-14-g3-notebook-pc-win10-21h1-86a5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro 14 G3 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "86a5",
+  "dmi_matches": [
+    "86a5",
+    "HP ZHAN 66 Pro 14 G3 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114212-HP ProBook 4x0 G7/ZHAN G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114212.exe",
+      "size_bytes": 1608954216,
+      "md5": "ac98fd9e94d8b744b6f5dc98ca6d719b",
+      "sha256": "B9A23A401867CFADE80AB8AC5BCC94B769DD20F53C85957DA8F45001C12D8151",
+      "version": "6.00 A 1",
+      "release_date": "6/17/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

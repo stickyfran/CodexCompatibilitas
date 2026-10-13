@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-840-g7-notebook-pc-win10-1809-8723",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 G7 Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "8723",
+  "dmi_matches": [
+    "8723",
+    "HP EliteBook 840 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP104372-HP Elite/ZBook 8x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp104001-104500/sp104372.exe",
+      "size_bytes": 923170296,
+      "md5": "f1272586ef3b411140438d9b68e8b124",
+      "sha256": "F66195A052BEA023F9A7389986F8E694F24AC6F21E36A79FB0AB3AEAB895B4F1",
+      "version": "2.00 A 1",
+      "release_date": "6/10/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

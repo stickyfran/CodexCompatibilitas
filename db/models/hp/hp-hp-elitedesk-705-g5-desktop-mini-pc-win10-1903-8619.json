@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-705-g5-desktop-mini-pc-win10-1903-8619",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G5 Desktop Mini PC (Windows 10 64-bit, 1903)",
+  "system_id": "8619",
+  "dmi_matches": [
+    "8619",
+    "HP EliteDesk 705 G5 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101929-HP EliteDesk 705 G5 DM Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101929.exe",
+      "size_bytes": 386150696,
+      "md5": "d57fe879cc5bf8bd88a655a3e38116ea",
+      "sha256": "6602338D98D02A7BD651829B84B706BBA86A40B5716629B4C7B6C765933F187F",
+      "version": "2.00 A 1",
+      "release_date": "4/2/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

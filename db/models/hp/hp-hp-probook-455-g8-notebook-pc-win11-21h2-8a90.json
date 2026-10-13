@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-455-g8-notebook-pc-win11-21h2-8a90",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455 G8 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8A90,8864",
+  "dmi_matches": [
+    "8A90",
+    "8864",
+    "HP ProBook 455 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136223-HP ProBook 4x5 G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136223.exe",
+      "size_bytes": 1153356552,
+      "md5": "42a2471e5d3c2c64ed1e49abccd921b1",
+      "sha256": "9E9F4A3AFEFDA9EC8DDDF9D179A85B463EB0C1BD7D756A5011D0107005938C95",
+      "version": "1.00 A 1",
+      "release_date": "11/17/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

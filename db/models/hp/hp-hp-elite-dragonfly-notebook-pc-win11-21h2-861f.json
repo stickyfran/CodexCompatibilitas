@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-notebook-pc-win11-21h2-861f",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "861F",
+  "dmi_matches": [
+    "861F",
+    "HP Elite Dragonfly Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140741-HP Elite Dragonfly Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140741.exe",
+      "size_bytes": 1076950784,
+      "md5": "06d2d5dd1cffc8d9d0a3c63d4bff77e7",
+      "sha256": "2D6D7C8FD2C74A909C742BC9B9B07652F775C7319CC5FF726863B325847F8274",
+      "version": "1.0 A 1",
+      "release_date": "6/20/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

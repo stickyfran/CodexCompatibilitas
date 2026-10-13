@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-x2-g4-detachable-workstation-win10-20h2-824c",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 20H2)",
+  "system_id": "824c",
+  "dmi_matches": [
+    "824c",
+    "HP ZBook x2 G4 Detachable Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112035-HP ZBook x2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112035.exe",
+      "size_bytes": 1156880080,
+      "md5": "de952008c56f106c1fca639690b2ea56",
+      "sha256": "6CB4D4F2249E38FDA9113700FE714308730436E7ACF8E85D7B0283E9398AE859",
+      "version": "12.0 A 1",
+      "release_date": "1/3/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

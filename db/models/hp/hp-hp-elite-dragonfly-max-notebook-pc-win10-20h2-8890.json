@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-max-notebook-pc-win10-20h2-8890",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly Max Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8890",
+  "dmi_matches": [
+    "8890",
+    "HP Elite Dragonfly Max Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138326-HP Elite Dragonfly G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138326.exe",
+      "size_bytes": 1274612680,
+      "md5": "e1b8e5ca822cdb597fabebfe9de43c28",
+      "sha256": "4E0309AFEF87951DFE4C06A0775BD906C0C005F92B7EA6916AA47BF5BF7187DD",
+      "version": "5.00 A 1",
+      "release_date": "2/9/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

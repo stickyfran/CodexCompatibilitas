@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-pro-aio-system-win11-iot-enterprise-24h2-ltsc-874f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Pro AIO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit)",
+  "system_id": "874F",
+  "dmi_matches": [
+    "874F",
+    "HP Engage One Pro AIO System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP168524-HP Engage One Pro AIO Windows 11 IoT Driver Pack",
+      "os": "Windows 11 IoT Enterprise 24H2 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168501-169000/sp168524.exe",
+      "size_bytes": 933359904,
+      "md5": "62637A592B7E89F5AA35669CB532D08A",
+      "sha256": "EABA823D9370A9AB27EC95F2963C25BAE2F99FC6F5C91B8ED198604B9C5C290F",
+      "version": "1.00 A 1",
+      "release_date": "12/19/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

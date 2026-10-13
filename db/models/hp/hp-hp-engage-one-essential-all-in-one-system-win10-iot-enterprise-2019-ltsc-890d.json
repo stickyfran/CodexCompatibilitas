@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-essential-all-in-one-system-win10-iot-enterprise-2019-ltsc-890d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Essential All-in-One System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit)",
+  "system_id": "890d",
+  "dmi_matches": [
+    "890d",
+    "HP Engage One Essential All-in-One System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145912-HP Engage One Essential AIO IoT10 2019 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2019 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145912.exe",
+      "size_bytes": 498657520,
+      "md5": "82f3ff95a5ff8e9e635956e1ac71e572",
+      "sha256": "5CFC1290A1A1E6912484CC0132EAAF2A882D0A7D4B4270F243298983FBD68991",
+      "version": "3.00 A 1",
+      "release_date": "4/10/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

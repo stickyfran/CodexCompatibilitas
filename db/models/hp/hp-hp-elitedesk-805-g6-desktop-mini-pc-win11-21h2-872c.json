@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-805-g6-desktop-mini-pc-win11-21h2-872c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 805 G6 Desktop Mini PC (Windows 11 64-bit, 21H2)",
+  "system_id": "872C",
+  "dmi_matches": [
+    "872C",
+    "HP EliteDesk 805 G6 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136311-HP ElitePro 4/805 G6 DM Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136311.exe",
+      "size_bytes": 1167991816,
+      "md5": "b6bd5b004d21e57264bb5f9037c65cd0",
+      "sha256": "145D773ACBDD6841C5C2BA46445D0B31C8E4D6034912C6B8AEABCB515998FA73",
+      "version": "1.00 A 1",
+      "release_date": "11/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

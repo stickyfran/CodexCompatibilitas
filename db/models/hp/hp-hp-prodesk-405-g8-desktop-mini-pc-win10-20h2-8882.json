@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-405-g8-desktop-mini-pc-win10-20h2-8882",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G8 Desktop Mini PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8882,8968",
+  "dmi_matches": [
+    "8882",
+    "8968",
+    "HP ProDesk 405 G8 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138570-HP ElitePro 4/805 G8 DM Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138570.exe",
+      "size_bytes": 1148526104,
+      "md5": "1d3bfd90ce09daf3e9dcac8851dc0c80",
+      "sha256": "DE07065C254C8490EA9BCCF12E655D4A476D7A2DDECC472F32285617B31C97A1",
+      "version": "2.00 A 1",
+      "release_date": "3/1/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-proone-600-g5-21-5-in-all-in-one-business-pc-win10-1809-85a2",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 600 G5 21.5-in All-in-One Business PC (Windows 10 64-bit, 1809)",
+  "system_id": "85a2,85a1",
+  "dmi_matches": [
+    "85a2",
+    "85a1",
+    "HP ProOne 600 G5 21.5-in All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99589-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99589.exe",
+      "size_bytes": 772852928,
+      "md5": "3f736a6f5889beeac649c0e14040f7be",
+      "sha256": "1300B46BD15DC8A76BFF89E89B743BB24401F6FE512F34999CAB5D398BBBFB4E",
+      "version": "2.00 A 1",
+      "release_date": "10/16/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

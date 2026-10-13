@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-eliteone-800-g6-27-all-in-one-pc-win11-23h2-874d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G6 27 All-in-One PC (Windows 11 64-bit, 23H2)",
+  "system_id": "874D,874E",
+  "dmi_matches": [
+    "874D",
+    "874E",
+    "HP EliteOne 800 G6 27 All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP143099-HP EliteOne 800 G6 AiO Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143099.exe",
+      "size_bytes": 820741584,
+      "md5": "97caeb95b2fef8f45a68b406fd43e508",
+      "sha256": "114567DF4A0CB68A477B4C156A400D71C445CCB2C18830C6750D48BCB17B42E6",
+      "version": "4.00 A 1",
+      "release_date": "11/7/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

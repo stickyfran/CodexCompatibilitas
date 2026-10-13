@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-735-g6-notebook-pc-win10-20h2-8589",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 735 G6 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8589",
+  "dmi_matches": [
+    "8589",
+    "HP EliteBook 735 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114213-HP EliteBook 7x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114213.exe",
+      "size_bytes": 1113242904,
+      "md5": "59b37ee6bf217fdae0d4d0c795976f05",
+      "sha256": "F8E84CE2E77A86E307D22BF164A3731305F45A8CB572267503BD0CCDAC2D2394",
+      "version": "7.00 A 1",
+      "release_date": "6/17/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-835-g8-notebook-pc-win11-22h2-8895",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 835 G8 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8895",
+  "dmi_matches": [
+    "8895",
+    "HP EliteBook 835 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP150285-HP EliteBook 8x5 G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150001-150500/sp150285.exe",
+      "size_bytes": 966180600,
+      "md5": "1c946da93a00ac9284861ec796fcfca8",
+      "sha256": "459FABB556B5486E08A21CFF7BE42E5A04C273725C172657B464888273B897EF",
+      "version": "3.00 A 1",
+      "release_date": "11/29/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

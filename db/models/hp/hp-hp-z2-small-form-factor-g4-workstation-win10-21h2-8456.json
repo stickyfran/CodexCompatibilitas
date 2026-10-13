@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-small-form-factor-g4-workstation-win10-21h2-8456",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Small Form Factor G4 Workstation (Windows 10 64-bit, 21H2)",
+  "system_id": "8456",
+  "dmi_matches": [
+    "8456",
+    "HP Z2 Small Form Factor G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136455-HP Z2G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136455.exe",
+      "size_bytes": 1435272472,
+      "md5": "6e7cd13a00696e6efc5ec104b31d18bd",
+      "sha256": "70D241A1383700C0F1AC1852735D8F9A16AB4261C4F1D625E97AD80936951106",
+      "version": "6.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

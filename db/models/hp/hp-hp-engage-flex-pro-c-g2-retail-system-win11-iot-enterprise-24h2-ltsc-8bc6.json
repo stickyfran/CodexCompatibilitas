@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-c-g2-retail-system-win11-iot-enterprise-24h2-ltsc-8bc6",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro-C G2 Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit)",
+  "system_id": "8BC6",
+  "dmi_matches": [
+    "8BC6",
+    "HP Engage Flex Pro-C G2 Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP168419-HP Engage Flex Pro G2 Windows 11 IoT Driver Pack",
+      "os": "Windows 11 IoT Enterprise 24H2 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168419.exe",
+      "size_bytes": 2490588560,
+      "md5": "E82FB5C0D4429E616B530409F470A734",
+      "sha256": "CC0716CE465219810514BC5589F21A574035308BD3FF50AD66977E74868AEA2D",
+      "version": "3.00 A 1",
+      "release_date": "12/16/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-1000-g2-23-8-in-touch-all-in-one-business-pc-win10-1809-83e5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC (Windows 10 64-bit, 1809)",
+  "system_id": "83e5",
+  "dmi_matches": [
+    "83e5",
+    "HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99725-HP EliteOne 1000 G2 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99725.exe",
+      "size_bytes": 848635704,
+      "md5": "8eae45ccaa86c634bca168a0803e8424",
+      "sha256": "FC536097B268946BF27F89B96D5D5A07312D5000EA3DBE7253952E84BE99A601",
+      "version": "9.00 A 1",
+      "release_date": "10/23/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

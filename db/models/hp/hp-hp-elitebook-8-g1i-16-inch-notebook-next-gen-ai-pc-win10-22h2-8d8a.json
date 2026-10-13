@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-8-g1i-16-inch-notebook-next-gen-ai-pc-win10-22h2-8d8a",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8D8A",
+  "dmi_matches": [
+    "8D8A",
+    "HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158689-HP EliteBook G1i NB Next Gen Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158689.exe",
+      "size_bytes": 1450240888,
+      "md5": "420BF0E159F4605BC05DB89BBBC71803",
+      "sha256": "921556317C78FC5CA510FDC5DEEEAC58203FBA186B9D0920D4720E45B103FD5B",
+      "version": "1.00 A 1",
+      "release_date": "5/20/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

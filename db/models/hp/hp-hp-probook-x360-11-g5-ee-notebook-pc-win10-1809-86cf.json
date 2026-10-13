@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g5-ee-notebook-pc-win10-1809-86cf",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G5 EE Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "86cf",
+  "dmi_matches": [
+    "86cf",
+    "HP ProBook x360 11 G5 EE Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP100011-HP ProBook x360 11 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100011.exe",
+      "size_bytes": 622043528,
+      "md5": "3237e0a70d8d2edbccb2aa8f316415d5",
+      "sha256": "13C51BE5572C2CFA3E530476386333CB3E086ED6A4492459380F92ED0EFC046A",
+      "version": "1.00 A 1",
+      "release_date": "11/12/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

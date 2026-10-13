@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-650-g5-notebook-pc-win10-1909-856e",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 650 G5 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "856e",
+  "dmi_matches": [
+    "856e",
+    "HP ProBook 650 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110080-HP Probook 6x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110080.exe",
+      "size_bytes": 1329343424,
+      "md5": "4bac59b75c0d9178e871fbf7135b524e",
+      "sha256": "83516C44A568239B63274D1FD5E27D344A550E8187D233FFC42B854C6D51532C",
+      "version": "6.00 A 1",
+      "release_date": "9/15/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

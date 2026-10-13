@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-15-6-inch-g9-mobile-workstation-pc-win11-21h2-89c0",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 11 64-bit, 21H2)",
+  "system_id": "89c0",
+  "dmi_matches": [
+    "89c0",
+    "HP ZBook Power 15.6 inch G9 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142690-HP ZBook Power G9 Mobile Workstation PC Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142690.exe",
+      "size_bytes": 1218887736,
+      "md5": "6b014af4edd72a68350f6327597b5df5",
+      "sha256": "7AA2DA93FD71B11AC95BC46B5750F895C28B4603024DFA3280A2C017891DE17D",
+      "version": "2.00 A 1",
+      "release_date": "9/27/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

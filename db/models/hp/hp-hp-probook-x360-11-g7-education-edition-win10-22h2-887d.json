@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g7-education-edition-win10-22h2-887d",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G7 Education Edition (Windows 10 64-bit, 22H2)",
+  "system_id": "887d",
+  "dmi_matches": [
+    "887d",
+    "HP ProBook x360 11 G7 Education Edition"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138311-HP ProBook x360 11 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138311.exe",
+      "size_bytes": 1169577312,
+      "md5": "76de0d8b9a61300be65f8eaa1e49ac82",
+      "sha256": "EFAFF87259387411ABB2066C21D9EC6D4AEC1E501A7777A12F65908847964B1D",
+      "version": "3.00 A 1",
+      "release_date": "2/8/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

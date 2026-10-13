@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-fortis-14-inch-g9-notebook-pc-win11-23h2-89b0",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook Fortis 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "89b0,8b4b",
+  "dmi_matches": [
+    "89b0",
+    "8b4b",
+    "HP ProBook Fortis 14 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP160036-HP ProBook x360 Fortis G9 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160036.exe",
+      "size_bytes": 937327600,
+      "md5": "E9820CCEEFCD19DEA32B808EA096CB5F",
+      "sha256": "98C4A6E4EF3152321161574960A35D0A37994329A7C9E8AD5F71C1D0CFAF5CC8",
+      "version": "6.00 A 1",
+      "release_date": "6/2/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

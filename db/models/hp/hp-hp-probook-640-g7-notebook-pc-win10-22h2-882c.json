@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-640-g7-notebook-pc-win10-22h2-882c",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 640 G7 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "882c",
+  "dmi_matches": [
+    "882c",
+    "HP ProBook 640 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113465-HP Probook 6x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113465.exe",
+      "size_bytes": 1165238872,
+      "md5": "9b78d8323dd9a8addfdd5585f8200ad8",
+      "sha256": "387D47CC0C6FFD9D5DE1AD4AC2D8EAA62F5488CE8FF90BD1B012A7F31C2BDC09",
+      "version": "5.00 A 1",
+      "release_date": "5/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,18 @@
+#!/bin/bash
+# ==========================================================================
+# Script de Instalación Automatizado — HP HP ZBook Studio x360 G5 Convertible Workstation (Windows 10 64-bit, 1709)
+# Generado por DeepSlopSuperLaptop para hp-hp-zbook-studio-x360-g5-convertible-workstation-win10-1709-844f
+# Sin daemons que gasten batería. 100% nativo.
+# ==========================================================================
+set -e
+
+echo "🚀 Aplicando configuraciones de hardware para HP HP ZBook Studio x360 G5 Convertible Workstation (Windows 10 64-bit, 1709)..."
+
+# --- 4. Modo Térmico por Defecto ---
+if [ -f /sys/firmware/acpi/platform_profile ]; then
+    echo "balanced" | sudo tee /sys/firmware/acpi/platform_profile >/dev/null 2>&1 || true
+    echo "  ✓ Perfil térmico establecido en 'balanced'"
+fi
+
+echo "🎉 ¡Configuración completada exitosamente!"
+echo "Reinicie la sesión o el equipo para disfrutar de la experiencia completa."

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-455-g6-notebook-pc-win10-1809-85d9",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455 G6 Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "85d9",
+  "dmi_matches": [
+    "85d9",
+    "HP ProBook 455 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99461-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99461.exe",
+      "size_bytes": 704514272,
+      "md5": "0bd09714dc4dce2b72162937b9a403cc",
+      "sha256": "589FFA7164D273EC0894C521A2B4B3DFD7D89A91F391F084D40724A0B8560A50",
+      "version": "2.00 A 1",
+      "release_date": "9/30/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

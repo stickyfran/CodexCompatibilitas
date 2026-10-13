@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z6-g5-a-workstation-desktop-pc-win10-22h2-8b24",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z6 G5 A Workstation Desktop PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8B24",
+  "dmi_matches": [
+    "8B24",
+    "HP Z6 G5 A Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP150537-HP Z6 G5 A Windows 10",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150537.exe",
+      "size_bytes": 1728155528,
+      "md5": "a1bbf8f91c1548d64a3fbf17b6c11085",
+      "sha256": "4466F6FD583F39E1F7C8C9123887212B030D7AD8AC3C5F6AE6AB373185375A82",
+      "version": "1.00 A 1",
+      "release_date": "12/8/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

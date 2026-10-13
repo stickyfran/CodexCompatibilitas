@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-430-g5-notebook-pc-win10-1709-8377",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 1709)",
+  "system_id": "8377",
+  "dmi_matches": [
+    "8377",
+    "HP ProBook 430 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP88921-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88921.exe",
+      "size_bytes": 1067495344,
+      "md5": "66f7abcc6339dda76e0e99bf2754841c",
+      "sha256": "5FD49C45687AB02B8E5B86CDC6DD1CDF2BEA99BC3357A757601E9E6EDA660478",
+      "version": "2.00 A 1",
+      "release_date": "7/16/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

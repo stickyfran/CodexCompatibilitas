@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-15-6-inch-g9-mobile-workstation-pc-win10-20h2-89c0",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 10 64-bit, 20H2)",
+  "system_id": "89c0",
+  "dmi_matches": [
+    "89c0",
+    "HP ZBook Power 15.6 inch G9 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145039-HP ZBook Power 15.6 G9 Mobile Workstation PC Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145039.exe",
+      "size_bytes": 2131740664,
+      "md5": "2a0ab7105f51c2ff50a8a73209c76a4a",
+      "sha256": "FFC1260189C8A80131B50ED6A750D914E1585B9C41D5DEADE37E71C97841BEC8",
+      "version": "3.00 A 1",
+      "release_date": "3/8/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

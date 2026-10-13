@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-proone-600-g2-21-5-inch-touch-all-in-one-pc-win10-1909-805e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 600 G2 21.5-inch Touch All-in-One PC (Windows 10 64-bit, 1909)",
+  "system_id": "805e",
+  "dmi_matches": [
+    "805e",
+    "HP ProOne 600 G2 21.5-inch Touch All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP100850-HP ElitePro 600/800 G2 AiO Windows  10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100850.exe",
+      "size_bytes": 580069008,
+      "md5": "c5437f21ea20cab0e4b8de9f8bb3ef65",
+      "sha256": "49B400D2A32131B3F77D586B2F91B8031F706BD7390B6B033B893917B4066053",
+      "version": "14.0 A 1",
+      "release_date": "12/19/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

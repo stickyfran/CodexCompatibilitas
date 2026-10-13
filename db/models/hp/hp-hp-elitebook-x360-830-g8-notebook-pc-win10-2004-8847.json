@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-830-g8-notebook-pc-win10-2004-8847",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 830 G8 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "8847",
+  "dmi_matches": [
+    "8847",
+    "HP EliteBook x360 830 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114275-HP EliteBook x360 830 G8 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114275.exe",
+      "size_bytes": 1347239392,
+      "md5": "788327148efa1b8f07877544afd4f6ad",
+      "sha256": "FDEFC84DF08EF4E6FAAAA56DF3C7667741477473E2947EDBA0F52DAE499EDBD9",
+      "version": "4.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

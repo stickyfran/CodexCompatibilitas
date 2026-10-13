@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-650-g7-notebook-pc-win10-1909-882d",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 650 G7 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "882d",
+  "dmi_matches": [
+    "882d",
+    "HP ProBook 650 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110196-HP Probook 6x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110196.exe",
+      "size_bytes": 987167560,
+      "md5": "a9f8f664b20400ddc283816e151e89a6",
+      "sha256": "6DBC12390D0CA4FABE5311D95539B94A6B537D2305207543A47BDBA6A8DEFF2C",
+      "version": "2.00 A 1",
+      "release_date": "9/22/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

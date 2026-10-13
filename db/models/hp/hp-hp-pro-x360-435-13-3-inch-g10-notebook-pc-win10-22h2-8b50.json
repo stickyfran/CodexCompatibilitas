@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x360-435-13-3-inch-g10-notebook-pc-win10-22h2-8b50",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8B50",
+  "dmi_matches": [
+    "8B50",
+    "HP Pro x360 435 13.3 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147939-HP Pro x360 435 G10 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147939.exe",
+      "size_bytes": 852745128,
+      "md5": "5ebfcf74373c82722e70f424bd76ba69",
+      "sha256": "069E6B7BEB6C92FDD1918E37715123F6FD365106EB528AAE538BA13908892122",
+      "version": "3.00 A 1",
+      "release_date": "7/6/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-studio-15-6-inch-g8-mobile-workstation-pc-win11-22h2-8873",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8873",
+  "dmi_matches": [
+    "8873",
+    "HP ZBook Studio 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142746-HP ZBook Studio/Create G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142746.exe",
+      "size_bytes": 1227660712,
+      "md5": "a9c652027da2890291cb2bbae79b2dbd",
+      "sha256": "EA425FF7F9D831A2F2971DBDB041A5550123542B3E47E383CC66282B745B5C6C",
+      "version": "2.00 A 1",
+      "release_date": "9/28/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

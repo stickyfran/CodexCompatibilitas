@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-640-14-inch-g11-notebook-pc-win11-22h2-8c86",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 640 14 inch G11 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8C86",
+  "dmi_matches": [
+    "8C86",
+    "HP EliteBook 640 14 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP164397-HP Pro/EliteBook 4x0/6x0 G11 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp164001-164500/sp164397.exe",
+      "size_bytes": 2427362408,
+      "md5": "9C2FB3DD2A35D543DCD2AC59B949C266",
+      "sha256": "729D9B4383264032473268B90A2912BF61EA2B42CBFAC022F9EC37993ABF06E1",
+      "version": "5.00 A 1",
+      "release_date": "10/1/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

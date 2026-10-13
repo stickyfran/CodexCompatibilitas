@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zcentral-4r-workstation-win10-2004-873e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZCentral 4R Workstation (Windows 10 64-bit, 2004)",
+  "system_id": "873E",
+  "dmi_matches": [
+    "873E",
+    "HP ZCentral 4R Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147884-HP ZCentral 4R Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147884.exe",
+      "size_bytes": 1680920248,
+      "md5": "1d691ba34fd8d9cc46aa5a737b78185e",
+      "sha256": "57BC33E27183CE9AF0D6BA92D28C629D9CC9F9BFE0000E91A99B677735A021E6",
+      "version": "9.00 A 1",
+      "release_date": "6/22/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

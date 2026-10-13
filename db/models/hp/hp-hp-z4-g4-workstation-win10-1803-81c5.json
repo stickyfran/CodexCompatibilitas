@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z4-g4-workstation-win10-1803-81c5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 G4 Workstation (Windows 10 64-bit, 1803)",
+  "system_id": "81c5",
+  "dmi_matches": [
+    "81c5",
+    "HP Z4 G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP96860-HP Z4G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96860.exe",
+      "size_bytes": 698936808,
+      "md5": "b3040ff6d62d7ac3986f453c8b25ddf5",
+      "sha256": "EA4A9551B1BD732FD7B8B83877EC382E55DAE82950BE5A75B0AB6B30D62B647D",
+      "version": "4.2019 G 2",
+      "release_date": "6/4/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

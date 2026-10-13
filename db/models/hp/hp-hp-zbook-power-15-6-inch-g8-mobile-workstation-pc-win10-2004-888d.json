@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-15-6-inch-g8-mobile-workstation-pc-win10-2004-888d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 2004)",
+  "system_id": "888d",
+  "dmi_matches": [
+    "888d",
+    "HP ZBook Power 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113954-HP ZBook Power G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113954.exe",
+      "size_bytes": 1292091128,
+      "md5": "2c4ea89b1882e0c3bf3b8fa7d7a55ed8",
+      "sha256": "6D3B2C72D16C76E94AF49264B0E0044C21A3032397F289DE6C94E40C02B31CA7",
+      "version": "1.00 A 1",
+      "release_date": "5/21/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

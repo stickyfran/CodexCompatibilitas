@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zbook-firefly-14-g7-mobile-workstation-win10-1909-8723",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 14 G7 Mobile Workstation (Windows 10 64-bit, 1909)",
+  "system_id": "8723,8724",
+  "dmi_matches": [
+    "8723",
+    "8724",
+    "HP ZBook Firefly 14 G7 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110181-HP Elite/ZBook 8x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110181.exe",
+      "size_bytes": 1570692072,
+      "md5": "1bd9927ccd69e31eff5edfe7b609f362",
+      "sha256": "C7600B7FFA34F56C480616D74B5DBF2CF6C0B7E36A592249467057BA2338E6E9",
+      "version": "3.00 A 1",
+      "release_date": "9/21/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

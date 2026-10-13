@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z1-all-in-one-g3-workstation-win10-1809-8115",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 1809)",
+  "system_id": "8115",
+  "dmi_matches": [
+    "8115",
+    "HP Z1 All-in-One G3 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP80814-HP Z1G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80501-81000/sp80814.exe",
+      "size_bytes": 556709816,
+      "md5": "9d5ec732d153effd993e29c54432cb87",
+      "sha256": "A54E495C2FF33770CA906423FA6488D18466BD285D980B21D5E5F00CF627AC25",
+      "version": "07.2017 B 1",
+      "release_date": "7/11/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

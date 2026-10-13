@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-460-16-inch-g11-notebook-pc-win11-25h2-8c84",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 460 16 inch G11 Notebook PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8C84",
+  "dmi_matches": [
+    "8C84",
+    "HP ProBook 460 16 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174517-HP Pro/EliteBook 4x0/6x0 G11 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174517.exe",
+      "size_bytes": 2548607000,
+      "md5": "FA7067E23134772CB3E85E9D67C1AAF3",
+      "sha256": "114BD1150EB269E5CC7838BE2A220349F79A13380311BFF8C9FE309D6D3DC437",
+      "version": "7.00 A 1",
+      "release_date": "9/1/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-x2-1013-g3-tablet-win10-2004-8414",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x2 1013 G3 Tablet (Windows 10 64-bit, 2004)",
+  "system_id": "8414",
+  "dmi_matches": [
+    "8414",
+    "HP Elite x2 1013 G3 Tablet"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114207-HP Elite x2 1013 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114207.exe",
+      "size_bytes": 1328182936,
+      "md5": "8b26766c990119b0b6a7fce357d205b0",
+      "sha256": "AC153838425255BA36328D8FE8640A1182CDF985CC8EC89BB8F270ED906B5FD9",
+      "version": "12.00 A 1",
+      "release_date": "6/16/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

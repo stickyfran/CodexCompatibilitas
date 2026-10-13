@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elite-slice-for-meeting-rooms-win10-21h2-8396",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice for Meeting Rooms (Windows 10 64-bit, 21H2)",
+  "system_id": "8396,81c3",
+  "dmi_matches": [
+    "8396",
+    "81c3",
+    "HP Elite Slice for Meeting Rooms"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114257-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114257.exe",
+      "size_bytes": 544124168,
+      "md5": "9b951906242503c0461b8e5c41d3be23",
+      "sha256": "33D208CDDE8E3D87EBA44EE6C069FE1E87FB0578FC65C04168B4EEE49CD30DBC",
+      "version": "21.00 A 1",
+      "release_date": "6/24/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

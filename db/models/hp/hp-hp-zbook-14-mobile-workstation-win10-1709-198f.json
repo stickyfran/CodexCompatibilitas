@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-14-mobile-workstation-win10-1709-198f",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 14 Mobile Workstation (Windows 10 64-bit, 1709)",
+  "system_id": "198f",
+  "dmi_matches": [
+    "198f",
+    "HP ZBook 14 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP92710-HP EliteBook 7x0/8x0 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92710.exe",
+      "size_bytes": 596764840,
+      "md5": "2ea16c24ec9a5c6c3c1f00a4dc7c000d",
+      "sha256": "BBE860541399897BDFA671450C1D6A2183DB5677B8E82D152F803ECC5A4ED5B4",
+      "version": "1.00 A 1",
+      "release_date": "11/14/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

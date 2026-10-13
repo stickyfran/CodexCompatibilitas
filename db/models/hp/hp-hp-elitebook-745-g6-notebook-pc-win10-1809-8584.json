@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-745-g6-notebook-pc-win10-1809-8584",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 745 G6 Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "8584",
+  "dmi_matches": [
+    "8584",
+    "HP EliteBook 745 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99542-HP EliteBook 7x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99542.exe",
+      "size_bytes": 751569776,
+      "md5": "8444FF03352A5BF67313A87D0475EE93",
+      "sha256": "0512FA4DB4F3C493297F59F61F5907B19F2C2F56735986475F9A801341D3A43F",
+      "version": "2.00 A 1",
+      "release_date": "10/9/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

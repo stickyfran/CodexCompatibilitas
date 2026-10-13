@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-mini-g9-workstation-desktop-pc-win11-22h2-895e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G9 Workstation Desktop PC (Windows 11 64-bit, 22H2)",
+  "system_id": "895E",
+  "dmi_matches": [
+    "895E",
+    "HP Z2 Mini G9 Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP154019-HP Z2G9 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp154001-154500/sp154019.exe",
+      "size_bytes": 3465271000,
+      "md5": "8C0779502CCD56E90325EB57726117B7",
+      "sha256": "AE1A58871B287DF7623A90CA8C3C355745443FAE567187C04F81E0E3BCC5F943",
+      "version": "9.00 A 1",
+      "release_date": "8/5/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-705-g3-desktop-mini-pc-win10-20h2-8266",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G3 Desktop Mini PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8266",
+  "dmi_matches": [
+    "8266",
+    "HP EliteDesk 705 G3 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP111957-HP EliteDesk 705 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111957.exe",
+      "size_bytes": 704988344,
+      "md5": "1fcd03b45b78beaee4f4588d0a71fe23",
+      "sha256": "6F6D754826DE8B9CFC658D360EB9989E17220E3D8F60EB47FC09BEAEAAE7108E",
+      "version": "19.0 A 1",
+      "release_date": "12/28/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

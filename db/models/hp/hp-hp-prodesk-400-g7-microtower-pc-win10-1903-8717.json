@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g7-microtower-pc-win10-1903-8717",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G7 Microtower PC (Windows 10 64-bit, 1903)",
+  "system_id": "8717",
+  "dmi_matches": [
+    "8717",
+    "HP ProDesk 400 G7 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP108773-HP ElitePro 4/6/8x0 G6/7 PC Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108773.exe",
+      "size_bytes": 1855793760,
+      "md5": "66ac048befae72bd59d7728f3eee69f4",
+      "sha256": "4F94429B5EF5741C8A1B4EA0FC67CFE296E5D75156C102FE9CF205F03722EF48",
+      "version": "1.00 A 1",
+      "release_date": "8/26/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

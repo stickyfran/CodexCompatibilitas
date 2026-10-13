@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-845-14-inch-g10-notebook-pc-win10-22h2-8b6e",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 845 14 inch G10 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8B6E",
+  "dmi_matches": [
+    "8B6E",
+    "HP EliteBook 845 14 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149192-HP ZBook/EliteBook 8x5 G10/A Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149192.exe",
+      "size_bytes": 1049260176,
+      "md5": "51787d5ae2f96ca2017ac22968e51092",
+      "sha256": "128AACAF20939013665A2162427B13C21C3673EB74F73DD88D6170913781C383",
+      "version": "3.00 A 1",
+      "release_date": "9/7/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

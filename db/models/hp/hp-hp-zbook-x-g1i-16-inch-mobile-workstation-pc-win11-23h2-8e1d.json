@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-x-g1i-16-inch-mobile-workstation-pc-win11-23h2-8e1d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook X G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8e1d",
+  "dmi_matches": [
+    "8e1d",
+    "HP ZBook X G1i 16 inch Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174049-HP ZBook X G1i MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174049.exe",
+      "size_bytes": 2481038744,
+      "md5": "97E65D1D35592B19180B321A3B0C05FD",
+      "sha256": "82070CF3F58309DC40D68DB7DED0C48CF5C705ED5F20B14377AA27B5C0A7DF19",
+      "version": "4.00 A 1",
+      "release_date": "8/11/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

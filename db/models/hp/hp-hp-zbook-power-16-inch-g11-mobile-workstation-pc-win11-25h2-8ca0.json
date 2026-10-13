@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-16-inch-g11-mobile-workstation-pc-win11-25h2-8ca0",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8ca0",
+  "dmi_matches": [
+    "8ca0",
+    "HP ZBook Power 16 inch G11 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP170007-HP ZBook Power G11 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170007.exe",
+      "size_bytes": 2606280304,
+      "md5": "F75F8409E7284CB7911483CC80C14F30",
+      "sha256": "A9AEC451CF4EA211BE776B0C5598789F64DEE4164080D4C029A3B87E231FDE0F",
+      "version": "6.00 A 1",
+      "release_date": "1/19/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

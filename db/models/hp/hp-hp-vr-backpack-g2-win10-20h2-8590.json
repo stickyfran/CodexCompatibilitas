@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-vr-backpack-g2-win10-20h2-8590",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP VR Backpack G2 (Windows 10 64-bit, 20H2)",
+  "system_id": "8590",
+  "dmi_matches": [
+    "8590",
+    "HP VR Backpack G2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113140-HP VR Backpack G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113140.exe",
+      "size_bytes": 534713784,
+      "md5": "98cee5426349b5334cea02b1d5de6d25",
+      "sha256": "188DAEA4D5CAEA9EBC3FF122356346B33378BD6B8566316E00C83B38D0F569AF",
+      "version": "5.00 A 1",
+      "release_date": "3/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

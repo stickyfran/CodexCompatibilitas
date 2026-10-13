@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-800-g8-tower-pc-win10-20h2-889c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G8 Tower PC (Windows 10 64-bit, 20H2)",
+  "system_id": "889C",
+  "dmi_matches": [
+    "889C",
+    "HP EliteDesk 800 G8 Tower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138480-HP ElitePro 6/8x0 G8 PC Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138480.exe",
+      "size_bytes": 1172344968,
+      "md5": "34c76021151d4ecf4373288ca6779730",
+      "sha256": "F2516EABFFA4CAAA0AB18B99CB7109D9A2C7968A0C8410D88A967F903A0B8D32",
+      "version": "3.00 A 1",
+      "release_date": "2/21/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

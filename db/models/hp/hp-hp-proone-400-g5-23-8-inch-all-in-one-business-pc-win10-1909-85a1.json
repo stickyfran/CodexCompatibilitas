@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-proone-400-g5-23-8-inch-all-in-one-business-pc-win10-1909-85a1",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 400 G5 23.8-inch All-in-One Business PC (Windows 10 64-bit, 1909)",
+  "system_id": "85a1,85a2",
+  "dmi_matches": [
+    "85a1",
+    "85a2",
+    "HP ProOne 400 G5 23.8-inch All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP109028-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp109001-109500/sp109028.exe",
+      "size_bytes": 909840496,
+      "md5": "00f2a25d0bc94daf90556d89bd634fbe",
+      "sha256": "5B3E255B5FBA49C4B2561B3DB399D121771E43D0027249AC54DEEC5658C857FE",
+      "version": "5.00 A 1",
+      "release_date": "9/10/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

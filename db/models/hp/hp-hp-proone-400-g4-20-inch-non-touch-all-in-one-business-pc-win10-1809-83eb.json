@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-proone-400-g4-20-inch-non-touch-all-in-one-business-pc-win10-1809-83eb",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 1809)",
+  "system_id": "83eb,83ea",
+  "dmi_matches": [
+    "83eb",
+    "83ea",
+    "HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99724-HP ElitePro 400/600/800 G4 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99724.exe",
+      "size_bytes": 461064528,
+      "md5": "d29909b13c1eccee1e5ea5dc88db283b",
+      "sha256": "2D0D9963C16ACFCD3D5707092EBC0F8F8C2C14CC4E0627AB1A948EE437E6F4BC",
+      "version": "10.0 A 1",
+      "release_date": "10/23/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

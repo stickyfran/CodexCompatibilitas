@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-proone-440-g4-23-8-inch-non-touch-all-in-one-business-pc-win10-1803-83eb",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 1803)",
+  "system_id": "83eb,83ea",
+  "dmi_matches": [
+    "83eb",
+    "83ea",
+    "HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95456-HP ElitePro 4/6/800 G4 AiO Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95456.exe",
+      "size_bytes": 598812944,
+      "md5": "e25763075571cdb92842f551c4e6c041",
+      "sha256": "6D40114322A2C0618969ABA198863B0D0BFC6E49E58F0CD12391830947DCDE8D",
+      "version": "6.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

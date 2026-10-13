@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-805-g8-small-form-factor-pc-win10-1909-8883",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 805 G8 Small Form Factor PC (Windows 10 64-bit, 1909)",
+  "system_id": "8883",
+  "dmi_matches": [
+    "8883",
+    "HP EliteDesk 805 G8 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP121401-HP ElitePro 4/805 G8 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp121001-121500/sp121401.exe",
+      "size_bytes": 1091808592,
+      "md5": "370e1160d74c71016bd6c7ba3a06f335",
+      "sha256": "2CE5D1CA64EDC7F7EA2498E4CAA6F7B353C1C80486A6C5CAF4EA206595965DB7",
+      "version": "1.00 A 1",
+      "release_date": "7/12/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

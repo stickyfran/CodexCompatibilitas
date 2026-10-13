@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elite-slice-win10-1903-81c3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice (Windows 10 64-bit, 1903)",
+  "system_id": "81c3,8396",
+  "dmi_matches": [
+    "81c3",
+    "8396",
+    "HP Elite Slice"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101468-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101468.exe",
+      "size_bytes": 468612200,
+      "md5": "2f090051f8291d46858f7390f19a0e7e",
+      "sha256": "4B0BAA48503211D649E973AC1189D4EA2E1058022739CA4AFC0DB43CD5E1B251",
+      "version": "18.0 A 1",
+      "release_date": "1/28/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

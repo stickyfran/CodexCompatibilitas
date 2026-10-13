@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-450-g6-notebook-pc-win10-1803-8538",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 450 G6 Notebook PC (Windows 10 64-bit, 1803)",
+  "system_id": "8538",
+  "dmi_matches": [
+    "8538",
+    "HP ProBook 450 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP102073-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102073.exe",
+      "size_bytes": 791414560,
+      "md5": "2b6baaf712394577fd4ea82eb08c180a",
+      "sha256": "1885659410B49C05407228503A505DFA17C177B0945AE742CC016870B4256CD1",
+      "version": "5.00 A 1",
+      "release_date": "3/20/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

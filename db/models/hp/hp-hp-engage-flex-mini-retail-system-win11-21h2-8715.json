@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-mini-retail-system-win11-21h2-8715",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Mini Retail System (Windows 11 64-bit, 21H2)",
+  "system_id": "8715",
+  "dmi_matches": [
+    "8715",
+    "HP Engage Flex Mini Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP151305-HP Engage Flex Mini Win11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151305.exe",
+      "size_bytes": 731305656,
+      "md5": "38bcc1a905ede977c5911d5b610d45c1",
+      "sha256": "DFC9C9FBE634DA9259EB16245425E7D06C123CB0B9AB83D731E3A273DC3E7698",
+      "version": "4.00 A 1",
+      "release_date": "2/5/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

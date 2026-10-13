@@ -1,0 +1,31 @@
+{
+  "id": "hp-hp-eliteone-870-27-inch-g9-all-in-one-desktop-pc-win11-24h2-8acb",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 870 27 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8acb,8acc,8957,895f",
+  "dmi_matches": [
+    "8acb",
+    "8acc",
+    "8957",
+    "895f",
+    "HP EliteOne 870 27 inch G9 All-in-One Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173495-HP EliteOne 8x0 27 G9 AIO Win 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173495.exe",
+      "size_bytes": 1300961200,
+      "md5": "2A373361861BDDF6C30A25C06A62FB81",
+      "sha256": "9B84ACF644C44E49B327481EA76725510CD9B15D7843D6F4D55F6C13ED99CB42",
+      "version": "11.00 A 1",
+      "release_date": "6/5/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-firefly-14-inch-g11-a-mobile-workstation-pc-win11-23h2-8c6f",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 14 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8c6f",
+  "dmi_matches": [
+    "8c6f",
+    "HP ZBook Firefly 14 inch G11 A Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP161611-HP ZBook/EliteBook 8x5 G11/A Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161611.exe",
+      "size_bytes": 1195483304,
+      "md5": "4F787443F760D887426D6CC9018AD8A7",
+      "sha256": "12EDD9B402FAE65B38C0B89516F6160355DE026B4C97895A8AF3134D79D8D356",
+      "version": "3.00 A 1",
+      "release_date": "12/2/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

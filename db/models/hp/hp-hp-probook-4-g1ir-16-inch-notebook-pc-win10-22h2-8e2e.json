@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-4-g1ir-16-inch-notebook-pc-win10-22h2-8e2e",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G1iR 16 inch Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8E2E,8E58",
+  "dmi_matches": [
+    "8E2E",
+    "8E58",
+    "HP ProBook 4 G1iR 16 inch Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP162923-HP ProBook/EliteBook 6 G1iR Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp162501-163000/sp162923.exe",
+      "size_bytes": 1888821632,
+      "md5": "3710F5047A9B389AA8AD2334B087A3A7",
+      "sha256": "F07B380BFD5C105B20BA75CE8E6DE5598C9827335A4E3DFBB1AFADE43DED7495",
+      "version": "2.00 A 1",
+      "release_date": "8/22/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

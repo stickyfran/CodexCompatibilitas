@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-445-14-inch-g9-notebook-pc-win11-24h2-8b17",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8B17,89C9",
+  "dmi_matches": [
+    "8B17",
+    "89C9",
+    "HP ProBook 445 14 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP155663-HP ZHAN/Pro/Elite 4/6x5 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155501-156000/sp155663.exe",
+      "size_bytes": 1181325192,
+      "md5": "BF66B1BF0295FBE7A21380FC631552FA",
+      "sha256": "35AD33E117AD6073B617229D3E790DF5E12839B184AC1E3A9F5948584F123148",
+      "version": "7.00 A 1",
+      "release_date": "11/21/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

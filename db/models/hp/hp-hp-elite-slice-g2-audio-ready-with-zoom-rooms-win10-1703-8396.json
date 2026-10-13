@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-slice-g2-audio-ready-with-zoom-rooms-win10-1703-8396",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice G2 - Audio Ready with Zoom Rooms (Windows 10 64-bit, 1703)",
+  "system_id": "8396",
+  "dmi_matches": [
+    "8396",
+    "HP Elite Slice G2 - Audio Ready with Zoom Rooms"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP85545-HP Elite Slice G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp85501-86000/sp85545.exe",
+      "size_bytes": 550020784,
+      "md5": "e0839d8aeb4b914c70872fdfca06e27f",
+      "sha256": "5456E35886510B1E52E39D0FAC34721CFE25FFBF62E8645AA299F2BA55D6009E",
+      "version": "2.00 A 1",
+      "release_date": "7/24/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

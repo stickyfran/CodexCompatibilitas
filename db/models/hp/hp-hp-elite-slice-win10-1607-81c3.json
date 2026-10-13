@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elite-slice-win10-1607-81c3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice (Windows 10 64-bit, 1607)",
+  "system_id": "81c3,8396",
+  "dmi_matches": [
+    "81c3",
+    "8396",
+    "HP Elite Slice"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP80493-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1607",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80493.exe",
+      "size_bytes": 347993592,
+      "md5": "3bfd1457398b17eac59ba21338cd8f3c",
+      "sha256": "2A6CEAC21D3AB9D43014273EB780E5A18C1645ED3B6DCDFABAFB9BE1277B23A5",
+      "version": "3.10 A 1",
+      "release_date": "5/23/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-6-g1i-13-inch-notebook-ai-pc-win11-23h2-8deb",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 6 G1i 13 inch Notebook AI PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8DEB",
+  "dmi_matches": [
+    "8DEB",
+    "HP EliteBook 6 G1i 13 inch Notebook AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174329-HP EliteBook 6 G1i  AI  Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174329.exe",
+      "size_bytes": 2454415176,
+      "md5": "74EDDFBDDA40176FCDE0CA045DF6F5A0",
+      "sha256": "07225D32B0BCA82A9EC154E103B4C297588E73ECA282251D64C6CFCC17D05648",
+      "version": "5.00 A 1",
+      "release_date": "8/12/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

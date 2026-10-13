@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitedesk-705-g3-microtower-pc-win10-1703-8265",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G3 Microtower PC (Windows 10 64-bit, 1703)",
+  "system_id": "8265,835b",
+  "dmi_matches": [
+    "8265",
+    "835b",
+    "HP EliteDesk 705 G3 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP83810-HP EliteDesk 705 G3 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp83501-84000/sp83810.exe",
+      "size_bytes": 752907528,
+      "md5": "5fb9dfede8aafb05a89a5ce2e5563067",
+      "sha256": "3E6AE2A134C3EC5F6F0191886C732421244037C9FDD6F120B5E0FA5588D56E99",
+      "version": "10.0 A 1",
+      "release_date": "11/18/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

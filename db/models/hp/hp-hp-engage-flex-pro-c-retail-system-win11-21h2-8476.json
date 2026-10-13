@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-c-retail-system-win11-21h2-8476",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro-C Retail System (Windows 11 64-bit, 21H2)",
+  "system_id": "8476",
+  "dmi_matches": [
+    "8476",
+    "HP Engage Flex Pro-C Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP148713-HP Engage Flex Pro G1 Win11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp148501-149000/sp148713.exe",
+      "size_bytes": 1163946824,
+      "md5": "1a21a374cdbecb0ec683885d7df767d1",
+      "sha256": "5E234950C8A313D5F19135D57BD754EB8CF62307F82A38D74AF2F3CAF852B60E",
+      "version": "4.00 A 1",
+      "release_date": "8/8/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

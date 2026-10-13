@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-mini-retail-system-win11-iot-enterprise-24h2-ltsc-8715",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Mini Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit)",
+  "system_id": "8715",
+  "dmi_matches": [
+    "8715",
+    "HP Engage Flex Mini Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP168480-HP Engage Flex Mini Windows 11 IoT Driver Pack",
+      "os": "Windows 11 IoT Enterprise 24H2 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168480.exe",
+      "size_bytes": 942928528,
+      "md5": "384437B38EBB0D94543D001EA4059044",
+      "sha256": "FD914D91FA901934A791B8FC9FE81A39F1BC98BF23AE5637E480230A0D444225",
+      "version": "1.00 A 1",
+      "release_date": "12/18/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

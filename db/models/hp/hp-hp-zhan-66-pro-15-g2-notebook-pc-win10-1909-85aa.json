@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zhan-66-pro-15-g2-notebook-pc-win10-1909-85aa",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro 15 G2 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "85aa",
+  "dmi_matches": [
+    "85aa",
+    "HP ZHAN 66 Pro 15 G2 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP103623-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103623.exe",
+      "size_bytes": 793097208,
+      "md5": "c12464bf48b6116de30bca70577faf72",
+      "sha256": "645956698F8AF586877FC894F243133EF05CECC923BF973267D996B43AB148E1",
+      "version": "7.00 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

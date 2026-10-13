@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-slice-g2-with-zoom-rooms-win10-20h2-8396",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice G2 with Zoom Rooms (Windows 10 64-bit, 20H2)",
+  "system_id": "8396",
+  "dmi_matches": [
+    "8396",
+    "HP Elite Slice G2 with Zoom Rooms"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP136512-HP Elite Slice G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136501-137000/sp136512.exe",
+      "size_bytes": 568264152,
+      "md5": "c3f889c021157287fb3247bd8cbdcdab",
+      "sha256": "706D1BE9129E052B898A98BD706D9254B62806C041F63A1CECF0E62BBFAC4878",
+      "version": "19.00 A 1",
+      "release_date": "12/2/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

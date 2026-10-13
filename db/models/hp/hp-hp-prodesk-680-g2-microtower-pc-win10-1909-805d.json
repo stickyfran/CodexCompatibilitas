@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-680-g2-microtower-pc-win10-1909-805d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 680 G2 Microtower PC (Windows 10 64-bit, 1909)",
+  "system_id": "805d",
+  "dmi_matches": [
+    "805d",
+    "HP ProDesk 680 G2 Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP100851-HP ElitePro 600/800 G2 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100851.exe",
+      "size_bytes": 842398592,
+      "md5": "1495117eec0ea56919ccca7b0f5beb65",
+      "sha256": "DA567C935024ACE46A30C0DB44ABAA17C70BBD4C8FDB696E284EF16B10E9BF30",
+      "version": "14.0 A 1",
+      "release_date": "12/19/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

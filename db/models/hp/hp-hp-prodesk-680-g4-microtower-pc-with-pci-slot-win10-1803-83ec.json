@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-680-g4-microtower-pc-with-pci-slot-win10-1803-83ec",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 680 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 1803)",
+  "system_id": "83ec,83ed",
+  "dmi_matches": [
+    "83ec",
+    "83ed",
+    "HP ProDesk 680 G4 Microtower PC (with PCI slot)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95457-HP ElitePro 4/6/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95457.exe",
+      "size_bytes": 780404384,
+      "md5": "e4854b947b8c1af474ddc4b5aa485288",
+      "sha256": "FF1ACFE395016AB8E9FAAAB95CBB0C9BB8171A718EC5F171E128B6C215E99514",
+      "version": "6.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

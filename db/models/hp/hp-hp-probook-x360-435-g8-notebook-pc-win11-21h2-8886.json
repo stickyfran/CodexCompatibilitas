@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-435-g8-notebook-pc-win11-21h2-8886",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 435 G8 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8886",
+  "dmi_matches": [
+    "8886",
+    "HP ProBook x360 435 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147680-HP ProBook x360 435 G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147680.exe",
+      "size_bytes": 934364800,
+      "md5": "03625def9176cc45cd149a921f02fe35",
+      "sha256": "04402493C393F6A62551A0B8450335C6CCBD87CC246920ACD894CA3E1DAE1246",
+      "version": "2.00 A 1",
+      "release_date": "6/7/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

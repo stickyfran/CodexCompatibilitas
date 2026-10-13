@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-c-retail-system-win10-22h2-8476",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 22H2)",
+  "system_id": "8476",
+  "dmi_matches": [
+    "8476",
+    "HP Engage Flex Pro-C Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144661-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144661.exe",
+      "size_bytes": 1170094944,
+      "md5": "bdd5bd381ecdac1186e35569db0071d4",
+      "sha256": "9EFFB77F655C156523DD87A3F3900FE2A1652D2FD77359538B75D1F8F6CFA795",
+      "version": "12.00 A 1",
+      "release_date": "1/18/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

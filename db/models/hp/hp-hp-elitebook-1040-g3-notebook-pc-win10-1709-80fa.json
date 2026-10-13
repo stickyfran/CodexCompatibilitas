@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-1040-g3-notebook-pc-win10-1709-80fa",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 1040 G3 Notebook PC (Windows 10 64-bit, 1709)",
+  "system_id": "80fa",
+  "dmi_matches": [
+    "80fa",
+    "HP EliteBook 1040 G3 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP90254-HP Folio 1040 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90254.exe",
+      "size_bytes": 540762400,
+      "md5": "0c8aba391441c036052ad587cdc928c9",
+      "sha256": "D34A57F902B4DB0BA783275BAA525482BE008278BCABC98F009738FB15D6ED67",
+      "version": "12.0 A 1",
+      "release_date": "7/27/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

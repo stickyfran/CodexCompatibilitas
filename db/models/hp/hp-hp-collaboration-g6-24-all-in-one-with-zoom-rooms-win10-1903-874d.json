@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-collaboration-g6-24-all-in-one-with-zoom-rooms-win10-1903-874d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Collaboration G6 24 All-in-One with Zoom Rooms (Windows 10 64-bit, 1903)",
+  "system_id": "874d,874e",
+  "dmi_matches": [
+    "874d",
+    "874e",
+    "HP Collaboration G6 24 All-in-One with Zoom Rooms"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP109005-HP EliteOne 800 G6 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp109001-109500/sp109005.exe",
+      "size_bytes": 1453587648,
+      "md5": "9943bb1ecfd77becd41e25a0edbe6385",
+      "sha256": "8E77D36F746276C09EC289966FF4562B2E651AEB9AB22A33B941CA85BA21C7D6",
+      "version": "1.00 A 1",
+      "release_date": "9/9/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

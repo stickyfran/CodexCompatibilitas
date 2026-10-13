@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-14u-g6-mobile-workstation-win10-1709-8549",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 14u G6 Mobile Workstation (Windows 10 64-bit, 1709)",
+  "system_id": "8549",
+  "dmi_matches": [
+    "8549",
+    "HP ZBook 14u G6 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99665-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99665.exe",
+      "size_bytes": 805421472,
+      "md5": "f143f94b0ff730c898e6f48cd88ac78b",
+      "sha256": "E918BE2767CE44B918CFEF6B4D1E6B5DD250DFB3334995A57F0A75FBB38845CE",
+      "version": "2.00 A 1",
+      "release_date": "10/31/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

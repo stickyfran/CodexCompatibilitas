@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-notebook-pc-win10-1909-861f",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "861F",
+  "dmi_matches": [
+    "861F",
+    "HP Elite Dragonfly Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110433-HP Elite Dragonfly Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110433.exe",
+      "size_bytes": 964296280,
+      "md5": "9c0b06a963099dc4d81812b6552e6943",
+      "sha256": "8347542ECD755FB290AE3481DC1B0BED96B8A82678474CE0FEBBE64B7977B793",
+      "version": "6.00 A 1",
+      "release_date": "10/13/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

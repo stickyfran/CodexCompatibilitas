@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-g2-aio-system-win11-iot-enterprise-24h2-ltsc-8ef7",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One G2 AiO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit)",
+  "system_id": "8ef7",
+  "dmi_matches": [
+    "8ef7",
+    "HP Engage One G2 AiO System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174402-HP Engage One G2 AiO System Windows 11 IoT 24H2 Driver Pack",
+      "os": "Windows 11 IoT Enterprise 24H2 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174402.exe",
+      "size_bytes": 1051379344,
+      "md5": "88DA5CD6FE3D64FBDEC06A0DCF1ADFCC",
+      "sha256": "5DEC02D395F37B53E2F5D53D879C65FDA3BC081E9B29963F88B99DB78A770687",
+      "version": "2.00 A 1",
+      "release_date": "8/18/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

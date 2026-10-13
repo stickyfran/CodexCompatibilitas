@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-635-aero-g7-notebook-pc-win10-2004-8830",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 635 Aero G7 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "8830",
+  "dmi_matches": [
+    "8830",
+    "HP ProBook 635 Aero G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142803-HP ProBook 635 Aero G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142803.exe",
+      "size_bytes": 741029256,
+      "md5": "a5e6c97904bee8c966843dc797cea21a",
+      "sha256": "68BB8DC6A3CCA38B1DCDCE234E3005A1A1681079993C85920201C18801146145",
+      "version": "5.00 A 1",
+      "release_date": "10/11/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

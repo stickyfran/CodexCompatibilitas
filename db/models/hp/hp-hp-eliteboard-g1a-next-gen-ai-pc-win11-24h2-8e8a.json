@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteboard-g1a-next-gen-ai-pc-win11-24h2-8e8a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteBoard G1a Next Gen AI PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8e8a",
+  "dmi_matches": [
+    "8e8a",
+    "HP EliteBoard G1a Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173280-HP EliteBoard G1a Next Gen AI Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173280.exe",
+      "size_bytes": 1051817152,
+      "md5": "576B913A01A05F8EFCF4F0F9EB050CAC",
+      "sha256": "226C31B0B5CC0F55004C11557DFDA3B3510A4F2B1FD10262D107E9F62E5089A8",
+      "version": "2.00 A 1",
+      "release_date": "6/2/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

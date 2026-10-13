@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-4-g1ir-16-inch-notebook-pc-win11-23h2-8e58",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G1iR 16 inch Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8E58,8E2E",
+  "dmi_matches": [
+    "8E58",
+    "8E2E",
+    "HP ProBook 4 G1iR 16 inch Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174341-HP ProBook/EliteBook 6 G1iR Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174341.exe",
+      "size_bytes": 1434587368,
+      "md5": "9B1952FF6C336C880BBE15B2BD89A532",
+      "sha256": "4BDFDB0182566F3F3409AAF424A062E7D24F76A66FAA0212CEB34E91F1A0BF0F",
+      "version": "4.00 A 1",
+      "release_date": "8/13/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

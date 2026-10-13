@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-fortis-flip-g1i-11-inch-notebook-pc-win11-23h2-8d1f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Fortis Flip G1i 11 inch Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8d1f,8d20",
+  "dmi_matches": [
+    "8d1f",
+    "8d20",
+    "HP Fortis Flip G1i 11 inch Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174544-HP Fortis Flip G1i Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174544.exe",
+      "size_bytes": 1109771384,
+      "md5": "2D7016D094CC2335E13138CAF8D379C9",
+      "sha256": "4A3A18E23A0839AC8D9F16D183F99A6D28626CF7D5567F4F7C79FA02120A38BD",
+      "version": "4.00 A 1",
+      "release_date": "9/2/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

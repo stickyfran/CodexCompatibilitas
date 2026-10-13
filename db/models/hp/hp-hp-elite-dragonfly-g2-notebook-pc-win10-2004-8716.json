@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-g2-notebook-pc-win10-2004-8716",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly G2 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "8716",
+  "dmi_matches": [
+    "8716",
+    "HP Elite Dragonfly G2 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114253-HP Elite Dragonfly G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114253.exe",
+      "size_bytes": 1358374384,
+      "md5": "0c5cb9b6be7ba66beec72ff3c37f67be",
+      "sha256": "94CBCB2AA00DE304B18FC47247965B7598166579710D697588F927CB3E3F7BEF",
+      "version": "3.00 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

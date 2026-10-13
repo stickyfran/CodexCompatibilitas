@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z6-g5-a-workstation-desktop-pc-win11-22h2-8b24",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z6 G5 A Workstation Desktop PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8B24",
+  "dmi_matches": [
+    "8B24",
+    "HP Z6 G5 A Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP154015-HP Z6 G5 A Windows 11",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp154001-154500/sp154015.exe",
+      "size_bytes": 1724761512,
+      "md5": "14CA513082FBB9DD6B693D7FCB4AA78B",
+      "sha256": "882389A5814299FFDFFE689E2923A90480B22D0301756EDD9F9977A1687AFBBC",
+      "version": "5.00 A 1",
+      "release_date": "8/5/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

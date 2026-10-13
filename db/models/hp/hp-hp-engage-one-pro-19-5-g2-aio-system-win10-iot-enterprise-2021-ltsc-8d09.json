@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-pro-19-5-g2-aio-system-win10-iot-enterprise-2021-ltsc-8d09",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Pro 19.5 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit)",
+  "system_id": "8D09",
+  "dmi_matches": [
+    "8D09",
+    "HP Engage One Pro 19.5 G2 AiO System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP160040-HP Engage One Pro AIO G2 IoT10 2021 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2021 LTSC, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160040.exe",
+      "size_bytes": 1180504440,
+      "md5": "3E2BC764DF77F912B2F169E5937A4BF0",
+      "sha256": "1DC8D5A50521247988B0990F41AFE05B90ED100DB507F71ED4837017D3CB163C",
+      "version": "2.00 A 1",
+      "release_date": "5/28/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

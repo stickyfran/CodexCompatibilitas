@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-435-g7-notebook-pc-win10-1903-8735",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 435 G7 Notebook PC (Windows 10 64-bit, 1903)",
+  "system_id": "8735",
+  "dmi_matches": [
+    "8735",
+    "HP ProBook x360 435 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP103625-HP ProBook x360 435 G7 Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103625.exe",
+      "size_bytes": 911044048,
+      "md5": "6a9ca37031f21acf6c35a4e8bf44739c",
+      "sha256": "FE853F182A7EB9E8AE0F5B2B5B4BC97B0F63E8F8EF74AD95F38C9F212F4186C0",
+      "version": "1.00 A 1",
+      "release_date": "4/22/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z2-mini-g3-workstation-win10-1803-82c0",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G3 Workstation (Windows 10 64-bit, 1803)",
+  "system_id": "82c0,82bf",
+  "dmi_matches": [
+    "82c0",
+    "82bf",
+    "HP Z2 Mini G3 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP88653-HP Z2 Mini G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88653.exe",
+      "size_bytes": 849315320,
+      "md5": "214f88389c5cbaf792ca4fec1a1ef422",
+      "sha256": "AF8D3566DC971D5878D613E5F467F4B4A374102DED7C0E8AC5EB2AC3F2AFB63A",
+      "version": "7.2018 K 1",
+      "release_date": "7/10/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

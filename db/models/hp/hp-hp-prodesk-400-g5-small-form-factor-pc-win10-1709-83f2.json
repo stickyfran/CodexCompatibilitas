@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g5-small-form-factor-pc-win10-1709-83f2",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 1709)",
+  "system_id": "83f2",
+  "dmi_matches": [
+    "83f2",
+    "HP ProDesk 400 G5 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP86888-HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp86501-87000/sp86888.exe",
+      "size_bytes": 753219208,
+      "md5": "65fde438dc21b5f8f81de262410db968",
+      "sha256": "FE4425EA4EA62A28B5939D4F658C23D58BF9BDE0359F7DD6B9DE86424D4DD3BF",
+      "version": "2.00 A 1",
+      "release_date": "7/31/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

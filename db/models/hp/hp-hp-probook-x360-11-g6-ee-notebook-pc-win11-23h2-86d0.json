@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g6-ee-notebook-pc-win11-23h2-86d0",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G6 EE Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "86d0",
+  "dmi_matches": [
+    "86d0",
+    "HP ProBook x360 11 G6 EE Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140810-HP ProBook x360 11 G6 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140810.exe",
+      "size_bytes": 676665144,
+      "md5": "277fcf863d02cbdfc8827b3608e47018",
+      "sha256": "C0DA16F2151C89E1902FDE5DC474069E2230469CA56CF94D1C8AFC803FDD68CD",
+      "version": "1.00 A 1",
+      "release_date": "6/24/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

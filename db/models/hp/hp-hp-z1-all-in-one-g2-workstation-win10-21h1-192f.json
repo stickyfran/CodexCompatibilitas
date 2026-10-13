@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z1-all-in-one-g2-workstation-win10-21h1-192f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 All-in-One G2 Workstation (Windows 10 64-bit, 21H1)",
+  "system_id": "192F",
+  "dmi_matches": [
+    "192F",
+    "HP Z1 All-in-One G2 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP72467-HP Z1 G2 Workstations Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp72001-72500/sp72467.exe",
+      "size_bytes": 517273632,
+      "md5": "47fe122f41563babaa0993915783f279",
+      "sha256": "2CE2C4623C4E4351E722A89C174A335887BF04526346623B89FF4B3780701096",
+      "version": "1.00 A 1",
+      "release_date": "8/16/2015 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-630-13-3-inch-g10-notebook-pc-win11-23h2-8b86",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 630 13.3 inch G10 Notebook PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8B86",
+  "dmi_matches": [
+    "8B86",
+    "HP EliteBook 630 13.3 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP170014-HP EB/PB/ZH 6x0/4x0/Pro G10/G6 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170014.exe",
+      "size_bytes": 2657464456,
+      "md5": "B8C4F2B44E1E7EF676B63C1CACF66D90",
+      "sha256": "2ACC37FD13A7DECE7748B26B6FFCA55B660C78DC0CF5290F7B95A7ED32DB74C7",
+      "version": "7.00 A 1",
+      "release_date": "1/19/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

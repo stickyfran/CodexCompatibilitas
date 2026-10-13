@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-840-14-inch-g10-notebook-pc-win11-25h2-8b41",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 14 inch G10 Notebook PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8B41",
+  "dmi_matches": [
+    "8B41",
+    "HP EliteBook 840 14 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP160195-HP EB/ZB/x360 8x0/1040/FF G10 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160195.exe",
+      "size_bytes": 2178574672,
+      "md5": "0FFC30E1385FAE0C17732A72E48AC4C4",
+      "sha256": "C8E1470949590CCC56CB6704F108024E5FA408B9E46AB6004235AD5823B4B43B",
+      "version": "8.00 A 1",
+      "release_date": "11/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

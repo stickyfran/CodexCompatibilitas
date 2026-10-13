@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-1030-g4-notebook-pc-win10-1809-8637",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1030 G4 Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "8637",
+  "dmi_matches": [
+    "8637",
+    "HP EliteBook x360 1030 G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101913-HP EliteBook x360 1030 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101913.exe",
+      "size_bytes": 820863664,
+      "md5": "dbe2140c2a7b0fed1c5aa2446e10c464",
+      "sha256": "8C101FAB3B02CF8A4E18A0640DE4C226B9C83AB120EAA30C567E36E76D599F23",
+      "version": "5.00 A 1",
+      "release_date": "3/16/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

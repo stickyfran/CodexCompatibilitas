@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g7-small-form-factor-pc-win10-1903-8719",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G7 Small Form Factor PC (Windows 10 64-bit, 1903)",
+  "system_id": "8719",
+  "dmi_matches": [
+    "8719",
+    "HP ProDesk 400 G7 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP105836-HP ElitePro 4/6/800 G6 DM/SFF Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105836.exe",
+      "size_bytes": 409501336,
+      "md5": "35304ed331018a2639886ac40ef8edaa",
+      "sha256": "8E9B84FDCF6CAA7CBE7A843CAA22EA629C5FD6BB696325C6AD76B73669EE8060",
+      "version": "1.00 A 1",
+      "release_date": "7/3/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

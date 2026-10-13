@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-17-g6-mobile-workstation-win10-1909-860c",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 17 G6 Mobile Workstation (Windows 10 64-bit, 1909)",
+  "system_id": "860c",
+  "dmi_matches": [
+    "860c",
+    "HP ZBook 17 G6 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110037-HP ZBook 15/17 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110037.exe",
+      "size_bytes": 1282268904,
+      "md5": "e8c202b7b5673020103235ab00f5507e",
+      "sha256": "454E06B0F9C80FBCCCFA7C18BA8945E5B15FCB7402ED8AB672DA3E666CBFD095",
+      "version": "6.00 A 1",
+      "release_date": "9/11/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

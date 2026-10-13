@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-630-13-inch-g9-notebook-pc-win11-21h2-897a",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 630 13 inch G9 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "897A",
+  "dmi_matches": [
+    "897A",
+    "HP EliteBook 630 13 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149088-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149088.exe",
+      "size_bytes": 1580264856,
+      "md5": "7bb8421a071d04892d9cc59adbb80964",
+      "sha256": "B9E515DBF58E98B35FEA6164391B3DE1110E3860DF82C692BF676BDA3E2C486E",
+      "version": "5.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

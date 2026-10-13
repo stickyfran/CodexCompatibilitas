@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-x360-11-g5-ee-notebook-pc-win11-22h2-86cf",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G5 EE Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "86cf",
+  "dmi_matches": [
+    "86cf",
+    "HP ProBook x360 11 G5 EE Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144389-HP ProBook x360 G5 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144001-144500/sp144389.exe",
+      "size_bytes": 829927528,
+      "md5": "b2875cfafe0c19c00255f49886efe671",
+      "sha256": "90DA21DA33EFDA8CF4841EF0637AD653E239EA0F8B7AB43685E3062DA39D20F0",
+      "version": "2.00 A 1",
+      "release_date": "1/20/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

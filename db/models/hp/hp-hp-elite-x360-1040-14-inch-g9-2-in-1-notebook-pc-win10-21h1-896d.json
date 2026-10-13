@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-x360-1040-14-inch-g9-2-in-1-notebook-pc-win10-21h1-896d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "896d",
+  "dmi_matches": [
+    "896d",
+    "HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144912-HP EB 8x0 1040 ZB G9 MWS Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144912.exe",
+      "size_bytes": 2507886208,
+      "md5": "d6e501602e579038895e0ca54ecc1301",
+      "sha256": "0651529DE6672656C057A63308D5EDAD7851BA6D959135279C121813D8E43685",
+      "version": "3.00 A 1",
+      "release_date": "2/24/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

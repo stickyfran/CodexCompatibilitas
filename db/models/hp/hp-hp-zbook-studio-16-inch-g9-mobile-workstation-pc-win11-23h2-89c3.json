@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-studio-16-inch-g9-mobile-workstation-pc-win11-23h2-89c3",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 23H2)",
+  "system_id": "89c3",
+  "dmi_matches": [
+    "89c3",
+    "HP ZBook Studio 16 inch G9 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158313-HP ZBook Studio G9 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158313.exe",
+      "size_bytes": 1801961768,
+      "md5": "B5132C8C15AE5BF049E4D8830BDC6C59",
+      "sha256": "7BB856B361FDCBA2BE875EB141305AC04BB35A7A01344030E5F5291AC74099F9",
+      "version": "6.00 A 1",
+      "release_date": "5/20/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

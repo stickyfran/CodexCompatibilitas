@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-650-g7-notebook-pc-win11-21h2-882d",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 650 G7 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "882d",
+  "dmi_matches": [
+    "882d",
+    "HP ProBook 650 G7 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP140725-HP Probook 6x0 G7 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140725.exe",
+      "size_bytes": 1220001096,
+      "md5": "d007d400d2980eaac36bde0a8215a52b",
+      "sha256": "A81DEC0B8D2E36FAC12C1124756FFCF3BFA0A5B00678C629B76D2E9D27E44630",
+      "version": "1.00 A 1",
+      "release_date": "6/17/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

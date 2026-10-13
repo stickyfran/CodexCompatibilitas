@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-fury-15-6-inch-g8-mobile-workstation-pc-win11-22h2-8870",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8870",
+  "dmi_matches": [
+    "8870",
+    "HP ZBook Fury 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142669-HP ZBook Fury G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142669.exe",
+      "size_bytes": 1473515488,
+      "md5": "1d565a29733724a7db7d348f67b48bb9",
+      "sha256": "ECBC5B9E9687B18DE329537A5DD1EE3EBCCDFD189412C30CAD640455EF08D863",
+      "version": "2.00 A 1",
+      "release_date": "9/27/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-405-g8-small-form-factor-pc-win10-22h2-8884",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G8 Small Form Factor PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8884",
+  "dmi_matches": [
+    "8884",
+    "HP ProDesk 405 G8 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138601-HP ElitePro 4/805 G8 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138601.exe",
+      "size_bytes": 1527476312,
+      "md5": "66f3ffba1ecf5b8ed1bf7ad02b4bf5c0",
+      "sha256": "D94BF76E06D3A2A9B662A7CEC48BC61FE6A129D7699DCE576ED7ECB572ABB888",
+      "version": "2.00 A 1",
+      "release_date": "3/3/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

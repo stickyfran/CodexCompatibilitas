@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-pro-x360-fortis-11-inch-g11-notebook-pc-win11-22h2-8abd",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 Fortis 11 inch G11 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8abd,8c3b,8c3c",
+  "dmi_matches": [
+    "8abd",
+    "8c3b",
+    "8c3c",
+    "HP Pro x360 Fortis 11 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158128-HP Pro x360 Fortis G11 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158128.exe",
+      "size_bytes": 1335778600,
+      "md5": "F4DEB25B01F40C494592AF3FCD52F5F2",
+      "sha256": "7F1C61FA4AC9BE444FC4066D9BB434669306E537A926B674E9FED97741CF0657",
+      "version": "7.00 1 A",
+      "release_date": "4/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

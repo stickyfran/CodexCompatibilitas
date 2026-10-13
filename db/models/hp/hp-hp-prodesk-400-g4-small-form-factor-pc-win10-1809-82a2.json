@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g4-small-form-factor-pc-win10-1809-82a2",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G4 Small Form Factor PC (Windows 10 64-bit, 1809)",
+  "system_id": "82a2",
+  "dmi_matches": [
+    "82a2",
+    "HP ProDesk 400 G4 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99813-HP ProDesk 4x0 G4 SFF/MT Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99813.exe",
+      "size_bytes": 962806512,
+      "md5": "afe329a60af7a2915feefa0bbcc4e7d4",
+      "sha256": "4C7ECCFB43F3FCD53105F06AE4D5E98A747651AD2599D030C1EAAEE9F5F0009E",
+      "version": "8.00 A 1",
+      "release_date": "10/25/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

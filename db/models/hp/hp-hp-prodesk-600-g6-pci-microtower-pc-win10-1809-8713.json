@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-600-g6-pci-microtower-pc-win10-1809-8713",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 1809)",
+  "system_id": "8713",
+  "dmi_matches": [
+    "8713",
+    "HP ProDesk 600 G6 PCI Microtower PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP123507-HP ElitePro 4/6/8x0 G6/7 PC Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123507.exe",
+      "size_bytes": 1684494984,
+      "md5": "2eec91663d6a6a8b4d4279268d9e6f7d",
+      "sha256": "F1CEB2AC35FB3EFF772FC77453C263A2452836F8E1432ACE037DC1D0EF0B1B36",
+      "version": "5.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zbook-firefly-16-inch-g9-mobile-workstation-pc-win11-25h2-8abb",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8abb,896d",
+  "dmi_matches": [
+    "8abb",
+    "896d",
+    "HP ZBook Firefly 16 inch G9 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP155095-HP EB 8x0 1040 ZB G9 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155001-155500/sp155095.exe",
+      "size_bytes": 2088474584,
+      "md5": "BEEBB93DBD4FF71B410CFCB0B132C85C",
+      "sha256": "F4582C68C98A25F3328ABC43B144B102017A2BE3226D75056373D8B5A8AC00F8",
+      "version": "8.00 A 1",
+      "release_date": "11/21/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

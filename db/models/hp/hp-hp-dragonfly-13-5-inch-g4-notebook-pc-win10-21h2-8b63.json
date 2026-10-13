@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-dragonfly-13-5-inch-g4-notebook-pc-win10-21h2-8b63",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Dragonfly 13.5 inch G4 Notebook PC (Windows 10 64-bit, 21H2)",
+  "system_id": "8b63",
+  "dmi_matches": [
+    "8b63",
+    "HP Dragonfly 13.5 inch G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147695-HP Elite Dragonfly G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147695.exe",
+      "size_bytes": 1075721664,
+      "md5": "754e1c7446bcc15818864b2b04b0f100",
+      "sha256": "F1E3BB80E7C87162FE8CACCA4EFA83D33814735C9E89EB828400075DBCFEED73",
+      "version": "2.00 A 1",
+      "release_date": "6/8/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

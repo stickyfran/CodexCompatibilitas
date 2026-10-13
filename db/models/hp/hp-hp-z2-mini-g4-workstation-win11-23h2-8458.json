@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z2-mini-g4-workstation-win11-23h2-8458",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G4 Workstation (Windows 11 64-bit, 23H2)",
+  "system_id": "8458,8457",
+  "dmi_matches": [
+    "8458",
+    "8457",
+    "HP Z2 Mini G4 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP152173-HP Z2G4 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152001-152500/sp152173.exe",
+      "size_bytes": 1321129280,
+      "md5": "51fe239ba30c71f763a6a5e956e05635",
+      "sha256": "445975EAADF8B6793B5C258FF07FDCE625DA3F006E3667E3F292D953626FD68B",
+      "version": "1.00 A 1",
+      "release_date": "4/15/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

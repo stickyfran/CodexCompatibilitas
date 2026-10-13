@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z4-g5-workstation-desktop-pc-win11-25h2-8962",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 G5 Workstation Desktop PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8962",
+  "dmi_matches": [
+    "8962",
+    "HP Z4 G5 Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158929-HP Z4 G5, Z6 G5, Z8 G5 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158929.exe",
+      "size_bytes": 2904660640,
+      "md5": "185BC1A7E9032FA2E8431433B2DB2296",
+      "sha256": "99B9B38708DB9CE9144BA610A47F7797A8FB5E8225DB2D48FA36B8622A6BB897",
+      "version": "12.00 A 1",
+      "release_date": "5/20/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

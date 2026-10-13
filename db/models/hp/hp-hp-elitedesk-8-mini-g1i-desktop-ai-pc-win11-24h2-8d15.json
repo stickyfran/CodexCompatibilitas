@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-8-mini-g1i-desktop-ai-pc-win11-24h2-8d15",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 8 Mini G1i Desktop AI PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8D15",
+  "dmi_matches": [
+    "8D15",
+    "HP EliteDesk 8 Mini G1i Desktop AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173483-HP ProDesk/Elite Desk Mini G1i Desktop Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173483.exe",
+      "size_bytes": 2339228368,
+      "md5": "EDB7AAF447075DD7993267B0CF0F4474",
+      "sha256": "C7A6601A1C6A6D3F226ADBCACC16C829C97B156B890F69AA91C937A86F3B2A3F",
+      "version": "5.00 A 1",
+      "release_date": "6/12/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

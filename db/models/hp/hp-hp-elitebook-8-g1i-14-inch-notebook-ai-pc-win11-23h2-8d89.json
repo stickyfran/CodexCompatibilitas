@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-8-g1i-14-inch-notebook-ai-pc-win11-23h2-8d89",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8D89",
+  "dmi_matches": [
+    "8D89",
+    "HP EliteBook 8 G1i 14 inch Notebook AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174297-HP Elite/ZBook 8 G1i NB/MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174297.exe",
+      "size_bytes": 2269152728,
+      "md5": "25ECE6752DEE697AAB316189D91E15B0",
+      "sha256": "6912DD15671EF87B9C90D87496C159DB5F137695E8825DB0F13743A7A85517B0",
+      "version": "5.00 A 1",
+      "release_date": "8/11/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

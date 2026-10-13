@@ -1,0 +1,31 @@
+{
+  "id": "hp-hp-zhan-66-pro-g3-24-all-in-one-pc-win10-1909-871b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 10 64-bit, 1909)",
+  "system_id": "871b,871c,8810,880f",
+  "dmi_matches": [
+    "871b",
+    "871c",
+    "8810",
+    "880f",
+    "HP ZHAN 66 Pro G3 24 All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP123509-HP ProOne 4/600 G6 AiO Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123509.exe",
+      "size_bytes": 1554374400,
+      "md5": "e8889e39a0d33623c3f26e0f866bfef5",
+      "sha256": "57E6944EC343E4409C9E71A5AA6E1BCFD5F572457FFCAC7BCC8E4953FAE06407",
+      "version": "5.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

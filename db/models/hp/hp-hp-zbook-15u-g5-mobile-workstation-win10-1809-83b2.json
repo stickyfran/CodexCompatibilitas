@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-15u-g5-mobile-workstation-win10-1809-83b2",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 15u G5 Mobile Workstation (Windows 10 64-bit, 1809)",
+  "system_id": "83b2",
+  "dmi_matches": [
+    "83b2",
+    "HP ZBook 15u G5 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99708-HP Elite/ZBook 8x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99708.exe",
+      "size_bytes": 848397040,
+      "md5": "df8cccdfae4ff9eba67364e050b5f204",
+      "sha256": "B52DF648A7C3F83DBA5142FE3D3F897A3258ADAAA0E4ACEE892D9476E16C0CA5",
+      "version": "10.0 A 1",
+      "release_date": "11/22/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

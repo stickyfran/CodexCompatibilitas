@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-445-14-inch-g11-notebook-pc-win10-22h2-8c79",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 14 inch G11 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8C79",
+  "dmi_matches": [
+    "8C79",
+    "HP ProBook 445 14 inch G11 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP153445-HP ProBook/EliteBook 4/6x5 G11 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp153001-153500/sp153445.exe",
+      "size_bytes": 982367240,
+      "md5": "7be949d3ad8feb9990f5a21f0f1b7e13",
+      "sha256": "8E6C270835184C96076024D25642054DEF1FB1CEF204828EE3E61A977FA1E0DF",
+      "version": "2.00 A 1",
+      "release_date": "6/25/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-tower-g1i-workstation-desktop-pc-win11-23h2-8d3c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Tower G1i Workstation Desktop PC (Windows 11 64-bit, 23H2)",
+  "system_id": "8D3C",
+  "dmi_matches": [
+    "8D3C",
+    "HP Z2 Tower G1i Workstation Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP172110-HP Z2 TWR SFF G1i Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 23H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp172001-172500/sp172110.exe",
+      "size_bytes": 3029645104,
+      "md5": "E247EE9440D626275AFEBE21772CB524",
+      "sha256": "86A82D0D468FC3967E2FC126D2184E9DC690F762632D5BB7380BACD08C4576F6",
+      "version": "3.00 A 1",
+      "release_date": "3/27/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

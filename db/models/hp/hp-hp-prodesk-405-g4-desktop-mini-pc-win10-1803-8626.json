@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-405-g4-desktop-mini-pc-win10-1803-8626",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G4 Desktop Mini PC (Windows 10 64-bit, 1803)",
+  "system_id": "8626",
+  "dmi_matches": [
+    "8626",
+    "HP ProDesk 405 G4 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95002-HP ProDesk 405 G4 DM Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95002.exe",
+      "size_bytes": 361739704,
+      "md5": "7a59fa69de83fb3400867b04505074f8",
+      "sha256": "E633F403198406FAC3CE30D0D9C84AFF5EAFF94A29F106C013F757D1EABB9987",
+      "version": "1.00 A 1",
+      "release_date": "4/2/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

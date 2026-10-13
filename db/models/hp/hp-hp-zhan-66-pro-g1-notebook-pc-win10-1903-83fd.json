@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zhan-66-pro-g1-notebook-pc-win10-1903-83fd",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro G1 Notebook PC (Windows 10 64-bit, 1903)",
+  "system_id": "83fd,8471",
+  "dmi_matches": [
+    "83fd",
+    "8471",
+    "HP ZHAN 66 Pro G1 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP96289-HP ZHAN 66 Pro G1 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96289.exe",
+      "size_bytes": 809115856,
+      "md5": "0142a2335f69e31ed3e6d0790e94dee0",
+      "sha256": "1BF3851A3FB28E48647C41FCF8CA1202E60F78E98A84734C5D2C0E47B1E00635",
+      "version": "7.00 A 1",
+      "release_date": "5/13/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

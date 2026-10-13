@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-6-g2i-14-inch-notebook-next-gen-ai-pc-win11-25h2-8eb9",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 6 G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8EB9",
+  "dmi_matches": [
+    "8EB9",
+    "HP EliteBook 6 G2i 14 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174056-HP Pro/EliteBook 4/6 G2i NB Next Gen AI Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174056.exe",
+      "size_bytes": 1712117128,
+      "md5": "54A4738AD6FA3758D352C94DCD5885F5",
+      "sha256": "A49582596637AD6F5DC0D12B652FBAA8871DE5631582BC83D9B0A7253FF732DC",
+      "version": "2.00 A 1",
+      "release_date": "8/4/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

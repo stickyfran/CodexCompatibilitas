@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-745-g5-notebook-pc-win10-1903-83d5",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 745 G5 Notebook PC (Windows 10 64-bit, 1903)",
+  "system_id": "83d5",
+  "dmi_matches": [
+    "83d5",
+    "HP EliteBook 745 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101496-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101496.exe",
+      "size_bytes": 819178504,
+      "md5": "ae638cd630e179ebcf04d0874122a164",
+      "sha256": "9D97A53A29FB150EDCDC5762CB8D19A543D34395608736EE01093C475A31FA84",
+      "version": "7.00 A 1",
+      "release_date": "1/31/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

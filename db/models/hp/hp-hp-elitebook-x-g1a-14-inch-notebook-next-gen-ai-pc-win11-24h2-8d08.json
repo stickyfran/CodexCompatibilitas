@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x-g1a-14-inch-notebook-next-gen-ai-pc-win11-24h2-8d08",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook X G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8D08",
+  "dmi_matches": [
+    "8D08",
+    "HP EliteBook X G1a 14 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174481-HP EB X G1a Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174481.exe",
+      "size_bytes": 1023824936,
+      "md5": "9D6AAC32739D59C4EF99926F85F956D1",
+      "sha256": "DD3504D30F12E3D764EE48B79E12B4271F6767740A17454819BBDAB30D3EE1BA",
+      "version": "6.00 A 1",
+      "release_date": "8/31/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

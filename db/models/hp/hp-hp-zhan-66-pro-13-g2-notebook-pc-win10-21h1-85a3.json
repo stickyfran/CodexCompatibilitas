@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zhan-66-pro-13-g2-notebook-pc-win10-21h1-85a3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro 13 G2 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "85a3",
+  "dmi_matches": [
+    "85a3",
+    "HP ZHAN 66 Pro 13 G2 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113701-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113701.exe",
+      "size_bytes": 1396861184,
+      "md5": "53887496f63b248979a92f6735a1b89c",
+      "sha256": "3CD9ABFE56268408BA593635518B96A5EFCE652D24BF964C99225367B3880CAC",
+      "version": "9.00 A 1",
+      "release_date": "6/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

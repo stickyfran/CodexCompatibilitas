@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-830-13-inch-g10-notebook-pc-win10-22h2-8b41",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 830 13 inch G10 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8B41",
+  "dmi_matches": [
+    "8B41",
+    "HP EliteBook 830 13 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147159-HP EB/ZB/x360 8x0/1040/FF G10 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147159.exe",
+      "size_bytes": 1809359408,
+      "md5": "7994dd38a25c5afdad805d088b374f96",
+      "sha256": "2090C9CBFFFFE10BA73189DA485A8060D9BB492D03C59D79099D89E667E896D8",
+      "version": "2.00 A 1",
+      "release_date": "5/24/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-835-13-3-inch-g9-notebook-pc-win11-22h2-8990",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8990",
+  "dmi_matches": [
+    "8990",
+    "HP EliteBook 835 13.3 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP153111-HP EliteBook 8x5 G9 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp153001-153500/sp153111.exe",
+      "size_bytes": 1072044248,
+      "md5": "10db8e452bb3ad4d462124a13bb89ff8",
+      "sha256": "CD58961D4726EF4498AF2B6CCE70F8A7F8609DC19AD7613FA267EC0C5A4A41D0",
+      "version": "8.00 A 1",
+      "release_date": "12/5/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

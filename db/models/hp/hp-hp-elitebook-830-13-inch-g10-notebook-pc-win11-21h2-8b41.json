@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-830-13-inch-g10-notebook-pc-win11-21h2-8b41",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 830 13 inch G10 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8B41",
+  "dmi_matches": [
+    "8B41",
+    "HP EliteBook 830 13 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP150833-HP EB/ZB/x360 8x0/1040/FF G10 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150833.exe",
+      "size_bytes": 1635333944,
+      "md5": "70e16f2d80ecda524bdfdfae6fdbbc6d",
+      "sha256": "66635977AAD6C3C90A1AE5C43BE5D28D888E5F78F5414C788D7D7E559BF6D12D",
+      "version": "4.00 A 1",
+      "release_date": "1/12/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

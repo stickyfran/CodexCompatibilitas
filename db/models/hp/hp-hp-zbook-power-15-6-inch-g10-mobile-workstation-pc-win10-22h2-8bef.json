@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-power-15-6-inch-g10-mobile-workstation-pc-win10-22h2-8bef",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8bef",
+  "dmi_matches": [
+    "8bef",
+    "HP ZBook Power 15.6 inch G10 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147614-HP ZBook Power G10 MWS Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147614.exe",
+      "size_bytes": 1625250344,
+      "md5": "6892669d22c8a381f3bf09a7dda73439",
+      "sha256": "324CF1BE2D3BCF317B2733FA9E1C49DF3E38565EEE82C17EAAAD6CDC60AA4BCB",
+      "version": "2.00 A 1",
+      "release_date": "6/9/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

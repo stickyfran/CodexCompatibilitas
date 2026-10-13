@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-400-g5-small-form-factor-pc-win10-21h2-83f2",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 21H2)",
+  "system_id": "83f2",
+  "dmi_matches": [
+    "83f2",
+    "HP ProDesk 400 G5 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114246-HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114246.exe",
+      "size_bytes": 1488636064,
+      "md5": "57143ed172cb829247de51069e940ae5",
+      "sha256": "D3EA79319E4844A414506F3AFA72022F01E19092C617B7DBD5C971446F76015C",
+      "version": "13.00 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-fury-15-g7-mobile-workstation-win10-1909-8783",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 15 G7 Mobile Workstation (Windows 10 64-bit, 1909)",
+  "system_id": "8783",
+  "dmi_matches": [
+    "8783",
+    "HP ZBook Fury 15 G7 Mobile Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110547-HP ZBook Fury 15/17 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110547.exe",
+      "size_bytes": 1812322360,
+      "md5": "d9fe5fa66024448d8633b28e185fc664",
+      "sha256": "94F8266B7D70927917134589456D9B6802C85C642A6C9592A7902CD2854CA139",
+      "version": "2.00 A 1",
+      "release_date": "10/21/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

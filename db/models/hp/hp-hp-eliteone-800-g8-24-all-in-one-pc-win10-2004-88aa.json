@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-800-g8-24-all-in-one-pc-win10-2004-88aa",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G8 24 All-in-One PC (Windows 10 64-bit, 2004)",
+  "system_id": "88AA",
+  "dmi_matches": [
+    "88AA",
+    "HP EliteOne 800 G8 24 All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP123514-HP EliteOne 800 G8 AIO Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123514.exe",
+      "size_bytes": 812811768,
+      "md5": "66c79b22329e3795c0c57037984fda43",
+      "sha256": "34F1B96C534748BC91AA1568C215322979FF601CC7B4020327EE8A3F78F074CE",
+      "version": "3.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

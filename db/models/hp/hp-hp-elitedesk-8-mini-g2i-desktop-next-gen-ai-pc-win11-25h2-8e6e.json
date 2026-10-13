@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitedesk-8-mini-g2i-desktop-next-gen-ai-pc-win11-25h2-8e6e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 8 Mini G2i Desktop Next Gen AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8E6E",
+  "dmi_matches": [
+    "8E6E",
+    "HP EliteDesk 8 Mini G2i Desktop Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174424-HP EliteDesk 8 Mini G2i Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174424.exe",
+      "size_bytes": 2361530136,
+      "md5": "13103DF5F125FF920951462B72E9EECA",
+      "sha256": "1E3819C9BEA2A954A125217652D8F5CC5505626FA3F19192DA53CFBD2BA67CF9",
+      "version": "3.00 A 1",
+      "release_date": "8/21/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

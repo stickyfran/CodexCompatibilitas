@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-prodesk-600-g6-small-form-factor-pc-win11-22h2-8714",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G6 Small Form Factor PC (Windows 11 64-bit, 22H2)",
+  "system_id": "8714",
+  "dmi_matches": [
+    "8714",
+    "HP ProDesk 600 G6 Small Form Factor PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP143122-HP ElitePro 4/600 G6/G7 SFF Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143122.exe",
+      "size_bytes": 1081721896,
+      "md5": "118520e3a06e91ffeac7cc8ab527c64a",
+      "sha256": "7A3F73D4EC56799D2C356C82DF8E71F57E77100FB2804633991DDD4A06193C58",
+      "version": "2.00 A 1",
+      "release_date": "10/25/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

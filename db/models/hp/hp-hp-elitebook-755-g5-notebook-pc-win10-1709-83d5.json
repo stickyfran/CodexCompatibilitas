@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-755-g5-notebook-pc-win10-1709-83d5",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 1709)",
+  "system_id": "83D5",
+  "dmi_matches": [
+    "83D5",
+    "HP EliteBook 755 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP90334-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1709",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90334.exe",
+      "size_bytes": 572595576,
+      "md5": "41cd0ea71984888812365d37386026b4",
+      "sha256": "C6AF2DA530AD2A35B16FF0553115007046029BF6212DAB5B48E480E202BC692E",
+      "version": "2.00 A 1",
+      "release_date": "8/3/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "hp-hp-zbook-fury-16-g10-mobile-workstation-pc-win11-21h2-8b92",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 16 G10 Mobile Workstation PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8b92,8bd8,8b94,8b93",
+  "dmi_matches": [
+    "8b92",
+    "8bd8",
+    "8b94",
+    "8b93",
+    "HP ZBook Fury 16 G10 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149066-HP ZBook Fury G10 MWS Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149066.exe",
+      "size_bytes": 1682191904,
+      "md5": "284d02b733a4ab204380e27a41f844b2",
+      "sha256": "0257AC2B4946FA852D13F9C26F82B5393572A62AEA5C93DE808BCC61986BB51A",
+      "version": "2.00 A 1",
+      "release_date": "9/1/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

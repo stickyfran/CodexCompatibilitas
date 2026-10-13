@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-x360-1040-14-inch-g11-2-in-1-notebook-pc-win10-22h2-8c52",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8c52",
+  "dmi_matches": [
+    "8c52",
+    "HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP152764-HP EliteBook 1040 G11 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152764.exe",
+      "size_bytes": 2414320552,
+      "md5": "7d7a71c5cbe166c68a0bf464e14cecd6",
+      "sha256": "4A911192E92FBA8EC90280213757A518E3601131FE6D41D2624538AD844B0961",
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

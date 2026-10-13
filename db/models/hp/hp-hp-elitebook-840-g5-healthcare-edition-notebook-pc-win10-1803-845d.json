@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-840-g5-healthcare-edition-notebook-pc-win10-1803-845d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 G5 Healthcare Edition Notebook PC (Windows 10 64-bit, 1803)",
+  "system_id": "845d",
+  "dmi_matches": [
+    "845d",
+    "HP EliteBook 840 G5 Healthcare Edition Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95434-HP Elite/ZBook 8x0 G5 Win 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95434.exe",
+      "size_bytes": 770097552,
+      "md5": "77cbef2e5fafa77503efd4c9f484ab39",
+      "sha256": "8CAF43D8484EB8C81F4B10C33508A1E653DF325508D5A61E1EE414A7327B12EA",
+      "version": "7.00 A 1",
+      "release_date": "3/21/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

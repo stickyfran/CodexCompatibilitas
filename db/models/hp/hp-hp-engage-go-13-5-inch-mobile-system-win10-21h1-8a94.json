@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-go-13-5-inch-mobile-system-win10-21h1-8a94",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go 13.5 inch Mobile System (Windows 10 64-bit, 21H1)",
+  "system_id": "8a94",
+  "dmi_matches": [
+    "8a94",
+    "HP Engage Go 13.5 inch Mobile System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144918-HP Engage Go 13.5 inch Mobile System Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144918.exe",
+      "size_bytes": 986054576,
+      "md5": "566c303e075712e8ecfac50853e8fdd5",
+      "sha256": "09663C938D58BF3835136A1BDA2C2BB85CDD71778764B4EA5E0F55E1ED5594C2",
+      "version": "2.00 A 1",
+      "release_date": "2/16/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

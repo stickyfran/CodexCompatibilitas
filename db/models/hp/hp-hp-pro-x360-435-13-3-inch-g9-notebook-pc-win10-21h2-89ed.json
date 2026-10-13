@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-pro-x360-435-13-3-inch-g9-notebook-pc-win10-21h2-89ed",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 10 64-bit, 21H2)",
+  "system_id": "89ed",
+  "dmi_matches": [
+    "89ed",
+    "HP Pro x360 435 13.3 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144957-HP Pro x360 435 G9 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144957.exe",
+      "size_bytes": 994238112,
+      "md5": "028540ad07fa51baadeef9af181c4d10",
+      "sha256": "E175942E9500504F27DA5EBE602FFDF84495FC4ECB933EFDA3DC14FADBE72607",
+      "version": "3.00 A 1",
+      "release_date": "2/22/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

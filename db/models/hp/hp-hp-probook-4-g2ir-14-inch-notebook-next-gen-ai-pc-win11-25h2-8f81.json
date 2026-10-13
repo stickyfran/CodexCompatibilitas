@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-4-g2ir-14-inch-notebook-next-gen-ai-pc-win11-25h2-8f81",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G2iR 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8f81",
+  "dmi_matches": [
+    "8f81",
+    "HP ProBook 4 G2iR 14 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174788-HP Pro/EliteBook 4/6 G2iR NB Next Gen AI Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174788.exe",
+      "size_bytes": 1534241176,
+      "md5": "506072E5DF8A2E2D8462403E5218E8DA",
+      "sha256": "23421EAFD82087A9B4A59E466946512D94C0F7C075076CEC96273AF275C75A6E",
+      "version": "2.00 A 1",
+      "release_date": "9/30/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

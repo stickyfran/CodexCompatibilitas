@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-elitedesk-800-65w-g4-desktop-mini-pc-win10-1903-83e2",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 65W G4 Desktop Mini PC (Windows 10 64-bit, 1903)",
+  "system_id": "83e2,8409,845a",
+  "dmi_matches": [
+    "83e2",
+    "8409",
+    "845a",
+    "HP EliteDesk 800 65W G4 Desktop Mini PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP101465-HP ElitePro 4/6/800 G4 PC Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1903",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101465.exe",
+      "size_bytes": 406630272,
+      "md5": "102e6c6983216fab47f43f3e1977a6a7",
+      "sha256": "A11FB5CD0562672BF03709A8DCD8141F306C143C1C6DFD2F118A6E00CA39EEBE",
+      "version": "11.0 A 1",
+      "release_date": "2/4/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

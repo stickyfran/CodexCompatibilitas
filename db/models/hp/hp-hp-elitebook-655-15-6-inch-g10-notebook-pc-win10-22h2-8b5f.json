@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-655-15-6-inch-g10-notebook-pc-win10-22h2-8b5f",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 655 15.6 inch G10 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8B5F",
+  "dmi_matches": [
+    "8B5F",
+    "HP EliteBook 655 15.6 inch G10 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP147284-HP Pro/EliteBook 4/6x5 G10 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147284.exe",
+      "size_bytes": 872470216,
+      "md5": "4e9162ac83649b6ce51f6ab47a2dfb61",
+      "sha256": "32771130739BC51470B6FB301817C7F26591517451FE2F16C7543CA700A226F9",
+      "version": "2.00 A 1",
+      "release_date": "5/22/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

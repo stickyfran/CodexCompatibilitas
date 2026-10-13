@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-8-g1i-14-inch-mobile-workstation-pc-win10-22h2-8d94",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 8 G1i 14 inch Mobile Workstation PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8d94",
+  "dmi_matches": [
+    "8d94",
+    "HP ZBook 8 G1i 14 inch Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP157757-HP Elite/ZBook 8 G1i NB/MWS Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157757.exe",
+      "size_bytes": 2466788672,
+      "md5": "4D26E7C4F550D8B4F440C066FCE3B6E6",
+      "sha256": "04888830FFC59F7705CEEAB9817040B29AA74C39AB30F1419214DA44B57B8F78",
+      "version": "1.00 A 1",
+      "release_date": "3/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

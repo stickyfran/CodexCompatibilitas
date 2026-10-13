@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-1040-g8-notebook-pc-win11-21h2-8720",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1040 G8 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8720",
+  "dmi_matches": [
+    "8720",
+    "HP EliteBook x360 1040 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142792-HP EliteBook x360 1030/40 G8 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142792.exe",
+      "size_bytes": 1281992344,
+      "md5": "427b066253b91196318970e4faab5d4c",
+      "sha256": "49F184ABD28400F53F9C5D65E63311673CEFDB06AEE274A0A7593C5696AB7631",
+      "version": "3.00 A 1",
+      "release_date": "10/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

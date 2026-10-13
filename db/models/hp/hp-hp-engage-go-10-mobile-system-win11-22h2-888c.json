@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-go-10-mobile-system-win11-22h2-888c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go 10 Mobile System (Windows 11 64-bit, 22H2)",
+  "system_id": "888c",
+  "dmi_matches": [
+    "888c",
+    "HP Engage Go 10 Mobile System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP158770-HP Engage Go 10 Mobile System Win11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158770.exe",
+      "size_bytes": 1421640136,
+      "md5": "D2D52CCFCDCDBB7A41CA2B49A1E1D414",
+      "sha256": "BC65BE2A54224135B163410D77D14464035ABE459E1E6466B9C5A5E066A079CB",
+      "version": "7.00 A 1",
+      "release_date": "5/12/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

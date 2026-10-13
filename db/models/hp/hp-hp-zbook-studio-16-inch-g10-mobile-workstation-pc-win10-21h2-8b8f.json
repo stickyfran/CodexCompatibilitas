@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-studio-16-inch-g10-mobile-workstation-pc-win10-21h2-8b8f",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio 16 inch G10 Mobile Workstation PC (Windows 10 64-bit, 21H2)",
+  "system_id": "8b8f",
+  "dmi_matches": [
+    "8b8f",
+    "HP ZBook Studio 16 inch G10 Mobile Workstation PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149061-HP ZBook Studio G10 MWS Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149061.exe",
+      "size_bytes": 1577665768,
+      "md5": "ab04b70048fd0db3e3dabbb36f4594c3",
+      "sha256": "BF88893BFA6CED2002893211C4201C317292F25A0FC4032046194227A3407774",
+      "version": "2.00 A 1",
+      "release_date": "8/30/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

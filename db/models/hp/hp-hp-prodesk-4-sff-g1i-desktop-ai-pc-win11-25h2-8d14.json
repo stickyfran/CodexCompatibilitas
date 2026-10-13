@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-prodesk-4-sff-g1i-desktop-ai-pc-win11-25h2-8d14",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 4 SFF G1i Desktop AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8D14,8FAE",
+  "dmi_matches": [
+    "8D14",
+    "8FAE",
+    "HP ProDesk 4 SFF G1i Desktop AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173938-HP EliteDesk/ProDesk Z1 G1i Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173938.exe",
+      "size_bytes": 2828993104,
+      "md5": "4A2EFDACEE09D41C5A170690CF5C14F8",
+      "sha256": "5A2B92C7CBD3B29EDCFAB106FF6AAF19D75409521ED847B4A5589F0A97E6A852",
+      "version": "8.00 A 1",
+      "release_date": "8/31/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

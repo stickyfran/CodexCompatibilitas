@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-one-all-in-one-system-model-143-win10-iot-enterprise-2016-ltsb-830a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One All-in-One System Model 143 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit)",
+  "system_id": "830a",
+  "dmi_matches": [
+    "830a",
+    "HP Engage One All-in-One System Model 143"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP142965-HP Engage One G1 IoT10 2016 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2016 LTSB, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142965.exe",
+      "size_bytes": 403110288,
+      "md5": "1ed0e3673d7a47354526ab78acb84080",
+      "sha256": "90CCF5FF7CDEED85CCC503F46D0C2CC2A766E955A0461E1AE2122CC2456475EB",
+      "version": "8.00 A 1",
+      "release_date": "10/3/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

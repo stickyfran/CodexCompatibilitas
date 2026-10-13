@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-studio-x360-g5-convertible-workstation-win10-1703-844f",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio x360 G5 Convertible Workstation (Windows 10 64-bit, 1703)",
+  "system_id": "844f",
+  "dmi_matches": [
+    "844f",
+    "HP ZBook Studio x360 G5 Convertible Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP88881-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1703",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88881.exe",
+      "size_bytes": 724641272,
+      "md5": "00a3f300debb05aa98685c19d47ff117",
+      "sha256": "1382ADB3801171458FE602345C1803289C4053C290F9F656A4152C70620E4912",
+      "version": "2.00 A 1",
+      "release_date": "7/6/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-go-10-mobile-system-win10-22h2-888c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go 10 Mobile System (Windows 10 64-bit, 22H2)",
+  "system_id": "888c",
+  "dmi_matches": [
+    "888c",
+    "HP Engage Go 10 Mobile System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144946-HP Engage Go 10 Mobile System Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144946.exe",
+      "size_bytes": 986054656,
+      "md5": "2124fd5ea5e9a64d39f972c44df6ff0a",
+      "sha256": "251EC97895F9E35638398DF416FD4B449BF67E6EFC319FDF994DEA4BE347595D",
+      "version": "5.00 A 1",
+      "release_date": "2/17/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-735-g5-notebook-pc-win10-1809-83da",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 735 G5 Notebook PC (Windows 10 64-bit, 1809)",
+  "system_id": "83da",
+  "dmi_matches": [
+    "83da",
+    "HP EliteBook 735 G5 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP99710-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99710.exe",
+      "size_bytes": 847736304,
+      "md5": "c39164173a122c5d0250a93bc441f2b0",
+      "sha256": "0781CA872AE46B90F58839C2BB52DEA86EB5811FE08A442B6C47F12FC37933D8",
+      "version": "6.00 A 1",
+      "release_date": "11/19/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

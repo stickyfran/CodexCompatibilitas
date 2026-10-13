@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-640-g8-notebook-pc-win10-2004-87ed",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 640 G8 Notebook PC (Windows 10 64-bit, 2004)",
+  "system_id": "87ED,87EA",
+  "dmi_matches": [
+    "87ED",
+    "87EA",
+    "HP ProBook 640 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114068-HP Probook 6x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114068.exe",
+      "size_bytes": 1344850896,
+      "md5": "5ed3876b14ebefa412a36013fcadd0f8",
+      "sha256": "7018BD853B790C39EEF95DE8FB27729CE371802C8A85428192D00E50AC5A5E01",
+      "version": "4.00 A 1",
+      "release_date": "6/1/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

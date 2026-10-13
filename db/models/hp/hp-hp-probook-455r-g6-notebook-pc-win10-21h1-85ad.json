@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-455r-g6-notebook-pc-win10-21h1-85ad",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455R G6 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "85ad",
+  "dmi_matches": [
+    "85ad",
+    "HP ProBook 455R G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114178-HP ProBook 4x5R G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114178.exe",
+      "size_bytes": 1180251136,
+      "md5": "368875a4bb3da082b3c407baadc6d048",
+      "sha256": "F3652D585157E21439FF1D36DFC92B95EA4583D133D88B947F202FC235BFC6D7",
+      "version": "7.00 A 1",
+      "release_date": "6/11/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

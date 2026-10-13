@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x-flip-g1i-14-inch-notebook-next-gen-ai-pc-win10-22h2-8d84",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8D84",
+  "dmi_matches": [
+    "8D84",
+    "HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP157058-HP EliteBook G1i Notebook AI Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157001-157500/sp157058.exe",
+      "size_bytes": 1439851768,
+      "md5": "A0B548D00EEF936C62DC282749AEAB32",
+      "sha256": "229EC3C5FEFB88D320598043D22DB93D0B3E0C1E1EF79D6BDF6C8645F2CD32A7",
+      "version": "2.00 A 1",
+      "release_date": "2/12/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

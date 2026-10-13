@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitebook-860-16-inch-g9-notebook-pc-win10-22h2-8abb",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 860 16 inch G9 Notebook PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8ABB,896D",
+  "dmi_matches": [
+    "8ABB",
+    "896D",
+    "HP EliteBook 860 16 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144912-HP EB 8x0 1040 ZB G9 MWS Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144912.exe",
+      "size_bytes": 2507886208,
+      "md5": "d6e501602e579038895e0ca54ecc1301",
+      "sha256": "0651529DE6672656C057A63308D5EDAD7851BA6D959135279C121813D8E43685",
+      "version": "3.00 A 1",
+      "release_date": "2/24/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

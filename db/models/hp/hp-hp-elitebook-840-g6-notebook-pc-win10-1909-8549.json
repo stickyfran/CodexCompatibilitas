@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-840-g6-notebook-pc-win10-1909-8549",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 G6 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "8549",
+  "dmi_matches": [
+    "8549",
+    "HP EliteBook 840 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110579-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110579.exe",
+      "size_bytes": 1463645216,
+      "md5": "2fde37e930a800ef78b5c1903092a487",
+      "sha256": "E4814767EE35395B36C72B8A4F35F9DDD7ED1A683507926B528860B0AD803FCB",
+      "version": "5.00 A 1",
+      "release_date": "10/23/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

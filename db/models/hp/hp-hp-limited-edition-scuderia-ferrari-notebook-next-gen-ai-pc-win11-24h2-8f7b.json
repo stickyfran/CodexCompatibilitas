@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-limited-edition-scuderia-ferrari-notebook-next-gen-ai-pc-win11-24h2-8f7b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Limited Edition Scuderia Ferrari Notebook Next Gen AI PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8F7B",
+  "dmi_matches": [
+    "8F7B",
+    "HP Limited Edition Scuderia Ferrari Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174478-HP Scuderia Ferrari NB Next Gen AI PC Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174478.exe",
+      "size_bytes": 1194284440,
+      "md5": "A5CA2A732A3057FC85E99041F703D9CB",
+      "sha256": "A837B957C4EBD7D837F427AD024D3201E88DD1D1857AB3402CBC312A5BAEA545",
+      "version": "2.00 A 1",
+      "release_date": "8/27/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

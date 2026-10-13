@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-635-aero-g8-notebook-pc-win10-1909-8892",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 635 Aero G8 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "8892",
+  "dmi_matches": [
+    "8892",
+    "HP ProBook 635 Aero G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP112839-HP ProBook 635 Aero G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112839.exe",
+      "size_bytes": 554155496,
+      "md5": "c600882fb59124d28d81e5dc78079dc9",
+      "sha256": "91381776716EBFC03B49638CD527415461D312691B1D54BB5E984BC00EDA9E0F",
+      "version": "1.00 A 1",
+      "release_date": "3/2/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

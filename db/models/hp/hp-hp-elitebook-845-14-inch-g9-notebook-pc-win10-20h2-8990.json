@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-845-14-inch-g9-notebook-pc-win10-20h2-8990",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 845 14 inch G9 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8990",
+  "dmi_matches": [
+    "8990",
+    "HP EliteBook 845 14 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP150286-HP EliteBook 8x5 G9 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150001-150500/sp150286.exe",
+      "size_bytes": 1039380912,
+      "md5": "769c2472dee3471a16f68804d4f4b432",
+      "sha256": "0C46EFBA9DEA8CDC3A459C0732CD94AD7AB168D279B5349BAB251DB7E57B0757",
+      "version": "5.00 A 1",
+      "release_date": "11/30/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

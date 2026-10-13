@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-6-g1i-16-inch-notebook-ai-pc-win10-22h2-8deb",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 6 G1i 16 inch Notebook AI PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8DEB",
+  "dmi_matches": [
+    "8DEB",
+    "HP EliteBook 6 G1i 16 inch Notebook AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP161684-HP EliteBook 6 G1i  AI  Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161684.exe",
+      "size_bytes": 2826610824,
+      "md5": "B4F82B2E34569200A507EBEC5E033DD5",
+      "sha256": "09FD404A5680242601C5DEC92CD66FCE66FD18D22B51F21D978D491C88FE13BC",
+      "version": "2.00 A 1",
+      "release_date": "7/29/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

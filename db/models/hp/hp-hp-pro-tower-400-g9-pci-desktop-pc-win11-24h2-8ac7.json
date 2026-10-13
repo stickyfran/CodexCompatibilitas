@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-pro-tower-400-g9-pci-desktop-pc-win11-24h2-8ac7",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro Tower 400 G9 PCI Desktop PC (Windows 11 64-bit, 24H2)",
+  "system_id": "8AC7,8C59,8953",
+  "dmi_matches": [
+    "8AC7",
+    "8C59",
+    "8953",
+    "HP Pro Tower 400 G9 PCI Desktop PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174468-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174468.exe",
+      "size_bytes": 4055209176,
+      "md5": "08522AC5B11BC61EB951D10A10654C7E",
+      "sha256": "9143418B947D1C63D14B8D6197E2B23C4A0CA2CF644070B66E1917164240D62C",
+      "version": "12.00 A 1",
+      "release_date": "8/26/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

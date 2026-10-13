@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-mini-retail-system-win10-2004-8715",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Mini Retail System (Windows 10 64-bit, 2004)",
+  "system_id": "8715",
+  "dmi_matches": [
+    "8715",
+    "HP Engage Flex Mini Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP132842-HP Engage Flex Mini Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 2004",
+      "url": "https://ftp.hp.com/pub/softpaq/sp132501-133000/sp132842.exe",
+      "size_bytes": 1230907184,
+      "md5": "880cf3447e8dc9150d812ba2e1d0dc5f",
+      "sha256": "4B6A6F7BF29E5FD37345E3A268EA8D454F59977A9F33F6033C55CB4D36C2D76D",
+      "version": "2.00 A 1",
+      "release_date": "8/11/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

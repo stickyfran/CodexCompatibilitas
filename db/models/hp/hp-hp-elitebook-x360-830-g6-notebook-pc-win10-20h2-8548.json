@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-x360-830-g6-notebook-pc-win10-20h2-8548",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 830 G6 Notebook PC (Windows 10 64-bit, 20H2)",
+  "system_id": "8548",
+  "dmi_matches": [
+    "8548",
+    "HP EliteBook x360 830 G6 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP114224-HP EliteBook x360 830 G6 Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 20H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114224.exe",
+      "size_bytes": 1180968168,
+      "md5": "7a359f90d46679d30c6b8799364d8485",
+      "sha256": "62600AC5153F556C6F3A8F9A5E992746B9DB122FE913F4A83142BEE1EDFF29A9",
+      "version": "7.00 A 1",
+      "release_date": "6/18/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

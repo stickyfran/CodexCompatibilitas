@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z240-tower-workstation-win10-1803-802f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z240 Tower Workstation (Windows 10 64-bit, 1803)",
+  "system_id": "802f",
+  "dmi_matches": [
+    "802f",
+    "HP Z240 Tower Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP88652-HP Z240 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88652.exe",
+      "size_bytes": 1031327096,
+      "md5": "5ffe3cb3596c619d1f72581bcc5b6956",
+      "sha256": "88222F1CD6541067E958245DAAF7105AEAFCCD12CE8F9C604BBFABB6BF0A384B",
+      "version": "7.2018 K 1",
+      "release_date": "7/5/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

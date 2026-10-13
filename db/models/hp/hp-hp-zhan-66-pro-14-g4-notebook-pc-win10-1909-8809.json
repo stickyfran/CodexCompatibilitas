@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-zhan-66-pro-14-g4-notebook-pc-win10-1909-8809",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro 14 G4 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "8809,87E2",
+  "dmi_matches": [
+    "8809",
+    "87E2",
+    "HP ZHAN 66 Pro 14 G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP110423-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110423.exe",
+      "size_bytes": 1626029912,
+      "md5": "eac4fa200e17e9aff2d36fd44f5b851d",
+      "sha256": "0B0AD0DA1D1E6C4B8DE341F19B8F36A358A7265456B6804A01A9526DE4365B75",
+      "version": "2.00 A 1",
+      "release_date": "10/12/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

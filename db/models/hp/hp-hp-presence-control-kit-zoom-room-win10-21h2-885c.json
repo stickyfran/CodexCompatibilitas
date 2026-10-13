@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-presence-control-kit-zoom-room-win10-21h2-885c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Presence Control Kit Zoom Room (Windows 10 64-bit, 21H2)",
+  "system_id": "885c",
+  "dmi_matches": [
+    "885c",
+    "HP Presence Control Kit Zoom Room"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP138876-HP Presence Control Kit Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138876.exe",
+      "size_bytes": 805242392,
+      "md5": "b58d2a70d18beca0cbdf4c33dbb2cbb5",
+      "sha256": "28A034E7AA31C427BEF2B9854B4035804F33315C81A929B422CAD54DE9BCC30D",
+      "version": "1.00 A 1",
+      "release_date": "3/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

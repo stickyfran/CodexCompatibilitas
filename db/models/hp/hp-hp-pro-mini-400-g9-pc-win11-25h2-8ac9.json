@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-pro-mini-400-g9-pc-win11-25h2-8ac9",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro Mini 400 G9 PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8AC9,8C63,8955",
+  "dmi_matches": [
+    "8AC9",
+    "8C63",
+    "8955",
+    "HP Pro Mini 400 G9 PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP173508-HP Pro/Elite Mini 4/6/800 G9 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173508.exe",
+      "size_bytes": 1249797176,
+      "md5": "91A0214A287E07915719D67A43CC482D",
+      "sha256": "97C7F622DF28276095EA455AACA124C6EF5671993BF32375C94603648D90CE1D",
+      "version": "11.00 A 1",
+      "release_date": "6/22/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

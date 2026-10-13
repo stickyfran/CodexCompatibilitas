@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-4-g2a-16-inch-notebook-next-gen-ai-pc-win11-25h2-8f1a",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G2a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2)",
+  "system_id": "8f1a",
+  "dmi_matches": [
+    "8f1a",
+    "HP ProBook 4 G2a 16 inch Notebook Next Gen AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP174428-HP Pro/EliteBook 4/6 G2a NB Next Gen AI Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 25H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174428.exe",
+      "size_bytes": 1513622872,
+      "md5": "245625F1453054AA559830CC551BA52B",
+      "sha256": "E4B44BF032BCD53AA319DD04D0531BD8B7FC7A090AB2825F06C2B5F9746E4F15",
+      "version": "3.00 A 1",
+      "release_date": "8/21/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

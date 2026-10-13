@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elite-dragonfly-13-5-inch-g3-notebook-pc-win10-21h1-897f",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 10 64-bit, 21H1)",
+  "system_id": "897F",
+  "dmi_matches": [
+    "897F",
+    "HP Elite Dragonfly 13.5 inch G3 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP145124-HP Elite Dragonfly 13.5 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 21H1",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145124.exe",
+      "size_bytes": 1193978304,
+      "md5": "251bdb0ed1e7be0afa79bcc2ebd40ff5",
+      "sha256": "A0FA0C218D33E45E934B986F6808835D81F40606125336D21720DB69E30E5484",
+      "version": "4.00 A 1",
+      "release_date": "3/13/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

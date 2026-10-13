@@ -1,0 +1,30 @@
+{
+  "id": "hp-hp-elitebook-840-g8-notebook-pc-win10-1909-8ab3",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 G8 Notebook PC (Windows 10 64-bit, 1909)",
+  "system_id": "8AB3,8AB8,880D",
+  "dmi_matches": [
+    "8AB3",
+    "8AB8",
+    "880D",
+    "HP EliteBook 840 G8 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP113369-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113369.exe",
+      "size_bytes": 1689578152,
+      "md5": "01c0c133ecb0567e9cb3f2a057b0b573",
+      "sha256": "42C2B0E53BB6D7F4ADE52ACCB770BDF3A0C34EFCBB53730C94888F4C8E551ABA",
+      "version": "3.00 A 1",
+      "release_date": "4/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

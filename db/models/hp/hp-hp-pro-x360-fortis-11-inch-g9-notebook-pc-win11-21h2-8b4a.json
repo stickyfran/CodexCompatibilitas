@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-pro-x360-fortis-11-inch-g9-notebook-pc-win11-21h2-8b4a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 Fortis 11 inch G9 Notebook PC (Windows 11 64-bit, 21H2)",
+  "system_id": "8b4a,89af",
+  "dmi_matches": [
+    "8b4a",
+    "89af",
+    "HP Pro x360 Fortis 11 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP149133-HP ProBook x360 Fortis G9 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 21H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149133.exe",
+      "size_bytes": 770093592,
+      "md5": "d2c9273c45cf290f7271377c215acf09",
+      "sha256": "AB09812B39A07AAE61C85A59BDAD7BF75E697DFF956AC5D739BE2EE8B8C7E8CC",
+      "version": "5.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

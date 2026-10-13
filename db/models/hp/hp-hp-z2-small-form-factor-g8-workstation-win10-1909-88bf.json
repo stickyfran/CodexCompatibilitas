@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-z2-small-form-factor-g8-workstation-win10-1909-88bf",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Small Form Factor G8 Workstation (Windows 10 64-bit, 1909)",
+  "system_id": "88BF",
+  "dmi_matches": [
+    "88BF",
+    "HP Z2 Small Form Factor G8 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP135909-HP Z2G8 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1909",
+      "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135909.exe",
+      "size_bytes": 1665735408,
+      "md5": "ce13a0061efd1271421288c8df95beb8",
+      "sha256": "852B8842F8A51995A637CDF31EC9430FFA38B105D526E4B040393D67C2E4E23D",
+      "version": "3.00 A 1",
+      "release_date": "10/15/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

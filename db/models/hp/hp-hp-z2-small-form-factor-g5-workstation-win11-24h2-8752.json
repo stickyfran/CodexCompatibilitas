@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-z2-small-form-factor-g5-workstation-win11-24h2-8752",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Small Form Factor G5 Workstation (Windows 11 64-bit, 24H2)",
+  "system_id": "8752,8753",
+  "dmi_matches": [
+    "8752",
+    "8753",
+    "HP Z2 Small Form Factor G5 Workstation"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP139593-HP Z2G5 Windows 11 x64 Driver Pack",
+      "os": "Windows 11 64-bit, 24H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139593.exe",
+      "size_bytes": 1482251416,
+      "md5": "dd3bd1c3382c6892847c6bb4491077fb",
+      "sha256": "609EDB7ECF2ED35BABE0B454863FBB1A8D62B55FC35AB99E0F13FFE66B146773",
+      "version": "2.00 A 1",
+      "release_date": "4/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

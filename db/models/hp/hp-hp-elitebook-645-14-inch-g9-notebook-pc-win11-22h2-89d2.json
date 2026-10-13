@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-elitebook-645-14-inch-g9-notebook-pc-win11-22h2-89d2",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 645 14 inch G9 Notebook PC (Windows 11 64-bit, 22H2)",
+  "system_id": "89D2,8B12",
+  "dmi_matches": [
+    "89D2",
+    "8B12",
+    "HP EliteBook 645 14 inch G9 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP151810-HP ZHAN/Pro/Elite 4/6x5 Windows 11 Driver Pack",
+      "os": "Windows 11 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151810.exe",
+      "size_bytes": 1057437280,
+      "md5": "b2ca4dcb1518501f341b60a206f4311a",
+      "sha256": "07327A7758F26562258B7B2C420E8005E99C354F8F07E8B00D0BF67B549248B4",
+      "version": "6.00 A 1",
+      "release_date": "3/27/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

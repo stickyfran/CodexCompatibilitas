@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-engage-flex-pro-retail-system-win10-iot-enterprise-2016-ltsb-840a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro Retail System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit)",
+  "system_id": "840A",
+  "dmi_matches": [
+    "840A",
+    "HP Engage Flex Pro Retail System"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP144659-HP Engage Flex Pro G1 IoT10 2016 Driver Pack",
+      "os": "Windows 10 IoT Enterprise 2016 LTSB, 64-bit",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144659.exe",
+      "size_bytes": 977821896,
+      "md5": "fdef50e4407c75e1128bcb7646cc1575",
+      "sha256": "5BA228D9B517DBB3D02B6A4AB9275F169FDAE606AB6315EEAA689CD6221AF9BF",
+      "version": "10.00 A 1",
+      "release_date": "1/18/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

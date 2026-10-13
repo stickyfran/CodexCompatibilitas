@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-elitebook-846r-g4-notebook-pc-win10-1803-8418",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 846r G4 Notebook PC (Windows 10 64-bit, 1803)",
+  "system_id": "8418",
+  "dmi_matches": [
+    "8418",
+    "HP EliteBook 846r G4 Notebook PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95451-HP EliteBook 840r G4 Windows 10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1803",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95451.exe",
+      "size_bytes": 832862712,
+      "md5": "60679540cb4d2ca62001fb4e5fb7b32f",
+      "sha256": "AED1AEF83C131B774BFE9EE827654C23FB010D42E2E7A92C530233FA1A551BC3",
+      "version": "5.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

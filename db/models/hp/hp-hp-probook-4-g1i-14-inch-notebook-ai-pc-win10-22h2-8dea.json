@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-probook-4-g1i-14-inch-notebook-ai-pc-win10-22h2-8dea",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G1i 14 inch Notebook AI PC (Windows 10 64-bit, 22H2)",
+  "system_id": "8DEA",
+  "dmi_matches": [
+    "8DEA",
+    "HP ProBook 4 G1i 14 inch Notebook AI PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP161621-HP ProBook 4 G1i  AI  Windows 10 Driver Pack",
+      "os": "Windows 10 64-bit, 22H2",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161621.exe",
+      "size_bytes": 2801787224,
+      "md5": "928A62F38269EBC25CCEC267355A4D62",
+      "sha256": "38C34EB64247FE2420337EFE771FB375C32446EE68BB134B709DA87F32C0EB5E",
+      "version": "2.00 A 1",
+      "release_date": "7/24/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

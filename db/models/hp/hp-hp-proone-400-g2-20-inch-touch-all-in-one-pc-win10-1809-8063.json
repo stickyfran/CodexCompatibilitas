@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-proone-400-g2-20-inch-touch-all-in-one-pc-win10-1809-8063",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 400 G2 20-inch Touch All-in-One PC (Windows 10 64-bit, 1809)",
+  "system_id": "8063",
+  "dmi_matches": [
+    "8063",
+    "HP ProOne 400 G2 20-inch Touch All-in-One PC"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": null,
+  "driver_packs": [
+    {
+      "name": "SP95331-HP ElitePro 600/800 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows 10 64-bit, 1809",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95331.exe",
+      "size_bytes": 616276760,
+      "md5": "da750a0a12c535376f919fd3e66446cf",
+      "sha256": "19828AACCF1215454E465B3738D19D3B9871CC501E6C30B8C507FD373B6E8882",
+      "version": "12.0 A 1",
+      "release_date": "3/12/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}
