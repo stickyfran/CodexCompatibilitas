@@ -1,0 +1,56 @@
+{
+  "id": "system76-galago-pro-galp4-2019-i7-10510u-2019",
+  "vendor": "System76",
+  "family": "Galago",
+  "model_name": "System76 Galago Pro galp4 (2019 i7-10510U) (2019)",
+  "system_id": "galp4",
+  "dmi_matches": [
+    "Galago Pro galp4 (2019 i7-10510U)",
+    "galp4",
+    "System76 Galago Pro galp4 (2019 i7-10510U)",
+    "System76 galp4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "system76_acpi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

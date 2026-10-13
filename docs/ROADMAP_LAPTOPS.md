@@ -4,8 +4,8 @@
 
 ## 📊 Estadísticas Globales
 
-- **Total Laptops Indexadas:** `10122`
-- **Total Scripts `install-all.sh` Generados:** `10122` (100.0% cubierto)
+- **Total Laptops Indexadas:** `10221`
+- **Total Scripts `install-all.sh` Generados:** `10221` (100.0% cubierto)
 - **Cobertura de Paridad Funcional de Hardware:** `100.0%` (Audio DSP, Color, Termales ACPI, Teclados)
 - **Desglose por Fabricante OEM:**
   - **HP:** `5044` modelos
@@ -15,11 +15,15 @@
   - **ASUS:** `318` modelos
   - **Acer:** `70` modelos
   - **Gigabyte:** `38` modelos
+  - **System76:** `34` modelos
   - **Microsoft:** `32` modelos
   - **Razer:** `31` modelos
   - **Huawei:** `25` modelos
   - **Samsung:** `24` modelos
+  - **Dynabook:** `23` modelos
+  - **VAIO:** `22` modelos
   - **LG:** `21` modelos
+  - **Fujitsu:** `20` modelos
   - **Clevo:** `19` modelos
   - **Panasonic:** `14` modelos
   - **Framework:** `8` modelos
@@ -27,24 +31,24 @@
 
 | Año | Modelos Soportados | Scripts Listos | Estado |
 | :--- | :---: | :---: | :--- |
-| **2026** | 1964 | 1964 | ✅ 100% Scripts Listos |
-| **2025** | 772 | 772 | ✅ 100% Scripts Listos |
-| **2024** | 889 | 889 | ✅ 100% Scripts Listos |
-| **2023** | 1362 | 1362 | ✅ 100% Scripts Listos |
-| **2022** | 760 | 760 | ✅ 100% Scripts Listos |
-| **2021** | 1391 | 1391 | ✅ 100% Scripts Listos |
-| **2020** | 1023 | 1023 | ✅ 100% Scripts Listos |
-| **2019** | 905 | 905 | ✅ 100% Scripts Listos |
-| **2018** | 757 | 757 | ✅ 100% Scripts Listos |
-| **2017** | 331 | 331 | ✅ 100% Scripts Listos |
-| **2016** | 231 | 231 | ✅ 100% Scripts Listos |
-| **2015** | 245 | 245 | ✅ 100% Scripts Listos |
+| **2026** | 1968 | 1968 | ✅ 100% Scripts Listos |
+| **2025** | 778 | 778 | ✅ 100% Scripts Listos |
+| **2024** | 898 | 898 | ✅ 100% Scripts Listos |
+| **2023** | 1376 | 1376 | ✅ 100% Scripts Listos |
+| **2022** | 774 | 774 | ✅ 100% Scripts Listos |
+| **2021** | 1402 | 1402 | ✅ 100% Scripts Listos |
+| **2020** | 1034 | 1034 | ✅ 100% Scripts Listos |
+| **2019** | 912 | 912 | ✅ 100% Scripts Listos |
+| **2018** | 763 | 763 | ✅ 100% Scripts Listos |
+| **2017** | 337 | 337 | ✅ 100% Scripts Listos |
+| **2016** | 238 | 238 | ✅ 100% Scripts Listos |
+| **2015** | 249 | 249 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2014])** | 59 | 59 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2013])** | 3 | 3 | ✅ 100% Scripts Listos |
 
 ---
 
-## 📅 Generación 2026 (1964 modelos)
+## 📅 Generación 2026 (1968 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -608,7 +612,9 @@
 | Dell | XPS Notebook | XPS Notebook XPS 14 9440 | `0C6B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 15 9530 | `0BEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | Dell XPS 16 9650 Arrow Lake (2026) | `0E42` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X40L-P (2026 AI Enterprise) (2026) | `X40L-P` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Framework | Framework Laptop | Framework Framework Laptop 16 (AMD Ryzen AI 300 Series) (2026) | `FRANWDCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Fujitsu | Lifebook | Fujitsu Lifebook U94/D (2026 AI Enterprise) (2026) | `U94-D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 16 AI Pro (2026 RTX 50 Studio) (2026) | `AERO-16AI-2026` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS 17X CXG (2026 RTX 5090 175W) (2026) | `17X-CXG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2012,7 +2018,9 @@
 | Panasonic | Toughbook | Panasonic Toughbook 40 (2026 Mk3) (2026) | `FZ-40-Mk3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Razer | Blade | Razer Razer Blade 18 (2026 RTX 5090) (2026) | `RZ09-0530` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Samsung | Galaxy Book5 | Samsung Galaxy Book5 Ultra RTX 50 Series (2026) | `NP960XHA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2025 (772 modelos)
+| System76 | Bonobo | System76 Bonobo WS bonw17 (2026 Arrow Lake RTX 5090) (2026) | `bonw17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| VAIO | VAIO Z | VAIO VAIO Z Carbon AI (2026 Copilot+ PC) (2026) | `VJZ149` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2025 (778 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -2164,7 +2172,9 @@
 | Dell | XPS Notebook | XPS Notebook XPS 17 9730 | `0BDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | Dell XPS 13 9350 Lunar Lake (2025) | `0D40` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 14 9450 Lunar Lake (2025) | `0D41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X40L-N (2025 Lunar Lake) (2025) | `X40L-N` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Framework | Framework Laptop | Framework Framework Laptop 13 (Intel Core Ultra Series 2 Lunar Lake) (2025) | `FRANMGCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U94/C (2025 Lunar Lake Ultra 690g) (2025) | `U94-C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 16 AI OLED (2025 Arrow Lake) (2025) | `AERO-16AI-2025` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS 16X BKG (2025 Core Ultra 9) (2025) | `16X-BKG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 22H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -2788,7 +2798,11 @@
 | Panasonic | Toughbook | Panasonic Toughbook 55 (2025 Mk4 Core Ultra) (2025) | `FZ-55-Mk4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Razer | Blade | Razer Razer Blade 16 (2025 Core Ultra) (2025) | `RZ09-0520` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Samsung | Galaxy Book5 | Samsung Galaxy Book5 Pro 360 Lunar Lake (2025) | `NP960QHA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2024 (889 modelos)
+| System76 | Lemur | System76 Lemur Pro lemp14 (2025 Lunar Lake) (2025) | `lemp14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Oryx | System76 Oryx Pro oryp12 (2025 Core Ultra RTX 5070) (2025) | `oryp12` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Pangolin | System76 Pangolin pang15 (2025 Ryzen AI 300) (2025) | `pang15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX14 (2025 Lunar Lake) (2025) | `VJS148` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2024 (898 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -2996,7 +3010,10 @@
 | Dell | XPS | Dell XPS 13 9345 Snapdragon X Elite (2024) | `0C43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 14 9440 OLED (2024) | `0C41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 16 9640 4K OLED (2024) | `0C42` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X30L-M (2024 850g Core Ultra) (2024) | `X30L-M` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X40L-M (2024 Core Ultra NPU AI) (2024) | `X40L-M` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Framework | Framework Laptop | Framework Framework Laptop 13 (Intel Core Ultra Series 1) (2024) | `FRANMFCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U94/B (2024 Core Ultra AI PC) (2024) | `U94-B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 16 AI OLED (2024 Core Ultra 9) (2024) | `AERO-16AI-2024` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS 16X AKG (2024 AI Gaming QHD+ 165Hz) (2024) | `16X-AKG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS 17X AXG (2024 i9-14900HX RTX 4090) (2024) | `17X-AXG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
@@ -3681,7 +3698,13 @@
 | Samsung | Galaxy Book4 | Samsung Galaxy Book4 Pro 16 Touch AMOLED (2024) | `NP960XGK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book4 | Samsung Galaxy Book4 Pro 360 16 Anti-Reflective (2024) | `NP960QGK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book4 | Samsung Galaxy Book4 Ultra 16 RTX 4080 (2024) | `NP960XGL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2023 (1362 modelos)
+| System76 | Bonobo | System76 Bonobo WS bonw16 (2024 i9-14900HX RTX 4090) (2024) | `bonw16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Darter | System76 Darter Pro darp10 (2024 Core Ultra 7) (2024) | `darp10` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Lemur | System76 Lemur Pro lemp13 (2024 Core Ultra 5/7) (2024) | `lemp13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Oryx | System76 Oryx Pro oryp11 (2024 14th Gen RTX 4070) (2024) | `oryp11` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Pangolin | System76 Pangolin pang14 (2024 Ryzen 8040 Hawk Point) (2024) | `pang14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX14 (2024 Core Ultra 7) (2024) | `VJS147` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2023 (1376 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -3848,9 +3871,13 @@
 | Dell | XPS Notebook | XPS Notebook 9710 | `0A5D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | Dell XPS 15 9530 (2023) | `0BB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 17 9730 (2023) | `0BB9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X30W-L (2023) (2023) | `X30W-L` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X40L-L (2023 Raptor Lake 13th Gen) (2023) | `X40L-L` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Framework | Framework Laptop | Framework Framework Laptop 13 (AMD Ryzen 7040) (2023) | `FRANMDCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Framework | Framework Laptop | Framework Framework Laptop 13 (Intel 13th Gen) (2023) | `FRANMECP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Framework | Framework Laptop | Framework Framework Laptop 16 (AMD Ryzen 7040 + RX 7700S) (2023) | `FRANWCCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Fujitsu | Lifebook | Fujitsu Lifebook U7513 (2023) (2023) | `U7513` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U9413 (2023 16:10 Magnesio 898g) (2023) | `U9413` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 14 OLED BMF (2023 2.8K OLED 90Hz) (2023) | `AERO-14-BMF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AERO | Gigabyte AERO 16 OLED BSF (2023 4K OLED RTX 4070) (2023) | `AERO-16-BSF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS 15 BSF (2023 13th Gen RTX 4070) (2023) | `15-BSF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
@@ -5047,7 +5074,17 @@
 | Samsung | Galaxy Book3 | Samsung Galaxy Book3 Pro 16 3K AMOLED (2023) | `NP960XFG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book3 | Samsung Galaxy Book3 Pro 360 16 S-Pen (2023) | `NP960QFG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book3 | Samsung Galaxy Book3 Ultra 16 RTX 4070 (2023) | `NP960XFH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2022 (760 modelos)
+| System76 | Bonobo | System76 Bonobo WS bonw15 (2023 i9-13900HX RTX 4090) (2023) | `bonw15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Darter | System76 Darter Pro darp9 (2023 13th Gen) (2023) | `darp9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Galago | System76 Galago Pro galp7 (2023 Core Ultra) (2023) | `galp7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Lemur | System76 Lemur Pro lemp12 (2023 13th Gen) (2023) | `lemp12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Oryx | System76 Oryx Pro oryp10 (2023 RTX 4070) (2023) | `oryp10` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Pangolin | System76 Pangolin pang12 (2023 Ryzen 6800U) (2023) | `pang12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Pangolin | System76 Pangolin pang13 (2023 Ryzen 7040) (2023) | `pang13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO F | VAIO VAIO F14 (2023) (2023) | `VJFA41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO F | VAIO VAIO F16 (2023 16:10 Magnesio) (2023) | `VJFA61` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX14 (2023 Raptor Lake 13th Gen) (2023) | `VJS146` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2022 (774 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -5161,7 +5198,12 @@
 | Dell | XPS | Dell XPS 13 Plus 9320 (2022) | `0AFF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 15 9520 (2022) | `0B02` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 17 9720 (2022) | `0B03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X30W-K (2022 12th Gen) (2022) | `X30W-K` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X40L-K (2022 Alder Lake 16:10 1kg) (2022) | `X40L-K` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Tecra | Dynabook Dynabook Tecra A50-K (2022 Corporativo) (2022) | `A50-K` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Framework | Framework Laptop | Framework Framework Laptop 13 (Intel 12th Gen) (2022) | `FRANMZCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U7412 (2022 Corporativo) (2022) | `U7412` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U94/A (2022 Alder Lake) (2022) | `U94-A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 16 YE5 (2022 4K+ OLED 16:10) (2022) | `AERO-16-YE5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AERO | Gigabyte AERO 17 YE5 (2022 4K Mini-LED 120Hz) (2022) | `AERO-17-YE5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS 15 XE4 (2022 Alder Lake) (2022) | `15-XE4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
@@ -5811,7 +5853,16 @@
 | Samsung | Galaxy Book | Samsung Galaxy Book2 Pro 15.6 Intel Arc (2022) | `NP950XED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book | Samsung Galaxy Book2 Pro 360 13.3 (2022) | `NP930QED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book | Samsung Galaxy Book2 Pro 360 15.6 (2022) | `NP950QED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2021 (1391 modelos)
+| System76 | Darter | System76 Darter Pro darp8 (2022 Alder Lake) (2022) | `darp8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Galago | System76 Galago Pro galp6 (2022 Alder Lake) (2022) | `galp6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Lemur | System76 Lemur Pro lemp11 (2022 Alder Lake) (2022) | `lemp11` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Oryx | System76 Oryx Pro oryp9 (2022 Alder Lake RTX 3070 Ti) (2022) | `oryp9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Pangolin | System76 Pangolin pang11 (2022 Ryzen 5000) (2022) | `pang11` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO FE | VAIO VAIO FE14 (2022 Serie Popular) (2022) | `VWNC71419` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO FE | VAIO VAIO FE15 (2022) (2022) | `VWNC71519` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX12 (2022 Alder Lake) (2022) | `VJS125` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX14 (2022 Alder Lake 12th Gen) (2022) | `VJS145` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2021 (1402 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -5890,7 +5941,11 @@
 | Dell | XPS Notebook | XPS Notebook 9570 | `087C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | Dell XPS 15 9510 (2021) | `0A60` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 17 9710 (2021) | `0A61` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X30L-J (2021 Tiger Lake) (2021) | `X30L-J` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X30W-J (2021 Convertible 989g) (2021) | `X30W-J` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Framework | Framework Laptop | Framework Framework Laptop 13 (Intel 11th Gen) (2021) | `FRANGACPA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U9311 (2021 Tiger Lake 756g) (2021) | `U9311` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U9311X (2021 Convertible) (2021) | `U9311X` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 15 OLED YD (2021 RTX 3080) (2021) | `AERO-15OLED-YD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AERO | Gigabyte AERO 17 HDR YD (2021 11th Gen) (2021) | `AERO-17HDR-YD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS 15P YD (2021 RTX 3080) (2021) | `15P-YD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
@@ -7206,7 +7261,14 @@
 | Samsung | Galaxy Book | Samsung Galaxy Book Pro 15.6 AMOLED (2021) | `NP950XDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book | Samsung Galaxy Book Pro 360 13.3 5G (2021) | `NP930QDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book | Samsung Galaxy Book Pro 360 15.6 AMOLED (2021) | `NP950QDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2020 (1023 modelos)
+| System76 | Darter | System76 Darter Pro darp7 (2021 Tiger Lake) (2021) | `darp7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Lemur | System76 Lemur Pro lemp10 (2021 Tiger Lake) (2021) | `lemp10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Oryx | System76 Oryx Pro oryp8 (2021 RTX 3080) (2021) | `oryp8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Pangolin | System76 Pangolin pang10 (2021 All-AMD Ryzen 4000) (2021) | `pang10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX12 (2021 Tiger Lake) (2021) | `VJS123` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX14 (2021 Tiger Lake) (2021) | `VJS143` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO Z | VAIO VAIO Z (2021 Chasis Fibra de Carbono 3D 1kg) (2021) | `VJZ141` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2020 (1034 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -7325,6 +7387,10 @@
 | Dell | XPS | Dell XPS 13 9310 (2020) | `0A03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 15 9500 (2020) | `0991` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | Dell XPS 17 9700 (2020) | `0992` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Dynabook Portege X30L-G (2020 IGZO 870g) (2020) | `X30L-G` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Tecra | Dynabook Dynabook Tecra X50-F (2020 15.6 Pulgadas 1.4kg) (2020) | `X50-F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U9310 (2020 Comet Lake 775g) (2020) | `U9310` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U9310X (2020 360 Grados) (2020) | `U9310X` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 15 OLED KB (2020 DCI-P3 100%) (2020) | `AERO-15OLED-KB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AERO | Gigabyte AERO 17 HDR XB (2020 RTX 2070 Super) (2020) | `AERO-17HDR-XB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS 15G KB (2020 CS:GO Certified) (2020) | `15G-KB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
@@ -8233,7 +8299,14 @@
 | Samsung | Galaxy Book | Samsung Galaxy Book Flex 15.6 S-Pen (2020) | `NP950QCG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book | Samsung Galaxy Book Ion 13.3 QLED (2020) | `NP930XCJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Samsung | Galaxy Book | Samsung Galaxy Book Ion 15.6 QLED (2020) | `NP950XCJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2019 (905 modelos)
+| System76 | Darter | System76 Darter Pro darp6 (2020 Comet Lake) (2020) | `darp6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Galago | System76 Galago Pro galp5 (2020 Tiger Lake GTX 1650) (2020) | `galp5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Lemur | System76 Lemur Pro lemp9 (2020 990g Bateria 14h) (2020) | `lemp9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| System76 | Oryx | System76 Oryx Pro oryp6 (2020 RTX 2060/2070 Super) (2020) | `oryp6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Oryx | System76 Oryx Pro oryp7 (2020 RTX 3070) (2020) | `oryp7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| VAIO | VAIO SX | VAIO VAIO SX12 (2020 Comet Lake) (2020) | `VJS122` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX14 (2020 Comet Lake 6-Core) (2020) | `VJS142` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2019 (912 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8317,6 +8390,9 @@
 | Dell | XPS Notebook | XPS Notebook 9250 | `0702` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9350 | `0704` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9550 | `06E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dynabook | Portege | Dynabook Dynabook Portege X30-F (2019 Rebranding) (2019) | `X30-F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U939 (2019 LTE Integrado 777g) (2019) | `U939` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U939X (2019 Convertible Stylus) (2019) | `U939X` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 15 Classic (2019 240Hz Sharp) (2019) | `AERO-15C-2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AERO | Gigabyte AERO 15 OLED XA (2019 Samsung AMOLED 4K) (2019) | `AERO-15OLED-XA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AERO | Gigabyte AERO 17 HDR YA (2019 4K HDR400) (2019) | `AERO-17HDR-YA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
@@ -9142,7 +9218,11 @@
 | Razer | Blade | Razer Razer Blade 15 Base (2019) (2019) | `RZ09-0300` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Razer | Blade | Razer Razer Blade Pro 17 (2019 RTX 20) (2019) | `RZ09-0287` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Razer | Blade | Razer Razer Blade Stealth 13 GTX (2019) (2019) | `RZ09-0310` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2018 (757 modelos)
+| System76 | Darter | System76 Darter Pro darp5 (2019 Teclado Extendido) (2019) | `darp5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| System76 | Galago | System76 Galago Pro galp4 (2019 i7-10510U) (2019) | `galp4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX12 (2019 Teclado Completo 899g) (2019) | `VJS121` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO SX | VAIO VAIO SX14 (2019 4K Ultraligero 999g) (2019) | `VJS141` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2018 (763 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -9296,6 +9376,10 @@
 | Dell | XPS | XPS 13 9370 (Coffee Lake 2018) | `083A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 15 9570 (Coffee Lake 2018) | `0853` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 15 9575 2-in-1 Kaby Lake-G | `0843` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dynabook | Portege | Dynabook Toshiba Portege X30-E (2018 8th Gen) (2018) | `X30-E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Tecra | Dynabook Toshiba Tecra X40-E (2018) (2018) | `X40-E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U758 (2018) (2018) | `U758` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U938 (2018 PalmSecure 799g) (2018) | `U938` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 15X (2018 144Hz GTX 1070) (2018) | `AERO-15X-2018` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | EliteBook | HP EliteBook 1050 G1 (GTX 1050) | `8438` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | EliteBook | HP EliteBook 735 G5 (Ryzen Pro) | `8446` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -9903,7 +9987,9 @@
 | Razer | Blade | Razer Razer Blade 15 Advanced (2018) (2018) | `RZ09-0238` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Razer | Blade | Razer Razer Blade 15 Base (2018) (2018) | `RZ09-0270` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Razer | Blade | Razer Razer Blade Stealth 13 (2018) (2018) | `RZ09-0281` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2017 (331 modelos)
+| System76 | Galago | System76 Galago Pro galp3 (2018 i7-8550U) (2018) | `galp3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO S | VAIO VAIO S13 (2018 8th Gen Quad-Core) (2018) | `VJS132` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2017 (337 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -9991,6 +10077,11 @@
 | Dell | Vostro | Dell Vostro 15 7570 (2017) | `0801` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | XPS | XPS 13 9365 2-in-1 | `077A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 15 9560 (Kaby Lake 2017) | `07BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dynabook | Portege | Dynabook Toshiba Portege X20W-D (2017 360 Grados 1kg) (2017) | `X20W-D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Toshiba Portege X30-D (2017 Onyx Blue) (2017) | `X30-D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Tecra | Dynabook Toshiba Tecra X40-D (2017) (2017) | `X40-D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U747 (2017 PalmSecure Palma) (2017) | `U747` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U937 (2017 El Mas Ligero 799g) (2017) | `U937` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 15 (2017 X-Rite Pantone) (2017) | `AERO-15-2017` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS X5 v7 (2017 GTX 1070) (2017) | `X5-v7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS X9 (2017 Teclado Mecanico GTX 1080) (2017) | `X9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
@@ -10238,7 +10329,8 @@
 | Panasonic | Toughbook | Panasonic Toughbook CF-33 (2017 Mk1 3:2 2-in-1) (2017) | `CF-33-Mk1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Razer | Blade | Razer Razer Blade 14 (2017 GTX 1060) (2017) | `RZ09-0238` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Razer | Blade | Razer Razer Blade Stealth 13.3 (2017) (2017) | `RZ09-0239` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2016 (231 modelos)
+| System76 | Galago | System76 Galago Pro galp2 (2017 i7-7500U) (2017) | `galp2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2016 (238 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -10340,6 +10432,10 @@
 | Dell | Vostro | Dell Vostro 15 3568 (2016) | `0791` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Vostro | Dell Vostro 15 5568 (2016) | `0786` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | XPS 13 9360 (Kaby Lake 2016) | `075B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dynabook | Portege | Dynabook Toshiba Portege Z30-C (2016 Skylake) (2016) | `Z30-C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Tecra | Dynabook Toshiba Tecra Z40-C (2016) (2016) | `Z40-C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook E756 (2016 Modular Bay) (2016) | `E756` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook T936 (2016 Bisagra Giratoria Doble) (2016) | `T936` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Gigabyte | AERO | Gigabyte AERO 14 (2016 GTX 1060 QHD) (2016) | `AERO-14-2016` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Gigabyte | AORUS | Gigabyte AORUS X7 v6 (2016 GTX 1070 SLI) (2016) | `X7-v6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | EliteBook | HP Elite x2 1012 G1 | `80FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -10473,7 +10569,10 @@
 | Razer | Blade | Razer Razer Blade 14 (2016 GTX 1060) (2016) | `RZ09-0195` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Razer | Blade | Razer Razer Blade Pro 17 (2016 GTX 1080) (2016) | `RZ09-0166` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Razer | Blade | Razer Razer Blade Stealth 12.5 (2016) (2016) | `RZ09-0196` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2015 (245 modelos)
+| VAIO | VAIO S | VAIO VAIO S11 (2016 Compacto LTE) (2016) | `VJS111` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO S | VAIO VAIO S13 (2016 1.06kg Magnesio) (2016) | `VJS131` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO Z | VAIO VAIO Z Flip (2016 Bisagra Multiflip WQHD) (2016) | `VJZ13B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2015 (249 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -10533,6 +10632,9 @@
 | Dell | XPS | XPS 13 9343 (Broadwell 2015) | `063E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 13 9350 (Skylake 2015) | `0704` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 15 9550 (Skylake 2015) | `06E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dynabook | Portege | Dynabook Toshiba Portege Z20t-B (2015 2-in-1 Stylus) (2015) | `Z20t-B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dynabook | Portege | Dynabook Toshiba Portege Z30-B (2015 1.2kg Magnesio) (2015) | `Z30-B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Fujitsu | Lifebook | Fujitsu Lifebook U904 (2015 IGZO 3200x1800) (2015) | `U904` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | EliteBook | HP EliteBook 820 G2 | `2215` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | EliteBook | HP EliteBook 840 G2 | `2216` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | EliteBook | HP EliteBook 850 G2 | `2217` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -10722,6 +10824,7 @@
 | Microsoft | Surface | Microsoft Surface Pro 4 (2015) | `SurfacePro4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Panasonic | Toughbook | Panasonic Toughbook CF-31 (2015 Mk5) (2015) | `CF-31-Mk5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Panasonic | Toughbook | Panasonic Toughbook CF-54 (2015 Mk1 Semi-Rugged) (2015) | `CF-54-Mk1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| VAIO | VAIO Z | VAIO VAIO Z Canvas (2015 Haswell Quad-Core) (2015) | `VJZ12A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 ## 📅 Generación Legacy (2014) (59 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |

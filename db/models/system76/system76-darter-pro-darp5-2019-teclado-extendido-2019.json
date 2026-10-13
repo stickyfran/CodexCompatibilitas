@@ -1,0 +1,62 @@
+{
+  "id": "system76-darter-pro-darp5-2019-teclado-extendido-2019",
+  "vendor": "System76",
+  "family": "Darter",
+  "model_name": "System76 Darter Pro darp5 (2019 Teclado Extendido) (2019)",
+  "system_id": "darp5",
+  "dmi_matches": [
+    "Darter Pro darp5 (2019 Teclado Extendido)",
+    "darp5",
+    "System76 Darter Pro darp5 (2019 Teclado Extendido)",
+    "System76 darp5"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "system76_acpi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "system76_acpi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

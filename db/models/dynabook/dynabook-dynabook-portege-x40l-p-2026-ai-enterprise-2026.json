@@ -1,0 +1,56 @@
+{
+  "id": "dynabook-dynabook-portege-x40l-p-2026-ai-enterprise-2026",
+  "vendor": "Dynabook",
+  "family": "Portege",
+  "model_name": "Dynabook Dynabook Portege X40L-P (2026 AI Enterprise) (2026)",
+  "system_id": "X40L-P",
+  "dmi_matches": [
+    "Dynabook Portege X40L-P (2026 AI Enterprise)",
+    "X40L-P",
+    "Dynabook Dynabook Portege X40L-P (2026 AI Enterprise)",
+    "Dynabook X40L-P"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "toshiba_acpi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "system76-oryx-pro-oryp10-2023-rtx-4070-2023",
+  "vendor": "System76",
+  "family": "Oryx",
+  "model_name": "System76 Oryx Pro oryp10 (2023 RTX 4070) (2023)",
+  "system_id": "oryp10",
+  "dmi_matches": [
+    "Oryx Pro oryp10 (2023 RTX 4070)",
+    "oryp10",
+    "System76 Oryx Pro oryp10 (2023 RTX 4070)",
+    "System76 oryp10"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "system76_acpi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "system76_acpi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

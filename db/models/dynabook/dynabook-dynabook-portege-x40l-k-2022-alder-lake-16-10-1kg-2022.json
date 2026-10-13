@@ -1,0 +1,56 @@
+{
+  "id": "dynabook-dynabook-portege-x40l-k-2022-alder-lake-16-10-1kg-2022",
+  "vendor": "Dynabook",
+  "family": "Portege",
+  "model_name": "Dynabook Dynabook Portege X40L-K (2022 Alder Lake 16:10 1kg) (2022)",
+  "system_id": "X40L-K",
+  "dmi_matches": [
+    "Dynabook Portege X40L-K (2022 Alder Lake 16:10 1kg)",
+    "X40L-K",
+    "Dynabook Dynabook Portege X40L-K (2022 Alder Lake 16:10 1kg)",
+    "Dynabook X40L-K"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "toshiba_acpi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}
