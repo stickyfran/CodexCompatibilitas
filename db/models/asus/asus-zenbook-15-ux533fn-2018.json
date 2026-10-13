@@ -1,0 +1,56 @@
+{
+  "id": "asus-zenbook-15-ux533fn-2018",
+  "vendor": "ASUS",
+  "family": "Zenbook",
+  "model_name": "ASUS ZenBook 15 UX533FN (2018)",
+  "system_id": "UX533FN",
+  "dmi_matches": [
+    "ZenBook 15 UX533FN",
+    "UX533FN",
+    "ASUS ZenBook 15 UX533FN",
+    "ASUS UX533FN"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

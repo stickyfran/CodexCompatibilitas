@@ -4,38 +4,38 @@
 
 ## 📊 Estadísticas Globales
 
-- **Total Laptops Indexadas:** `9312`
-- **Total Scripts `install-all.sh` Generados:** `9312` (100.0% cubierto)
+- **Total Laptops Indexadas:** `9557`
+- **Total Scripts `install-all.sh` Generados:** `9557` (100.0% cubierto)
 - **Cobertura de Paridad Funcional de Hardware:** `100.0%` (Audio DSP, Color, Termales ACPI, Teclados)
 - **Desglose por Fabricante OEM:**
-  - **ASUS:** `197` modelos
-  - **Dell:** `1343` modelos
+  - **ASUS:** `282` modelos
+  - **Dell:** `1425` modelos
   - **HP:** `4990` modelos
-  - **Lenovo:** `2041` modelos
+  - **Lenovo:** `2119` modelos
   - **MSI:** `741` modelos
 
 ### Resumen por Generación / Año
 
 | Año | Modelos Soportados | Scripts Listos | Estado |
 | :--- | :---: | :---: | :--- |
-| **2026** | 1935 | 1935 | ✅ 100% Scripts Listos |
-| **2025** | 741 | 741 | ✅ 100% Scripts Listos |
-| **2024** | 747 | 747 | ✅ 100% Scripts Listos |
-| **2023** | 1202 | 1202 | ✅ 100% Scripts Listos |
-| **2022** | 604 | 604 | ✅ 100% Scripts Listos |
-| **2021** | 1219 | 1219 | ✅ 100% Scripts Listos |
-| **2020** | 876 | 876 | ✅ 100% Scripts Listos |
-| **2019** | 779 | 779 | ✅ 100% Scripts Listos |
-| **2018** | 626 | 626 | ✅ 100% Scripts Listos |
-| **2017** | 209 | 209 | ✅ 100% Scripts Listos |
-| **2016** | 139 | 139 | ✅ 100% Scripts Listos |
-| **2015** | 143 | 143 | ✅ 100% Scripts Listos |
+| **2026** | 1939 | 1939 | ✅ 100% Scripts Listos |
+| **2025** | 745 | 745 | ✅ 100% Scripts Listos |
+| **2024** | 812 | 812 | ✅ 100% Scripts Listos |
+| **2023** | 1278 | 1278 | ✅ 100% Scripts Listos |
+| **2022** | 665 | 665 | ✅ 100% Scripts Listos |
+| **2021** | 1298 | 1298 | ✅ 100% Scripts Listos |
+| **2020** | 943 | 943 | ✅ 100% Scripts Listos |
+| **2019** | 867 | 867 | ✅ 100% Scripts Listos |
+| **2018** | 738 | 738 | ✅ 100% Scripts Listos |
+| **2017** | 317 | 317 | ✅ 100% Scripts Listos |
+| **2016** | 222 | 222 | ✅ 100% Scripts Listos |
+| **2015** | 241 | 241 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2014])** | 59 | 59 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2013])** | 3 | 3 | ✅ 100% Scripts Listos |
 
 ---
 
-## 📅 Generación 2026 (1935 modelos)
+## 📅 Generación 2026 (1939 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -1971,10 +1971,14 @@
 | Lenovo | Thinkstation | ThinkStation PX (Type 30EY) | `30EY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation PX (Type 30H3) | `30H3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI Raider 18 HX A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider 18 HX A16VIG | `Raider18-A16VIG/MS-1827` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 18 AI Studio A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 18 AI Studio A16VIG | `Stealth18-A16VIG/MS-1833` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan 18 HX A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan 18 HX A16VIG | `Titan18-A16VIG/MS-1824` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Vector | MSI Vector 17 HX A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2025 (741 modelos)
+| MSI | Vector | MSI Vector 17 HX A16VIG | `Vector17-A16VIG/MS-17S4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2025 (745 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -2716,10 +2720,14 @@
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FK) | `30FK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Claw | MSI MSI Claw 8 AI+ A2VM (2025-2026 Lunar Lake 8-inch) | `Claw8AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI Raider 18 HX A15VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider 18 HX A15VHG | `Raider18-A15VHG/MS-1826` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 18 AI Studio A15VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 18 AI Studio A15VIG | `Stealth18-A15VIG/MS-1832` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan 18 HX A15VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan 18 HX A15VIG | `Titan18-A15VIG/MS-1823` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Vector | MSI Vector 16 HX A15VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2024 (747 modelos)
+| MSI | Vector | MSI Vector 16 HX A15VHG | `Vector16-A15VHG/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2024 (812 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -3385,92 +3393,157 @@
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AX) | `21AX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Claw | MSI MSI Claw A1M (2024 Handheld Intel Core Ultra 7) | `ClawA1M` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Commercial | MSI Commercial 14 H A13MG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Commercial | MSI Commercial 14 H A13MG | `Commercial14-A13MG/MS-14N2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator 16 AI Studio A1V (2024-2026 Magnesio 1.99kg OLED) | `Creator16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | MSI | Creator | MSI Creator 16 AI Studio A1VHG |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 16 AI Studio A1VHG | `Creator16AI-A1VHG/MS-16V2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator 16 AI Studio A1VIG |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 16 AI Studio A1VIG | `Creator16AI-A1VIG/MS-16V2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator M14 A13V (2024-2026 Compacto) | `CreatorM14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator M14 A13VE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M14 A13VE | `CreatorM14-A13VE/MS-14N1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator M14 A13VF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M14 A13VF | `CreatorM14-A13VF/MS-14N1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Crosshair | MSI Crosshair 16 HX D14V (2024-2026) | `Crosshair16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 16 HX D14VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 16 HX D14VFKG | `Crosshair16HX-D14VFKG/MS-15P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 16 HX D14VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 16 HX D14VGKG | `Crosshair16HX-D14VGKG/MS-15P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 17 HX D14V (2024-2026) | `Crosshair17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 17 HX D14VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 17 HX D14VFKG | `Crosshair17HX-D14VFKG/MS-17T1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 17 HX D14VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 17 HX D14VGKG | `Crosshair17HX-D14VGKG/MS-17T1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Cyborg | MSI Cyborg 14 A13V (2024-2026 Compacto Translucido) | `Cyborg14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Cyborg | MSI Cyborg 14 A13VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 14 A13VE | `Cyborg14-A13VE/MS-14N1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 14 A13VF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 14 A13VF | `Cyborg14-A13VF/MS-14N1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 AI A1V (2024-2026) | `Cyborg15AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Cyborg | MSI Cyborg 15 AI A1VEK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 AI A1VEK | `Cyborg15AI-A1VEK/MS-15K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 AI A1VFK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 AI A1VFK | `Cyborg15AI-A1VFK/MS-15K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana A15 AI B8VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana A15 AI B8VF | `KatanaA15-AI-B8VF/MS-1586` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana A15 AI B8VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana A15 AI B8VG | `KatanaA15-AI-B8VG/MS-1586` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana A17 AI B8VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana A17 AI B8VF | `KatanaA17-AI-B8VF/MS-17L6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana A17 AI B8VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana A17 AI B8VG | `KatanaA17-AI-B8VG/MS-17L6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Modern | MSI Modern 14 H D13M (2024-2026 Serie H) | `Modern14_2025` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 H D13M Serie H |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 H D13M Serie H | `Modern14H-D13M/MS-14J2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 H C13M (2024-2026 Serie H) | `Modern15_2025` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 H C13M Serie H |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 H C13M Serie H | `Modern15H-C13M/MS-15H2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 13 AI Evo A1M (2024-2026 Magnesio 990g 75Wh) | `Prestige13AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Prestige | MSI Prestige 13 AI Evo A1MG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 13 AI Evo A1MG | `Prestige13AI-A1MG/MS-13Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 AI Evo / Studio C1M / C1V (2024-2026) | `Prestige14AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Prestige | MSI Prestige 14 AI Evo C1MG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 AI Evo C1MG | `Prestige14AI-C1MG/MS-14C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 AI Studio C1VG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 AI Studio C1VG | `Prestige14AI-C1VG/MS-14C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 16 AI Evo / Studio B1M / B1V (2024-2026 OLED 1.5kg) | `Prestige16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | MSI | Prestige | MSI Prestige 16 AI Evo B1MG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 AI Evo B1MG | `Prestige16AI-B1MG/MS-15A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 16 AI Studio B1VFG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 AI Studio B1VFG | `Prestige16AI-B1VFG/MS-15A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 16 AI Studio B1VGG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 AI Studio B1VGG | `Prestige16AI-B1VGG/MS-15A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Pulse | MSI Pulse 16 AI C1V (2024-2026 Intel Core Ultra) | `Pulse16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 16 AI C1VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 16 AI C1VFKG | `Pulse16AI-C1VFKG/MS-15P2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 16 AI C1VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 16 AI C1VGKG | `Pulse16AI-C1VGKG/MS-15P2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 17 AI C1V (2024-2026 Intel Core Ultra) | `Pulse17AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 17 AI C1VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 17 AI C1VFKG | `Pulse17AI-C1VFKG/MS-17T2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 17 AI C1VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 17 AI C1VGKG | `Pulse17AI-C1VGKG/MS-17T2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Raider | MSI Raider 18 HX A14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider 18 HX A14VGG | `Raider18-A14VGG/MS-1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider 18 HX A14VHG (2024-2026 18-inch 4K Mini-LED) | `Raider18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color, keyboard_rgb |
+| MSI | Raider | MSI Raider 18 HX A14VHG | `Raider18-A14VHG/MS-1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider 18 HX A14VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider 18 HX A14VIG | `Raider18-A14VIG/MS-1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE68 HX 14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE68 HX 14VGG | `GE68HX-14VGG/MS-16V2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE68 HX 14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE68 HX 14VHG | `GE68HX-14VHG/MS-16V2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE78 HX 14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 14VGG | `GE78HX-14VGG/MS-17S2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE78 HX 14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 14VHG | `GE78HX-14VHG/MS-17S2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE78 HX 14VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 14VIG | `GE78HX-14VIG/MS-17S2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 14 AI Studio A1VFG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 14 AI Studio A1VFG | `Stealth14-A1VFG/MS-14K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 16 AI Studio A1VFG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 16 AI Studio A1VFG | `Stealth16-A1VFG/MS-15F2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 16 AI Studio A1VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 16 AI Studio A1VGG | `Stealth16-A1VGG/MS-15F2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 18 AI Studio A1V (2024-2026 Core Ultra / RTX 40) | `Stealth18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth 18 AI Studio A1VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 18 AI Studio A1VHG | `Stealth18-A1VHG/MS-1831` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 18 AI Studio A1VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 18 AI Studio A1VIG | `Stealth18-A1VIG/MS-1831` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Summit | MSI Summit E13 AI Evo A1M (2024-2026 Core Ultra NPU) | `SummitE13AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Summit | MSI Summit E13 AI Evo A1MTG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E13 AI Evo A1MTG | `SummitE13AI-A1MTG/MS-13P3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E16 AI Studio A1V (2024-2026 RTX 40 Copilot+) | `SummitE16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Summit | MSI Summit E16 AI Studio A1VFG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 AI Studio A1VFG | `SummitE16AI-A1VFG/MS-16UB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E16 AI Studio A1VGG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 AI Studio A1VGG | `SummitE16AI-A1VGG/MS-16UB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Sword | MSI Sword 16 HX B14V (2024-2026) | `Sword16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Sword | MSI Sword 16 HX B14VEKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 16 HX B14VEKG | `Sword16HX-B14VEKG/MS-15P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 16 HX B14VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 16 HX B14VFKG | `Sword16HX-B14VFKG/MS-15P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 16 HX B14VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 16 HX B14VGKG | `Sword16HX-B14VGKG/MS-15P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 HX B14V (2024-2026) | `Sword17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Sword | MSI Sword 17 HX B14VEKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 HX B14VEKG | `Sword17HX-B14VEKG/MS-17T1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 HX B14VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 HX B14VFKG | `Sword17HX-B14VFKG/MS-17T1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 HX B14VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 HX B14VGKG | `Sword17HX-B14VGKG/MS-17T1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Thin | MSI Thin 15 B12U / B13U (2024-2026) | `Thin15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin 15 B12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B12UC | `Thin15-B12UC/MS-16R8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin 15 B12UCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B12UCX | `Thin15-B12UCX/MS-16R8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin 15 B12VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B12VE | `Thin15-B12VE/MS-16R8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin 15 B13UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B13UC | `Thin15-B13UC/MS-16R8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin 15 B13VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B13VE | `Thin15-B13VE/MS-16R8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI Titan 18 HX A14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan 18 HX A14VHG | `Titan18-A14VHG/MS-1822` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan 18 HX A14VIG (2024-2026 Touchpad RGB Seamless) | `Titan18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Titan | MSI Titan 18 HX A14VIG | `Titan18-A14VIG/MS-1822` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Vector | MSI Vector 16 HX A13V / A14V (2024-2026) | `Vector16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector 16 HX A13VFG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A13VFG | `Vector16-A13VFG/MS-16V3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 16 HX A13VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A13VGG | `Vector16-A13VGG/MS-16V3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 16 HX A13VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A13VHG | `Vector16-A13VHG/MS-16V3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 16 HX A14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A14VGG | `Vector16-A14VGG/MS-16V3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 16 HX A14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A14VHG | `Vector16-A14VHG/MS-16V3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 17 HX A14V (2024-2026) | `Vector17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector 17 HX A14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 17 HX A14VGG | `Vector17-A14VGG/MS-17S3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 17 HX A14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2023 (1202 modelos)
+| MSI | Vector | MSI Vector 17 HX A14VHG | `Vector17-A14VHG/MS-17S3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2023 (1278 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -4589,94 +4662,170 @@
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D7) | `30D7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 17 C7V (2023-2025 Dragon Range + Wi-Fi 7) | `Alpha17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 17 C7VF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 17 C7VF | `Alpha17-C7VF/MS-17S5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 17 C7VG Dragon Range |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 17 C7VG Dragon Range | `Alpha17-C7VG/MS-17S5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 C7UDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 C7UDX | `Bravo15-C7UDX/MS-158N` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 C7V / C7U (2023-2025 Ryzen 7000) | `Bravo15_2023` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 C7VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 C7VE | `Bravo15-C7VE/MS-158N` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 C7VF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 C7VF | `Bravo15-C7VF/MS-158N` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 17 C7UDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 C7UDX | `Bravo17-C7UDX/MS-17LN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 17 C7V / C7U (2023-2025) | `Bravo17_2023` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 17 C7VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 C7VE | `Bravo17-C7VE/MS-17LN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 17 C7VF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 C7VF | `Bravo17-C7VF/MS-17LN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Commercial | MSI Commercial 14 H A13M (2023-2026 Smart Card / NFC) | `Commercial14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Commercial | MSI Commercial 14 H A13M | `Commercial14-A13M/MS-14N2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator M16 B13VE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 B13VE | `CreatorM16-B13VE/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator M16 B13VF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 B13VF | `CreatorM16-B13VF/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16 HX Studio A13V (2023) | `CreatorZ16HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator Z16 HX Studio A13VET |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16 HX Studio A13VET | `CreatorZ16HX-A13VET/MS-1573` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16 HX Studio A13VFT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16 HX Studio A13VFT | `CreatorZ16HX-A13VFT/MS-1573` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16 HX Studio A13VGT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16 HX Studio A13VGT | `CreatorZ16HX-A13VGT/MS-1573` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z17 HX Studio A13V (2023 Calman Verified) | `CreatorZ17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | MSI | Creator | MSI Creator Z17 HX Studio A13VFT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z17 HX Studio A13VFT | `CreatorZ17HX-A13VFT/MS-17N2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z17 HX Studio A13VGT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z17 HX Studio A13VGT | `CreatorZ17HX-A13VGT/MS-17N2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z17 HX Studio A13VHT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z17 HX Studio A13VHT | `CreatorZ17HX-A13VHT/MS-17N2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Cyborg | MSI Cyborg 15 A12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A12UC | `Cyborg15-A12UC/MS-15K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 A12UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A12UD | `Cyborg15-A12UD/MS-15K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 A12V / A13V (2023-2024 Teclas Translucidas) | `Cyborg15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Cyborg | MSI Cyborg 15 A12VE RTX 4050 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A12VE RTX 4050 | `Cyborg15-A12VE/MS-15K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 A12VF RTX 4060 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A12VF RTX 4060 | `Cyborg15-A12VF/MS-15K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 A13VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A13VE | `Cyborg15-A13VE/MS-15K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 A13VF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A13VF | `Cyborg15-A13VF/MS-15K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana 15 B12V / B13V (2023-2025 Teclado 4-Zonas) | `Katana15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 15 B12VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B12VE | `Katana15-B12VE/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 15 B12VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B12VG | `Katana15-B12VG/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 15 B13VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B13VE | `Katana15-B13VE/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 15 B13VFK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B13VFK | `Katana15-B13VFK/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 15 B13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B13VG | `Katana15-B13VG/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 17 B12V / B13V (2023-2025) | `Katana17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 17 B12VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B12VE | `Katana17-B12VE/MS-17L5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 17 B12VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B12VG | `Katana17-B12VG/MS-17L5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 17 B13VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B13VE | `Katana17-B13VE/MS-17L5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 17 B13VFK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B13VFK | `Katana17-B13VFK/MS-17L5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 17 B13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B13VG | `Katana17-B13VG/MS-17L5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Modern | MSI Modern 14 C13M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 C13M | `Modern14-C13M/MS-14J1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 C7M Ryzen 7000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 C7M Ryzen 7000 | `Modern14-C7M/MS-14JK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 B13M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 B13M | `Modern15-B13M/MS-15H1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 B7M Ryzen 7000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 B7M Ryzen 7000 | `Modern15-B7M/MS-15HK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 13 Evo A12M / A13M (2023 Ultraliviano 990g) | `Prestige13Evo` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 13 Evo A12M | `Prestige13Evo-A12M/MS-13Q1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 13 Evo A13M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 13 Evo A13M | `Prestige13Evo-A13M/MS-13Q1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 16 Studio A13VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 Studio A13VE | `Prestige16Studio-A13VE/MS-16UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Pulse | MSI Pulse 15 B13V (2023-2024) | `Pulse15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 15 B13VFK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 15 B13VFK | `Pulse15-B13VFK/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 15 B13VGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 15 B13VGK | `Pulse15-B13VGK/MS-1585` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 17 B13V (2023-2024) | `Pulse17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 17 B13VFK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 17 B13VFK | `Pulse17-B13VFK/MS-17L5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 17 B13VGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 17 B13VGK | `Pulse17-B13VGK/MS-17L5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Raider | MSI Raider GE68 HX 13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE68 HX 13VF | `GE68HX-13VF/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE68 HX 13VG / 14VGG (2023-2025) | `GE68HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Raider | MSI Raider GE68 HX 13VG | `GE68HX-13VG/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE68 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE68 HX 13VH | `GE68HX-13VH/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE78 HX 13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 13VF | `GE78HX-13VF/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE78 HX 13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 13VG | `GE78HX-13VG/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE78 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 13VH | `GE78HX-13VH/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE78 HX 13VI / 14VHG (2023-2025 Matrix Light Bar) | `GE78HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Raider | MSI Raider GE78 HX 13VI | `GE78HX-13VI/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 14 Studio A13VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 14 Studio A13VE | `Stealth14-A13VE/MS-14K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 14 Studio A13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 14 Studio A13VF | `Stealth14-A13VF/MS-14K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 14 Studio A13VG / A14V (2023-2025 Magnesio-Aluminio) | `Stealth14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI Stealth 14 Studio A13VG | `Stealth14-A13VG/MS-14K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 16 Studio / AI A13VG / A1VFG (2023-2026) | `Stealth16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth 16 Studio A13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 16 Studio A13VF | `Stealth16-A13VF/MS-15F1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 16 Studio A13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 16 Studio A13VG | `Stealth16-A13VG/MS-15F1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 17 Studio A13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 17 Studio A13VF | `Stealth17-A13VF/MS-17P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 17 Studio A13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 17 Studio A13VG | `Stealth17-A13VG/MS-17P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 17 Studio A13VI (2023-2024) | `Stealth17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI Stealth 17 Studio A13VI | `Stealth17-A13VI/MS-17P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Summit | MSI Summit E14 Flip Evo A13MT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E14 Flip Evo A13MT | `SummitE14Flip-A13MT/MS-14C7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E16 Flip A13VET |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 Flip A13VET | `SummitE16Flip-A13VET/MS-16UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E16 Flip A13VFT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 Flip A13VFT | `SummitE16Flip-A13VFT/MS-16UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF63 12UCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12UCX | `GF63-12UCX/MS-16R7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF63 12UDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12UDX | `GF63-12UDX/MS-16R7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF63 12V (2023 RTX 4050) | `ThinGF63_12V` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF63 12VE RTX 4050 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12VE RTX 4050 | `GF63-12VE/MS-16R8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF63 12VF RTX 4060 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12VF RTX 4060 | `GF63-12VF/MS-16R8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI Titan GT77 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan GT77 HX 13VH | `GT77HX-13VH/MS-17Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT77 HX 13VI (2023 RTX 4090) | `GT77HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Titan | MSI Titan GT77 HX 13VI | `GT77HX-13VI/MS-17Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Vector | MSI Vector GP68 HX 12V / 13V (2023-2024 Max TGP) | `GP68HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP68 HX 12VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP68 HX 12VH | `GP68HX-12VH/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP68 HX 13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP68 HX 13VF | `GP68HX-13VF/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP68 HX 13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP68 HX 13VG | `GP68HX-13VG/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP68 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP68 HX 13VH | `GP68HX-13VH/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP78 HX 13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP78 HX 13VF | `GP78HX-13VF/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP78 HX 13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP78 HX 13VG | `GP78HX-13VG/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP78 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP78 HX 13VH | `GP78HX-13VH/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP78 HX 13VI / 14V (2023-2025) | `GP78HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2022 (604 modelos)
+| MSI | Vector | MSI Vector GP78 HX 13VI | `GP78HX-13VI/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2022 (665 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -5221,70 +5370,131 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SF) | `20SF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator M16 A12U / B13V (2022-2024 Creadores Accesible) | `CreatorM16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator M16 A12UC |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 A12UC | `CreatorM16-A12UC/MS-1584` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator M16 A12UD |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 A12UD | `CreatorM16-A12UD/MS-1584` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16 A12UET |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16 A12UET | `CreatorZ16-A12UET/MS-1572` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16P A12UGST Vapor Chamber (2022) | `CreatorZ16P` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator Z16P B12UGST Vapor Chamber |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16P B12UGST Vapor Chamber | `CreatorZ16P-B12UGST/MS-1551` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16P B12UHST |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16P B12UHST | `CreatorZ16P-B12UHST/MS-1551` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z17 A12UGST (2022 Lapiz Stylus MSI Pen) | `CreatorZ17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator Z17 A12UGST | `CreatorZ17-A12UGST/MS-17N1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z17 A12UHST |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z17 A12UHST | `CreatorZ17-A12UHST/MS-17N1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Crosshair | MSI Crosshair 15 B12UGZ |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 15 B12UGZ | `Crosshair15-B12UGZ/MS-1584` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 15 Rainbow Six Extraction Edition |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 15 Rainbow Six Extraction Edition | `Crosshair15-R6E/MS-1584` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 17 B12UGZ |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 17 B12UGZ | `Crosshair17-B12UGZ/MS-17L4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF66 12UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 12UC | `KatanaGF66-12UC/MS-1583` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF66 12UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 12UD | `KatanaGF66-12UD/MS-1583` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF66 12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 12UE | `KatanaGF66-12UE/MS-1583` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF66 12UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 12UG | `KatanaGF66-12UG/MS-1583` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 12UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 12UC | `KatanaGF76-12UC/MS-17L3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 12UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 12UD | `KatanaGF76-12UD/MS-17L3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 12UE | `KatanaGF76-12UE/MS-17L3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 12UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 12UG | `KatanaGF76-12UG/MS-17L3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Modern | MSI Modern 14 C11M / C12M / C7M (2022-2024) | `Modern14_2022` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 C11M | `Modern14-C11M/MS-14J1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 C12M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 C12M | `Modern14-C12M/MS-14J1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 B12M / B13M / B7M (2022-2024) | `Modern15_2022` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 B12M | `Modern15-B12M/MS-15H1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A12UC | `Prestige14-A12UC/MS-14C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A12UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A12UD | `Prestige14-A12UD/MS-14C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 Evo A12M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 Evo A12M | `Prestige14Evo-A12M/MS-14C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A12UC | `Prestige15-A12UC/MS-16S7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A12UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A12UD | `Prestige15-A12UD/MS-16S7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 16 A12UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 A12UD | `Prestige16-A12UD/MS-16U8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 16 Evo A12M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 Evo A12M | `Prestige16Evo-A12M/MS-16U8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Pulse | MSI Pulse GL66 12UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL66 12UEK | `PulseGL66-12UEK/MS-1584` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL66 12UGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL66 12UGK | `PulseGL66-12UGK/MS-1584` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL76 12UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL76 12UEK | `PulseGL76-12UEK/MS-17L4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL76 12UGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL76 12UGK | `PulseGL76-12UGK/MS-17L4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Raider | MSI Raider GE66 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE66 12UGS | `GE66-12UGS/MS-1544` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE66 12UHS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE66 12UHS | `GE66-12UHS/MS-1544` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE67 HX 12UGS OLED |  | ✅  | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE67 HX 12UGS OLED | `GE67HX-12UGS/MS-1545` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE67 HX 12UHS OLED |  | ✅  | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE67 HX 12UHS OLED | `GE67HX-12UHS/MS-1545` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE67 HX OLED 240Hz (2022) | `GE67HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color, keyboard_rgb |
 | MSI | Raider | MSI Raider GE76 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE76 12UGS | `GE76-12UGS/MS-17K4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE76 12UHS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE76 12UHS | `GE76-12UHS/MS-17K4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS66 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS66 12UGS | `GS66-12UGS/MS-16V5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS66 12UHS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS66 12UHS | `GS66-12UHS/MS-16V5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS77 (2022 Bisagra Reforzada) | `GS77` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth GS77 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS77 12UGS | `GS77-12UGS/MS-17M2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS77 12UHS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS77 12UHS | `GS77-12UHS/MS-17M2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Summit | MSI Summit E13 Flip Evo A12MT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E13 Flip Evo A12MT | `SummitE13Flip-A12MT/MS-13P2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E14 A12M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E14 A12M | `SummitE14-A12M/MS-14C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E14 Flip Evo A12MT / A13M (2022-2024) | `SummitE14Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E14 Flip Evo A12MT | `SummitE14Flip-A12MT/MS-14C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E16 Flip A12UCT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 Flip A12UCT | `SummitE16Flip-A12UCT/MS-16U9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Sword | MSI Sword 15 A12UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A12UC | `Sword15-A12UC/MS-1583` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 15 A12UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A12UD | `Sword15-A12UD/MS-1583` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 15 A12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A12UE | `Sword15-A12UE/MS-1583` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 A12UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A12UC | `Sword17-A12UC/MS-17L3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 A12UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A12UD | `Sword17-A12UD/MS-17L3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 A12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A12UE | `Sword17-A12UE/MS-17L3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Thin | MSI Thin GF63 12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12UC | `GF63-12UC/MS-16R7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI Titan GT77 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan GT77 12UGS | `GT77-12UGS/MS-17Q1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT77 12UHS / 13VI (2022-2023 Mini-LED 144Hz Cherry MX) | `GT77` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color, keyboard_rgb |
+| MSI | Titan | MSI Titan GT77 12UHS | `GT77-12UHS/MS-17Q1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Vector | MSI Vector GP66 12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP66 12UE | `GP66-12UE/MS-1544` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP66 12UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP66 12UG | `GP66-12UG/MS-1544` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP66 12UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP66 12UH | `GP66-12UH/MS-1544` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP76 12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP76 12UE | `GP76-12UE/MS-17K4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP76 12UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP76 12UG | `GP76-12UG/MS-17K4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP76 12UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2021 (1219 modelos)
+| MSI | Vector | MSI Vector GP76 12UH | `GP76-12UH/MS-17K4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2021 (1298 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -6416,98 +6626,177 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JJ) | `20JJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 B5EEK (2021 Ryzen 5000 + RX 6600M) | `Alpha15_2021` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 B5EEK Advantage |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 15 B5EEK Advantage | `Alpha15-B5EEK/MS-158K` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 17 B5EEK Advantage |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 17 B5EEK Advantage | `Alpha17-B5EEK/MS-17LK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 B5DD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 B5DD | `Bravo15-B5DD/MS-158K` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator 15 A11UE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A11UE | `Creator15-A11UE/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator 15 A11UH |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A11UH | `Creator15-A11UH/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator 17 B11UH Mini-LED |  | ✅  | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator 17 B11UH Mini-LED | `Creator17-B11UH/MS-17G5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | MSI | Creator | MSI Creator M16 A11UC |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 A11UC | `CreatorM16-A11UC/MS-1582` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator M16 A11UD |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 A11UD | `CreatorM16-A11UD/MS-1582` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16 A11UE | `CreatorZ16-A11UE/MS-1571` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16 A11UET / A12UET (2021-2022 Proporcion Aurea 16:10) | `CreatorZ16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator Z16 A11UET | `CreatorZ16-A11UET/MS-1571` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Crosshair | MSI Crosshair 15 A11UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 15 A11UEK | `Crosshair15-A11UEK/MS-1582` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 15 R6E (2021-2023 Rainbow Six Special) | `Crosshair15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 17 (2021-2023) | `Crosshair17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 17 A11UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 17 A11UEK | `Crosshair17-A11UEK/MS-17L2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Delta | MSI Delta 15 A5EFK (2021-2022 Ultradelgada All-AMD) | `Delta15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Delta | MSI Delta 15 A5EFK Advantage |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Delta | MSI Delta 15 A5EFK Advantage | `Delta15-A5EFK/MS-1561` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana GF66 (2021-2022 Diseno Tsuyoshi Nagano) | `KatanaGF66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF66 11UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 11UC | `KatanaGF66-11UC/MS-1581` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF66 11UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 11UD | `KatanaGF66-11UD/MS-1581` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF66 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 11UE | `KatanaGF66-11UE/MS-1581` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF66 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 11UG | `KatanaGF66-11UG/MS-1581` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 (2021-2022) | `KatanaGF76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 11UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 11UC | `KatanaGF76-11UC/MS-17L1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 11UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 11UD | `KatanaGF76-11UD/MS-17L1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 11UE | `KatanaGF76-11UE/MS-17L1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 11UG | `KatanaGF76-11UG/MS-17L1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Modern | MSI Modern 14 B11MO |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B11MO | `Modern14-B11MO/MS-14D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B11MOU |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B11MOU | `Modern14-B11MOU/MS-14D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B11SBL |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B11SBL | `Modern14-B11SBL/MS-14D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B5M Ryzen 5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B5M Ryzen 5000 | `Modern14-B5M/MS-14DK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A5M Ryzen 5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A5M Ryzen 5000 | `Modern15-A5M/MS-155K` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Pulse | MSI Pulse GL66 (2021-2022 Diseno Futurista) | `PulseGL66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL66 11UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL66 11UEK | `PulseGL66-11UEK/MS-1582` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL66 11UGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL66 11UGK | `PulseGL66-11UGK/MS-1582` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL76 (2021-2022) | `PulseGL76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL76 11UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL76 11UEK | `PulseGL76-11UEK/MS-17L2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL76 11UGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL76 11UGK | `PulseGL76-11UGK/MS-17L2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Raider | MSI GE66 Raider 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 11UE | `GE66-11UE/MS-1543` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE66 Raider 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 11UG | `GE66-11UG/MS-1543` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE66 Raider 11UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 11UH | `GE66-11UH/MS-1543` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE76 Raider 10UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 10UE | `GE76-10UE/MS-17K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE76 Raider 10UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 10UG | `GE76-10UG/MS-17K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE76 Raider 10UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 10UH | `GE76-10UH/MS-17K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE76 Raider 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 11UE | `GE76-11UE/MS-17K3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE76 Raider 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 11UG | `GE76-11UG/MS-17K3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE76 Raider 11UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 11UH | `GE76-11UH/MS-17K3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE76 Raider (2021-2022 RTX 3080 Ti) | `GE76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI GS66 Stealth 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 11UE | `GS66-11UE/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS66 Stealth 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 11UG | `GS66-11UG/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS66 Stealth 11UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 11UH | `GS66-11UH/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS76 Stealth 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS76 Stealth 11UE | `GS76-11UE/MS-17M1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS76 Stealth 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS76 Stealth 11UG | `GS76-11UG/MS-17M1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS76 Stealth 11UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS76 Stealth 11UH | `GS76-11UH/MS-17M1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS76 Stealth (2021) | `GS76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Summit | MSI Summit E13 Flip Evo A11MT / A12M (2021-2023 16:10 360) | `SummitE13Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E13 Flip Evo A11MT | `SummitE13Flip-A11MT/MS-13P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E14 A11MOT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E14 A11MOT | `SummitE14-A11MOT/MS-14C4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E16 Flip A11UCT / A12UCT / A13V (2021-2024) | `SummitE16Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E16 Flip A11UCT | `SummitE16Flip-A11UCT/MS-16U8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Sword | MSI Sword 15 (2021-2023 Chasis Blanco) | `Sword15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Sword | MSI Sword 15 A11UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A11UC | `Sword15-A11UC/MS-1581` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 15 A11UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A11UD | `Sword15-A11UD/MS-1581` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 15 A11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A11UE | `Sword15-A11UE/MS-1581` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 (2021-2023) | `Sword17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Sword | MSI Sword 17 A11UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A11UC | `Sword17-A11UC/MS-17L1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 A11UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A11UD | `Sword17-A11UD/MS-17L1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 A11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A11UE | `Sword17-A11UE/MS-17L1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Thin | MSI GF63 Thin 10UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 10UC | `GF63-10UC/MS-16R5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 Thin 10UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 10UD | `GF63-10UD/MS-16R5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 Thin 11SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 11SC | `GF63-11SC/MS-16R6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 Thin 11UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 11UC | `GF63-11UC/MS-16R6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 Thin 11UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 11UD | `GF63-11UD/MS-16R6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF65 Thin 10UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 10UE | `GF65-10UE/MS-16W2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 10UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 10UE | `GF75-10UE/MS-17F5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP66 Leopard 10UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 10UE | `GP66-10UE/MS-1542` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP66 Leopard 10UG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 10UG | `GP66-10UG/MS-1542` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP66 Leopard 10UH |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 10UH | `GP66-10UH/MS-1542` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP66 Leopard 11UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 11UE | `GP66-11UE/MS-1543` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP66 Leopard 11UG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 11UG | `GP66-11UG/MS-1543` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP66 Leopard 11UH |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 11UH | `GP66-11UH/MS-1543` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP76 Leopard 10UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 10UE | `GP76-10UE/MS-17K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP76 Leopard 10UG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 10UG | `GP76-10UG/MS-17K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP76 Leopard 10UH |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 10UH | `GP76-10UH/MS-17K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP76 Leopard 11UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 11UE | `GP76-11UE/MS-17K3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP76 Leopard 11UG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 11UG | `GP76-11UG/MS-17K3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP76 Leopard 11UH |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 11UH | `GP76-11UH/MS-17K3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP66 Leopard (2021-2022 Chasis Metalico) | `GP66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP76 Leopard (2021-2022) | `GP76` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS66 11UK RTX A3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 11UK RTX A3000 | `WS66-11UK/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS66 11UL RTX A4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 11UL RTX A4000 | `WS66-11UL/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS66 11UM RTX A5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 11UM RTX A5000 | `WS66-11UM/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS76 11UK RTX A3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS76 11UK RTX A3000 | `WS76-11UK/MS-17M1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS76 11UL RTX A4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS76 11UL RTX A4000 | `WS76-11UL/MS-17M1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS76 11UM RTX A5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS76 11UM RTX A5000 | `WS76-11UM/MS-17M1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS76 11UK (2021 RTX A5000 4K Mini-LED) | `WS76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
-## 📅 Generación 2020 (876 modelos)
+## 📅 Generación 2020 (943 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -7313,81 +7602,148 @@
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D3) | `30D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D4) | `30D4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 A4DDR (2020 Ryzen 4000) | `Bravo15_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 A4DDR | `Bravo15-A4DDR/MS-16WK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 17 A4DDR (2020) | `Bravo17_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 A4DDR | `Bravo17-A4DDR/MS-17FK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator 15 A10S / A11U (2020-2021 Pantalla Tactil OLED) | `Creator15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | MSI | Creator | MSI Creator 15 A10SD |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A10SD | `Creator15-A10SD/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator 15 A10SE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A10SE | `Creator15-A10SE/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator 15 A10SFS |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A10SFS | `Creator15-A10SFS/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator 15 A10SGS |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A10SGS | `Creator15-A10SGS/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator 17 A10S (2020 Primera Laptop Mini-LED del Mundo) | `Creator17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | MSI | Creator | MSI Creator 17 A10SE Mini-LED |  | ✅  | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator 17 A10SE Mini-LED | `Creator17-A10SE/MS-17G3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | MSI | Creator | MSI Creator 17 A10SFS Mini-LED |  | ✅  | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator 17 A10SFS Mini-LED | `Creator17-A10SFS/MS-17G3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | MSI | Creator | MSI Creator 17 A10SGS Mini-LED |  | ✅  | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator 17 A10SGS Mini-LED | `Creator17-A10SGS/MS-17G3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | MSI | Katana | MSI GL65 Leopard 10SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 Leopard 10SC | `GL65-10SC/MS-16U7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL65 Leopard 10SDR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 Leopard 10SDR | `GL65-10SDR/MS-16U7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL65 Leopard 10SEK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 Leopard 10SEK | `GL65-10SEK/MS-16U7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL65 Leopard 10SFK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 Leopard 10SFK | `GL65-10SFK/MS-16U7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL75 Leopard 10SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 Leopard 10SC | `GL75-10SC/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL75 Leopard 10SDR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 Leopard 10SDR | `GL75-10SDR/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL75 Leopard 10SEK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 Leopard 10SEK | `GL75-10SEK/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL75 Leopard 10SFK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 Leopard 10SFK | `GL75-10SFK/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B10M / B11M / B4M (2020 Intel/AMD) | `Modern14_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B10MW |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B10MW | `Modern14-B10MW/MS-14D2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B10RAS | `Modern14-B10RAS/MS-14D2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B11M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B11M | `Modern14-B11M/MS-14D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B4MW Ryzen 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B4MW Ryzen 4000 | `Modern14-B4MW/MS-14DK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A11M / A4M (2020) | `Modern15_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A11M | `Modern15-A11M/MS-1552` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A11SBL |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A11SBL | `Modern15-A11SBL/MS-1552` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A4M Ryzen 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A4M Ryzen 4000 | `Modern15-A4M/MS-155K` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A11SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A11SC | `Prestige14-A11SC/MS-14C4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A11SCS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A11SCS | `Prestige14-A11SCS/MS-14C4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A11SCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A11SCX | `Prestige14-A11SCX/MS-14C4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 Evo A11M / A12M (2020-2022 Intel Evo) | `Prestige14Evo` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 14 Evo A11M | `Prestige14Evo-A11M/MS-14C5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A11SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A11SC | `Prestige15-A11SC/MS-16S6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A11SCS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A11SCS | `Prestige15-A11SCS/MS-16S6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A11SCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A11SCX | `Prestige15-A11SCX/MS-16S6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE66 Raider 10SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 10SE | `GE66-10SE/MS-1541` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE66 Raider 10SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 10SF | `GE66-10SF/MS-1541` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE66 Raider 10SFS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 10SFS | `GE66-10SFS/MS-1541` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE66 Raider 10SGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 10SGS | `GE66-10SGS/MS-1541` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 10SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 10SE | `GE75-10SE/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 10SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 10SF | `GE75-10SF/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 10SGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 10SGS | `GE75-10SGS/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE66 Raider Aurora Light Bar (2020-2021) | `GE66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI GS66 Stealth 10SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 10SE | `GS66-10SE/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS66 Stealth 10SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 10SF | `GS66-10SF/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS66 Stealth 10SFS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 10SFS | `GS66-10SFS/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS66 Stealth 10SGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 10SGS | `GS66-10SGS/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS66 Stealth (2020-2021 Bateria 99.9Wh) | `GS66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Summit | MSI Summit E14 A11SCS / A12M (2020-2022) | `SummitE14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E14 A11SCS | `SummitE14-A11SCS/MS-14C4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E14 A11SCST |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E14 A11SCST | `SummitE14-A11SCST/MS-14C4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E15 A11SCS (2020-2021 GTX 1650 Ti Max-Q) | `SummitE15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E15 A11SCS | `SummitE15-A11SCS/MS-16S6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E15 A11SCST |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E15 A11SCST | `SummitE15-A11SCST/MS-16S6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 Thin 10SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 10SC | `GF63-10SC/MS-16R4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 Thin 10SCXR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 10SCXR | `GF63-10SCXR/MS-16R4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF65 Thin 10SDR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 10SDR | `GF65-10SDR/MS-16W1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF65 Thin 10SEXR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 10SEXR | `GF65-10SEXR/MS-16W1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF65 Thin 9SEXR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 9SEXR | `GF65-9SEXR/MS-16W1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 10SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 10SC | `GF75-10SC/MS-17F3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 10SCXR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 10SCXR | `GF75-10SCXR/MS-17F3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 10SDR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 10SDR | `GF75-10SDR/MS-17F3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT76 Titan DT 10SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT76 Titan DT 10SF | `GT76-10SF/MS-1772` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT76 Titan DT 10SGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT76 Titan DT 10SGS | `GT76-10SGS/MS-1772` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Vector | MSI GP65 Leopard 10SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP65 Leopard 10SE | `GP65-10SE/MS-16U7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP65 Leopard 10SF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP65 Leopard 10SF | `GP65-10SF/MS-16U7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP75 Leopard 10SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP75 Leopard 10SE | `GP75-10SE/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP75 Leopard 10SF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP75 Leopard 10SF | `GP75-10SF/MS-17E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WF65 10TI Quadro T1000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WF65 10TI Quadro T1000 | `WF65-10TI/MS-16R4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WF65 10TJ Quadro T2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WF65 10TJ Quadro T2000 | `WF65-10TJ/MS-16R4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WF75 10TI Quadro T1000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WF75 10TI Quadro T1000 | `WF75-10TI/MS-17F3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WF75 10TJ Quadro T2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WF75 10TJ Quadro T2000 | `WF75-10TJ/MS-17F3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS66 10TK Quadro RTX 3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 10TK Quadro RTX 3000 | `WS66-10TK/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS66 10TL Quadro RTX 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 10TL Quadro RTX 4000 | `WS66-10TL/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS66 10TM Quadro RTX 5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 10TM Quadro RTX 5000 | `WS66-10TM/MS-16V1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WF65 10TI (2020) | `WF65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WF75 10TJ (2020) | `WF75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS66 10TL / 11UK (2020-2021 RTX A5000) | `WS66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2019 (779 modelos)
+## 📅 Generación 2019 (867 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8071,120 +8427,229 @@
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30C9) | `30C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30CA) | `30CA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 A3DD (2019 Primer 7nm All-AMD) | `Alpha15_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 15 A3DD | `Alpha15-A3DD/MS-16U6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 A3DDK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 15 A3DDK | `Alpha15-A3DDK/MS-16U6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator P75 Creator (2019 4K HDR) | `P75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | MSI | Creator | MSI P65 Creator 9SE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 9SE | `P65-9SE/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI P65 Creator 9SF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 9SF | `P65-9SF/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI P65 Creator 9SG |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 9SG | `P65-9SG/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI P75 Creator 9SE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P75 Creator 9SE | `P75-9SE/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI P75 Creator 9SF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P75 Creator 9SF | `P75-9SF/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI P75 Creator 9SG |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P75 Creator 9SG | `P75-9SG/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Katana | MSI GL63 8SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8SC | `GL63-8SC/MS-16P8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL63 8SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8SD | `GL63-8SD/MS-16P8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL63 8SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8SE | `GL63-8SE/MS-16P8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL63 9RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 9RC | `GL63-9RC/MS-16P8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL63 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 9SC | `GL63-9SC/MS-16P8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL63 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 9SD | `GL63-9SD/MS-16P8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL63 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 9SE | `GL63-9SE/MS-16P8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL65 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 9SC | `GL65-9SC/MS-16U4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL65 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 9SD | `GL65-9SD/MS-16U4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL65 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 9SE | `GL65-9SE/MS-16U4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 8SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8SC | `GL73-8SC/MS-17C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 8SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8SD | `GL73-8SD/MS-17C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 8SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8SE | `GL73-8SE/MS-17C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 9RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 9RC | `GL73-9RC/MS-17C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 9SC | `GL73-9SC/MS-17C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 9SD | `GL73-9SD/MS-17C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 9SE | `GL73-9SE/MS-17C8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL75 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 9SC | `GL75-9SC/MS-17E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL75 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 9SD | `GL75-9SD/MS-17E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL75 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 9SE | `GL75-9SE/MS-17E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana GL65 Leopard (2019-2020) | `GL65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GL75 (2019-2020) | `GL75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Modern | MSI Modern 14 A10M / A10RAS (2019 Chasis Aluminio) | `Modern14_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 A10M | `Modern14-A10M/MS-14D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 A10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 A10RAS | `Modern14-A10RAS/MS-14D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 A10RB |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 A10RB | `Modern14-A10RB/MS-14D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A10M / A10RAS (2019) | `Modern15_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A10M | `Modern15-A10M/MS-1551` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A10RAS | `Modern15-A10RAS/MS-1551` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A10RB |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A10RB | `Modern15-A10RB/MS-1551` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A10RAS | `Prestige14-A10RAS/MS-14C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A10RB |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A10RB | `Prestige14-A10RB/MS-14C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A10SC / A11SC / A12U (2019-2022) | `Prestige14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 14 A10SC | `Prestige14-A10SC/MS-14C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A10RAS | `Prestige15-A10RAS/MS-16S3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A10RB |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A10RB | `Prestige15-A10RB/MS-16S3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A10SC / A11SC / A12U (2019-2022) | `Prestige15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 15 A10SC | `Prestige15-A10SC/MS-16S3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE63 Raider RGB 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 9SE | `GE63-9SE/MS-16P7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE63 Raider RGB 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 9SF | `GE63-9SF/MS-16P7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE63 Raider RGB 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 9SG | `GE63-9SG/MS-16P7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE65 Raider 9SD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE65 Raider 9SD | `GE65-9SD/MS-16U1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE65 Raider 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE65 Raider 9SE | `GE65-9SE/MS-16U1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE65 Raider 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE65 Raider 9SF | `GE65-9SF/MS-16U1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE73 Raider RGB 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 9SE | `GE73-9SE/MS-17C7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE73 Raider RGB 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 9SF | `GE73-9SF/MS-17C7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE73 Raider RGB 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 9SG | `GE73-9SG/MS-17C7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 8SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8SE | `GE75-8SE/MS-17E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 8SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8SF | `GE75-8SF/MS-17E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 8SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8SG | `GE75-8SG/MS-17E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 9SE | `GE75-9SE/MS-17E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 9SF | `GE75-9SF/MS-17E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 9SG | `GE75-9SG/MS-17E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE65 Raider 9SF (2019 240Hz) | `GE65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Raider | MSI Raider GE75 Raider 8SG/9SG (2019) | `GE75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI GS65 Stealth 9SD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth 9SD | `GS65-9SD/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS65 Stealth 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth 9SE | `GS65-9SE/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS65 Stealth 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth 9SF | `GS65-9SF/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS65 Stealth 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth 9SG | `GS65-9SG/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS75 Stealth 8SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 8SE | `GS75-8SE/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS75 Stealth 8SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 8SF | `GS75-8SF/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS75 Stealth 8SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 8SG | `GS75-8SG/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS75 Stealth 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 9SE | `GS75-9SE/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS75 Stealth 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 9SF | `GS75-9SF/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS75 Stealth 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 9SG | `GS75-9SG/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS75 Stealth (2019 17.3 Delgado) | `GS75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Thin | MSI GF63 Thin 9RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 9RC | `GF63-9RC/MS-16R3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 Thin 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 9SC | `GF63-9SC/MS-16R3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 Thin 9SCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 9SCX | `GF63-9SCX/MS-16R3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF65 Thin 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 9SD | `GF65-9SD/MS-16W1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF65 Thin 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 9SE | `GF65-9SE/MS-16W1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 9SC | `GF75-9SC/MS-17F2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 9SCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 9SCX | `GF75-9SCX/MS-17F2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 9SD | `GF75-9SD/MS-17F2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 9SE | `GF75-9SE/MS-17F2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF65 Thin (2019-2021 Doble Ventilador) | `GF65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF75 Thin (2019-2021 17.3 Liviano) | `GF75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT75 Titan 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 9SF | `GT75-9SF/MS-17A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT75 Titan 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 9SG | `GT75-9SG/MS-17A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT76 Titan DT 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT76 Titan DT 9SF | `GT76-9SF/MS-1771` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT76 Titan DT 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT76 Titan DT 9SG | `GT76-9SG/MS-1771` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT76 Titan DT 9SG (2019 Desktop CPU) | `GT76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Vector | MSI GP65 Leopard 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP65 Leopard 9SD | `GP65-9SD/MS-16U4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP65 Leopard 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP65 Leopard 9SE | `GP65-9SE/MS-16U4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP75 Leopard 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP75 Leopard 9SD | `GP75-9SD/MS-17E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP75 Leopard 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP75 Leopard 9SE | `GP75-9SE/MS-17E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP65 Leopard (2019-2020) | `GP65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP75 Leopard (2019-2020) | `GP75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS65 9TK Quadro RTX 3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS65 9TK Quadro RTX 3000 | `WS65-9TK/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS65 9TL Quadro RTX 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS65 9TL Quadro RTX 4000 | `WS65-9TL/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS65 9TM Quadro RTX 5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS65 9TM Quadro RTX 5000 | `WS65-9TM/MS-16Q4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS75 9TK Quadro RTX 3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS75 9TK Quadro RTX 3000 | `WS75-9TK/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS75 9TL Quadro RTX 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS75 9TL Quadro RTX 4000 | `WS75-9TL/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS75 9TM Quadro RTX 5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS75 9TM Quadro RTX 5000 | `WS75-9TM/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS75 9TL / 9TM (2019 Quadro RTX) | `WS75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-## 📅 Generación 2018 (626 modelos)
+## 📅 Generación 2018 (738 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG | ASUS ROG Strix GL504GM Hero II (2018) | `GL504GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG Strix GL504GS SCAR II (2018) | `GL504GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG Strix GL704GS SCAR II (2018) | `GL704GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG Zephyrus GX501GI (2018) | `GX501GI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Strix Hero II GL504GM (2018) | `GL504GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Strix SCAR II GL504GS (2018 Marcos Delgados 144Hz) | `GL504GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Strix SCAR II GL704GM (2018 17.3) | `GL704GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Zephyrus M GM501GS (2018 144Hz G-Sync AAS) | `GM501GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | ROG | ROG Zephyrus S GX531GS (2018 Marcos Ultradelgados) | `GX531GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | TUF Gaming | ASUS ASUS TUF FX504GD (2018) | `FX504GD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS TUF FX504GM (2018) | `FX504GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS TUF FX505GD (2018) | `FX505GD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS TUF FX505GM (2018) | `FX505GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS TUF FX705GD (2018) | `FX705GD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS TUF FX705GM (2018) | `FX705GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | TUF Gaming FX504GE (2018 Primer TUF Gaming Oficial) | `FX504GE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | TUF Gaming FX505GE (2018 Marcos NanoEdge 144Hz) | `FX505GE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | TUF Gaming FX705GE (2018 17.3 NanoEdge) | `FX705GE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | VivoBook | ASUS VivoBook 14 X411UA (2018) | `X411UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook 14 X411UF (2018) | `X411UF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook 15 X510UF (2018) | `X510UF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook Flip 14 TP412UA (2018) | `TP412UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook Pro 17 N705UD (2018) | `N705UD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook S13 S330UA (2018) | `S330UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook S13 S330UN (2018) | `S330UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | VivoBook | VivoBook Pro 15 N580VD (2018 GTX 1050) | `N580VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | VivoBook | VivoBook S14 S430UN (2018) | `S430UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | VivoBook | VivoBook S15 S530UN (2018 Teclado Elevable ErgoLift) | `S530UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook 13 UX333FA (2018) | `UX333FA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook 14 UX433FN (2018) | `UX433FN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook 15 UX533FN (2018) | `UX533FN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook Pro 14 UX480FD (2018) | `UX480FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Zenbook | Zenbook 13 UX331UN (2018 Ultradelgada MX150) | `UX331UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | Zenbook 14 UX433FA (2018 ErgoLift NumberPad) | `UX433FA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | Zenbook 15 UX533FD (2018 ErgoLift GTX 1050 Max-Q) | `UX533FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -8193,6 +8658,24 @@
 | Dell | Alienware | Alienware 15 R4 | `0871` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | Dell | Alienware | Alienware 17 R5 | `0872` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | Dell | Alienware | Alienware m15 (2018) | `08CE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| Dell | G-Series | Dell Dell G3 15 3579 (2018) | `086D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G3 17 3779 (2018) | `086E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G5 15 5587 (2018) | `086F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G7 15 7588 (2018) | `0870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Inspiron | Dell Inspiron 13 7380 (2018) | `0880` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 13 7386 2-in-1 (2018) | `0881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 14 5481 2-in-1 (2018) | `0882` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 14 5482 2-in-1 (2018) | `0883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 5584 (2018) | `08B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 7580 (2018) | `0886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 7586 2-in-1 (2018) | `0887` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 17 7786 2-in-1 (2018) | `0888` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 12 5290 (2018) | `082B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 12 7290 (2018) | `081C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 13 7390 (2018) | `081D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 14 5490 (2018) | `082C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 14 7490 (2018) | `081E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 15 5590 (2018) | `082D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 12 Rugged Extreme (7204) | `0610` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 12 Rugged Tablet 7202 | `06A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 14 Rugged (5404) | `062F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8245,6 +8728,7 @@
 | Dell | Optiplex | OptiPlex 9030 AIO | `0625` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex XE2 | `05C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | Optiplex 9030 | `0625` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Precision | Dell Precision 5530 2-in-1 (2018) | `0838` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Precision | Precision 3530 | `0857` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 5530 | `0854` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 7530 | `0855` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -8268,6 +8752,10 @@
 | Dell | Tablet | Venue 11 Pro 7130 vPro | `0605` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Venue 11 Pro 7130 | `0604` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Venue 11 Pro 7140 | `066B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 14 5481 (2018) | `0889` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 15 3578 (2018) | `083E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 15 5581 (2018) | `088A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 15 7580 (2018) | `0872` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | XPS Notebook | XPS 13 9343 | `0665` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9343 | `0665` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 13 9370 (Coffee Lake 2018) | `083A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -8684,6 +9172,28 @@
 | HP | Zbook | HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 1709) | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1703) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1709) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Lenovo | IdeaPad | Lenovo IdeaPad 330-14IKB (2018) | `81G2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 330-15ARR (2018) | `81D2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 330-15IKB (2018) | `81DE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 330-17IKB (2018) | `81DK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 330S-14IKB (2018) | `81F4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 330S-15ARR (2018) | `81FB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 330S-15IKB (2018) | `81F5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 530S-14ARR (2018) | `81H1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 530S-14IKB (2018) | `81EU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 530S-15IKB (2018) | `81EV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 720S-13ARR (2018) | `81BR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V130-14IKB (2018) | `81HQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V130-15IKB (2018) | `81HN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V330-14ARR (2018) | `81B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V330-14IKB (2018) | `81B0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V330-15IKB (2018) | `81AX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Legion | Lenovo IdeaPad 330-15ICH Gaming (2018) | `81FK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Legion | Lenovo IdeaPad 330-17ICH Gaming (2018) | `81FL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Legion | Lenovo Legion Y530-15ICH (2018) | `81FV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Y530-15ICH-1060 (2018) | `81LB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Y730-15ICH (2018) | `81HD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Y730-17ICH (2018) | `81HG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M715Q | `10M4,10RA,10RB,10M5,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P320 TINY | `30C2,30C1,30C3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad A285 | `20MW,20MX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8747,75 +9257,167 @@
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C1) | `30C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C2) | `30C2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C3) | `30C3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 530-14ARR (2018) | `81H9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 530-14IKB (2018) | `81EK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 730-13IKB (2018) | `81CT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 730-15IKB (2018) | `81CU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga C930-13IKB (2018) | `81C4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga S730-13IWL (2018) | `81J0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator P65 Creator (2018-2019) | `P65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI P65 Creator 8RD |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 8RD | `P65-8RD/MS-16Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI P65 Creator 8RE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 8RE | `P65-8RE/MS-16Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI P65 Creator 8RF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 8RF | `P65-8RF/MS-16Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Katana | MSI GL63 8RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8RC | `GL63-8RC/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL63 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8RD | `GL63-8RD/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL63 8RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8RE | `GL63-8RE/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 8RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8RC | `GL73-8RC/MS-17C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8RD | `GL73-8RD/MS-17C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL73 8RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8RE | `GL73-8RE/MS-17C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana GL63 8RC/8RD (2018) | `GL63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GL73 8RC/8RD (2018) | `GL73` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Raider | MSI GE63 Raider RGB 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 8RE | `GE63-8RE/MS-16P5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE63 Raider RGB 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 8RF | `GE63-8RF/MS-16P5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE73 Raider RGB 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 8RE | `GE73-8RE/MS-17C5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE73 Raider RGB 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 8RF | `GE73-8RF/MS-17C5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8RE | `GE75-8RE/MS-17E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE75 Raider 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8RF | `GE75-8RF/MS-17E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE63 Raider RGB 8RE/8RF (2018) | `GE63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Raider | MSI Raider GE73 Raider RGB 8RE/8RF (2018) | `GE73` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI GS63 Stealth 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS63 Stealth 8RE | `GS63-8RE/MS-16K5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS65 Stealth Thin 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth Thin 8RE | `GS65-8RE/MS-16Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS65 Stealth Thin 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth Thin 8RF | `GS65-8RF/MS-16Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS73 Stealth 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS73 Stealth 8RE | `GS73-8RE/MS-17B5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS65 Stealth Thin (2018 Marcos Delgados Oro) | `GS65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Thin | MSI GF62 8RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF62 8RC | `GF62-8RC/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF62 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF62 8RD | `GF62-8RD/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF62 8RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF62 8RE | `GF62-8RE/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 8RC Thin |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 8RC Thin | `GF63-8RC/MS-16R1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF63 8RD Thin |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 8RD Thin | `GF63-8RD/MS-16R1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI GF75 Thin 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 8RD | `GF75-8RD/MS-17F1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF63 Thin (2018-2023 Chasis Liviano) | `GF63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT75 Titan 8RD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 8RD | `GT75-8RD/MS-17A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT75 Titan 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 8RE | `GT75-8RE/MS-17A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT75 Titan 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 8RF | `GT75-8RF/MS-17A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT75 Titan 8RG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 8RG | `GT75-8RG/MS-17A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT83 Titan 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83 Titan 8RF | `GT83-8RF/MS-1816` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT83 Titan 8RG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83 Titan 8RG | `GT83-8RG/MS-1816` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT75 Titan 8RG (2018 Core i9) | `GT75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Vector | MSI GP63 Leopard 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP63 Leopard 8RD | `GP63-8RD/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP63 Leopard 8RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP63 Leopard 8RE | `GP63-8RE/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP73 Leopard 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP73 Leopard 8RD | `GP73-8RD/MS-17C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP73 Leopard 8RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP73 Leopard 8RE | `GP73-8RE/MS-17C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP63 Leopard (2018) | `GP63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP73 Leopard (2018) | `GP73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WE63 8RJ Quadro P2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WE63 8RJ Quadro P2000 | `WE63-8RJ/MS-16P6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WE73 8RJ Quadro P2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WE73 8RJ Quadro P2000 | `WE73-8RJ/MS-17C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS63 8SJ Quadro P2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS63 8SJ Quadro P2000 | `WS63-8SJ/MS-16K5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS63 8SK Quadro P3200 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS63 8SK Quadro P3200 | `WS63-8SK/MS-16K5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS65 8SK Quadro P3200 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS65 8SK Quadro P3200 | `WS65-8SK/MS-16Q2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WE63 8RJ (2018 Quadro P2000) | `WE63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WE73 8RJ (2018) | `WE73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS65 8SK / 9TM (2018-2019 Quadro RTX 5000) | `WS65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-## 📅 Generación 2017 (209 modelos)
+## 📅 Generación 2017 (317 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG | ASUS ROG G701VIK (2017) | `G701VIK` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL553VD (2017) | `GL553VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL553VE (2017) | `GL553VE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL753VD (2017) | `GL753VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL753VE (2017) | `GL753VE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG Strix GL702VS (2017) | `GL702VS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG Strix GL702ZC (2017) | `GL702ZC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG Zephyrus GX501VS (2017) | `GX501VS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG G703VI Chimera (2017 144Hz GTX 1080) | `G703VI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | ROG | ROG Strix GL503VM Hero Edition (2017 120Hz) | `GL503VM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Strix GL503VS SCAR Edition (2017 144Hz) | `GL503VS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Strix GL703VD (2017 17.3) | `GL703VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Zephyrus GX501VI (2017 Primer Zephyrus Max-Q AAS) | `GX501VI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | TUF Gaming | ASUS ASUS FX502VE (2017) | `FX502VE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS FX553VD (2017) | `FX553VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS FX553VE (2017) | `FX553VE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS FX753VD (2017) | `FX753VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS FX503VD (2017 Precursor de TUF Gaming) | `FX503VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | VivoBook | ASUS VivoBook 15 X510UQ (2017) | `X510UQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook 15 X510UR (2017) | `X510UR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook Flip 14 TP410UA (2017) | `TP410UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook Flip 14 TP410UR (2017) | `TP410UR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook S14 S410UA (2017) | `S410UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook S14 S410UN (2017) | `S410UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook S15 S510UA (2017) | `S510UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook S15 S510UN (2017) | `S510UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook S15 S510UQ (2017) | `S510UQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook Flip 14 UX461UA (2017) | `UX461UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook Flip 14 UX461UN (2017) | `UX461UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook Flip 15 UX561UD (2017) | `UX561UD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX330UAK (2017) | `UX330UAK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX430UA (2017) | `UX430UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX430UN (2017) | `UX430UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX430UQ (2017) | `UX430UQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX530UQ (2017) | `UX530UQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX530UX (2017) | `UX530UX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Zenbook | Zenbook 3 Deluxe UX490UA (2017 14 en chasis de 13) | `UX490UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | Zenbook Flip S UX370UA (2017 10.9mm 1.1kg) | `UX370UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | Zenbook Pro UX550VD (2017 Marcos NanoEdge) | `UX550VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Alienware | Alienware 13 R3 OLED | `0776` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color, keyboard_rgb |
 | Dell | Alienware | Alienware 15 R3 | `0774` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | Dell | Alienware | Alienware 17 R4 | `0775` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| Dell | G-Series | Dell Inspiron 15 7567 Gaming (2017) | `07E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Inspiron 15 7577 Gaming (2017) | `0802` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Inspiron | Dell Inspiron 13 7370 (2017) | `080B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 13 7373 2-in-1 (2017) | `080C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 14 7472 (2017) | `0832` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 5570 (2017) | `0810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 7570 (2017) | `080D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 7572 (2017) | `0833` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 7573 2-in-1 (2017) | `080E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 17 5770 (2017) | `0811` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 17 7773 2-in-1 (2017) | `080F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 12 5280 (2017) | `07A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 12 7280 (2017) | `07A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 14 5480 (2017) | `07A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 14 7480 (2017) | `07A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 15 5580 (2017) | `07A5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3150 | `068F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3160 | `06A8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5280 | `07A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8835,6 +9437,9 @@
 | Dell | Precision | Precision M6800 | `05CD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision R7910 | `061A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision Rack 7910 | `061A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Vostro | Dell Vostro 14 5471 (2017) | `0823` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 15 5571 (2017) | `0824` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 15 7570 (2017) | `0801` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | XPS | XPS 13 9365 2-in-1 | `077A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 15 9560 (Kaby Lake 2017) | `07BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | EliteBook | HP Elite x2 1012 G2 | `8337` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8923,6 +9528,21 @@
 | HP | ZBook | HP ZBook 17 G4 Mobile Workstation | `8266` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | ZBook | HP ZBook Studio G4 | `8267` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 1703) | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Lenovo | IdeaPad | Lenovo IdeaPad 320-14IKB (2017) | `80XK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 320-15IKB (2017) | `80XL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 320-17IKB (2017) | `80XM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 320S-14IKB (2017) | `80X4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 320S-15IKB (2017) | `80X5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 520-15IKB (2017) | `80YL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 520S-14IKB (2017) | `80X2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 720S-13IKB (2017) | `81A8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 720S-14IKB (2017) | `81BD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 720S-15IKB (2017) | `81AC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V320-17IKB (2017) | `81AH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Legion | Lenovo Legion Y520-15IKBA (2017) | `80WY` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Y520-15IKBN (2017) | `80WK` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Y720-15IKB (2017) | `80VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Y920-17IKB (2017) | `80VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M910Z | `10NV,10NT,10NS,10NR,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre X1 | `10KE,10JY,10KF,10K0,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P510 | `30B5,30B4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8966,68 +9586,146 @@
 | Lenovo | Thinkstation | ThinkStation P510 (Type 30B5) | `30B5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P710 (Type 30B6) | `30B6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P710 (Type 30B7) | `30B7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 520-14IKB (2017) | `80X8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 720-13IKB (2017) | `80X6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 720-15IKB (2017) | `80X7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 920-13IKB (2017) | `80Y7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL62 7RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 7RD | `GL62-7RD/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL62 7RDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 7RDX | `GL62-7RDX/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL62 7RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 7RE | `GL62-7RE/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL62M 7RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62M 7RD | `GL62M-7RD/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL62M 7RDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62M 7RDX | `GL62M-7RDX/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL62M 7REX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62M 7REX | `GL62M-7REX/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL72 7RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72 7RD | `GL72-7RD/MS-1799` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL72 7RDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72 7RDX | `GL72-7RDX/MS-1799` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL72M 7RDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72M 7RDX | `GL72M-7RDX/MS-1799` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL72M 7REX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72M 7REX | `GL72M-7REX/MS-1799` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE62VR 7RF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62VR 7RF Apache Pro | `GE62VR-7RF/MS-16JB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE63VR 7RE Raider |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63VR 7RE Raider | `GE63VR-7RE/MS-16P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE63VR 7RF Raider |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63VR 7RF Raider | `GE63VR-7RF/MS-16P1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE72VR 7RF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72VR 7RF Apache Pro | `GE72VR-7RF/MS-179B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE73VR 7RE Raider |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73VR 7RE Raider | `GE73VR-7RE/MS-17C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI GE73VR 7RF Raider |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73VR 7RF Raider | `GE73VR-7RF/MS-17C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE63VR Raider RGB (2017) | `GE63VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Raider | MSI Raider GE73VR Raider RGB (2017) | `GE73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI GS43VR 7RE Phantom Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS43VR 7RE Phantom Pro | `GS43VR-7RE/MS-14A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS63VR 7RF Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS63VR 7RF Stealth Pro | `GS63VR-7RF/MS-16K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS63VR 7RG Stealth Pro Max-Q |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS63VR 7RG Stealth Pro Max-Q | `GS63VR-7RG/MS-16K4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS73VR 7RF Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS73VR 7RF Stealth Pro | `GS73VR-7RF/MS-17B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS73VR 7RG Stealth Pro Max-Q |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS73VR 7RG Stealth Pro Max-Q | `GS73VR-7RG/MS-17B4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Thin | MSI GF62 7RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF62 7RE | `GF62-7RE/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF62 (2017-2018) | `GF62` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT72VR 7RD Dominator |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72VR 7RD Dominator | `GT72VR-7RD/MS-1785` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT72VR 7RE Dominator Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72VR 7RE Dominator Pro | `GT72VR-7RE/MS-1785` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT73EVR 7RE Titan |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73EVR 7RE Titan | `GT73EVR-7RE/MS-17A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT73EVR 7RF Titan Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73EVR 7RF Titan Pro | `GT73EVR-7RF/MS-17A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT73VR 7RE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73VR 7RE Titan SLI | `GT73VR-7RE/MS-17A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT73VR 7RF Titan Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73VR 7RF Titan Pro | `GT73VR-7RF/MS-17A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT75VR 7RE Titan |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75VR 7RE Titan | `GT75VR-7RE/MS-17A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT75VR 7RF Titan Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75VR 7RF Titan Pro | `GT75VR-7RF/MS-17A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT83VR 7RE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83VR 7RE Titan SLI | `GT83VR-7RE/MS-1815` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT83VR 7RF Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83VR 7RF Titan SLI | `GT83VR-7RF/MS-1815` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT75VR Titan Pro Teclado Rapido Mecanico (2017) | `GT75VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Vector | MSI GP62 7RD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 7RD Leopard | `GP62-7RD/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP62 7RE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 7RE Leopard Pro | `GP62-7RE/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP62X 7QF Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62X 7QF Leopard Pro | `GP62-7QF/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP72 7RD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 7RD Leopard | `GP72-7RD/MS-1799` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP72 7RE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 7RE Leopard Pro | `GP72-7RE/MS-1799` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WE62 7RJ Quadro M2200 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WE62 7RJ Quadro M2200 | `WE62-7RJ/MS-16J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WE72 7RJ Quadro M2200 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WE72 7RJ Quadro M2200 | `WE72-7RJ/MS-1799` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS63 7RK Quadro P3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS63 7RK Quadro P3000 | `WS63-7RK/MS-16K3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WE62 7RJ (2017 Quadro M2200) | `WE62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WE72 7RJ (2017) | `WE72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS63 7RK / 8SK (2017-2018 Quadro P3200) | `WS63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-## 📅 Generación 2016 (139 modelos)
+## 📅 Generación 2016 (222 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG | ASUS ROG G501VW (2016) | `G501VW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG G701VI (2016) | `G701VI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG G701VO (2016) | `G701VO` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL502VT (2016) | `GL502VT` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL502VY (2016) | `GL502VY` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL702VT (2016) | `GL702VT` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG G752VS (2016 GTX 1070 Pascal) | `G752VS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | ROG | ROG GX700VO (2016 Refrigeracion Liquida Externa) | `GX700VO` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | ROG | ROG Strix GL502VM (2016 GTX 1060) | `GL502VM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Strix GL502VS (2016 GTX 1070 Delgado) | `GL502VS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG Strix GL702VM (2016 17.3 GTX 1060) | `GL702VM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS ASUS FX502VM (2016) | `FX502VM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | VivoBook | ASUS VivoBook Pro N552VW (2016) | `N552VW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook Pro N552VX (2016) | `N552VX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook Pro N752VX (2016) | `N752VX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook X556UQ (2016) | `X556UQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook X556UR (2016) | `X556UR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | Asus Vivobook 16 M1607 | `M1607` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook Flip UX360UAK (2016) | `UX360UAK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX330UA (2016) | `UX330UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX410UA (2016) | `UX410UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX410UQ (2016) | `UX410UQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX510UW (2016) | `UX510UW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX510UX (2016) | `UX510UX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Zenbook | Zenbook 3 UX390UA (2016 910g Ultradelgada) | `UX390UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | Zenbook Flip UX360CA (2016 360 Fanless) | `UX360CA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | Zenbook UX310UQ (2016 Kaby Lake) | `UX310UQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Alienware | Alienware 15 R2 | `06AC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | Dell | Alienware | Alienware 17 R3 | `06AD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| Dell | G-Series | Dell Inspiron 15 7566 Gaming (2016) | `0798` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 13 5368 2-in-1 (2016) | `073B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 13 5378 2-in-1 (2016) | `0779` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 13 7378 2-in-1 (2016) | `0788` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 14 7460 (2016) | `077F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 5567 (2016) | `0766` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 5568 2-in-1 (2016) | `073C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 7560 (2016) | `0780` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 7569 2-in-1 (2016) | `0789` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 17 5767 (2016) | `0767` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 17 7778 2-in-1 (2016) | `073E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 12 5270 (2016) | `06DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 12 7270 (2016) | `06DC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 14 5470 (2016) | `06E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 14 7470 (2016) | `06DD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 15 5570 (2016) | `06E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3160 | `06A8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3330 | `05DC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3470 | `072C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -9058,6 +9756,10 @@
 | Dell | Optiplex | OptiPlex 9010 AIO | `0543` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 9010 | `052C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | Optiplex 3011 | `05C2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Precision | Dell Precision 3510 (2016) | `06DB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Precision | Dell Precision 5510 (2016) | `06E7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Precision | Dell Precision 7510 (2016) | `06D8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Precision | Dell Precision 7710 (2016) | `06D9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Precision | Precision M4700 | `053E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision M4800 | `05CC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision M6700 | `053F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -9069,6 +9771,10 @@
 | Dell | Tablet | Tablet 5130 | `0694` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Tablet 5830 | `0630` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Venue 8 Pro 5830 | `0630` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 14 3468 (2016) | `0790` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 14 5468 (2016) | `0785` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 15 3568 (2016) | `0791` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 15 5568 (2016) | `0786` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | XPS 13 9360 (Kaby Lake 2016) | `075B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | EliteBook | HP Elite x2 1012 G1 | `80FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | EliteBook | HP EliteBook 1040 G3 | `80FA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -9104,6 +9810,17 @@
 | HP | ZBook | HP ZBook 15u G3 | `80D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | ZBook | HP ZBook 17 G3 Mobile Workstation | `80D6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | ZBook | HP ZBook Studio G3 | `80D4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Lenovo | IdeaPad | Lenovo IdeaPad 310-15IKB (2016) | `80TV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 510-15IKB (2016) | `80SV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 510S-14IKB (2016) | `80UV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 700-15ISK (2016) | `80RU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 700-17ISK (2016) | `80RV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 710S Plus-13IKB (2016) | `80VU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 710S-13IKB (2016) | `80VQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V310-14ISK (2016) | `80SX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V310-15ISK (2016) | `80SY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo Lenovo V510-15IKB (2016) | `80WQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Legion | Lenovo IdeaPad Y900-17ISK (2016) | `80Q1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | ThinkPad | ThinkPad 11e | `20D9,20DA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 13 Gen 1 | `20GJ,20GK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E460 | `20ET,20EU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -9128,43 +9845,102 @@
 | Lenovo | Thinkpad | ThinkPad 11e (Type 20DA) | `20DA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e (Type 20D9) | `20D9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e (Type 20DA) | `20DA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 510-14IKB (2016) | `80VB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 510-15IKB (2016) | `80VC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 710-11IKB (2016) | `80V6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 710-14IKB (2016) | `80V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 710-15IKB (2016) | `80V5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 900-13ISK2 (2016) | `80UE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 900S-12ISK (2016) | `80ML` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 910-13IKB (2016) | `80VF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL62 6QD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 6QD | `GL62-6QD/MS-16J6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL62 6QF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 6QF | `GL62-6QF/MS-16J6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL72 6QD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72 6QD | `GL72-6QD/MS-1796` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI GL72 6QF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72 6QF | `GL72-6QF/MS-1796` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana GL62 (2016 Entrada Gamer) | `GL62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GL72 (2016 Entrada Gamer) | `GL72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Raider | MSI GE62 6QF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 6QF Apache Pro | `GE62-6QF/MS-16J4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE62VR 6RF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62VR 6RF Apache Pro | `GE62VR-6RF/MS-16JB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE72 6QF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 6QF Apache Pro | `GE72-6QF/MS-1794` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE72VR 6RF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72VR 6RF Apache Pro | `GE72VR-6RF/MS-179B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS43VR 6RE Phantom Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS43VR 6RE Phantom Pro | `GS43VR-6RE/MS-14A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS63VR 6RF Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS63VR 6RF Stealth Pro | `GS63VR-6RF/MS-16K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS73VR 6RF Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS73VR 6RF Stealth Pro | `GS73VR-6RF/MS-17B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS63VR Stealth Pro (2016-2017 1.8kg) | `GS63VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth GS73VR Stealth Pro (2016-2017) | `GS73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Titan | MSI GT72VR 6RD Dominator Tobii |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72VR 6RD Dominator Tobii | `GT72VR-6RD/MS-1785` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT72VR 6RE Dominator Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72VR 6RE Dominator Pro | `GT72VR-6RE/MS-1785` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT73VR 6RE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73VR 6RE Titan SLI | `GT73VR-6RE/MS-17A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT73VR 6RF Titan Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73VR 6RF Titan Pro | `GT73VR-6RF/MS-17A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT80S 6QF Titan SLI Heroes of the Storm |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80S 6QF Titan SLI Heroes of the Storm | `GT80S-6QF/MS-1814` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT83VR 6RE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83VR 6RE Titan SLI | `GT83VR-6RE/MS-1815` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT83VR 6RF Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83VR 6RF Titan SLI | `GT83VR-6RF/MS-1815` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT73VR 6RF Titan Pro (2016) | `GT73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Titan | MSI Titan GT83VR Titan SLI (2016-2017) | `GT83VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Vector | MSI GP62 6QF Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 6QF Leopard Pro | `GP62-6QF/MS-16J6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP72 6QF Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 6QF Leopard Pro | `GP72-6QF/MS-1796` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS60 6QJ Quadro M2000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS60 6QJ Quadro M2000M | `WS60-6QJ/MS-16H8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 6QN Quadro M5500 |  | ✅  | audio, display, thermal, keyboard |
-## 📅 Generación 2015 (143 modelos)
+| MSI | Workstation | MSI WT72 6QN Quadro M5500 | `WT72-6QN/MS-1783` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2015 (241 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG | ASUS ROG G501JW (2015) | `G501JW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG G751JL (2015) | `G751JL` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG G751JT (2015) | `G751JT` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL552JX (2015) | `GL552JX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ASUS ROG GL752VW (2015) | `GL752VW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG | ROG G751JY (2015 GTX 980M G-Sync) | `G751JY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | ROG | ROG G752VL/VT/VY (2015 Armor Titanium) | `G752VY` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | ASUS | ROG | ROG GL552JX/VW (2015) | `GL552VW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | VivoBook | ASUS VivoBook K501LX (2015) | `K501LX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook K501UX (2015) | `K501UX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook X555LA (2015) | `X555LA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook X555LB (2015) | `X555LB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook X556UB (2015) | `X556UB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | ASUS VivoBook X556UJ (2015) | `X556UJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX303LA (2015) | `UX303LA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX303LB (2015) | `UX303LB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX303UB (2015) | `UX303UB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX305LA (2015) | `UX305LA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS ZenBook UX305UA (2015) | `UX305UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Zenbook | Zenbook Pro UX501JW (2015 4K UHD) | `UX501JW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | Zenbook | Zenbook UX305FA/CA (2015 Fanless Core M) | `UX305FA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | G-Series | Dell Inspiron 15 7559 Gaming (2015) | `0706` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 13 7352 2-in-1 (2015) | `069A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 14 3452 (2015) | `06E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 3552 (2015) | `06E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 5558 (2015) | `06B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 5559 (2015) | `0703` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 15 7558 2-in-1 (2015) | `06A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Inspiron | Dell Inspiron 17 5759 (2015) | `0704` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 12 5250 (2015) | `062E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 12 7250 (2015) | `062C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 14 5450 (2015) | `062F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 14 7450 (2015) | `062D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Dell Latitude 15 5550 (2015) | `0630` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3150 | `068F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3350 | `070C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5450 | `062E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -9181,6 +9957,9 @@
 | Dell | Precision | Precision M6800 | `05E3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Tablet | Latitude 10 - ST2 | `0583` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Tablet ST2 | `0583` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 14 3458 (2015) | `06CE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 14 5459 (2015) | `0707` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Vostro | Dell Vostro 15 3558 (2015) | `06CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | XPS | XPS 13 9343 (Broadwell 2015) | `063E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 13 9350 (Skylake 2015) | `0704` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 15 9550 (Skylake 2015) | `06E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -9205,6 +9984,13 @@
 | HP | ZBook | HP ZBook 15 G2 Mobile Workstation | `2253` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | ZBook | HP ZBook 15u G2 Mobile Workstation | `2255` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | ZBook | HP ZBook 17 G2 Mobile Workstation | `2254` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Lenovo | IdeaPad | Lenovo IdeaPad 300-15ISK (2015) | `80Q7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 300-17ISK (2015) | `80QH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 500-15ISK (2015) | `80NT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | IdeaPad | Lenovo IdeaPad 500S-14ISK (2015) | `80Q3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Legion | Lenovo IdeaPad Y700 Touch-15ISK (2015) | `80NW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo IdeaPad Y700-15ISK (2015) | `80NV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo IdeaPad Y700-17ISK (2015) | `80Q0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | ThinkPad | ThinkPad 10 | `20C1,20C3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 8 | `20BQ,20BN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E450 | `20DC,20DD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -9238,69 +10024,128 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 14 20FY (Type 20FY) | `20FY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 15 (Type 20DQ) | `20DQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 15 (Type 20DR) | `20DR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 3 14 (2015) | `80JH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 3 Pro-1370 (2015) | `80HE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 700-11ISK (2015) | `80QE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 700-14ISK (2015) | `80QD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga 900-13ISK (2015) | `80MK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE62 2QC Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 2QC Apache | `GE62-2QC/MS-16J2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE62 2QD Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 2QD Apache | `GE62-2QD/MS-16J2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE62 2QE Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 2QE Apache Pro | `GE62-2QE/MS-16J1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE62 6QC Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 6QC Apache | `GE62-6QC/MS-16J5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE62 6QD Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 6QD Apache Pro | `GE62-6QD/MS-16J5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE62 6QE Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 6QE Apache Pro | `GE62-6QE/MS-16J5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE72 2QC Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 2QC Apache | `GE72-2QC/MS-1792` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE72 2QD Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 2QD Apache | `GE72-2QD/MS-1792` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE72 2QE Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 2QE Apache Pro | `GE72-2QE/MS-1791` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE72 6QC Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 6QC Apache | `GE72-6QC/MS-1795` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE72 6QD Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 6QD Apache Pro | `GE72-6QD/MS-1795` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI GE72 6QE Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 6QE Apache Pro | `GE72-6QE/MS-1795` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI Raider GE62 Apache Pro (2015-2016) | `GE62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Raider | MSI Raider GE72 Apache Pro (2015-2016) | `GE72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI GS40 6QE Phantom |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS40 6QE Phantom | `GS40-6QE/MS-14A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS60 2QC Ghost |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 2QC Ghost | `GS60-2QC/MS-16H6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS60 2QD Ghost |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 2QD Ghost | `GS60-2QD/MS-16H5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS60 2QE Ghost Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 2QE Ghost Pro | `GS60-2QE/MS-16H5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS60 6QC Ghost |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 6QC Ghost | `GS60-6QC/MS-16H8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS60 6QD Ghost |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 6QD Ghost | `GS60-6QD/MS-16H8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS60 6QE Ghost Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 6QE Ghost Pro | `GS60-6QE/MS-16H8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Stealth | MSI GS70 2QC Stealth |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 2QC Stealth | `GS70-2QC/MS-1774` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS70 2QD Stealth |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 2QD Stealth | `GS70-2QD/MS-1773` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS70 2QE Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 2QE Stealth Pro | `GS70-2QE/MS-1773` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS70 6QC Stealth |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 6QC Stealth | `GS70-6QC/MS-1775` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS70 6QD Stealth |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 6QD Stealth | `GS70-6QD/MS-1775` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI GS70 6QE Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 6QE Stealth Pro | `GS70-6QE/MS-1775` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS40 6QE Phantom (2015-2016 14-inch) | `GS40` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth GS60 Ghost Pro (2015 Delgado 19mm) | `GS60` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth GS70 Stealth Pro (2015 17.3 Delgado) | `GS70` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Titan | MSI GT72 2QD Dominator |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72 2QD Dominator | `GT72-2QD/MS-1781` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT72 2QE Dominator Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72 2QE Dominator Pro | `GT72-2QE/MS-1781` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT72 6QD Dominator G |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72 6QD Dominator G | `GT72-6QD/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT72 6QE Dominator Pro G |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72 6QE Dominator Pro G | `GT72-6QE/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT72S 6QE Dominator Pro G |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72S 6QE Dominator Pro G | `GT72S-6QE/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT72S 6QF Dragon Edition 29th |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72S 6QF Dragon Edition 29th | `GT72S-6QF/MS-1783` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Titan | MSI GT80 2QD Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80 2QD Titan SLI | `GT80-2QD/MS-1812` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT80 2QE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80 2QE Titan SLI | `GT80-2QE/MS-1812` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT80S 6QD Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80S 6QD Titan SLI | `GT80S-6QD/MS-1814` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI GT80S 6QE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80S 6QE Titan SLI | `GT80S-6QE/MS-1814` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT72 Dominator Pro (2015) | `GT72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Titan | MSI Titan GT80 Titan SLI Teclado Mecanico Cherry MX (2015) | `GT80` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Vector | MSI GP62 2QD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 2QD Leopard | `GP62-2QD/MS-16J3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP62 2QE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 2QE Leopard Pro | `GP62-2QE/MS-16J3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP62 6QD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 6QD Leopard | `GP62-6QD/MS-16J6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP62 6QE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 6QE Leopard Pro | `GP62-6QE/MS-16J6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP72 2QD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 2QD Leopard | `GP72-2QD/MS-1793` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP72 2QE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 2QE Leopard Pro | `GP72-2QE/MS-1793` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP72 6QD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 6QD Leopard | `GP72-6QD/MS-1796` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI GP72 6QE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 6QE Leopard Pro | `GP72-6QE/MS-1796` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP62 Leopard (2015-2016) | `GP62` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP72 Leopard (2015-2016) | `GP72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS60 2OJ Quadro K2100M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS60 2OJ Quadro K2100M | `WS60-2OJ/MS-16H5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS60 6QH Quadro M600M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS60 6QH Quadro M600M | `WS60-6QH/MS-16H8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS60 6QI Quadro M1000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS60 6QI Quadro M1000M | `WS60-6QI/MS-16H8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 2OK Quadro K3100M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 2OK Quadro K3100M | `WT72-2OK/MS-1781` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 2OL Quadro K4100M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 2OL Quadro K4100M | `WT72-2OL/MS-1781` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 2OM Quadro K5100M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 2OM Quadro K5100M | `WT72-2OM/MS-1781` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 6QI Quadro M1000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QI Quadro M1000M | `WT72-6QI/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 6QJ Quadro M2000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QJ Quadro M2000M | `WT72-6QJ/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 6QK Quadro M3000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QK Quadro M3000M | `WT72-6QK/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 6QL Quadro M4000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QL Quadro M4000M | `WT72-6QL/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 6QM Quadro M5000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QM Quadro M5000M | `WT72-6QM/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS60 6QI (2015-2016 Quadro M1000M) | `WS60` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WT72 6QN (2015-2016 NVIDIA Quadro M5500) | `WT72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 ## 📅 Generación Legacy (2014) (59 modelos)

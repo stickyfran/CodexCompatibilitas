@@ -1,0 +1,56 @@
+{
+  "id": "lenovo-ideapad-320s-14ikb-2017",
+  "vendor": "Lenovo",
+  "family": "IdeaPad",
+  "model_name": "Lenovo IdeaPad 320S-14IKB (2017)",
+  "system_id": "80X4",
+  "dmi_matches": [
+    "IdeaPad 320S-14IKB",
+    "80X4",
+    "Lenovo IdeaPad 320S-14IKB",
+    "Lenovo 80X4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "ideapad_laptop",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}
