@@ -1,0 +1,61 @@
+{
+  "id": "asus-t3304-vivobook-13-slate-oled-refresh-2023-2025",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "ASUS Vivobook 13 Slate OLED Refresh (2023-2025)",
+  "system_id": "T3304",
+  "dmi_matches": [
+    "T3304",
+    "ASUS T3304",
+    "Vivobook 13 Slate OLED Refresh (2023-2025)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "display_color": {
+      "status": "fixed",
+      "fix_type": "icc-profile",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

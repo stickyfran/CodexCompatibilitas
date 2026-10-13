@@ -1,0 +1,55 @@
+{
+  "id": "asus-c436-chromebook-flip-c436-wi-fi-6-2020-2021",
+  "vendor": "ASUS",
+  "family": "Chromebook",
+  "model_name": "ASUS Chromebook Flip C436 Wi-Fi 6 (2020-2021)",
+  "system_id": "C436",
+  "dmi_matches": [
+    "C436",
+    "ASUS C436",
+    "Chromebook Flip C436 Wi-Fi 6 (2020-2021)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

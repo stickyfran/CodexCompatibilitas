@@ -1,0 +1,67 @@
+{
+  "id": "asus-um5302-zenbook-s-13-oled-2022-1cm-1kg",
+  "vendor": "ASUS",
+  "family": "Zenbook",
+  "model_name": "ASUS Zenbook S 13 OLED (2022 1cm 1kg)",
+  "system_id": "UM5302",
+  "dmi_matches": [
+    "UM5302",
+    "ASUS UM5302",
+    "Zenbook S 13 OLED (2022 1cm 1kg)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "display_color": {
+      "status": "fixed",
+      "fix_type": "icc-profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "cirrus-cs35l41",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

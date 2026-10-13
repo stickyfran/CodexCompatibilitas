@@ -2,15 +2,60 @@
   "id": "asus-asus-tuf-gaming-a14-2026-fa401ea",
   "vendor": "ASUS",
   "family": "TUF Gaming",
-  "model_name": "Asus Tuf Gaming A14 2026 Fa401Ea",
-  "system_id": "FA401EA",
+  "model_name": "ASUS TUF Gaming A14 (2024-2026 14-inch Ultraportable)",
+  "system_id": "FA401",
   "dmi_matches": [
-    "FA401EA"
+    "FA401",
+    "ASUS FA401",
+    "TUF Gaming A14 (2024-2026 14-inch Ultraportable)"
   ],
   "pci_subsystems": [],
   "acpi_hids": [],
-  "thermal": null,
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
   "driver_packs": [],
   "individual_drivers": [],
-  "components": {}
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "asus-nb-wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
 }

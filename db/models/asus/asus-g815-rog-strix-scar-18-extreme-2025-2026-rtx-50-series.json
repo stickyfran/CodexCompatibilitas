@@ -1,0 +1,67 @@
+{
+  "id": "asus-g815-rog-strix-scar-18-extreme-2025-2026-rtx-50-series",
+  "vendor": "ASUS",
+  "family": "ROG Strix",
+  "model_name": "ASUS ROG Strix SCAR 18 Extreme (2025-2026 RTX 50-Series)",
+  "system_id": "G815",
+  "dmi_matches": [
+    "G815",
+    "ASUS G815",
+    "ROG Strix SCAR 18 Extreme (2025-2026 RTX 50-Series)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "asus-nb-wmi",
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "cirrus-cs35l41",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

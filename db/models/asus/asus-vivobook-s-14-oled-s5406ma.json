@@ -2,423 +2,66 @@
   "id": "asus-vivobook-s-14-oled-s5406ma",
   "vendor": "ASUS",
   "family": "Vivobook",
-  "model_name": "Vivobook S 14 Oled S5406Ma",
-  "system_id": "S5406MA",
+  "model_name": "ASUS Vivobook S 14 OLED RGB 1-Zona (2024-2026)",
+  "system_id": "S5406",
   "dmi_matches": [
-    "S5406MA"
+    "S5406",
+    "ASUS S5406",
+    "Vivobook S 14 OLED RGB 1-Zona (2024-2026)"
   ],
   "pci_subsystems": [],
   "acpi_hids": [],
-  "thermal": null,
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
   "driver_packs": [],
-  "individual_drivers": [
-    {
-      "category": "utility",
-      "name": "MyASUS in WinRE for USB",
-      "version": "V1.0.0.126",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/CloudReinstallToolEXE/126/MyASUS_in_WinRE_For_USB_V1.0.0.126_2.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/01/22",
-      "hardware_ids": []
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "network",
-      "name": "Intel WLAN Driver",
-      "version": "V24.30.1.1",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Networking/49285/WirelessLan_PIE_DCH_Intel_J_V24.30.1.1_49285.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/04/15",
-      "hardware_ids": []
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "network",
-      "name": "Intel WLAN Driver",
-      "version": "V23.160.0.4",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Networking/44628/WirelessLan_PIE_DCH_Intel_Z_V23.160.0.4_44628.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/09/16",
-      "hardware_ids": []
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "utility",
-      "name": "Intel Connectivity Performance Suite",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9NSG1HWGCKVM?tp=RHJpdmVyTm90ZWJvb2s=",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2022/09/08",
-      "hardware_ids": []
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "utility",
-      "name": "Intel Connectivity Performance Suite Extension Driver",
-      "version": "V3.1023.830.1",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Networking/36235/WirelessLan_ICPS_Intel_X_V3.1023.830.1_36235_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/18",
-      "hardware_ids": []
+    "display_color": {
+      "status": "fixed",
+      "fix_type": "icc-profile",
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "chipset_thermal",
-      "name": "Intel Serial IO Driver",
-      "version": "V30.100.2318.58",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/36249/SerialIO_Intel_J_V30.100.2318.58_36249_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Intel Rapid Storage Technology (IRST) Driver",
-      "version": "V20.0.0.1037",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/36847/VMD_DCH_Intel_J_V20.0.0.1037Sub1_36847_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Intel Platform Monitoring Technology (PMT) Driver",
-      "version": "V3.1.2.2",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/36248/PMT_Intel_J_V3.1.2.2_36248_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Intel NPU Driver",
-      "version": "V31.0.100.1688",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/36444/NPU_DCH_Intel_X_V31.0.100.1688_36444_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/12/12",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Intel Gaussian and Neural Accelerator (GNA) Driver",
-      "version": "V03.05.00.1574",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/36199/GNA_DCH_Intel_J_V03.05.00.1574Sub1_36199_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "chipset_thermal",
-      "name": "Intel Dynamic Tuning Technology (DTT) Driver",
-      "version": "V1.0.11404.39976",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/36846/DPTF_DCH_Intel_J_V1.0.11404.39976_36846_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Intel Converged Security and Management Engine (CSME) Driver",
-      "version": "V2406.5.5.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/41173/MEI_Consumer_DCH_Intel_J_V2406.5.5.0_41173_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/11/22",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Intel Converged Security and Management Engine (CSME) Driver",
-      "version": "V2345.5.3.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/37037/MEI_Consumer_DCH_Intel_J_V2345.5.3.0_37037_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "chipset_thermal",
-      "name": "Intel Chipset Driver",
-      "version": "V10.1.47.12",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Chipset/37114/INFUpdate_DCH_Intel_J_V10.1.47.12Sub3_37114_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/25",
-      "hardware_ids": []
-    },
-    {
-      "category": "audio",
-      "name": "Realtek Codec Console Application",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9p2b8mcsvpln?tp=RHJpdmVyTm90ZWJvb2s=",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2022/09/07",
-      "hardware_ids": []
-    },
-    {
-      "category": "audio",
-      "name": "Realtek Audio Driver",
-      "version": "V6.0.9828.1",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Audio/43823/DriverOnly_Dolby_DCH_Realtek_J_V6.0.9828.1Sub1_43823_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/06/05",
-      "hardware_ids": []
-    },
-    {
-      "category": "audio",
-      "name": "Intel Smart Sound Technology (ISST) Driver",
-      "version": "V20.40.12641.6",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Audio/49272/iSST_DCH_Intel_J_V20.40.12641.6_49272.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/04/17",
-      "hardware_ids": []
-    },
-    {
-      "category": "audio",
-      "name": "Intel Smart Sound Technology (ISST) Driver",
-      "version": "V20.40.11112.10",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Audio/42506/iSST_DCH_Intel_J_V20.40.11112.10Sub1_42506_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/02/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "display",
-      "name": "Intel Graphics Driver",
-      "version": "V32.0.101.6127",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Graphics/41162/Graphic_IGCC_DCH_Intel_J_V32.0.101.6127_41162_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/11/22",
-      "hardware_ids": []
-    },
-    {
-      "category": "display",
-      "name": "Intel Graphics Driver",
-      "version": "V32.0.101.5768",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Graphics/39611/Graphic_IGCC_DCH_Intel_J_V32.0.101.5768_39611_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/08/16",
-      "hardware_ids": []
-    },
-    {
-      "category": "display",
-      "name": "Intel Graphic Command Center Application",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9PLFNLNT3G5G?tp=RHJpdmVyTm90ZWJvb2s=",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2022/09/08",
-      "hardware_ids": []
-    },
-    {
-      "category": "audio",
-      "name": "Realtek Card Reader Driver",
-      "version": "V10.0.22631.31285",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/CardReader/37130/CardReader_DCH_Realtek_J_V10.0.22631.31285_37130_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/25",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Genesys Card Reader Driver",
-      "version": "V4.5.7.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/CardReader/36859/CardReader_DCH_Genesys_J_V4.5.7.0_36859_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "touchpad",
-      "name": "ASUS Precision TouchPad Driver",
-      "version": "V16.0.0.41",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/PointingDevice/47015/PrecisionTouchPad_DCH_ASUS_Z_V16.0.0.41_47015.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/11/28",
-      "hardware_ids": []
-    },
-    {
-      "category": "touchpad",
-      "name": "ASUS Precision TouchPad Driver",
-      "version": "V16.0.0.20",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/PointingDevice/36391/PrecisionTouchPad_DCH_ASUS_X_V16.0.0.20_36391_2.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/03",
-      "hardware_ids": []
-    },
-    {
-      "category": "network",
-      "name": "Intel Bluetooth Driver",
-      "version": "V24.30.1.1",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Bluetooth/49289/Bluetooth_DCH_Intel_J_V24.30.1.1_49289.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/04/15",
-      "hardware_ids": []
-    },
-    {
-      "category": "network",
-      "name": "Intel Bluetooth Driver",
-      "version": "V23.160.0.9",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Bluetooth/44629/Bluetooth_DCH_Intel_Z_V23.160.0.9_44629.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/09/16",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "ScreenXpert",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9N5RFFGFHHP6?tp=U29mdHdhcmVOb3RlYm9vaw==",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2022/09/05",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "MyASUS",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9N7R5S6B0ZZH?tp=U29mdHdhcmVOb3RlYm9vaw==",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2022/09/08",
-      "hardware_ids": []
-    },
-    {
-      "category": "color",
-      "name": "MyASUS Splendid",
-      "version": "V3.0.0.602",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/SoftwareandUtility/37620/MyASUSSplendid_ASUS_X_V3.0.0.602_37620_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/04/17",
-      "hardware_ids": []
-    },
-    {
-      "category": "color",
-      "name": "MyASUS Splendid",
-      "version": "V2.0.0.567",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/SoftwareandUtility/37391/MyASUSSplendid_ASUS_X_V2.0.0.567_37391_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/03/05",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Microsoft Effect Pack(MEP) driver",
-      "version": "V1.0.31.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/SoftwareandUtility/36389/MSFT_MEP_DCH_Microsoft_X_V1.0.31.0Sub1_36389_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/12/12",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Intel MEP Extension Driver",
-      "version": "V31.0.100.1688",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/SoftwareandUtility/36445/Intel_MEP_EINF_DCH_Intel_X_V31.0.100.1688_36445_1.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/12/12",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "GlideX",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9PLH2SV1DVK5?tp=U29mdHdhcmVOb3RlYm9vaw==",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2021/12/23",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Dolby Atmos driver",
-      "version": "V9.1108.914.27",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Software/SoftwareandUtility/16308/ASUS_Z_V9.1108.914.27_16308_2.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/11/22",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "ASUS System Control Interface v3",
-      "version": "V3.1.72.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Software/SoftwareandUtility/18060/ASUSSystemControlInterfacev3_ASUS_Z_V3.1.72.0_18060.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/09/23",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "ASUS System Control Interface v3",
-      "version": "V3.1.70.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Software/SoftwareandUtility/17972/ASUSSystemControlInterfacev3_ASUS_Z_V3.1.70.0_17972.exe?model=S5406MA",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/08/24",
-      "hardware_ids": []
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "asus-nb-wmi",
+      "fix_path": null,
+      "details": {}
     }
-  ],
-  "components": {}
+  }
 }

@@ -2,15 +2,54 @@
   "id": "asus-expertbook-p1-p1403",
   "vendor": "ASUS",
   "family": "ExpertBook",
-  "model_name": "Expertbook P1 P1403",
+  "model_name": "ASUS ExpertBook P1 P1403 AI Comercial (2024-2026)",
   "system_id": "P1403",
   "dmi_matches": [
-    "P1403"
+    "P1403",
+    "ASUS P1403",
+    "ExpertBook P1 P1403 AI Comercial (2024-2026)"
   ],
   "pci_subsystems": [],
   "acpi_hids": [],
-  "thermal": null,
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
   "driver_packs": [],
   "individual_drivers": [],
-  "components": {}
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
 }

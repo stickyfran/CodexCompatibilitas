@@ -4,10 +4,10 @@
 
 ## 📊 Estadísticas Globales
 
-- **Total Laptops Indexadas:** `8205`
-- **Total Scripts `install-all.sh` Generados:** `8205` (100.0% cubierto)
+- **Total Laptops Indexadas:** `8313`
+- **Total Scripts `install-all.sh` Generados:** `8313` (100.0% cubierto)
 - **Desglose por Fabricante OEM:**
-  - **ASUS:** `51` modelos
+  - **ASUS:** `159` modelos
   - **Dell:** `1278` modelos
   - **HP:** `4907` modelos
   - **Lenovo:** `1969` modelos
@@ -16,14 +16,14 @@
 
 | Año | Modelos Soportados | Scripts Listos | Estado |
 | :--- | :---: | :---: | :--- |
-| **2026** | 1931 | 1931 | ✅ 100% Scripts Listos |
-| **2025** | 735 | 735 | ✅ 100% Scripts Listos |
-| **2024** | 640 | 640 | ✅ 100% Scripts Listos |
-| **2023** | 1106 | 1106 | ✅ 100% Scripts Listos |
-| **2022** | 517 | 517 | ✅ 100% Scripts Listos |
-| **2021** | 1096 | 1096 | ✅ 100% Scripts Listos |
-| **2020** | 770 | 770 | ✅ 100% Scripts Listos |
-| **2019** | 691 | 691 | ✅ 100% Scripts Listos |
+| **2026** | 1930 | 1930 | ✅ 100% Scripts Listos |
+| **2025** | 741 | 741 | ✅ 100% Scripts Listos |
+| **2024** | 661 | 661 | ✅ 100% Scripts Listos |
+| **2023** | 1128 | 1128 | ✅ 100% Scripts Listos |
+| **2022** | 542 | 542 | ✅ 100% Scripts Listos |
+| **2021** | 1123 | 1123 | ✅ 100% Scripts Listos |
+| **2020** | 801 | 801 | ✅ 100% Scripts Listos |
+| **2019** | 668 | 668 | ✅ 100% Scripts Listos |
 | **2018** | 488 | 488 | ✅ 100% Scripts Listos |
 | **2017** | 95 | 95 | ✅ 100% Scripts Listos |
 | **2016** | 46 | 46 | ✅ 100% Scripts Listos |
@@ -33,11 +33,10 @@
 
 ---
 
-## 📅 Generación 2026 (1931 modelos)
+## 📅 Generación 2026 (1930 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
-| ASUS | TUF Gaming | Asus Tuf Gaming A14 2026 Fa401Ea | `FA401EA` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | TUF Gaming | Asus Tuf Gaming F16 2026 | `2026` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Dell Desktops | Dell Desktops Dell Slim DS1265 | `0E0F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Dell Desktops | Dell Desktops Dell Slim DS1265 | `0E7E` | ✅ `install-all.sh` | audio, color, thermals |
@@ -1969,10 +1968,16 @@
 | Lenovo | Thinkstation | ThinkStation PX (Type 30EY) | `30EY` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation PX (Type 30H3) | `30H3` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2025 (735 modelos)
+## 📅 Generación 2025 (741 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG Strix | ASUS ROG Strix SCAR 18 Extreme (2025-2026 RTX 50-Series) | `G815` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2025-2026 Ryzen AI 300) | `GA404` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | Vivobook | ASUS Vivobook 14 Copilot+ PC (2025-2026 Intel Core / Ryzen AI) | `X1404` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook 15 Copilot+ PC (2025-2026 Intel Core / Ryzen AI) | `X1504` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook 16 Copilot+ PC (2025-2026 Intel Core / Ryzen AI) | `X1607` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS Zenbook 14 OLED (2025-2026 Intel Core Ultra Serie 2) | `UX3407` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | Dell | Dell Laptops | DA16250 | `0CE6` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Dell Laptops | DA16250 | `0CE7` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Dell Laptops | Dell Laptops DA16250 | `0CE6` | ✅ `install-all.sh` | audio, color, thermals |
@@ -2709,10 +2714,31 @@
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FJ) | `30FJ` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FK) | `30FK` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2024 (640 modelos)
+## 📅 Generación 2024 (661 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ExpertBook | ASUS ExpertBook P1 P1403 AI Comercial (2024-2026) | `P1403` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook P1 P1503 AI Comercial (2024-2026) | `P1503` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook P3 P3503 AI Comercial (2024-2026) | `P3503` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook P5 P5405 AI Copilot+ Comercial (2024-2026) | `P5405` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ProArt | ASUS ProArt P16 4K OLED Ryzen AI 300 RTX 4070 (2024-2026) | `H7606` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | ProArt | ASUS ProArt PX13 Convertible 360 (2024-2026) | `HN7306` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ProArt | ASUS ProArt PZ13 IP52 Detachable Snapdragon X (2024-2026) | `HT5306` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2024 CNC OLED Ryzen 8000) | `GA403` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G16 (2024-2026 OLED Core Ultra) | `GU605` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
+| ASUS | TUF Gaming | ASUS TUF Gaming A14 (2024-2026 14-inch Ultraportable) | `FA401` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 (2024-2026 Ryzen 8000/AI) | `FA508` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F16 (2024-2026 16-inch 13th/14th Gen) | `FX607` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | Vivobook | ASUS Vivobook S 14 OLED RGB 1-Zona (2024-2026) | `S5406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb |
+| ASUS | Vivobook | ASUS Vivobook S 15 Copilot+ Snapdragon X Elite (2024-2026) | `S5507` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook S 15 OLED RGB 1-Zona (2024-2026) | `S5506` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb |
+| ASUS | Vivobook | ASUS Vivobook S 16 OLED RGB 1-Zona (2024-2026) | `S5606` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb |
+| ASUS | Zenbook | ASUS Zenbook 14 OLED (2024 AMD Ryzen AI) | `UM3406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook 14 OLED (2024 Intel Core Ultra) | `UX3405` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook Duo Dual 14 OLED (2024-2026 Teclado Magnetico) | `UX8406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook S 14 (2024-2026 Lunar Lake Ceraluminum) | `UX5406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook S 16 (2024-2026 Strix Point Ceraluminum) | `UM5606` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | Dell | Latitude | Latitude 3120 | `0A33` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3310 | `097F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3320 | `0A88` | ✅ `install-all.sh` | audio, color, thermals |
@@ -3354,10 +3380,32 @@
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AW) | `21AW` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AX) | `21AX` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2023 (1106 modelos)
+## 📅 Generación 2023 (1128 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | Chromebook | ASUS Chromebook CX34 Flip 14 (2023-2026) | `CX34` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B9 OLED Ultralight 990g (2023-2026) | `B9403` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | ProArt | ASUS ProArt Studiobook 16 OLED RTX 4080 (2023-2024) | `H7604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | ProArt | ASUS ProArt Studiobook Pro 16 OLED RTX Ada (2023-2024) | `W7604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | ROG Flow | ASUS ROG Flow X13 (2023-2025 Convertible 360 RTX 40) | `GV302` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix G16 (2023-2026 16:10 Intel HX) | `G614` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix G18 (2023-2026 18-inch HX) | `G814` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix SCAR 16 (2023-2026 Nebula HDR Mini-LED) | `G634` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix SCAR 18 (2023-2026 18-inch Mini-LED) | `G834` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2023 RTX 40 Mini-LED) | `GA402X` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G16 / M16 (2023 16:10) | `GU603` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus M16 (2023 Nebula HDR Mini-LED) | `GU604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | TUF Gaming | ASUS TUF Gaming A16 Advantage Edition (2023-2025 All-AMD 16:10) | `FA617` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A17 (2023-2024) | `FA707` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F17 (2023-2024) | `FX707` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | Vivobook | ASUS Vivobook 13 Slate OLED Refresh (2023-2025) | `T3304` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Vivobook | ASUS Vivobook Go 14 Serie N / Ryzen 7000 (2023-2026) | `E1404` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook Go 15 Serie N / Ryzen 7000 (2023-2026) | `E1504` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook Pro 15 OLED RTX (2023-2025) | `K6502` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Vivobook | ASUS Vivobook Pro 16 OLED Intel Core i9 RTX 4060/4070 (2023-2025) | `K6604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Zenbook | ASUS Zenbook Pro 14 OLED 120Hz RTX 4070 (2023-2025) | `UX6404` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook S 13 OLED (2023-2025 Ultradelgada 1cm 1kg) | `UX5304` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | Dell | Latitude | Latitude 3190 | `081E` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3190 2-in-1 | `081F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3310 2-IN-1 | `0980` | ✅ `install-all.sh` | audio, color, thermals |
@@ -4465,10 +4513,35 @@
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D6) | `30D6` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D7) | `30D7` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2022 (517 modelos)
+## 📅 Generación 2022 (542 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ExpertBook | ASUS ExpertBook B2 B2402 (2022-2024) | `B2402` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B3 Flip (2022-2024) | `B3402` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B5 Flip 14 (2022-2024) | `B5402` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B7 Flip 5G Antirreflejo (2022-2024) | `B7402` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG Flow | ASUS ROG Flow X16 (2022-2024 Convertible 360 Mini-LED) | `GV601` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | ROG Flow | ASUS ROG Flow Z13 (2022-2025 Gaming Tablet / Acronym) | `GZ301` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus Duo 16 (2022-2024 Mini-LED Dual) | `GX650` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2022 All-AMD) | `GA402R` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | TUF Gaming | ASUS TUF Dash F15 (2022-2023 Chasis Delgado) | `FX517` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 (2022-2023 Ryzen 6000/7000) | `FA507` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 (2022-2024 Intel 12th/13th Gen) | `FX507` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | Vivobook | ASUS Vivobook 14 (2022-2024) | `X1402` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook 15 (2022-2024) | `X1502` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook 16 (2022-2024) | `X1605` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook 16 AMD (2022-2024) | `M1605` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook S 14 OLED Serie H (2022-2023) | `S3402` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Vivobook | ASUS Vivobook S 15 OLED Serie 6000/7000 (2022-2023) | `K3502` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Vivobook | ASUS Vivobook S 15 OLED Serie H (2022-2023) | `S3502` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Zenbook | ASUS Zenbook 14 Flip OLED 360 Stylus (2022-2023) | `UP5401` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook 14 OLED (2022-2023 Logotipo Monograma A) | `UX3402` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook 14 OLED AMD (2022-2023) | `UM3402` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook 14X OLED (2022-2023) | `UX5401` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook 17 Fold OLED (2022-2024 Pantalla Plegable 17.3) | `UX9702` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook Pro 16X OLED AAS Ultra (2022-2024 Teclado Inclinado) | `UX7602` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook S 13 OLED (2022 1cm 1kg) | `UM5302` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | Dell | Latitude | Latitude 3300 | `08BB` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3301 | `094F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3500 | `08BF` | ✅ `install-all.sh` | audio, color, thermals |
@@ -4987,10 +5060,37 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SE) | `20SE` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SF) | `20SF` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2021 (1096 modelos)
+## 📅 Generación 2021 (1123 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | Chromebook | ASUS Chromebook CX9 Ultralight Magnesio (2021-2023) | `CX9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Chromebook | ASUS Chromebook Detachable CM3 Tablet (2021-2023) | `CM3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Chromebook | ASUS Chromebook Detachable CZ1 Rugged Reforzada (2021-2024) | `CZ1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Chromebook | ASUS Chromebook Flip CX5 14/15.6 (2021-2023) | `CX5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B1 B1400 (2021-2023) | `B1400` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B1 B1500 (2021-2023) | `B1500` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B5 Flip 13 (2021-2023) | `B5302` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B9400 vPro Ultralight (2021-2022) | `B9400` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ProArt | ASUS ProArt Studiobook 16 OLED AMD (2021-2024 ASUS Dial) | `H5600` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | ProArt | ASUS ProArt Studiobook Pro 16 OLED ECC/RTX A3000/A5000 (2021-2024) | `W7600` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | ROG Flow | ASUS ROG Flow X13 (2021-2022 Convertible 360 XG Mobile) | `GV301` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix G15 (2021-2022 Eclipse Gray) | `G513` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix G17 (2021-2022) | `G713` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix SCAR 15 (2021-2022 Ryzen 9 Optico-Mecanico) | `G533` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix SCAR 17 (2021-2022) | `G733` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus Duo 15 SE (2021 AMD Ryzen 5000) | `GX551` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2021 RTX 30) | `GA401Q` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G15 (2021-2022 Ryzen 5000/6000) | `GA503` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus S17 (2021 Teclado Elevable Mecanico) | `GX703` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | TUF Gaming | ASUS TUF Dash F15 (2021 Chasis Delgado) | `FX516` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | Vivobook | ASUS Vivobook 13 Slate OLED Tablet Desmontable (2021-2024) | `T3300` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Vivobook | ASUS Vivobook Pro 14X OLED (2021-2023) | `K3400` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Vivobook | ASUS Vivobook Pro 14X OLED DialPad (2021-2023) | `N7400` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Vivobook | ASUS Vivobook Pro 15 OLED (2021-2023) | `K3500` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Vivobook | ASUS Vivobook Pro 16X OLED DialPad (2021-2023) | `N7600` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Zenbook | ASUS Zenbook Duo 14 (2021-2023 ScreenPad Plus Basculante) | `UX482` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook Pro Duo 15 OLED (2021-2022) | `UX582` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | Dell | Latitude | Latitude 3390 2-in-1 | `0878` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3490 | `0848` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3490 | `0839` | ✅ `install-all.sh` | audio, color, thermals |
@@ -6088,10 +6188,41 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JH) | `20JH` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JJ) | `20JJ` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2020 (770 modelos)
+## 📅 Generación 2020 (801 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | Chromebook | ASUS Chromebook Flip C434 2-in-1 (2020) | `C434` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Chromebook | ASUS Chromebook Flip C436 Wi-Fi 6 (2020-2021) | `C436` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ExpertBook | ASUS ExpertBook B9450 14 Magnesio 870g (2020) | `B9450` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG Strix | ASUS ROG Strix G15 (2020 Electro Punk) | `G512` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix G17 (2020) | `G712` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix SCAR 15 (2020 Intel 10th Gen) | `G532` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Strix | ASUS ROG Strix SCAR 17 (2020) | `G732` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus Duo 15 (2020 Intel ScreenPad Plus) | `GX550` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2020 AniMe Matrix) | `GA401` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus G15 (2020 Ryzen 4000) | `GA502` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus M15 (2020 Intel 10th Gen) | `GU502` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG Zephyrus | ASUS ROG Zephyrus S15 (2020 Teclado Elevable) | `GX502` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 (2020 Ryzen 4000 MIL-STD-810H) | `FA506` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A17 (2020-2022) | `FA706` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 (2020-2021 Intel 10th/11th Gen) | `FX506` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F17 (2020-2022) | `FX706` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | Vivobook | ASUS Vivobook 14 (2020-2021 Consumo Masivo) | `X415` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook 15 (2020-2021 Consumo Masivo) | `X515` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook 15 AMD (2020-2021) | `M515` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook 15 F-Series (2020-2021) | `F515` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook Go 11.6 Celeron/Pentium (2020-2022) | `E210` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook Go 14 Celeron/Pentium (2020-2022) | `E410` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook Go 15 Celeron/Pentium (2020-2022) | `E510` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook S14 (2020-2022 Tecla Enter Verde) | `S433` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Vivobook | ASUS Vivobook S15 (2020-2022 Tecla Enter Verde) | `S533` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | ASUS Zenbook 13 OLED (2020-2021) | `UX325` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook 14 (2020-2021 Thunderbolt USB-C OLED) | `UX425` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook 14 AMD (2020-2021) | `UM425` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook Duo (2020 ScreenPad Plus) | `UX481` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook Flip 13 OLED 360 Stylus (2020-2023) | `UX363` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| ASUS | Zenbook | ASUS Zenbook Pro 15 OLED (2020-2022) | `UX535` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
 | Dell | Latitude | Latitude 3180 | `07B2` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3189 | `07B3` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3380 | `07B4` | ✅ `install-all.sh` | audio, color, thermals |
@@ -6863,7 +6994,7 @@
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D3) | `30D3` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D4) | `30D4` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2019 (691 modelos)
+## 📅 Generación 2019 (668 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -6871,8 +7002,6 @@
 | ASUS | ASUS | Asus Br1104C | `BR1104C` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ASUS | Asus Br1104F | `BR1104F` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ASUS | Asus Chromebook Cr11 Cr1104C | `CR1104C` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ASUS | Asus Chromebook Cx34 Flip Cx3401 12Th Gen Intel | `INTEL` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ASUS | Asus Chromebook Cz11 Cz1104C | `CZ1104C` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ASUS | Asus Chromebook Flip C433 | `C433` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ASUS | Asus M509 | `M509` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ASUS | Asus M570 | `M570` | ✅ `install-all.sh` | audio, color, thermals |
@@ -6881,24 +7010,10 @@
 | ASUS | ExpertBook | Asus Expertbook B5 Flip G2 14 Intel | `INTEL` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ExpertBook | Asus Expertbook P1 Pm1403 | `PM1403` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ExpertBook | Asus Expertbook P5 G2 14 Intel | `INTEL` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ExpertBook | Expertbook B5 B5402C | `B5402C` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ExpertBook | Expertbook B5 B5402C 13Th Gen Intel | `INTEL` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ExpertBook | Expertbook B5 B5604 | `B5604` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ExpertBook | Expertbook B9 B9400 | `B9400` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ExpertBook | Expertbook P1 P1403 | `P1403` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ExpertBook | Expertbook P5 P5405 | `P5405` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ProArt | Proart P16 H7606 | `H7606` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | ProArt | Proart Pz14 Ht7407 | `HT7407` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ROG | Rog Flow X13 Gv302 | `GV302` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ROG | Rog Flow Z13 Gz301 | `GZ301` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ROG | Rog Strix Scar 16 G634 | `G634` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ROG | Rog Strix Scar 18 G834 | `G834` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ROG | Rog Zephyrus G14 Ga403 | `GA403` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | ROG | Rog Zephyrus G16 Gu605 | `GU605` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | TUF Gaming | Asus Tuf Gaming A15 Fa507 | `FA507` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | TUF Gaming | Asus Tuf Gaming A16 Fa607 | `FA607` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | TUF Gaming | Asus Tuf Gaming F15 Fx507 | `FX507` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | TUF Gaming | Asus Tuf Gaming F16 Fx607 | `FX607` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | Vivobook | Asus Vivobook 15 Oled M1505 | `M1505` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | Vivobook | Asus Vivobook 16X Oled K3605 | `K3605` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | Vivobook | Asus Vivobook 18 M1807 | `M1807` | ✅ `install-all.sh` | audio, color, thermals |
@@ -6906,15 +7021,8 @@
 | ASUS | Vivobook | Asus Vivobook S16 S3607 | `S3607` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | Vivobook | Asus Vivobook S16 S3607Q | `S3607Q` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | Vivobook | Vivobook 15 M1502 | `M1502` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | Vivobook | Vivobook Pro 16X Oled K6604 | `K6604` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | Vivobook | Vivobook S 14 Oled S5406Ma | `S5406MA` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | Vivobook | Vivobook S 15 OLED S5506MA | `S5506MA` | ✅ `install-all.sh` | audio, display, keyboard_rgb, thermal |
 | ASUS | Vivobook | Vivobook S16 S3607Q | `S3607Q` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | Zenbook | Asus Zenbook 14 Oled Um3406 | `UM3406` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | Zenbook | Zenbook 14 Oled Ux3402 | `UX3402` | ✅ `install-all.sh` | audio, color, thermals |
 | ASUS | Zenbook | Zenbook 14X Oled Ux3404 | `UX3404` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | Zenbook | Zenbook Duo Oled Ux8406 | `UX8406` | ✅ `install-all.sh` | audio, color, thermals |
-| ASUS | Zenbook | Zenbook Pro 14 Oled Ux6404 | `UX6404` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Internet of Things | Embedded Box PC 3000 | `0758` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Internet of Things | Embedded Box PC 5000 | `0759` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Internet of Things | Internet of Things Dell Embedded Box PC 3000 | `0758` | ✅ `install-all.sh` | audio, color, thermals |

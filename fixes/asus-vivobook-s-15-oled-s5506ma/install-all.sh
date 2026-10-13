@@ -1,12 +1,12 @@
 #!/bin/bash
 # ==========================================================================
-# Script de Instalación Automatizado — ASUS Vivobook S 15 OLED S5506MA
+# Script de Instalación Automatizado — ASUS ASUS Vivobook S 15 OLED RGB 1-Zona (2024-2026)
 # Generado por DeepSlopSuperLaptop para asus-vivobook-s-15-oled-s5506ma
 # Sin daemons que gasten batería. 100% nativo.
 # ==========================================================================
 set -e
 
-echo "🚀 Aplicando configuraciones de hardware para ASUS Vivobook S 15 OLED S5506MA..."
+echo "🚀 Aplicando configuraciones de hardware para ASUS ASUS Vivobook S 15 OLED RGB 1-Zona (2024-2026)..."
 
 # --- 1. Audio (PipeWire / Firmware) ---
 echo "🔊 Configurando audio de alta fidelidad..."

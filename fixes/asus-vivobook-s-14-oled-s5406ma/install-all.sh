@@ -1,12 +1,38 @@
 #!/bin/bash
 # ==========================================================================
-# Script de Instalación Automatizado — ASUS Vivobook S 14 Oled S5406Ma
+# Script de Instalación Automatizado — ASUS ASUS Vivobook S 14 OLED RGB 1-Zona (2024-2026)
 # Generado por DeepSlopSuperLaptop para asus-vivobook-s-14-oled-s5406ma
 # Sin daemons que gasten batería. 100% nativo.
 # ==========================================================================
 set -e
 
-echo "🚀 Aplicando configuraciones de hardware para ASUS Vivobook S 14 Oled S5406Ma..."
+echo "🚀 Aplicando configuraciones de hardware para ASUS ASUS Vivobook S 14 OLED RGB 1-Zona (2024-2026)..."
+
+# --- 1. Audio (PipeWire / Firmware) ---
+echo "🔊 Configurando audio de alta fidelidad..."
+mkdir -p ~/.config/pipewire/pipewire.conf.d/
+if [ -f ./audio/99-speakers.conf ]; then
+    cp -f ./audio/99-speakers.conf ~/.config/pipewire/pipewire.conf.d/
+    echo "  ✓ Perfil de ecualización PipeWire instalado"
+    systemctl --user restart pipewire pipewire-pulse 2>/dev/null || true
+fi
+
+# --- 2. Perfil de Color Oficial ---
+echo "🎨 Importando calibración de color del panel..."
+mkdir -p ~/.local/share/icc/
+if ls ./display/*.icm 1> /dev/null 2>&1; then
+    cp -f ./display/*.icm ~/.local/share/icc/
+    for p in ./display/*.icm; do
+        colormgr import-profile "$p" 2>/dev/null || true
+    done
+    echo "  ✓ Perfiles de color registrados en colord"
+fi
+
+# --- 3. Teclado y Controladores ---
+echo "⌨️ Configurando teclado e iluminación..."
+if [ -f ./kmod/install.sh ]; then
+    sudo ./kmod/install.sh
+fi
 
 # --- 4. Modo Térmico por Defecto ---
 if [ -f /sys/firmware/acpi/platform_profile ]; then

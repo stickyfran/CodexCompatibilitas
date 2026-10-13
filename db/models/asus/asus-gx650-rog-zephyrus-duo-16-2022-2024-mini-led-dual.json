@@ -1,0 +1,67 @@
+{
+  "id": "asus-gx650-rog-zephyrus-duo-16-2022-2024-mini-led-dual",
+  "vendor": "ASUS",
+  "family": "ROG Zephyrus",
+  "model_name": "ASUS ROG Zephyrus Duo 16 (2022-2024 Mini-LED Dual)",
+  "system_id": "GX650",
+  "dmi_matches": [
+    "GX650",
+    "ASUS GX650",
+    "ROG Zephyrus Duo 16 (2022-2024 Mini-LED Dual)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "asus-nb-wmi",
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "cirrus-cs35l41",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

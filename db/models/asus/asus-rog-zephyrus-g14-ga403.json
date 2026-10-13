@@ -1,435 +1,73 @@
 {
   "id": "asus-rog-zephyrus-g14-ga403",
   "vendor": "ASUS",
-  "family": "ROG",
-  "model_name": "Rog Zephyrus G14 Ga403",
+  "family": "ROG Zephyrus",
+  "model_name": "ASUS ROG Zephyrus G14 (2024 CNC OLED Ryzen 8000)",
   "system_id": "GA403",
   "dmi_matches": [
-    "GA403"
+    "GA403",
+    "ASUS GA403",
+    "ROG Zephyrus G14 (2024 CNC OLED Ryzen 8000)"
   ],
   "pci_subsystems": [],
   "acpi_hids": [],
-  "thermal": null,
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "asus-nb-wmi",
+    "dptf_tuning_available": false
+  },
   "driver_packs": [],
-  "individual_drivers": [
-    {
-      "category": "network",
-      "name": "MediaTek WLAN Driver",
-      "version": "V3.6.2.1434",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Networking/51056/WirelessLan_ROG_MediaTek_B_V3.6.2.1434Sub1_51056.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/09/16",
-      "hardware_ids": []
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "network",
-      "name": "MediaTek WLAN Driver",
-      "version": "V3.5.2.1376",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Networking/48971/WirelessLan_ROG_MediaTek_B_V3.5.2.1376Sub1_48971.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/03/20",
-      "hardware_ids": []
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "chipset_thermal",
-      "name": "AMD Chipset",
-      "version": "V1.2.0.124",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Chipset/40187/AMD_Chipset_DriverOnly_ROG_AMD_B_V1.2.0.124Sub28_40187_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/09/18",
-      "hardware_ids": []
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "audio",
-      "name": "Realtek Codec Console Application",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9p2b8mcsvpln?tp=RHJpdmVyR2FtaW5nIE5C",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2021/07/08",
-      "hardware_ids": []
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "audio",
-      "name": "Realtek Audio",
-      "version": "V6.0.9683.1",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Audio/38619/Audio_DriverOnly_Dolby_ROG_Realtek_B_V6.0.9683.1_38619_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/06/19",
-      "hardware_ids": []
+    "display_color": {
+      "status": "fixed",
+      "fix_type": "icc-profile",
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "audio",
-      "name": "Realtek Audio",
-      "version": "V6.0.9621.1",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Audio/36931/Audio_DriverOnly_Dolby_ROG_Realtek_B_V6.0.9621.1_36931_2.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/22",
-      "hardware_ids": []
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "asus-nb-wmi",
+      "fix_path": null,
+      "details": {}
     },
-    {
-      "category": "utility",
-      "name": "Cirrus SmartAMP Driver",
-      "version": "V25.26.50.500",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Audio/40186/SmartAMP_Cirrus_DCH_ROG_Cirrus_B_V25.26.50.500_40186_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/09/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Cirrus SmartAMP Driver",
-      "version": "V23.26.47.790",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Audio/37245/SmartAMP_Cirrus_DCH_ROG_Cirrus_B_V23.26.47.790_37245_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/02/05",
-      "hardware_ids": []
-    },
-    {
-      "category": "display",
-      "name": "NVIDIA Graphic Driver",
-      "version": "V32.0.15.6607",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Graphics/41273/Graphic_DCH_ROG_SD_NVIDIA_B_V32.0.15.6607_41273_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/11/27",
-      "hardware_ids": []
-    },
-    {
-      "category": "display",
-      "name": "NVIDIA Graphic Driver",
-      "version": "V32.0.15.5597",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Graphics/38549/Graphic_DCH_ROG_SD_NVIDIA_B_V32.0.15.5597_38549_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/06/19",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "NVIDIA Control Panel Application",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9NF8H0H7WMLT?tp=RHJpdmVyR2FtaW5nIE5C",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2022/09/08",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "displayHDR",
-      "version": "V1.1.0.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Graphics/36907/displayHDR_ROG_ASUS_B_V1.1.0.0Sub2_36907_2.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/08",
-      "hardware_ids": []
-    },
-    {
-      "category": "display",
-      "name": "AMD Graphics Driver",
-      "version": "V32.0.11038.5002",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Graphics/44466/Graphic_DriverOnly_ROG_AMD_B_V32.0.11038.5002_44466_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/08/01",
-      "hardware_ids": []
-    },
-    {
-      "category": "display",
-      "name": "AMD Graphics Driver",
-      "version": "V31.0.22060.5000",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Graphics/40271/AMD_Graphic_V31.0.22060.5000_40271_2_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/09/23",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "AMD Control Panel",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9NZ1BJQN6BHL?tp=RHJpdmVyR2FtaW5nIE5C",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/12/20",
-      "hardware_ids": []
-    },
-    {
-      "category": "audio",
-      "name": "Realtek Card Reader Driver",
-      "version": "V10.0.26100.21373",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/CardReader/38634/CardReader_ROG_Realtek_B_V10.0.26100.21373_38634_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/06/19",
-      "hardware_ids": []
-    },
-    {
-      "category": "audio",
-      "name": "Realtek Card Reader Driver",
-      "version": "V10.0.22621.21367",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/CardReader/35723/CardReader_ROG_Realtek_B_V10.0.22621.21367_35723_2.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/09/27",
-      "hardware_ids": []
-    },
-    {
-      "category": "touchpad",
-      "name": "ASUS Precision TouchPad Driver",
-      "version": "V16.0.0.23",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/PointingDevice/38162/PrecisionTouchPad_ROG_ASUS_B_V16.0.0.23Sub4_38162_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/06/19",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Parade Retimer Driver",
-      "version": "V1.0.016.00",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/USB/38025/Parade_Retimer_ROG_Parade_B_V1.0.016.00_38025_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/06/03",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Parade Retimer Driver",
-      "version": "V1.0.012.00",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/USB/35968/Parade_Retimer_ROG_Parade_B_V1.0.012.00_35968_2.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/11/09",
-      "hardware_ids": []
-    },
-    {
-      "category": "network",
-      "name": "MediaTek Bluetooth Driver",
-      "version": "V1.1147.2.616",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Bluetooth/51055/Bluetooth_ROG_MediaTek_B_V1.1147.2.616Sub1_51055.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/09/16",
-      "hardware_ids": []
-    },
-    {
-      "category": "network",
-      "name": "MediaTek Bluetooth Driver",
-      "version": "V1.1045.2.567",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Bluetooth/48970/Bluetooth_ROG_MediaTek_B_V1.1045.2.567Sub1_48970.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/03/20",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Virtual Pet",
-      "version": "V2.5.6",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/15734/VirtualPet_ASUS_Z_V2.5.6_15734_4.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/05/28",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Virtual Pet",
-      "version": "V2.5.5",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/15434/VirtualPet_ASUS_Z_V2.5.5_15434_5.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/11/08",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "MyASUS",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9N7R5S6B0ZZH?tp=U29mdHdhcmVHYW1pbmcgTkI=",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2021/11/23",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Microsoft Effect Pack(MEP) driver",
-      "version": "V1.0.33.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/SoftwareandUtility/38639/MSFT_MEP_ROG_Microsoft_B_V1.0.33.0_38639_1.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/06/19",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "GlideX",
-      "version": "latest version at the MS store",
-      "url": "https://www.microsoft.com/store/apps/9PLH2SV1DVK5?tp=U29mdHdhcmVHYW1pbmcgTkI=",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/04/25",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Dolby Atmos driver",
-      "version": "V9.529.820.15.7",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/15929/ASUS_Z_V9.529.820.15.7_15929_4.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/06/07",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Dolby Atmos driver",
-      "version": "V9.110.535.41.5",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/15633/ASUS_Z_V9.110.535.41.5_15633_5.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/01/22",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Aura Wallpaper",
-      "version": "V1.4.7.2",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/14999/AuraWallpaperService_ASUS_Z_V1.4.7.2_14999_5.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2023/03/16",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "ASUS System Control Interface v3",
-      "version": "V3.1.72.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/18060/ASUSSystemControlInterfacev3_ASUS_Z_V3.1.72.0_18060.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/09/23",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "ASUS System Control Interface v3",
-      "version": "V3.1.70.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/17972/ASUSSystemControlInterfacev3_ASUS_Z_V3.1.70.0_17972.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/08/24",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "ASUS Smart Display Control",
-      "version": "V2.10.25",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/15838/ASUSSmartDisplayControl_ASUS_Z_V2.10.25_15838_4.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/05/20",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Armoury Crate Control Interface",
-      "version": "V1.2.0.1",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/16991/ArmouryCrateControlInterface_ASUS_Z_V1.2.0.1_16991.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/09/18",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Armoury Crate Control Interface",
-      "version": "V1.1.0.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/16223/ArmouryCrateControlInterface_ASUS_Z_V1.1.0.0_16223_2.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/10/16",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Armoury Crate & Aura Creator Installer",
-      "version": "V3.3.6.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/17877/ArmouryCrateAuraCreatorInstaller_ASUS_Z_V3.3.6.0_17877.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2026/07/20",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Armoury Crate & Aura Creator Installer",
-      "version": "V3.3.1.0",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/16611/ArmouryCrateAuraCreatorInstaller_ASUS_Z_V3.3.1.0_16611_2.exe?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2025/04/09",
-      "hardware_ids": []
-    },
-    {
-      "category": "utility",
-      "name": "Armoury Crate & Aura Creator Installer",
-      "version": "V3.2.11.2",
-      "url": "https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/15880/ArmouryCrate&AuraCreatorInstaller_V3.2.11.2_15880_1_3.zip?model=GA403UI",
-      "sha256": null,
-      "md5": null,
-      "size_bytes": null,
-      "release_date": "2024/05/28",
-      "hardware_ids": []
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "cirrus-cs35l41",
+      "fix_path": null,
+      "details": {}
     }
-  ],
-  "components": {}
+  }
 }
