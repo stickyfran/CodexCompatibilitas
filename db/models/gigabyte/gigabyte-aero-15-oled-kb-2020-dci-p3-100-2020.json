@@ -1,0 +1,62 @@
+{
+  "id": "gigabyte-aero-15-oled-kb-2020-dci-p3-100-2020",
+  "vendor": "Gigabyte",
+  "family": "AERO",
+  "model_name": "Gigabyte AERO 15 OLED KB (2020 DCI-P3 100%) (2020)",
+  "system_id": "AERO-15OLED-KB",
+  "dmi_matches": [
+    "AERO 15 OLED KB (2020 DCI-P3 100%)",
+    "AERO-15OLED-KB",
+    "Gigabyte AERO 15 OLED KB (2020 DCI-P3 100%)",
+    "Gigabyte AERO-15OLED-KB"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "gigabyte_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "gigabyte_wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

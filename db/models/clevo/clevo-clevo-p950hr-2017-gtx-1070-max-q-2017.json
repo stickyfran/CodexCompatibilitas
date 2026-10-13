@@ -1,0 +1,62 @@
+{
+  "id": "clevo-clevo-p950hr-2017-gtx-1070-max-q-2017",
+  "vendor": "Clevo",
+  "family": "Barebone",
+  "model_name": "Clevo Clevo P950HR (2017 GTX 1070 Max-Q) (2017)",
+  "system_id": "P950HR",
+  "dmi_matches": [
+    "Clevo P950HR (2017 GTX 1070 Max-Q)",
+    "P950HR",
+    "Clevo Clevo P950HR (2017 GTX 1070 Max-Q)",
+    "Clevo P950HR"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "clevo_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "clevo_wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

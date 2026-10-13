@@ -1,0 +1,62 @@
+{
+  "id": "clevo-clevo-pc50dn2-2020-rtx-2070-super-oled-2020",
+  "vendor": "Clevo",
+  "family": "Barebone",
+  "model_name": "Clevo Clevo PC50DN2 (2020 RTX 2070 Super OLED) (2020)",
+  "system_id": "PC50DN2",
+  "dmi_matches": [
+    "Clevo PC50DN2 (2020 RTX 2070 Super OLED)",
+    "PC50DN2",
+    "Clevo Clevo PC50DN2 (2020 RTX 2070 Super OLED)",
+    "Clevo PC50DN2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "clevo_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "clevo_wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

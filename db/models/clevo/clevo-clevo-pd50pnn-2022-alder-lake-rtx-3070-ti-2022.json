@@ -1,0 +1,62 @@
+{
+  "id": "clevo-clevo-pd50pnn-2022-alder-lake-rtx-3070-ti-2022",
+  "vendor": "Clevo",
+  "family": "Barebone",
+  "model_name": "Clevo Clevo PD50PNN (2022 Alder Lake RTX 3070 Ti) (2022)",
+  "system_id": "PD50PNN",
+  "dmi_matches": [
+    "Clevo PD50PNN (2022 Alder Lake RTX 3070 Ti)",
+    "PD50PNN",
+    "Clevo Clevo PD50PNN (2022 Alder Lake RTX 3070 Ti)",
+    "Clevo PD50PNN"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "clevo_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "clevo_wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

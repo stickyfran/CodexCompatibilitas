@@ -1,0 +1,56 @@
+{
+  "id": "huawei-matebook-16-2021-ryzen-5800h-3-2-2021",
+  "vendor": "Huawei",
+  "family": "MateBook",
+  "model_name": "Huawei MateBook 16 (2021 Ryzen 5800H 3:2) (2021)",
+  "system_id": "CREM-WFD9",
+  "dmi_matches": [
+    "MateBook 16 (2021 Ryzen 5800H 3:2)",
+    "CREM-WFD9",
+    "Huawei MateBook 16 (2021 Ryzen 5800H 3:2)",
+    "Huawei CREM-WFD9"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "huawei_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

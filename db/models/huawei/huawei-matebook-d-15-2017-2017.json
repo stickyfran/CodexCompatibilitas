@@ -1,0 +1,56 @@
+{
+  "id": "huawei-matebook-d-15-2017-2017",
+  "vendor": "Huawei",
+  "family": "MateBook",
+  "model_name": "Huawei MateBook D 15 (2017) (2017)",
+  "system_id": "MRC-W50",
+  "dmi_matches": [
+    "MateBook D 15 (2017)",
+    "MRC-W50",
+    "Huawei MateBook D 15 (2017)",
+    "Huawei MRC-W50"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "huawei_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

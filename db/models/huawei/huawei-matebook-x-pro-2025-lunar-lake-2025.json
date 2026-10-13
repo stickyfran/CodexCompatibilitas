@@ -1,0 +1,56 @@
+{
+  "id": "huawei-matebook-x-pro-2025-lunar-lake-2025",
+  "vendor": "Huawei",
+  "family": "MateBook",
+  "model_name": "Huawei MateBook X Pro (2025 Lunar Lake) (2025)",
+  "system_id": "VGHJ-XX",
+  "dmi_matches": [
+    "MateBook X Pro (2025 Lunar Lake)",
+    "VGHJ-XX",
+    "Huawei MateBook X Pro (2025 Lunar Lake)",
+    "Huawei VGHJ-XX"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "huawei_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

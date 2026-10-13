@@ -1,0 +1,62 @@
+{
+  "id": "clevo-clevo-p870dm3-g-2016-gtx-1080-sli-2016",
+  "vendor": "Clevo",
+  "family": "Barebone",
+  "model_name": "Clevo Clevo P870DM3-G (2016 GTX 1080 SLI) (2016)",
+  "system_id": "P870DM3-G",
+  "dmi_matches": [
+    "Clevo P870DM3-G (2016 GTX 1080 SLI)",
+    "P870DM3-G",
+    "Clevo Clevo P870DM3-G (2016 GTX 1080 SLI)",
+    "Clevo P870DM3-G"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "clevo_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "clevo_wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

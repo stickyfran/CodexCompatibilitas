@@ -1,0 +1,62 @@
+{
+  "id": "gigabyte-aorus-15-xe4-2022-alder-lake-2022",
+  "vendor": "Gigabyte",
+  "family": "AORUS",
+  "model_name": "Gigabyte AORUS 15 XE4 (2022 Alder Lake) (2022)",
+  "system_id": "15-XE4",
+  "dmi_matches": [
+    "AORUS 15 XE4 (2022 Alder Lake)",
+    "15-XE4",
+    "Gigabyte AORUS 15 XE4 (2022 Alder Lake)",
+    "Gigabyte 15-XE4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "gigabyte_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "gigabyte_wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

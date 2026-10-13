@@ -1,0 +1,56 @@
+{
+  "id": "panasonic-toughbook-55-2025-mk4-core-ultra-2025",
+  "vendor": "Panasonic",
+  "family": "Toughbook",
+  "model_name": "Panasonic Toughbook 55 (2025 Mk4 Core Ultra) (2025)",
+  "system_id": "FZ-55-Mk4",
+  "dmi_matches": [
+    "Toughbook 55 (2025 Mk4 Core Ultra)",
+    "FZ-55-Mk4",
+    "Panasonic Toughbook 55 (2025 Mk4 Core Ultra)",
+    "Panasonic FZ-55-Mk4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "panasonic_laptop",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

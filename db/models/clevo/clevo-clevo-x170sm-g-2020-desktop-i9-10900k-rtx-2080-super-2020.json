@@ -1,0 +1,62 @@
+{
+  "id": "clevo-clevo-x170sm-g-2020-desktop-i9-10900k-rtx-2080-super-2020",
+  "vendor": "Clevo",
+  "family": "Barebone",
+  "model_name": "Clevo Clevo X170SM-G (2020 Desktop i9-10900K RTX 2080 Super) (2020)",
+  "system_id": "X170SM-G",
+  "dmi_matches": [
+    "Clevo X170SM-G (2020 Desktop i9-10900K RTX 2080 Super)",
+    "X170SM-G",
+    "Clevo Clevo X170SM-G (2020 Desktop i9-10900K RTX 2080 Super)",
+    "Clevo X170SM-G"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "clevo_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "clevo_wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

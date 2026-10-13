@@ -1,0 +1,56 @@
+{
+  "id": "panasonic-toughbook-40-2026-mk3-2026",
+  "vendor": "Panasonic",
+  "family": "Toughbook",
+  "model_name": "Panasonic Toughbook 40 (2026 Mk3) (2026)",
+  "system_id": "FZ-40-Mk3",
+  "dmi_matches": [
+    "Toughbook 40 (2026 Mk3)",
+    "FZ-40-Mk3",
+    "Panasonic Toughbook 40 (2026 Mk3)",
+    "Panasonic FZ-40-Mk3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "panasonic_laptop",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}
