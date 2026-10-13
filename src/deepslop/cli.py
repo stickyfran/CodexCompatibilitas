@@ -133,8 +133,100 @@ def probe_cmd():
     if matches:
         for m in matches:
             console.print(f"✓ [cyan]{m.vendor}[/cyan] [bold white]{m.model_name}[/bold white] (ID: {m.id}) con {len(m.driver_packs)} paquetes de drivers oficiales.")
+            if m.components:
+                console.print(f"  [bold]Componentes configurados:[/bold]")
+                for comp, status in m.components.items():
+                    console.print(f"    • {comp}: [green]{status.status}[/green] ({status.fix_type or 'nativo'})")
     else:
         console.print(f"[yellow]No se encontró coincidencia exacta directa para '{prof.product_name}'. Busque con `deepslop catalog search`.[/yellow]")
+
+
+@app.command("process")
+def process_cmd(
+    model_id: str = typer.Argument(..., help="ID del modelo a procesar (ej. asus-vivobook-s-15-oled-s5506ma)"),
+):
+    """Descarga, extrae y analiza los paquetes de drivers de un modelo para generar fixes nativos."""
+    asyncio.run(_process_model(model_id))
+
+
+async def _process_model(model_id: str):
+    from deepslop.download.downloader import Downloader
+    from deepslop.extract.unpacker import Unpacker
+    from deepslop.parsers.cirrus import CirrusExtractor
+    from deepslop.parsers.dolby import parse_dolby_xml, generate_pipewire_filter_chain
+    from deepslop.parsers.icm import ICMProfileInfo
+
+    registry = Registry(DB_DIR)
+    models = registry.load_all_models()
+    matched = next((m for m in models if m.id == model_id), None)
+
+    if not matched:
+        console.print(f"[red]Modelo {model_id} no encontrado en la base de datos.[/red]")
+        return
+
+    console.print(f"\n[bold cyan]Procesando {matched.vendor} {matched.model_name}...[/bold cyan]")
+    if not matched.driver_packs:
+        console.print(f"[yellow]No hay paquetes de drivers registrados para {model_id}.[/yellow]")
+        return
+
+    downloader = Downloader(os.path.join(BASE_DIR, "data", "cache"))
+    extract_base = os.path.join(BASE_DIR, "data", "extracted", model_id)
+    fixes_base = os.path.join(BASE_DIR, "fixes", model_id)
+    os.makedirs(fixes_base, exist_ok=True)
+
+    for pack in matched.driver_packs:
+        console.print(f"\n[bold]Analizando paquete: {pack.name}[/bold]")
+        downloaded = await downloader.download_file(pack.url, pack.sha256 or pack.md5)
+        if not downloaded:
+            continue
+
+        pack_extract_dir = os.path.join(extract_base, pack.name)
+        unpacked = Unpacker.unpack(downloaded, pack_extract_dir)
+        if not unpacked:
+            console.print(f"[yellow]No se pudo desempaquetar {pack.name} o el contenido está vacío.[/yellow]")
+            continue
+
+        console.print(f"[green]✓ Desempaquetado exitoso en {pack_extract_dir}[/green]")
+
+        # 1. Escanear amplificadores Cirrus Logic
+        cirrus_assets = CirrusExtractor.scan_directory(pack_extract_dir)
+        if cirrus_assets:
+            console.print(f"[bold green]✓ Detectados {len(cirrus_assets)} firmwares de amplificador Cirrus Logic CS35L41![/bold green]")
+            for ca in cirrus_assets:
+                install_script = os.path.join(fixes_base, "install_cirrus_firmware.sh")
+                with open(install_script, "w") as f:
+                    f.write("#!/bin/bash\n" + CirrusExtractor.install_to_system(ca))
+                os.chmod(install_script, 0o755)
+                console.print(f"  → Script generado: {install_script}")
+                matched.components["audio_amp"] = {
+                    "status": "fixed",
+                    "fix_type": "cirrus_kernel_firmware",
+                    "fix_path": install_script,
+                    "details": {"subsystem": ca.subsystem_id, "bin": ca.bin_filename}
+                }
+
+        # 2. Escanear perfiles de color ICM
+        icm_count = 0
+        for root, _, files in os.walk(pack_extract_dir):
+            for file in files:
+                if file.lower().endswith(".icm") or file.lower().endswith(".icc"):
+                    icm_path = os.path.join(root, file)
+                    info = ICMProfileInfo(icm_path)
+                    dest_icm = os.path.join(fixes_base, file)
+                    import shutil
+                    shutil.copy2(icm_path, dest_icm)
+                    icm_count += 1
+                    console.print(f"[bold green]✓ Perfil de color detectado: {file} ({info.description or 'Monitor'})[/bold green]")
+        if icm_count > 0:
+            matched.components["display_color"] = {
+                "status": "fixed",
+                "fix_type": "color_icc_profile",
+                "fix_path": fixes_base,
+            }
+
+    # Guardar modelo actualizado en DB
+    registry.save_models([matched])
+    console.print(f"\n[bold green]¡Procesamiento finalizado para {model_id}! Registro actualizado en DB.[/bold green]")
 
 
 def main():
@@ -143,3 +235,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
