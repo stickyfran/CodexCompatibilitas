@@ -1,0 +1,57 @@
+{
+  "id": "msi-prestige15-a10rb-2019",
+  "vendor": "MSI",
+  "family": "Prestige",
+  "model_name": "MSI Prestige 15 A10RB",
+  "system_id": "Prestige15-A10RB/MS-16S3",
+  "dmi_matches": [
+    "Prestige15-A10RB",
+    "MS-16S3",
+    "MSI Prestige15-A10RB",
+    "Micro-Star MS-16S3",
+    "MSI Prestige 15 A10RB"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

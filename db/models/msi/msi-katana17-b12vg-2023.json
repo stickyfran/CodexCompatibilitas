@@ -1,0 +1,63 @@
+{
+  "id": "msi-katana17-b12vg-2023",
+  "vendor": "MSI",
+  "family": "Katana",
+  "model_name": "MSI Katana 17 B12VG",
+  "system_id": "Katana17-B12VG/MS-17L5",
+  "dmi_matches": [
+    "Katana17-B12VG",
+    "MS-17L5",
+    "MSI Katana17-B12VG",
+    "Micro-Star MS-17L5",
+    "MSI Katana 17 B12VG"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "msi-wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

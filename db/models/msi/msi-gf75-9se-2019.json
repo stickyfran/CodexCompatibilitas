@@ -1,0 +1,57 @@
+{
+  "id": "msi-gf75-9se-2019",
+  "vendor": "MSI",
+  "family": "Thin",
+  "model_name": "MSI GF75 Thin 9SE",
+  "system_id": "GF75-9SE/MS-17F2",
+  "dmi_matches": [
+    "GF75-9SE",
+    "MS-17F2",
+    "MSI GF75-9SE",
+    "Micro-Star MS-17F2",
+    "MSI GF75 Thin 9SE"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "msi-katanagf76-11ue-2021",
+  "vendor": "MSI",
+  "family": "Katana",
+  "model_name": "MSI Katana GF76 11UE",
+  "system_id": "KatanaGF76-11UE/MS-17L1",
+  "dmi_matches": [
+    "KatanaGF76-11UE",
+    "MS-17L1",
+    "MSI KatanaGF76-11UE",
+    "Micro-Star MS-17L1",
+    "MSI Katana GF76 11UE"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "msi-wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "msi-prestige13ai-a1mg-2024",
+  "vendor": "MSI",
+  "family": "Prestige",
+  "model_name": "MSI Prestige 13 AI Evo A1MG",
+  "system_id": "Prestige13AI-A1MG/MS-13Q2",
+  "dmi_matches": [
+    "Prestige13AI-A1MG",
+    "MS-13Q2",
+    "MSI Prestige13AI-A1MG",
+    "Micro-Star MS-13Q2",
+    "MSI Prestige 13 AI Evo A1MG"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

@@ -4,38 +4,38 @@
 
 ## 📊 Estadísticas Globales
 
-- **Total Laptops Indexadas:** `8712`
-- **Total Scripts `install-all.sh` Generados:** `8712` (100.0% cubierto)
+- **Total Laptops Indexadas:** `9312`
+- **Total Scripts `install-all.sh` Generados:** `9312` (100.0% cubierto)
 - **Cobertura de Paridad Funcional de Hardware:** `100.0%` (Audio DSP, Color, Termales ACPI, Teclados)
 - **Desglose por Fabricante OEM:**
   - **ASUS:** `197` modelos
   - **Dell:** `1343` modelos
   - **HP:** `4990` modelos
   - **Lenovo:** `2041` modelos
-  - **MSI:** `141` modelos
+  - **MSI:** `741` modelos
 
 ### Resumen por Generación / Año
 
 | Año | Modelos Soportados | Scripts Listos | Estado |
 | :--- | :---: | :---: | :--- |
-| **2026** | 1931 | 1931 | ✅ 100% Scripts Listos |
-| **2025** | 737 | 737 | ✅ 100% Scripts Listos |
-| **2024** | 684 | 684 | ✅ 100% Scripts Listos |
-| **2023** | 1134 | 1134 | ✅ 100% Scripts Listos |
-| **2022** | 548 | 548 | ✅ 100% Scripts Listos |
-| **2021** | 1144 | 1144 | ✅ 100% Scripts Listos |
-| **2020** | 815 | 815 | ✅ 100% Scripts Listos |
-| **2019** | 696 | 696 | ✅ 100% Scripts Listos |
-| **2018** | 586 | 586 | ✅ 100% Scripts Listos |
-| **2017** | 169 | 169 | ✅ 100% Scripts Listos |
-| **2016** | 117 | 117 | ✅ 100% Scripts Listos |
-| **2015** | 89 | 89 | ✅ 100% Scripts Listos |
+| **2026** | 1935 | 1935 | ✅ 100% Scripts Listos |
+| **2025** | 741 | 741 | ✅ 100% Scripts Listos |
+| **2024** | 747 | 747 | ✅ 100% Scripts Listos |
+| **2023** | 1202 | 1202 | ✅ 100% Scripts Listos |
+| **2022** | 604 | 604 | ✅ 100% Scripts Listos |
+| **2021** | 1219 | 1219 | ✅ 100% Scripts Listos |
+| **2020** | 876 | 876 | ✅ 100% Scripts Listos |
+| **2019** | 779 | 779 | ✅ 100% Scripts Listos |
+| **2018** | 626 | 626 | ✅ 100% Scripts Listos |
+| **2017** | 209 | 209 | ✅ 100% Scripts Listos |
+| **2016** | 139 | 139 | ✅ 100% Scripts Listos |
+| **2015** | 143 | 143 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2014])** | 59 | 59 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2013])** | 3 | 3 | ✅ 100% Scripts Listos |
 
 ---
 
-## 📅 Generación 2026 (1931 modelos)
+## 📅 Generación 2026 (1935 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -76,10 +76,10 @@
 | Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Essential Micro PVM1265 | `0E10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Essential Micro PVM1265 | `0E7F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0E72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0D05` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0E73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0D1A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0E72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0E73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro QCM1255 | `0D58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Micro QCM1255 | `0E6D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Desktops Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250 | `0D07` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -103,10 +103,10 @@
 | Dell | Dell Pro Desktops | Dell Pro Essential Micro PVM1265 | `0E10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Essential Micro PVM1265 | `0E7F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Desktops | Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0E72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0D05` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Desktops | Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0E73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0D1A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Desktops | Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0E72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Desktops | Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250 | `0E73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Micro QCM1255 | `0D58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Micro QCM1255 | `0E6D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250 | `0D07` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -127,9 +127,9 @@
 | Dell | Dell Pro Desktops | Dell Pro Tower Plus QBT1250/Dell Pro Tower QCT1250 | `0D19` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Tower QCT1255 | `0D56` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Desktops | Dell Pro Tower QCT1255 | `0E6B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 13 Plus PB13250 | `0CF4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 13 Plus PB13250 | `0CF3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 13 Plus PB13250 | `0CDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 13 Plus PB13250 | `0CF3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 13 Plus PB13250 | `0CF4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 13 Plus PB13255 | `0D47` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 13 Plus PB13255 | `0D48` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 13 Plus PB13255 | `0D49` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -147,9 +147,9 @@
 | Dell | Dell Pro Laptops | Dell Pro 14 PC14255 | `0D51` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 14 PC14255 | `0D52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 14 Plus PB14250 | `0CDC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 14 Plus PB14250 | `0CF8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 14 Plus PB14250 | `0CE8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 14 Plus PB14250 | `0CF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 14 Plus PB14250 | `0CF8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 14 Plus PB14250 | `0CF9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 14 Plus PB14255 | `0D5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 14 Plus PB14255 | `0D5D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -166,9 +166,9 @@
 | Dell | Dell Pro Laptops | Dell Pro 16 PC16255 | `0D53` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 16 PC16255 | `0D54` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 16 PC16255 | `0D55` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 16 Plus PB16250 | `0CDD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 16 Plus PB16250 | `0CF5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 16 Plus PB16250 | `0CF6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 16 Plus PB16250 | `0CDD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 16 Plus PB16255 | `0D4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 16 Plus PB16255 | `0D4E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 16 Plus PB16255 | `0D4F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -188,42 +188,42 @@
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514260 | `0E1C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514260 | `0E33` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514260 | `0E35` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 5 14 P514260 | `0E3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514260 | `0E3C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 5 14 P514260 | `0E3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514260 | `0EAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514265 | `0E25` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514265 | `0E31` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 5 14 P514265 | `0E5B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514265 | `0E5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514265 | `0E65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 5 14 P514265 | `0E5B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 14 P514265 | `0E69` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516260 | `0E1E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516260 | `0E34` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516260 | `0E36` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 5 16 P516260 | `0E3F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516260 | `0E3D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 5 16 P516260 | `0E3F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516260 | `0EAB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516265 | `0E27` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516265 | `0E32` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 5 16 P516265 | `0E5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516265 | `0E60` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516265 | `0E66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 5 16 P516265 | `0E5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 5 16 P516265 | `0E6A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E1A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E82` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265 | `0E22` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265 | `0E21` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E38` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265 | `0E22` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E1D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E38` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 7 14 P714265/Dell Pro 7 14 2-in-1 P704265 | `0E23` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro 7 14 P714265/Dell Pro 7 14 2-in-1 P704265 | `0E24` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 13 Plus PB13250 | `0CF4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 13 Plus PB13250 | `0CF3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 13 Plus PB13250 | `0CDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 13 Plus PB13250 | `0CF3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 13 Plus PB13250 | `0CF4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 13 Plus PB13255 | `0D47` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 13 Plus PB13255 | `0D48` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 13 Plus PB13255 | `0D49` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -241,9 +241,9 @@
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 PC14255 | `0D51` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 PC14255 | `0D52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 Plus PB14250 | `0CDC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 Plus PB14250 | `0CF8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 Plus PB14250 | `0CE8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 Plus PB14250 | `0CF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 Plus PB14250 | `0CF8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 Plus PB14250 | `0CF9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 Plus PB14255 | `0D5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 14 Plus PB14255 | `0D5D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -260,9 +260,9 @@
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 PC16255 | `0D53` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 PC16255 | `0D54` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 PC16255 | `0D55` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 Plus PB16250 | `0CDD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 Plus PB16250 | `0CF5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 Plus PB16250 | `0CF6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 Plus PB16250 | `0CDD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 Plus PB16255 | `0D4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 Plus PB16255 | `0D4E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 16 Plus PB16255 | `0D4F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -282,37 +282,37 @@
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514260 | `0E1C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514260 | `0E33` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514260 | `0E35` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514260 | `0E3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514260 | `0E3C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514260 | `0E3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514260 | `0EAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514265 | `0E25` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514265 | `0E31` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514265 | `0E5B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514265 | `0E5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514265 | `0E65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514265 | `0E5B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 14 P514265 | `0E69` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516260 | `0E1E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516260 | `0E34` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516260 | `0E36` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516260 | `0E3F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516260 | `0E3D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516260 | `0E3F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516260 | `0EAB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516265 | `0E27` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516265 | `0E32` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516265 | `0E5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516265 | `0E60` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516265 | `0E66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516265 | `0E5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 5 16 P516265 | `0E6A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E1A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E82` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265 | `0E22` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260 | `0E83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265 | `0E21` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E38` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265 | `0E22` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E1D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E38` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 14 P714260/Dell Pro 7 14 2-in-1 P704260 | `0E85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 14 P714265/Dell Pro 7 14 2-in-1 P704265 | `0E23` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Laptops | Dell Pro Laptops Dell Pro 7 14 P714265/Dell Pro 7 14 2-in-1 P704265 | `0E24` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Max Desktops | Dell Pro Max Desktops Dell Pro Max Micro FCM2250 | `0D14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -389,17 +389,17 @@
 | Dell | Latitude | Latitude 3140 | `0BE2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3440 | `0C1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3440 | `0C1D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 3450 | `0C99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3450 | `0C97` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3450 | `0C99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3540 | `0C1C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3540 | `0C1E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 3550 | `0C9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3550 | `0C98` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3550 | `0C9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5340 | `0C03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5340 | `0C04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5350 | `0CB5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 5350 | `0CB7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5350 | `0CB6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5350 | `0CB7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5350 | `0CB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5440 | `0C00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5440 | `0C01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -414,12 +414,12 @@
 | Dell | Latitude | Latitude 7340 | `0C08` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7340 | `0C09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7340 | `0C0A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7350 Detachable | `0C64` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7350 Detachable | `0DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7350 | `0CBD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7350 | `0CBE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7350 | `0CBF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7350 | `0CC0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 7350 Detachable | `0C64` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 7350 Detachable | `0DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7440 | `0C0B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7440 | `0C0C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7440 | `0C0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -436,17 +436,17 @@
 | Dell | Latitude | Latitude Latitude 3140 | `0BE2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3440 | `0C1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3440 | `0C1D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 3450 | `0C99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3450 | `0C97` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 3450 | `0C99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3540 | `0C1C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3540 | `0C1E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 3550 | `0C9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3550 | `0C98` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 3550 | `0C9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5340 | `0C03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5340 | `0C04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5350 | `0CB5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 5350 | `0CB7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5350 | `0CB6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 5350 | `0CB7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5350 | `0CB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5440 | `0C00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5440 | `0C01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -461,12 +461,12 @@
 | Dell | Latitude | Latitude Latitude 7340 | `0C08` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7340 | `0C09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7340 | `0C0A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 7350 Detachable | `0C64` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 7350 Detachable | `0DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7350 | `0CBD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7350 | `0CBE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7350 | `0CBF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7350 | `0CC0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 7350 Detachable | `0C64` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 7350 Detachable | `0DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7440 | `0C0B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7440 | `0C0C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7440 | `0C0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -540,8 +540,8 @@
 | Dell | Precision | Precision 3680 Tower | `0C8D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 5480 | `0C40` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 5490 | `0CC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | Precision | Precision 5680 | `0C4F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 5680 | `0C11` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 5680 | `0C4F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 5690 | `0CC8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 7680 | `0C41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 7780 | `0C42` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -565,8 +565,8 @@
 | Dell | Precision | Precision Precision 3680 Tower | `0C8D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision Precision 5480 | `0C40` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision Precision 5490 | `0CC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | Precision | Precision Precision 5680 | `0C4F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision Precision 5680 | `0C11` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision Precision 5680 | `0C4F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision Precision 5690 | `0CC8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision Precision 7680 | `0C41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision Precision 7780 | `0C42` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -591,669 +591,669 @@
 | Dell | XPS Notebook | XPS Notebook XPS 13 DX13260 | `0E54` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 14 9440 | `0C6B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 15 9530 | `0BEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G9 Notebook PC (Windows 11 64-bit, 26H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook AI PC | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook Next Gen AI PC | `8E0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook AI PC | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8E0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8E0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8E0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1a 16 inch Notebook AI PC | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1a 14 inch Notebook Next Gen AI PC | `8E0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1ah 14 inch Notebook PC | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1a 16 inch Notebook AI PC | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1ah 14 inch Notebook PC (Windows 11 64-bit, 23H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1ah 14 inch Notebook PC (Windows 11 64-bit, 24H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1ah 14 inch Notebook PC (Windows 11 64-bit, 25H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1ah 16 inch Notebook PC | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1ah 14 inch Notebook PC | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1ah 16 inch Notebook PC (Windows 11 64-bit, 23H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1ah 16 inch Notebook PC (Windows 11 64-bit, 24H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1ah 16 inch Notebook PC (Windows 11 64-bit, 25H2) | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1i 13 inch Notebook AI PC | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1ah 16 inch Notebook PC | `8DFB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 13 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 13 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 13 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1i 14 inch Notebook AI PC | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1i 13 inch Notebook AI PC | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1i 16 inch Notebook AI PC | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1i 14 inch Notebook AI PC | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1iR 14 inch Notebook PC | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1i 16 inch Notebook AI PC | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1iR 14 inch Notebook PC (Windows 11 64-bit, 23H2) | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1iR 14 inch Notebook PC (Windows 11 64-bit, 24H2) | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1iR 14 inch Notebook PC (Windows 11 64-bit, 25H2) | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G1iR 16 inch Notebook PC | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1iR 14 inch Notebook PC | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1iR 16 inch Notebook PC (Windows 11 64-bit, 23H2) | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1iR 16 inch Notebook PC (Windows 11 64-bit, 24H2) | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1iR 16 inch Notebook PC (Windows 11 64-bit, 25H2) | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook AI PC | `8F14,8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook AI PC | `8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G1iR 16 inch Notebook PC | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8F14,8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8F14,8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook Next Gen AI PC | `8F16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook AI PC | `8F14,8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook AI PC | `8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8F16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8F16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook AI PC | `8F19,8F9B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook AI PC | `8F9B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2a 14 inch Notebook Next Gen AI PC | `8F16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8F19,8F9B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8F19,8F9B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook Next Gen AI PC | `8F1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook AI PC | `8F19,8F9B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook AI PC | `8F9B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8F1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8F1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2ah 14 inch Notebook PC | `8F14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2ah 14 inch Notebook PC | `8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2a 16 inch Notebook Next Gen AI PC | `8F1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2ah 14 inch Notebook PC (Windows 11 64-bit, 24H2) | `8F14,8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2ah 14 inch Notebook PC (Windows 11 64-bit, 25H2) | `8F14,8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2ah 16 inch Notebook PC | `8F19,8F3B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2ah 16 inch Notebook PC | `8F3B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2ah 14 inch Notebook PC | `8F14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2ah 14 inch Notebook PC | `8F9A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2ah 16 inch Notebook PC (Windows 11 64-bit, 24H2) | `8F19,8F3B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2ah 16 inch Notebook PC (Windows 11 64-bit, 25H2) | `8F19,8F3B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2i 14 inch Notebook AI PC | `8F37` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2ah 16 inch Notebook PC | `8F19,8F3B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2ah 16 inch Notebook PC | `8F3B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2i 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8F37` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2i 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8F37` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2i 14 inch Notebook Next Gen AI PC | `8EB9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2i 14 inch Notebook AI PC | `8F37` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8EB9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8EB9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2i 16 inch Notebook AI PC | `8F39` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2i 14 inch Notebook Next Gen AI PC | `8EB9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2i 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8F39` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2i 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8F39` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2i 16 inch Notebook Next Gen AI PC | `8EBA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2i 16 inch Notebook AI PC | `8F39` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8EBA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8EBA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 6 G2iR 14 inch Notebook Next Gen AI PC | `8F92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2i 16 inch Notebook Next Gen AI PC | `8EBA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2iR 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8F92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G2iR 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8F92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 630 13.3 inch G10 Notebook PC | `8B86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 6 G2iR 14 inch Notebook Next Gen AI PC | `8F92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13.3 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13.3 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13.3 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 630 13.3 inch G11 Notebook PC | `8C85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 630 13.3 inch G10 Notebook PC | `8B86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13.3 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13.3 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13.3 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 640 14 inch G10 Notebook PC | `8B88` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 630 13.3 inch G11 Notebook PC | `8C85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B88` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B88` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B88` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 640 14 inch G11 Notebook PC | `8C86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 640 14 inch G10 Notebook PC | `8B88` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 645 14 inch G10 Notebook PC | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 640 14 inch G11 Notebook PC | `8C86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 645 14 inch G11 Notebook PC | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 645 14 inch G10 Notebook PC | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 650 15.6 inch G10 Notebook PC | `8B8C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 645 14 inch G11 Notebook PC | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 650 15.6 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B8C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 650 15.6 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B8C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 650 15.6 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B8C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 655 15.6 inch G10 Notebook PC | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 650 15.6 inch G10 Notebook PC | `8B8C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 655 15.6 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 655 15.6 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 655 15.6 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 660 16 inch G11 Notebook PC | `8C87` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 655 15.6 inch G10 Notebook PC | `8B5F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 660 16 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C87` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 660 16 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C87` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 660 16 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C87` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 665 16 inch G11 Notebook PC | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 660 16 inch G11 Notebook PC | `8C87` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 665 16 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 665 16 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 665 16 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 Flip G1i 13 inch Notebook AI PC | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 665 16 inch G11 Notebook PC | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 Flip G1i 13 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 Flip G1i 13 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 Flip G1i 13 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 Flip G2i 13 inch Notebook Next Gen AI PC | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 Flip G1i 13 inch Notebook AI PC | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 Flip G2i 13 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 Flip G2i 13 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook AI PC | `8E14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 Flip G2i 13 inch Notebook Next Gen AI PC | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8E14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8E14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8E14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook AI PC | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook AI PC | `8E14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook AI PC | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook AI PC | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1i 13 inch Notebook AI PC | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook AI PC | `8E15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 13 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 13 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 13 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook AI PC | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1i 13 inch Notebook AI PC | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook AI PC | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook AI PC | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook AI PC | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC | `8F40,8F94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC | `8F94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8F40,8F94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8F40,8F94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G2a 16 inch Notebook Next Gen AI PC | `8F95,8F41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G2a 16 inch Notebook Next Gen AI PC | `8F41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC | `8F40,8F94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC | `8F94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8F95,8F41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8F95,8F41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G2i 13 inch Notebook Next Gen AI PC | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G2a 16 inch Notebook Next Gen AI PC | `8F41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G2a 16 inch Notebook Next Gen AI PC | `8F95,8F41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2i 13 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2i 13 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G2i 14 inch Notebook Next Gen AI PC | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G2i 13 inch Notebook Next Gen AI PC | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G2i 16 inch Notebook Next Gen AI PC | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G2i 14 inch Notebook Next Gen AI PC | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G2i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 830 13 inch G11 Notebook PC | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G2i 16 inch Notebook Next Gen AI PC | `8ED5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 13 inch G11 Notebook PC | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 11 64-bit, 26H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 14 inch G11 Notebook PC | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 14 inch G11 Notebook PC | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 11 64-bit, 26H2) | `896D,8ad6,8ABB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 860 16 inch G11 Notebook PC | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 860 16 inch G11 Notebook PC | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC (Windows 11 64-bit, 26H2) | `8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook X Flip G2i 14 inch Notebook Next Gen AI PC | `8e86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X Flip G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8e86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X Flip G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8e86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook X G1a 14 inch Notebook Next Gen AI PC | `8D08` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook X Flip G2i 14 inch Notebook Next Gen AI PC | `8e86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8D08` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8D08` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8D08` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook X G1i 14 inch Notebook Next Gen AI PC | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook X G1a 14 inch Notebook Next Gen AI PC | `8D08` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook X G2a 14 inch Notebook Next Gen AI PC | `8EF5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook X G1i 14 inch Notebook Next Gen AI PC | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8EF5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8EF5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook X G2i 14 inch Notebook Next Gen AI PC | `8e86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook X G2a 14 inch Notebook Next Gen AI PC | `8EF5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8e86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8e86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook X G2i 14 inch Notebook Next Gen AI PC | `8e86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 8 Mini G1a Desktop Next Gen AI PC | `8DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 8 Mini G1a Desktop PC | `8DAB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 8 SFF G2a Desktop Next Gen AI PC | `8E89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 8 Tower G1i E Desktop AI PC | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Mini 600 G9 PC | `8AC6,8952` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Mini 600 G9 PC | `8952,8AC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 600 G9 PC (Windows 11 64-bit, 23H2) | `8952,8AC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 600 G9 PC (Windows 11 64-bit, 24H2) | `8952,8AC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 600 G9 PC (Windows 11 64-bit, 25H2) | `8952,8AC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Mini 800 G9 Desktop PC | `894F,8AC3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Mini 800 G9 Desktop PC | `8AC3,894F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Mini 600 G9 PC | `8952,8AC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Mini 600 G9 PC | `8AC6,8952` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 800 G9 Desktop PC (Windows 11 64-bit, 23H2) | `8AC3,894F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 800 G9 Desktop PC (Windows 11 64-bit, 24H2) | `8AC3,894F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 800 G9 Desktop PC (Windows 11 64-bit, 25H2) | `8AC3,894F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite SFF 800 G9 Desktop PC | `894E,8AC2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite SFF 800 G9 Desktop PC | `8AC2,894E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Mini 800 G9 Desktop PC | `894F,8AC3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Mini 800 G9 Desktop PC | `8AC3,894F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 800 G9 Desktop PC (Windows 11 64-bit, 23H2) | `8AC2,894E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 800 G9 Desktop PC (Windows 11 64-bit, 24H2) | `8AC2,894E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 800 G9 Desktop PC (Windows 11 64-bit, 25H2) | `8AC2,894E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite SFF 805 G9 Desktop PC | `8D0A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite SFF 800 G9 Desktop PC | `894E,8AC2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite SFF 800 G9 Desktop PC | `8AC2,894E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 805 G9 Desktop PC (Windows 11 64-bit, 23H2) | `8D0A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 805 G9 Desktop PC (Windows 11 64-bit, 24H2) | `8D0A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 805 G9 Desktop PC (Windows 11 64-bit, 25H2) | `8D0A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 800 G9 PC | `8AC1,894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 800 G9 PC | `894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite SFF 805 G9 Desktop PC | `8D0A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 800 G9 PC (Windows 11 64-bit, 23H2) | `8AC1,894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 800 G9 PC (Windows 11 64-bit, 24H2) | `8AC1,894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 800 G9 PC (Windows 11 64-bit, 25H2) | `8AC1,894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 880 G9 PC | `894D,8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 880 G9 PC | `8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 800 G9 PC | `894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 800 G9 PC | `8AC1,894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 880 G9 PC (Windows 11 64-bit, 23H2) | `894D,8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 880 G9 PC (Windows 11 64-bit, 24H2) | `894D,8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 880 G9 PC (Windows 11 64-bit, 25H2) | `894D,8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC | `8c52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 880 G9 PC | `894D,8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 880 G9 PC | `8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC (Windows 11 64-bit, 23H2) | `8c52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC (Windows 11 64-bit, 24H2) | `8c52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC (Windows 11 64-bit, 25H2) | `8c52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC | `8c52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 26H2) | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x360 830 13 inch G11 2-in-1 Notebook PC | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G11 2-in-1 Notebook PC (Windows 11 64-bit, 23H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G11 2-in-1 Notebook PC (Windows 11 64-bit, 24H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G11 2-in-1 Notebook PC (Windows 11 64-bit, 25H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x360 830 13 inch G11 2-in-1 Notebook PC | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 26H2) | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteBoard G1a Next Gen AI PC | `8e8a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteBoard G1a Next Gen AI PC (Windows 11 64-bit, 24H2) | `8e8a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteBoard G1a Next Gen AI PC (Windows 11 64-bit, 25H2) | `8e8a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteBoard G2a Next Gen AI PC | `8EF0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteBoard G1a Next Gen AI PC | `8e8a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteBoard G2a Next Gen AI PC (Windows 11 64-bit, 24H2) | `8EF0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteBoard G2a Next Gen AI PC (Windows 11 64-bit, 25H2) | `8EF0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 Mini G1a Desktop Next Gen AI PC | `8DAB,8DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteBoard G2a Next Gen AI PC | `8EF0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1a Desktop Next Gen AI PC (Windows 11 64-bit, 23H2) | `8DAB,8DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1a Desktop Next Gen AI PC (Windows 11 64-bit, 24H2) | `8DAB,8DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1a Desktop Next Gen AI PC (Windows 11 64-bit, 25H2) | `8DAB,8DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 Mini G1a Desktop PC | `8DAA,8DAB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 Mini G1a Desktop Next Gen AI PC | `8DAB,8DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1a Desktop PC (Windows 11 64-bit, 23H2) | `8DAA,8DAB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1a Desktop PC (Windows 11 64-bit, 24H2) | `8DAB,8DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1a Desktop PC (Windows 11 64-bit, 25H2) | `8DAB,8DAA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 Mini G1i Desktop AI PC | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 Mini G1a Desktop PC | `8DAA,8DAB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1i Desktop AI PC (Windows 11 64-bit, 23H2) | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1i Desktop AI PC (Windows 11 64-bit, 24H2) | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G1i Desktop AI PC (Windows 11 64-bit, 25H2) | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 Mini G2a Desktop Next Gen AI PC | `8F12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 Mini G1i Desktop AI PC | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G2a Desktop Next Gen AI PC (Windows 11 64-bit, 24H2) | `8F12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G2a Desktop Next Gen AI PC (Windows 11 64-bit, 25H2) | `8F12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 Mini G2i Desktop Next Gen AI PC | `8E6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 Mini G2a Desktop Next Gen AI PC | `8F12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G2i Desktop Next Gen AI PC (Windows 11 64-bit, 24H2) | `8E6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Mini G2i Desktop Next Gen AI PC (Windows 11 64-bit, 25H2) | `8E6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 SFF G1i Desktop AI PC | `8D12,8FAF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 SFF G1i Desktop AI PC | `8FAF,8D12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 Mini G2i Desktop Next Gen AI PC | `8E6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 SFF G1i Desktop AI PC (Windows 11 64-bit, 23H2) | `8D12,8FAF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 SFF G1i Desktop AI PC (Windows 11 64-bit, 24H2) | `8FAF,8D12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 SFF G1i Desktop AI PC (Windows 11 64-bit, 25H2) | `8FAF,8D12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 SFF G2a Desktop Next Gen AI PC | `8F5A,8E89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 SFF G1i Desktop AI PC | `8D12,8FAF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 SFF G1i Desktop AI PC | `8FAF,8D12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 SFF G2a Desktop Next Gen AI PC (Windows 11 64-bit, 24H2) | `8F5A,8E89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 SFF G2a Desktop Next Gen AI PC (Windows 11 64-bit, 25H2) | `8F5A,8E89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 8 Tower G1i Desktop AI PC | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 SFF G2a Desktop Next Gen AI PC | `8F5A,8E89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Tower G1i Desktop AI PC (Windows 11 64-bit, 23H2) | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Tower G1i Desktop AI PC (Windows 11 64-bit, 24H2) | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Tower G1i Desktop AI PC (Windows 11 64-bit, 25H2) | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 8 Tower G1i Desktop AI PC | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Tower G1i E Desktop AI PC (Windows 11 64-bit, 23H2) | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Tower G1i E Desktop AI PC (Windows 11 64-bit, 24H2) | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 8 Tower G1i E Desktop AI PC (Windows 11 64-bit, 25H2) | `8D10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G8 Desktop Mini PC | `889F,88A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G8 Desktop Mini PC | `88A0,889F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Desktop Mini PC (Windows 11 64-bit, 21H2) | `889F,88A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Desktop Mini PC (Windows 11 64-bit, 24H2) | `88A0,889F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC | `895f,8957,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC | `8957,895f,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC | `8acc,8acb,895f,8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC | `8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G8 Desktop Mini PC | `889F,88A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G8 Desktop Mini PC | `88A0,889F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 24H2) | `895f,8957,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 25H2) | `8acc,8acb,895f,8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC | `8acc,8acb,8957,895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC | `8acb,8acc,8957,895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC | `8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC | `895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC | `8957,895f,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC | `895f,8957,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC | `8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC | `8acc,8acb,895f,8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 24H2) | `8acb,8acc,8957,895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 25H2) | `8957,895f,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC | `8d18,8e00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC | `8e00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC | `8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC | `895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC | `8acb,8acc,8957,895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC | `8acc,8acb,8957,895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC (Windows 11 64-bit, 23H2) | `8d18,8e00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC (Windows 11 64-bit, 24H2) | `8d18,8e00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC (Windows 11 64-bit, 25H2) | `8d18,8e00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC | `8e00,8d18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC | `8d18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC | `8d18,8e00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC | `8e00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC (Windows 11 64-bit, 23H2) | `8e00,8d18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC (Windows 11 64-bit, 24H2) | `8e00,8d18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC (Windows 11 64-bit, 25H2) | `8e00,8d18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Flex Pro G2 Retail System | `8BC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC | `8d18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC | `8e00,8d18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro G2 Retail System (Windows 11 64-bit, 23H2) | `8BC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro G2 Retail System (Windows 11 64-bit, 24H2) | `8BC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro G2 Retail System (Windows 11 64-bit, 25H2) | `8BC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Flex Pro-C G2 Retail System | `8BC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Flex Pro G2 Retail System | `8BC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 11 64-bit, 23H2) | `8BC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 11 64-bit, 24H2) | `8BC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 11 64-bit, 25H2) | `8BC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Go 10 Mobile System | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Flex Pro-C G2 Retail System | `8BC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 11 64-bit, 23H2) | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 11 64-bit, 24H2) | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 11 64-bit, 25H2) | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Go 13.5 inch Mobile System | `8a94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Go 10 Mobile System | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 11 64-bit, 23H2) | `8a94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 11 64-bit, 24H2) | `8a94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 11 64-bit, 25H2) | `8a94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage One G2 AiO System | `8ef7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Go 13.5 inch Mobile System | `8a94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One G2 AiO System (Windows 11 64-bit, 24H2) | `8ef7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One G2 AiO System (Windows 11 64-bit, 25H2) | `8ef7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One G2 AiO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8ef7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage One Pro AIO System | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage One G2 AiO System | `8ef7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro AIO System (Windows 11 64-bit, 23H2) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro AIO System (Windows 11 64-bit, 24H2) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro AIO System (Windows 11 64-bit, 25H2) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Fortis Flip G1i 11 inch Notebook PC | `8d1f,8d20` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Fortis Flip G1i 11 inch Notebook PC | `8d20,8d1f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage One Pro AIO System | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Fortis Flip G1i 11 inch Notebook PC (Windows 11 64-bit, 23H2) | `8d1f,8d20` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Fortis Flip G1i 11 inch Notebook PC (Windows 11 64-bit, 24H2) | `8d20,8d1f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Fortis Flip G1i 11 inch Notebook PC (Windows 11 64-bit, 25H2) | `8d1f,8d20` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Limited Edition Scuderia Ferrari Notebook Next Gen AI PC | `8F7B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Fortis Flip G1i 11 inch Notebook PC | `8d1f,8d20` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Fortis Flip G1i 11 inch Notebook PC | `8d20,8d1f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Limited Edition Scuderia Ferrari Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8F7B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Limited Edition Scuderia Ferrari Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8F7B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Mini 400 G9 PC | `8955,8C63,8AC9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Mini 400 G9 PC | `8AC9,8C63,8955` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Mini 400 G9 PC | `8C63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Limited Edition Scuderia Ferrari Notebook Next Gen AI PC | `8F7B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Mini 400 G9 PC (Windows 11 64-bit, 23H2) | `8AC9,8C63,8955` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Mini 400 G9 PC (Windows 11 64-bit, 24H2) | `8AC9,8C63,8955` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Mini 400 G9 PC (Windows 11 64-bit, 25H2) | `8AC9,8C63,8955` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro SFF 400 G9 Desktop PC | `8C5A,8AC8,8954` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro SFF 400 G9 Desktop PC | `8AC8,8C5A,8954` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro SFF 400 G9 Desktop PC | `8954,8C5A,8AC8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Mini 400 G9 PC | `8955,8C63,8AC9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Mini 400 G9 PC | `8AC9,8C63,8955` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Mini 400 G9 PC | `8C63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro SFF 400 G9 Desktop PC (Windows 11 64-bit, 23H2) | `8954,8C5A,8AC8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro SFF 400 G9 Desktop PC (Windows 11 64-bit, 24H2) | `8954,8C5A,8AC8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro SFF 400 G9 Desktop PC (Windows 11 64-bit, 25H2) | `8954,8C5A,8AC8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Tower 400 G9 PCI Desktop PC | `8953,8C59,8AC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Tower 400 G9 PCI Desktop PC | `8AC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Tower 400 G9 PCI Desktop PC | `8C59` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro SFF 400 G9 Desktop PC | `8954,8C5A,8AC8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro SFF 400 G9 Desktop PC | `8AC8,8C5A,8954` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro SFF 400 G9 Desktop PC | `8C5A,8AC8,8954` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 400 G9 PCI Desktop PC (Windows 11 64-bit, 23H2) | `8AC7,8C59,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 400 G9 PCI Desktop PC (Windows 11 64-bit, 24H2) | `8AC7,8C59,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 400 G9 PCI Desktop PC (Windows 11 64-bit, 25H2) | `8AC7,8C59,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Tower 480 G9 PCI Desktop PC | `8C59,8AC7,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Tower 480 G9 PCI Desktop PC | `8AC7,8C59,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro Tower 480 G9 PCI Desktop PC | `8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Tower 400 G9 PCI Desktop PC | `8953,8C59,8AC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Tower 400 G9 PCI Desktop PC | `8AC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Tower 400 G9 PCI Desktop PC | `8C59` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 480 G9 PCI Desktop PC (Windows 11 64-bit, 23H2) | `8953,8C59,8AC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 480 G9 PCI Desktop PC (Windows 11 64-bit, 24H2) | `8953,8C59,8AC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 480 G9 PCI Desktop PC (Windows 11 64-bit, 25H2) | `8953,8C59,8AC7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Tower 480 G9 PCI Desktop PC | `8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Tower 480 G9 PCI Desktop PC | `8AC7,8C59,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro Tower 480 G9 PCI Desktop PC | `8C59,8AC7,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 4 Mini G1i Desktop AI PC | `8D17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Mini G1i Desktop AI PC (Windows 11 64-bit, 23H2) | `8D17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Mini G1i Desktop AI PC (Windows 11 64-bit, 24H2) | `8D17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Mini G1i Desktop AI PC (Windows 11 64-bit, 25H2) | `8D17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 4 SFF G1i Desktop AI PC | `8D14,8FAE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 4 Mini G1i Desktop AI PC | `8D17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 SFF G1i Desktop AI PC (Windows 11 64-bit, 23H2) | `8D14,8FAE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 SFF G1i Desktop AI PC (Windows 11 64-bit, 24H2) | `8D14,8FAE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 SFF G1i Desktop AI PC (Windows 11 64-bit, 25H2) | `8D14,8FAE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 4 Tower G1i Desktop AI PC | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 4 SFF G1i Desktop AI PC | `8D14,8FAE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Tower G1i Desktop AI PC (Windows 11 64-bit, 23H2) | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Tower G1i Desktop AI PC (Windows 11 64-bit, 24H2) | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Tower G1i Desktop AI PC (Windows 11 64-bit, 25H2) | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 4 Tower G1i Desktop AI PC | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Tower G1i E Desktop AI PC (Windows 11 64-bit, 23H2) | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Tower G1i E Desktop AI PC (Windows 11 64-bit, 24H2) | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 4 Tower G1i E Desktop AI PC (Windows 11 64-bit, 25H2) | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8c5d,8c5b,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8acd` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8ace` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8958` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8959` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 23H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 24H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 25H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC | `8e01,8d19` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC | `8d19,8e01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8958` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8959` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8acd` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8ace` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC | `8c5d,8c5b,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC (Windows 11 64-bit, 23H2) | `8d19,8e01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC (Windows 11 64-bit, 24H2) | `8d19,8e01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC (Windows 11 64-bit, 25H2) | `8d19,8e01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z1 G9 Tower Desktop | `894d,8ac1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z1 G9 Tower Desktop | `8ac1,894d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC | `8d19,8e01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC | `8e01,8d19` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G9 Tower Desktop (Windows 11 64-bit, 23H2) | `8ac1,894d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G9 Tower Desktop (Windows 11 64-bit, 24H2) | `8ac1,894d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G9 Tower Desktop (Windows 11 64-bit, 25H2) | `8ac1,894d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z1 Tower G1i Desktop PC | `8d10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z1 G9 Tower Desktop | `894d,8ac1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z1 G9 Tower Desktop | `8ac1,894d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Tower G1i Desktop PC (Windows 11 64-bit, 23H2) | `8d10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Tower G1i Desktop PC (Windows 11 64-bit, 24H2) | `8d10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Tower G1i Desktop PC (Windows 11 64-bit, 25H2) | `8d10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G1a Workstation Desktop PC | `8D1D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z1 Tower G1i Desktop PC | `8d10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G1a Workstation Desktop PC (Windows 11 64-bit, 24H2) | `8D1D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G1a Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8D1D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G1i Workstation Desktop PC | `8D3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G1a Workstation Desktop PC | `8D1D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G1i Workstation Desktop PC (Windows 11 64-bit, 24H2) | `8D3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G1i Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8D3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G9 Workstation Desktop PC | `895E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G1i Workstation Desktop PC | `8D3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G9 Workstation Desktop PC (Windows 11 64-bit, 23H2) | `895E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G9 Workstation Desktop PC (Windows 11 64-bit, 24H2) | `895E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G9 Workstation Desktop PC (Windows 11 64-bit, 25H2) | `895E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 SFF G1i Workstation Desktop PC | `8D3D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G9 Workstation Desktop PC | `895E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 SFF G1i Workstation Desktop PC (Windows 11 64-bit, 23H2) | `8D3D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 SFF G1i Workstation Desktop PC (Windows 11 64-bit, 24H2) | `8D3D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 SFF G1i Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8D3D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 SFF G9 Workstation Desktop PC | `895D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 SFF G1i Workstation Desktop PC | `8D3D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 SFF G9 Workstation Desktop PC (Windows 11 64-bit, 23H2) | `895D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 SFF G9 Workstation Desktop PC (Windows 11 64-bit, 24H2) | `895D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 SFF G9 Workstation Desktop PC (Windows 11 64-bit, 25H2) | `895D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Tower G1i Workstation Desktop PC | `8D3C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 SFF G9 Workstation Desktop PC | `895D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G1i Workstation Desktop PC (Windows 11 64-bit, 23H2) | `8D3C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G1i Workstation Desktop PC (Windows 11 64-bit, 24H2) | `8D3C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G1i Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8D3C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Tower G9 Workstation Desktop PC | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Tower G1i Workstation Desktop PC | `8D3C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G9 Workstation Desktop PC (Windows 11 64-bit, 23H2) | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G9 Workstation Desktop PC (Windows 11 64-bit, 24H2) | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G9 Workstation Desktop PC (Windows 11 64-bit, 25H2) | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z4 G6i Workstation Desktop PC | `8D5A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Tower G9 Workstation Desktop PC | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G6i Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8D5A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z8 Fury G6i Workstation Desktop PC | `8D59` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z4 G6i Workstation Desktop PC | `8D5A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 Fury G6i Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8D59` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8959,8958,8ace,8acd,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z8 Fury G6i Workstation Desktop PC | `8D59` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 23H2) | `8959,8958,8ace,8acd,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 24H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 25H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8958,8959,8ace,8acd,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8959,8958,8ace,8acd,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8acd` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8ace` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8c5b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8c5d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 23H2) | `8959,8958,8ace,8acd,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 24H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 25H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC | `8f2f,9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC | `9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8f2f,9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8f2f,9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1a 14 inch Notebook AI PC | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC | `8f2f,9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC | `9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1a 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1a 16 inch Notebook AI PC | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1a 14 inch Notebook AI PC | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1a 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1ah 14 inch Notebook PC | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1a 16 inch Notebook AI PC | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1ah 14 inch Notebook PC (Windows 11 64-bit, 23H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1ah 14 inch Notebook PC (Windows 11 64-bit, 24H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1ah 14 inch Notebook PC (Windows 11 64-bit, 25H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1ah 16 inch Notebook PC | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1ah 14 inch Notebook PC | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1ah 16 inch Notebook PC (Windows 11 64-bit, 23H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1ah 16 inch Notebook PC (Windows 11 64-bit, 24H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1ah 16 inch Notebook PC (Windows 11 64-bit, 25H2) | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1i 14 inch Notebook AI PC | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1ah 16 inch Notebook PC | `8DF7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1i 16 inch Notebook AI PC | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1i 14 inch Notebook AI PC | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 23H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1iR 14 inch Notebook PC | `8E58,8E2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1iR 14 inch Notebook PC | `8E2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1i 16 inch Notebook AI PC | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1iR 14 inch Notebook PC (Windows 11 64-bit, 23H2) | `8E2E,8E58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1iR 14 inch Notebook PC (Windows 11 64-bit, 24H2) | `8E58,8E2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1iR 14 inch Notebook PC (Windows 11 64-bit, 25H2) | `8E58,8E2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1iR 16 inch Notebook PC | `8E2E,8E58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G1iR 16 inch Notebook PC | `8E58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1iR 14 inch Notebook PC | `8E2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1iR 14 inch Notebook PC | `8E58,8E2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1iR 16 inch Notebook PC (Windows 11 64-bit, 23H2) | `8E58,8E2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1iR 16 inch Notebook PC (Windows 11 64-bit, 24H2) | `8E2E,8E58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1iR 16 inch Notebook PC (Windows 11 64-bit, 25H2) | `8E2E,8E58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2a 14 inch Notebook AI PC | `8f98,8f13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2a 14 inch Notebook AI PC | `8f13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1iR 16 inch Notebook PC | `8E2E,8E58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G1iR 16 inch Notebook PC | `8E58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2a 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8f98,8f13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2a 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8f98,8f13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2a 14 inch Notebook Next Gen AI PC | `8f15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2a 14 inch Notebook AI PC | `8f13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2a 14 inch Notebook AI PC | `8f98,8f13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8f15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8f15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2a 16 inch Notebook AI PC | `8f18,8f99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2a 16 inch Notebook AI PC | `8f99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2a 14 inch Notebook Next Gen AI PC | `8f15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2a 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8f18,8f99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2a 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8f18,8f99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2a 16 inch Notebook Next Gen AI PC | `8f1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2a 16 inch Notebook AI PC | `8f18,8f99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2a 16 inch Notebook AI PC | `8f99` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8f1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8f1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2ah 14 inch Notebook PC | `8f13,8f98` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2ah 14 inch Notebook PC | `8f98` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2a 16 inch Notebook Next Gen AI PC | `8f1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2ah 14 inch Notebook PC (Windows 11 64-bit, 24H2) | `8f13,8f98` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2ah 14 inch Notebook PC (Windows 11 64-bit, 25H2) | `8f13,8f98` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2ah 16 inch Notebook PC | `8f99,8f18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2ah 16 inch Notebook PC | `8f18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2ah 14 inch Notebook PC | `8f13,8f98` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2ah 14 inch Notebook PC | `8f98` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2ah 16 inch Notebook PC (Windows 11 64-bit, 24H2) | `8f99,8f18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2ah 16 inch Notebook PC (Windows 11 64-bit, 25H2) | `8f99,8f18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2i 13 inch Notebook AI PC | `8f31` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2ah 16 inch Notebook PC | `8f18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2ah 16 inch Notebook PC | `8f99,8f18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 13 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8f31` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 13 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8f31` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2i 14 inch Notebook AI PC | `8f33` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2i 13 inch Notebook AI PC | `8f31` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 14 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8f33` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 14 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8f33` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2i 14 inch Notebook Next Gen AI PC | `8ebb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2i 14 inch Notebook AI PC | `8f33` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8ebb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8ebb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2i 16 inch Notebook AI PC | `8f35` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2i 14 inch Notebook Next Gen AI PC | `8ebb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 16 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8f35` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 16 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8f35` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2i 16 inch Notebook Next Gen AI PC | `8ebc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2i 16 inch Notebook AI PC | `8f35` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8ebc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2i 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8ebc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 4 G2iR 14 inch Notebook Next Gen AI PC | `8f81` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2i 16 inch Notebook Next Gen AI PC | `8ebc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2iR 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8f81` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G2iR 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8f81` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 14 inch G10 Notebook PC | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 4 G2iR 14 inch Notebook Next Gen AI PC | `8f81` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 14 inch G11 Notebook PC | `8C83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 14 inch G10 Notebook PC | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445 14 inch G10 Notebook PC | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 14 inch G11 Notebook PC | `8C83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445 14 inch G11 Notebook PC | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445 14 inch G10 Notebook PC | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 15.6 inch G10 Notebook PC | `8B7C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445 14 inch G11 Notebook PC | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 15.6 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B7C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 15.6 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B7C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 15.6 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B7C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 455 15.6 inch G10 Notebook PC | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 15.6 inch G10 Notebook PC | `8B7C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 15.6 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 15.6 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 15.6 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 460 16 inch G11 Notebook PC | `8C84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 455 15.6 inch G10 Notebook PC | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 460 16 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 460 16 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 460 16 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 465 16 inch G11 Notebook PC | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 460 16 inch G11 Notebook PC | `8C84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 465 16 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 465 16 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 465 16 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 465 16 inch G11 Notebook PC | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 4 SFF G1i Desktop AI PC | `8FAE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 4 Tower G1i E Desktop AI PC | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Zbook | HP ZBook 8 G1ah 14 inch Mobile Workstation PC | `8e18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ah 14 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8e18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ah 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8e18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ah 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8e18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 8 G1i 14 inch Mobile Workstation PC | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G1ah 14 inch Mobile Workstation PC | `8e18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1i 14 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1i 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1i 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 8 G1i 16 inch Mobile Workstation PC | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G1i 14 inch Mobile Workstation PC | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 8 G2a 14 inch Mobile Workstation PC | `8F42` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G1i 16 inch Mobile Workstation PC | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G2a 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8F42` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G2a 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8F42` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 8 G2a 16 inch Mobile Workstation PC | `8F62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G2a 14 inch Mobile Workstation PC | `8F42` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G2a 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8F62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G2a 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8F62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 8 G2i 14 inch Mobile Workstation PC | `8ED9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G2a 16 inch Mobile Workstation PC | `8F62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G2i 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8ED9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G2i 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8ED9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 8 G2i 16 inch Mobile Workstation PC | `8ED9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G2i 14 inch Mobile Workstation PC | `8ED9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G2i 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8ED9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G2i 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8ED9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 inch G11 Mobile Workstation PC | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G2i 16 inch Mobile Workstation PC | `8ED9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 inch G11 Mobile Workstation PC | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 11 64-bit, 26H2) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 16 inch G11 Mobile Workstation PC | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 16 inch G11 Mobile Workstation PC | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 26H2) | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ccd,8ca4,8ca6,8ca7,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ca6,8ca4,8ca7,8ca9,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ca4,8ca6,8ccd,8cc8,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ca7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ca9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8cc8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8ccd,8ca4,8ca6,8ca7,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8ca4,8ca6,8ccd,8cc8,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8ca6,8ca4,8ca7,8ca9,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC | `8de2,8de6,8de4,8de8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC | `8de8,8de6,8de2,8de4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC | `8de4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC | `8de6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ca4,8ca6,8ccd,8cc8,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ca6,8ca4,8ca7,8ca9,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ca7` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ca9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8cc8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC | `8ccd,8ca4,8ca6,8ca7,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8de2,8de6,8de4,8de8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8de8,8de6,8de2,8de4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8de2,8de6,8de4,8de8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de7,8de9,8de5,8de3,8de2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de3,8de5,8de2,8de7,8de9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de9,8de3,8de7,8de5,8de2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC | `8de2,8de6,8de4,8de8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC | `8de4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC | `8de6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC | `8de8,8de6,8de2,8de4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8de7,8de9,8de5,8de3,8de2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8de3,8de5,8de2,8de7,8de9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8de9,8de3,8de7,8de5,8de2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de3,8de5,8de2,8de7,8de9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de7,8de9,8de5,8de3,8de2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC | `8de9,8de3,8de7,8de5,8de2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Power 16 inch G11 A Mobile Workstation PC | `8c95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8c95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8c95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8c95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Power 16 inch G11 Mobile Workstation PC | `8ca0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Power 16 inch G11 A Mobile Workstation PC | `8c95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8ca0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8ca0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8ca0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8ca0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Studio 16 inch G11 Mobile Workstation PC | `8cf5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Power 16 inch G11 Mobile Workstation PC | `8ca0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8cf5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8cf5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8cf5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Ultra G1a 14 inch Mobile Workstation PC | `8d01` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Studio 16 inch G11 Mobile Workstation PC | `8cf5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Ultra G1a 14 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8d01` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Ultra G1a 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8d01` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Ultra G1a 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8d01` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Ultra G3a 16 inch Mobile Workstation PC | `8F6D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Ultra G1a 14 inch Mobile Workstation PC | `8d01` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Ultra G3a 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8F6D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Ultra G3a 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8F6D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook X G1i 16 inch Mobile Workstation PC | `8e1d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Ultra G3a 16 inch Mobile Workstation PC | `8F6D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8e1d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8e1d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G1i 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8e1d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC | `8F0C,8F0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC | `8F0D,8F0C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook X G1i 16 inch Mobile Workstation PC | `8e1d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8F0C,8F0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8F0D,8F0C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC | `8F0C,8F0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC | `8F0D,8F0C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | Other | ThinkCentre M70A Gen 3 | `11VM,11VN,11VQ,11VL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70A Gen 6 | `13B0,13B1,13B2,13AY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70Q Gen 5 | `12TF,12TE,12TG,12TD,13...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -1269,8 +1269,8 @@
 | Lenovo | Other | ThinkCentre M75T Gen 5 | `12X8,12XA,12XB,12X9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M75T Gen 6 | `13QS,13JK,13JJ,13QT,13...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90A Gen 2 | `11K1,11K2,11K0,11JY,11MN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | Other | ThinkCentre M90A Gen 3 | `11VG,11VH,11VK,11VJ,11VF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90A Gen 3 PRO | `11VD,11VA,11VC,11VB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkCentre M90A Gen 3 | `11VG,11VH,11VK,11VJ,11VF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90A Gen 5 | `12SL,12SM,12SH,12SK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90A Gen 6 | `13AT,13AU,13AV,13AW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90A PRO Gen 4 | `12JQ,12JR,12JN,12JM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -1282,13 +1282,13 @@
 | Lenovo | Other | ThinkCentre X TOWER | `13ME,13LF,13MF,13LE,13...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P2 TOWER Gen 2 | `30JR,30JQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P3 TOWER Gen 2 | `30J0,30HX,30HS,30HT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | Other | ThinkStation P3 ULTRA | `30HA,30HB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P3 ULTRA SFF Gen 2 | `30J3,30J6,30J5,30J4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkStation P3 ULTRA | `30HA,30HB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P358 | `30GL,30GK,30GM,30GN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P360 ULTRA | `30G1,30G6,30G7,30G2,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P4 | `30KR,30KN,30KQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | Other | ThinkStation P5 | `30GA,30GB,30G9,30GF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P5 Gen 2 | `30KD,30KB,30KC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkStation P5 | `30GA,30GB,30G9,30GF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P520 | `30BQ,30BF,30BE,30DC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P520C | `30C0,30BY,30BX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P620 | `30E0,30E1,30KK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -1970,8 +1970,11 @@
 | Lenovo | Thinkstation | ThinkStation PX (Type 30EW) | `30EW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation PX (Type 30EY) | `30EY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation PX (Type 30H3) | `30H3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-
-## 📅 Generación 2025 (737 modelos)
+| MSI | Raider | MSI Raider 18 HX A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 18 AI Studio A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan 18 HX A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Vector | MSI Vector 17 HX A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2025 (741 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -1989,10 +1992,10 @@
 | Dell | Dell Pro Max Desktops | Dell Pro Max Desktops FCT2250 | `0CE2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Max Desktops | FCT2250 | `0CE1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Max Desktops | FCT2250 | `0CE2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 3330 | `0B43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3330 | `0B40` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 3340 | `0C1A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3330 | `0B43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3340 | `0C19` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3340 | `0C1A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3430 | `0BC2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3530 | `0BC3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5320 | `0A1F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2013,10 +2016,10 @@
 | Dell | Latitude | Latitude 9330 | `0B8C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 9430 | `0B11` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 9430 | `0B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 3330 | `0B43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3330 | `0B40` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 3340 | `0C1A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 3330 | `0B43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3340 | `0C19` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 3340 | `0C1A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3430 | `0BC2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3530 | `0BC3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5320 | `0A1F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2113,199 +2116,199 @@
 | Dell | XPS Notebook | XPS Notebook XPS 17 9720 | `0AFF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 17 9730 | `0BDA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 17 9730 | `0BDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 22H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 23H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 24H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 25H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 11 64-bit, 25H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 1040 14 inch G9 Notebook PC | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 1040 14 inch G9 Notebook PC | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 13 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 14 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1i 16 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8DEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1iR 14 inch Notebook PC (Windows 10 64-bit, 22H2) | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 6 G1iR 16 inch Notebook PC (Windows 10 64-bit, 22H2) | `8E4D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 630 13 inch G9 Notebook PC | `897A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `897A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `897A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `897A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 630 13 inch G9 Notebook PC | `897A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13.3 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 630 13.3 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C85` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B88` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 640 14 inch G9 Notebook PC | `897B,8AA6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 640 14 inch G9 Notebook PC | `8AA6,897B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8AA6,897B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8AA6,897B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 640 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8AA6,897B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 640 14 inch G9 Notebook PC | `897B,8AA6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 640 14 inch G9 Notebook PC | `8AA6,897B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 645 14 inch G9 Notebook PC | `89D2,8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 645 14 inch G9 Notebook PC | `8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `89D2,8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `89D2,8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 645 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `89D2,8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 645 14 inch G9 Notebook PC | `89D2,8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 645 14 inch G9 Notebook PC | `8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 650 15.6 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B8C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 650 15.6 inch G9 Notebook PC | `8AA9,897C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 650 15.6 inch G9 Notebook PC | `897C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 650 15.6 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8AA9,897C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 650 15.6 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8AA9,897C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 650 15.6 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8AA9,897C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 655 15.6 inch G9 Notebook PC | `89D2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 655 15.6 inch G9 Notebook PC | `8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 650 15.6 inch G9 Notebook PC | `897C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 650 15.6 inch G9 Notebook PC | `8AA9,897C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 655 15.6 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `89D2,8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 655 15.6 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `89D2,8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 655 15.6 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `89D2,8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 655 15.6 inch G9 Notebook PC | `89D2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 655 15.6 inch G9 Notebook PC | `8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 660 16 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C87` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 665 16 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C7A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 Flip G1i 13 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook Next Gen AI PC | `8E16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8E16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8E16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8E16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook Next Gen AI PC | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1a 13 inch Notebook Next Gen AI PC | `8E16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1a 14 inch Notebook Next Gen AI PC | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 23H2) | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 8 G1a 16 inch Notebook Next Gen AI PC | `8E17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 13 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC (Windows 10 64-bit, 22H2) | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8D89` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 8 G1i 16 inch Notebook Next Gen AI PC (Windows 10 64-bit, 22H2) | `8D8A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 830 13 inch G10 Notebook PC | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 13 inch G10 Notebook PC | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC | `8C6D,8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC | `8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C6D,8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C6D,8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C6D,8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C6D,8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC | `8C6D,8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC | `8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 14 inch G10 Notebook PC | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 14 inch G10 Notebook PC | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC | `8ad6,8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC | `896D,8ad6,8ABB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8ad6,8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC | `8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC | `896D,8ad6,8ABB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC | `8ad6,8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC | `8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC | `896D,8ABB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC | `8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC | `8C6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC | `8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC | `896D,8ABB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC | `8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC | `8C6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC | `8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook Ultra G1i 14 inch Notebook Next Gen AI PC | `8CE0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook Ultra G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 24H2) | `8CE0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook Ultra G1i 14 inch Notebook Next Gen AI PC (Windows 11 64-bit, 25H2) | `8CE0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook Ultra G1i 14 inch Notebook Next Gen AI PC | `8CE0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X Flip G1i 14 inch Notebook Next Gen AI PC (Windows 10 64-bit, 22H2) | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook X G1i 14 inch Notebook Next Gen AI PC (Windows 10 64-bit, 22H2) | `8D84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 600 G9 PC (Windows 11 64-bit, 22H2) | `8952,8AC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 800 G9 Desktop PC (Windows 11 64-bit, 22H2) | `8AC3,894F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Mini 805 G8 Desktop PC | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 805 G8 Desktop PC (Windows 11 64-bit, 22H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 805 G8 Desktop PC (Windows 11 64-bit, 23H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 805 G8 Desktop PC (Windows 11 64-bit, 24H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 805 G8 Desktop PC (Windows 11 64-bit, 25H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite SFF 600 G9 Desktop PC | `8AC5,8951` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite SFF 600 G9 Desktop PC | `8951,8AC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Mini 805 G8 Desktop PC | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 600 G9 Desktop PC (Windows 11 64-bit, 22H2) | `8951,8AC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 600 G9 Desktop PC (Windows 11 64-bit, 23H2) | `8951,8AC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 600 G9 Desktop PC (Windows 11 64-bit, 24H2) | `8951,8AC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 600 G9 Desktop PC (Windows 11 64-bit, 25H2) | `8951,8AC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite SFF 600 G9 Desktop PC | `8951,8AC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite SFF 600 G9 Desktop PC | `8AC5,8951` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 800 G9 Desktop PC (Windows 11 64-bit, 22H2) | `8AC2,894E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite SFF 805 G9 Desktop PC (Windows 11 64-bit, 22H2) | `8D0A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 600 G9 Desktop PC | `8B39,8AC4,8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 600 G9 Desktop PC | `8AC4,8B39,8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 600 G9 Desktop PC | `8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 600 G9 Desktop PC (Windows 11 64-bit, 22H2) | `8AC4,8B39,8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 600 G9 Desktop PC (Windows 11 64-bit, 23H2) | `8AC4,8B39,8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 600 G9 Desktop PC (Windows 11 64-bit, 24H2) | `8AC4,8B39,8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 600 G9 Desktop PC (Windows 11 64-bit, 25H2) | `8AC4,8B39,8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 680 G9 Desktop PC | `8950,8B39,8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 680 G9 Desktop PC | `8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Tower 680 G9 Desktop PC | `8B39` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 600 G9 Desktop PC | `8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 600 G9 Desktop PC | `8AC4,8B39,8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 600 G9 Desktop PC | `8B39,8AC4,8950` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 680 G9 Desktop PC (Windows 11 64-bit, 22H2) | `8950,8B39,8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 680 G9 Desktop PC (Windows 11 64-bit, 23H2) | `8950,8B39,8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 680 G9 Desktop PC (Windows 11 64-bit, 24H2) | `8950,8B39,8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 680 G9 Desktop PC (Windows 11 64-bit, 25H2) | `8950,8B39,8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 680 G9 Desktop PC | `8950,8B39,8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 680 G9 Desktop PC | `8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Tower 680 G9 Desktop PC | `8B39` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 800 G9 PC (Windows 11 64-bit, 22H2) | `8AC1,894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 880 G9 PC (Windows 11 64-bit, 22H2) | `894D,8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 22H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 23H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 24H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 25H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC (Windows 11 64-bit, 22H2) | `8c52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 22H2) | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 23H2) | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 24H2) | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 25H2) | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x360 830 13 inch G10 2-in-1 Notebook PC | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 22H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 23H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 24H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 25H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x360 830 13 inch G10 2-in-1 Notebook PC | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G11 2-in-1 Notebook PC (Windows 11 64-bit, 22H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 22H2) | `895f,8957,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2314,16 +2317,16 @@
 | HP | HP | HP EliteOne 870 27 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 23H2) | `895f,8957,8acb,8acc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteStudio 8 All-in-One G1i 23.8 inch Desktop AI PC (Windows 10 64-bit, 22H2) | `8d18,8e00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteStudio 8 All-in-One G1i 27 inch Desktop AI PC (Windows 10 64-bit, 22H2) | `8e00,8d18` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Flex Mini G2 Retail System | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini G2 Retail System (Windows 11 64-bit, 23H2) | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini G2 Retail System (Windows 11 64-bit, 24H2) | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini G2 Retail System (Windows 11 64-bit, 25H2) | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini G2 Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Flex Mini Retail System | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Flex Mini G2 Retail System | `8D15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 11 64-bit, 22H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 11 64-bit, 23H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 11 64-bit, 24H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Flex Mini Retail System | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro G2 Retail System (Windows 11 64-bit, 22H2) | `8BC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro G2 Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8BC5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 11 64-bit, 22H2) | `8BC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2331,50 +2334,50 @@
 | HP | HP | HP Engage Go 10 Mobile System (Windows 11 64-bit, 22H2) | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 11 64-bit, 22H2) | `8a94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8a94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage One Pro 15.6 G2 AiO System | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 11 64-bit, 23H2) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 11 64-bit, 24H2) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 11 64-bit, 25H2) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage One Pro 19.5 G2 AiO System | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage One Pro 15.6 G2 AiO System | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 11 64-bit, 23H2) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 11 64-bit, 24H2) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 11 64-bit, 25H2) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage One Pro 23.8 G2 AiO System | `8d09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage One Pro 19.5 G2 AiO System | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 11 64-bit, 23H2) | `8d09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 11 64-bit, 24H2) | `8d09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 11 64-bit, 25H2) | `8d09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8d09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage One Pro 23.8 G2 AiO System | `8d09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro AIO System (Windows 11 64-bit, 22H2) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro AIO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms | `894f,8ac3,8c6c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms | `8c6c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms | `8ac3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms (Windows 11 64-bit, 22H2) | `894f,8ac3,8c6c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms (Windows 11 64-bit, 23H2) | `8ac3,8c6c,894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Mini Conferencing PC with Zoom Rooms | `8ac3,8c6c,894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Mini Conferencing PC with Zoom Rooms | `8c6c,8ac3,894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Mini Conferencing PC with Zoom Rooms | `894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms | `894f,8ac3,8c6c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms | `8ac3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms | `8c6c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Mini Conferencing PC with Zoom Rooms (Windows 11 64-bit, 22H2) | `8c6c,8ac3,894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Mini Conferencing PC with Zoom Rooms (Windows 11 64-bit, 23H2) | `894f,8c6c,8ac3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Mini Conferencing PC with Zoom Rooms | `894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Mini Conferencing PC with Zoom Rooms | `8ac3,8c6c,894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Mini Conferencing PC with Zoom Rooms | `8c6c,8ac3,894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Mini 400 G9 PC (Windows 11 64-bit, 22H2) | `8955,8AC9,8C63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro SFF 400 G9 Desktop PC (Windows 11 64-bit, 22H2) | `8C5A,8AC8,8954` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 400 G9 PCI Desktop PC (Windows 11 64-bit, 22H2) | `8953,8AC7,8C59` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 480 G9 PCI Desktop PC (Windows 11 64-bit, 22H2) | `8C59,8AC7,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC | `8abd,8c3c,8c3b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC | `8c3b,8c3c,8abd` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC | `8c3c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8abd,8c3b,8c3c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8abd,8c3b,8c3c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8c3b,8c3c,8abd` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8c3b,8c3c,8abd` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC | `8abd,8c3c,8c3b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC | `8c3b,8c3c,8abd` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x360 Fortis 11 inch G11 Notebook PC | `8c3c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC (Windows 10 64-bit, 22H2) | `8e01,8d19` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G9 Tower Desktop (Windows 11 64-bit, 22H2) | `8ac1,894d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 G8 Tower Workstation Desktop PC (Windows 11 64-bit, 25H2) | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2386,27 +2389,27 @@
 | HP | HP | HP Z2 Tower G1i Workstation Desktop PC (Windows 10 64-bit, 22H2) | `8D3C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G5 Workstation (Windows 11 64-bit, 25H2) | `8751,8750` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 11 64-bit, 25H2) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z4 G5 Workstation Desktop PC | `8962` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G5 Workstation Desktop PC (Windows 11 64-bit, 24H2) | `8962` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G5 Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8962` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z4 Rack G5 Workstation | `8B3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z4 G5 Workstation Desktop PC | `8962` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 Rack G5 Workstation (Windows 11 64-bit, 23H2) | `8B3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 Rack G5 Workstation (Windows 11 64-bit, 24H2) | `8B3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z4 Rack G5 Workstation | `8B3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G4 Workstation (Windows 11 64-bit, 25H2) | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z6 G5 A Workstation Desktop PC | `8B24` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G5 A Workstation Desktop PC (Windows 11 64-bit, 23H2) | `8B24` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G5 A Workstation Desktop PC (Windows 11 64-bit, 24H2) | `8B24` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G5 A Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8B24` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z6 G5 Workstation Desktop PC | `8961` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z6 G5 A Workstation Desktop PC | `8B24` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G5 Workstation Desktop PC (Windows 11 64-bit, 24H2) | `8961` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G5 Workstation Desktop PC (Windows 11 64-bit, 25H2) | `8961` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z8 Fury G5 Workstation Desktop PC | `88C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z6 G5 Workstation Desktop PC | `8961` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 Fury G5 Workstation Desktop PC (Windows 11 64-bit, 24H2) | `88C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 Fury G5 Workstation Desktop PC (Windows 11 64-bit, 25H2) | `88C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z8 Fury G5 Workstation Desktop PC | `88C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G4 Workstation (Windows 11 64-bit, 25H2) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z8 G5 Workstation Desktop PC | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G5 Workstation Desktop PC (Windows 11 64-bit, 24H2) | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G5 Workstation Desktop PC (Windows 11 64-bit, 25H2) | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z8 G5 Workstation Desktop PC | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZCentral 4R Workstation (Windows 11 64-bit, 25H2) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 14 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 16 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2414,138 +2417,138 @@
 | HP | Probook | HP ProBook 4 G1iR 16 inch Notebook PC (Windows 10 64-bit, 22H2) | `8E2E,8E58` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 14 inch G9 Notebook PC | `8977,8A9E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 14 inch G9 Notebook PC | `8A9E,8977` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8A9E,8977` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8A9E,8977` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8A9E,8977` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 14 inch G9 Notebook PC | `8977,8A9E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 14 inch G9 Notebook PC | `8A9E,8977` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445 14 inch G9 Notebook PC | `89C9,8B17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445 14 inch G9 Notebook PC | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445 14 inch G9 Notebook PC | `89C9,8B17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445 14 inch G9 Notebook PC | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 15.6 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B7C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 15.6 inch G9 Notebook PC | `8AA1,8978` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 15.6 inch G9 Notebook PC | `8978` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 15.6 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8AA1,8978` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 15.6 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8AA1,8978` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 15.6 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8AA1,8978` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC | `89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC | `8B17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 15.6 inch G9 Notebook PC | `8978` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 15.6 inch G9 Notebook PC | `8AA1,8978` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC | `89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC | `8B17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 460 16 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 465 16 inch G11 Notebook PC (Windows 11 64-bit, 22H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC (Windows 11 64-bit, 24H2) | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC (Windows 11 64-bit, 25H2) | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC | `8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Zbook | HP ZBook 8 G1ak 14 inch Mobile Workstation PC | `8e19` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC | `8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Zbook | HP ZBook 8 G1ak 14 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8e19` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ak 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8e19` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ak 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8e19` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 8 G1as 14 inch Mobile Workstation PC | `8e1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G1ak 14 inch Mobile Workstation PC | `8e19` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1as 14 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8e1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1as 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8e1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1as 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8e1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 8 G1as 14 inch Mobile Workstation PC | `8e1a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1i 14 inch Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1i 16 inch Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8d94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 inch G11 A Mobile Workstation PC | `8c6f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8c6f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8c6f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8c6f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8c6f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 inch G11 A Mobile Workstation PC | `8c6f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC | `8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 16 inch G10 Mobile Workstation PC | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC | `8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 16 inch G10 Mobile Workstation PC | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC | `8bd8,8b92,8b93,8b94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC | `8b92,8bd8,8b93,8b94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC | `8b94,8b92,8b93,8bd8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC | `8b93,8b94,8bd8,8b92` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8b94,8b92,8b93,8bd8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8b92,8bd8,8b93,8b94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8b94,8b92,8b93,8bd8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8b93,8b94,8bd8,8b92` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC | `8b92,8bd8,8b93,8b94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC | `8b93,8b94,8bd8,8b92` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC | `8b94,8b92,8b93,8bd8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC | `8bd8,8b92,8b93,8b94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G11 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8ccd,8ca4,8ca6,8ca7,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 16 G9 Mobile Workstation PC | `89C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G9 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `89C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G9 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `89C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G9 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `89C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 16 G9 Mobile Workstation PC | `89C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury G1i 16 inch Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8de2,8de4,8de6,8de8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury G1i 18 inch Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8de7,8de9,8de5,8de2,8de3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 A Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8c95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8ca0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G11 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8cf5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G1i 16 inch Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8e1d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Lenovo | Other | ThinkCentre M70Q | `11DT,11DU,11DV,11DW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70Q Gen 2 | `11N3,11N4,11MY,11N0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70Q Type 11e8 | `11E8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkCentre M70Q | `11DT,11DU,11DV,11DW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70S | `11EX,11DB,11DC,11EW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70T | `11EV,11D9,11EU,11DA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M80Q | `11DQ,11DR,11DS,11DN,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M80S | `11CV,11EM,11CU,11EN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M80T | `11CT,11CS,11EK,11EL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | Other | ThinkCentre M90Q | `11CR,11DJ,11DG,11DH,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90Q Gen 2 | `11MU,11MV,11MR,11MQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkCentre M90Q | `11CR,11DJ,11DG,11DH,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90S | `11D6,11D7,11D2,11D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90T | `11D0,11D4,11D5,11CY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P2 TOWER | `30FS,30FR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P3 TINY | `30H1,30H0,30H3,30H2,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P3 TOWER | `30GU,30GS,30GT,30GX,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | Other | ThinkStation P340 | `30DH,30DK,30DM,30DN,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P340 TINY | `30DS,30DF,30DG,30DE,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkStation P340 | `30DH,30DK,30DM,30DN,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P348 | `30EQ,30ER,30ET,30ES` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | Other | ThinkStation P350 | `30E4,30E3,30E6,30E5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P350 TINY | `30EH,30EG,30EF,30EJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | Other | ThinkStation P360 | `30FN,30FQ,30FM,30FW,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkStation P350 | `30E4,30E3,30E6,30E5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P360 TINY | `30FB,30FD,30FA,30FC,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkStation P360 | `30FN,30FQ,30FM,30FW,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L14 Gen 4 Type 21H5 21H6 | `21H6,21H5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L15 Gen 4 Type 21H7 21H8 | `21H8,21H7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad P1 Gen 5 Type 21DC 21DD | `21DD,21DC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2712,8 +2715,11 @@
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FJ) | `30FJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FK) | `30FK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Claw | MSI MSI Claw 8 AI+ A2VM (2025-2026 Lunar Lake 8-inch) | `Claw8AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-
-## 📅 Generación 2024 (684 modelos)
+| MSI | Raider | MSI Raider 18 HX A15VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 18 AI Studio A15VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan 18 HX A15VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Vector | MSI Vector 16 HX A15VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2024 (747 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -2759,14 +2765,14 @@
 | Dell | Latitude | Latitude 5520 | `0A41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5521 | `0A67` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7220 | `093D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7320 Detachable | `0A45` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7320 | `0A34` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7320 | `0A35` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 7320 Detachable | `0A45` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7330 Rugged Extreme | `0A9E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 7390 | `081B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7390 2-in-1 | `0823` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 7400 | `08E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7390 | `081B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7400 2-IN-1 | `08E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7400 | `08E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7420 | `0A36` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7420 | `0A37` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7480 | `07A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2798,14 +2804,14 @@
 | Dell | Latitude | Latitude Latitude 5520 | `0A41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5521 | `0A67` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7220 | `093D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 7320 Detachable | `0A45` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7320 | `0A34` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7320 | `0A35` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 7320 Detachable | `0A45` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7330 Rugged Extreme | `0A9E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 7390 | `081B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7390 2-in-1 | `0823` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 7400 | `08E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 7390 | `081B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7400 2-IN-1 | `08E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 7400 | `08E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7420 | `0A36` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7420 | `0A37` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7480 | `07A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2917,9 +2923,9 @@
 | HP | Elitebook | HP EliteBook 830 13 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 11 64-bit, 24H2) | `880D,8AB3,8AB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 835 13 inch G10 Notebook PC | `8C10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8C10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8C10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 835 13 inch G10 Notebook PC | `8C10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C6D,8D04` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 10 64-bit, 21H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2928,9 +2934,9 @@
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 11 64-bit, 24H2) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 11 64-bit, 24H2) | `880D,8AB8,8AB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 845 14 inch G10 Notebook PC | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 845 14 inch G10 Notebook PC | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 10 64-bit, 21H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2938,9 +2944,9 @@
 | HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC (Windows 11 64-bit, 21H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `8ABB,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 865 16 inch G10 Notebook PC | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G10 Notebook PC (Windows 11 64-bit, 23H2) | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 865 16 inch G10 Notebook PC | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C6E,8D03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 10 64-bit, 21H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2952,9 +2958,9 @@
 | HP | HP | HP Elite Tower 680 G9 Desktop PC (Windows 11 64-bit, 21H2) | `8950,8B39,8AC4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 800 G9 PC (Windows 11 64-bit, 21H2) | `8AC1,894D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Tower 880 G9 PC (Windows 11 64-bit, 21H2) | `894D,8AC1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x2 G8 Tablet | `870D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 G8 Tablet (Windows 11 64-bit, 22H2) | `870D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 G8 Tablet (Windows 11 64-bit, 23H2) | `870D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x2 G8 Tablet | `870D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC (Windows 11 64-bit, 21H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC (Windows 10 64-bit, 22H2) | `8c52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 21H2) | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2972,37 +2978,37 @@
 | HP | HP | HP Pro SFF 400 G9 Desktop PC (Windows 11 64-bit, 21H2) | `8C5A,8AC8,8954` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 400 G9 PCI Desktop PC (Windows 11 64-bit, 21H2) | `8953,8AC7,8C59` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Tower 480 G9 PCI Desktop PC (Windows 11 64-bit, 21H2) | `8C59,8AC7,8953` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC | `8b4a,89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC | `89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `8b4a,89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC (Windows 11 64-bit, 24H2) | `8b4a,89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC | `89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC | `8b4a,89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 21H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 22H2) | `8c5b,8c5d,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G9 Tower Desktop (Windows 11 64-bit, 21H2) | `894d,8ac1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 G8 Tower Workstation Desktop PC (Windows 11 64-bit, 24H2) | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G4 Workstation | `8458,8457` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G4 Workstation | `8457,8458` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G4 Workstation (Windows 11 64-bit, 21H2) | `8457,8458` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G4 Workstation (Windows 11 64-bit, 22H2) | `8457,8458` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G4 Workstation (Windows 11 64-bit, 23H2) | `8458,8457` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G4 Workstation (Windows 11 64-bit, 24H2) | `8457,8458` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G4 Workstation | `8457,8458` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G4 Workstation | `8458,8457` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G5 Workstation (Windows 11 64-bit, 24H2) | `8754,8755` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G9 Workstation Desktop PC (Windows 11 64-bit, 21H2) | `895E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G9 Workstation Desktop PC (Windows 11 64-bit, 22H2) | `895E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 SFF G9 Workstation Desktop PC (Windows 11 64-bit, 21H2) | `895D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 SFF G9 Workstation Desktop PC (Windows 11 64-bit, 22H2) | `895D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Small Form Factor G4 Workstation | `8456` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G4 Workstation (Windows 11 64-bit, 21H2) | `8456` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G4 Workstation (Windows 11 64-bit, 22H2) | `8456` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G4 Workstation (Windows 11 64-bit, 23H2) | `8456` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G4 Workstation (Windows 11 64-bit, 24H2) | `8456` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Small Form Factor G4 Workstation | `8456` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G5 Workstation (Windows 11 64-bit, 24H2) | `8752,8753` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G8 Workstation (Windows 11 64-bit, 24H2) | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Tower G4 Workstation | `8455` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G4 Workstation (Windows 11 64-bit, 21H2) | `8455` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G4 Workstation (Windows 11 64-bit, 22H2) | `8455` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G4 Workstation (Windows 11 64-bit, 23H2) | `8455` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G4 Workstation (Windows 11 64-bit, 24H2) | `8455` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Tower G4 Workstation | `8455` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G5 Workstation (Windows 11 64-bit, 24H2) | `8750,8751` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G9 Workstation Desktop PC (Windows 11 64-bit, 21H2) | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G9 Workstation Desktop PC (Windows 11 64-bit, 22H2) | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3025,14 +3031,14 @@
 | HP | HP | HP Z8 G5 Workstation Desktop PC (Windows 11 64-bit, 22H2) | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G5 Workstation Desktop PC (Windows 11 64-bit, 23H2) | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZCentral 4R Workstation (Windows 11 64-bit, 24H2) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC | `8979,8B21` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC | `8B21,8979` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC (Windows 11 64-bit, 22H2) | `8979,8B21` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC (Windows 11 64-bit, 23H2) | `8B21,8979` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC | `8979,8B21` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC | `8B21,8979` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC (Windows 11 64-bit, 21H2) | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC (Windows 11 64-bit, 22H2) | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC (Windows 11 64-bit, 23H2) | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 21H2) | `8958,8959,8ace,8acd,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 22H2) | `8958,8959,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3048,9 +3054,9 @@
 | HP | Probook | HP ProBook 460 16 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 465 16 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 A Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8c6f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G11 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8cd1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -3378,31 +3384,93 @@
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AW) | `21AW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AX) | `21AX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Claw | MSI MSI Claw A1M (2024 Handheld Intel Core Ultra 7) | `ClawA1M` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Commercial | MSI Commercial 14 H A13MG |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator 16 AI Studio A1V (2024-2026 Magnesio 1.99kg OLED) | `Creator16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| MSI | Creator | MSI Creator 16 AI Studio A1VHG |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 16 AI Studio A1VIG |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator M14 A13V (2024-2026 Compacto) | `CreatorM14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator M14 A13VE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M14 A13VF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Crosshair | MSI Crosshair 16 HX D14V (2024-2026) | `Crosshair16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 16 HX D14VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 16 HX D14VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 17 HX D14V (2024-2026) | `Crosshair17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 17 HX D14VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 17 HX D14VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Cyborg | MSI Cyborg 14 A13V (2024-2026 Compacto Translucido) | `Cyborg14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Cyborg | MSI Cyborg 14 A13VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 14 A13VF |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 AI A1V (2024-2026) | `Cyborg15AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Cyborg | MSI Cyborg 15 AI A1VEK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 AI A1VFK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI Katana A15 AI B8VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana A15 AI B8VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana A17 AI B8VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana A17 AI B8VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Modern | MSI Modern 14 H D13M (2024-2026 Serie H) | `Modern14_2025` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 H D13M Serie H |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 H C13M (2024-2026 Serie H) | `Modern15_2025` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 H C13M Serie H |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 13 AI Evo A1M (2024-2026 Magnesio 990g 75Wh) | `Prestige13AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 13 AI Evo A1MG |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 AI Evo / Studio C1M / C1V (2024-2026) | `Prestige14AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 14 AI Evo C1MG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 AI Studio C1VG |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 16 AI Evo / Studio B1M / B1V (2024-2026 OLED 1.5kg) | `Prestige16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| MSI | Prestige | MSI Prestige 16 AI Evo B1MG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 AI Studio B1VFG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 AI Studio B1VGG |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Pulse | MSI Pulse 16 AI C1V (2024-2026 Intel Core Ultra) | `Pulse16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 16 AI C1VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 16 AI C1VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 17 AI C1V (2024-2026 Intel Core Ultra) | `Pulse17AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 17 AI C1VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 17 AI C1VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Raider | MSI Raider 18 HX A14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider 18 HX A14VHG (2024-2026 18-inch 4K Mini-LED) | `Raider18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color, keyboard_rgb |
+| MSI | Raider | MSI Raider 18 HX A14VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE68 HX 14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE68 HX 14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 14VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 14 AI Studio A1VFG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 16 AI Studio A1VFG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 16 AI Studio A1VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 18 AI Studio A1V (2024-2026 Core Ultra / RTX 40) | `Stealth18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI Stealth 18 AI Studio A1VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 18 AI Studio A1VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Summit | MSI Summit E13 AI Evo A1M (2024-2026 Core Ultra NPU) | `SummitE13AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E13 AI Evo A1MTG |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E16 AI Studio A1V (2024-2026 RTX 40 Copilot+) | `SummitE16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E16 AI Studio A1VFG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 AI Studio A1VGG |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Sword | MSI Sword 16 HX B14V (2024-2026) | `Sword16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 16 HX B14VEKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 16 HX B14VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 16 HX B14VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 HX B14V (2024-2026) | `Sword17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 17 HX B14VEKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 HX B14VFKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 HX B14VGKG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Thin | MSI Thin 15 B12U / B13U (2024-2026) | `Thin15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B12UCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B12VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B13UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B13VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan 18 HX A14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan 18 HX A14VIG (2024-2026 Touchpad RGB Seamless) | `Titan18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Vector | MSI Vector 16 HX A13V / A14V (2024-2026) | `Vector16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector 16 HX A13VFG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A13VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A13VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 16 HX A14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 17 HX A14V (2024-2026) | `Vector17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-
-## 📅 Generación 2023 (1134 modelos)
+| MSI | Vector | MSI Vector 17 HX A14VGG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector 17 HX A14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2023 (1202 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -3429,13 +3497,13 @@
 | ASUS | Vivobook | ASUS Vivobook Pro 16 OLED Intel Core i9 RTX 4060/4070 (2023-2025) | `K6604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | ASUS | Zenbook | ASUS Zenbook Pro 14 OLED 120Hz RTX 4070 (2023-2025) | `UX6404` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | Zenbook | ASUS Zenbook S 13 OLED (2023-2025 Ultradelgada 1cm 1kg) | `UX5304` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
-| Dell | Latitude | Latitude 3190 | `081E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3190 2-in-1 | `081F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3190 | `081E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3310 2-IN-1 | `0980` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 5290 | `0815` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5290 2-IN-1 | `081D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 5310 | `099F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5290 | `0815` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5310 2 in 1 | `099E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5310 | `099F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5401 | `0918` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5410 | `09A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5410 | `09C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3443,8 +3511,8 @@
 | Dell | Latitude | Latitude 5420 Rugged | `0879` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5424 | `087A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5490 | `0816` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 5500 | `0929` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5500 | `08B9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5500 | `0929` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5501 | `0919` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5510 | `09A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5511 | `09C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3455,10 +3523,10 @@
 | Dell | Latitude | Latitude 7410 | `09BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7410 | `09CD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7424 | `087B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 3190 | `081E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 3190 2-in-1 | `081F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude Latitude 5290 | `0815` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 3190 | `081E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5290 2-IN-1 | `081D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude Latitude 5290 | `0815` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5401 | `0918` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5420 Rugged | `0879` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 5424 Rugged | `087A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3469,8 +3537,8 @@
 | Dell | Latitude | Latitude Latitude 5590 | `0817` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7300 | `08E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude Latitude 7424 Rugged Extreme | `087B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Optiplex | OptiPlex 3060 | `085F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 3060 | `085C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Optiplex | OptiPlex 3060 | `085F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 3080 | `09A8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 3080 | `09A9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 5060 | `085B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3530,18 +3598,17 @@
 | Dell | XPS Notebook | XPS 17 9710 | `0A5D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 7390 | `0962` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9300 | `096D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS Notebook | XPS Notebook 9310 2n1 | `09FF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS Notebook | XPS Notebook 9310 2n1 | `0A44` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9310 | `0991` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9310 | `0A43` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9310 | `0AFC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | XPS Notebook | XPS Notebook 9310 2n1 | `09FF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | XPS Notebook | XPS Notebook 9310 2n1 | `0A44` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9500 | `097D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9700 | `098F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9710 | `0A5D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 10 64-bit, 21H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 10 64-bit, 22H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 21H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Dragonfly | HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC | `8a05` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC (Windows 10 64-bit, 20H2) | `8a05` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC (Windows 10 64-bit, 21H1) | `8a05` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC (Windows 10 64-bit, 21H2) | `8a05` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -3549,17 +3616,18 @@
 | HP | Dragonfly | HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC (Windows 11 64-bit, 21H2) | `8a05` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC (Windows 11 64-bit, 22H2) | `8a05` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC (Windows 11 64-bit, 23H2) | `8a05` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Dragonfly | HP Dragonfly Folio 13.5 inch G3 2-in-1 Notebook PC | `8a05` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 10 64-bit, 20H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 10 64-bit, 21H1) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 10 64-bit, 21H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 10 64-bit, 22H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 11 64-bit, 23H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 10 64-bit, 20H2) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 10 64-bit, 21H1) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 10 64-bit, 21H2) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 10 64-bit, 22H2) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC (Windows 10 64-bit, 22H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G9 Notebook PC (Windows 10 64-bit, 20H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3610,21 +3678,20 @@
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 10 64-bit, 21H1) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 10 64-bit, 21H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 13.3 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 830 G8 Notebook PC | `8AB3,8AB8,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 830 G8 Notebook PC | `8AB8,8AB3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 830 G8 Notebook PC | `880D,8AB3,8AB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8AB3,8AB8,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8AB3,8AB8,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8AB3,8AB8,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 10 64-bit, 22H2) | `880D,8AB3,8AB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 11 64-bit, 23H2) | `880D,8AB3,8AB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 G8 Notebook PC | `880D,8AB3,8AB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 G8 Notebook PC | `8AB3,8AB8,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 G8 Notebook PC | `8AB8,8AB3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `8C10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G10 Notebook PC (Windows 10 64-bit, 22H2) | `8C10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13 inch G10 Notebook PC (Windows 11 64-bit, 21H2) | `8C10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 10 64-bit, 20H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 10 64-bit, 21H1) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 13.3 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 835 G8 Notebook PC | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3632,33 +3699,33 @@
 | HP | Elitebook | HP EliteBook 835 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G8 Notebook PC (Windows 11 64-bit, 23H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 835 G8 Notebook PC | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G10 Notebook PC (Windows 10 64-bit, 22H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 10 64-bit, 20H2) | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 10 64-bit, 21H1) | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 10 64-bit, 21H2) | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 14 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `8ABB,8ad6,896D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 10 64-bit, 20H2) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 10 64-bit, 21H1) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 10 64-bit, 21H2) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 10 64-bit, 22H2) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 11 64-bit, 23H2) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G8 Notebook PC | `8AB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G8 Notebook PC | `8AB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G8 Notebook PC | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8AB8,8AB3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8AB8,8AB3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8AB8,8AB3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8AB8,8AB3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 11 64-bit, 23H2) | `880D,8AB8,8AB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G8 Notebook PC | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G8 Notebook PC | `8AB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G8 Notebook PC | `8AB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G10 Notebook PC (Windows 10 64-bit, 22H2) | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G10 Notebook PC (Windows 11 64-bit, 21H2) | `8B6E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 10 64-bit, 20H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 10 64-bit, 21H1) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 14 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 845 G8 Notebook PC | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3666,13 +3733,13 @@
 | HP | Elitebook | HP EliteBook 845 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G8 Notebook PC (Windows 11 64-bit, 23H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 850 G8 Notebook PC | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 845 G8 Notebook PC | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G8 Notebook PC (Windows 11 64-bit, 23H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 855 G8 Notebook PC | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 850 G8 Notebook PC | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3680,6 +3747,7 @@
 | HP | Elitebook | HP EliteBook 855 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G8 Notebook PC (Windows 11 64-bit, 23H2) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 855 G8 Notebook PC | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G10 Notebook PC (Windows 10 64-bit, 22H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 860 16 inch G9 Notebook PC (Windows 10 64-bit, 20H2) | `896D,8ABB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3692,43 +3760,43 @@
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 10 64-bit, 20H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 10 64-bit, 21H1) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 865 16 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `8990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC (Windows 11 64-bit, 23H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC (Windows 11 64-bit, 23H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC (Windows 11 64-bit, 23H2) | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 G6 Desktop Mini PC | `8710` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 G6 Small Form Factor PC | `870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 G6 Tower PC | `870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 880 G6 Tower PC | `870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 880 G6 Tower PC | `870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms | `874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms (Windows 10 64-bit, 20H2) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms (Windows 10 64-bit, 21H1) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms (Windows 10 64-bit, 21H2) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms (Windows 10 64-bit, 22H2) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms (Windows 11 64-bit, 23H2) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms | `874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Collaboration G6 24 All-in-One with Zoom Rooms | `874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 20H2) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 21H1) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 21H2) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 22H2) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms (Windows 11 64-bit, 23H2) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms | `874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 600 G9 PC (Windows 10 64-bit, 20H2) | `8AC6,8952` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 600 G9 PC (Windows 10 64-bit, 21H1) | `8AC6,8952` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Mini 600 G9 PC (Windows 10 64-bit, 21H2) | `8AC6,8952` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3774,7 +3842,6 @@
 | HP | HP | HP Elite x360 1040 14 inch G9 2-in-1 Notebook PC (Windows 10 64-bit, 22H2) | `896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G10 2-in-1 Notebook PC (Windows 10 64-bit, 21H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13 inch G10 2-in-1 Notebook PC (Windows 10 64-bit, 22H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC (Windows 10 64-bit, 20H2) | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC (Windows 10 64-bit, 21H1) | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC (Windows 10 64-bit, 21H2) | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3782,25 +3849,26 @@
 | HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 21H2) | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 22H2) | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC (Windows 11 64-bit, 23H2) | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G6 Desktop Mini PC | `870f,8711,8710` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G6 Desktop Mini PC | `8711,8710,870f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC | `896E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Desktop Mini PC (Windows 10 64-bit, 20H2) | `870f,8710,8711` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Desktop Mini PC (Windows 10 64-bit, 21H1) | `870f,8710,8711` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Desktop Mini PC (Windows 10 64-bit, 21H2) | `870f,8710,8711` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Desktop Mini PC (Windows 10 64-bit, 22H2) | `870f,8710,8711` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Desktop Mini PC (Windows 11 64-bit, 23H2) | `870f,8711,8710` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G6 Small Form Factor PC | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G6 Desktop Mini PC | `870f,8711,8710` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G6 Desktop Mini PC | `8711,8710,870f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Small Form Factor PC (Windows 10 64-bit, 20H2) | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Small Form Factor PC (Windows 10 64-bit, 21H1) | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Small Form Factor PC (Windows 10 64-bit, 21H2) | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Small Form Factor PC (Windows 10 64-bit, 22H2) | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Small Form Factor PC (Windows 11 64-bit, 23H2) | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G6 Tower PC | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G6 Small Form Factor PC | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Tower PC (Windows 10 64-bit, 20H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Tower PC (Windows 10 64-bit, 21H1) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Tower PC (Windows 10 64-bit, 21H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Tower PC (Windows 10 64-bit, 22H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Tower PC (Windows 11 64-bit, 23H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G6 Tower PC | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC (Windows 11 64-bit, 23H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 11 64-bit, 23H2) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G6 Tower PC (Windows 10 64-bit, 20H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3808,20 +3876,20 @@
 | HP | HP | HP EliteDesk 880 G6 Tower PC (Windows 10 64-bit, 21H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G6 Tower PC (Windows 10 64-bit, 22H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G6 Tower PC (Windows 11 64-bit, 23H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G6 24 All-in-One PC | `874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G6 24 All-in-One PC | `874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 10 64-bit, 20H2) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 10 64-bit, 21H1) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 10 64-bit, 21H2) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 10 64-bit, 22H2) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 11 64-bit, 23H2) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G6 27 All-in-One PC | `874D,874E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G6 27 All-in-One PC | `874E,874D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G6 24 All-in-One PC | `874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G6 24 All-in-One PC | `874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 27 All-in-One PC (Windows 10 64-bit, 20H2) | `874E,874D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 27 All-in-One PC (Windows 10 64-bit, 21H1) | `874E,874D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 27 All-in-One PC (Windows 10 64-bit, 21H2) | `874D,874E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 27 All-in-One PC (Windows 10 64-bit, 22H2) | `874D,874E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 27 All-in-One PC (Windows 11 64-bit, 23H2) | `874D,874E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G6 27 All-in-One PC | `874D,874E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G6 27 All-in-One PC | `874E,874D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 20H2) | `895f,8957,8acb,8acc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 21H1) | `895f,8957,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 21H2) | `895f,8957,8acc,8acb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3833,18 +3901,18 @@
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 21H1) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 21H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 22H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Flex Pro Retail System | `840A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 21H1) | `840A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 21H2) | `840A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 22H2) | `840A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 11 64-bit, 21H2) | `840A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 11 64-bit, 22H2) | `840A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Flex Pro-C Retail System | `8476` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Flex Pro Retail System | `840A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 21H1) | `8476` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 21H2) | `8476` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 22H2) | `8476` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 11 64-bit, 21H2) | `8476` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 11 64-bit, 22H2) | `8476` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Flex Pro-C Retail System | `8476` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 10 64-bit, 21H1) | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 10 64-bit, 21H2) | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 10 64-bit, 22H2) | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3860,14 +3928,14 @@
 | HP | HP | HP Engage One Pro AIO System (Windows 10 64-bit, 22H2) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms (Windows 10 64-bit, 20H2) | `894f,8c6c,8ac3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Mini Conferencing PC with Zoom Rooms (Windows 10 64-bit, 20H2) | `8ac3,8c6c,894f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Presence 24 All-in-One with Zoom Rooms | `8acc,895f,8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Presence 24 All-in-One with Zoom Rooms | `895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Presence 24 All-in-One with Zoom Rooms | `8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Presence 24 All-in-One with Zoom Rooms (Windows 10 64-bit, 20H2) | `8acc,895f,8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Presence 24 All-in-One with Zoom Rooms | `8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Presence 24 All-in-One with Zoom Rooms | `895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Presence 24 All-in-One with Zoom Rooms | `8acc,895f,8957` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Presence 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 20H2) | `8957,895f,8acc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Presence 27 All-in-One with Zoom Rooms | `8957,895f,8acc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Presence 27 All-in-One with Zoom Rooms | `895f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Presence 27 All-in-One with Zoom Rooms | `8acc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Presence 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 20H2) | `8957,895f,8acc` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Mini 400 G9 PC (Windows 10 64-bit, 20H2) | `8955,8AC9,8C63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Mini 400 G9 PC (Windows 10 64-bit, 21H1) | `8955,8C63,8AC9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro Mini 400 G9 PC (Windows 10 64-bit, 21H2) | `8955,8C63,8AC9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3887,12 +3955,12 @@
 | HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 10 64-bit, 22H2) | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G10 Notebook PC (Windows 11 64-bit, 21H2) | `8B50` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 10 64-bit, 20H2) | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 10 64-bit, 21H1) | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 10 64-bit, 21H2) | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 11 64-bit, 23H2) | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC (Windows 10 64-bit, 20H2) | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC (Windows 10 64-bit, 21H1) | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `89B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3909,62 +3977,58 @@
 | HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `8b4a,89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `8b4a,89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 Fortis 11 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `8b4a,89af` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G6 Desktop Mini PC | `871a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Desktop Mini PC (Windows 10 64-bit, 20H2) | `871a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Desktop Mini PC (Windows 10 64-bit, 21H1) | `871a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Desktop Mini PC (Windows 10 64-bit, 21H2) | `871a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Desktop Mini PC (Windows 10 64-bit, 22H2) | `871a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G7 Microtower PC | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G6 Desktop Mini PC | `871a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 10 64-bit, 20H2) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 10 64-bit, 21H1) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 10 64-bit, 21H2) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 10 64-bit, 22H2) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 11 64-bit, 23H2) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G7 Small Form Factor PC | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G7 Microtower PC | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Small Form Factor PC (Windows 10 64-bit, 21H1) | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Small Form Factor PC (Windows 10 64-bit, 21H2) | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Small Form Factor PC (Windows 10 64-bit, 22H2) | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Small Form Factor PC (Windows 11 64-bit, 23H2) | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G7 Small Form Factor PC | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Desktop Mini PC (Windows 11 64-bit, 23H2) | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 11 64-bit, 23H2) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 480 G7 PCI Microtower PC | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 10 64-bit, 20H2) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 10 64-bit, 21H1) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 10 64-bit, 21H2) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 10 64-bit, 22H2) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 480 G7 PCI Microtower PC | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 10 64-bit, 21H1) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 10 64-bit, 21H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 10 64-bit, 22H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 11 64-bit, 23H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 20H2) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 21H1) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 21H2) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 22H2) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 11 64-bit, 23H2) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 PCI Microtower PC | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 20H2) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 21H1) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 21H2) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 22H2) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 11 64-bit, 23H2) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 20H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 21H1) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 21H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 22H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 11 64-bit, 23H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Small Form Factor PC | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 PCI Microtower PC | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 10 64-bit, 21H1) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 10 64-bit, 21H2) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 10 64-bit, 22H2) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 11 64-bit, 23H2) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Small Form Factor PC | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 10 64-bit, 20H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 10 64-bit, 21H1) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 10 64-bit, 21H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 10 64-bit, 22H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 11 64-bit, 23H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G6 20 All-in-One PC | `871B,871C,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G6 20 All-in-One PC | `871C,871B,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G6 20 All-in-One PC | `880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G6 20 All-in-One PC | `8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 10 64-bit, 20H2) | `871B,871C,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 10 64-bit, 21H1) | `871B,871C,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 10 64-bit, 21H2) | `871C,871B,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3972,10 +4036,10 @@
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 11 64-bit, 21H2) | `871B,871C,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 11 64-bit, 22H2) | `871C,871B,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 11 64-bit, 23H2) | `871B,871C,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G6 24 All-in-One PC | `8810,880F,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G6 24 All-in-One PC | `880F,8810,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G6 24 All-in-One PC | `871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G6 24 All-in-One PC | `871C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G6 20 All-in-One PC | `871B,871C,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G6 20 All-in-One PC | `871C,871B,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G6 20 All-in-One PC | `880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G6 20 All-in-One PC | `8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 10 64-bit, 20H2) | `8810,880F,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 10 64-bit, 21H1) | `880F,8810,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 10 64-bit, 21H2) | `880F,8810,871B,871C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3983,14 +4047,14 @@
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 11 64-bit, 21H2) | `8810,880F,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 11 64-bit, 22H2) | `880F,8810,871B,871C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 11 64-bit, 23H2) | `8810,880F,871B,871C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G6 24 All-in-One PC | `871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G6 24 All-in-One PC | `871C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G6 24 All-in-One PC | `880F,8810,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G6 24 All-in-One PC | `8810,880F,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 20H2) | `8c5d,8c5b,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 21H1) | `8c5d,8c5b,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 21H2) | `8c5d,8c5b,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 22H2) | `8c5d,8c5b,8acd,8ace,89...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 G6 24 All-in-One PC | `871C,871B,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 G6 24 All-in-One PC | `871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 G6 24 All-in-One PC | `880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 G6 24 All-in-One PC | `8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 10 64-bit, 20H2) | `871B,871C,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 10 64-bit, 21H1) | `871B,871C,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 10 64-bit, 21H2) | `871C,871B,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3998,8 +4062,10 @@
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 11 64-bit, 21H2) | `880F,8810,871B,871C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 11 64-bit, 22H2) | `880F,8810,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 11 64-bit, 23H2) | `880F,8810,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G6 22 All-in-One PC | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G6 22 All-in-One PC | `871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 G6 24 All-in-One PC | `871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 G6 24 All-in-One PC | `871C,871B,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 G6 24 All-in-One PC | `880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 G6 24 All-in-One PC | `8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 10 64-bit, 20H2) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 10 64-bit, 21H1) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 10 64-bit, 21H2) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4007,6 +4073,8 @@
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 11 64-bit, 21H2) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 11 64-bit, 22H2) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 11 64-bit, 23H2) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G6 22 All-in-One PC | `871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G6 22 All-in-One PC | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G9 Tower Desktop (Windows 10 64-bit, 20H2) | `894d,8ac1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G9 Tower Desktop (Windows 10 64-bit, 21H1) | `894d,8ac1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G9 Tower Desktop (Windows 10 64-bit, 21H2) | `894d,8ac1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4028,7 +4096,6 @@
 | HP | HP | HP Z2 Tower G9 Workstation Desktop PC (Windows 10 64-bit, 21H1) | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G9 Workstation Desktop PC (Windows 10 64-bit, 21H2) | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G9 Workstation Desktop PC (Windows 10 64-bit, 22H2) | `895C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z4 G4 Workstation | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 10 64-bit, 1909) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 10 64-bit, 2004) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 10 64-bit, 20H2) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4038,10 +4105,10 @@
 | HP | HP | HP Z4 G4 Workstation (Windows 11 64-bit, 21H2) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 11 64-bit, 22H2) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 11 64-bit, 23H2) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z4 G4 Workstation | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G5 Workstation Desktop PC (Windows 10 64-bit, 21H2) | `8962` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G5 Workstation Desktop PC (Windows 10 64-bit, 22H2) | `8962` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 Rack G5 Workstation (Windows 10 64-bit, 22H2) | `8B3E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z6 G4 Workstation | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G4 Workstation (Windows 10 64-bit, 1909) | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G4 Workstation (Windows 10 64-bit, 2004) | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G4 Workstation (Windows 10 64-bit, 20H2) | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4051,12 +4118,12 @@
 | HP | HP | HP Z6 G4 Workstation (Windows 11 64-bit, 21H2) | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G4 Workstation (Windows 11 64-bit, 22H2) | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G4 Workstation (Windows 11 64-bit, 23H2) | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z6 G4 Workstation | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G5 A Workstation Desktop PC (Windows 10 64-bit, 22H2) | `8B24` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G5 Workstation Desktop PC (Windows 10 64-bit, 21H2) | `8961` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G5 Workstation Desktop PC (Windows 10 64-bit, 22H2) | `8961` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 Fury G5 Workstation Desktop PC (Windows 10 64-bit, 21H2) | `88C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 Fury G5 Workstation Desktop PC (Windows 10 64-bit, 22H2) | `88C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z8 G4 Workstation | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G4 Workstation (Windows 10 64-bit, 1909) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G4 Workstation (Windows 10 64-bit, 2004) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G4 Workstation (Windows 10 64-bit, 20H2) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4066,9 +4133,9 @@
 | HP | HP | HP Z8 G4 Workstation (Windows 11 64-bit, 21H2) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G4 Workstation (Windows 11 64-bit, 22H2) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G4 Workstation (Windows 11 64-bit, 23H2) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z8 G4 Workstation | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G5 Workstation Desktop PC (Windows 10 64-bit, 21H2) | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G5 Workstation Desktop PC (Windows 10 64-bit, 22H2) | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZCentral 4R Workstation | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZCentral 4R Workstation (Windows 10 64-bit, 1809) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZCentral 4R Workstation (Windows 10 64-bit, 1903) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZCentral 4R Workstation (Windows 10 64-bit, 1909) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4080,6 +4147,7 @@
 | HP | HP | HP ZCentral 4R Workstation (Windows 11 64-bit, 21H2) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZCentral 4R Workstation (Windows 11 64-bit, 22H2) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZCentral 4R Workstation (Windows 11 64-bit, 23H2) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZCentral 4R Workstation | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC (Windows 10 64-bit, 20H2) | `8979,8B21` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC (Windows 10 64-bit, 21H1) | `8979,8B21` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 inch G5 Notebook PC (Windows 10 64-bit, 21H2) | `8979,8B21` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4089,8 +4157,6 @@
 | HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC (Windows 10 64-bit, 21H1) | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC (Windows 10 64-bit, 21H2) | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC (Windows 10 64-bit, 22H2) | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC | `871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 10 64-bit, 20H2) | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 10 64-bit, 21H1) | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 10 64-bit, 21H2) | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4098,10 +4164,8 @@
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 11 64-bit, 21H2) | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 11 64-bit, 22H2) | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 11 64-bit, 23H2) | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC | `871b,871c,880f,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC | `871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC | `8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC | `880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC | `871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 10 64-bit, 20H2) | `871b,871c,8810,880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 10 64-bit, 21H1) | `871b,871c,8810,880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 10 64-bit, 21H2) | `871b,871c,8810,880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4109,17 +4173,21 @@
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 11 64-bit, 21H2) | `871b,871c,8810,880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 11 64-bit, 22H2) | `871b,871c,880f,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 11 64-bit, 23H2) | `871b,871c,8810,880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC | `871b,871c,880f,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC | `871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC | `880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC | `8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 20H2) | `8959,8958,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 21H1) | `8959,8958,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 21H2) | `8958,8959,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 22H2) | `8959,8958,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 430 G8 Notebook PC | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 430 G8 Notebook PC | `87DF,8A73,8A83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 430 G8 Notebook PC | `8A83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 430 G8 Notebook PC | `87DF,8A73,8A83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 430 G8 Notebook PC | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 430 G8 Notebook PC | `8A83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G10 Notebook PC (Windows 10 64-bit, 22H2) | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G10 Notebook PC (Windows 11 64-bit, 21H2) | `8B78` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4150,14 +4218,13 @@
 | HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC (Windows 10 64-bit, 21H1) | `89C9,8B17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC (Windows 10 64-bit, 21H2) | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 15.6 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `8B17,89C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 630 G8 Notebook PC | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 630 G8 Notebook PC | `87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 10 64-bit, 20H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 10 64-bit, 21H1) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 10 64-bit, 21H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 10 64-bit, 22H2) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 11 64-bit, 23H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 635 Aero G8 Notebook PC | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 630 G8 Notebook PC | `87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 630 G8 Notebook PC | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G8 Notebook PC (Windows 10 64-bit, 20H2) | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G8 Notebook PC (Windows 10 64-bit, 21H1) | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G8 Notebook PC (Windows 10 64-bit, 21H2) | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4165,20 +4232,21 @@
 | HP | Probook | HP ProBook 635 Aero G8 Notebook PC (Windows 11 64-bit, 21H2) | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G8 Notebook PC (Windows 11 64-bit, 22H2) | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G8 Notebook PC (Windows 11 64-bit, 23H2) | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 640 G8 Notebook PC | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 640 G8 Notebook PC | `87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 635 Aero G8 Notebook PC | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 10 64-bit, 20H2) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 10 64-bit, 21H1) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 10 64-bit, 21H2) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 10 64-bit, 22H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 11 64-bit, 23H2) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 650 G8 Notebook PC | `87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 650 G8 Notebook PC | `87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 640 G8 Notebook PC | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 640 G8 Notebook PC | `87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 10 64-bit, 20H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 10 64-bit, 21H1) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 10 64-bit, 21H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 10 64-bit, 22H2) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 11 64-bit, 23H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 650 G8 Notebook PC | `87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 650 G8 Notebook PC | `87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC (Windows 10 64-bit, 20H2) | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC (Windows 10 64-bit, 21H1) | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G10 Notebook PC (Windows 10 64-bit, 21H2) | `89B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4189,12 +4257,11 @@
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 10 64-bit, 21H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 10 64-bit, 22H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook x360 11 G5 EE Notebook PC | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G5 EE Notebook PC (Windows 11 64-bit, 21H2) | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G5 EE Notebook PC (Windows 11 64-bit, 22H2) | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G5 EE Notebook PC (Windows 11 64-bit, 23H2) | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook x360 11 G5 EE Notebook PC | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G6 EE Notebook PC (Windows 11 64-bit, 23H2) | `86d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook x360 435 G8 Notebook PC | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4202,6 +4269,7 @@
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC (Windows 11 64-bit, 23H2) | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook x360 435 G8 Notebook PC | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 600 G6 Desktop Mini PC | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G6 PCI Microtower PC | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -4209,35 +4277,35 @@
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G9 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G10 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G10 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8b41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `896d,8abb` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 16 inch G9 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8abb,896d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8bd8,8b92,8b93,8b94` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8b92,8bd8,8b94,8b93` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G10 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8b92,8bd8,8b94,8b93` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -4246,24 +4314,24 @@
 | HP | Zbook | HP ZBook Fury 16 G9 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `89C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G9 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `89C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 16 G9 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `89C6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8b95` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G10 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8bef` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -4333,9 +4401,9 @@
 | Lenovo | ThinkPad | ThinkPad X13 Type 20UF 20UG | `20UG,20UF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X13 Yoga Gen 1 | `20SX,20SY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X380 Yoga | `20LJ,20LH,20LK,20LL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | ThinkPad | ThinkPad X390 | `20Q1,20Q0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X390 Type 20SC 20SD | `20SC,20SD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X390 Yoga | `20NN,20NQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X390 | `20Q1,20Q0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X395 | `20NM,20NL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 11e 5TH Gen Type 20LN 20LM | `20LN,20LM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkcentre | ThinkCentre M720Q (Type 10T7) | `10T7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4520,28 +4588,95 @@
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D6) | `30D6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D7) | `30D7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 17 C7V (2023-2025 Dragon Range + Wi-Fi 7) | `Alpha17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 17 C7VF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 17 C7VG Dragon Range |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 C7UDX |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 C7V / C7U (2023-2025 Ryzen 7000) | `Bravo15_2023` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 C7VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 C7VF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 C7UDX |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 17 C7V / C7U (2023-2025) | `Bravo17_2023` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 C7VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 C7VF |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Commercial | MSI Commercial 14 H A13M (2023-2026 Smart Card / NFC) | `Commercial14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator M16 B13VE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 B13VF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16 HX Studio A13V (2023) | `CreatorZ16HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator Z16 HX Studio A13VET |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16 HX Studio A13VFT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16 HX Studio A13VGT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z17 HX Studio A13V (2023 Calman Verified) | `CreatorZ17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| MSI | Creator | MSI Creator Z17 HX Studio A13VFT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z17 HX Studio A13VGT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z17 HX Studio A13VHT |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Cyborg | MSI Cyborg 15 A12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A12UD |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Cyborg | MSI Cyborg 15 A12V / A13V (2023-2024 Teclas Translucidas) | `Cyborg15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Cyborg | MSI Cyborg 15 A12VE RTX 4050 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A12VF RTX 4060 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A13VE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 A13VF |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana 15 B12V / B13V (2023-2025 Teclado 4-Zonas) | `Katana15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B12VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B12VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B13VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B13VFK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 15 B13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana 17 B12V / B13V (2023-2025) | `Katana17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B12VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B12VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B13VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B13VFK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana 17 B13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Modern | MSI Modern 14 C13M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 C7M Ryzen 7000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 B13M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 B7M Ryzen 7000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 13 Evo A12M / A13M (2023 Ultraliviano 990g) | `Prestige13Evo` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 13 Evo A13M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 Studio A13VE |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Pulse | MSI Pulse 15 B13V (2023-2024) | `Pulse15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 15 B13VFK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 15 B13VGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse 17 B13V (2023-2024) | `Pulse17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 17 B13VFK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse 17 B13VGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Raider | MSI Raider GE68 HX 13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE68 HX 13VG / 14VGG (2023-2025) | `GE68HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Raider | MSI Raider GE68 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE78 HX 13VI / 14VHG (2023-2025 Matrix Light Bar) | `GE78HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI Stealth 14 Studio A13VE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 14 Studio A13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 14 Studio A13VG / A14V (2023-2025 Magnesio-Aluminio) | `Stealth14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth 16 Studio / AI A13VG / A1VFG (2023-2026) | `Stealth16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI Stealth 16 Studio A13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 16 Studio A13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 17 Studio A13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 17 Studio A13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 17 Studio A13VI (2023-2024) | `Stealth17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Summit | MSI Summit E14 Flip Evo A13MT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 Flip A13VET |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 Flip A13VFT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12UCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12UDX |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF63 12V (2023 RTX 4050) | `ThinGF63_12V` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12VE RTX 4050 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF63 12VF RTX 4060 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan GT77 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT77 HX 13VI (2023 RTX 4090) | `GT77HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Vector | MSI Vector GP68 HX 12V / 13V (2023-2024 Max TGP) | `GP68HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector GP68 HX 12VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP68 HX 13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP68 HX 13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP68 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP78 HX 13VF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP78 HX 13VG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP78 HX 13VH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP78 HX 13VI / 14V (2023-2025) | `GP78HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-
-## 📅 Generación 2022 (548 modelos)
+## 📅 Generación 2022 (604 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -4572,12 +4707,12 @@
 | ASUS | Zenbook | ASUS Zenbook S 13 OLED (2022 1cm 1kg) | `UM5302` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | Dell | Latitude | Latitude 3300 | `08BB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3301 | `094F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 3500 | `08BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3500 | `08BD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3500 | `08BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3510 | `09ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3510 | `09F2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 5300 | `08B7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5300 2-IN-1 | `08B6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5300 | `08B7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5400 | `08B8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5400 | `0928` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7200 2-in-1 | `08E9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4608,8 +4743,8 @@
 | Dell | Precision | Precision 3540 | `08BA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 3541 | `091A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 3550 | `09A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | Precision | Precision 3630 | `0872` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 3630 | `0871` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 3630 | `0872` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 5540 | `0906` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 7920 Rack | `0718` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision Precision 3530 | `0820` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -4625,20 +4760,19 @@
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 11 64-bit, 22H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 11 64-bit, 21H2) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 11 64-bit, 22H2) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Dragonfly | HP Elite Dragonfly Max Notebook PC | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Max Notebook PC (Windows 10 64-bit, 20H2) | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Max Notebook PC (Windows 10 64-bit, 21H1) | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Max Notebook PC (Windows 10 64-bit, 21H2) | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Max Notebook PC (Windows 10 64-bit, 22H2) | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Max Notebook PC (Windows 11 64-bit, 21H2) | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Max Notebook PC (Windows 11 64-bit, 22H2) | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Dragonfly | HP Elite Dragonfly Notebook PC | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Dragonfly | HP Elite Dragonfly Max Notebook PC | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 11 64-bit, 21H2) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Elitebook | HP EliteBook 830 G7 Notebook PC | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Dragonfly | HP Elite Dragonfly Notebook PC | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Elitebook | HP EliteBook 830 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 G7 Notebook PC | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8AB3,8AB8,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 11 64-bit, 22H2) | `880D,8AB8,8AB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 835 G7 Notebook PC | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G7 Notebook PC (Windows 10 64-bit, 2004) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4646,14 +4780,14 @@
 | HP | Elitebook | HP EliteBook 835 G7 Notebook PC (Windows 10 64-bit, 22H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G7 Notebook PC (Windows 11 64-bit, 22H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 835 G7 Notebook PC | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 11 64-bit, 21H2) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 11 64-bit, 22H2) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G7 Notebook PC | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G7 Notebook PC (Windows 10 64-bit, 22H2) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G7 Notebook PC | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8AB8,8AB3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 11 64-bit, 22H2) | `880D,8AB8,8AB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 845 G7 Notebook PC | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G7 Notebook PC (Windows 10 64-bit, 2004) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4661,12 +4795,12 @@
 | HP | Elitebook | HP EliteBook 845 G7 Notebook PC (Windows 10 64-bit, 22H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G7 Notebook PC (Windows 11 64-bit, 22H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 850 G7 Notebook PC | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 845 G7 Notebook PC | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G7 Notebook PC (Windows 10 64-bit, 22H2) | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 850 G7 Notebook PC | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 855 G7 Notebook PC | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G7 Notebook PC (Windows 10 64-bit, 2004) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4674,19 +4808,20 @@
 | HP | Elitebook | HP EliteBook 855 G7 Notebook PC (Windows 10 64-bit, 22H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G7 Notebook PC (Windows 11 64-bit, 22H2) | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 1030 G7 Notebook PC | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 855 G7 Notebook PC | `8760` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G7 Notebook PC (Windows 10 64-bit, 22H2) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G7 Notebook PC (Windows 11 64-bit, 21H2) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 1030 G7 Notebook PC | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 1040 G7 Notebook PC | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G7 Notebook PC (Windows 10 64-bit, 22H2) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G7 Notebook PC (Windows 11 64-bit, 21H2) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 1040 G7 Notebook PC | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 830 G7 Notebook PC | `8725` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G7 Notebook PC (Windows 10 64-bit, 22H2) | `8725` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8725` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 830 G7 Notebook PC | `8725` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8847` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 G8 Tower PC | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4704,38 +4839,38 @@
 | HP | HP | HP EliteDesk 800 G8 Desktop Mini PC (Windows 10 64-bit, 20H2) | `88A0,889F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Desktop Mini PC (Windows 10 64-bit, 21H1) | `889F,88A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Desktop Mini PC (Windows 10 64-bit, 21H2) | `889F,88A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G8 Small Form Factor PC | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Small Form Factor PC (Windows 10 64-bit, 20H2) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Small Form Factor PC (Windows 10 64-bit, 21H1) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Small Form Factor PC (Windows 10 64-bit, 21H2) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Small Form Factor PC (Windows 10 64-bit, 22H2) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G8 Small Form Factor PC | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Tower PC (Windows 10 64-bit, 20H2) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Tower PC (Windows 10 64-bit, 21H1) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Tower PC (Windows 10 64-bit, 21H2) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G8 Tower PC (Windows 10 64-bit, 22H2) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 805 G6 Desktop Mini PC | `872C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G6 Desktop Mini PC (Windows 10 64-bit, 20H2) | `872C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G6 Desktop Mini PC (Windows 10 64-bit, 21H1) | `872C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G6 Desktop Mini PC (Windows 10 64-bit, 21H2) | `872C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G6 Desktop Mini PC (Windows 10 64-bit, 22H2) | `872C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 805 G6 Small Form Factor PC | `872B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 805 G6 Desktop Mini PC | `872C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G6 Small Form Factor PC (Windows 10 64-bit, 20H2) | `872B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G6 Small Form Factor PC (Windows 10 64-bit, 21H1) | `872B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G6 Small Form Factor PC (Windows 10 64-bit, 21H2) | `872B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G6 Small Form Factor PC (Windows 10 64-bit, 22H2) | `872B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 805 G6 Small Form Factor PC | `872B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC (Windows 10 64-bit, 21H1) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC (Windows 10 64-bit, 21H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC (Windows 10 64-bit, 22H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC (Windows 11 64-bit, 21H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC (Windows 11 64-bit, 22H2) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 805 G8 Small Form Factor PC | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 10 64-bit, 21H1) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 10 64-bit, 21H2) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 10 64-bit, 22H2) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 11 64-bit, 21H2) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 11 64-bit, 22H2) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 805 G8 Small Form Factor PC | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G6 Tower PC (Windows 11 64-bit, 21H2) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G6 Tower PC (Windows 11 64-bit, 22H2) | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G8 Tower PC (Windows 10 64-bit, 20H2) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4746,16 +4881,16 @@
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 11 64-bit, 22H2) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 27 All-in-One PC (Windows 11 64-bit, 21H2) | `874D,874E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 27 All-in-One PC (Windows 11 64-bit, 22H2) | `874D,874E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G8 24 All-in-One PC | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G8 24 All-in-One PC (Windows 10 64-bit, 20H2) | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G8 24 All-in-One PC (Windows 10 64-bit, 21H1) | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G8 24 All-in-One PC (Windows 10 64-bit, 21H2) | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G8 24 All-in-One PC (Windows 10 64-bit, 22H2) | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G8 27 All-in-One PC | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G8 24 All-in-One PC | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G8 27 All-in-One PC (Windows 10 64-bit, 20H2) | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G8 27 All-in-One PC (Windows 10 64-bit, 21H1) | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G8 27 All-in-One PC (Windows 10 64-bit, 21H2) | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G8 27 All-in-One PC (Windows 10 64-bit, 22H2) | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G8 27 All-in-One PC | `88AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 20H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 20H2) | `840A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 20H2) | `8476` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4771,48 +4906,48 @@
 | HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 64-bit, 21H1) | `830a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 64-bit, 21H2) | `830a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro AIO System (Windows 10 64-bit, 20H2) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Presence Control Kit Zoom Room | `885c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Presence Control Kit Zoom Room (Windows 10 64-bit, 20H2) | `885c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Presence Control Kit Zoom Room (Windows 10 64-bit, 21H2) | `885c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Presence Control Plus Kit Microsoft Team Room | `885c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Presence Control Kit Zoom Room | `885c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Presence Control Plus Kit Microsoft Team Room (Windows 10 64-bit, 20H2) | `885c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Presence Control Plus Kit Microsoft Team Room (Windows 10 64-bit, 21H2) | `885c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Presence Control Plus Kit Microsoft Team Room | `885c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 11 64-bit, 21H2) | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x360 435 13.3 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `89ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 11 64-bit, 21H2) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 11 64-bit, 22H2) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Small Form Factor PC (Windows 11 64-bit, 21H2) | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Small Form Factor PC (Windows 11 64-bit, 22H2) | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 405 G6 Desktop Mini PC | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Desktop Mini PC (Windows 10 64-bit, 20H2) | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Desktop Mini PC (Windows 10 64-bit, 21H1) | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Desktop Mini PC (Windows 10 64-bit, 21H2) | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Desktop Mini PC (Windows 10 64-bit, 22H2) | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 405 G6 Small Form Factor PC | `8835,872D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 405 G6 Desktop Mini PC | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8835,872D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Small Form Factor PC (Windows 10 64-bit, 21H1) | `8835,872D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Small Form Factor PC (Windows 10 64-bit, 21H2) | `8835,872D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Small Form Factor PC (Windows 10 64-bit, 22H2) | `8835,872D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 405 G8 Desktop Mini PC | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 405 G6 Small Form Factor PC | `8835,872D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Desktop Mini PC (Windows 10 64-bit, 21H1) | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Desktop Mini PC (Windows 10 64-bit, 21H2) | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Desktop Mini PC (Windows 10 64-bit, 22H2) | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Desktop Mini PC (Windows 11 64-bit, 21H2) | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Desktop Mini PC (Windows 11 64-bit, 22H2) | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 405 G8 Small Form Factor PC | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 405 G8 Desktop Mini PC | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 10 64-bit, 21H1) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 10 64-bit, 21H2) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 10 64-bit, 22H2) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 11 64-bit, 21H2) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 11 64-bit, 22H2) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 405 G8 Small Form Factor PC | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 11 64-bit, 21H2) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 11 64-bit, 22H2) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 11 64-bit, 21H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 11 64-bit, 22H2) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 11 64-bit, 21H2) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 11 64-bit, 22H2) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 11 64-bit, 21H2) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 11 64-bit, 22H2) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 11 64-bit, 21H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 11 64-bit, 22H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 11 64-bit, 21H2) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4820,18 +4955,17 @@
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 11 64-bit, 21H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 11 64-bit, 22H2) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 22H2) | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z1 Entry Tower G6 | `870b,870c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z1 Entry Tower G6 | `870c,870b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G6 (Windows 10 64-bit, 20H2) | `870b,870c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G6 (Windows 10 64-bit, 21H1) | `870b,870c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G6 (Windows 10 64-bit, 21H2) | `870b,870c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G6 (Windows 10 64-bit, 22H2) | `870c,870b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z1 G8 Tower Desktop PC | `889c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z1 Entry Tower G6 | `870b,870c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z1 Entry Tower G6 | `870c,870b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G8 Tower Desktop PC (Windows 10 64-bit, 20H2) | `889c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G8 Tower Desktop PC (Windows 10 64-bit, 21H1) | `889c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G8 Tower Desktop PC (Windows 10 64-bit, 21H2) | `889c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 G8 Tower Desktop PC (Windows 10 64-bit, 22H2) | `889c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 G8 Tower Workstation Desktop PC | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z1 G8 Tower Desktop PC | `889c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 G8 Tower Workstation Desktop PC (Windows 10 64-bit, 2004) | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 G8 Tower Workstation Desktop PC (Windows 10 64-bit, 20H2) | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 G8 Tower Workstation Desktop PC (Windows 10 64-bit, 21H1) | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4839,10 +4973,9 @@
 | HP | HP | HP Z2 G8 Tower Workstation Desktop PC (Windows 10 64-bit, 22H2) | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 G8 Tower Workstation Desktop PC (Windows 11 64-bit, 21H2) | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 G8 Tower Workstation Desktop PC (Windows 11 64-bit, 22H2) | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 G8 Tower Workstation Desktop PC | `88BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G3 Workstation (Windows 10 64-bit, 22H2) | `82bf,82c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G4 Workstation (Windows 10 64-bit, 22H2) | `8457,8458` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G5 Workstation | `8754,8755` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G5 Workstation | `8755,8754` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G5 Workstation (Windows 10 64-bit, 2004) | `8755,8754` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G5 Workstation (Windows 10 64-bit, 20H2) | `8755,8754` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G5 Workstation (Windows 10 64-bit, 21H1) | `8755,8754` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4850,9 +4983,9 @@
 | HP | HP | HP Z2 Mini G5 Workstation (Windows 10 64-bit, 22H2) | `8755,8754` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G5 Workstation (Windows 11 64-bit, 21H2) | `8755,8754` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G5 Workstation (Windows 11 64-bit, 22H2) | `8754,8755` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G5 Workstation | `8754,8755` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G5 Workstation | `8755,8754` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G4 Workstation (Windows 10 64-bit, 22H2) | `8456` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Small Form Factor G5 Workstation | `8752,8753` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Small Form Factor G5 Workstation | `8753,8752` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G5 Workstation (Windows 10 64-bit, 2004) | `8753,8752` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G5 Workstation (Windows 10 64-bit, 20H2) | `8753,8752` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G5 Workstation (Windows 10 64-bit, 21H1) | `8753,8752` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4860,7 +4993,8 @@
 | HP | HP | HP Z2 Small Form Factor G5 Workstation (Windows 10 64-bit, 22H2) | `8752,8753` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G5 Workstation (Windows 11 64-bit, 21H2) | `8753,8752` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G5 Workstation (Windows 11 64-bit, 22H2) | `8753,8752` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Small Form Factor G8 Workstation | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Small Form Factor G5 Workstation | `8752,8753` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Small Form Factor G5 Workstation | `8753,8752` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G8 Workstation (Windows 10 64-bit, 2004) | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G8 Workstation (Windows 10 64-bit, 20H2) | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G8 Workstation (Windows 10 64-bit, 21H1) | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4868,9 +5002,8 @@
 | HP | HP | HP Z2 Small Form Factor G8 Workstation (Windows 10 64-bit, 22H2) | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G8 Workstation (Windows 11 64-bit, 21H2) | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Small Form Factor G8 Workstation (Windows 11 64-bit, 22H2) | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Small Form Factor G8 Workstation | `88BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G4 Workstation (Windows 10 64-bit, 22H2) | `8455` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Tower G5 Workstation | `8750,8751` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Tower G5 Workstation | `8751,8750` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G5 Workstation (Windows 10 64-bit, 2004) | `8751,8750` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G5 Workstation (Windows 10 64-bit, 20H2) | `8751,8750` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G5 Workstation (Windows 10 64-bit, 21H1) | `8751,8750` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4878,149 +5011,151 @@
 | HP | HP | HP Z2 Tower G5 Workstation (Windows 10 64-bit, 22H2) | `8750,8751` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G5 Workstation (Windows 11 64-bit, 21H2) | `8751,8750` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Tower G5 Workstation (Windows 11 64-bit, 22H2) | `8751,8750` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Tower G5 Workstation | `8750,8751` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Tower G5 Workstation | `8751,8750` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z440 Workstation (Windows 10 64-bit, 22H2) | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z640 Workstation (Windows 10 64-bit, 22H2) | `212a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z840 Workstation (Windows 10 64-bit, 22H2) | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 14 G3 Notebook PC | `86a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G3 Notebook PC (Windows 10 64-bit, 22H2) | `86a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G3 Notebook PC (Windows 11 64-bit, 21H2) | `86a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC | `87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 14 G3 Notebook PC | `86a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC (Windows 10 64-bit, 21H1) | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC (Windows 10 64-bit, 21H2) | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC (Windows 10 64-bit, 22H2) | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC (Windows 11 64-bit, 21H2) | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC (Windows 11 64-bit, 22H2) | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 15 G3 Notebook PC | `86a8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC | `87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 15 G3 Notebook PC (Windows 10 64-bit, 22H2) | `86a8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 15 G3 Notebook PC (Windows 11 64-bit, 21H2) | `86a8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro A 14 G3 Notebook PC | `876b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 15 G3 Notebook PC | `86a8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G3 Notebook PC (Windows 10 64-bit, 2004) | `876b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G3 Notebook PC (Windows 10 64-bit, 20H2) | `876b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G3 Notebook PC (Windows 10 64-bit, 21H1) | `876b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G3 Notebook PC (Windows 10 64-bit, 21H2) | `876b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G3 Notebook PC (Windows 11 64-bit, 21H2) | `876b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G3 Notebook PC (Windows 11 64-bit, 22H2) | `876b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC | `8A92,8867` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro A 14 G3 Notebook PC | `876b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC (Windows 10 64-bit, 20H2) | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC (Windows 10 64-bit, 21H1) | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC (Windows 10 64-bit, 21H2) | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC (Windows 10 64-bit, 22H2) | `8A92,8867` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 430 G7 Notebook PC | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC | `8A92,8867` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G7 Notebook PC (Windows 10 64-bit, 22H2) | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G7 Notebook PC (Windows 11 64-bit, 21H2) | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 430 G7 Notebook PC | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 11 64-bit, 22H2) | `87DF,8A73,8A83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G7 Notebook PC | `869d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G7 Notebook PC (Windows 10 64-bit, 22H2) | `869d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G7 Notebook PC (Windows 11 64-bit, 21H2) | `869d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G8 Notebook PC | `8A84,8A76,8A86,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G8 Notebook PC | `8A76,8A86,8A84,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G8 Notebook PC | `87E0,8807,8A84,8A76,8A...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G8 Notebook PC | `8A86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G8 Notebook PC | `8A74` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G8 Notebook PC | `8807` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G7 Notebook PC | `869d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8A76,8A86,8A84,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8A76,8A86,8A84,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8A84,8A76,8A86,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8A84,8A76,8A86,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G8 Notebook PC (Windows 11 64-bit, 22H2) | `87E0,8807,8A84,8A76,8A...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445 G7 Notebook PC | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G8 Notebook PC | `87E0,8807,8A84,8A76,8A...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G8 Notebook PC | `8807` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G8 Notebook PC | `8A74` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G8 Notebook PC | `8A76,8A86,8A84,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G8 Notebook PC | `8A84,8A76,8A86,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G8 Notebook PC | `8A86` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G7 Notebook PC (Windows 10 64-bit, 2004) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G7 Notebook PC (Windows 10 64-bit, 21H2) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G7 Notebook PC (Windows 11 64-bit, 22H2) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445 G8 Notebook PC | `8A8E,8861` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445 G8 Notebook PC | `8861,8A8E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445 G7 Notebook PC | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8A8E,8861` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8A8E,8861` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8A8E,8861` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8861,8A8E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445 G8 Notebook PC | `8861,8A8E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445 G8 Notebook PC | `8A8E,8861` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G7 Notebook PC (Windows 10 64-bit, 22H2) | `86a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 G8 Notebook PC | `8A85,8A77,8A75,8808,87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 G8 Notebook PC | `8808,87E1,8A77,8A85,8A75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 G8 Notebook PC | `8A77` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 G8 Notebook PC | `8A75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 G8 Notebook PC | `87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8A85,8A77,8A75,8808,87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8A85,8A77,8A75,8808,87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8A85,8A77,8A75,8808,87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8808,87E1,8A85,8A75,8A77` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G8 Notebook PC (Windows 11 64-bit, 22H2) | `8808,87E1,8A77,8A85,8A75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 455 G7 Notebook PC | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 G8 Notebook PC | `87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 G8 Notebook PC | `8808,87E1,8A77,8A85,8A75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 G8 Notebook PC | `8A75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 G8 Notebook PC | `8A77` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 G8 Notebook PC | `8A85,8A77,8A75,8808,87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G7 Notebook PC (Windows 10 64-bit, 2004) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G7 Notebook PC (Windows 10 64-bit, 21H2) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G7 Notebook PC (Windows 11 64-bit, 22H2) | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 455 G8 Notebook PC | `8A90,8864` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 455 G8 Notebook PC | `8864,8A90` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 455 G7 Notebook PC | `8730` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8A90,8864` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8A90,8864` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8A90,8864` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G8 Notebook PC (Windows 10 64-bit, 22H2) | `8864,8A90` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 455 G8 Notebook PC | `8864,8A90` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 455 G8 Notebook PC | `8A90,8864` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 11 64-bit, 21H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 11 64-bit, 22H2) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 635 Aero G7 Notebook PC | `8830` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G7 Notebook PC (Windows 10 64-bit, 2004) | `8830` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G7 Notebook PC (Windows 10 64-bit, 20H2) | `8830` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G7 Notebook PC (Windows 10 64-bit, 21H1) | `8830` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G7 Notebook PC (Windows 10 64-bit, 21H2) | `8830` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 640 G7 Notebook PC | `882c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 635 Aero G7 Notebook PC | `8830` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G7 Notebook PC (Windows 10 64-bit, 22H2) | `882c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G7 Notebook PC (Windows 11 64-bit, 21H2) | `882c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 640 G7 Notebook PC | `882c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 11 64-bit, 21H2) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 11 64-bit, 22H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 650 G7 Notebook PC | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G7 Notebook PC (Windows 10 64-bit, 22H2) | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G7 Notebook PC (Windows 11 64-bit, 21H2) | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 650 G7 Notebook PC | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 11 64-bit, 21H2) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 11 64-bit, 22H2) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G5 EE Notebook PC (Windows 10 64-bit, 20H2) | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G5 EE Notebook PC (Windows 10 64-bit, 21H1) | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G5 EE Notebook PC (Windows 10 64-bit, 21H2) | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G5 EE Notebook PC (Windows 10 64-bit, 22H2) | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook x360 11 G6 EE Notebook PC | `86d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G6 EE Notebook PC (Windows 10 64-bit, 22H2) | `86d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G6 EE Notebook PC (Windows 11 64-bit, 21H2) | `86d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G6 EE Notebook PC (Windows 11 64-bit, 22H2) | `86d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook x360 11 G7 Education Edition | `887d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook x360 11 G6 EE Notebook PC | `86d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G7 Education Edition (Windows 10 64-bit, 20H2) | `887d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G7 Education Edition (Windows 10 64-bit, 21H1) | `887d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G7 Education Edition (Windows 10 64-bit, 21H2) | `887d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G7 Education Edition (Windows 10 64-bit, 22H2) | `887d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook x360 435 G7 Notebook PC | `8735` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook x360 11 G7 Education Edition | `887d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G7 Notebook PC (Windows 10 64-bit, 22H2) | `8735` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G7 Notebook PC (Windows 11 64-bit, 21H2) | `8735` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook x360 435 G7 Notebook PC | `8735` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 405 G6 Desktop Mini PC | `8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 405 G6 Small Form Factor PC | `872D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 405 G8 Desktop Mini PC | `8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Zbook | HP ZBook Create G7 Notebook PC | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Create G7 Notebook PC (Windows 10 64-bit, 22H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Create G7 Notebook PC (Windows 11 64-bit, 21H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 G7 Mobile Workstation | `8723,8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 14 G7 Mobile Workstation | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Create G7 Notebook PC | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 G7 Mobile Workstation (Windows 10 64-bit, 22H2) | `8723,8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 G7 Mobile Workstation (Windows 11 64-bit, 21H2) | `8723,8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 G7 Mobile Workstation | `8723,8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 14 G7 Mobile Workstation | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G8 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8ab3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Firefly 15 G7 Mobile Workstation | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15 G7 Mobile Workstation (Windows 10 64-bit, 22H2) | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15 G7 Mobile Workstation (Windows 11 64-bit, 21H2) | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Firefly 15 G7 Mobile Workstation | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 15 G7 Mobile Workstation | `8783` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15 G7 Mobile Workstation (Windows 10 64-bit, 22H2) | `8783` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15 G7 Mobile Workstation (Windows 11 64-bit, 21H2) | `8783` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 15 G7 Mobile Workstation | `8783` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8870` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Fury 17 G7 Mobile Workstation | `8780` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17 G7 Mobile Workstation (Windows 10 64-bit, 22H2) | `8780` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17 G7 Mobile Workstation (Windows 11 64-bit, 21H2) | `8780` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Fury 17 G7 Mobile Workstation | `8780` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Fury 17.3 inch G8 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `886D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -5029,21 +5164,21 @@
 | HP | Zbook | HP ZBook Power 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `888d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power 15.6 inch G9 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `89c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Power G7 Mobile Workstation | `87EC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power G7 Mobile Workstation (Windows 10 64-bit, 2004) | `87EC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power G7 Mobile Workstation (Windows 10 64-bit, 20H2) | `87EC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power G7 Mobile Workstation (Windows 10 64-bit, 21H1) | `87EC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power G7 Mobile Workstation (Windows 10 64-bit, 21H2) | `87EC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Power G7 Mobile Workstation (Windows 11 64-bit, 21H2) | `87EC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Power G7 Mobile Workstation | `87EC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Studio G7 Mobile Workstation | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation (Windows 10 64-bit, 22H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation (Windows 11 64-bit, 21H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Lenovo | Other | ThinkCentre M70A | `11E2,11E3,11CL,11CK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Zbook | HP ZBook Studio G7 Mobile Workstation | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | Other | ThinkCentre M70A Gen 2 | `11K6,11K3,11K4,11K5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkCentre M70A | `11E2,11E3,11CL,11CK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90A | `11E0,11CE,11DY,11CD,11JX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M920Z | `10S6,10S7,10Y5,10Y6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L380 Type 20M5 20M6 | `20M5,20M6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5085,16 +5220,71 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SE) | `20SE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SF) | `20SF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator M16 A12U / B13V (2022-2024 Creadores Accesible) | `CreatorM16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator M16 A12UC |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 A12UD |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16 A12UET |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16P A12UGST Vapor Chamber (2022) | `CreatorZ16P` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator Z16P B12UGST Vapor Chamber |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16P B12UHST |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z17 A12UGST (2022 Lapiz Stylus MSI Pen) | `CreatorZ17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator Z17 A12UHST |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Crosshair | MSI Crosshair 15 B12UGZ |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 15 Rainbow Six Extraction Edition |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 17 B12UGZ |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 12UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 12UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 12UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 12UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 12UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 12UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Modern | MSI Modern 14 C11M / C12M / C7M (2022-2024) | `Modern14_2022` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 C12M |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 B12M / B13M / B7M (2022-2024) | `Modern15_2022` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A12UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 Evo A12M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A12UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 A12UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 Evo A12M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Pulse | MSI Pulse GL66 12UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL66 12UGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL76 12UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL76 12UGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Raider | MSI Raider GE66 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE66 12UHS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE67 HX 12UGS OLED |  | ✅  | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE67 HX 12UHS OLED |  | ✅  | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE67 HX OLED 240Hz (2022) | `GE67HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color, keyboard_rgb |
+| MSI | Raider | MSI Raider GE76 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE76 12UHS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS66 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS66 12UHS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS77 (2022 Bisagra Reforzada) | `GS77` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI Stealth GS77 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS77 12UHS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Summit | MSI Summit E13 Flip Evo A12MT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E14 A12M |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E14 Flip Evo A12MT / A13M (2022-2024) | `SummitE14Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E16 Flip A12UCT |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 15 A12UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A12UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A12UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A12UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Thin | MSI Thin GF63 12UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan GT77 12UGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT77 12UHS / 13VI (2022-2023 Mini-LED 144Hz Cherry MX) | `GT77` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color, keyboard_rgb |
-
-## 📅 Generación 2021 (1144 modelos)
+| MSI | Vector | MSI Vector GP66 12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP66 12UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP66 12UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP76 12UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP76 12UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Vector | MSI Vector GP76 12UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2021 (1219 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -5125,19 +5315,19 @@
 | ASUS | Zenbook | ASUS Zenbook Duo 14 (2021-2023 ScreenPad Plus Basculante) | `UX482` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | ASUS Zenbook Pro Duo 15 OLED (2021-2022) | `UX582` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | Dell | Latitude | Latitude 3390 2-in-1 | `0878` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 3490 | `0848` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3490 | `0839` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 3590 | `0849` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3490 | `0848` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3590 | `083A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3590 | `0849` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5420 | `0879` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5491 | `0818` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5591 | `0819` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7280 | `079F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7290 | `081A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Optiplex | OptiPlex 7760 AIO | `084D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 7760 AIO | `084A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Precision | Precision 3430 | `0861` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Optiplex | OptiPlex 7760 AIO | `084D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Precision | Precision 3430 | `0860` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 3430 | `0861` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 7530 | `0831` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS 15 9570 | `087C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9570 | `087C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -5147,39 +5337,39 @@
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 20H2) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 21H1) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 21H2) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Elitebook | HP EliteBook 1050 G1 Notebook PC | `84e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1050 G1 Notebook PC (Windows 10 64-bit, 2004) | `84e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1050 G1 Notebook PC (Windows 10 64-bit, 20H2) | `84e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1050 G1 Notebook PC (Windows 10 64-bit, 21H1) | `84e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 735 G5 Notebook PC | `83da` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 1050 G1 Notebook PC | `84e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G5 Notebook PC (Windows 10 64-bit, 2004) | `83da` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G5 Notebook PC (Windows 10 64-bit, 20H2) | `83da` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G5 Notebook PC (Windows 10 64-bit, 21H1) | `83da` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 735 G6 Notebook PC | `8589` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 735 G5 Notebook PC | `83da` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G6 Notebook PC (Windows 10 64-bit, 2004) | `8589` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G6 Notebook PC (Windows 10 64-bit, 20H2) | `8589` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G6 Notebook PC (Windows 10 64-bit, 21H1) | `8589` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 745 G5 Notebook PC | `83d5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 735 G6 Notebook PC | `8589` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G5 Notebook PC (Windows 10 64-bit, 2004) | `83d5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G5 Notebook PC (Windows 10 64-bit, 20H2) | `83d5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G5 Notebook PC (Windows 10 64-bit, 21H1) | `83d5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 745 G6 Notebook PC | `8584` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 745 G5 Notebook PC | `83d5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G6 Notebook PC (Windows 10 64-bit, 2004) | `8584` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G6 Notebook PC (Windows 10 64-bit, 20H2) | `8584` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G6 Notebook PC (Windows 10 64-bit, 21H1) | `8584` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 755 G5 Notebook PC | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 745 G6 Notebook PC | `8584` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 2004) | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 20H2) | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 21H1) | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 755 G5 Notebook PC | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 820 G4 Notebook PC (Windows 10 64-bit, 21H1) | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 820 G4 Notebook PC (Windows 10 64-bit, 21H2) | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 830 G5 Notebook PC | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G5 Notebook PC (Windows 10 64-bit, 2004) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G5 Notebook PC (Windows 10 64-bit, 20H2) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G5 Notebook PC (Windows 10 64-bit, 21H1) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 830 G6 Notebook PC | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 G5 Notebook PC | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G6 Notebook PC (Windows 10 64-bit, 2004) | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G6 Notebook PC (Windows 10 64-bit, 21H1) | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 830 G6 Notebook PC | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G7 Notebook PC (Windows 10 64-bit, 2004) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5189,65 +5379,65 @@
 | HP | Elitebook | HP EliteBook 830 G8 Notebook PC (Windows 10 64-bit, 2004) | `8AB8,8AB3,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G8 Notebook PC (Windows 10 64-bit, 1909) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 835 G8 Notebook PC (Windows 10 64-bit, 2004) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 836 G5 Notebook PC | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 836 G5 Notebook PC (Windows 10 64-bit, 2004) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 836 G5 Notebook PC (Windows 10 64-bit, 20H2) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 836 G5 Notebook PC (Windows 10 64-bit, 21H1) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 836 G6 Notebook PC | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 836 G5 Notebook PC | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 836 G6 Notebook PC (Windows 10 64-bit, 2004) | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 836 G6 Notebook PC (Windows 10 64-bit, 21H1) | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 836 G6 Notebook PC | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 10 64-bit, 1903) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 10 64-bit, 1909) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 Aero G8 Notebook PC (Windows 10 64-bit, 2004) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G4 Notebook PC (Windows 10 64-bit, 21H1) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G4 Notebook PC (Windows 10 64-bit, 21H2) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G5 Healthcare Edition Notebook PC | `845d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G5 Healthcare Edition Notebook PC (Windows 10 64-bit, 2004) | `845d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G5 Healthcare Edition Notebook PC (Windows 10 64-bit, 20H2) | `845d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G5 Healthcare Edition Notebook PC (Windows 10 64-bit, 21H1) | `845d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G5 Notebook PC | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G5 Healthcare Edition Notebook PC | `845d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G5 Notebook PC (Windows 10 64-bit, 2004) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G5 Notebook PC (Windows 10 64-bit, 20H2) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G5 Notebook PC (Windows 10 64-bit, 21H1) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G6 Healthcare Edition Notebook PC | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G5 Notebook PC | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G6 Healthcare Edition Notebook PC (Windows 10 64-bit, 2004) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G6 Healthcare Edition Notebook PC (Windows 10 64-bit, 20H2) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G6 Healthcare Edition Notebook PC (Windows 10 64-bit, 21H1) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G6 Notebook PC | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G6 Healthcare Edition Notebook PC | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G6 Notebook PC (Windows 10 64-bit, 2004) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G6 Notebook PC (Windows 10 64-bit, 20H2) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G6 Notebook PC (Windows 10 64-bit, 21H1) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G6 Notebook PC | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G7 Notebook PC (Windows 10 64-bit, 2004) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G7 Notebook PC (Windows 10 64-bit, 21H2) | `8723` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 10 64-bit, 1909) | `8AB3,8AB8,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G8 Notebook PC (Windows 10 64-bit, 2004) | `8AB3,8AB8,880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840r G4 Notebook PC | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840r G4 Notebook PC (Windows 10 64-bit, 2004) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840r G4 Notebook PC (Windows 10 64-bit, 20H2) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840r G4 Notebook PC (Windows 10 64-bit, 21H1) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840r G4 Notebook PC | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G8 Notebook PC (Windows 10 64-bit, 1909) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 845 G8 Notebook PC (Windows 10 64-bit, 2004) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 846 G5 Notebook PC | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 846 G5 Notebook PC (Windows 10 64-bit, 2004) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 846 G5 Notebook PC (Windows 10 64-bit, 20H2) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 846 G5 Notebook PC (Windows 10 64-bit, 21H1) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 846r G4 Notebook PC | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 846 G5 Notebook PC | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 846r G4 Notebook PC (Windows 10 64-bit, 2004) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 846r G4 Notebook PC (Windows 10 64-bit, 20H2) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 846r G4 Notebook PC (Windows 10 64-bit, 21H1) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 846r G4 Notebook PC | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 848 G4 Notebook PC (Windows 10 64-bit, 21H1) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 848 G4 Notebook PC (Windows 10 64-bit, 21H2) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G4 Notebook PC (Windows 10 64-bit, 21H1) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 850 G5 Notebook PC | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G5 Notebook PC (Windows 10 64-bit, 2004) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G5 Notebook PC (Windows 10 64-bit, 20H2) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G5 Notebook PC (Windows 10 64-bit, 21H1) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 850 G6 Notebook PC | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 850 G5 Notebook PC | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G6 Notebook PC (Windows 10 64-bit, 2004) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G6 Notebook PC (Windows 10 64-bit, 20H2) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G6 Notebook PC (Windows 10 64-bit, 21H1) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 850 G6 Notebook PC | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G7 Notebook PC (Windows 10 64-bit, 2004) | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8724` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5257,40 +5447,40 @@
 | HP | Elitebook | HP EliteBook 850 G8 Notebook PC (Windows 10 64-bit, 2004) | `8846` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G8 Notebook PC (Windows 10 64-bit, 1909) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 855 G8 Notebook PC (Windows 10 64-bit, 2004) | `8895` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 1030 G3 Notebook PC | `8438` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G3 Notebook PC (Windows 10 64-bit, 2004) | `8438` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G3 Notebook PC (Windows 10 64-bit, 20H2) | `8438` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G3 Notebook PC (Windows 10 64-bit, 21H1) | `8438` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 1030 G4 Notebook PC | `8637` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 1030 G3 Notebook PC | `8438` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G4 Notebook PC (Windows 10 64-bit, 2004) | `8637` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G4 Notebook PC (Windows 10 64-bit, 20H2) | `8637` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G4 Notebook PC (Windows 10 64-bit, 21H1) | `8637` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 1030 G4 Notebook PC | `8637` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G7 Notebook PC (Windows 10 64-bit, 2004) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G7 Notebook PC (Windows 10 64-bit, 20H2) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G7 Notebook PC (Windows 10 64-bit, 21H1) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G7 Notebook PC (Windows 10 64-bit, 21H2) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1030 G8 Notebook PC (Windows 10 64-bit, 2004) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 1040 G5 Notebook PC | `8470` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G5 Notebook PC (Windows 10 64-bit, 2004) | `8470` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G5 Notebook PC (Windows 10 64-bit, 20H2) | `8470` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G5 Notebook PC (Windows 10 64-bit, 21H1) | `8470` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 1040 G6 Notebook PC | `857F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 1040 G5 Notebook PC | `8470` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G6 Notebook PC (Windows 10 64-bit, 2004) | `857F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G6 Notebook PC (Windows 10 64-bit, 20H2) | `857F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G6 Notebook PC (Windows 10 64-bit, 21H1) | `857F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 1040 G6 Notebook PC | `857F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G7 Notebook PC (Windows 10 64-bit, 2004) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G7 Notebook PC (Windows 10 64-bit, 20H2) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G7 Notebook PC (Windows 10 64-bit, 21H1) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G7 Notebook PC (Windows 10 64-bit, 21H2) | `876d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 1040 G8 Notebook PC (Windows 10 64-bit, 2004) | `8720` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 830 G5 Notebook PC | `853d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G5 Notebook PC (Windows 10 64-bit, 2004) | `853d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G5 Notebook PC (Windows 10 64-bit, 20H2) | `853d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G5 Notebook PC (Windows 10 64-bit, 21H1) | `853d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook x360 830 G6 Notebook PC | `8548` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 830 G5 Notebook PC | `853d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G6 Notebook PC (Windows 10 64-bit, 2004) | `8548` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G6 Notebook PC (Windows 10 64-bit, 20H2) | `8548` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G6 Notebook PC (Windows 10 64-bit, 21H1) | `8548` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook x360 830 G6 Notebook PC | `8548` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G7 Notebook PC (Windows 10 64-bit, 2004) | `8725` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G7 Notebook PC (Windows 10 64-bit, 20H2) | `8725` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook x360 830 G7 Notebook PC (Windows 10 64-bit, 21H1) | `8725` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5301,12 +5491,12 @@
 | HP | Elitedesk | HP EliteDesk 705 65W G4 Desktop Mini PC | `83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 705 G4 Microtower PC | `8460` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 705 G5 Small Form Factor PC | `8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitedesk | HP EliteDesk 800 35W G4 Desktop Mini PC | `845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 35W G4 Desktop Mini PC | `8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitedesk | HP EliteDesk 800 35W G4 Desktop Mini PC | `845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 65W G4 Desktop Mini PC | `8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 65W G4 Desktop Mini PC | `845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitedesk | HP EliteDesk 800 95W G4 Desktop Mini PC | `8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 95W G4 Desktop Mini PC | `83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitedesk | HP EliteDesk 800 95W G4 Desktop Mini PC | `8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 G5 Desktop Mini PC | `8594` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 800 G5 Desktop Mini PC | `8595` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitedesk | HP EliteDesk 880 G5 Tower PC | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5316,131 +5506,131 @@
 | HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 1809) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 1909) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Collaboration G6 27 All-in-One with Zoom Rooms (Windows 10 64-bit, 2004) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice | `81c3,8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice (Windows 10 64-bit, 2004) | `81c3,8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice (Windows 10 64-bit, 20H2) | `81c3,8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice (Windows 10 64-bit, 21H1) | `81c3,8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice (Windows 10 64-bit, 21H2) | `81c3,8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice G2 - Audio Ready with Zoom Rooms | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Audio Ready with Zoom Rooms (Windows 10 64-bit, 1909) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Audio Ready with Zoom Rooms (Windows 10 64-bit, 2004) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Audio Ready with Zoom Rooms (Windows 10 64-bit, 20H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Audio Ready with Zoom Rooms (Windows 10 64-bit, 21H1) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Audio Ready with Zoom Rooms (Windows 10 64-bit, 21H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice G2 - Audio Ready with Zoom Rooms | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms (Windows 10 64-bit, 1909) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms (Windows 10 64-bit, 2004) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms (Windows 10 64-bit, 20H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms (Windows 10 64-bit, 21H1) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms (Windows 10 64-bit, 21H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice G2 with Intel Unite | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice G2 - Partner Ready with Microsoft Teams Rooms | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Intel Unite (Windows 10 64-bit, 1909) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Intel Unite (Windows 10 64-bit, 2004) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Intel Unite (Windows 10 64-bit, 20H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Intel Unite (Windows 10 64-bit, 21H1) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Intel Unite (Windows 10 64-bit, 21H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice G2 with Microsoft Teams Rooms | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice G2 with Intel Unite | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Microsoft Teams Rooms (Windows 10 64-bit, 1909) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Microsoft Teams Rooms (Windows 10 64-bit, 2004) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Microsoft Teams Rooms (Windows 10 64-bit, 20H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Microsoft Teams Rooms (Windows 10 64-bit, 21H1) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Microsoft Teams Rooms (Windows 10 64-bit, 21H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice G2 with Zoom Rooms | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice G2 with Microsoft Teams Rooms | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Zoom Rooms (Windows 10 64-bit, 1909) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Zoom Rooms (Windows 10 64-bit, 2004) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Zoom Rooms (Windows 10 64-bit, 20H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Zoom Rooms (Windows 10 64-bit, 21H1) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice G2 with Zoom Rooms (Windows 10 64-bit, 21H2) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice for Meeting Rooms | `8396,81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite Slice for Meeting Rooms | `81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice G2 with Zoom Rooms | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice for Meeting Rooms (Windows 10 64-bit, 2004) | `8396,81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice for Meeting Rooms (Windows 10 64-bit, 20H2) | `8396,81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice for Meeting Rooms (Windows 10 64-bit, 21H1) | `8396,81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice for Meeting Rooms (Windows 10 64-bit, 21H2) | `8396,81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x2 1013 G3 Tablet | `8414` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice for Meeting Rooms | `81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice for Meeting Rooms | `8396,81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice | `81c3,8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite Slice | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 1013 G3 Tablet (Windows 10 64-bit, 2004) | `8414` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 1013 G3 Tablet (Windows 10 64-bit, 20H2) | `8414` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 1013 G3 Tablet (Windows 10 64-bit, 21H1) | `8414` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Elite x2 G4 Tablet with Keyboard | `85b9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x2 1013 G3 Tablet | `8414` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 G4 Tablet with Keyboard (Windows 10 64-bit, 2004) | `85b9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 G4 Tablet with Keyboard (Windows 10 64-bit, 20H2) | `85b9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 G4 Tablet with Keyboard (Windows 10 64-bit, 21H1) | `85b9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Elite x2 G4 Tablet with Keyboard | `85b9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 G8 Tablet (Windows 10 64-bit, 1909) | `870D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 G8 Tablet (Windows 10 64-bit, 2004) | `870D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `8464,83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8464,83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 21H1) | `8464,83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 21H2) | `8464,83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC | `8464,83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC (Windows 10 64-bit, 21H1) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC (Windows 10 64-bit, 21H2) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G4 Microtower PC | `83e7,8461,8460` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G4 Microtower PC | `8461,8460,83e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC | `8464,83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Microtower PC (Windows 10 64-bit, 2004) | `83e7,8461,8460` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Microtower PC (Windows 10 64-bit, 20H2) | `83e7,8461,8460` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Microtower PC (Windows 10 64-bit, 21H1) | `8461,8460,83e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Microtower PC (Windows 10 64-bit, 21H2) | `8461,8460,83e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G4 Small Form Factor PC | `8462,8463,83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G4 Small Form Factor PC | `8463,8462,83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G4 Small Form Factor PC | `83e8,8462,8463` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G4 Microtower PC | `83e7,8461,8460` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G4 Microtower PC | `8461,8460,83e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Small Form Factor PC (Windows 10 64-bit, 2004) | `8463,8462,83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8462,8463,83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Small Form Factor PC (Windows 10 64-bit, 21H1) | `83e8,8463,8462` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Small Form Factor PC (Windows 10 64-bit, 21H2) | `83e8,8462,8463` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G5 Desktop Mini PC | `8619` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G4 Small Form Factor PC | `83e8,8462,8463` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G4 Small Form Factor PC | `8462,8463,83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G4 Small Form Factor PC | `8463,8462,83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Desktop Mini PC (Windows 10 64-bit, 2004) | `8619` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8619` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Desktop Mini PC (Windows 10 64-bit, 21H1) | `8619` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Desktop Mini PC (Windows 10 64-bit, 21H2) | `8619` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G5 Small Form Factor PC | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G5 Desktop Mini PC | `8619` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Small Form Factor PC (Windows 10 64-bit, 2004) | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Small Form Factor PC (Windows 10 64-bit, 21H1) | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Small Form Factor PC (Windows 10 64-bit, 21H2) | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 35W G4 Desktop Mini PC | `83e2,845a,8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G5 Small Form Factor PC | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `83e2,845a,8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `83e2,845a,8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G4 Desktop Mini PC (Windows 10 64-bit, 21H1) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G4 Desktop Mini PC (Windows 10 64-bit, 21H2) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 35W G4 Desktop Mini PC | `83e2,845a,8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC (Windows 10 64-bit, 21H1) | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC (Windows 10 64-bit, 21H2) | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 21H1) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 21H2) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G4 Small Form Factor PC | `83e1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Small Form Factor PC (Windows 10 64-bit, 2004) | `83e1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Small Form Factor PC (Windows 10 64-bit, 20H2) | `83e1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Small Form Factor PC (Windows 10 64-bit, 21H1) | `83e1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Small Form Factor PC (Windows 10 64-bit, 21H2) | `83e1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G4 Tower PC | `83e0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G4 Small Form Factor PC | `83e1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Tower PC (Windows 10 64-bit, 2004) | `83e0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Tower PC (Windows 10 64-bit, 20H2) | `83e0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Tower PC (Windows 10 64-bit, 21H1) | `83e0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Tower PC (Windows 10 64-bit, 21H2) | `83e0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G5 Desktop Mini PC | `8593,8595,8594` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G4 Tower PC | `83e0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Desktop Mini PC (Windows 10 64-bit, 2004) | `8593,8594,8595` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8593,8595,8594` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Desktop Mini PC (Windows 10 64-bit, 21H1) | `8593,8594,8595` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Desktop Mini PC (Windows 10 64-bit, 21H2) | `8593,8595,8594` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G5 Small Form Factor PC | `8592` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G5 Desktop Mini PC | `8593,8595,8594` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Small Form Factor PC (Windows 10 64-bit, 2004) | `8592` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8592` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Small Form Factor PC (Windows 10 64-bit, 21H1) | `8592` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Small Form Factor PC (Windows 10 64-bit, 21H2) | `8592` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G5 Tower PC | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G5 Small Form Factor PC | `8592` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Tower PC (Windows 10 64-bit, 2004) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Tower PC (Windows 10 64-bit, 20H2) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Tower PC (Windows 10 64-bit, 21H1) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Tower PC (Windows 10 64-bit, 21H2) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G5 Tower PC | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Desktop Mini PC (Windows 10 64-bit, 2004) | `870f,8710,8711` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Small Form Factor PC (Windows 10 64-bit, 1809) | `870B,870C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G6 Small Form Factor PC (Windows 10 64-bit, 1909) | `870C,870B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5467,11 +5657,11 @@
 | HP | HP | HP EliteDesk 805 G8 Desktop Mini PC (Windows 10 64-bit, 2004) | `8881` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 10 64-bit, 1909) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 805 G8 Small Form Factor PC (Windows 10 64-bit, 2004) | `8883` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 880 G4 Tower PC | `83E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G4 Tower PC (Windows 10 64-bit, 2004) | `83E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G4 Tower PC (Windows 10 64-bit, 20H2) | `83E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G4 Tower PC (Windows 10 64-bit, 21H1) | `83E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G4 Tower PC (Windows 10 64-bit, 21H2) | `83E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 880 G4 Tower PC | `83E0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G5 Tower PC (Windows 10 64-bit, 2004) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G5 Tower PC (Windows 10 64-bit, 20H2) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G5 Tower PC (Windows 10 64-bit, 21H1) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5482,65 +5672,65 @@
 | HP | HP | HP EliteDesk 880 G8 Tower PC (Windows 10 64-bit, 1909) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G8 Tower PC (Windows 10 64-bit, 2004) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G8 Tower PC (Windows 11 64-bit, 21H2) | `889C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 1000 G2 23.8-in All-in-One Business PC | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 23.8-in All-in-One Business PC (Windows 10 64-bit, 2004) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 23.8-in All-in-One Business PC (Windows 10 64-bit, 20H2) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 23.8-in All-in-One Business PC (Windows 10 64-bit, 21H1) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 23.8-in All-in-One Business PC (Windows 10 64-bit, 21H2) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 1000 G2 23.8-in All-in-One Business PC | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC (Windows 10 64-bit, 2004) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC (Windows 10 64-bit, 20H2) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC (Windows 10 64-bit, 21H1) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC (Windows 10 64-bit, 21H2) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| HP | HP | HP EliteOne 1000 G2 23.8-in Touch All-in-One Business PC | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC (Windows 10 64-bit, 2004) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | HP | HP | HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC (Windows 10 64-bit, 20H2) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | HP | HP | HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC (Windows 10 64-bit, 21H1) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | HP | HP | HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC (Windows 10 64-bit, 21H2) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
-| HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 2004) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 20H2) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 21H1) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 21H2) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 2004) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 20H2) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 21H1) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 21H2) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC (Windows 10 64-bit, 2004) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC (Windows 10 64-bit, 20H2) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC (Windows 10 64-bit, 21H1) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC (Windows 10 64-bit, 21H2) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC (Windows 10 64-bit, 2004) | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC (Windows 10 64-bit, 20H2) | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC (Windows 10 64-bit, 21H1) | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC (Windows 10 64-bit, 21H2) | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G4 23.8-inch Touch All-in-One PC | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch GPU All-in-One PC | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Touch All-in-One PC (Windows 10 64-bit, 2004) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Touch All-in-One PC (Windows 10 64-bit, 20H2) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Touch All-in-One PC (Windows 10 64-bit, 21H1) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Touch All-in-One PC (Windows 10 64-bit, 21H2) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G4 23.8-inch Touch GPU All-in-One PC | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G4 23.8-inch Touch All-in-One PC | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Touch GPU All-in-One PC (Windows 10 64-bit, 2004) | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Touch GPU All-in-One PC (Windows 10 64-bit, 20H2) | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Touch GPU All-in-One PC (Windows 10 64-bit, 21H1) | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Touch GPU All-in-One PC (Windows 10 64-bit, 21H2) | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One | `859f,85a0,85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One | `85a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One | `85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G4 23.8-inch Touch GPU All-in-One PC | `83e3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One (Windows 10 64-bit, 2004) | `85eb,859f,85a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One (Windows 10 64-bit, 20H2) | `85a0,859f,85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One (Windows 10 64-bit, 21H1) | `85a0,859f,85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One (Windows 10 64-bit, 21H2) | `85a0,859f,85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One | `85eb,859f,85a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One | `85a0,859f,85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One | `859f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One | `859f,85a0,85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One | `85a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One | `85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One (Windows 10 64-bit, 2004) | `859f,85a0,85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One (Windows 10 64-bit, 20H2) | `85eb,859f,85a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One (Windows 10 64-bit, 21H1) | `85eb,859f,85a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One (Windows 10 64-bit, 21H2) | `85eb,85a0,859f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One | `859f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One | `85a0,859f,85eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One | `85eb,859f,85a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 10 64-bit, 1809) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 10 64-bit, 1909) | `874e,874d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G6 24 All-in-One PC (Windows 10 64-bit, 2004) | `874d,874e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5560,7 +5750,6 @@
 | HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8BC6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `888c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8a94` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Engage Go Mobile System | `846f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 1803) | `846f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 1809) | `846f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 1903) | `846f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5569,50 +5758,51 @@
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 20H2) | `846f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 21H1) | `846f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 21H2) | `846f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Go Mobile System | `846f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Essential All-in-One System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `890d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8d09` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Engage One Pro AIO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP MP9 G4 Retail System | `8A39,83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP MP9 G4 Retail System | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP MP9 G4 Retail System (Windows 10 64-bit, 20H2) | `8A39,83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G4 Desktop Mini PC | `83f3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP MP9 G4 Retail System | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP MP9 G4 Retail System | `8A39,83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `83f3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `83f3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 21H1) | `83f3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 21H2) | `83f3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G5 Desktop Mini PC | `859c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G4 Desktop Mini PC | `83f3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Desktop Mini PC (Windows 10 64-bit, 2004) | `859c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Desktop Mini PC (Windows 10 64-bit, 20H2) | `859c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Desktop Mini PC (Windows 10 64-bit, 21H1) | `859c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Desktop Mini PC (Windows 10 64-bit, 21H2) | `859c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G5 Small Form Factor PC | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G5 Desktop Mini PC | `859c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 2004) | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 20H2) | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 21H1) | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 21H2) | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G5 Small Form Factor PC | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Desktop Mini PC (Windows 10 64-bit, 2004) | `871a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G6 Microtower PC | `8599,859a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Microtower PC (Windows 10 64-bit, 2004) | `8599,859a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Microtower PC (Windows 10 64-bit, 20H2) | `8599,859a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G6 Small Form Factor PC | `859b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G6 Microtower PC | `8599,859a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Small Form Factor PC (Windows 10 64-bit, 2004) | `859b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G6 Small Form Factor PC (Windows 10 64-bit, 20H2) | `859b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G6 Small Form Factor PC | `859b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 10 64-bit, 1809) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 10 64-bit, 1909) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Microtower PC (Windows 10 64-bit, 2004) | `8717` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G7 Small Form Factor PC (Windows 10 64-bit, 2004) | `8719` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 405 G4 Desktop Mini PC | `8626` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `8626` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8626` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Desktop Mini PC (Windows 10 64-bit, 21H1) | `8626` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Desktop Mini PC (Windows 10 64-bit, 21H2) | `8626` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 405 G4 Small Form Factor PC | `83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 405 G4 Desktop Mini PC | `8626` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Small Form Factor PC (Windows 10 64-bit, 2004) | `83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Small Form Factor PC (Windows 10 64-bit, 20H2) | `83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Small Form Factor PC (Windows 10 64-bit, 21H1) | `83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Small Form Factor PC (Windows 10 64-bit, 21H2) | `83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 405 G4 Small Form Factor PC | `83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Desktop Mini PC (Windows 10 64-bit, 1909) | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Desktop Mini PC (Windows 10 64-bit, 2004) | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G6 Desktop Mini PC (Windows 11 64-bit, 21H2) | `872E,8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5624,61 +5814,60 @@
 | HP | HP | HP ProDesk 405 G8 Desktop Mini PC (Windows 10 64-bit, 2004) | `8882,8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 10 64-bit, 1909) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G8 Small Form Factor PC (Windows 10 64-bit, 2004) | `8884` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 480 G6 Microtower PC | `859a,8599` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G6 Microtower PC (Windows 10 64-bit, 2004) | `859a,8599` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G6 Microtower PC (Windows 10 64-bit, 20H2) | `8599,859a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 480 G6 Microtower PC | `859a,8599` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 10 64-bit, 1809) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 10 64-bit, 1909) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 10 64-bit, 2004) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G4 Desktop Mini PC | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Desktop Mini PC (Windows 10 64-bit, 21H1) | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Desktop Mini PC (Windows 10 64-bit, 21H2) | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G4 Microtower PC | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G4 Desktop Mini PC | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (Windows 10 64-bit, 2004) | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (Windows 10 64-bit, 20H2) | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (Windows 10 64-bit, 21H1) | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (Windows 10 64-bit, 21H2) | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G4 Microtower PC (with PCI slot) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 2004) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 20H2) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 21H1) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 21H2) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G4 Small Form Factor PC | `83ee` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G4 Microtower PC (with PCI slot) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G4 Microtower PC | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Small Form Factor PC (Windows 10 64-bit, 2004) | `83ee` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Small Form Factor PC (Windows 10 64-bit, 20H2) | `83ee` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Small Form Factor PC (Windows 10 64-bit, 21H1) | `83ee` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Small Form Factor PC (Windows 10 64-bit, 21H2) | `83ee` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G5 Desktop Mini PC | `8598` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G4 Small Form Factor PC | `83ee` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Desktop Mini PC (Windows 10 64-bit, 2004) | `8598` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8598` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Desktop Mini PC (Windows 10 64-bit, 21H1) | `8598` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Desktop Mini PC (Windows 10 64-bit, 21H2) | `8598` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G5 Microtower PC | `8596,861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G5 Desktop Mini PC | `8598` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Microtower PC (Windows 10 64-bit, 2004) | `8596,861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Microtower PC (Windows 10 64-bit, 20H2) | `8596,861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Microtower PC (Windows 10 64-bit, 21H1) | `8596,861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Microtower PC (Windows 10 64-bit, 21H2) | `8596,861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G5 Microtower PC (with PCI slot) | `861a,8596` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Microtower PC (with PCI slot) (Windows 10 64-bit, 2004) | `861a,8596` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Microtower PC (with PCI slot) (Windows 10 64-bit, 20H2) | `861a,8596` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Microtower PC (with PCI slot) (Windows 10 64-bit, 21H1) | `861a,8596` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Microtower PC (with PCI slot) (Windows 10 64-bit, 21H2) | `861a,8596` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G5 Small Form Factor PC | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G5 Microtower PC (with PCI slot) | `861a,8596` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G5 Microtower PC | `8596,861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Small Form Factor PC (Windows 10 64-bit, 2004) | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Small Form Factor PC (Windows 10 64-bit, 21H1) | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Small Form Factor PC (Windows 10 64-bit, 21H2) | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G5 Small Form Factor PC | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 10 64-bit, 2004) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 1809) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 1909) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 2004) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 1809) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 1909) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 2004) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 1809) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 1909) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 2004) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 10 64-bit, 2004) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 680 G4 Microtower PC | `8580` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G4 Microtower PC (Windows 10 64-bit, 20H2) | `8580` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G4 Microtower PC (Windows 10 64-bit, 21H1) | `8580` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G4 Microtower PC (Windows 10 64-bit, 21H2) | `8580` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5686,90 +5875,91 @@
 | HP | HP | HP ProDesk 680 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 20H2) | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 21H1) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 21H2) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 680 G4 Microtower PC | `8580` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 10 64-bit, 1809) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 10 64-bit, 1909) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 10 64-bit, 2004) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 2004) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 20H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 21H1) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 21H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 2004) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 20H2) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 21H1) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 21H2) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G5 20-inch All-in-One Business PC | `85A1,85A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G5 20-inch All-in-One Business PC | `85A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G5 20-inch All-in-One Business PC (Windows 10 64-bit, 2004) | `85A1,85A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G5 20-inch All-in-One Business PC (Windows 10 64-bit, 20H2) | `85A1,85A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G5 20-inch All-in-One Business PC (Windows 10 64-bit, 21H1) | `85A1,85A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G5 20-inch All-in-One Business PC (Windows 10 64-bit, 21H2) | `85A1,85A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G5 23.8-inch All-in-One Business PC | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G5 23.8-inch All-in-One Business PC | `85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G5 20-inch All-in-One Business PC | `85A1,85A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G5 20-inch All-in-One Business PC | `85A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G5 23.8-inch All-in-One Business PC (Windows 10 64-bit, 2004) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G5 23.8-inch All-in-One Business PC (Windows 10 64-bit, 20H2) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G5 23.8-inch All-in-One Business PC (Windows 10 64-bit, 21H1) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G5 23.8-inch All-in-One Business PC (Windows 10 64-bit, 21H2) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G5 23.8-inch All-in-One Business PC | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G5 23.8-inch All-in-One Business PC | `85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 10 64-bit, 1809) | `871B,871C,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 10 64-bit, 1909) | `871B,871C,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 20 All-in-One PC (Windows 10 64-bit, 2004) | `871C,871B,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 10 64-bit, 1809) | `8810,880F,871B,871C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 10 64-bit, 1909) | `8810,880F,871C,871B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G6 24 All-in-One PC (Windows 10 64-bit, 2004) | `880F,8810,871B,871C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 2004) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 20H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 21H1) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 21H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC | `85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC (Windows 10 64-bit, 2004) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC (Windows 10 64-bit, 20H2) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC (Windows 10 64-bit, 21H1) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC (Windows 10 64-bit, 21H2) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC | `85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 10 64-bit, 1809) | `871C,871B,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 10 64-bit, 1909) | `871B,871C,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 10 64-bit, 2004) | `871C,871B,8810,880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 2004) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 20H2) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 21H1) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 21H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC (Windows 10 64-bit, 2004) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC (Windows 10 64-bit, 20H2) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC (Windows 10 64-bit, 21H1) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC (Windows 10 64-bit, 21H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC | `85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC | `85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC (Windows 10 64-bit, 2004) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC (Windows 10 64-bit, 20H2) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC (Windows 10 64-bit, 21H1) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC (Windows 10 64-bit, 21H2) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC | `85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC | `85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 10 64-bit, 1809) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 10 64-bit, 1909) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G6 22 All-in-One PC (Windows 10 64-bit, 2004) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 64-bit, 20H2) | `8397,8139` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP RP9 G1 Retail System Model 9118 | `8139,8397` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP RP9 G1 Retail System Model 9118 | `8397,8139` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 64-bit, 20H2) | `8397,8139` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP VR Backpack G2 | `8590` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP VR Backpack G2 (Windows 10 64-bit, 20H2) | `8590` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP VR Backpack G2 (Windows 10 64-bit, 21H1) | `8590` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP VR Backpack G2 (Windows 11 64-bit, 21H2) | `8590` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP VR Backpack G2 | `8590` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G2 Workstation (Windows 10 64-bit, 21H1) | `192F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 21H1) | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 21H2) | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z1 Entry Tower G5 | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G5 (Windows 10 64-bit, 2004) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G5 (Windows 10 64-bit, 20H2) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G5 (Windows 10 64-bit, 21H1) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G5 (Windows 10 64-bit, 21H2) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z1 Entry Tower G5 | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G6 (Windows 10 64-bit, 1809) | `870b,870c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G6 (Windows 10 64-bit, 1909) | `870b,870c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 Entry Tower G6 (Windows 10 64-bit, 2004) | `870b,870c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5831,21 +6021,21 @@
 | HP | HP | HP Z8 G4 Workstation (Windows 10 64-bit, 1903) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z840 Workstation (Windows 10 64-bit, 21H1) | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z840 Workstation (Windows 10 64-bit, 21H2) | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 13 G2 Notebook PC | `85a3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 13 G2 Notebook PC (Windows 10 64-bit, 20H2) | `85a3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 13 G2 Notebook PC (Windows 10 64-bit, 21H1) | `85a3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 14 G2 Notebook PC | `85a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 13 G2 Notebook PC | `85a3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G2 Notebook PC (Windows 10 64-bit, 20H2) | `85a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G2 Notebook PC (Windows 10 64-bit, 21H1) | `85a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 14 G2 Notebook PC | `85a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G3 Notebook PC (Windows 10 64-bit, 2004) | `86a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G3 Notebook PC (Windows 10 64-bit, 20H2) | `86a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G3 Notebook PC (Windows 10 64-bit, 21H1) | `86a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G3 Notebook PC (Windows 10 64-bit, 21H2) | `86a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC (Windows 10 64-bit, 2004) | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 14 G4 Notebook PC (Windows 10 64-bit, 20H2) | `8809,87E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro 15 G2 Notebook PC | `85aa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 15 G2 Notebook PC (Windows 10 64-bit, 20H2) | `85aa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 15 G2 Notebook PC (Windows 10 64-bit, 21H1) | `85aa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro 15 G2 Notebook PC | `85aa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 15 G3 Notebook PC (Windows 10 64-bit, 2004) | `86a8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 15 G3 Notebook PC (Windows 10 64-bit, 20H2) | `86a8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro 15 G3 Notebook PC (Windows 10 64-bit, 21H1) | `86a8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5853,147 +6043,147 @@
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC (Windows 10 64-bit, 1909) | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC (Windows 10 64-bit, 2004) | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC (Windows 11 64-bit, 21H2) | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G1 Notebook PC | `83fd,8471` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G1 Notebook PC | `8471` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G1 Notebook PC (Windows 10 64-bit, 2004) | `83fd,8471` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G1 Notebook PC (Windows 10 64-bit, 20H2) | `83fd,8471` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G1 Notebook PC (Windows 10 64-bit, 21H1) | `83fd,8471` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G2 21.5-in All-in-One | `85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G2 21.5-in All-in-One | `85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G1 Notebook PC | `83fd,8471` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G1 Notebook PC | `8471` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G2 21.5-in All-in-One (Windows 10 64-bit, 2004) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G2 21.5-in All-in-One (Windows 10 64-bit, 20H2) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G2 21.5-in All-in-One (Windows 10 64-bit, 21H1) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G2 21.5-in All-in-One (Windows 10 64-bit, 21H2) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G2 23.8-in All-in-One | `85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ZHAN 66 Pro G2 23.8-in All-in-One | `85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G2 21.5-in All-in-One | `85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G2 21.5-in All-in-One | `85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G2 23.8-in All-in-One (Windows 10 64-bit, 2004) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G2 23.8-in All-in-One (Windows 10 64-bit, 20H2) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G2 23.8-in All-in-One (Windows 10 64-bit, 21H1) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G2 23.8-in All-in-One (Windows 10 64-bit, 21H2) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G2 23.8-in All-in-One | `85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ZHAN 66 Pro G2 23.8-in All-in-One | `85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 10 64-bit, 1809) | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 10 64-bit, 1909) | `871b,871c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 22 All-in-One PC (Windows 10 64-bit, 2004) | `871c,871b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 10 64-bit, 1809) | `871b,871c,8810,880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 10 64-bit, 1909) | `871b,871c,8810,880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G3 24 All-in-One PC (Windows 10 64-bit, 2004) | `871b,871c,8810,880f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 2004) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 20H2) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 21H1) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 21H2) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 2004) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 20H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 21H1) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 21H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 430 G5 Notebook PC | `8377` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 2004) | `8377` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 20H2) | `8377` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 21H1) | `8377` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 430 G6 Notebook PC | `8536` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 430 G5 Notebook PC | `8377` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G6 Notebook PC (Windows 10 64-bit, 20H2) | `8536` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G6 Notebook PC (Windows 10 64-bit, 21H1) | `8536` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 430 G6 Notebook PC | `8536` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G7 Notebook PC (Windows 10 64-bit, 2004) | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G7 Notebook PC (Windows 10 64-bit, 20H2) | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G7 Notebook PC (Windows 10 64-bit, 21H1) | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G7 Notebook PC (Windows 10 64-bit, 21H2) | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 2004) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G5 Notebook PC | `837b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G5 Notebook PC (Windows 10 64-bit, 2004) | `837b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G5 Notebook PC (Windows 10 64-bit, 20H2) | `837b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G5 Notebook PC (Windows 10 64-bit, 21H1) | `837b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 440 G6 Notebook PC | `8537` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G5 Notebook PC | `837b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G6 Notebook PC (Windows 10 64-bit, 20H2) | `8537` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G6 Notebook PC (Windows 10 64-bit, 21H1) | `8537` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 440 G6 Notebook PC | `8537` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G7 Notebook PC (Windows 10 64-bit, 2004) | `869d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G7 Notebook PC (Windows 10 64-bit, 20H2) | `869d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G7 Notebook PC (Windows 10 64-bit, 21H1) | `869d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G7 Notebook PC (Windows 10 64-bit, 21H2) | `869d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G8 Notebook PC (Windows 10 64-bit, 2004) | `8A84,8A76,8A86,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8A84,8A76,8A86,8A74,87...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445 G6 Notebook PC | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G6 Notebook PC (Windows 10 64-bit, 2004) | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G6 Notebook PC (Windows 10 64-bit, 20H2) | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G6 Notebook PC (Windows 10 64-bit, 21H1) | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445 G6 Notebook PC | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G8 Notebook PC (Windows 10 64-bit, 1909) | `8A8E,8861` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G8 Notebook PC (Windows 10 64-bit, 2004) | `8A8E,8861` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8A8E,8861` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 445R G6 Notebook PC | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445R G6 Notebook PC (Windows 10 64-bit, 2004) | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445R G6 Notebook PC (Windows 10 64-bit, 20H2) | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445R G6 Notebook PC (Windows 10 64-bit, 21H1) | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 G5 Notebook PC | `837d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 445R G6 Notebook PC | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G5 Notebook PC (Windows 10 64-bit, 2004) | `837d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G5 Notebook PC (Windows 10 64-bit, 20H2) | `837d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G5 Notebook PC (Windows 10 64-bit, 21H1) | `837d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 G6 Notebook PC | `8538` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 G5 Notebook PC | `837d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G6 Notebook PC (Windows 10 64-bit, 20H2) | `8538` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G6 Notebook PC (Windows 10 64-bit, 21H1) | `8538` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 450 G7 Notebook PC | `86a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 G6 Notebook PC | `8538` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G7 Notebook PC (Windows 10 64-bit, 2004) | `86a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G7 Notebook PC (Windows 10 64-bit, 20H2) | `86a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G7 Notebook PC (Windows 10 64-bit, 21H1) | `86a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G7 Notebook PC (Windows 10 64-bit, 21H2) | `86a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 450 G7 Notebook PC | `86a0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G8 Notebook PC (Windows 10 64-bit, 2004) | `8A85,8A77,8A75,8808,87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 450 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8A85,8A77,8A75,8808,87E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 455 G6 Notebook PC | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G6 Notebook PC (Windows 10 64-bit, 2004) | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G6 Notebook PC (Windows 10 64-bit, 20H2) | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G6 Notebook PC (Windows 10 64-bit, 21H1) | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 455 G6 Notebook PC | `85d9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G8 Notebook PC (Windows 10 64-bit, 1909) | `8A90,8864` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G8 Notebook PC (Windows 10 64-bit, 2004) | `8A90,8864` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455 G8 Notebook PC (Windows 11 64-bit, 21H2) | `8A90,8864` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 455R G6 Notebook PC | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455R G6 Notebook PC (Windows 10 64-bit, 2004) | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455R G6 Notebook PC (Windows 10 64-bit, 20H2) | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 455R G6 Notebook PC (Windows 10 64-bit, 21H1) | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 470 G5 Notebook PC | `837f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 455R G6 Notebook PC | `85ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 470 G5 Notebook PC (Windows 10 64-bit, 2004) | `837f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 470 G5 Notebook PC (Windows 10 64-bit, 20H2) | `837f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 470 G5 Notebook PC (Windows 10 64-bit, 21H1) | `837f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 470 G5 Notebook PC | `837f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 10 64-bit, 1909) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 630 G8 Notebook PC (Windows 10 64-bit, 2004) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G8 Notebook PC (Windows 10 64-bit, 1909) | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 635 Aero G8 Notebook PC (Windows 10 64-bit, 2004) | `8892` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 640 G4 Notebook PC | `83d2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G4 Notebook PC (Windows 10 64-bit, 2004) | `83d2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G4 Notebook PC (Windows 10 64-bit, 20H2) | `83d2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G4 Notebook PC (Windows 10 64-bit, 21H1) | `83d2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 640 G5 Notebook PC | `856d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 640 G4 Notebook PC | `83d2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G5 Notebook PC (Windows 10 64-bit, 2004) | `856d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G5 Notebook PC (Windows 10 64-bit, 20H2) | `856d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G5 Notebook PC (Windows 10 64-bit, 21H1) | `856d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 640 G5 Notebook PC | `856d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G7 Notebook PC (Windows 10 64-bit, 2004) | `882c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G7 Notebook PC (Windows 10 64-bit, 20H2) | `882c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G7 Notebook PC (Windows 10 64-bit, 21H1) | `882c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G7 Notebook PC (Windows 10 64-bit, 21H2) | `882c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 10 64-bit, 1909) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 640 G8 Notebook PC (Windows 10 64-bit, 2004) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 645 G4 Notebook PC | `8401` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 645 G4 Notebook PC (Windows 10 64-bit, 2004) | `8401` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 645 G4 Notebook PC (Windows 10 64-bit, 20H2) | `8401` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 645 G4 Notebook PC (Windows 10 64-bit, 21H1) | `8401` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 650 G4 Notebook PC | `8416,844a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 650 G4 Notebook PC | `844a,8416` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 645 G4 Notebook PC | `8401` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G4 Notebook PC (Windows 10 64-bit, 2004) | `8416,844a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G4 Notebook PC (Windows 10 64-bit, 20H2) | `844a,8416` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G4 Notebook PC (Windows 10 64-bit, 21H1) | `844a,8416` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook 650 G5 Notebook PC | `856e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 650 G4 Notebook PC | `8416,844a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 650 G4 Notebook PC | `844a,8416` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G5 Notebook PC (Windows 10 64-bit, 2004) | `856e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G5 Notebook PC (Windows 10 64-bit, 20H2) | `856e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G5 Notebook PC (Windows 10 64-bit, 21H1) | `856e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook 650 G5 Notebook PC | `856e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G7 Notebook PC (Windows 10 64-bit, 2004) | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G7 Notebook PC (Windows 10 64-bit, 20H2) | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G7 Notebook PC (Windows 10 64-bit, 21H1) | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G7 Notebook PC (Windows 10 64-bit, 21H2) | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 10 64-bit, 1909) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 10 64-bit, 2004) | `87EA,87ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook x360 11 G4 EE Notebook PC | `8524` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G4 EE Notebook PC (Windows 10 64-bit, 2004) | `8524` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G4 EE Notebook PC (Windows 10 64-bit, 20H2) | `8524` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G4 EE Notebook PC (Windows 10 64-bit, 21H1) | `8524` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook x360 11 G4 EE Notebook PC | `8524` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G5 EE Notebook PC (Windows 10 64-bit, 2004) | `86cf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G6 EE Notebook PC (Windows 10 64-bit, 1909) | `86d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G6 EE Notebook PC (Windows 10 64-bit, 2004) | `86d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6010,51 +6200,51 @@
 | HP | Probook | HP ProBook x360 435 G7 Notebook PC (Windows 10 64-bit, 21H2) | `8735` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC (Windows 10 64-bit, 1909) | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC (Windows 10 64-bit, 2004) | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook x360 440 G1 Notebook PC | `84d8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 440 G1 Notebook PC (Windows 10 64-bit, 2004) | `84d8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 440 G1 Notebook PC (Windows 10 64-bit, 20H2) | `84d8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 440 G1 Notebook PC (Windows 10 64-bit, 21H1) | `84d8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook x360 440 G1 Notebook PC | `84d8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 400 G6 Microtower PC | `859a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 480 G6 Microtower PC | `8599` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Prodesk | HP ProDesk 600 G4 Microtower PC | `83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 600 G4 Microtower PC (with PCI slot) | `83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Prodesk | HP ProDesk 600 G5 Microtower PC | `861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Prodesk | HP ProDesk 600 G4 Microtower PC | `83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 600 G5 Microtower PC (with PCI slot) | `8596` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Prodesk | HP ProDesk 600 G5 Microtower PC | `861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G4 Microtower PC (with PCI slot) | `83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G4 Microtower PC (with PCI slot) | `83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 21H1) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 14u G5 Mobile Workstation | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G5 Mobile Workstation (Windows 10 64-bit, 2004) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G5 Mobile Workstation (Windows 10 64-bit, 20H2) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G5 Mobile Workstation (Windows 10 64-bit, 21H1) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 14u G6 Mobile Workstation | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 14u G5 Mobile Workstation | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G6 Mobile Workstation (Windows 10 64-bit, 2004) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G6 Mobile Workstation (Windows 10 64-bit, 20H2) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G6 Mobile Workstation (Windows 10 64-bit, 21H1) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 15 G5 Mobile Workstation | `842a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 14u G6 Mobile Workstation | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G5 Mobile Workstation (Windows 10 64-bit, 2004) | `842a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G5 Mobile Workstation (Windows 10 64-bit, 20H2) | `842a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G5 Mobile Workstation (Windows 10 64-bit, 21H1) | `842a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 15 G6 Mobile Workstation | `860F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 15 G5 Mobile Workstation | `842a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G6 Mobile Workstation (Windows 10 64-bit, 2004) | `860F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G6 Mobile Workstation (Windows 10 64-bit, 20H2) | `860F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G6 Mobile Workstation (Windows 10 64-bit, 21H1) | `860F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 15 G6 Mobile Workstation | `860F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G4 Mobile Workstation (Windows 10 64-bit, 21H1) | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 15u G5 Mobile Workstation | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G5 Mobile Workstation (Windows 10 64-bit, 2004) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G5 Mobile Workstation (Windows 10 64-bit, 20H2) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G5 Mobile Workstation (Windows 10 64-bit, 21H1) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 15u G6 Mobile Workstation | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 15u G5 Mobile Workstation | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G6 Mobile Workstation (Windows 10 64-bit, 2004) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G6 Mobile Workstation (Windows 10 64-bit, 20H2) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G6 Mobile Workstation (Windows 10 64-bit, 21H1) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 15v G5 Mobile Workstation | `847b` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 15u G6 Mobile Workstation | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15v G5 Mobile Workstation (Windows 10 64-bit, 1909) | `847b` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15v G5 Mobile Workstation (Windows 10 64-bit, 2004) | `847b` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 17 G6 Mobile Workstation | `860c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 15v G5 Mobile Workstation | `847b` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 17 G6 Mobile Workstation (Windows 10 64-bit, 2004) | `860c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 17 G6 Mobile Workstation (Windows 10 64-bit, 20H2) | `860c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 17 G6 Mobile Workstation (Windows 10 64-bit, 21H1) | `860c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 17 G6 Mobile Workstation | `860c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Create G7 Notebook PC (Windows 10 64-bit, 2004) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Create G7 Notebook PC (Windows 10 64-bit, 20H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Create G7 Notebook PC (Windows 10 64-bit, 21H1) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -6091,25 +6281,25 @@
 | HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 20H2) | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 15.6 inch G8 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8873` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Studio G5 Mobile Workstation | `8427,844F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Studio G5 Mobile Workstation | `844F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G5 Mobile Workstation (Windows 10 64-bit, 2004) | `8427,844F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G5 Mobile Workstation (Windows 10 64-bit, 20H2) | `8427,844F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G5 Mobile Workstation (Windows 10 64-bit, 21H1) | `8427,844F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Studio G5 Mobile Workstation | `8427,844F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Studio G5 Mobile Workstation | `844F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation (Windows 10 64-bit, 2004) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation (Windows 10 64-bit, 20H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation (Windows 10 64-bit, 21H1) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation (Windows 10 64-bit, 21H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook Studio x360 G5 Convertible Workstation | `844f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio x360 G5 Convertible Workstation (Windows 10 64-bit, 2004) | `844f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio x360 G5 Convertible Workstation (Windows 10 64-bit, 20H2) | `844f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio x360 G5 Convertible Workstation (Windows 10 64-bit, 21H1) | `844f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook x2 G4 Detachable Workstation | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook Studio x360 G5 Convertible Workstation | `844f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 20H2) | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP Zbook 17 G5 Mobile Workstation | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook x2 G4 Detachable Workstation | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 2004) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 20H2) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 21H1) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP Zbook 17 G5 Mobile Workstation | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | Other | ThinkCentre M70C | `11GK,11GJ,11GL,11GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M75N | `11G4,11BT,11GW,11BX,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90N 1 | `11AE,11AM,11AK,11AG,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6117,17 +6307,17 @@
 | Lenovo | ThinkPad | ThinkPad A285 Type 20MW 20MX | `20MW,20MX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad A475 Type 20KL 20KM | `20KM,20KL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad A485 Type 20MU 20MV | `20MV,20MU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | ThinkPad | ThinkPad L470 | `20J5,20J4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L470 Type 20JU 20JV | `20JV,20JU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L470 | `20J5,20J4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L570 Type 20J8 20J9 | `20J8,20J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L570 Type 20JQ 20JR | `20JR,20JQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad P1 Type 20MD 20ME | `20ME,20MD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad P52S Type 20LB 20LC | `20LB,20LC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T25 Type 20K7 | `20K7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | ThinkPad | ThinkPad T470 | `20HE,20HD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T470 Type 20JM 20JN | `20JM,20JN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | ThinkPad | ThinkPad T470S | `20HG,20HF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T470 | `20HE,20HD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T470S  Type 20JS 20JT | `20JS,20JT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T470S | `20HG,20HF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T480 Type 20L5 20L6 | `20L6,20L5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T480S Type 20L7 20L8 | `20L8,20L7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T580 Type 20L9 20LA | `20L9,20LA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6136,8 +6326,8 @@
 | Lenovo | ThinkPad | ThinkPad X1 EXTREME | `20MF,20MG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | ThinkPad | ThinkPad X1 Yoga 3rd Gen Type 20LD 20LE 20LF 20LG | `20LF,20LD,20LE,20LG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | ThinkPad | ThinkPad X1 Yoga 4th Gen Type 20SA 20SB | `20SA,20SB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Lenovo | ThinkPad | ThinkPad X270 | `20HM,20HN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X270 Type 20K6 20K5 | `20K6,20K5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X270 | `20HM,20HN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X280 Type 20KF 20KE | `20KE,20KF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 11e 4th Gen Type 20HS 20HU | `20HS,20HU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 370 | `20JJ,20JH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6225,25 +6415,99 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JH) | `20JH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JJ) | `20JJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 B5EEK (2021 Ryzen 5000 + RX 6600M) | `Alpha15_2021` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 15 B5EEK Advantage |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 17 B5EEK Advantage |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 B5DD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator 15 A11UE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A11UH |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 17 B11UH Mini-LED |  | ✅  | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator M16 A11UC |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator M16 A11UD |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator Z16 A11UET / A12UET (2021-2022 Proporcion Aurea 16:10) | `CreatorZ16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Crosshair | MSI Crosshair 15 A11UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 15 R6E (2021-2023 Rainbow Six Special) | `Crosshair15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Crosshair | MSI Crosshair 17 (2021-2023) | `Crosshair17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Crosshair | MSI Crosshair 17 A11UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Delta | MSI Delta 15 A5EFK (2021-2022 Ultradelgada All-AMD) | `Delta15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Delta | MSI Delta 15 A5EFK Advantage |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana GF66 (2021-2022 Diseno Tsuyoshi Nagano) | `KatanaGF66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 11UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 11UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF66 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GF76 (2021-2022) | `KatanaGF76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 11UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 11UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Katana | MSI Katana GF76 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Modern | MSI Modern 14 B11MO |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B11MOU |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B11SBL |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B5M Ryzen 5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A5M Ryzen 5000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Pulse | MSI Pulse GL66 (2021-2022 Diseno Futurista) | `PulseGL66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL66 11UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL66 11UGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Pulse | MSI Pulse GL76 (2021-2022) | `PulseGL76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL76 11UEK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Pulse | MSI Pulse GL76 11UGK |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Raider | MSI GE66 Raider 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 11UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 10UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 10UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 10UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE76 Raider 11UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE76 Raider (2021-2022 RTX 3080 Ti) | `GE76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI GS66 Stealth 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 11UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS76 Stealth 11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS76 Stealth 11UG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS76 Stealth 11UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS76 Stealth (2021) | `GS76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Summit | MSI Summit E13 Flip Evo A11MT / A12M (2021-2023 16:10 360) | `SummitE13Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E14 A11MOT |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E16 Flip A11UCT / A12UCT / A13V (2021-2024) | `SummitE16Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Sword | MSI Sword 15 (2021-2023 Chasis Blanco) | `Sword15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 15 A11UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A11UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 15 A11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Sword | MSI Sword 17 (2021-2023) | `Sword17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 17 A11UC |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A11UD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Sword | MSI Sword 17 A11UE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Thin | MSI GF63 Thin 10UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 10UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 11SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 11UC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 11UD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 10UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 10UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 10UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 10UG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 10UH |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 11UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 11UG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP66 Leopard 11UH |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 10UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 10UG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 10UH |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 11UE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 11UG |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP76 Leopard 11UH |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP66 Leopard (2021-2022 Chasis Metalico) | `GP66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP76 Leopard (2021-2022) | `GP76` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 11UK RTX A3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 11UL RTX A4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 11UM RTX A5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS76 11UK RTX A3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS76 11UL RTX A4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS76 11UM RTX A5000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS76 11UK (2021 RTX A5000 4K Mini-LED) | `WS76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
-
-## 📅 Generación 2020 (815 modelos)
+## 📅 Generación 2020 (876 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -6288,11 +6552,11 @@
 | Dell | Latitude | Latitude 5285 | `07A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5289 | `07AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5450 | `0645` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 5480 | `07D0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5480 | `07A7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5480 | `07D0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5495 | `0814` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 5580 | `07D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5580 | `07A8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5580 | `07D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7212 | `07D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7285 | `07A5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7380 | `07F3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6305,8 +6569,8 @@
 | Dell | Latitude | Latitude E5570 | `06DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E7470 | `06DC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 3040 | `06BB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Optiplex | OptiPlex 3050 | `07A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 3050 AIO | `079E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Optiplex | OptiPlex 3050 | `07A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 5050 | `07A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 5055 A-Series | `07F1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 5250 AIO | `079D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6320,14 +6584,14 @@
 | Dell | Precision | Precision 7510 | `06D9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 7520 | `07B0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 7720 | `07B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | XPS Notebook | XPS 13 9360 | `082A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS 13 9360 | `075B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS Notebook | XPS 13 9360 | `082A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS 13 9365 | `077A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS 13 9370 | `07E6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS 15 9560 | `07BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS 15 9575 | `080D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | XPS Notebook | XPS Notebook 9360 | `082A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9360 | `075B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS Notebook | XPS Notebook 9360 | `082A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9365 | `077A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9370 | `07E6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9560 | `07BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -6338,10 +6602,10 @@
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 1809) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 1903) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 1909) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Elitebook | HP EliteBook 1040 G4 Notebook PC | `82de,8417` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 1040 G4 Notebook PC | `8417,82de` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G4 Notebook PC (Windows 10 64-bit, 2004) | `8417,82de` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G4 Notebook PC (Windows 10 64-bit, 20H2) | `8417,82de` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 1040 G4 Notebook PC | `82de,8417` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 1040 G4 Notebook PC | `8417,82de` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1050 G1 Notebook PC (Windows 10 64-bit, 1903) | `84e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1050 G1 Notebook PC (Windows 10 64-bit, 1909) | `84e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G5 Notebook PC (Windows 10 64-bit, 1903) | `83da` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6354,7 +6618,6 @@
 | HP | Elitebook | HP EliteBook 745 G6 Notebook PC (Windows 10 64-bit, 1909) | `8584` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 1903) | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 1909) | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 820 G4 Notebook PC | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 820 G4 Notebook PC (Windows 10 64-bit, 1607) | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 820 G4 Notebook PC (Windows 10 64-bit, 1703) | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 820 G4 Notebook PC (Windows 10 64-bit, 1709) | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6364,6 +6627,7 @@
 | HP | Elitebook | HP EliteBook 820 G4 Notebook PC (Windows 10 64-bit, 1909) | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 820 G4 Notebook PC (Windows 10 64-bit, 2004) | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 820 G4 Notebook PC (Windows 10 64-bit, 20H2) | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 820 G4 Notebook PC | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G5 Notebook PC (Windows 10 64-bit, 1909) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G6 Notebook PC (Windows 10 64-bit, 1903) | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G6 Notebook PC (Windows 10 64-bit, 1909) | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6375,7 +6639,6 @@
 | HP | Elitebook | HP EliteBook 836 G5 Notebook PC (Windows 10 64-bit, 1909) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 836 G6 Notebook PC (Windows 10 64-bit, 1903) | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 836 G6 Notebook PC (Windows 10 64-bit, 1909) | `854a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 840 G4 Notebook PC | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G4 Notebook PC (Windows 10 64-bit, 1607) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G4 Notebook PC (Windows 10 64-bit, 1703) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G4 Notebook PC (Windows 10 64-bit, 1709) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6385,6 +6648,7 @@
 | HP | Elitebook | HP EliteBook 840 G4 Notebook PC (Windows 10 64-bit, 1909) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G4 Notebook PC (Windows 10 64-bit, 2004) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G4 Notebook PC (Windows 10 64-bit, 20H2) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 840 G4 Notebook PC | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G5 Healthcare Edition Notebook PC (Windows 10 64-bit, 1909) | `845d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G5 Notebook PC (Windows 10 64-bit, 1909) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 840 G6 Healthcare Edition Notebook PC (Windows 10 64-bit, 1903) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6403,7 +6667,6 @@
 | HP | Elitebook | HP EliteBook 846r G4 Notebook PC (Windows 10 64-bit, 1809) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 846r G4 Notebook PC (Windows 10 64-bit, 1903) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 846r G4 Notebook PC (Windows 10 64-bit, 1909) | `8418` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 848 G4 Notebook PC | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 848 G4 Notebook PC (Windows 10 64-bit, 1607) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 848 G4 Notebook PC (Windows 10 64-bit, 1703) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 848 G4 Notebook PC (Windows 10 64-bit, 1709) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6413,7 +6676,7 @@
 | HP | Elitebook | HP EliteBook 848 G4 Notebook PC (Windows 10 64-bit, 1909) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 848 G4 Notebook PC (Windows 10 64-bit, 2004) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 848 G4 Notebook PC (Windows 10 64-bit, 20H2) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 850 G4 Notebook PC | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 848 G4 Notebook PC | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G4 Notebook PC (Windows 10 64-bit, 1607) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G4 Notebook PC (Windows 10 64-bit, 1703) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G4 Notebook PC (Windows 10 64-bit, 1709) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6423,6 +6686,7 @@
 | HP | Elitebook | HP EliteBook 850 G4 Notebook PC (Windows 10 64-bit, 1909) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G4 Notebook PC (Windows 10 64-bit, 2004) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G4 Notebook PC (Windows 10 64-bit, 20H2) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 850 G4 Notebook PC | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G5 Notebook PC (Windows 10 64-bit, 1909) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G6 Notebook PC (Windows 10 64-bit, 1903) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 850 G6 Notebook PC (Windows 10 64-bit, 1909) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6489,18 +6753,18 @@
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 1909) | `8464,83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC (Windows 10 64-bit, 1903) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC (Windows 10 64-bit, 1909) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G2 Microtower PC | `805a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G2 Microtower PC (Windows 10 64-bit, 2004) | `805a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G2 Microtower PC | `805a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G2 Small Form Factor PC (Windows 10 64-bit, 2004) | `805a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G3 Desktop Mini PC | `8266` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G3 Desktop Mini PC (Windows 10 64-bit, 2004) | `8266` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G3 Desktop Mini PC (Windows 10 64-bit, 20H2) | `8266` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G3 Microtower PC | `8265,835b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G3 Desktop Mini PC | `8266` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G3 Microtower PC (Windows 10 64-bit, 2004) | `8265,835b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G3 Microtower PC (Windows 10 64-bit, 20H2) | `8265,835b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G3 Small Form Factor PC | `835b,8265` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G3 Microtower PC | `8265,835b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G3 Small Form Factor PC (Windows 10 64-bit, 2004) | `835b,8265` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G3 Small Form Factor PC (Windows 10 64-bit, 20H2) | `835b,8265` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G3 Small Form Factor PC | `835b,8265` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Microtower PC (Windows 10 64-bit, 1903) | `83e7,8461,8460` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Microtower PC (Windows 10 64-bit, 1909) | `83e7,8461,8460` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G4 Small Form Factor PC (Windows 10 64-bit, 1903) | `8463,8462,83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6511,11 +6775,11 @@
 | HP | HP | HP EliteDesk 705 G5 Small Form Factor PC (Windows 10 64-bit, 1809) | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Small Form Factor PC (Windows 10 64-bit, 1903) | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G5 Small Form Factor PC (Windows 10 64-bit, 1909) | `8618,8617` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 35W G3 Desktop Mini PC | `829a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G3 Desktop Mini PC (ENERGY STAR) (Windows 10 64-bit, 2004) | `829a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G3 Desktop Mini PC (ENERGY STAR) (Windows 10 64-bit, 20H2) | `829a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G3 Desktop Mini PC (Windows 10 64-bit, 2004) | `829a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G3 Desktop Mini PC (Windows 10 64-bit, 20H2) | `829a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 35W G3 Desktop Mini PC | `829a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G4 Desktop Mini PC (Windows 10 64-bit, 1903) | `83e2,845a,8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 35W G4 Desktop Mini PC (Windows 10 64-bit, 1909) | `83e2,845a,8409` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 65W G3 Desktop Mini PC (Windows 10 64-bit, 2004) | `829a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6524,12 +6788,12 @@
 | HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC (Windows 10 64-bit, 1909) | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 1903) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 1909) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G3 Small Form Factor PC | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Small Form Factor PC (Windows 10 64-bit, 2004) | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Small Form Factor PC (Windows 10 64-bit, 20H2) | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G3 Tower PC (ENERGY STAR) | `8298` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G3 Small Form Factor PC | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Tower PC (ENERGY STAR) (Windows 10 64-bit, 2004) | `8298` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Tower PC (ENERGY STAR) (Windows 10 64-bit, 20H2) | `8298` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G3 Tower PC (ENERGY STAR) | `8298` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Small Form Factor PC (Windows 10 64-bit, 1903) | `83e1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Small Form Factor PC (Windows 10 64-bit, 1909) | `83e1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G4 Tower PC (Windows 10 64-bit, 1903) | `83e0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6562,21 +6826,21 @@
 | HP | HP | HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC (Windows 10 64-bit, 1909) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 1903) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 1909) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G3 23.8 Non-Touch Healthcare Edition All-in-One Business PC | `829b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8 Non-Touch Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 2004) | `829b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8 Non-Touch Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 20H2) | `829b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC | `829c,829b,929C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC | `829b,829c,929C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC | `929C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G3 23.8 Non-Touch Healthcare Edition All-in-One Business PC | `829b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC (Windows 10 64-bit, 2004) | `829c,829b,929C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC (Windows 10 64-bit, 20H2) | `829b,829c,929C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch GPU All-in-One PC | `829C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC | `829b,829c,929C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC | `829c,829b,929C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC | `929C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch GPU All-in-One PC (Windows 10 64-bit, 2004) | `829C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G3 23.8-inch Touch All-in-One PC | `829B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G3 23.8-inch Non-Touch GPU All-in-One PC | `829C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8-inch Touch All-in-One PC (Windows 10 64-bit, 2004) | `829B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8-inch Touch All-in-One PC (Windows 10 64-bit, 20H2) | `829B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G3 23.8-inch Touch GPU All-in-One PC | `829C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G3 23.8-inch Touch All-in-One PC | `829B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8-inch Touch GPU All-in-One PC (Windows 10 64-bit, 2004) | `829C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G3 23.8-inch Touch GPU All-in-One PC | `829C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 1903) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-in Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 1909) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G4 23.8-inch Non-Touch All-in-One PC (Windows 10 64-bit, 1903) | `83e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6606,14 +6870,14 @@
 | HP | HP | HP Engage One Pro AIO System (Windows 10 64-bit, 2004) | `874F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP MP9 G4 Retail System (Windows 10 64-bit, 1909) | `8A39,83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP MP9 G4 Retail System (Windows 10 64-bit, 2004) | `8A39,83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G3 Desktop Mini PC | `82a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G3 Desktop Mini PC (Windows 10 64-bit, 2004) | `82a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G3 Desktop Mini PC (Windows 10 64-bit, 20H2) | `82a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G3 Desktop Mini PC | `82a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 1903) | `83f3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 1909) | `83f3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G4 Small Form Factor PC | `82a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G4 Small Form Factor PC (Windows 10 64-bit, 2004) | `82a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G4 Small Form Factor PC (Windows 10 64-bit, 20H2) | `82a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G4 Small Form Factor PC | `82a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Desktop Mini PC (Windows 10 64-bit, 1903) | `859c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Desktop Mini PC (Windows 10 64-bit, 1909) | `859c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 1903) | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6637,18 +6901,18 @@
 | HP | HP | HP ProDesk 480 G6 Microtower PC (Windows 10 64-bit, 1903) | `859a,8599` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G6 Microtower PC (Windows 10 64-bit, 1909) | `859a,8599` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G7 PCI Microtower PC (Windows 10 64-bit, 1903) | `8718` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G3 Base Model Small Form Factor PC | `82b4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Base Model Small Form Factor PC (Windows 10 64-bit, 2004) | `82b4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Base Model Small Form Factor PC (Windows 10 64-bit, 20H2) | `82b4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G3 Desktop Mini PC | `829e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G3 Base Model Small Form Factor PC | `82b4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Desktop Mini PC (Windows 10 64-bit, 2004) | `829e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Desktop Mini PC (Windows 10 64-bit, 20H2) | `829e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G3 Microtower PC | `829d,82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G3 Desktop Mini PC | `829e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Microtower PC (Windows 10 64-bit, 2004) | `829d,82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Microtower PC (Windows 10 64-bit, 20H2) | `829d,82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G3 Microtower PC (with PCI slot) | `82b3,829d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Microtower PC (with PCI slot) (Windows 10 64-bit, 2004) | `82b3,829d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Microtower PC (with PCI slot) (Windows 10 64-bit, 20H2) | `82b3,829d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G3 Microtower PC (with PCI slot) | `82b3,829d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G3 Microtower PC | `829d,82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Desktop Mini PC (Windows 10 64-bit, 1903) | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Desktop Mini PC (Windows 10 64-bit, 1909) | `83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G4 Microtower PC (Windows 10 64-bit, 1903) | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6667,7 +6931,7 @@
 | HP | HP | HP ProDesk 600 G5 Small Form Factor PC (Windows 10 64-bit, 1909) | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 10 64-bit, 1903) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Desktop Mini PC (Windows 10 64-bit, 1909) | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 1903) | `8712` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G6 Microtower PC (Windows 10 64-bit, 1903) | `9312` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 PCI Microtower PC (Windows 10 64-bit, 1903) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 10 64-bit, 1903) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G6 Small Form Factor PC (Windows 10 64-bit, 1909) | `8714` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6678,14 +6942,14 @@
 | HP | HP | HP ProDesk 680 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 1903) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 1909) | `83ed,83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G6 PCI Microtower PC (Windows 10 64-bit, 1903) | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G2 20-inch Touch All-in-One PC | `8063` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G2 20-inch Touch All-in-One PC (Windows 10 64-bit, 2004) | `8063` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G3 20-inch Non-Touch All-in-One PC | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G2 20-inch Touch All-in-One PC | `8063` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G3 20-inch Non-Touch All-in-One PC (Windows 10 64-bit, 2004) | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G3 20-inch Non-Touch All-in-One PC (Windows 10 64-bit, 20H2) | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G3 Base Model 20-inch Touch All-in-One PC | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G3 20-inch Non-Touch All-in-One PC | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G3 Base Model 20-inch Touch All-in-One PC (Windows 10 64-bit, 2004) | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G3 Base Model 20-inch Touch All-in-One PC (Windows 10 64-bit, 20H2) | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G3 Base Model 20-inch Touch All-in-One PC | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 1903) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 20-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 1909) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 1903) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6701,13 +6965,13 @@
 | HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC (Windows 10 64-bit, 1903) | `85a1,85a2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G5 23.8-in All-in-One Business PC (Windows 10 64-bit, 1909) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 440 G6 24 All-in-One PC (Windows 10 64-bit, 1903) | `871C,871B,880F,8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 480 G3 20-inch Non-Touch All-in One PC | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 480 G3 20-inch Non-Touch All-in One PC (Windows 10 64-bit, 2004) | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 480 G3 20-inch Non-Touch All-in One PC (Windows 10 64-bit, 20H2) | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G2 21.5-inch Touch All-in-One PC | `805e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 480 G3 20-inch Non-Touch All-in One PC | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G2 21.5-inch Touch All-in-One PC (Windows 10 64-bit, 2004) | `805e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G3 21.5-inch Non-Touch All-in-One PC | `82b5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G2 21.5-inch Touch All-in-One PC | `805e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G3 21.5-inch Non-Touch All-in-One PC (Windows 10 64-bit, 2004) | `82b5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G3 21.5-inch Non-Touch All-in-One PC | `82b5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 1903) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 1909) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC (Windows 10 64-bit, 1903) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6833,11 +7097,11 @@
 | HP | Probook | HP ProBook 650 G7 Notebook PC (Windows 10 64-bit, 1903) | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G7 Notebook PC (Windows 10 64-bit, 1909) | `882d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 650 G8 Notebook PC (Windows 10 64-bit, 1903) | `87ED,87EA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Probook | HP ProBook x360 11 G3 EE Notebook PC | `8521` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G3 EE Notebook PC (Windows 10 64-bit, 1903) | `8521` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G3 EE Notebook PC (Windows 10 64-bit, 1909) | `8521` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G3 EE Notebook PC (Windows 10 64-bit, 2004) | `8521` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G3 EE Notebook PC (Windows 10 64-bit, 20H2) | `8521` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Probook | HP ProBook x360 11 G3 EE Notebook PC | `8521` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G4 EE Notebook PC (Windows 10 64-bit, 1803) | `8524` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G4 EE Notebook PC (Windows 10 64-bit, 1809) | `8524` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 11 G4 EE Notebook PC (Windows 10 64-bit, 1903) | `8524` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6850,11 +7114,10 @@
 | HP | Probook | HP ProBook x360 440 G1 Notebook PC (Windows 10 64-bit, 1809) | `84d8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 440 G1 Notebook PC (Windows 10 64-bit, 1903) | `84d8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook x360 440 G1 Notebook PC (Windows 10 64-bit, 1909) | `84d8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Prodesk | HP ProDesk 600 G3 Microtower PC | `82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 600 G3 Microtower PC (with PCI slot) | `829d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Prodesk | HP ProDesk 600 G3 Microtower PC | `82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G3 Microtower PC | `829d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G3 Microtower PC | `82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Zbook | HP ZBook 14u G4 Mobile Workstation | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 1607) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 1703) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 1709) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -6864,6 +7127,7 @@
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 1909) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 2004) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 20H2) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 14u G4 Mobile Workstation | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G6 Mobile Workstation (Windows 10 64-bit, 1903) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G6 Mobile Workstation (Windows 10 64-bit, 1909) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G5 Mobile Workstation (Windows 10 64-bit, 1809) | `842a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -6871,7 +7135,6 @@
 | HP | Zbook | HP ZBook 15 G5 Mobile Workstation (Windows 10 64-bit, 1909) | `842a` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G6 Mobile Workstation (Windows 10 64-bit, 1903) | `860F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15 G6 Mobile Workstation (Windows 10 64-bit, 1909) | `860F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 15u G4 Mobile Workstation | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G4 Mobile Workstation (Windows 10 64-bit, 1607) | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G4 Mobile Workstation (Windows 10 64-bit, 1703) | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G4 Mobile Workstation (Windows 10 64-bit, 1709) | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -6881,6 +7144,7 @@
 | HP | Zbook | HP ZBook 15u G4 Mobile Workstation (Windows 10 64-bit, 1909) | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G4 Mobile Workstation (Windows 10 64-bit, 2004) | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G4 Mobile Workstation (Windows 10 64-bit, 20H2) | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 15u G4 Mobile Workstation | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G5 Mobile Workstation (Windows 10 64-bit, 1909) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G6 Mobile Workstation (Windows 10 64-bit, 1903) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 15u G6 Mobile Workstation (Windows 10 64-bit, 1909) | `8549` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -6923,8 +7187,8 @@
 | Lenovo | ThinkPad | ThinkPad 11e 20E6 20E8 | `20E8,20E6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 11e 20G9 20GB | `20G9,20GB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 11e 4th Gen Type 20HT 20HV | `20HV,20HT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | ThinkPad | ThinkPad 13 | `20GK,20GJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 13 Type 20J1 20J2 | `20J1,20J2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad 13 | `20GK,20GJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad P40 Yoga | `20GQ,20GR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad P50S | `20FK,20FL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad P51 Type 20HH 20HJ | `20HH,20HJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6936,8 +7200,8 @@
 | Lenovo | ThinkPad | ThinkPad T460P | `20FW,20FX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T470P | `20J6,20J7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T560 | `20FJ,20FH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | ThinkPad | ThinkPad T570 | `20H9,20HA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T570 Type 20JW  20JX | `20JX,20JW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T570 | `20H9,20HA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X1 Carbon 20BS 20BT | `20BT,20BS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | ThinkPad | ThinkPad X1 Carbon Type 20HR 20HQ | `20HQ,20HR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | ThinkPad | ThinkPad X1 Carbon Type 20K4 20K3 | `20K4,20K3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -7051,19 +7315,79 @@
 | MSI | Bravo | MSI Bravo 15 A4DDR (2020 Ryzen 4000) | `Bravo15_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 17 A4DDR (2020) | `Bravo17_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator 15 A10S / A11U (2020-2021 Pantalla Tactil OLED) | `Creator15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| MSI | Creator | MSI Creator 15 A10SD |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A10SE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A10SFS |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator 15 A10SGS |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator 17 A10S (2020 Primera Laptop Mini-LED del Mundo) | `Creator17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| MSI | Creator | MSI Creator 17 A10SE Mini-LED |  | ✅  | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator 17 A10SFS Mini-LED |  | ✅  | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator 17 A10SGS Mini-LED |  | ✅  | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Katana | MSI GL65 Leopard 10SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 Leopard 10SDR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 Leopard 10SEK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 Leopard 10SFK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 Leopard 10SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 Leopard 10SDR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 Leopard 10SEK |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 Leopard 10SFK |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 14 B10M / B11M / B4M (2020 Intel/AMD) | `Modern14_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B10MW |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B11M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 B4MW Ryzen 4000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A11M / A4M (2020) | `Modern15_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A11SBL |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A4M Ryzen 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A11SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A11SCS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A11SCX |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 Evo A11M / A12M (2020-2022 Intel Evo) | `Prestige14Evo` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 15 A11SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A11SCS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A11SCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE66 Raider 10SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 10SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 10SFS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE66 Raider 10SGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 10SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 10SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 10SGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE66 Raider Aurora Light Bar (2020-2021) | `GE66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI GS66 Stealth 10SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 10SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 10SFS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS66 Stealth 10SGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS66 Stealth (2020-2021 Bateria 99.9Wh) | `GS66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Summit | MSI Summit E14 A11SCS / A12M (2020-2022) | `SummitE14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E14 A11SCST |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Summit | MSI Summit E15 A11SCS (2020-2021 GTX 1650 Ti Max-Q) | `SummitE15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Summit | MSI Summit E15 A11SCST |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 10SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 10SCXR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 10SDR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 10SEXR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 9SEXR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 10SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 10SCXR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 10SDR |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT76 Titan DT 10SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT76 Titan DT 10SGS |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Vector | MSI GP65 Leopard 10SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP65 Leopard 10SF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP75 Leopard 10SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP75 Leopard 10SF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WF65 10TI Quadro T1000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WF65 10TJ Quadro T2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WF75 10TI Quadro T1000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WF75 10TJ Quadro T2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 10TK Quadro RTX 3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 10TL Quadro RTX 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS66 10TM Quadro RTX 5000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WF65 10TI (2020) | `WF65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WF75 10TJ (2020) | `WF75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS66 10TL / 11UK (2020-2021 RTX A5000) | `WS66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-
-## 📅 Generación 2019 (696 modelos)
+## 📅 Generación 2019 (779 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -7133,11 +7457,11 @@
 | Dell | XPS Notebook | XPS Notebook 9350 | `0704` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9550 | `06E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 1709) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Elitebook | HP EliteBook 1040 G3 Notebook PC | `80fa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G3 Notebook PC (Windows 10 64-bit, 1803) | `80fa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G3 Notebook PC (Windows 10 64-bit, 1809) | `80fa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G3 Notebook PC (Windows 10 64-bit, 1903) | `80fa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G3 Notebook PC (Windows 10 64-bit, 1909) | `80fa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 1040 G3 Notebook PC | `80fa` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G4 Notebook PC (Windows 10 64-bit, 1803) | `82de,8417` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G4 Notebook PC (Windows 10 64-bit, 1809) | `82de,8417` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G4 Notebook PC (Windows 10 64-bit, 1903) | `82de,8417` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7148,14 +7472,14 @@
 | HP | Elitebook | HP EliteBook 735 G5 Notebook PC (Windows 10 64-bit, 1809) | `83da` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G6 Notebook PC (Windows 10 64-bit, 1803) | `8589` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 735 G6 Notebook PC (Windows 10 64-bit, 1809) | `8589` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 745 G2 Notebook PC | `221c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G2 Notebook PC (Windows 10 64-bit, 1903) | `221c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 745 G2 Notebook PC | `221c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G5 Notebook PC (Windows 10 64-bit, 1803) | `83d5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G5 Notebook PC (Windows 10 64-bit, 1809) | `83d5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G6 Notebook PC (Windows 10 64-bit, 1803) | `8584` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 745 G6 Notebook PC (Windows 10 64-bit, 1809) | `8584` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | Elitebook | HP EliteBook 755 G2 Notebook PC | `221c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 755 G2 Notebook PC (Windows 10 64-bit, 1903) | `221c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Elitebook | HP EliteBook 755 G2 Notebook PC | `221c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 1803) | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 755 G5 Notebook PC (Windows 10 64-bit, 1809) | `83D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 830 G5 Notebook PC (Windows 10 64-bit, 1803) | `83b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7214,10 +7538,10 @@
 | HP | HP | HP Elite Slice for Meeting Rooms (Windows 10 64-bit, 1809) | `8396,81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 1809) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 65W G4 Desktop Mini PC (Windows 10 64-bit, 1809) | `8464,83e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G1 Desktop Mini PC | `225e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G1 Desktop Mini PC (Windows 10 64-bit, 1903) | `225e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 705 G1 Microtower PC | `2215` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G1 Desktop Mini PC | `225e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G1 Microtower PC (Windows 10 64-bit, 1903) | `2215` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 705 G1 Microtower PC | `2215` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G1 Small Form Factor PC (Windows 10 64-bit, 1903) | `2215` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G2 Microtower PC (Windows 10 64-bit, 1903) | `805a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 G2 Microtower PC (Windows 10 64-bit, 1909) | `805a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7255,10 +7579,10 @@
 | HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC (Windows 10 64-bit, 1809) | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 1803) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 1809) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G1 Base Model Ultra-slim PC | `18e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Ultra-slim PC (Windows 10 64-bit, 1903) | `18e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G1 Desktop Mini PC | `1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G1 Base Model Ultra-slim PC | `18e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Desktop Mini PC (Windows 10 64-bit, 1903) | `1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G1 Desktop Mini PC | `1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Small Form Factor PC (Windows 10 64-bit, 1803) | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Small Form Factor PC (Windows 10 64-bit, 1809) | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Small Form Factor PC (Windows 10 64-bit, 1903) | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7277,9 +7601,9 @@
 | HP | HP | HP EliteDesk 800 G5 Small Form Factor PC (Windows 10 64-bit, 1809) | `8592` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Tower PC (Windows 10 64-bit, 1803) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G5 Tower PC (Windows 10 64-bit, 1809) | `8591` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 880 G2 Tower PC | `8053` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G2 Tower PC (Windows 10 64-bit, 1903) | `8053` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G2 Tower PC (Windows 10 64-bit, 1909) | `8053` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 880 G2 Tower PC | `8053` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G3 Tower PC (Windows 10 64-bit, 1803) | `8298` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G3 Tower PC (Windows 10 64-bit, 1809) | `8298` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 880 G3 Tower PC (Windows 10 64-bit, 1903) | `8298` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7296,10 +7620,10 @@
 | HP | HP | HP EliteOne 1000 G2 27-in 4K UHD All-in-One Business PC (Windows 10 64-bit, 1809) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 1803) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 1000 G2 34-in Curved All-in-One Business PC (Windows 10 64-bit, 1809) | `83e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 705 G1 23-inch Non-Touch All-in-One PC | `225f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 705 G1 23-inch Non-Touch All-in-One PC (Windows 10 64-bit, 1903) | `225f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteOne 800 G1 21.5-inch Non-Touch All-in-One PC | `22ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 705 G1 23-inch Non-Touch All-in-One PC | `225f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G1 21.5-inch Non-Touch All-in-One PC (Windows 10 64-bit, 1903) | `22ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteOne 800 G1 21.5-inch Non-Touch All-in-One PC | `22ad` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8 Non-Touch Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 1803) | `829b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8 Non-Touch Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 1809) | `829b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteOne 800 G3 23.8 Non-Touch Healthcare Edition All-in-One Business PC (Windows 10 64-bit, 1903) | `829b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7355,18 +7679,18 @@
 | HP | HP | HP MP9 G4 Retail System (Windows 10 64-bit, 1809) | `8A39,83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP MP9 G4 Retail System (Windows 10 64-bit, 1903) | `8A39,83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP MP9 G4 Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8A39,83ef` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x2 612 G1 Tablet | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x2 612 G1 Tablet (Windows 10 64-bit, 1903) | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x2 612 G1 Tablet with Power Keyboard | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x2 612 G1 Tablet with Power Keyboard (Windows 10 64-bit, 1903) | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Pro x2 612 G1 Tablet with Travel Keyboard | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x2 612 G1 Tablet with Power Keyboard | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Pro x2 612 G1 Tablet with Travel Keyboard (Windows 10 64-bit, 1903) | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G1 Desktop Mini PC | `8076` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x2 612 G1 Tablet with Travel Keyboard | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Pro x2 612 G1 Tablet | `221b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G1 Desktop Mini PC (Windows 10 64-bit, 1903) | `8076` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G2.5 Small Form Factor PC | `8105` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G1 Desktop Mini PC | `8076` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G2.5 Small Form Factor PC (Windows 10 64-bit, 1803) | `8105` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G2.5 Small Form Factor PC (Windows 10 64-bit, 1809) | `8105` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G2.5 Small Form Factor PC (Windows 10 64-bit, 1903) | `8105` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G2.5 Small Form Factor PC | `8105` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G3 Desktop Mini PC (Windows 10 64-bit, 1803) | `82a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G3 Desktop Mini PC (Windows 10 64-bit, 1809) | `82a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G3 Desktop Mini PC (Windows 10 64-bit, 1903) | `82a5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7388,13 +7712,13 @@
 | HP | HP | HP ProDesk 405 G4 Desktop Mini PC (Windows 10 64-bit, 1803) | `8626` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Desktop Mini PC (Windows 10 64-bit, 1809) | `8626` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 405 G4 Small Form Factor PC (Windows 10 64-bit, 1809) | `83e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 480 G3 Microtower PC | `8060` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G3 Microtower PC (Windows 10 64-bit, 1803) | `8060` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G3 Microtower PC (Windows 10 64-bit, 1809) | `8060` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 480 G3 Microtower PC | `8060` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G6 Microtower PC (Windows 10 64-bit, 1803) | `859a,8599` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G6 Microtower PC (Windows 10 64-bit, 1809) | `859a,8599` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G1 Desktop Mini PC | `21d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Desktop Mini PC (Windows 10 64-bit, 1903) | `21d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G1 Desktop Mini PC | `21d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Base Model Small Form Factor PC (Windows 10 64-bit, 1803) | `82b4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Base Model Small Form Factor PC (Windows 10 64-bit, 1809) | `82b4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G3 Base Model Small Form Factor PC (Windows 10 64-bit, 1903) | `82b4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7427,11 +7751,11 @@
 | HP | HP | HP ProDesk 600 G5 Microtower PC (with PCI slot) (Windows 10 64-bit, 1809) | `861a,8596` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Small Form Factor PC (Windows 10 64-bit, 1803) | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G5 Small Form Factor PC (Windows 10 64-bit, 1809) | `8597` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 680 G2 Microtower PC | `805d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G2 Microtower PC (Windows 10 64-bit, 1803) | `805d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G2 Microtower PC (Windows 10 64-bit, 1809) | `805d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G2 Microtower PC (Windows 10 64-bit, 1903) | `805d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G2 Microtower PC (Windows 10 64-bit, 1909) | `805d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 680 G2 Microtower PC | `805d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G3 Microtower PC (Windows 10 64-bit, 1803) | `829d,82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G3 Microtower PC (Windows 10 64-bit, 1809) | `829d,82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G3 Microtower PC (Windows 10 64-bit, 1903) | `829d,82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7441,12 +7765,12 @@
 | HP | HP | HP ProDesk 680 G4 Microtower PC (Windows 10 64-bit, 1903) | `8580` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 1803) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 680 G4 Microtower PC (with PCI slot) (Windows 10 64-bit, 1809) | `83ec,83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G1 19.5-inch Non-Touch All-in-One PC | `18ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G1 19.5-inch Non-Touch All-in-One PC (Windows 10 64-bit, 1903) | `18ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G1 21.5-inch Touch All-in-One PC | `2179` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G1 19.5-inch Non-Touch All-in-One PC | `18ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G1 21.5-inch Touch All-in-One PC (Windows 10 64-bit, 1903) | `2179` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 400 G1 23-inch Non-Touch All-in-One PC | `2179` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G1 21.5-inch Touch All-in-One PC | `2179` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G1 23-inch Non-Touch All-in-One PC (Windows 10 64-bit, 1903) | `2179` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 400 G1 23-inch Non-Touch All-in-One PC | `2179` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G2 20-inch Touch All-in-One PC (Windows 10 64-bit, 1803) | `8063` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G2 20-inch Touch All-in-One PC (Windows 10 64-bit, 1809) | `8063` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 400 G2 20-inch Touch All-in-One PC (Windows 10 64-bit, 1903) | `8063` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7488,11 +7812,11 @@
 | HP | HP | HP ProOne 600 G4 21.5-inch Touch All-in-One Business PC (Windows 10 64-bit, 1809) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC (Windows 10 64-bit, 1803) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC (Windows 10 64-bit, 1809) | `85a2,85a1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP RP5 Retail System Model 5810 | `2175` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP RP5 Retail System Model 5810 (Windows 10 64-bit, 1809) | `2175` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP RP5 Retail System Model 5810 | `2175` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP RP9 G1 Retail System Model 9115 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8139,8397` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP RP9 G1 Retail System Model 9115 | `8139` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP RP9 G1 Retail System Model 9115 | `8397` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP RP9 G1 Retail System Model 9115 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8139,8397` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 64-bit, 1809) | `8139,8397` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 64-bit, 1903) | `8397,8139` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8397,8139` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7511,14 +7835,14 @@
 | HP | HP | HP Z230 Small Form Factor Workstation (Windows 10 64-bit, 1909) | `1906,8014,233F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z230 Tower Workstation (Windows 10 64-bit, 1903) | `1905` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z230 Tower Workstation (Windows 10 64-bit, 1909) | `1905` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z240 Small Form Factor Workstation | `802e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z240 Small Form Factor Workstation (Windows 10 64-bit, 1809) | `802e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z240 Small Form Factor Workstation (Windows 10 64-bit, 1903) | `802e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z240 Small Form Factor Workstation (Windows 10 64-bit, 1909) | `802e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z240 Tower Workstation | `802f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z240 Small Form Factor Workstation | `802e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z240 Tower Workstation (Windows 10 64-bit, 1809) | `802f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z240 Tower Workstation (Windows 10 64-bit, 1903) | `802f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z240 Tower Workstation (Windows 10 64-bit, 1909) | `802f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z240 Tower Workstation | `802f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 10 64-bit, 1709) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 10 64-bit, 1803) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z440 Workstation (Windows 10 64-bit, 1903) | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7623,8 +7947,8 @@
 | HP | Zbook | HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 1909) | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1803) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | Other | ThinkCentre M630E | `10YR,10YM,10YN,10YQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | Other | ThinkCentre M710Q | `10MS,10MQ,10MT,10N3,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M710Q Type 10YC | `10YC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Other | ThinkCentre M710Q | `10MS,10MQ,10MT,10N3,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M710S | `10M8,10M7,10NC,10QT,10R7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M710T | `10QK,10M9,10NB,10R8,10MA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M715S | `10MB,10MC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7747,24 +8071,106 @@
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30C9) | `30C9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30CA) | `30CA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 A3DD (2019 Primer 7nm All-AMD) | `Alpha15_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Alpha | MSI Alpha 15 A3DDK |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator P75 Creator (2019 4K HDR) | `P75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| MSI | Creator | MSI P65 Creator 9SE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 9SF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 9SG |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P75 Creator 9SE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P75 Creator 9SF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P75 Creator 9SG |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Katana | MSI GL63 8SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 9RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL65 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 9RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL75 9SE |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana GL65 Leopard (2019-2020) | `GL65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GL75 (2019-2020) | `GL75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Modern | MSI Modern 14 A10M / A10RAS (2019 Chasis Aluminio) | `Modern14_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 A10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 A10RB |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Modern | MSI Modern 15 A10M / A10RAS (2019) | `Modern15_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A10RB |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A10RB |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 14 A10SC / A11SC / A12U (2019-2022) | `Prestige14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Prestige | MSI Prestige 15 A10RAS |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A10RB |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Prestige | MSI Prestige 15 A10SC / A11SC / A12U (2019-2022) | `Prestige15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE65 Raider 9SD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE65 Raider 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE65 Raider 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE65 Raider 9SF (2019 240Hz) | `GE65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Raider | MSI Raider GE75 Raider 8SG/9SG (2019) | `GE75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI GS65 Stealth 9SD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 8SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 8SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 8SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 9SE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS75 Stealth 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS75 Stealth (2019 17.3 Delgado) | `GS75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Thin | MSI GF63 Thin 9RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 Thin 9SCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF65 Thin 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 9SC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 9SCX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 9SE |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF65 Thin (2019-2021 Doble Ventilador) | `GF65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF75 Thin (2019-2021 17.3 Liviano) | `GF75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT75 Titan 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT76 Titan DT 9SF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT76 Titan DT 9SG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT76 Titan DT 9SG (2019 Desktop CPU) | `GT76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Vector | MSI GP65 Leopard 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP65 Leopard 9SE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP75 Leopard 9SD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP75 Leopard 9SE |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP65 Leopard (2019-2020) | `GP65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP75 Leopard (2019-2020) | `GP75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS65 9TK Quadro RTX 3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS65 9TL Quadro RTX 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS65 9TM Quadro RTX 5000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS75 9TK Quadro RTX 3000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS75 9TL Quadro RTX 4000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS75 9TM Quadro RTX 5000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS75 9TL / 9TM (2019 Quadro RTX) | `WS75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-
-## 📅 Generación 2018 (586 modelos)
+## 📅 Generación 2018 (626 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -7797,8 +8203,8 @@
 | Dell | Latitude | Latitude 3550 | `0632` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3590 | `0825` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5250 | `0644` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 5290 | `0822` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5290 2-in-1 | `0823` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5290 | `0822` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5404 | `062F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5490 | `0820` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5550 | `0646` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7808,8 +8214,8 @@
 | Dell | Latitude | Latitude 7250 | `0648` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7290 | `081F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7350 | `0673` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude 7390 | `081D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7390 2-in-1 | `081E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7390 | `081D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7404 | `060F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7490 | `081C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5250 | `062A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7833,8 +8239,8 @@
 | Dell | Optiplex | OptiPlex 3020M | `0668` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 3030 AIO | `0623` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 7020 | `05A5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Optiplex | OptiPlex 9020 | `05A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 9020 AIO | `05A7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Optiplex | OptiPlex 9020 | `05A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 9020M | `0669` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 9030 AIO | `0625` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex XE2 | `05C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7859,14 +8265,14 @@
 | Dell | Tablet | Tablet 7130 | `0604` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Tablet 7130 | `0605` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Tablet 7140 | `066B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Tablet | Venue 11 Pro 7130 | `0604` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Venue 11 Pro 7130 vPro | `0605` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Tablet | Venue 11 Pro 7130 | `0604` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Venue 11 Pro 7140 | `066B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS Notebook | XPS 13 9343 | `0665` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS Notebook | XPS Notebook 9343 | `0665` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 13 9370 (Coffee Lake 2018) | `083A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 15 9570 (Coffee Lake 2018) | `0853` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS | XPS 15 9575 2-in-1 Kaby Lake-G | `0843` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | XPS Notebook | XPS 13 9343 | `0665` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| Dell | XPS Notebook | XPS Notebook 9343 | `0665` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | EliteBook | HP EliteBook 1050 G1 (GTX 1050) | `8438` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | EliteBook | HP EliteBook 735 G5 (Ryzen Pro) | `8446` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | EliteBook | HP EliteBook 745 G5 (Ryzen Pro) | `8444` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7925,12 +8331,12 @@
 | HP | HP | HP Elite Slice G2 with Zoom Rooms (Windows 10 64-bit, 1703) | `8396` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite Slice for Meeting Rooms (Windows 10 64-bit, 1709) | `8396,81c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Elite x2 1013 G3 Tablet (Windows 10 64-bit, 1709) | `8414` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 700 G1 Microtower PC | `8027` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 700 G1 Microtower PC (Windows 10 64-bit, 1607) | `8027` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 700 G1 Microtower PC (Windows 10 64-bit, 1703) | `8027` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 700 G1 Microtower PC (Windows 10 64-bit, 1709) | `8027` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 700 G1 Microtower PC (Windows 10 64-bit, 1803) | `8027` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 700 G1 Microtower PC (Windows 10 64-bit, 1809) | `8027` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 700 G1 Microtower PC | `8027` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 1703) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 1709) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 705 35W G4 Desktop Mini PC (Windows 10 64-bit, 1803) | `83e9,8464` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7979,12 +8385,12 @@
 | HP | HP | HP EliteDesk 800 65W G4 Desktop Mini PC (Windows 10 64-bit, 1709) | `83e2,8409,845a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 1703) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 95W G4 Desktop Mini PC (Windows 10 64-bit, 1709) | `845a,8409,83e2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G1 Base Model Small Form Factor PC | `1998` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Small Form Factor PC (Windows 10 64-bit, 1607) | `1998` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Small Form Factor PC (Windows 10 64-bit, 1703) | `1998` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Small Form Factor PC (Windows 10 64-bit, 1709) | `1998` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Small Form Factor PC (Windows 10 64-bit, 1803) | `1998` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Small Form Factor PC (Windows 10 64-bit, 1809) | `1998` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G1 Base Model Small Form Factor PC | `1998` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Ultra-slim PC (Windows 10 64-bit, 1607) | `18e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Ultra-slim PC (Windows 10 64-bit, 1703) | `18e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Base Model Ultra-slim PC (Windows 10 64-bit, 1709) | `18e5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7995,12 +8401,12 @@
 | HP | HP | HP EliteDesk 800 G1 Desktop Mini PC (Windows 10 64-bit, 1709) | `1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Desktop Mini PC (Windows 10 64-bit, 1803) | `1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Desktop Mini PC (Windows 10 64-bit, 1809) | `1825` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP EliteDesk 800 G1 Tower PC | `18e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Tower PC (Windows 10 64-bit, 1607) | `18e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Tower PC (Windows 10 64-bit, 1703) | `18e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Tower PC (Windows 10 64-bit, 1709) | `18e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Tower PC (Windows 10 64-bit, 1803) | `18e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G1 Tower PC (Windows 10 64-bit, 1809) | `18e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP EliteDesk 800 G1 Tower PC | `18e4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Small Form Factor PC (Windows 10 64-bit, 1703) | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Small Form Factor PC (Windows 10 64-bit, 1709) | `8299` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP EliteDesk 800 G3 Tower PC (ENERGY STAR) (Windows 10 64-bit, 1703) | `8298` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8066,12 +8472,12 @@
 | HP | HP | HP ProDesk 400 G1 Desktop Mini PC (Windows 10 64-bit, 1709) | `8076` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G1 Desktop Mini PC (Windows 10 64-bit, 1803) | `8076` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G1 Desktop Mini PC (Windows 10 64-bit, 1809) | `8076` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 400 G1 Small Form Factor PC | `18e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G1 Small Form Factor PC (Windows 10 64-bit, 1607) | `18e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G1 Small Form Factor PC (Windows 10 64-bit, 1703) | `18e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G1 Small Form Factor PC (Windows 10 64-bit, 1709) | `18e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G1 Small Form Factor PC (Windows 10 64-bit, 1803) | `18e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G1 Small Form Factor PC (Windows 10 64-bit, 1809) | `18e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 400 G1 Small Form Factor PC | `18e9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G2.5 Small Form Factor PC (Windows 10 64-bit, 1607) | `8105` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G2.5 Small Form Factor PC (Windows 10 64-bit, 1703) | `8105` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G2.5 Small Form Factor PC (Windows 10 64-bit, 1709) | `8105` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8084,19 +8490,19 @@
 | HP | HP | HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 1607) | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 1703) | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 400 G5 Small Form Factor PC (Windows 10 64-bit, 1709) | `83f2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 480 G1 Microtower PC | `198e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G1 Microtower PC (Windows 10 64-bit, 1607) | `198e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G1 Microtower PC (Windows 10 64-bit, 1703) | `198e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G1 Microtower PC (Windows 10 64-bit, 1709) | `198e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G1 Microtower PC (Windows 10 64-bit, 1803) | `198e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G1 Microtower PC (Windows 10 64-bit, 1809) | `198e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 480 G1 Microtower PC | `198e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 480 G3 Microtower PC (Windows 10 64-bit, 1709) | `8060` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 490 G1 Microtower PC | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 490 G1 Microtower PC (Windows 10 64-bit, 1607) | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 490 G1 Microtower PC (Windows 10 64-bit, 1703) | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 490 G1 Microtower PC (Windows 10 64-bit, 1709) | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 490 G1 Microtower PC (Windows 10 64-bit, 1803) | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 490 G1 Microtower PC (Windows 10 64-bit, 1809) | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 490 G1 Microtower PC | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 498 G1 Microtower PC (Windows 10 64-bit, 1607) | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 498 G1 Microtower PC (Windows 10 64-bit, 1703) | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 498 G1 Microtower PC (Windows 10 64-bit, 1709) | `18eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8107,12 +8513,12 @@
 | HP | HP | HP ProDesk 600 G1 Desktop Mini PC (Windows 10 64-bit, 1709) | `21d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Desktop Mini PC (Windows 10 64-bit, 1803) | `21d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Desktop Mini PC (Windows 10 64-bit, 1809) | `21d0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProDesk 600 G1 Small Form Factor PC | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Small Form Factor PC (Windows 10 64-bit, 1607) | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Small Form Factor PC (Windows 10 64-bit, 1703) | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Small Form Factor PC (Windows 10 64-bit, 1709) | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Small Form Factor PC (Windows 10 64-bit, 1803) | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Small Form Factor PC (Windows 10 64-bit, 1809) | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProDesk 600 G1 Small Form Factor PC | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Tower PC (Windows 10 64-bit, 1607) | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Tower PC (Windows 10 64-bit, 1703) | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProDesk 600 G1 Tower PC (Windows 10 64-bit, 1709) | `18e7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8171,12 +8577,12 @@
 | HP | HP | HP ProOne 440 G4 23.8-inch Non-Touch All-in-One Business PC (Windows 10 64-bit, 1709) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 480 G3 20-inch Non-Touch All-in One PC (Windows 10 64-bit, 1703) | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 480 G3 20-inch Non-Touch All-in One PC (Windows 10 64-bit, 1709) | `82a6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP ProOne 600 G1 All-in-One PC | `18e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G1 All-in-One PC (Windows 10 64-bit, 1607) | `18e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G1 All-in-One PC (Windows 10 64-bit, 1703) | `18e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G1 All-in-One PC (Windows 10 64-bit, 1709) | `18e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G1 All-in-One PC (Windows 10 64-bit, 1803) | `18e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G1 All-in-One PC (Windows 10 64-bit, 1809) | `18e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP ProOne 600 G1 All-in-One PC | `18e8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G2 21.5-inch Touch All-in-One PC (Windows 10 64-bit, 1709) | `805e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G3 21.5-inch Non-Touch All-in-One PC (Windows 10 64-bit, 1709) | `82b5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ProOne 600 G3 21.5-inch Non-Touch All-in-One PC (Windows 10 64-bit, 1803) | `82b5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8188,12 +8594,12 @@
 | HP | HP | HP Z1 All-in-One G2 Workstation (Windows 10 64-bit, 1809) | `192F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 1803) | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 1809) | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G3 Workstation | `82bf,82c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z2 Mini G3 Workstation | `82c0,82bf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G3 Workstation (Windows 10 64-bit, 1703) | `82c0,82bf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G3 Workstation (Windows 10 64-bit, 1709) | `82c0,82bf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G3 Workstation (Windows 10 64-bit, 1803) | `82c0,82bf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G3 Workstation (Windows 10 64-bit, 1809) | `82bf,82c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G3 Workstation | `82bf,82c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z2 Mini G3 Workstation | `82c0,82bf` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z230 Small Form Factor Workstation (Windows 10 64-bit, 1803) | `1906,8014,233F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z230 Small Form Factor Workstation (Windows 10 64-bit, 1809) | `1906,233F,8014` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z230 Tower Workstation (Windows 10 64-bit, 1803) | `1905` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8205,23 +8611,23 @@
 | HP | HP | HP Z240 Tower Workstation (Windows 10 64-bit, 1709) | `802f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z240 Tower Workstation (Windows 10 64-bit, 1803) | `802f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z4 G4 Workstation (Windows 10 64-bit, 1703) | `81c5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z440 Workstation | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z440 Workstation (Windows 10 64-bit, 1703) | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z440 Workstation (Windows 10 64-bit, 1709) | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z440 Workstation (Windows 10 64-bit, 1803) | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z440 Workstation (Windows 10 64-bit, 1809) | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z440 Workstation | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z6 G4 Workstation (Windows 10 64-bit, 1703) | `81c6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z640 Workstation | `212a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z640 Workstation (Windows 10 64-bit, 1703) | `212a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z640 Workstation (Windows 10 64-bit, 1709) | `212a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z640 Workstation (Windows 10 64-bit, 1803) | `212a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z640 Workstation (Windows 10 64-bit, 1809) | `212a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z640 Workstation | `212a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G4 Workstation (Windows 10 64-bit, 1703) | `81c7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z840 Workstation | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z840 Workstation (Windows 10 64-bit, 1703) | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z840 Workstation (Windows 10 64-bit, 1709) | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z840 Workstation (Windows 10 64-bit, 1803) | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z840 Workstation (Windows 10 64-bit, 1809) | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z840 Workstation | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro G1 Notebook PC (Windows 10 64-bit, 1709) | `83fd,8471` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 1709) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 1709) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8256,12 +8662,12 @@
 | HP | ZBook | HP ZBook 17 G5 Mobile Workstation | `8428` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | ZBook | HP ZBook Studio G5 | `8429` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | ZBook | HP ZBook Studio x360 G5 | `842A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Zbook | HP ZBook 14 Mobile Workstation | `198f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14 Mobile Workstation (Windows 10 64-bit, 1607) | `198f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14 Mobile Workstation (Windows 10 64-bit, 1703) | `198f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14 Mobile Workstation (Windows 10 64-bit, 1709) | `198f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14 Mobile Workstation (Windows 10 64-bit, 1803) | `198f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14 Mobile Workstation (Windows 10 64-bit, 1809) | `198f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Zbook | HP ZBook 14 Mobile Workstation | `198f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G5 Mobile Workstation (Windows 10 64-bit, 1607) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G5 Mobile Workstation (Windows 10 64-bit, 1703) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G5 Mobile Workstation (Windows 10 64-bit, 1709) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -8286,8 +8692,8 @@
 | Lenovo | ThinkPad | ThinkPad E485 | `20KU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E580 | `20KS,20KT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E585 | `20KV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | ThinkPad | ThinkPad L380 | `20M5,20M6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L380 Yoga | `20M7,20M8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L380 | `20M5,20M6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L480 | `20LS,20LT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L580 | `20LW,20LX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad P1 1st Gen | `20MD,20ME` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8342,20 +8748,59 @@
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C2) | `30C2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C3) | `30C3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator P65 Creator (2018-2019) | `P65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI P65 Creator 8RD |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 8RE |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI P65 Creator 8RF |  | ✅  | audio, display, thermal, keyboard, audio_amp |
+| MSI | Katana | MSI GL63 8RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL63 8RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL73 8RE |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana GL63 8RC/8RD (2018) | `GL63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GL73 8RC/8RD (2018) | `GL73` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Raider | MSI GE63 Raider RGB 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63 Raider RGB 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73 Raider RGB 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE75 Raider 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE63 Raider RGB 8RE/8RF (2018) | `GE63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Raider | MSI Raider GE73 Raider RGB 8RE/8RF (2018) | `GE73` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI GS63 Stealth 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth Thin 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS65 Stealth Thin 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS73 Stealth 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS65 Stealth Thin (2018 Marcos Delgados Oro) | `GS65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Thin | MSI GF62 8RC |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF62 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF62 8RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 8RC Thin |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF63 8RD Thin |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Thin | MSI GF75 Thin 8RD |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF63 Thin (2018-2023 Chasis Liviano) | `GF63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT75 Titan 8RD |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 8RE |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75 Titan 8RG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83 Titan 8RF |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83 Titan 8RG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT75 Titan 8RG (2018 Core i9) | `GT75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Vector | MSI GP63 Leopard 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP63 Leopard 8RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP73 Leopard 8RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP73 Leopard 8RE |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP63 Leopard (2018) | `GP63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP73 Leopard (2018) | `GP73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WE63 8RJ Quadro P2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WE73 8RJ Quadro P2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS63 8SJ Quadro P2000 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS63 8SK Quadro P3200 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS65 8SK Quadro P3200 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WE63 8RJ (2018 Quadro P2000) | `WE63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WE73 8RJ (2018) | `WE73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS65 8SK / 9TM (2018-2019 Quadro RTX 5000) | `WS65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-
-## 📅 Generación 2017 (169 modelos)
+## 📅 Generación 2017 (209 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8436,10 +8881,10 @@
 | HP | HP | HP ProOne 600 G2 21.5-inch Touch All-in-One PC (Windows 10 64-bit, 1703) | `805e` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G2 Workstation (Windows 10 64-bit, 1703) | `192F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G2 Workstation (Windows 10 64-bit, 1709) | `192F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | HP Z1 All-in-One G3 Workstation | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 1607) | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 1703) | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G3 Workstation (Windows 10 64-bit, 1709) | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Z1 All-in-One G3 Workstation | `8115` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z2 Mini G3 Workstation (Windows 10 64-bit, 1607) | `82bf,82c0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z230 Small Form Factor Workstation (Windows 10 64-bit, 1703) | `1906,8014,233F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z230 Small Form Factor Workstation (Windows 10 64-bit, 1709) | `1906,233F,8014` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8450,9 +8895,9 @@
 | HP | HP | HP Z440 Workstation (Windows 10 64-bit, 1607) | `212b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z640 Workstation (Windows 10 64-bit, 1607) | `212a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z840 Workstation (Windows 10 64-bit, 1607) | `2129` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| HP | HP | Sprout Pro by HP | `2b5c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | Sprout Pro by HP (Windows 10 64-bit, 1607) | `2b5c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | Sprout Pro by HP (Windows 10 64-bit, 1703) | `2b5c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | Sprout Pro by HP | `2b5c` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | OMEN | HP OMEN 15 (2017 Rediseño GTX 1060 Max-Q) | `838F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | HP | OMEN | HP OMEN 17 (2017 GTX 1070/1080 120Hz) | `8390` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | HP | OMEN | HP OMEN X Laptop 17 (2017 Overclocking) | `8391` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
@@ -8467,9 +8912,9 @@
 | HP | Probook | HP ProBook 450 G5 Notebook PC (Windows 10 64-bit, 1703) | `837d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 470 G5 Notebook PC (Windows 10 64-bit, 1703) | `837f` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 645 G4 Notebook PC (Windows 10 64-bit, 1703) | `8401` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre Pro x360 G2 Convertible PC (Windows 10 64-bit, 1607) | `8197,8198` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Spectre | HP Spectre Pro x360 G2 Convertible PC | `8197,8198` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Spectre | HP Spectre Pro x360 G2 Convertible PC | `8198` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-| HP | Spectre | HP Spectre Pro x360 G2 Convertible PC (Windows 10 64-bit, 1607) | `8197,8198` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Spectre | HP Spectre x360 13 (Kaby Lake 2017) | `827E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Spectre | HP Spectre x360 15 (2017 4K) | `827F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | HP | ZBook | HP ZBook 14u G4 | `8269` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -8521,15 +8966,54 @@
 | Lenovo | Thinkstation | ThinkStation P510 (Type 30B5) | `30B5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P710 (Type 30B6) | `30B6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P710 (Type 30B7) | `30B7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 7RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 7RDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 7RE |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62M 7RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62M 7RDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62M 7REX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72 7RD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72 7RDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72M 7RDX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72M 7REX |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62VR 7RF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE63VR 7RE Raider |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE63VR 7RF Raider |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE72VR 7RF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE73VR 7RE Raider |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI GE73VR 7RF Raider |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider GE63VR Raider RGB (2017) | `GE63VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Raider | MSI Raider GE73VR Raider RGB (2017) | `GE73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI GS43VR 7RE Phantom Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS63VR 7RF Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS63VR 7RG Stealth Pro Max-Q |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS73VR 7RF Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS73VR 7RG Stealth Pro Max-Q |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Thin | MSI GF62 7RE |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Thin | MSI Thin GF62 (2017-2018) | `GF62` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72VR 7RD Dominator |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72VR 7RE Dominator Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT73EVR 7RE Titan |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73EVR 7RF Titan Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73VR 7RE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73VR 7RF Titan Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75VR 7RE Titan |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT75VR 7RF Titan Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83VR 7RE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83VR 7RF Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT75VR Titan Pro Teclado Rapido Mecanico (2017) | `GT75VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Vector | MSI GP62 7RD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 7RE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62X 7QF Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 7RD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 7RE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WE62 7RJ Quadro M2200 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WE72 7RJ Quadro M2200 |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS63 7RK Quadro P3000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WE62 7RJ (2017 Quadro M2200) | `WE62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WE72 7RJ (2017) | `WE72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS63 7RK / 8SK (2017-2018 Quadro P3200) | `WS63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-
-## 📅 Generación 2016 (117 modelos)
+## 📅 Generación 2016 (139 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8555,15 +9039,15 @@
 | Dell | Latitude | Latitude E5430-non-vPro | `0549` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5430-vPro | `053C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5470 | `06DE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude E5530 | `053D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude E5530 | `054A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5530 non-vPro | `054A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5530 vPro | `053D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude E5530 | `053D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude E5530 | `054A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5570 | `06DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E6230 | `0532` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E6330 | `0533` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Latitude | Latitude E6430 | `0534` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E6430 ATG | `0534` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude E6430 | `0534` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E6430s | `057D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E6530 | `0535` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E7270 | `06DD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8571,8 +9055,8 @@
 | Dell | Optiplex | OptiPlex 3010 | `0585` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 3011 AIO | `05C2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 7010 | `0577` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Dell | Optiplex | OptiPlex 9010 | `052C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 9010 AIO | `0543` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Optiplex | OptiPlex 9010 | `052C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | Optiplex 3011 | `05C2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Precision | Precision M4700 | `053E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision M4800 | `05CC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -8644,14 +9128,35 @@
 | Lenovo | Thinkpad | ThinkPad 11e (Type 20DA) | `20DA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e (Type 20D9) | `20D9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e (Type 20DA) | `20DA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 6QD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL62 6QF |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72 6QD |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Katana | MSI GL72 6QF |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Katana | MSI Katana GL62 (2016 Entrada Gamer) | `GL62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Katana | MSI Katana GL72 (2016 Entrada Gamer) | `GL72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Raider | MSI GE62 6QF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62VR 6RF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 6QF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72VR 6RF Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS43VR 6RE Phantom Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS63VR 6RF Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS73VR 6RF Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS63VR Stealth Pro (2016-2017 1.8kg) | `GS63VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth GS73VR Stealth Pro (2016-2017) | `GS73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Titan | MSI GT72VR 6RD Dominator Tobii |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72VR 6RE Dominator Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT73VR 6RE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT73VR 6RF Titan Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80S 6QF Titan SLI Heroes of the Storm |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83VR 6RE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT83VR 6RF Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT73VR 6RF Titan Pro (2016) | `GT73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Titan | MSI Titan GT83VR Titan SLI (2016-2017) | `GT83VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
-
-## 📅 Generación 2015 (89 modelos)
+| MSI | Vector | MSI GP62 6QF Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 6QF Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS60 6QJ Quadro M2000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QN Quadro M5500 |  | ✅  | audio, display, thermal, keyboard |
+## 📅 Generación 2015 (143 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8716,8 +9221,8 @@
 | Lenovo | ThinkPad | ThinkPad X140E | `20BL,20BM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X250 | `20CL,20CM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 12 | `20DK,20DL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| Lenovo | ThinkPad | ThinkPad Yoga 14 | `20DN,20DM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 14 20FY | `20FY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad Yoga 14 | `20DN,20DM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 15 | `20DQ,20DR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 15 | `20DQ,20DR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad 10 (Type 20C1) | `20C1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8733,18 +9238,71 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 14 20FY (Type 20FY) | `20FY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 15 (Type 20DQ) | `20DQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 15 (Type 20DR) | `20DR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 2QC Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 2QD Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 2QE Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 6QC Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 6QD Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE62 6QE Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 2QC Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 2QD Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 2QE Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 6QC Apache |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 6QD Apache Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Raider | MSI GE72 6QE Apache Pro |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Raider | MSI Raider GE62 Apache Pro (2015-2016) | `GE62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Raider | MSI Raider GE72 Apache Pro (2015-2016) | `GE72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Stealth | MSI GS40 6QE Phantom |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 2QC Ghost |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 2QD Ghost |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 2QE Ghost Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 6QC Ghost |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 6QD Ghost |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS60 6QE Ghost Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI GS70 2QC Stealth |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 2QD Stealth |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 2QE Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 6QC Stealth |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 6QD Stealth |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI GS70 6QE Stealth Pro |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth GS40 6QE Phantom (2015-2016 14-inch) | `GS40` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth GS60 Ghost Pro (2015 Delgado 19mm) | `GS60` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Stealth | MSI Stealth GS70 Stealth Pro (2015 17.3 Delgado) | `GS70` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Titan | MSI GT72 2QD Dominator |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72 2QE Dominator Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72 6QD Dominator G |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72 6QE Dominator Pro G |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72S 6QE Dominator Pro G |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT72S 6QF Dragon Edition 29th |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Titan | MSI GT80 2QD Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80 2QE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80S 6QD Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI GT80S 6QE Titan SLI |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Titan | MSI Titan GT72 Dominator Pro (2015) | `GT72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | MSI | Titan | MSI Titan GT80 Titan SLI Teclado Mecanico Cherry MX (2015) | `GT80` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| MSI | Vector | MSI GP62 2QD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 2QE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 6QD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP62 6QE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 2QD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 2QE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 6QD Leopard |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Vector | MSI GP72 6QE Leopard Pro |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP62 Leopard (2015-2016) | `GP62` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP72 Leopard (2015-2016) | `GP72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS60 2OJ Quadro K2100M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS60 6QH Quadro M600M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WS60 6QI Quadro M1000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 2OK Quadro K3100M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 2OL Quadro K4100M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 2OM Quadro K5100M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QI Quadro M1000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QJ Quadro M2000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QK Quadro M3000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QL Quadro M4000M |  | ✅  | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI WT72 6QM Quadro M5000M |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS60 6QI (2015-2016 Quadro M1000M) | `WS60` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WT72 6QN (2015-2016 NVIDIA Quadro M5500) | `WT72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-
 ## 📅 Generación Legacy (2014) (59 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
@@ -8808,7 +9366,6 @@
 | Dell | Precision | Precision WorkStation T7500 | `026D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Tablet | Latitude 10 - ST2e | `05C3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Tablet | Tablet ST2E | `05C3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-
 ## 📅 Generación Legacy (2013) (3 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
@@ -8816,4 +9373,3 @@
 | Dell | Latitude | Latitude E6410 | `040A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E6410 ATG | `040A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 390 | `04F5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-

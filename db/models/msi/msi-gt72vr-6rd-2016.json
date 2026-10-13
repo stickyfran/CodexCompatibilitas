@@ -1,0 +1,57 @@
+{
+  "id": "msi-gt72vr-6rd-2016",
+  "vendor": "MSI",
+  "family": "Titan",
+  "model_name": "MSI GT72VR 6RD Dominator Tobii",
+  "system_id": "GT72VR-6RD/MS-1785",
+  "dmi_matches": [
+    "GT72VR-6RD",
+    "MS-1785",
+    "MSI GT72VR-6RD",
+    "Micro-Star MS-1785",
+    "MSI GT72VR 6RD Dominator Tobii"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

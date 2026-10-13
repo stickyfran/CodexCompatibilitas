@@ -1,0 +1,57 @@
+{
+  "id": "msi-wt72-2ol-2015",
+  "vendor": "MSI",
+  "family": "Workstation",
+  "model_name": "MSI WT72 2OL Quadro K4100M",
+  "system_id": "WT72-2OL/MS-1781",
+  "dmi_matches": [
+    "WT72-2OL",
+    "MS-1781",
+    "MSI WT72-2OL",
+    "Micro-Star MS-1781",
+    "MSI WT72 2OL Quadro K4100M"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

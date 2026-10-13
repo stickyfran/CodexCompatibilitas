@@ -1,0 +1,57 @@
+{
+  "id": "msi-modern14h-d13m-2024",
+  "vendor": "MSI",
+  "family": "Modern",
+  "model_name": "MSI Modern 14 H D13M Serie H",
+  "system_id": "Modern14H-D13M/MS-14J2",
+  "dmi_matches": [
+    "Modern14H-D13M",
+    "MS-14J2",
+    "MSI Modern14H-D13M",
+    "Micro-Star MS-14J2",
+    "MSI Modern 14 H D13M Serie H"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

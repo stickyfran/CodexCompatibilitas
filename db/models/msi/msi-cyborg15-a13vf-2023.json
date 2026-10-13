@@ -1,0 +1,57 @@
+{
+  "id": "msi-cyborg15-a13vf-2023",
+  "vendor": "MSI",
+  "family": "Cyborg",
+  "model_name": "MSI Cyborg 15 A13VF",
+  "system_id": "Cyborg15-A13VF/MS-15K1",
+  "dmi_matches": [
+    "Cyborg15-A13VF",
+    "MS-15K1",
+    "MSI Cyborg15-A13VF",
+    "Micro-Star MS-15K1",
+    "MSI Cyborg 15 A13VF"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

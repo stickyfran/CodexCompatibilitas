@@ -1,0 +1,69 @@
+{
+  "id": "msi-gt77-12ugs-2022",
+  "vendor": "MSI",
+  "family": "Titan",
+  "model_name": "MSI Titan GT77 12UGS",
+  "system_id": "GT77-12UGS/MS-17Q1",
+  "dmi_matches": [
+    "GT77-12UGS",
+    "MS-17Q1",
+    "MSI GT77-12UGS",
+    "Micro-Star MS-17Q1",
+    "MSI Titan GT77 12UGS"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "msi-wmi",
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "cirrus-cs35l41",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}
