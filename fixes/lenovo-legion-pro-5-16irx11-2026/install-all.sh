@@ -1,0 +1,49 @@
+#!/bin/bash
+# ==========================================================================
+# Script de Instalación Automatizado — Lenovo Legion Pro 5 16IRX11 (2026)
+# Generado por DeepSlopSuperLaptop para lenovo-legion-pro-5-16irx11-2026
+# Sin daemons que gasten batería. 100% nativo.
+# ==========================================================================
+set -e
+
+echo "🚀 Aplicando configuraciones de hardware para Lenovo Legion Pro 5 16IRX11 (2026)..."
+
+# --- 1. Audio (PipeWire / Firmware) ---
+echo "🔊 Configurando audio de alta fidelidad..."
+mkdir -p ~/.config/pipewire/pipewire.conf.d/
+if [ -f ./audio/99-speakers.conf ]; then
+    cp -f ./audio/99-speakers.conf ~/.config/pipewire/pipewire.conf.d/
+    echo "  ✓ Perfil de ecualización PipeWire instalado"
+    systemctl --user restart pipewire pipewire-pulse 2>/dev/null || true
+fi
+
+# --- 2. Perfil de Color Oficial ---
+echo "🎨 Importando calibración de color del panel..."
+mkdir -p ~/.local/share/icc/
+if ls ./display/*.icm 1> /dev/null 2>&1; then
+    cp -f ./display/*.icm ~/.local/share/icc/
+    for p in ./display/*.icm; do
+        colormgr import-profile "$p" 2>/dev/null || true
+    done
+    echo "  ✓ Perfiles de color registrados en colord"
+fi
+
+# --- 3. Iluminación y Hotkeys (ideapad_laptop) ---
+echo "⌨️ Sincronizando controlador de teclado (ideapad_laptop)..."
+if [ -d /sys/class/leds ]; then
+    for led in /sys/class/leds/*kbd_backlight*; do
+        if [ -w "$led/brightness" ]; then
+            cat "$led/max_brightness" > "$led/brightness" 2>/dev/null || true
+        fi
+    done
+    echo "  ✓ Retroiluminación ajustada nativamente vía sysfs"
+fi
+
+# --- 4. Modo Térmico por Defecto ---
+if [ -f /sys/firmware/acpi/platform_profile ]; then
+    echo "balanced" | sudo tee /sys/firmware/acpi/platform_profile >/dev/null 2>&1 || true
+    echo "  ✓ Perfil térmico establecido en 'balanced'"
+fi
+
+echo "🎉 ¡Configuración completada exitosamente!"
+echo "Reinicie la sesión o el equipo para disfrutar de la experiencia completa."

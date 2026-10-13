@@ -1,0 +1,56 @@
+{
+  "id": "lg-lg-gram-pro-16-16z90tp-2025-lunar-lake-2025",
+  "vendor": "LG",
+  "family": "Gram",
+  "model_name": "LG LG gram Pro 16 16Z90TP (2025 Lunar Lake) (2025)",
+  "system_id": "16Z90TP",
+  "dmi_matches": [
+    "LG gram Pro 16 16Z90TP (2025 Lunar Lake)",
+    "16Z90TP",
+    "LG LG gram Pro 16 16Z90TP (2025 Lunar Lake)",
+    "LG 16Z90TP"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "lg_laptop",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

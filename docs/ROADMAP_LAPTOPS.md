@@ -4,43 +4,53 @@
 
 ## 📊 Estadísticas Globales
 
-- **Total Laptops Indexadas:** `9557`
-- **Total Scripts `install-all.sh` Generados:** `9557` (100.0% cubierto)
+- **Total Laptops Indexadas:** `10026`
+- **Total Scripts `install-all.sh` Generados:** `10026` (100.0% cubierto)
 - **Cobertura de Paridad Funcional de Hardware:** `100.0%` (Audio DSP, Color, Termales ACPI, Teclados)
 - **Desglose por Fabricante OEM:**
-  - **ASUS:** `282` modelos
-  - **Dell:** `1425` modelos
-  - **HP:** `4990` modelos
-  - **Lenovo:** `2119` modelos
+  - **HP:** `5044` modelos
+  - **Lenovo:** `2239` modelos
+  - **Dell:** `1498` modelos
   - **MSI:** `741` modelos
-
+  - **ASUS:** `318` modelos
+  - **Acer:** `70` modelos
+  - **Microsoft:** `32` modelos
+  - **Razer:** `31` modelos
+  - **Samsung:** `24` modelos
+  - **LG:** `21` modelos
+  - **Framework:** `8` modelos
 ### Resumen por Generación / Año
 
 | Año | Modelos Soportados | Scripts Listos | Estado |
 | :--- | :---: | :---: | :--- |
-| **2026** | 1939 | 1939 | ✅ 100% Scripts Listos |
-| **2025** | 745 | 745 | ✅ 100% Scripts Listos |
-| **2024** | 812 | 812 | ✅ 100% Scripts Listos |
-| **2023** | 1278 | 1278 | ✅ 100% Scripts Listos |
-| **2022** | 665 | 665 | ✅ 100% Scripts Listos |
-| **2021** | 1298 | 1298 | ✅ 100% Scripts Listos |
-| **2020** | 943 | 943 | ✅ 100% Scripts Listos |
-| **2019** | 867 | 867 | ✅ 100% Scripts Listos |
-| **2018** | 738 | 738 | ✅ 100% Scripts Listos |
-| **2017** | 317 | 317 | ✅ 100% Scripts Listos |
-| **2016** | 222 | 222 | ✅ 100% Scripts Listos |
-| **2015** | 241 | 241 | ✅ 100% Scripts Listos |
+| **2026** | 1959 | 1959 | ✅ 100% Scripts Listos |
+| **2025** | 767 | 767 | ✅ 100% Scripts Listos |
+| **2024** | 881 | 881 | ✅ 100% Scripts Listos |
+| **2023** | 1351 | 1351 | ✅ 100% Scripts Listos |
+| **2022** | 750 | 750 | ✅ 100% Scripts Listos |
+| **2021** | 1380 | 1380 | ✅ 100% Scripts Listos |
+| **2020** | 1010 | 1010 | ✅ 100% Scripts Listos |
+| **2019** | 893 | 893 | ✅ 100% Scripts Listos |
+| **2018** | 752 | 752 | ✅ 100% Scripts Listos |
+| **2017** | 323 | 323 | ✅ 100% Scripts Listos |
+| **2016** | 225 | 225 | ✅ 100% Scripts Listos |
+| **2015** | 243 | 243 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2014])** | 59 | 59 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2013])** | 3 | 3 | ✅ 100% Scripts Listos |
 
 ---
 
-## 📅 Generación 2026 (1939 modelos)
+## 📅 Generación 2026 (1959 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | ASUS | TUF Gaming | ASUS TUF Gaming A14 (2024-2026 14-inch Ultraportable) | `FA401` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F16 FX608JV (2026) | `FX608JV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | Asus Tuf Gaming F16 2026 | `2026` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 16 AN16-54 RTX 50 (2026) | `AN16-54` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 18 PH18-74 RTX 50 (2026) | `PH18-74` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift 16 AI SF16-51 Lunar Lake (2026) | `SF16-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Dell Alienware m18 R3 RTX 50 (2026) | `0DB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Dell Desktops | Dell Desktops Dell Slim DS1265 | `0E0F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Desktops | Dell Desktops Dell Slim DS1265 | `0E7E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Desktops | Dell Desktops Dell Tower DT1265 | `0E0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -385,6 +395,7 @@
 | Dell | Dell Pro Rugged Laptops | Dell Pro Rugged Laptops Dell Pro Rugged 12 Tablet RA02260 | `0D67` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Rugged Laptops | Dell Pro Rugged Laptops Dell Pro Rugged 13 RA13250 | `0CDA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Rugged Laptops | Dell Pro Rugged Laptops Dell Pro Rugged 14 RB14250 | `0CD9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | G-Series | Dell Dell G16 7650 Core Ultra HX (2026) | `0DD0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Latitude | Latitude 3140 | `0BDC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3140 | `0BE2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3440 | `0C1B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -591,6 +602,8 @@
 | Dell | XPS Notebook | XPS Notebook XPS 13 DX13260 | `0E54` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 14 9440 | `0C6B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 15 9530 | `0BEB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | Dell XPS 16 9650 Arrow Lake (2026) | `0E42` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Framework | Framework Laptop | Framework Framework Laptop 16 (AMD Ryzen AI 300 Series) (2026) | `FRANWDCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 23H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 24H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 11 64-bit, 25H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -1050,6 +1063,8 @@
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8ace` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8c5b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC | `8c5d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Omen | HP Omen 16-wf2000 RTX 50 (2026) | `8E11` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | OmniBook | HP OmniBook 7 16 AI PC (2026) | `8E51` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC (Windows 11 64-bit, 24H2) | `8f2f,9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC (Windows 11 64-bit, 25H2) | `8f2f,9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 Flip G2i 13 inch Notebook AI PC | `8f2f,9035` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -1162,6 +1177,7 @@
 | HP | Probook | HP ProBook 465 16 inch G11 Notebook PC | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 4 SFF G1i Desktop AI PC | `8FAE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 4 Tower G1i E Desktop AI PC | `8D13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Victus | HP Victus 16-r2000 RTX 50 (2026) | `8E27` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Zbook | HP ZBook 8 G1ah 14 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8e18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ah 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8e18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ah 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8e18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -1254,6 +1270,10 @@
 | HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8F0D,8F0C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC | `8F0C,8F0D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G2i 16 inch Mobile Workstation PC | `8F0D,8F0C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram Pro 17 17Z90TP (2026 Lunar Lake) (2026) | `17Z90TP` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 15IRX11 (2026) | `85DV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 5 16IRX11 (2026) | `85DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 7 16IRX11 (2026) | `85DE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M70A Gen 3 | `11VM,11VN,11VQ,11VL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70A Gen 6 | `13B0,13B1,13B2,13AY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70Q Gen 5 | `12TF,12TE,12TG,12TD,13...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -1297,6 +1317,7 @@
 | Lenovo | Other | ThinkStation P8 | `30HJ,30HF,30HM,30HH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P920 | `30BC,30BD,30BV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation PX | `30EV,30EU,30H3,30EW,30EY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 16 Gen 8 IML (2026) | `21NS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E14 Gen 5 Type 21JK 21JL | `21JK,21JL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E14 Gen 5 Type 21JR 21JS | `21JR,21JS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E14 Gen 6 Type 21M3 21M4 | `21M3,21M4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -1970,6 +1991,7 @@
 | Lenovo | Thinkstation | ThinkStation PX (Type 30EW) | `30EW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation PX (Type 30EY) | `30EY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation PX (Type 30H3) | `30H3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Pro 9 16IRX11 (2026) | `85DN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI Raider 18 HX A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider 18 HX A16VIG | `Raider18-A16VIG/MS-1827` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Stealth | MSI Stealth 18 AI Studio A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
@@ -1978,16 +2000,25 @@
 | MSI | Titan | MSI Titan 18 HX A16VIG | `Titan18-A16VIG/MS-1824` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Vector | MSI Vector 17 HX A16VIG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 17 HX A16VIG | `Vector17-A16VIG/MS-17S4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2025 (745 modelos)
+| Microsoft | Surface | Microsoft Surface Laptop Studio 3 (2026) | `SurfaceLaptopStudio3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 18 (2026 RTX 5090) (2026) | `RZ09-0530` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Samsung | Galaxy Book5 | Samsung Galaxy Book5 Ultra RTX 50 Series (2026) | `NP960XHA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2025 (767 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | ASUS | ROG Strix | ASUS ROG Strix SCAR 18 Extreme (2025-2026 RTX 50-Series) | `G815` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2025-2026 Ryzen AI 300) | `GA404` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA508WV (2025) | `FA508WV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | Vivobook | ASUS Vivobook 14 Copilot+ PC (2025-2026 Intel Core / Ryzen AI) | `X1404` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | ASUS Vivobook 15 Copilot+ PC (2025-2026 Intel Core / Ryzen AI) | `X1504` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | ASUS Vivobook 16 Copilot+ PC (2025-2026 Intel Core / Ryzen AI) | `X1607` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Zenbook | ASUS Zenbook 14 OLED (2025-2026 Intel Core Ultra Serie 2) | `UX3407` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| Acer | Nitro | Acer Nitro 16 AN16-53 Core Ultra (2025) | `AN16-53` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 18 PH18-73 Core Ultra (2025) | `PH18-73` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift 14 AI SF14-51 Lunar Lake (2025) | `SF14-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Dell Alienware m16 R3 Core Ultra (2025) | `0DB1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x16 R3 Core Ultra (2025) | `0DB6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Dell Laptops | DA16250 | `0CE6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Laptops | DA16250 | `0CE7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Laptops | Dell Laptops DA16250 | `0CE6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -1996,6 +2027,7 @@
 | Dell | Dell Pro Max Desktops | Dell Pro Max Desktops FCT2250 | `0CE2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Max Desktops | FCT2250 | `0CE1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Dell Pro Max Desktops | FCT2250 | `0CE2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | G-Series | Dell Dell G15 5550 Core Ultra (2025) | `0DCE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Latitude | Latitude 3330 | `0B40` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3330 | `0B43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3340 | `0C19` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2120,6 +2152,9 @@
 | Dell | XPS Notebook | XPS Notebook XPS 17 9720 | `0AFF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 17 9730 | `0BDA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 17 9730 | `0BDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | Dell XPS 13 9350 Lunar Lake (2025) | `0D40` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 14 9450 Lunar Lake (2025) | `0D41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Framework | Framework Laptop | Framework Framework Laptop 13 (Intel Core Ultra Series 2 Lunar Lake) (2025) | `FRANMGCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 22H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 23H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 24H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -2415,6 +2450,8 @@
 | HP | HP | HP Z8 G5 Workstation Desktop PC (Windows 11 64-bit, 25H2) | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z8 G5 Workstation Desktop PC | `88C0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZCentral 4R Workstation (Windows 11 64-bit, 25H2) | `873E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Omen | HP Omen Transcend 14 Gen 2 (2025) | `8D14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | OmniBook | HP OmniBook 5 14 Core Ultra (2025) | `8D51` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 14 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1i 16 inch Notebook AI PC (Windows 10 64-bit, 22H2) | `8DEA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 4 G1iR 14 inch Notebook PC (Windows 10 64-bit, 22H2) | `8E58,8E2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2455,6 +2492,7 @@
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 11 64-bit, 25H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC | `8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Victus | HP Victus 15-fa3000 Core Ultra (2025) | `8D25` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Zbook | HP ZBook 8 G1ak 14 inch Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8e19` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ak 14 inch Mobile Workstation PC (Windows 11 64-bit, 24H2) | `8e19` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 8 G1ak 14 inch Mobile Workstation PC (Windows 11 64-bit, 25H2) | `8e19` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -2531,6 +2569,10 @@
 | HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 23H2) | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook X G1i 16 inch Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8e1d` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram Pro 16 16Z90TP (2025 Lunar Lake) (2025) | `16Z90TP` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 15IRX10 (2025) | `84DV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 5 16IRX10 (2025) | `84DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 7 16IRX10 (2025) | `84DE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M70Q Gen 2 | `11N3,11N4,11MY,11N0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70Q Type 11e8 | `11E8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70Q | `11DT,11DU,11DV,11DW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2553,6 +2595,7 @@
 | Lenovo | Other | ThinkStation P350 | `30E4,30E3,30E6,30E5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P360 TINY | `30FB,30FD,30FA,30FC,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P360 | `30FN,30FQ,30FM,30FW,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 8 IML (2025) | `21NR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L14 Gen 4 Type 21H5 21H6 | `21H6,21H5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L15 Gen 4 Type 21H7 21H8 | `21H8,21H7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad P1 Gen 5 Type 21DC 21DD | `21DD,21DC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2718,6 +2761,7 @@
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FH) | `30FH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FJ) | `30FJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FK) | `30FK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Pro 9 16IRX10 (2025) | `84DN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Claw | MSI MSI Claw 8 AI+ A2VM (2025-2026 Lunar Lake 8-inch) | `Claw8AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Raider | MSI Raider 18 HX A15VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Raider | MSI Raider 18 HX A15VHG | `Raider18-A15VHG/MS-1826` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
@@ -2727,7 +2771,10 @@
 | MSI | Titan | MSI Titan 18 HX A15VIG | `Titan18-A15VIG/MS-1823` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | MSI | Vector | MSI Vector 16 HX A15VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 16 HX A15VHG | `Vector16-A15VHG/MS-16V4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2024 (812 modelos)
+| Microsoft | Surface | Microsoft Surface Pro 12 Lunar Lake (2025) | `SurfacePro12` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 16 (2025 Core Ultra) (2025) | `RZ09-0520` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Samsung | Galaxy Book5 | Samsung Galaxy Book5 Pro 360 Lunar Lake (2025) | `NP960QHA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2024 (881 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -2740,8 +2787,13 @@
 | ASUS | ProArt | ASUS ProArt PZ13 IP52 Detachable Snapdragon X (2024-2026) | `HT5306` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2024 CNC OLED Ryzen 8000) | `GA403` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G16 (2024-2026 OLED Core Ultra) | `GU605` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| ASUS | TUF Gaming | ASUS TUF Gaming A14 FA401WV (2024) | `FA401WV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming A15 (2024-2026 Ryzen 8000/AI) | `FA508` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA507UI (2024) | `FA507UI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA507UV (2024) | `FA507UV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming F16 (2024-2026 16-inch 13th/14th Gen) | `FX607` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F16 FX607JU (2024) | `FX607JU` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F16 FX607JV (2024) | `FX607JV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | Vivobook | ASUS Vivobook S 14 OLED RGB 1-Zona (2024-2026) | `S5406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb |
 | ASUS | Vivobook | ASUS Vivobook S 15 Copilot+ Snapdragon X Elite (2024-2026) | `S5507` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | ASUS Vivobook S 15 OLED RGB 1-Zona (2024-2026) | `S5506` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb |
@@ -2751,6 +2803,21 @@
 | ASUS | Zenbook | ASUS Zenbook Duo Dual 14 OLED (2024-2026 Teclado Magnetico) | `UX8406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | Zenbook | ASUS Zenbook S 14 (2024-2026 Lunar Lake Ceraluminum) | `UX5406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | ASUS Zenbook S 16 (2024-2026 Strix Point Ceraluminum) | `UM5606` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 14 AN14-41 Compact (2024) | `AN14-41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 16 AN16-42 Hawk Point (2024) | `AN16-42` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 16 AN16-52 14th Gen (2024) | `AN16-52` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 17 AN17-71 (2024) | `AN17-71` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 16 PH16-72 14th Gen (2024) | `PH16-72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 18 PH18-72 Mini-LED (2024) | `PH18-72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios Neo 16 PHN16-72 (2024) | `PHN16-72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift 14 AI SF14-11 Snapdragon X (2024) | `SF14-11` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift Go 14 SFG14-43 Hawk Point (2024) | `SFG14-43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift Go 14 SFG14-72 Core Ultra (2024) | `SFG14-72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Dell Alienware m16 R2 Redesigned (2024) | `0CB1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m18 R2 14th Gen (2024) | `0CB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x16 R2 14th Gen (2024) | `0CB6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5540 14th Gen (2024) | `0CCE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G16 7640 14th Gen HX (2024) | `0CD0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Latitude | Latitude 3120 | `0A33` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3310 | `097F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3320 | `0A88` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -2909,6 +2976,11 @@
 | Dell | XPS Notebook | XPS Notebook XPS 13 9315 2-in-1 | `0B34` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 13 9315 2-in-1 | `0B49` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook XPS 15 9510 | `0A61` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | Dell XPS 13 9340 Core Ultra (2024) | `0C40` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 13 9345 Snapdragon X Elite (2024) | `0C43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 14 9440 OLED (2024) | `0C41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 16 9640 4K OLED (2024) | `0C42` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Framework | Framework Laptop | Framework Framework Laptop 13 (Intel Core Ultra Series 1) (2024) | `FRANMFCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 11 64-bit, 24H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Elitebook | HP EliteBook 1040 14 inch G10 Notebook PC (Windows 11 64-bit, 21H2) | `8B41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 14 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3049,6 +3121,13 @@
 | HP | HP | HP ZHAN 66 Pro A 14 G5 Notebook PC | `89CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 21H2) | `8958,8959,8ace,8acd,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 11 64-bit, 22H2) | `8958,8959,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Omen | HP Omen 16-wf1000 14th Gen (2024) | `8C11` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 16-xf1000 Hawk Point (2024) | `8C12` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 17-db0000 Zen 4 (2024) | `8C13` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen Transcend 14 OLED (2024) | `8C14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | OmniBook | HP OmniBook Ultra 14 AMD Strix Point (2024) | `8C52` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | OmniBook | HP OmniBook Ultra Flip 14 Lunar Lake (2024) | `8C53` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | OmniBook | HP OmniBook X 14 Snapdragon X Elite (2024) | `8C51` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C83` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 440 14 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `8A9E,8977` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 445 14 inch G10 Notebook PC (Windows 11 64-bit, 22H2) | `8B5C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3062,6 +3141,12 @@
 | HP | Probook | HP ProBook 460 16 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C84` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 465 16 inch G11 Notebook PC (Windows 10 64-bit, 22H2) | `8C79` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook Fortis 14 inch G9 Notebook PC (Windows 11 64-bit, 22H2) | `89b0,8b4b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 14-eu0000 Core Ultra (2024) | `8C01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 16-aa0000 Core Ultra (2024) | `8C02` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Victus | HP Victus 15-fa2000 14th Gen (2024) | `8C25` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 15-fb2000 Hawk Point (2024) | `8C26` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 16-r1000 14th Gen (2024) | `8C27` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 16-s1000 Hawk Point (2024) | `8C28` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 22H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 23H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -3079,6 +3164,18 @@
 | HP | Zbook | HP ZBook Studio 16 inch G10 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8b8f` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G11 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8cf5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC (Windows 11 64-bit, 21H2) | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram 16Z90S (2024 Core Ultra) (2024) | `16Z90S` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 17Z90S (2024 Core Ultra) (2024) | `17Z90S` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram Pro 16Z90SP (2024 RTX 3050) (2024) | `16Z90SP` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 15AHP9 (2024) | `83DX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 15IAX9 (2024) | `83GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 15IRX9 (2024) | `83DV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 7i 16IRX9 (2024) | `83FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 5 16ARX9 (2024) | `83DG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 5 16IRX9 (2024) | `83DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 7 16IRX9 (2024) | `83DE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Slim 5 16AHP9 (2024) | `83DH` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Slim 5 16IRH9 (2024) | `83DK` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M70Q Gen 3 | `11TY,11U0,11T3,11X6,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70Q Gen 4 | `12E5,12E3,12E4,12E6,13FG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70S Gen 3 | `11V8,11TC,11T7,11TB,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3098,6 +3195,9 @@
 | Lenovo | Other | ThinkCentre M90S Gen 4 | `12ST,12HS,12HQ,12HR,12HT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90T Gen 3 | `11TN,11TM,11TU,11TV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90T Gen 4 | `12HL,12HN,12HK,12HM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 7 IML (2024) | `21MR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 16 Gen 7 IML (2024) | `21MS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 16p Gen 5 IRX (2024) | `21N5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E14 Gen 2 Type 20TA 20TB | `20TB,20TA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E14 Gen 3 Type 20YE 20YD 20Y7 20YF | `20YF,20Y7,20YE,20YD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E14 Gen 4 Type 21E3 21E4 | `21E4,21E3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3391,6 +3491,9 @@
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 2 Type 20W8 20W9 (Type 20W9) | `20W9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AW) | `21AW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AX) | `21AX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Pro 7 14ASP9 (2024) | `83HN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Pro 7 14IMH9 (2024) | `83E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Pro 9 16IMH9 Mini-LED (2024) | `83DN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Claw | MSI MSI Claw A1M (2024 Handheld Intel Core Ultra 7) | `ClawA1M` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Commercial | MSI Commercial 14 H A13MG |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Commercial | MSI Commercial 14 H A13MG | `Commercial14-A13MG/MS-14N2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3543,7 +3646,20 @@
 | MSI | Vector | MSI Vector 17 HX A14VGG | `Vector17-A14VGG/MS-17S3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 17 HX A14VHG |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector 17 HX A14VHG | `Vector17-A14VHG/MS-17S3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2023 (1278 modelos)
+| Microsoft | Surface | Microsoft Surface Laptop 7 13.8 Snapdragon X (2024) | `SurfaceLaptop7_13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Laptop 7 15 Snapdragon X (2024) | `SurfaceLaptop7_15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 10 for Business (2024) | `SurfacePro10` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 11 Snapdragon X Elite OLED (2024) | `SurfacePro11` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 14 (2024 Ryzen 8945HS) (2024) | `RZ09-0508` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 16 (2024 240Hz OLED) (2024) | `RZ09-0510` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 18 (2024 4K 200Hz TB5) (2024) | `RZ09-0509` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Samsung | Galaxy Book4 | Samsung Galaxy Book4 Edge 14 Snapdragon X Elite (2024) | `NP940XMA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book4 | Samsung Galaxy Book4 Edge 16 Snapdragon X Elite (2024) | `NP960XMA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book4 | Samsung Galaxy Book4 Pro 14 Touch AMOLED (2024) | `NP940XGK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book4 | Samsung Galaxy Book4 Pro 16 Touch AMOLED (2024) | `NP960XGK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book4 | Samsung Galaxy Book4 Pro 360 16 Anti-Reflective (2024) | `NP960QGK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book4 | Samsung Galaxy Book4 Ultra 16 RTX 4080 (2024) | `NP960XGL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2023 (1351 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -3560,8 +3676,14 @@
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2023 RTX 40 Mini-LED) | `GA402X` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G16 / M16 (2023 16:10) | `GU603` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus M16 (2023 Nebula HDR Mini-LED) | `GU604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA507NV (2023) | `FA507NV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA507XI (2023) | `FA507XI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming A16 Advantage Edition (2023-2025 All-AMD 16:10) | `FA617` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A16 Advantage FA617NS (2023) | `FA617NS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A16 Advantage FA617XS (2023) | `FA617XS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming A17 (2023-2024) | `FA707` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 FX507VU (2023) | `FX507VU` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 FX507ZV (2023) | `FX507ZV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming F17 (2023-2024) | `FX707` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | Vivobook | ASUS Vivobook 13 Slate OLED Refresh (2023-2025) | `T3304` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | ASUS | Vivobook | ASUS Vivobook Go 14 Serie N / Ryzen 7000 (2023-2026) | `E1404` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3570,6 +3692,27 @@
 | ASUS | Vivobook | ASUS Vivobook Pro 16 OLED Intel Core i9 RTX 4060/4070 (2023-2025) | `K6604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | ASUS | Zenbook | ASUS Zenbook Pro 14 OLED 120Hz RTX 4070 (2023-2025) | `UX6404` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | Zenbook | ASUS Zenbook S 13 OLED (2023-2025 Ultradelgada 1cm 1kg) | `UX5304` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| Acer | Nitro | Acer Nitro 16 AN16-41 Zen 4 (2023) | `AN16-41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 16 AN16-51 13th Gen (2023) | `AN16-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 17 AN17-41 (2023) | `AN17-41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 17 AN17-51 (2023) | `AN17-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 16 PH16-71 (2023) | `PH16-71` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 18 PH18-71 Mini-LED (2023) | `PH18-71` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Triton 14 PT14-51 (2023) | `PT14-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Triton 17 X PTX17-71 (2023) | `PTX17-71` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift Edge 16 SFE16-43 OLED (2023) | `SFE16-43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift Go 14 SFG14-71 OLED 90Hz (2023) | `SFG14-71` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift Go 16 SFG16-71 3.2K OLED (2023) | `SFG16-71` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift X 14 SFX14-71G OLED RTX (2023) | `SFX14-71G` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Dell Alienware m16 R1 AMD (2023) | `0BB2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m16 R1 Intel (2023) | `0BB1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m18 R1 AMD (2023) | `0BB4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m18 R1 Intel (2023) | `0BB3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x14 R2 (2023) | `0BB5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x16 R1 (2023) | `0BB6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5530 Raptor Lake (2023) | `0BCE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5535 AMD Zen 4 (2023) | `0BCF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G16 7630 Raptor Lake HX (2023) | `0BD0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Latitude | Latitude 3190 2-in-1 | `081F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3190 | `081E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3310 2-IN-1 | `0980` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -3679,6 +3822,11 @@
 | Dell | XPS Notebook | XPS Notebook 9500 | `097D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9700 | `098F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9710 | `0A5D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | Dell XPS 15 9530 (2023) | `0BB8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 17 9730 (2023) | `0BB9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Framework | Framework Laptop | Framework Framework Laptop 13 (AMD Ryzen 7040) (2023) | `FRANMDCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Framework | Framework Laptop | Framework Framework Laptop 13 (Intel 13th Gen) (2023) | `FRANMECP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Framework | Framework Laptop | Framework Framework Laptop 16 (AMD Ryzen 7040 + RX 7700S) (2023) | `FRANWCCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 10 64-bit, 21H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 10 64-bit, 22H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Dragonfly 13.5 inch G4 Notebook PC (Windows 11 64-bit, 21H2) | `8b63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -4254,6 +4402,10 @@
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 21H1) | `8959,8958,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 21H2) | `8958,8959,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 99 Pro 23.8 inch G9 All-in-One Desktop PC (Windows 10 64-bit, 22H2) | `8959,8958,8acd,8ace,8c...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Omen | HP Omen 16-wf0000 13th Gen (2023) | `8B11` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 16-xf0000 Zen 4 (2023) | `8B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 17-ck2000 13th Gen (2023) | `8B13` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen Transcend 16 OLED (2023) | `8B14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 20H2) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 21H1) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G8 Notebook PC (Windows 10 64-bit, 21H2) | `8A73,8A83,87DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4345,6 +4497,12 @@
 | HP | Probook | HP ProBook x360 435 G8 Notebook PC | `8886` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 600 G6 Desktop Mini PC | `8715` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G6 PCI Microtower PC | `8713` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 13.5-ef1000 (2023) | `8B01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 16-f2000 (2023) | `8B02` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Victus | HP Victus 15-fa1000 Raptor Lake (2023) | `8B25` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 15-fb1000 Zen 3+ (2023) | `8B26` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 16-r0000 13th Gen (2023) | `8B27` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 16-s0000 Zen 4 (2023) | `8B28` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 10 64-bit, 21H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 10 64-bit, 22H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Firefly 14 inch G10 A Mobile Workstation PC (Windows 11 64-bit, 21H2) | `8b75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -4412,6 +4570,20 @@
 | HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC (Windows 10 64-bit, 21H1) | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC (Windows 10 64-bit, 21H2) | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio 16 inch G9 Mobile Workstation PC (Windows 10 64-bit, 22H2) | `89c3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram Style 14Z90RS (2023 Haptic OLED) (2023) | `14Z90RS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram Style 16Z90RS (2023 Haptic 120Hz) (2023) | `16Z90RS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram SuperSlim 15Z90RT (2023 990g OLED) (2023) | `15Z90RT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 15APH8 (2023) | `82XW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 15IRH8 (2023) | `82XV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 16APH8 (2023) | `82XU` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo Lenovo LOQ 16IRH8 (2023) | `82XW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 5 16ARX8 (2023) | `82WM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 5 16IRX8 (2023) | `82WK` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 7 16ARX8 (2023) | `82WS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Pro 7 16IRX8 (2023) | `82WQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Slim 5 14APH8 OLED (2023) | `82Y5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Slim 5 16APH8 (2023) | `82Y9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Slim 5 16IRH8 (2023) | `82YA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M720Q | `10T7,10TA,10UA,10TC,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M720S | `10SV,10SX,10U6,10TR,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M720T | `10U5,10U4,10SW,10SQ,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4420,6 +4592,11 @@
 | Lenovo | Other | ThinkCentre M920T | `10U0,10U1,10SG,10TM,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M920X | `10T5,10S3,10S0,10T6,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P330 TINY | `30CF,30CG,30CE,30D6,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 5+ IAP (2023) | `21G6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 6 IRL (2023) | `21KG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 16 Gen 5+ IAP (2023) | `21G8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 16 Gen 6 IRL (2023) | `21KH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 16p Gen 4 IRH (2023) | `21J8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 11e 5TH Gen Type 20LR 20LQ | `20LR,20LQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E14 Gen 2 Type 20T6 20T7 | `20T7,20T6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad E14 Type 20RA 20RB | `20RA,20RB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4660,6 +4837,9 @@
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D5) | `30D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D6) | `30D6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D7) | `30D7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Pro 7 14ARP8 (2023) | `82Y4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Pro 7 14IRH8 (2023) | `82Y7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Pro 9 16IRH8 Mini-LED (2023) | `83BY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 17 C7V (2023-2025 Dragon Range + Wi-Fi 7) | `Alpha17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 17 C7VF |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 17 C7VF | `Alpha17-C7VF/MS-17S5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4825,7 +5005,16 @@
 | MSI | Vector | MSI Vector GP78 HX 13VH | `GP78HX-13VH/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP78 HX 13VI / 14V (2023-2025) | `GP78HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Vector | MSI Vector GP78 HX 13VI | `GP78HX-13VI/MS-17S1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2022 (665 modelos)
+| Microsoft | Surface | Microsoft Surface Laptop Go 3 (2023) | `SurfaceLaptopGo3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Laptop Studio 2 (2023) | `SurfaceLaptopStudio2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 14 (2023 Ryzen 7940HS) (2023) | `RZ09-0482` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 16 (2023 Dual-Mode Mini-LED) (2023) | `RZ09-0483` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 18 (2023 Desktop Replacement) (2023) | `RZ09-0484` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Samsung | Galaxy Book | Samsung Galaxy Book3 Pro 14 3K Dynamic AMOLED 120Hz (2023) | `NP940XFG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book3 | Samsung Galaxy Book3 Pro 16 3K AMOLED (2023) | `NP960XFG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book3 | Samsung Galaxy Book3 Pro 360 16 S-Pen (2023) | `NP960QFG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book3 | Samsung Galaxy Book3 Ultra 16 RTX 4070 (2023) | `NP960XFH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2022 (750 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -4838,8 +5027,17 @@
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus Duo 16 (2022-2024 Mini-LED Dual) | `GX650` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2022 All-AMD) | `GA402R` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | TUF Gaming | ASUS TUF Dash F15 (2022-2023 Chasis Delgado) | `FX517` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Dash F15 FX517ZC (2022) | `FX517ZC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Dash F15 FX517ZM (2022) | `FX517ZM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Dash F15 FX517ZR (2022) | `FX517ZR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming A15 (2022-2023 Ryzen 6000/7000) | `FA507` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA507RC (2022) | `FA507RC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA507RE (2022) | `FA507RE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA507RM (2022) | `FA507RM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A17 FA707RM (2022) | `FA707RM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming F15 (2022-2024 Intel 12th/13th Gen) | `FX507` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 FX507ZC (2022) | `FX507ZC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 FX507ZM (2022) | `FX507ZM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | Vivobook | ASUS Vivobook 14 (2022-2024) | `X1402` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | ASUS Vivobook 15 (2022-2024) | `X1502` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | ASUS Vivobook 16 (2022-2024) | `X1605` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4854,6 +5052,25 @@
 | ASUS | Zenbook | ASUS Zenbook 17 Fold OLED (2022-2024 Pantalla Plegable 17.3) | `UX9702` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | Zenbook | ASUS Zenbook Pro 16X OLED AAS Ultra (2022-2024 Teclado Inclinado) | `UX7602` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | Zenbook | ASUS Zenbook S 13 OLED (2022 1cm 1kg) | `UM5302` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| Acer | Nitro | Acer Nitro 5 AN515-46 (2022) | `AN515-46` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN515-58 (2022) | `AN515-58` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN517-55 (2022) | `AN517-55` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 300 PH315-55 (2022) | `PH315-55` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Triton 300 SE PT314-52s (2022) | `PT314-52s` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift 5 SF514-56T CNC Unibody (2022) | `SF514-56T` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift Edge SFE16-41 4K OLED (2022) | `SFE16-41` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift X SFX14-51G Intel Alder (2022) | `SFX14-51G` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift X SFX16-52G Intel Arc (2022) | `SFX16-52G` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Dell Alienware m15 R7 AMD (2022) | `0B12` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m15 R7 Intel (2022) | `0B11` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m17 R5 AMD Advantage (2022) | `0B13` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x14 R1 (2022) | `0B14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x15 R2 (2022) | `0B15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x17 R2 (2022) | `0B16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5520 Intel Alder Lake (2022) | `0B2E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5521 Special Edition (2022) | `0B2F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5525 AMD Edition (2022) | `0B30` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G16 7620 16:10 QHD+ (2022) | `0B31` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Latitude | Latitude 3300 | `08BB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3301 | `094F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3500 | `08BD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -4905,6 +5122,12 @@
 | Dell | XPS Notebook | XPS Notebook 7390 2in1 | `08B0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 7590 | `0905` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9380 | `08AF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | Dell XPS 13 2-in-1 9315 (2022) | `0B01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 13 9315 (2022) | `0B00` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 13 Plus 9320 (2022) | `0AFF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 15 9520 (2022) | `0B02` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 17 9720 (2022) | `0B03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Framework | Framework Laptop | Framework Framework Laptop 13 (Intel 12th Gen) (2022) | `FRANMZCP0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 11 64-bit, 21H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly 13.5 inch G3 Notebook PC (Windows 11 64-bit, 22H2) | `897F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 11 64-bit, 21H2) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -5191,6 +5414,10 @@
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC (Windows 10 64-bit, 22H2) | `8A92,8867` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC | `8867,8A92` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP ZHAN 66 Pro A 14 G4 Notebook PC | `8A92,8867` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Omen | HP Omen 16-b1000 12th Gen (2022) | `8A11` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 16-k0000 12th Gen (2022) | `8A12` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 16-n0000 Rembrandt (2022) | `8A13` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 17-ck1000 12th Gen (2022) | `8A14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Probook | HP ProBook 430 G7 Notebook PC (Windows 10 64-bit, 22H2) | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G7 Notebook PC (Windows 11 64-bit, 21H2) | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G7 Notebook PC | `869b` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5283,6 +5510,12 @@
 | HP | Prodesk | HP ProDesk 405 G6 Desktop Mini PC | `8836` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 405 G6 Small Form Factor PC | `872D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 405 G8 Desktop Mini PC | `8968` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 13.5-ef0000 (2022) | `8A01` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 16-f1000 (2022) | `8A02` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Victus | HP Victus 15-fa0000 Intel (2022) | `8A25` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 15-fb0000 AMD (2022) | `8A26` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 16-d1000 Intel (2022) | `8A27` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 16-e1000 AMD (2022) | `8A28` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Zbook | HP ZBook Create G7 Notebook PC (Windows 10 64-bit, 22H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Create G7 Notebook PC (Windows 11 64-bit, 21H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Create G7 Notebook PC | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -5326,10 +5559,36 @@
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation (Windows 10 64-bit, 22H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation (Windows 11 64-bit, 21H2) | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook Studio G7 Mobile Workstation | `8736` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram 14Z90Q (2022 Alder Lake) (2022) | `14Z90Q` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 16Z90Q (2022 RTX 2050) (2022) | `16Z90Q` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 17Z90Q (2022 RTX 2050) (2022) | `17Z90Q` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | LOQ | Lenovo IdeaPad Gaming 3 15ARH7 (2022) | `82SB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo IdeaPad Gaming 3 15IAH7 (2022) | `82S9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo IdeaPad Gaming 3 16ARH7 (2022) | `82SC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo IdeaPad Gaming 3 16IAH7 (2022) | `82SA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15ARH7 (2022) | `82RE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15ARH7H (2022) | `82RD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15IAH7 (2022) | `82RC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15IAH7H (2022) | `82RB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 Pro 16ARH7 (2022) | `82RY` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 Pro 16ARH7H (2022) | `82JQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 Pro 16IAH7 (2022) | `82RF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 Pro 16IAH7H (2022) | `82RG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 7 16ARHA7 (2022) | `82UH` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 7 16IAX7 (2022) | `82TD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Slim 7 16ARHA7 (2022) | `82UG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Slim 7 16IAH7 (2022) | `82TF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M70A Gen 2 | `11K6,11K3,11K4,11K5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M70A | `11E2,11E3,11CL,11CK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90A | `11E0,11CE,11DY,11CD,11JX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M920Z | `10S6,10S7,10Y5,10Y6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 13s Gen 4 ARB (2022) | `21AS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 13s Gen 4 IAP (2022) | `21AR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 4 ABA (2022) | `21DK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 4 IAP (2022) | `21DH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 15 Gen 4 ABA (2022) | `21DL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 15 Gen 4 IAP (2022) | `21DJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 16p Gen 3 ARH (2022) | `21DG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L380 Type 20M5 20M6 | `20M5,20M6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L380 Yoga Type 20M7 20M8 | `20M8,20M7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L480 Type 20LS 20LT | `20LT,20LS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5368,6 +5627,10 @@
 | Lenovo | Thinkpad | ThinkPad P72 Type 20MB 20MC (Type 20MC) | `20MC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SE) | `20SE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SF) | `20SF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 Pro 14ARH7 (2022) | `82UU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 Pro 14IAP7 (2022) | `82SV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 Pro 16IAH7 (2022) | `82VA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 9 14IAP7 4K OLED (2022) | `82T0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator M16 A12U / B13V (2022-2024 Creadores Accesible) | `CreatorM16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Creator | MSI Creator M16 A12UC |  | ✅  | audio, display, thermal, keyboard, audio_amp |
 | MSI | Creator | MSI Creator M16 A12UC | `CreatorM16-A12UC/MS-1584` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -5494,7 +5757,18 @@
 | MSI | Vector | MSI Vector GP76 12UG | `GP76-12UG/MS-17K4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP76 12UH |  | ✅  | audio, display, thermal, keyboard, keyboard_rgb |
 | MSI | Vector | MSI Vector GP76 12UH | `GP76-12UH/MS-17K4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
-## 📅 Generación 2021 (1298 modelos)
+| Microsoft | Surface | Microsoft Surface Laptop 5 13.5 (2022) | `SurfaceLaptop5_13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Laptop 5 15 (2022) | `SurfaceLaptop5_15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 9 5G SQ3 (2022) | `SurfacePro9_5G` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 9 Intel (2022) | `SurfacePro9_Intel` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 14 (2022 Ryzen 6900HX) (2022) | `RZ09-0427` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 15 (2022 12th Gen) (2022) | `RZ09-0421` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 17 (2022 12th Gen) (2022) | `RZ09-0422` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Samsung | Galaxy Book | Samsung Galaxy Book2 Pro 13.3 Intel EVO (2022) | `NP930XED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book2 Pro 15.6 Intel Arc (2022) | `NP950XED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book2 Pro 360 13.3 (2022) | `NP930QED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book2 Pro 360 15.6 (2022) | `NP950QED` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2021 (1380 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -5517,6 +5791,14 @@
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G15 (2021-2022 Ryzen 5000/6000) | `GA503` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus S17 (2021 Teclado Elevable Mecanico) | `GX703` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | TUF Gaming | ASUS TUF Dash F15 (2021 Chasis Delgado) | `FX516` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Dash F15 FX516PC (2021) | `FX516PC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Dash F15 FX516PM (2021) | `FX516PM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Dash F15 FX516PR (2021) | `FX516PR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA506QM (2021) | `FA506QM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA506QR (2021) | `FA506QR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A17 FA706QM (2021) | `FA706QM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 FX506HM (2021) | `FX506HM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F17 FX706HM (2021) | `FX706HM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | Vivobook | ASUS Vivobook 13 Slate OLED Tablet Desmontable (2021-2024) | `T3300` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | ASUS | Vivobook | ASUS Vivobook Pro 14X OLED (2021-2023) | `K3400` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | ASUS | Vivobook | ASUS Vivobook Pro 14X OLED DialPad (2021-2023) | `N7400` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
@@ -5524,6 +5806,26 @@
 | ASUS | Vivobook | ASUS Vivobook Pro 16X OLED DialPad (2021-2023) | `N7600` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | ASUS | Zenbook | ASUS Zenbook Duo 14 (2021-2023 ScreenPad Plus Basculante) | `UX482` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | ASUS Zenbook Pro Duo 15 OLED (2021-2022) | `UX582` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| Acer | Nitro | Acer Nitro 5 AN515-45 (2021) | `AN515-45` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN515-56 (2021) | `AN515-56` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN515-57 (2021) | `AN515-57` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN517-41 (2021) | `AN517-41` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN517-54 (2021) | `AN517-54` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 300 PH315-54 (2021) | `PH315-54` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Triton 300 SE PT314-51s (2021) | `PT314-51s` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Triton 500 SE PT516-51s (2021) | `PT516-51s` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift 3 SF314-43 (2021) | `SF314-43` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift 3 SF314-511 (2021) | `SF314-511` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift X SFX14-41G RTX 3050 (2021) | `SFX14-41G` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Dell Alienware m15 R4 (2021) | `0A21` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m15 R5 Ryzen Edition (2021) | `0A71` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m15 R6 Intel (2021) | `0A72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m17 R4 (2021) | `0A22` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x15 R1 (2021) | `0A81` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware x17 R1 (2021) | `0A82` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5510 Intel (2021) | `0A67` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5511 Intel Tiger Lake (2021) | `0A68` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G15 5515 AMD Edition (2021) | `0A69` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Latitude | Latitude 3390 2-in-1 | `0878` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3490 | `0839` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3490 | `0848` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5541,6 +5843,9 @@
 | Dell | Precision | Precision 7530 | `0831` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS 15 9570 | `087C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9570 | `087C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | Dell XPS 15 9510 (2021) | `0A60` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 17 9710 (2021) | `0A61` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Framework | Framework Laptop | Framework Framework Laptop 13 (Intel 11th Gen) (2021) | `FRANGACPA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 10 64-bit, 2004) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Max Notebook PC (Windows 10 64-bit, 2004) | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 2004) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -6288,6 +6593,11 @@
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 21H2) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC | `83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC | `83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Omen | HP Omen 15-ek1000 Intel (2021) | `88D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 15-en1000 AMD (2021) | `88D2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 16-b0000 Intel (2021) | `88D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 16-c0000 AMD (2021) | `88D4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 17-ck0000 Intel (2021) | `88D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Probook | HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 2004) | `8377` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 20H2) | `8377` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 21H1) | `8377` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6422,6 +6732,11 @@
 | HP | Prodesk | HP ProDesk 600 G5 Microtower PC | `861a` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G4 Microtower PC (with PCI slot) | `83ec` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G4 Microtower PC (with PCI slot) | `83ed` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 13-aw2000 (2021) | `880E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 14-ea1000 (2021) | `880F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 16-f0000 (2021) | `8810` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Victus | HP Victus 16-d0000 Intel (2021) | `88ED` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Victus | HP Victus 16-e0000 AMD (2021) | `88EE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 21H1) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G5 Mobile Workstation (Windows 10 64-bit, 2004) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G5 Mobile Workstation (Windows 10 64-bit, 20H2) | `83b2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -6510,9 +6825,33 @@
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 20H2) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 21H1) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram 14Z90P (2021 Tiger Lake) (2021) | `14Z90P` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 16Z90P (2021 16:10 1190g) (2021) | `16Z90P` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 17Z90P (2021) (2021) | `17Z90P` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | LOQ | Lenovo IdeaPad Gaming 3 15ACH6 (2021) | `82K2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo IdeaPad Gaming 3 15IHU6 (2021) | `82K1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15ACH6 (2021) | `82JW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15ACH6H (2021) | `82JU` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15ITH6 (2021) | `82JK` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15ITH6H (2021) | `82JH` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 17ACH6 (2021) | `82K0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 17ACH6H (2021) | `82JY` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 Pro 16ACH6 (2021) | `82JS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 Pro 16ACH6H (2021) | `82JQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 Pro 16ITH6 (2021) | `82JF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 Pro 16ITH6H (2021) | `82JD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 7 16ACHg6 (2021) | `82N6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 7 16ITHg6 (2021) | `82K6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion Slim 7 15ACH6 (2021) | `82K8` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M70C | `11GK,11GJ,11GL,11GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M75N | `11G4,11BT,11GW,11BX,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M90N 1 | `11AE,11AM,11AK,11AG,11...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 13s Gen 3 ACN (2021) | `20YA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 3 ACL (2021) | `21A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14p Gen 2 ACH (2021) | `20YN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 15 Gen 3 ACL (2021) | `21A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 16p Gen 2 ACH (2021) | `20YM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook Plus Gen 2 ITG (2021) | `20WH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad A275 Type 20KC 20KD | `20KD,20KC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad A285 Type 20MW 20MX | `20MW,20MX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad A475 Type 20KL 20KM | `20KM,20KL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6624,6 +6963,10 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 4th Gen Type 20HS 20HU (Type 20HU) | `20HU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JH) | `20JH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JJ) | `20JJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 Carbon 14ACN6 OLED (2021) | `82L0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 Pro 14ACH5 (2021) | `82MS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 Pro 14IHU5 (2021) | `82NC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 Pro 16ACH6 (2021) | `82QQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 B5EEK (2021 Ryzen 5000 + RX 6600M) | `Alpha15_2021` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 B5EEK Advantage |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Alpha | MSI Alpha 15 B5EEK Advantage | `Alpha15-B5EEK/MS-158K` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6796,7 +7139,20 @@
 | MSI | Workstation | MSI WS76 11UM RTX A5000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS76 11UM RTX A5000 | `WS76-11UM/MS-17M1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS76 11UK (2021 RTX A5000 4K Mini-LED) | `WS76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
-## 📅 Generación 2020 (943 modelos)
+| Microsoft | Surface | Microsoft Surface Laptop 4 13.5 (2021) | `SurfaceLaptop4_13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Laptop 4 15 (2021) | `SurfaceLaptop4_15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Laptop Studio 1 (2021) | `SurfaceLaptopStudio1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 7 Plus (2021) | `SurfacePro7Plus` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 8 120Hz (2021) | `SurfacePro8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 14 (2021 Ryzen 5900HX) (2021) | `RZ09-0370` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 15 Advanced (2021 RTX 30) (2021) | `RZ09-0409` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 15 Base (2021) (2021) | `RZ09-0369` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 17 (2021 RTX 30) (2021) | `RZ09-0406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Samsung | Galaxy Book | Samsung Galaxy Book Pro 13.3 AMOLED (2021) | `NP930XDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book Pro 15.6 AMOLED (2021) | `NP950XDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book Pro 360 13.3 5G (2021) | `NP930QDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book Pro 360 15.6 AMOLED (2021) | `NP950QDB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2020 (1010 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -6813,8 +7169,14 @@
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus M15 (2020 Intel 10th Gen) | `GU502` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus S15 (2020 Teclado Elevable) | `GX502` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | TUF Gaming | ASUS TUF Gaming A15 (2020 Ryzen 4000 MIL-STD-810H) | `FA506` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA506II (2020) | `FA506II` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA506IU (2020) | `FA506IU` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A15 FA506IV (2020) | `FA506IV` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming A17 (2020-2022) | `FA706` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming A17 FA706IU (2020) | `FA706IU` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming F15 (2020-2021 Intel 10th/11th Gen) | `FX506` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 FX506LH (2020) | `FX506LH` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | TUF Gaming | ASUS TUF Gaming F15 FX506LU (2020) | `FX506LU` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming F17 (2020-2022) | `FX706` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | Vivobook | ASUS Vivobook 14 (2020-2021 Consumo Masivo) | `X415` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | ASUS Vivobook 15 (2020-2021 Consumo Masivo) | `X515` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6831,6 +7193,22 @@
 | ASUS | Zenbook | ASUS Zenbook Duo (2020 ScreenPad Plus) | `UX481` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | ASUS Zenbook Flip 13 OLED 360 Stylus (2020-2023) | `UX363` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
 | ASUS | Zenbook | ASUS Zenbook Pro 15 OLED (2020-2022) | `UX535` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| Acer | Nitro | Acer Nitro 5 AN515-44 (2020) | `AN515-44` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN515-55 (2020) | `AN515-55` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN517-52 (2020) | `AN517-52` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 300 PH315-53 (2020) | `PH315-53` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Triton 300 PT315-52 (2020) | `PT315-52` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift 3 SF314-42 Ryzen 4000 (2020) | `SF314-42` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift 3 SF314-59 Intel 11th (2020) | `SF314-59` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift 5 SF514-55T Intel Evo (2020) | `SF514-55T` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Dell Alienware Area-51m R2 (2020) | `09A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m15 R3 (2020) | `09A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m17 R3 (2020) | `09A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G3 15 3500 (2020) | `099B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G5 15 5500 (2020) | `099C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G5 15 SE 5505 All-AMD (2020) | `099D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G7 15 7500 (2020) | `099E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G7 17 7700 (2020) | `099F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Latitude | Latitude 3180 | `07B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3189 | `07B3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3380 | `07B4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -6885,6 +7263,11 @@
 | Dell | XPS Notebook | XPS Notebook 9370 | `07E6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9560 | `07BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS Notebook 9575 | `080D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | Dell XPS 13 2-in-1 9310 (2020) | `099F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 13 9300 (2020) | `0990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 13 9310 (2020) | `0A03` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 15 9500 (2020) | `0991` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | XPS | Dell XPS 17 9700 (2020) | `0992` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Dragonfly | HP Elite Dragonfly G2 Notebook PC (Windows 10 64-bit, 1909) | `8716` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Max Notebook PC (Windows 10 64-bit, 1909) | `8890` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Dragonfly | HP Elite Dragonfly Notebook PC (Windows 10 64-bit, 1803) | `861F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -7336,6 +7719,8 @@
 | HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 1909) | `83ea,83eb` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 1903) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 1909) | `83eb,83ea` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Omen | HP Omen 15-ek0000 Intel (2020) | `878A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | Omen | HP Omen 15-en0000 AMD (2020) | `878B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | HP | Probook | HP ProBook 430 G6 Notebook PC (Windows 10 64-bit, 1803) | `8536` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G6 Notebook PC (Windows 10 64-bit, 1809) | `8536` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G6 Notebook PC (Windows 10 64-bit, 1903) | `8536` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7407,6 +7792,9 @@
 | HP | Prodesk | HP ProDesk 600 G3 Microtower PC | `82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G3 Microtower PC | `829d` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Prodesk | HP ProDesk 680 G3 Microtower PC | `82b3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 13-aw0000 (2020) | `86E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 14-ea0000 3:2 OLED (2020) | `880D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 15-eb0000 (2020) | `86E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 1607) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 1703) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14u G4 Mobile Workstation (Windows 10 64-bit, 1709) | `828c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
@@ -7466,6 +7854,18 @@
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1809) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1903) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1909) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram 14Z90N (2020) (2020) | `14Z90N` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 15Z90N (2020) (2020) | `15Z90N` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 17Z90N (2020) (2020) | `17Z90N` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | LOQ | Lenovo IdeaPad Gaming 3 15ARH05 (2020) | `82EY` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | LOQ | Lenovo IdeaPad Gaming 3 15IMH05 (2020) | `81Y4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15ARH05 (2020) | `82B5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15ARH05H (2020) | `82B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15IMH05 (2020) | `82AU` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 15IMH05H (2020) | `81Y6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 17ARH05 (2020) | `82B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 5 17IMH05 (2020) | `82B3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Lenovo | Legion | Lenovo Legion 7 15IMH05 (2020) | `81YT` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Lenovo | Other | ThinkCentre M625Q | `10V2,10TF,10TK,10TJ,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M715Q 2nd Gen | `10VL,10VN,10VJ,10VG,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M720E | `11BE,11BD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7473,6 +7873,13 @@
 | Lenovo | Other | ThinkCentre M75S 1 | `11A9,11AV,11AA,11AW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M820Z | `10SC,10SD,10S9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P330 2nd Gen | `30CY,30D0,30D2,30D4,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 13s Gen 2 ARE (2020) | `20WC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 13s Gen 2 ITL (2020) | `20V9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 2 ARE (2020) | `20VF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14 Gen 2 ITL (2020) | `20VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 15 Gen 2 ARE (2020) | `20VG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 15 Gen 2 ITL (2020) | `20VE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook Plus Gen 1 (2020) | `20TG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 11e 20E6 20E8 | `20E8,20E6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 11e 20G9 20GB | `20G9,20GB` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 11e 4th Gen Type 20HT 20HV | `20HV,20HT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7601,6 +8008,11 @@
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D2) | `30D2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D3) | `30D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D4) | `30D4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 14ARE05 (2020) | `82A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 14IIL05 (2020) | `82A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 15IIL05 (2020) | `82AA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 7 Carbon 13ITL5 (2020) | `82EV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | Yoga | Lenovo Yoga Slim 9 14ITL05 (2020) | `82D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 A4DDR (2020 Ryzen 4000) | `Bravo15_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 15 A4DDR | `Bravo15-A4DDR/MS-16WK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Bravo | MSI Bravo 17 A4DDR (2020) | `Bravo17_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -7743,7 +8155,18 @@
 | MSI | Workstation | MSI Workstation WF65 10TI (2020) | `WF65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WF75 10TJ (2020) | `WF75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS66 10TL / 11UK (2020-2021 RTX A5000) | `WS66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2019 (867 modelos)
+| Microsoft | Surface | Microsoft Surface Book 3 13.5 (2020) | `SurfaceBook3_13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Book 3 15 (2020) | `SurfaceBook3_15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Laptop Go (2020) | `SurfaceLaptopGo` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 15 Advanced (2020) (2020) | `RZ09-0330` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 15 Base (2020) (2020) | `RZ09-0328` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade Pro 17 (2020 300Hz) (2020) | `RZ09-0329` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade Stealth 13 (2020 OLED) (2020) | `RZ09-0327` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Samsung | Galaxy Book | Samsung Galaxy Book Flex 13.3 S-Pen (2020) | `NP930QCG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book Flex 15.6 S-Pen (2020) | `NP950QCG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book Ion 13.3 QLED (2020) | `NP930XCJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Samsung | Galaxy Book | Samsung Galaxy Book Ion 15.6 QLED (2020) | `NP950XCJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+## 📅 Generación 2019 (893 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -7772,6 +8195,19 @@
 | ASUS | Vivobook | Vivobook 15 M1502 | `M1502` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | Vivobook S16 S3607Q | `S3607Q` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Zenbook | Zenbook 14X Oled Ux3404 | `UX3404` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, display_color |
+| Acer | Nitro | Acer Nitro 5 AN515-43 (2019) | `AN515-43` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN515-54 (2019) | `AN515-54` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN517-51 (2019) | `AN517-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 300 PH315-52 (2019) | `PH315-52` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Triton 500 PT515-51 (2019) | `PT515-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift 3 SF314-56 (2019) | `SF314-56` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift 5 SF514-54T (2019) | `SF514-54T` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Dell Alienware Area-51m R1 (2019) | `08F1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m15 R2 (2019) | `0921` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | Alienware | Dell Alienware m17 R2 (2019) | `0922` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G5 15 5590 (2019) | `08E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G7 15 7590 (2019) | `08E3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Dell | G-Series | Dell Dell G7 17 7790 (2019) | `08E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | Dell | Internet of Things | Embedded Box PC 3000 | `0758` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Internet of Things | Embedded Box PC 5000 | `0759` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Internet of Things | Internet of Things Dell Embedded Box PC 3000 | `0758` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8302,6 +8738,8 @@
 | HP | Zbook | HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 1903) | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 1909) | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1803) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram 14Z990 (2019) (2019) | `14Z990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 17Z990 (2019 1340g) (2019) | `17Z990` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M630E | `10YR,10YM,10YN,10YQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M710Q Type 10YC | `10YC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkCentre M710Q | `10MS,10MQ,10MT,10N3,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8317,6 +8755,9 @@
 | Lenovo | Other | ThinkCentre M910X | `10N2,10QQ,10N1,10R4,10...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P320 | `30BG,30BK,30BH,30BR,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Other | ThinkStation P330 | `30C8,30C5,30C9,30CA,30...` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 13s-IWL (2019) | `20R9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 14-IWL (2019) | `20RV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkBook | Lenovo ThinkBook 15-IWL (2019) | `20RW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad 10 20E3 20E4 | `20E4,20E3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L450 | `20DS,20DT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L460 | `20FV,20FU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -8614,7 +9055,15 @@
 | MSI | Workstation | MSI WS75 9TM Quadro RTX 5000 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WS75 9TM Quadro RTX 5000 | `WS75-9TM/MS-17G1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS75 9TL / 9TM (2019 Quadro RTX) | `WS75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-## 📅 Generación 2018 (738 modelos)
+| Microsoft | Surface | Microsoft Surface Laptop 3 13.5 Intel (2019) | `SurfaceLaptop3_Intel` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Laptop 3 15 AMD (2019) | `SurfaceLaptop3_AMD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 7 (2019) | `SurfacePro7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro X SQ1 (2019) | `SurfaceProX_SQ1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 15 Advanced (2019 RTX 20) (2019) | `RZ09-0288` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 15 Base (2019) (2019) | `RZ09-0300` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade Pro 17 (2019 RTX 20) (2019) | `RZ09-0287` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade Stealth 13 GTX (2019) (2019) | `RZ09-0310` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2018 (752 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8655,6 +9104,13 @@
 | ASUS | Zenbook | Zenbook 15 UX533FD (2018 ErgoLift GTX 1050 Max-Q) | `UX533FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | Zenbook Pro 15 UX580GE (2018 Primer ScreenPad) | `UX580GE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | ASUS | Zenbook | Zenbook S UX391UA (2018 Bisagra ErgoLift Inclinada) | `UX391UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Acer | Nitro | Acer Nitro 5 AN515-42 (2018) | `AN515-42` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN515-51 (2018) | `AN515-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Nitro | Acer Nitro 5 AN515-52 (2018) | `AN515-52` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 300 PH315-51 (2018) | `PH315-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Predator | Acer Predator Helios 500 PH517-51 (2018) | `PH517-51` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Acer | Swift | Acer Swift 3 SF314-54 (2018) | `SF314-54` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Acer | Swift | Acer Swift 5 SF514-52T (2018) | `SF514-52T` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Alienware | Alienware 15 R4 | `0871` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | Dell | Alienware | Alienware 17 R5 | `0872` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
 | Dell | Alienware | Alienware m15 (2018) | `08CE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp, keyboard_rgb |
@@ -9172,6 +9628,8 @@
 | HP | Zbook | HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 1709) | `824c` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1703) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1709) | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| LG | Gram | LG LG gram 14Z980 (2018 995g) (2018) | `14Z980` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| LG | Gram | LG LG gram 15Z980 (2018 1095g) (2018) | `15Z980` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | IdeaPad | Lenovo IdeaPad 330-14IKB (2018) | `81G2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | IdeaPad | Lenovo IdeaPad 330-15ARR (2018) | `81D2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | IdeaPad | Lenovo IdeaPad 330-15IKB (2018) | `81DE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -9356,7 +9814,12 @@
 | MSI | Workstation | MSI Workstation WE63 8RJ (2018 Quadro P2000) | `WE63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WE73 8RJ (2018) | `WE73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS65 8SK / 9TM (2018-2019 Quadro RTX 5000) | `WS65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-## 📅 Generación 2017 (317 modelos)
+| Microsoft | Surface | Microsoft Surface Laptop 2 (2018) | `SurfaceLaptop2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 6 (2018) | `SurfacePro6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 15 Advanced (2018) (2018) | `RZ09-0238` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade 15 Base (2018) (2018) | `RZ09-0270` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade Stealth 13 (2018) (2018) | `RZ09-0281` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2017 (323 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -9677,7 +10140,13 @@
 | MSI | Workstation | MSI Workstation WE62 7RJ (2017 Quadro M2200) | `WE62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WE72 7RJ (2017) | `WE72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS63 7RK / 8SK (2017-2018 Quadro P3200) | `WS63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
-## 📅 Generación 2016 (222 modelos)
+| Microsoft | Surface | Microsoft Surface Book 2 13.5 (2017) | `SurfaceBook2_13` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Book 2 15 (2017) | `SurfaceBook2_15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Laptop 1 (2017) | `SurfaceLaptop1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 5 (2017) (2017) | `SurfacePro5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Razer | Blade | Razer Razer Blade 14 (2017 GTX 1060) (2017) | `RZ09-0238` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade Stealth 13.3 (2017) (2017) | `RZ09-0239` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2016 (225 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -9903,7 +10372,10 @@
 | MSI | Workstation | MSI WS60 6QJ Quadro M2000M | `WS60-6QJ/MS-16H8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 6QN Quadro M5500 |  | ✅  | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI WT72 6QN Quadro M5500 | `WT72-6QN/MS-1783` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-## 📅 Generación 2015 (241 modelos)
+| Razer | Blade | Razer Razer Blade 14 (2016 GTX 1060) (2016) | `RZ09-0195` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade Pro 17 (2016 GTX 1080) (2016) | `RZ09-0166` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| Razer | Blade | Razer Razer Blade Stealth 12.5 (2016) (2016) | `RZ09-0196` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+## 📅 Generación 2015 (243 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -10148,6 +10620,8 @@
 | MSI | Workstation | MSI WT72 6QM Quadro M5000M | `WT72-6QM/MS-1782` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | MSI | Workstation | MSI Workstation WS60 6QI (2015-2016 Quadro M1000M) | `WS60` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | MSI | Workstation | MSI Workstation WT72 6QN (2015-2016 NVIDIA Quadro M5500) | `WT72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Microsoft | Surface | Microsoft Surface Book 1 (2015) | `SurfaceBook` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Microsoft | Surface | Microsoft Surface Pro 4 (2015) | `SurfacePro4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 ## 📅 Generación Legacy (2014) (59 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |

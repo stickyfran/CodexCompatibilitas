@@ -1,0 +1,56 @@
+{
+  "id": "acer-swift-edge-sfe16-41-4k-oled-2022",
+  "vendor": "Acer",
+  "family": "Swift",
+  "model_name": "Acer Swift Edge SFE16-41 4K OLED (2022)",
+  "system_id": "SFE16-41",
+  "dmi_matches": [
+    "Swift Edge SFE16-41 4K OLED",
+    "SFE16-41",
+    "Acer Swift Edge SFE16-41 4K OLED",
+    "Acer SFE16-41"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "acer-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

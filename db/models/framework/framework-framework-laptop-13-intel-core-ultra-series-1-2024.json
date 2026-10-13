@@ -1,0 +1,56 @@
+{
+  "id": "framework-framework-laptop-13-intel-core-ultra-series-1-2024",
+  "vendor": "Framework",
+  "family": "Framework Laptop",
+  "model_name": "Framework Framework Laptop 13 (Intel Core Ultra Series 1) (2024)",
+  "system_id": "FRANMFCP0",
+  "dmi_matches": [
+    "Framework Laptop 13 (Intel Core Ultra Series 1)",
+    "FRANMFCP0",
+    "Framework Framework Laptop 13 (Intel Core Ultra Series 1)",
+    "Framework FRANMFCP0"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "cros_ec",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

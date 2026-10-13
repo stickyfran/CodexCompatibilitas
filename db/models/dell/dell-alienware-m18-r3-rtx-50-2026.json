@@ -1,0 +1,62 @@
+{
+  "id": "dell-alienware-m18-r3-rtx-50-2026",
+  "vendor": "Dell",
+  "family": "Alienware",
+  "model_name": "Dell Alienware m18 R3 RTX 50 (2026)",
+  "system_id": "0DB3",
+  "dmi_matches": [
+    "Alienware m18 R3 RTX 50",
+    "0DB3",
+    "Dell Alienware m18 R3 RTX 50",
+    "Dell 0DB3"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "dell-wmi-sysman",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "dell-wmi-sysman",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

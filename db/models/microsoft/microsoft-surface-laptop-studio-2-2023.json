@@ -1,0 +1,56 @@
+{
+  "id": "microsoft-surface-laptop-studio-2-2023",
+  "vendor": "Microsoft",
+  "family": "Surface",
+  "model_name": "Microsoft Surface Laptop Studio 2 (2023)",
+  "system_id": "SurfaceLaptopStudio2",
+  "dmi_matches": [
+    "Surface Laptop Studio 2",
+    "SurfaceLaptopStudio2",
+    "Microsoft Surface Laptop Studio 2",
+    "Microsoft SurfaceLaptopStudio2"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "surface_wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

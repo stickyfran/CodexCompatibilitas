@@ -1,0 +1,56 @@
+{
+  "id": "lg-lg-gram-style-14z90rs-2023-haptic-oled-2023",
+  "vendor": "LG",
+  "family": "Gram",
+  "model_name": "LG LG gram Style 14Z90RS (2023 Haptic OLED) (2023)",
+  "system_id": "14Z90RS",
+  "dmi_matches": [
+    "LG gram Style 14Z90RS (2023 Haptic OLED)",
+    "14Z90RS",
+    "LG LG gram Style 14Z90RS (2023 Haptic OLED)",
+    "LG 14Z90RS"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "lg_laptop",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

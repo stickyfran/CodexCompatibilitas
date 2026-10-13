@@ -1,0 +1,56 @@
+{
+  "id": "lenovo-thinkbook-14-gen-8-iml-2025",
+  "vendor": "Lenovo",
+  "family": "ThinkBook",
+  "model_name": "Lenovo ThinkBook 14 Gen 8 IML (2025)",
+  "system_id": "21NR",
+  "dmi_matches": [
+    "ThinkBook 14 Gen 8 IML",
+    "21NR",
+    "Lenovo ThinkBook 14 Gen 8 IML",
+    "Lenovo 21NR"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "ideapad_laptop",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

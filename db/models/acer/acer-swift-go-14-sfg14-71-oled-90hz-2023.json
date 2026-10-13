@@ -1,0 +1,56 @@
+{
+  "id": "acer-swift-go-14-sfg14-71-oled-90hz-2023",
+  "vendor": "Acer",
+  "family": "Swift",
+  "model_name": "Acer Swift Go 14 SFG14-71 OLED 90Hz (2023)",
+  "system_id": "SFG14-71",
+  "dmi_matches": [
+    "Swift Go 14 SFG14-71 OLED 90Hz",
+    "SFG14-71",
+    "Acer Swift Go 14 SFG14-71 OLED 90Hz",
+    "Acer SFG14-71"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "acer-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

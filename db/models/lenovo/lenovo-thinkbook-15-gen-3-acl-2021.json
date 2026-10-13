@@ -1,0 +1,56 @@
+{
+  "id": "lenovo-thinkbook-15-gen-3-acl-2021",
+  "vendor": "Lenovo",
+  "family": "ThinkBook",
+  "model_name": "Lenovo ThinkBook 15 Gen 3 ACL (2021)",
+  "system_id": "21A4",
+  "dmi_matches": [
+    "ThinkBook 15 Gen 3 ACL",
+    "21A4",
+    "Lenovo ThinkBook 15 Gen 3 ACL",
+    "Lenovo 21A4"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "ideapad_laptop",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

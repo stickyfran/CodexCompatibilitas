@@ -1,0 +1,56 @@
+{
+  "id": "samsung-galaxy-book-ion-13-3-qled-2020",
+  "vendor": "Samsung",
+  "family": "Galaxy Book",
+  "model_name": "Samsung Galaxy Book Ion 13.3 QLED (2020)",
+  "system_id": "NP930XCJ",
+  "dmi_matches": [
+    "Galaxy Book Ion 13.3 QLED",
+    "NP930XCJ",
+    "Samsung Galaxy Book Ion 13.3 QLED",
+    "Samsung NP930XCJ"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "samsung-laptop",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}
