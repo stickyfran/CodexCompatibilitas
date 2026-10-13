@@ -1,0 +1,68 @@
+{
+  "id": "msi-creator15-creator-15-a10s-a11u-2020-2021-pantalla-tactil-oled-2020",
+  "vendor": "MSI",
+  "family": "Creator",
+  "model_name": "MSI Creator 15 A10S / A11U (2020-2021 Pantalla Tactil OLED)",
+  "system_id": "Creator15",
+  "dmi_matches": [
+    "Creator15",
+    "MSI Creator15",
+    "Micro-Star Creator15",
+    "Creator 15 A10S / A11U (2020-2021 Pantalla Tactil OLED)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "display_color": {
+      "status": "fixed",
+      "fix_type": "icc-profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "realtek-alc1220",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

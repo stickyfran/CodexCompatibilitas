@@ -1,0 +1,62 @@
+{
+  "id": "msi-gs73vr-stealth-gs73vr-stealth-pro-2016-2017-2016",
+  "vendor": "MSI",
+  "family": "Stealth",
+  "model_name": "MSI Stealth GS73VR Stealth Pro (2016-2017)",
+  "system_id": "GS73VR",
+  "dmi_matches": [
+    "GS73VR",
+    "MSI GS73VR",
+    "Micro-Star GS73VR",
+    "Stealth GS73VR Stealth Pro (2016-2017)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "msi-wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

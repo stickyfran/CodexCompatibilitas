@@ -1,0 +1,56 @@
+{
+  "id": "msi-we63-workstation-we63-8rj-2018-quadro-p2000-2018",
+  "vendor": "MSI",
+  "family": "Workstation",
+  "model_name": "MSI Workstation WE63 8RJ (2018 Quadro P2000)",
+  "system_id": "WE63",
+  "dmi_matches": [
+    "WE63",
+    "MSI WE63",
+    "Micro-Star WE63",
+    "Workstation WE63 8RJ (2018 Quadro P2000)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

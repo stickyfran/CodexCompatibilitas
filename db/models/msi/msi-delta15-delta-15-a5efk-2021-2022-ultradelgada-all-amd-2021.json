@@ -1,0 +1,56 @@
+{
+  "id": "msi-delta15-delta-15-a5efk-2021-2022-ultradelgada-all-amd-2021",
+  "vendor": "MSI",
+  "family": "Delta",
+  "model_name": "MSI Delta 15 A5EFK (2021-2022 Ultradelgada All-AMD)",
+  "system_id": "Delta15",
+  "dmi_matches": [
+    "Delta15",
+    "MSI Delta15",
+    "Micro-Star Delta15",
+    "Delta 15 A5EFK (2021-2022 Ultradelgada All-AMD)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

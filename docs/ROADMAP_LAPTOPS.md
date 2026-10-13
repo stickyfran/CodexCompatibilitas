@@ -4,30 +4,31 @@
 
 ## 📊 Estadísticas Globales
 
-- **Total Laptops Indexadas:** `8571`
-- **Total Scripts `install-all.sh` Generados:** `8571` (100.0% cubierto)
+- **Total Laptops Indexadas:** `8712`
+- **Total Scripts `install-all.sh` Generados:** `8712` (100.0% cubierto)
 - **Desglose por Fabricante OEM:**
   - **ASUS:** `197` modelos
   - **Dell:** `1343` modelos
   - **HP:** `4990` modelos
   - **Lenovo:** `2041` modelos
+  - **MSI:** `141` modelos
 
 ### Resumen por Generación / Año
 
 | Año | Modelos Soportados | Scripts Listos | Estado |
 | :--- | :---: | :---: | :--- |
 | **2026** | 1931 | 1931 | ✅ 100% Scripts Listos |
-| **2025** | 736 | 736 | ✅ 100% Scripts Listos |
-| **2024** | 660 | 660 | ✅ 100% Scripts Listos |
-| **2023** | 1113 | 1113 | ✅ 100% Scripts Listos |
-| **2022** | 539 | 539 | ✅ 100% Scripts Listos |
-| **2021** | 1126 | 1126 | ✅ 100% Scripts Listos |
-| **2020** | 801 | 801 | ✅ 100% Scripts Listos |
-| **2019** | 679 | 679 | ✅ 100% Scripts Listos |
-| **2018** | 573 | 573 | ✅ 100% Scripts Listos |
-| **2017** | 162 | 162 | ✅ 100% Scripts Listos |
-| **2016** | 111 | 111 | ✅ 100% Scripts Listos |
-| **2015** | 78 | 78 | ✅ 100% Scripts Listos |
+| **2025** | 737 | 737 | ✅ 100% Scripts Listos |
+| **2024** | 684 | 684 | ✅ 100% Scripts Listos |
+| **2023** | 1134 | 1134 | ✅ 100% Scripts Listos |
+| **2022** | 548 | 548 | ✅ 100% Scripts Listos |
+| **2021** | 1144 | 1144 | ✅ 100% Scripts Listos |
+| **2020** | 815 | 815 | ✅ 100% Scripts Listos |
+| **2019** | 696 | 696 | ✅ 100% Scripts Listos |
+| **2018** | 586 | 586 | ✅ 100% Scripts Listos |
+| **2017** | 169 | 169 | ✅ 100% Scripts Listos |
+| **2016** | 117 | 117 | ✅ 100% Scripts Listos |
+| **2015** | 89 | 89 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2014])** | 59 | 59 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2013])** | 3 | 3 | ✅ 100% Scripts Listos |
 
@@ -1969,7 +1970,7 @@
 | Lenovo | Thinkstation | ThinkStation PX (Type 30EY) | `30EY` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation PX (Type 30H3) | `30H3` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2025 (736 modelos)
+## 📅 Generación 2025 (737 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -2709,8 +2710,9 @@
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FH) | `30FH` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FJ) | `30FJ` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FK) | `30FK` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Claw | MSI MSI Claw 8 AI+ A2VM (2025-2026 Lunar Lake 8-inch) | `Claw8AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 
-## 📅 Generación 2024 (660 modelos)
+## 📅 Generación 2024 (684 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -3374,8 +3376,32 @@
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 2 Type 20W8 20W9 (Type 20W9) | `20W9` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AW) | `21AW` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AX) | `21AX` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Claw | MSI MSI Claw A1M (2024 Handheld Intel Core Ultra 7) | `ClawA1M` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator 16 AI Studio A1V (2024-2026 Magnesio 1.99kg OLED) | `Creator16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator M14 A13V (2024-2026 Compacto) | `CreatorM14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Crosshair | MSI Crosshair 16 HX D14V (2024-2026) | `Crosshair16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Crosshair | MSI Crosshair 17 HX D14V (2024-2026) | `Crosshair17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 14 A13V (2024-2026 Compacto Translucido) | `Cyborg14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Cyborg | MSI Cyborg 15 AI A1V (2024-2026) | `Cyborg15AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 H D13M (2024-2026 Serie H) | `Modern14_2025` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 H C13M (2024-2026 Serie H) | `Modern15_2025` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 13 AI Evo A1M (2024-2026 Magnesio 990g 75Wh) | `Prestige13AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 AI Evo / Studio C1M / C1V (2024-2026) | `Prestige14AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 16 AI Evo / Studio B1M / B1V (2024-2026 OLED 1.5kg) | `Prestige16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| MSI | Pulse | MSI Pulse 16 AI C1V (2024-2026 Intel Core Ultra) | `Pulse16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Pulse | MSI Pulse 17 AI C1V (2024-2026 Intel Core Ultra) | `Pulse17AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Raider | MSI Raider 18 HX A14VHG (2024-2026 18-inch 4K Mini-LED) | `Raider18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 18 AI Studio A1V (2024-2026 Core Ultra / RTX 40) | `Stealth18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Summit | MSI Summit E13 AI Evo A1M (2024-2026 Core Ultra NPU) | `SummitE13AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 AI Studio A1V (2024-2026 RTX 40 Copilot+) | `SummitE16AI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 16 HX B14V (2024-2026) | `Sword16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 17 HX B14V (2024-2026) | `Sword17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin 15 B12U / B13U (2024-2026) | `Thin15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan 18 HX A14VIG (2024-2026 Touchpad RGB Seamless) | `Titan18` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Vector | MSI Vector 16 HX A13V / A14V (2024-2026) | `Vector16` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector 17 HX A14V (2024-2026) | `Vector17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 
-## 📅 Generación 2023 (1113 modelos)
+## 📅 Generación 2023 (1134 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -4492,8 +4518,29 @@
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D5) | `30D5` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D6) | `30D6` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D7) | `30D7` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Alpha | MSI Alpha 17 C7V (2023-2025 Dragon Range + Wi-Fi 7) | `Alpha17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 15 C7V / C7U (2023-2025 Ryzen 7000) | `Bravo15_2023` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 C7V / C7U (2023-2025) | `Bravo17_2023` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Commercial | MSI Commercial 14 H A13M (2023-2026 Smart Card / NFC) | `Commercial14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator Z16 HX Studio A13V (2023) | `CreatorZ16HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z17 HX Studio A13V (2023 Calman Verified) | `CreatorZ17HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Cyborg | MSI Cyborg 15 A12V / A13V (2023-2024 Teclas Translucidas) | `Cyborg15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI Katana 15 B12V / B13V (2023-2025 Teclado 4-Zonas) | `Katana15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI Katana 17 B12V / B13V (2023-2025) | `Katana17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 13 Evo A12M / A13M (2023 Ultraliviano 990g) | `Prestige13Evo` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Pulse | MSI Pulse 15 B13V (2023-2024) | `Pulse15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Pulse | MSI Pulse 17 B13V (2023-2024) | `Pulse17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Raider | MSI Raider GE68 HX 13VG / 14VGG (2023-2025) | `GE68HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE78 HX 13VI / 14VHG (2023-2025 Matrix Light Bar) | `GE78HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth 14 Studio A13VG / A14V (2023-2025 Magnesio-Aluminio) | `Stealth14` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Stealth | MSI Stealth 16 Studio / AI A13VG / A1VFG (2023-2026) | `Stealth16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Stealth | MSI Stealth 17 Studio A13VI (2023-2024) | `Stealth17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Thin | MSI Thin GF63 12V (2023 RTX 4050) | `ThinGF63_12V` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan GT77 HX 13VI (2023 RTX 4090) | `GT77HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Vector | MSI Vector GP68 HX 12V / 13V (2023-2024 Max TGP) | `GP68HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector GP78 HX 13VI / 14V (2023-2025) | `GP78HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 
-## 📅 Generación 2022 (539 modelos)
+## 📅 Generación 2022 (548 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -5036,8 +5083,17 @@
 | Lenovo | Thinkpad | ThinkPad P72 Type 20MB 20MC (Type 20MC) | `20MC` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SE) | `20SE` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SF) | `20SF` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Creator | MSI Creator M16 A12U / B13V (2022-2024 Creadores Accesible) | `CreatorM16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z16P A12UGST Vapor Chamber (2022) | `CreatorZ16P` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Creator | MSI Creator Z17 A12UGST (2022 Lapiz Stylus MSI Pen) | `CreatorZ17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Modern | MSI Modern 14 C11M / C12M / C7M (2022-2024) | `Modern14_2022` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 B12M / B13M / B7M (2022-2024) | `Modern15_2022` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Raider | MSI Raider GE67 HX OLED 240Hz (2022) | `GE67HX` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS77 (2022 Bisagra Reforzada) | `GS77` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Summit | MSI Summit E14 Flip Evo A12MT / A13M (2022-2024) | `SummitE14Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan GT77 12UHS / 13VI (2022-2023 Mini-LED 144Hz Cherry MX) | `GT77` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
 
-## 📅 Generación 2021 (1126 modelos)
+## 📅 Generación 2021 (1144 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -6167,8 +6223,26 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 4th Gen Type 20HS 20HU (Type 20HU) | `20HU` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JH) | `20JH` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 370 (Type 20JJ) | `20JJ` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Alpha | MSI Alpha 15 B5EEK (2021 Ryzen 5000 + RX 6600M) | `Alpha15_2021` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator Z16 A11UET / A12UET (2021-2022 Proporcion Aurea 16:10) | `CreatorZ16` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Crosshair | MSI Crosshair 15 R6E (2021-2023 Rainbow Six Special) | `Crosshair15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Crosshair | MSI Crosshair 17 (2021-2023) | `Crosshair17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Delta | MSI Delta 15 A5EFK (2021-2022 Ultradelgada All-AMD) | `Delta15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI Katana GF66 (2021-2022 Diseno Tsuyoshi Nagano) | `KatanaGF66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI Katana GF76 (2021-2022) | `KatanaGF76` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Pulse | MSI Pulse GL66 (2021-2022 Diseno Futurista) | `PulseGL66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Pulse | MSI Pulse GL76 (2021-2022) | `PulseGL76` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Raider | MSI Raider GE76 Raider (2021-2022 RTX 3080 Ti) | `GE76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS76 Stealth (2021) | `GS76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Summit | MSI Summit E13 Flip Evo A11MT / A12M (2021-2023 16:10 360) | `SummitE13Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E16 Flip A11UCT / A12UCT / A13V (2021-2024) | `SummitE16Flip` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 15 (2021-2023 Chasis Blanco) | `Sword15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Sword | MSI Sword 17 (2021-2023) | `Sword17` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector GP66 Leopard (2021-2022 Chasis Metalico) | `GP66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector GP76 Leopard (2021-2022) | `GP76` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WS76 11UK (2021 RTX A5000 4K Mini-LED) | `WS76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 
-## 📅 Generación 2020 (801 modelos)
+## 📅 Generación 2020 (815 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -6973,8 +7047,22 @@
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D2) | `30D2` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D3) | `30D3` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D4) | `30D4` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Bravo | MSI Bravo 15 A4DDR (2020 Ryzen 4000) | `Bravo15_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Bravo | MSI Bravo 17 A4DDR (2020) | `Bravo17_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator 15 A10S / A11U (2020-2021 Pantalla Tactil OLED) | `Creator15` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Creator | MSI Creator 17 A10S (2020 Primera Laptop Mini-LED del Mundo) | `Creator17` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Modern | MSI Modern 14 B10M / B11M / B4M (2020 Intel/AMD) | `Modern14_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A11M / A4M (2020) | `Modern15_2020` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 Evo A11M / A12M (2020-2022 Intel Evo) | `Prestige14Evo` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Raider | MSI Raider GE66 Raider Aurora Light Bar (2020-2021) | `GE66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS66 Stealth (2020-2021 Bateria 99.9Wh) | `GS66` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Summit | MSI Summit E14 A11SCS / A12M (2020-2022) | `SummitE14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Summit | MSI Summit E15 A11SCS (2020-2021 GTX 1650 Ti Max-Q) | `SummitE15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WF65 10TI (2020) | `WF65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WF75 10TJ (2020) | `WF75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WS66 10TL / 11UK (2020-2021 RTX A5000) | `WS66` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 
-## 📅 Generación 2019 (679 modelos)
+## 📅 Generación 2019 (696 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -7657,8 +7745,25 @@
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30C8) | `30C8` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30C9) | `30C9` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30CA) | `30CA` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Alpha | MSI Alpha 15 A3DD (2019 Primer 7nm All-AMD) | `Alpha15_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Creator | MSI Creator P75 Creator (2019 4K HDR) | `P75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| MSI | Katana | MSI Katana GL65 Leopard (2019-2020) | `GL65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI Katana GL75 (2019-2020) | `GL75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 14 A10M / A10RAS (2019 Chasis Aluminio) | `Modern14_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Modern | MSI Modern 15 A10M / A10RAS (2019) | `Modern15_2019` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 14 A10SC / A11SC / A12U (2019-2022) | `Prestige14` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Prestige | MSI Prestige 15 A10SC / A11SC / A12U (2019-2022) | `Prestige15` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Raider | MSI Raider GE65 Raider 9SF (2019 240Hz) | `GE65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE75 Raider 8SG/9SG (2019) | `GE75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS75 Stealth (2019 17.3 Delgado) | `GS75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Thin | MSI Thin GF65 Thin (2019-2021 Doble Ventilador) | `GF65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Thin | MSI Thin GF75 Thin (2019-2021 17.3 Liviano) | `GF75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan GT76 Titan DT 9SG (2019 Desktop CPU) | `GT76` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Vector | MSI Vector GP65 Leopard (2019-2020) | `GP65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector GP75 Leopard (2019-2020) | `GP75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WS75 9TL / 9TM (2019 Quadro RTX) | `WS75` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 
-## 📅 Generación 2018 (573 modelos)
+## 📅 Generación 2018 (586 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8235,8 +8340,21 @@
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C1) | `30C1` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C2) | `30C2` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C3) | `30C3` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Creator | MSI Creator P65 Creator (2018-2019) | `P65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| MSI | Katana | MSI Katana GL63 8RC/8RD (2018) | `GL63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI Katana GL73 8RC/8RD (2018) | `GL73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Raider | MSI Raider GE63 Raider RGB 8RE/8RF (2018) | `GE63` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE73 Raider RGB 8RE/8RF (2018) | `GE73` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS65 Stealth Thin (2018 Marcos Delgados Oro) | `GS65` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Thin | MSI Thin GF63 Thin (2018-2023 Chasis Liviano) | `GF63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan GT75 Titan 8RG (2018 Core i9) | `GT75` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Vector | MSI Vector GP63 Leopard (2018) | `GP63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector GP73 Leopard (2018) | `GP73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WE63 8RJ (2018 Quadro P2000) | `WE63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WE73 8RJ (2018) | `WE73` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WS65 8SK / 9TM (2018-2019 Quadro RTX 5000) | `WS65` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 
-## 📅 Generación 2017 (162 modelos)
+## 📅 Generación 2017 (169 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8402,8 +8520,15 @@
 | Lenovo | Thinkstation | ThinkStation P510 (Type 30B5) | `30B5` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P710 (Type 30B6) | `30B6` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P710 (Type 30B7) | `30B7` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Raider | MSI Raider GE63VR Raider RGB (2017) | `GE63VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE73VR Raider RGB (2017) | `GE73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Thin | MSI Thin GF62 (2017-2018) | `GF62` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Titan | MSI Titan GT75VR Titan Pro Teclado Rapido Mecanico (2017) | `GT75VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Workstation | MSI Workstation WE62 7RJ (2017 Quadro M2200) | `WE62` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WE72 7RJ (2017) | `WE72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WS63 7RK / 8SK (2017-2018 Quadro P3200) | `WS63` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 
-## 📅 Generación 2016 (111 modelos)
+## 📅 Generación 2016 (117 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8518,8 +8643,14 @@
 | Lenovo | Thinkpad | ThinkPad 11e (Type 20DA) | `20DA` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e (Type 20D9) | `20D9` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e (Type 20DA) | `20DA` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Katana | MSI Katana GL62 (2016 Entrada Gamer) | `GL62` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Katana | MSI Katana GL72 (2016 Entrada Gamer) | `GL72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Stealth | MSI Stealth GS63VR Stealth Pro (2016-2017 1.8kg) | `GS63VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Stealth | MSI Stealth GS73VR Stealth Pro (2016-2017) | `GS73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Titan | MSI Titan GT73VR 6RF Titan Pro (2016) | `GT73VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan GT83VR Titan SLI (2016-2017) | `GT83VR` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 
-## 📅 Generación 2015 (78 modelos)
+## 📅 Generación 2015 (89 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -8601,6 +8732,17 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 14 20FY (Type 20FY) | `20FY` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 15 (Type 20DQ) | `20DQ` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 15 (Type 20DR) | `20DR` | ✅ `install-all.sh` | audio, color, thermals |
+| MSI | Raider | MSI Raider GE62 Apache Pro (2015-2016) | `GE62` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Raider | MSI Raider GE72 Apache Pro (2015-2016) | `GE72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Stealth | MSI Stealth GS40 6QE Phantom (2015-2016 14-inch) | `GS40` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Stealth | MSI Stealth GS60 Ghost Pro (2015 Delgado 19mm) | `GS60` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Stealth | MSI Stealth GS70 Stealth Pro (2015 17.3 Delgado) | `GS70` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| MSI | Titan | MSI Titan GT72 Dominator Pro (2015) | `GT72` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Titan | MSI Titan GT80 Titan SLI Teclado Mecanico Cherry MX (2015) | `GT80` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| MSI | Vector | MSI Vector GP62 Leopard (2015-2016) | `GP62` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Vector | MSI Vector GP72 Leopard (2015-2016) | `GP72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WS60 6QI (2015-2016 Quadro M1000M) | `WS60` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| MSI | Workstation | MSI Workstation WT72 6QN (2015-2016 NVIDIA Quadro M5500) | `WT72` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 
 ## 📅 Generación Legacy (2014) (59 modelos)
 

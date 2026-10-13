@@ -1,0 +1,68 @@
+{
+  "id": "msi-creator17-creator-17-a10s-2020-primera-laptop-mini-led-del-mundo-2020",
+  "vendor": "MSI",
+  "family": "Creator",
+  "model_name": "MSI Creator 17 A10S (2020 Primera Laptop Mini-LED del Mundo)",
+  "system_id": "Creator17",
+  "dmi_matches": [
+    "Creator17",
+    "MSI Creator17",
+    "Micro-Star Creator17",
+    "Creator 17 A10S (2020 Primera Laptop Mini-LED del Mundo)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "display_color": {
+      "status": "fixed",
+      "fix_type": "icc-profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "realtek-alc1220",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

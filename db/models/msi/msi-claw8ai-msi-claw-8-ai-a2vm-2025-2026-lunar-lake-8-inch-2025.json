@@ -1,0 +1,56 @@
+{
+  "id": "msi-claw8ai-msi-claw-8-ai-a2vm-2025-2026-lunar-lake-8-inch-2025",
+  "vendor": "MSI",
+  "family": "Claw",
+  "model_name": "MSI MSI Claw 8 AI+ A2VM (2025-2026 Lunar Lake 8-inch)",
+  "system_id": "Claw8AI",
+  "dmi_matches": [
+    "Claw8AI",
+    "MSI Claw8AI",
+    "Micro-Star Claw8AI",
+    "MSI Claw 8 AI+ A2VM (2025-2026 Lunar Lake 8-inch)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

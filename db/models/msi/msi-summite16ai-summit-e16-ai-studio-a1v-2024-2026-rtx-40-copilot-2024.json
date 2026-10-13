@@ -1,0 +1,56 @@
+{
+  "id": "msi-summite16ai-summit-e16-ai-studio-a1v-2024-2026-rtx-40-copilot-2024",
+  "vendor": "MSI",
+  "family": "Summit",
+  "model_name": "MSI Summit E16 AI Studio A1V (2024-2026 RTX 40 Copilot+)",
+  "system_id": "SummitE16AI",
+  "dmi_matches": [
+    "SummitE16AI",
+    "MSI SummitE16AI",
+    "Micro-Star SummitE16AI",
+    "Summit E16 AI Studio A1V (2024-2026 RTX 40 Copilot+)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

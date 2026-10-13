@@ -1,0 +1,56 @@
+{
+  "id": "msi-gp66-vector-gp66-leopard-2021-2022-chasis-metalico-2021",
+  "vendor": "MSI",
+  "family": "Vector",
+  "model_name": "MSI Vector GP66 Leopard (2021-2022 Chasis Metalico)",
+  "system_id": "GP66",
+  "dmi_matches": [
+    "GP66",
+    "MSI GP66",
+    "Micro-Star GP66",
+    "Vector GP66 Leopard (2021-2022 Chasis Metalico)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

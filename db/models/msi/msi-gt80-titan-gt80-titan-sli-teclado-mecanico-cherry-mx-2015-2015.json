@@ -1,0 +1,68 @@
+{
+  "id": "msi-gt80-titan-gt80-titan-sli-teclado-mecanico-cherry-mx-2015-2015",
+  "vendor": "MSI",
+  "family": "Titan",
+  "model_name": "MSI Titan GT80 Titan SLI Teclado Mecanico Cherry MX (2015)",
+  "system_id": "GT80",
+  "dmi_matches": [
+    "GT80",
+    "MSI GT80",
+    "Micro-Star GT80",
+    "Titan GT80 Titan SLI Teclado Mecanico Cherry MX (2015)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "msi-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "msi-wmi",
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "realtek-alc1220",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}
