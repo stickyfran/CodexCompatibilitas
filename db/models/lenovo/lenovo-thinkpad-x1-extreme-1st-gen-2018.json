@@ -1,0 +1,56 @@
+{
+  "id": "lenovo-thinkpad-x1-extreme-1st-gen-2018",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Extreme 1st Gen",
+  "system_id": "20MF,20MG",
+  "dmi_matches": [
+    "20MF",
+    "20MG",
+    "ThinkPad X1 Extreme 1st Gen",
+    "Lenovo ThinkPad X1 Extreme 1st Gen"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "thinkpad_acpi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

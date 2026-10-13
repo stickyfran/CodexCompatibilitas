@@ -1,0 +1,73 @@
+{
+  "id": "dell-alienware-13-r3-2017",
+  "vendor": "Dell",
+  "family": "Alienware",
+  "model_name": "Alienware 13 R3 OLED",
+  "system_id": "0776",
+  "dmi_matches": [
+    "0776",
+    "Alienware 13 R3 OLED",
+    "Dell Alienware 13 R3 OLED"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "dell-wmi-sysman",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "display_color": {
+      "status": "fixed",
+      "fix_type": "icc-profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "dell-wmi-sysman",
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "cirrus-cs35l41",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "hp-omen-17-2016",
+  "vendor": "HP",
+  "family": "OMEN",
+  "model_name": "HP OMEN 17 (2016 GTX 1060/1070)",
+  "system_id": "820E",
+  "dmi_matches": [
+    "820E",
+    "HP OMEN 17 (2016 GTX 1060/1070)",
+    "HP HP OMEN 17 (2016 GTX 1060/1070)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "hp-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "hp-wmi",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

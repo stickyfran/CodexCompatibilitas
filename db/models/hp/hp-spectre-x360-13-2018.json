@@ -1,0 +1,61 @@
+{
+  "id": "hp-spectre-x360-13-2018",
+  "vendor": "HP",
+  "family": "Spectre",
+  "model_name": "HP Spectre x360 13 (Gem Cut 2018)",
+  "system_id": "8440",
+  "dmi_matches": [
+    "8440",
+    "HP Spectre x360 13 (Gem Cut 2018)",
+    "HP HP Spectre x360 13 (Gem Cut 2018)"
+  ],
+  "pci_subsystems": [],
+  "acpi_hids": [],
+  "thermal": {
+    "platform_profiles": [
+      "quiet",
+      "balanced",
+      "performance"
+    ],
+    "current_profile": null,
+    "thermal_zones": [],
+    "cooling_devices": [],
+    "acpi_thermal_hids": [],
+    "wmi_thermal_interface": "hp-wmi",
+    "dptf_tuning_available": false
+  },
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire-dsp",
+      "fix_path": null,
+      "details": {}
+    },
+    "display": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "acpi_platform_profile",
+      "fix_path": null,
+      "details": {}
+    },
+    "keyboard": {
+      "status": "works-ootb",
+      "fix_type": null,
+      "fix_path": null,
+      "details": {}
+    },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "conexant-realtek",
+      "fix_path": null,
+      "details": {}
+    }
+  }
+}

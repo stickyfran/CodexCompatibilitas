@@ -4,39 +4,40 @@
 
 ## 📊 Estadísticas Globales
 
-- **Total Laptops Indexadas:** `8313`
-- **Total Scripts `install-all.sh` Generados:** `8313` (100.0% cubierto)
+- **Total Laptops Indexadas:** `8571`
+- **Total Scripts `install-all.sh` Generados:** `8571` (100.0% cubierto)
 - **Desglose por Fabricante OEM:**
-  - **ASUS:** `159` modelos
-  - **Dell:** `1278` modelos
-  - **HP:** `4907` modelos
-  - **Lenovo:** `1969` modelos
+  - **ASUS:** `197` modelos
+  - **Dell:** `1343` modelos
+  - **HP:** `4990` modelos
+  - **Lenovo:** `2041` modelos
 
 ### Resumen por Generación / Año
 
 | Año | Modelos Soportados | Scripts Listos | Estado |
 | :--- | :---: | :---: | :--- |
-| **2026** | 1930 | 1930 | ✅ 100% Scripts Listos |
-| **2025** | 741 | 741 | ✅ 100% Scripts Listos |
-| **2024** | 661 | 661 | ✅ 100% Scripts Listos |
-| **2023** | 1128 | 1128 | ✅ 100% Scripts Listos |
-| **2022** | 542 | 542 | ✅ 100% Scripts Listos |
-| **2021** | 1123 | 1123 | ✅ 100% Scripts Listos |
+| **2026** | 1931 | 1931 | ✅ 100% Scripts Listos |
+| **2025** | 736 | 736 | ✅ 100% Scripts Listos |
+| **2024** | 660 | 660 | ✅ 100% Scripts Listos |
+| **2023** | 1113 | 1113 | ✅ 100% Scripts Listos |
+| **2022** | 539 | 539 | ✅ 100% Scripts Listos |
+| **2021** | 1126 | 1126 | ✅ 100% Scripts Listos |
 | **2020** | 801 | 801 | ✅ 100% Scripts Listos |
-| **2019** | 668 | 668 | ✅ 100% Scripts Listos |
-| **2018** | 488 | 488 | ✅ 100% Scripts Listos |
-| **2017** | 95 | 95 | ✅ 100% Scripts Listos |
-| **2016** | 46 | 46 | ✅ 100% Scripts Listos |
-| **2015** | 28 | 28 | ✅ 100% Scripts Listos |
+| **2019** | 679 | 679 | ✅ 100% Scripts Listos |
+| **2018** | 573 | 573 | ✅ 100% Scripts Listos |
+| **2017** | 162 | 162 | ✅ 100% Scripts Listos |
+| **2016** | 111 | 111 | ✅ 100% Scripts Listos |
+| **2015** | 78 | 78 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2014])** | 59 | 59 | ✅ 100% Scripts Listos |
 | **Legacy (< 2015 [2013])** | 3 | 3 | ✅ 100% Scripts Listos |
 
 ---
 
-## 📅 Generación 2026 (1930 modelos)
+## 📅 Generación 2026 (1931 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | TUF Gaming | ASUS TUF Gaming A14 (2024-2026 14-inch Ultraportable) | `FA401` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | Asus Tuf Gaming F16 2026 | `2026` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Dell Desktops | Dell Desktops Dell Slim DS1265 | `0E0F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Dell Desktops | Dell Desktops Dell Slim DS1265 | `0E7E` | ✅ `install-all.sh` | audio, color, thermals |
@@ -1968,7 +1969,7 @@
 | Lenovo | Thinkstation | ThinkStation PX (Type 30EY) | `30EY` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation PX (Type 30H3) | `30H3` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2025 (741 modelos)
+## 📅 Generación 2025 (736 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -2321,29 +2322,24 @@
 | HP | HP | HP Engage Flex Mini Retail System (Windows 11 64-bit, 23H2) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 11 64-bit, 24H2) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Flex Pro G2 Retail System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8BC5` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro G2 Retail System (Windows 11 64-bit, 22H2) | `8BC5` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro G2 Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8BC5` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8BC6` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 11 64-bit, 22H2) | `8BC6` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8BC6` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 11 64-bit, 22H2) | `888c` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 11 64-bit, 22H2) | `8a94` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8a94` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 11 64-bit, 23H2) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 11 64-bit, 24H2) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 11 64-bit, 25H2) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 11 64-bit, 23H2) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 11 64-bit, 24H2) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 11 64-bit, 25H2) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 11 IoT Enterprise 24H2 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System | `8d09` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8d09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 11 64-bit, 23H2) | `8d09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 11 64-bit, 24H2) | `8d09` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 11 64-bit, 25H2) | `8d09` | ✅ `install-all.sh` | audio, color, thermals |
@@ -2714,7 +2710,7 @@
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FJ) | `30FJ` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P360 TINY (Type 30FK) | `30FK` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2024 (661 modelos)
+## 📅 Generación 2024 (660 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -2727,7 +2723,6 @@
 | ASUS | ProArt | ASUS ProArt PZ13 IP52 Detachable Snapdragon X (2024-2026) | `HT5306` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G14 (2024 CNC OLED Ryzen 8000) | `GA403` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
 | ASUS | ROG Zephyrus | ASUS ROG Zephyrus G16 (2024-2026 OLED Core Ultra) | `GU605` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
-| ASUS | TUF Gaming | ASUS TUF Gaming A14 (2024-2026 14-inch Ultraportable) | `FA401` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming A15 (2024-2026 Ryzen 8000/AI) | `FA508` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | TUF Gaming | ASUS TUF Gaming F16 (2024-2026 16-inch 13th/14th Gen) | `FX607` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
 | ASUS | Vivobook | ASUS Vivobook S 14 OLED RGB 1-Zona (2024-2026) | `S5406` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb |
@@ -3380,11 +3375,12 @@
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AW) | `21AW` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad X13 Yoga Gen 3 Type 21AW 21AX (Type 21AX) | `21AX` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2023 (1128 modelos)
+## 📅 Generación 2023 (1113 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | ASUS | Chromebook | ASUS Chromebook CX34 Flip 14 (2023-2026) | `CX34` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Chromebook | ASUS Chromebook Detachable CM3 Tablet (2021-2023) | `CM3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | ExpertBook | ASUS ExpertBook B9 OLED Ultralight 990g (2023-2026) | `B9403` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | ASUS | ProArt | ASUS ProArt Studiobook 16 OLED RTX 4080 (2023-2024) | `H7604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
 | ASUS | ProArt | ASUS ProArt Studiobook Pro 16 OLED RTX Ada (2023-2024) | `W7604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
@@ -3810,47 +3806,31 @@
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 21H1) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 21H2) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 22H2) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Flex Mini Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Flex Mini Retail System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro Retail System | `840A` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 21H1) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 21H2) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 22H2) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Flex Pro Retail System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Flex Pro Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 11 64-bit, 21H2) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 11 64-bit, 22H2) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C Retail System | `8476` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 21H1) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 21H2) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 22H2) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 11 64-bit, 21H2) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 11 64-bit, 22H2) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 10 64-bit, 21H1) | `888c` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 10 64-bit, 21H2) | `888c` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 10 Mobile System (Windows 10 64-bit, 22H2) | `888c` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Go 10 Mobile System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `888c` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Go 10 Mobile System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `888c` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 10 64-bit, 21H1) | `8a94` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 10 64-bit, 21H2) | `8a94` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 10 64-bit, 22H2) | `8a94` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8a94` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 141 | `830a` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 143 | `830a` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 145 | `830a` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Essential All-in-One System | `890d` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One Essential All-in-One System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `890d` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One Essential All-in-One System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `890d` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro AIO System (Windows 10 64-bit, 21H1) | `874F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro AIO System (Windows 10 64-bit, 21H2) | `874F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro AIO System (Windows 10 64-bit, 22H2) | `874F` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One Pro AIO System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `874F` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One Pro AIO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `874F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Mini Conferencing PC with Microsoft Team Rooms (Windows 10 64-bit, 20H2) | `894f,8c6c,8ac3` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Mini Conferencing PC with Zoom Rooms (Windows 10 64-bit, 20H2) | `8ac3,8c6c,894f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Presence 24 All-in-One with Zoom Rooms | `8acc,895f,8957` | ✅ `install-all.sh` | audio, color, thermals |
@@ -4513,7 +4493,7 @@
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D6) | `30D6` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 TINY (Type 30D7) | `30D7` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2022 (542 modelos)
+## 📅 Generación 2022 (539 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -4736,15 +4716,12 @@
 | HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 64-bit, 20H2) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 64-bit, 21H1) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 64-bit, 21H2) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 64-bit, 20H2) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 64-bit, 21H1) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 64-bit, 21H2) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 64-bit, 20H2) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 64-bit, 21H1) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 64-bit, 21H2) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One Pro AIO System (Windows 10 64-bit, 20H2) | `874F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Presence Control Kit Zoom Room | `885c` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Presence Control Kit Zoom Room (Windows 10 64-bit, 20H2) | `885c` | ✅ `install-all.sh` | audio, color, thermals |
@@ -5060,12 +5037,11 @@
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SE) | `20SE` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e 6th Gen Type 20SE 20SF (Type 20SF) | `20SF` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2021 (1123 modelos)
+## 📅 Generación 2021 (1126 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | ASUS | Chromebook | ASUS Chromebook CX9 Ultralight Magnesio (2021-2023) | `CX9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
-| ASUS | Chromebook | ASUS Chromebook Detachable CM3 Tablet (2021-2023) | `CM3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Chromebook | ASUS Chromebook Detachable CZ1 Rugged Reforzada (2021-2024) | `CZ1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Chromebook | ASUS Chromebook Flip CX5 14/15.6 (2021-2023) | `CX5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | ExpertBook | ASUS ExpertBook B1 B1400 (2021-2023) | `B1400` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
@@ -5522,6 +5498,11 @@
 | HP | HP | HP EliteOne 800 G8 27 All-in-One PC (Windows 11 64-bit, 21H2) | `88AA` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 1909) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Mini Retail System (Windows 10 64-bit, 2004) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Flex Mini Retail System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Flex Pro G2 Retail System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8BC5` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Flex Pro-C G2 Retail System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8BC6` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Go 10 Mobile System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `888c` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Go 13.5 inch Mobile System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8a94` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go Mobile System | `846f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 1803) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 1809) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
@@ -5531,13 +5512,14 @@
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 20H2) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 21H1) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Go Mobile System (Windows 10 64-bit, 21H2) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Go Mobile System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP Engage Go Mobile System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One Essential All-in-One System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `890d` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One Pro 15.6 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One Pro 19.5 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8D09` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One Pro 23.8 G2 AiO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `8d09` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One Pro AIO System (Windows 10 IoT Enterprise 2021 LTSC, 64-bit) | `874F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP MP9 G4 Retail System | `8A39,83ef` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP MP9 G4 Retail System | `83ef` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP MP9 G4 Retail System (Windows 10 64-bit, 20H2) | `8A39,83ef` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP MP9 G4 Retail System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `8A39,83ef` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP MP9 G4 Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8A39,83ef` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC | `83f3` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 2004) | `83f3` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP ProDesk 400 G4 Desktop Mini PC (Windows 10 64-bit, 20H2) | `83f3` | ✅ `install-all.sh` | audio, color, thermals |
@@ -5719,8 +5701,6 @@
 | HP | HP | HP RP9 G1 Retail System Model 9118 | `8139,8397` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP9 G1 Retail System Model 9118 | `8397,8139` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 64-bit, 20H2) | `8397,8139` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `8139,8397` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8397,8139` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP VR Backpack G2 | `8590` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP VR Backpack G2 (Windows 10 64-bit, 20H2) | `8590` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP VR Backpack G2 (Windows 10 64-bit, 21H1) | `8590` | ✅ `install-all.sh` | audio, color, thermals |
@@ -6994,7 +6974,7 @@
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D3) | `30D3` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 2nd Gen (Type 30D4) | `30D4` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2019 (668 modelos)
+## 📅 Generación 2019 (679 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
@@ -7263,18 +7243,29 @@
 | HP | HP | HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One (Windows 10 64-bit, 1809) | `85eb,85a0,859f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One (Windows 10 64-bit, 1803) | `85eb,85a0,859f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP EliteOne 800 G5 23.8-inch All-in-One (Windows 10 64-bit, 1809) | `85a0,859f,85eb` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Flex Mini Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8715` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 1809) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro Retail System (Windows 10 64-bit, 1903) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Flex Pro Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 1809) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 64-bit, 1903) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Go 10 Mobile System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `888c` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Go Mobile System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 64-bit, 1809) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 64-bit, 1903) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 64-bit, 1809) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 64-bit, 1903) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 64-bit, 1809) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 64-bit, 1903) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One Essential All-in-One System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `890d` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One Pro AIO System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `874F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP MP9 G4 Retail System (Windows 10 64-bit, 1809) | `8A39,83ef` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP MP9 G4 Retail System (Windows 10 64-bit, 1903) | `8A39,83ef` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP MP9 G4 Retail System (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8A39,83ef` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Pro x2 612 G1 Tablet | `221b` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Pro x2 612 G1 Tablet (Windows 10 64-bit, 1903) | `221b` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Pro x2 612 G1 Tablet with Power Keyboard | `221b` | ✅ `install-all.sh` | audio, color, thermals |
@@ -7410,12 +7401,12 @@
 | HP | HP | HP ProOne 600 G5 21.5-in All-in-One Business PC (Windows 10 64-bit, 1809) | `85a2,85a1` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP5 Retail System Model 5810 | `2175` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP5 Retail System Model 5810 (Windows 10 64-bit, 1809) | `2175` | ✅ `install-all.sh` | audio, color, thermals |
-| HP | HP | HP RP5 Retail System Model 5810 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `2175` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP9 G1 Retail System Model 9115 | `8139` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP9 G1 Retail System Model 9115 | `8397` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP9 G1 Retail System Model 9115 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8139,8397` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 64-bit, 1809) | `8139,8397` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 64-bit, 1903) | `8397,8139` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 IoT Enterprise 2019 LTSC, 64-bit) | `8397,8139` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP VR Backpack G2 (Windows 10 64-bit, 1809) | `8590` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP VR Backpack G2 (Windows 10 64-bit, 1903) | `8590` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP VR Backpack G2 (Windows 10 64-bit, 1909) | `8590` | ✅ `install-all.sh` | audio, color, thermals |
@@ -7667,25 +7658,54 @@
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30C9) | `30C9` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P330 (Type 30CA) | `30CA` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2018 (488 modelos)
+## 📅 Generación 2018 (573 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG | ROG Strix Hero II GL504GM (2018) | `GL504GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ROG Strix SCAR II GL504GS (2018 Marcos Delgados 144Hz) | `GL504GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ROG Strix SCAR II GL704GM (2018 17.3) | `GL704GM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ROG Zephyrus M GM501GS (2018 144Hz G-Sync AAS) | `GM501GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | ROG | ROG Zephyrus S GX531GS (2018 Marcos Ultradelgados) | `GX531GS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | TUF Gaming | TUF Gaming FX504GE (2018 Primer TUF Gaming Oficial) | `FX504GE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | TUF Gaming | TUF Gaming FX505GE (2018 Marcos NanoEdge 144Hz) | `FX505GE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | TUF Gaming | TUF Gaming FX705GE (2018 17.3 NanoEdge) | `FX705GE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | VivoBook Pro 15 N580VD (2018 GTX 1050) | `N580VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | VivoBook S14 S430UN (2018) | `S430UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | VivoBook | VivoBook S15 S530UN (2018 Teclado Elevable ErgoLift) | `S530UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook 13 UX331UN (2018 Ultradelgada MX150) | `UX331UN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook 14 UX433FA (2018 ErgoLift NumberPad) | `UX433FA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook 15 UX533FD (2018 ErgoLift GTX 1050 Max-Q) | `UX533FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook Pro 15 UX580GE (2018 Primer ScreenPad) | `UX580GE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Zenbook | Zenbook S UX391UA (2018 Bisagra ErgoLift Inclinada) | `UX391UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Alienware 15 R4 | `0871` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| Dell | Alienware | Alienware 17 R5 | `0872` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| Dell | Alienware | Alienware m15 (2018) | `08CE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | Dell | Latitude | Latitude 12 Rugged Extreme (7204) | `0610` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 12 Rugged Tablet 7202 | `06A2` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 14 Rugged (5404) | `062F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 14 Rugged Extreme (7404) | `060F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3340 | `061F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3450 | `0631` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 3490 | `0824` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3550 | `0632` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 3590 | `0825` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5250 | `0644` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 5290 | `0822` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5290 2-in-1 | `0823` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5404 | `062F` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 5490 | `0820` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 5550 | `0646` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 5590 | `0821` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7202 | `06A2` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 7204 | `0610` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 7250 | `0648` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 7290 | `081F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7350 | `0673` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 7390 | `081D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7390 2-in-1 | `081E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 7404 | `060F` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 7490 | `081C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5250 | `062A` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E5250/5250 | `062A` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E5250/5250 | `0644` | ✅ `install-all.sh` | audio, color, thermals |
@@ -7713,7 +7733,11 @@
 | Dell | Optiplex | OptiPlex 9030 AIO | `0625` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Optiplex | OptiPlex XE2 | `05C1` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Optiplex | Optiplex 9030 | `0625` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Precision | Precision 3530 | `0857` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 5530 | `0854` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 7530 | `0855` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision 7710 | `06DA` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Precision | Precision 7730 | `0856` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision M3800 | `060D` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Precision | Precision R7610 | `05A1` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Precision | Precision T1700 | `05A6` | ✅ `install-all.sh` | audio, color, thermals |
@@ -7732,8 +7756,20 @@
 | Dell | Tablet | Venue 11 Pro 7130 | `0604` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Tablet | Venue 11 Pro 7130 vPro | `0605` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Tablet | Venue 11 Pro 7140 | `066B` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | XPS | XPS 13 9370 (Coffee Lake 2018) | `083A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | XPS 15 9570 (Coffee Lake 2018) | `0853` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | XPS 15 9575 2-in-1 Kaby Lake-G | `0843` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | XPS Notebook | XPS 13 9343 | `0665` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | XPS Notebook | XPS Notebook 9343 | `0665` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | EliteBook | HP EliteBook 1050 G1 (GTX 1050) | `8438` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 735 G5 (Ryzen Pro) | `8446` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 745 G5 (Ryzen Pro) | `8444` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 755 G5 (Ryzen Pro) | `8445` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 830 G5 | `83B3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 840 G5 | `83B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 850 G5 | `83B4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook x360 1030 G3 | `8439` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook x360 1040 G5 | `843A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G3 Notebook PC (Windows 10 64-bit, 1709) | `80fa` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Elitebook | HP EliteBook 1040 G4 Notebook PC (Windows 10 64-bit, 1709) | `82de,8417` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Elitebook | HP EliteBook 1050 G1 Notebook PC (Windows 10 64-bit, 1703) | `84e9` | ✅ `install-all.sh` | audio, color, thermals |
@@ -8083,6 +8119,13 @@
 | HP | HP | HP ZHAN 66 Pro G1 Notebook PC (Windows 10 64-bit, 1709) | `83fd,8471` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Zhan60 G1 21.5-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 1709) | `83ea,83eb` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Zhan60 G1 23.8-inch FHD Non-Touch GPU All-in-One Business PC (Windows 10 64-bit, 1709) | `83eb,83ea` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | OMEN | HP OMEN 15 (2018 Marcos Delgados 144Hz) | `844F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | ProBook | HP ProBook 430 G5 | `837A` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 440 G5 | `8379` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 450 G5 | `8378` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 470 G5 | `837B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 640 G4 | `840F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 650 G4 | `8410` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 1709) | `8377` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Probook | HP ProBook 440 G5 Notebook PC (Windows 10 64-bit, 1709) | `837b` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Probook | HP ProBook 450 G5 Notebook PC (Windows 10 64-bit, 1709) | `837d` | ✅ `install-all.sh` | audio, color, thermals |
@@ -8097,6 +8140,16 @@
 | HP | Prodesk | HP ProDesk 498 G1 Microtower PC | `18eb` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Prodesk | HP ProDesk 600 G1 Tower PC | `18e7` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Prodesk | HP ProDesk 680 G1 Tower PC | `18e7` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | Spectre | HP Spectre Folio 13 (2018 Cuero Genuino) | `8442` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Spectre | HP Spectre x360 13 (Gem Cut 2018) | `8440` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Spectre | HP Spectre x360 15 (2018 Gem Cut) | `8441` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 14u G5 | `842C` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15 G5 Mobile Workstation | `8427` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15u G5 | `842D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15v G5 | `842B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 17 G5 Mobile Workstation | `8428` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook Studio G5 | `8429` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook Studio x360 G5 | `842A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook 14 Mobile Workstation | `198f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Zbook | HP ZBook 14 Mobile Workstation (Windows 10 64-bit, 1607) | `198f` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Zbook | HP ZBook 14 Mobile Workstation (Windows 10 64-bit, 1703) | `198f` | ✅ `install-all.sh` | audio, color, thermals |
@@ -8121,15 +8174,38 @@
 | HP | Zbook | HP Zbook 17 G5 Mobile Workstation (Windows 10 64-bit, 1709) | `842D` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Other | ThinkCentre M715Q | `10M4,10RA,10RB,10M5,10...` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Other | ThinkStation P320 TINY | `30C2,30C1,30C3` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad A285 | `20MW,20MX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad A485 | `20MU,20MV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E480 | `20KN,20KQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E485 | `20KU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E580 | `20KS,20KT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E585 | `20KV` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L380 | `20M5,20M6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L380 Yoga | `20M7,20M8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L480 | `20LS,20LT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L580 | `20LW,20LX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P1 1st Gen | `20MD,20ME` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P52 Mobile Workstation | `20M9,20MA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P52s | `20LB,20LC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P72 Mobile Workstation | `20MB,20MC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T440 | `20B6,20B7` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | ThinkPad | ThinkPad T440P | `20AW,20AN` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | ThinkPad | ThinkPad T440S | `20AR,20AQ` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad T480 | `20L5,20L6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T480s | `20L7,20L8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad T540P | `20BE,20BF` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad T580 | `20L9,20LA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad W540 | `20BG,20BH` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | ThinkPad | ThinkPad W541 | `20EG,20EF` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad X1 Carbon 6th Gen | `20KH,20KG` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | ThinkPad | ThinkPad X1 Carbon Type 20A7 20A8 | `20A8,20A7` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad X1 Extreme 1st Gen | `20MF,20MG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X1 Tablet 3rd Gen | `20KJ,20KK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X1 Yoga 3rd Gen | `20LD,20LE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad X240 | `20AL,20AM` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | ThinkPad | ThinkPad X240S | `20AK,20AJ` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad X280 | `20KF,20KE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X380 Yoga | `20LJ,20LH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkcentre | ThinkCentre M715Q (Type 10M2) | `10M2` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkcentre | ThinkCentre M715Q (Type 10M3) | `10M3` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkcentre | ThinkCentre M715Q (Type 10M4) | `10M4` | ✅ `install-all.sh` | audio, color, thermals |
@@ -8160,16 +8236,49 @@
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C2) | `30C2` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P320 TINY (Type 30C3) | `30C3` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2017 (95 modelos)
+## 📅 Generación 2017 (162 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG | ROG G703VI Chimera (2017 144Hz GTX 1080) | `G703VI` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG | ROG Strix GL503VM Hero Edition (2017 120Hz) | `GL503VM` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ROG Strix GL503VS SCAR Edition (2017 144Hz) | `GL503VS` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| ASUS | ROG | ROG Strix GL703VD (2017 17.3) | `GL703VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG | ROG Zephyrus GX501VI (2017 Primer Zephyrus Max-Q AAS) | `GX501VI` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| ASUS | TUF Gaming | ASUS FX503VD (2017 Precursor de TUF Gaming) | `FX503VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook 3 Deluxe UX490UA (2017 14 en chasis de 13) | `UX490UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook Flip S UX370UA (2017 10.9mm 1.1kg) | `UX370UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook Pro UX550VD (2017 Marcos NanoEdge) | `UX550VD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Alienware 13 R3 OLED | `0776` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, keyboard_rgb, audio_amp |
+| Dell | Alienware | Alienware 15 R3 | `0774` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| Dell | Alienware | Alienware 17 R4 | `0775` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
 | Dell | Latitude | Latitude 3150 | `068F` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude 3160 | `06A8` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 5280 | `07A4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5285 2-in-1 | `07CE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5289 2-in-1 | `07CF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5480 | `07A2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 5580 | `07A3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7280 | `07A1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7380 | `07D0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7389 2-in-1 | `07D1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 7480 | `07A0` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Precision | Precision 3520 | `07B2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 5520 | `07BF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 7520 | `07B0` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 7720 | `07B1` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Precision | Precision M2800 | `0684` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Precision | Precision M6800 | `05CD` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Precision | Precision R7910 | `061A` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Precision | Precision Rack 7910 | `061A` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | XPS | XPS 13 9365 2-in-1 | `077A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | XPS 15 9560 (Kaby Lake 2017) | `07BE` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | EliteBook | HP Elite x2 1012 G2 | `8337` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 1040 G4 | `836D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 820 G4 | `8292` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 840 G4 | `828C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 850 G4 | `828D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook x360 1030 G2 | `827B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Elitebook | HP EliteBook 1040 G3 Notebook PC (Windows 10 64-bit, 1607) | `80fa` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Elitebook | HP EliteBook 1040 G3 Notebook PC (Windows 10 64-bit, 1703) | `80fa` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Elitebook | HP EliteBook 1040 G4 Notebook PC (Windows 10 64-bit, 1703) | `82de,8417` | ✅ `install-all.sh` | audio, color, thermals |
@@ -8225,6 +8334,15 @@
 | HP | HP | Sprout Pro by HP | `2b5c` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | Sprout Pro by HP (Windows 10 64-bit, 1607) | `2b5c` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | Sprout Pro by HP (Windows 10 64-bit, 1703) | `2b5c` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | OMEN | HP OMEN 15 (2017 Rediseño GTX 1060 Max-Q) | `838F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | OMEN | HP OMEN 17 (2017 GTX 1070/1080 120Hz) | `8390` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | OMEN | HP OMEN X Laptop 17 (2017 Overclocking) | `8391` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | ProBook | HP ProBook 430 G4 | `822E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 440 G4 | `822D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 450 G4 | `822C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 470 G4 | `822F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 640 G3 | `82B3` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 650 G3 | `82B4` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | Probook | HP ProBook 430 G5 Notebook PC (Windows 10 64-bit, 1703) | `8377` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Probook | HP ProBook 440 G5 Notebook PC (Windows 10 64-bit, 1703) | `837b` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Probook | HP ProBook 450 G5 Notebook PC (Windows 10 64-bit, 1703) | `837d` | ✅ `install-all.sh` | audio, color, thermals |
@@ -8233,12 +8351,37 @@
 | HP | Spectre | HP Spectre Pro x360 G2 Convertible PC | `8197,8198` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Spectre | HP Spectre Pro x360 G2 Convertible PC | `8198` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | Spectre | HP Spectre Pro x360 G2 Convertible PC (Windows 10 64-bit, 1607) | `8197,8198` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | Spectre | HP Spectre x360 13 (Kaby Lake 2017) | `827E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Spectre | HP Spectre x360 15 (2017 4K) | `827F` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color, audio_amp |
+| HP | ZBook | HP ZBook 14u G4 | `8269` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15 G4 Mobile Workstation | `8265` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15u G4 | `8268` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 17 G4 Mobile Workstation | `8266` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook Studio G4 | `8267` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | HP | Zbook | HP ZBook x2 G4 Detachable Workstation (Windows 10 64-bit, 1703) | `824c` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Other | ThinkCentre M910Z | `10NV,10NT,10NS,10NR,10...` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Other | ThinkCentre X1 | `10KE,10JY,10KF,10K0,10...` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Other | ThinkStation P510 | `30B5,30B4` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Other | ThinkStation P710 | `30B7,30B6` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad 13 Gen 2 | `20J1,20J2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad 25 Anniversary Edition | `20K7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E470 | `20H1,20H2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E570 | `20H5,20H6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L470 | `20J4,20J5` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L570 | `20J8,20J9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P51 Mobile Workstation | `20HH,20HJ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P51s | `20HB,20HC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P71 Mobile Workstation | `20HL,20HK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T470 | `20HE,20HD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T470p | `20J6,20J7` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T470s | `20HG,20HF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T570 | `20H9,20HA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X1 Carbon 5th Gen | `20HR,20HQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Lenovo | ThinkPad | ThinkPad X1 Tablet 2nd Gen | `20JB,20JC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X1 Yoga 2nd Gen | `20JD,20JE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X270 | `20HM,20HN` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 12 | `20DK,20DL` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad Yoga 370 | `20JJ,20JH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkcentre | ThinkCentre M910Z (Type 10NR) | `10NR` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkcentre | ThinkCentre M910Z (Type 10NS) | `10NS` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkcentre | ThinkCentre M910Z (Type 10NT) | `10NT` | ✅ `install-all.sh` | audio, color, thermals |
@@ -8260,27 +8403,45 @@
 | Lenovo | Thinkstation | ThinkStation P710 (Type 30B6) | `30B6` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkstation | ThinkStation P710 (Type 30B7) | `30B7` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2016 (46 modelos)
+## 📅 Generación 2016 (111 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG | ROG G752VS (2016 GTX 1070 Pascal) | `G752VS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG | ROG GX700VO (2016 Refrigeracion Liquida Externa) | `GX700VO` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG | ROG Strix GL502VM (2016 GTX 1060) | `GL502VM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG | ROG Strix GL502VS (2016 GTX 1070 Delgado) | `GL502VS` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG | ROG Strix GL702VM (2016 17.3 GTX 1060) | `GL702VM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | ASUS | Vivobook | Asus Vivobook 16 M1607 | `M1607` | ✅ `install-all.sh` | audio, color, thermals |
+| ASUS | Zenbook | Zenbook 3 UX390UA (2016 910g Ultradelgada) | `UX390UA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook Flip UX360CA (2016 360 Fanless) | `UX360CA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook UX310UQ (2016 Kaby Lake) | `UX310UQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Alienware | Alienware 15 R2 | `06AC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| Dell | Alienware | Alienware 17 R3 | `06AD` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb, audio_amp |
+| Dell | Latitude | Latitude 3160 | `06A8` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 3330 | `05DC` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 3470 | `072C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3570 | `072D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude 6430U | `0584` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude 7370 | `0706` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5430 | `053C` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E5430 | `0549` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E5430-non-vPro | `0549` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E5430-vPro | `053C` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude E5470 | `06DE` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E5530 | `053D` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E5530 | `054A` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E5530 non-vPro | `054A` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E5530 vPro | `053D` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude E5570 | `06DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude E6230 | `0532` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E6330 | `0533` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E6430 | `0534` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E6430 ATG | `0534` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E6430s | `057D` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Latitude | Latitude E6530 | `0535` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Latitude | Latitude E7270 | `06DD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude E7470 | `06DC` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Optiplex | OptiPlex 3010 | `0585` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Optiplex | OptiPlex 3011 AIO | `05C2` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Optiplex | OptiPlex 7010 | `0577` | ✅ `install-all.sh` | audio, color, thermals |
@@ -8298,38 +8459,135 @@
 | Dell | Tablet | Tablet 5130 | `0694` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Tablet | Tablet 5830 | `0630` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Tablet | Venue 8 Pro 5830 | `0630` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | XPS | XPS 13 9360 (Kaby Lake 2016) | `075B` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | EliteBook | HP Elite x2 1012 G1 | `80FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 1040 G3 | `80FA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 820 G3 | `8078` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 840 G3 | `8079` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 850 G3 | `807B` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook Folio G1 | `8149` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | HP | HP Engage Flex Pro Retail System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `840A` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Flex Pro-C Retail System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `8476` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage Go Mobile System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `846f` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One All-in-One System Model 141 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One All-in-One System Model 143 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP Engage One All-in-One System Model 145 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `830a` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP MP9 G4 Retail System (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `8A39,83ef` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Pro x2 612 G1 Tablet (Windows 10 64-bit, 1607) | `221b` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Pro x2 612 G1 Tablet with Power Keyboard (Windows 10 64-bit, 1607) | `221b` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Pro x2 612 G1 Tablet with Travel Keyboard (Windows 10 64-bit, 1607) | `221b` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP RP5 Retail System Model 5810 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `2175` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | HP | HP RP9 G1 Retail System Model 9118 (Windows 10 IoT Enterprise 2016 LTSB, 64-bit) | `8139,8397` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Z1 All-in-One G2 Workstation (Windows 10 64-bit, 1607) | `192F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Z230 Small Form Factor Workstation (Windows 10 64-bit, 1607) | `1906,233F,8014` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Z230 Tower Workstation (Windows 10 64-bit, 1607) | `1905` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | OMEN | HP OMEN 15 (2016 GTX 960M/965M) | `820D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | OMEN | HP OMEN 17 (2016 GTX 1060/1070) | `820E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | ProBook | HP ProBook 430 G3 | `8103` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 440 G3 | `8102` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 450 G3 | `8101` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 640 G2 | `80F9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 650 G2 | `80FA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre 13 (2016 Ultradelgada 10.4mm) | `813A` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | Spectre | HP Spectre x360 13 G2 (Skylake 2016) | `804E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15 G3 Mobile Workstation | `80D5` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15u G3 | `80D3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 17 G3 Mobile Workstation | `80D6` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook Studio G3 | `80D4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | ThinkPad | ThinkPad 11e | `20D9,20DA` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad 13 Gen 1 | `20GJ,20GK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E460 | `20ET,20EU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E560 | `20EV,20EW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L460 | `20FV,20FU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad L560 | `20F1,20F2` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P50 Mobile Workstation | `20EN,20EQ` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P50s | `20FK,20FL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad P70 Mobile Workstation | `20ES,20ER` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T460 | `20FN,20FM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T460p | `20FW,20FX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T460s | `20FA,20F9` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T560 | `20FJ,20FH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X1 Carbon 4th Gen | `20FB,20FC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Lenovo | ThinkPad | ThinkPad X1 Tablet 1st Gen | `20GG,20GH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X1 Yoga 1st Gen | `20FQ,20FR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X260 | `20F5,20F6` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 11e | `20D9,20DA` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad Yoga 260 | `20FE,20FD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad Yoga 460 | `20EM,20EL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad 11e (Type 20D9) | `20D9` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad 11e (Type 20DA) | `20DA` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e (Type 20D9) | `20D9` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad Yoga 11e (Type 20DA) | `20DA` | ✅ `install-all.sh` | audio, color, thermals |
 
-## 📅 Generación 2015 (28 modelos)
+## 📅 Generación 2015 (78 modelos)
 
 | OEM | Familia | Modelo | System ID / MTM | Script `install-all.sh` | Componentes |
 | :--- | :--- | :--- | :--- | :---: | :--- |
+| ASUS | ROG | ROG G751JY (2015 GTX 980M G-Sync) | `G751JY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG | ROG G752VL/VT/VY (2015 Armor Titanium) | `G752VY` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | ROG | ROG GL552JX/VW (2015) | `GL552VW` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| ASUS | Zenbook | Zenbook Pro UX501JW (2015 4K UHD) | `UX501JW` | ✅ `install-all.sh` | audio, display, thermal, keyboard, display_color |
+| ASUS | Zenbook | Zenbook UX305FA/CA (2015 Fanless Core M) | `UX305FA` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3150 | `068F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude 3350 | `070C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude E5450 | `062E` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude E5550 | `062F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude E7250 | `062D` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Dell | Latitude | Latitude E7450 | `062C` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Dell | Latitude | Latitude XT3 | `04B4` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | Precision | Precision 3510 | `06DC` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 5510 | `06EB` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 7510 | `06D9` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision 7710 | `06DA` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision M3800 | `0604` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision M4800 | `05E2` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | Precision | Precision M6800 | `05E3` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Dell | Tablet | Latitude 10 - ST2 | `0583` | ✅ `install-all.sh` | audio, color, thermals |
 | Dell | Tablet | Tablet ST2 | `0583` | ✅ `install-all.sh` | audio, color, thermals |
+| Dell | XPS | XPS 13 9343 (Broadwell 2015) | `063E` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | XPS 13 9350 (Skylake 2015) | `0704` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| Dell | XPS | XPS 15 9550 (Skylake 2015) | `06E4` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | EliteBook | HP EliteBook 820 G2 | `2215` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 840 G2 | `2216` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook 850 G2 | `2217` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook Folio 1040 G2 | `2218` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | EliteBook | HP EliteBook Revolve 810 G3 | `2211` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | HP | HP | HP Z1 All-in-One G2 Workstation | `192F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Z230 Small Form Factor Workstation | `1906,8014,233F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Z230 Small Form Factor Workstation | `233F` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Z230 Small Form Factor Workstation | `8014` | ✅ `install-all.sh` | audio, color, thermals |
 | HP | HP | HP Z230 Tower Workstation | `1905` | ✅ `install-all.sh` | audio, color, thermals |
+| HP | OMEN | HP OMEN 15 Pro (2015) | `22DF` | ✅ `install-all.sh` | audio, display, thermal, keyboard, keyboard_rgb |
+| HP | ProBook | HP ProBook 430 G2 | `2246` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 440 G2 | `2247` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 450 G2 | `2248` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 640 G1/G2 | `213F` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | ProBook | HP ProBook 650 G1/G2 | `2140` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| HP | Spectre | HP Spectre x360 13 (Broadwell 2015) | `802D` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 14 G2 Mobile Workstation | `2252` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15 G2 Mobile Workstation | `2253` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 15u G2 Mobile Workstation | `2255` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
+| HP | ZBook | HP ZBook 17 G2 Mobile Workstation | `2254` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | ThinkPad | ThinkPad 10 | `20C1,20C3` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | ThinkPad | ThinkPad 8 | `20BQ,20BN` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad E450 | `20DC,20DD` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad E550 | `20DF,20DG` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad Helix 2nd Gen | `20CG,20CH` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L440 | `20AT,20AS` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad L450 | `20DS,20DT` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad L540 | `20AU,20AV` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad T450 | `20BV,20BU` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T450s | `20BW,20BX` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad T550 | `20CJ,20CK` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad W550s | `20E2,20E1` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad X1 Carbon 3rd Gen | `20BS,20BT` | ✅ `install-all.sh` | audio, display, thermal, keyboard, audio_amp |
 | Lenovo | ThinkPad | ThinkPad X140E | `20BL,20BM` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad X250 | `20CL,20CM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad Yoga 12 | `20DK,20DL` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
+| Lenovo | ThinkPad | ThinkPad Yoga 14 | `20DN,20DM` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | ThinkPad | ThinkPad Yoga 14 20FY | `20FY` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | ThinkPad | ThinkPad Yoga 15 | `20DQ,20DR` | ✅ `install-all.sh` | audio, color, thermals |
+| Lenovo | ThinkPad | ThinkPad Yoga 15 | `20DQ,20DR` | ✅ `install-all.sh` | audio, display, thermal, keyboard |
 | Lenovo | Thinkpad | ThinkPad 10 (Type 20C1) | `20C1` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad 10 (Type 20C3) | `20C3` | ✅ `install-all.sh` | audio, color, thermals |
 | Lenovo | Thinkpad | ThinkPad 8 (Type 20BN) | `20BN` | ✅ `install-all.sh` | audio, color, thermals |
