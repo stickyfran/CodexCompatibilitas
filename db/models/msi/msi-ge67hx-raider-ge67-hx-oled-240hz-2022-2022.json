@@ -52,6 +52,12 @@
       "fix_path": null,
       "details": {}
     },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "realtek-alc1220",
+      "fix_path": null,
+      "details": {}
+    },
     "display_color": {
       "status": "fixed",
       "fix_type": "icc-profile",
@@ -61,12 +67,6 @@
     "keyboard_rgb": {
       "status": "fixed",
       "fix_type": "msi-wmi",
-      "fix_path": null,
-      "details": {}
-    },
-    "audio_amp": {
-      "status": "fixed",
-      "fix_type": "cirrus-cs35l41",
       "fix_path": null,
       "details": {}
     }

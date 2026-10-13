@@ -10,6 +10,10 @@ echo "🚀 Aplicando configuraciones de hardware para MSI MSI Prestige 14 AI Evo
 
 # --- 1. Audio (PipeWire / Firmware) ---
 echo "🔊 Configurando audio de alta fidelidad..."
+if [ -d /lib/firmware/cirrus ]; then
+    sudo cp -f ./audio/*.bin ./audio/*.wmfw /lib/firmware/cirrus/ 2>/dev/null || true
+    echo "  ✓ Firmware Cirrus Logic copiado a /lib/firmware/cirrus/"
+fi
 mkdir -p ~/.config/pipewire/pipewire.conf.d/
 if [ -f ./audio/99-speakers.conf ]; then
     cp -f ./audio/99-speakers.conf ~/.config/pipewire/pipewire.conf.d/

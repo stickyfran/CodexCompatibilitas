@@ -51,12 +51,6 @@
       "fix_path": null,
       "details": {}
     },
-    "keyboard_rgb": {
-      "status": "fixed",
-      "fix_type": "asus-nb-wmi",
-      "fix_path": null,
-      "details": {}
-    },
     "audio_amp": {
       "status": "fixed",
       "fix_type": "cirrus-cs35l41",

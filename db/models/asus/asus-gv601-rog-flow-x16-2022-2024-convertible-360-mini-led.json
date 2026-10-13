@@ -51,9 +51,9 @@
       "fix_path": null,
       "details": {}
     },
-    "audio_amp": {
+    "display_color": {
       "status": "fixed",
-      "fix_type": "cirrus-cs35l41",
+      "fix_type": "icc-profile",
       "fix_path": null,
       "details": {}
     }

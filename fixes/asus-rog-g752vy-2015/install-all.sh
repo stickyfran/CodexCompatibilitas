@@ -10,6 +10,10 @@ echo "🚀 Aplicando configuraciones de hardware para ASUS ROG G752VL/VT/VY (201
 
 # --- 1. Audio (PipeWire / Firmware) ---
 echo "🔊 Configurando audio de alta fidelidad..."
+if [ -d /lib/firmware/cirrus ]; then
+    sudo cp -f ./audio/*.bin ./audio/*.wmfw /lib/firmware/cirrus/ 2>/dev/null || true
+    echo "  ✓ Firmware Cirrus Logic copiado a /lib/firmware/cirrus/"
+fi
 mkdir -p ~/.config/pipewire/pipewire.conf.d/
 if [ -f ./audio/99-speakers.conf ]; then
     cp -f ./audio/99-speakers.conf ~/.config/pipewire/pipewire.conf.d/
@@ -26,6 +30,12 @@ if ls ./display/*.icm 1> /dev/null 2>&1; then
         colormgr import-profile "$p" 2>/dev/null || true
     done
     echo "  ✓ Perfiles de color registrados en colord"
+fi
+
+# --- 3. Teclado y Controladores ---
+echo "⌨️ Configurando teclado e iluminación..."
+if [ -f ./kmod/install.sh ]; then
+    sudo ./kmod/install.sh
 fi
 
 # --- 4. Modo Térmico por Defecto ---

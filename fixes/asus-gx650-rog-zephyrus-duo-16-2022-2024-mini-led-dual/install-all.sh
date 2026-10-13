@@ -32,12 +32,6 @@ if ls ./display/*.icm 1> /dev/null 2>&1; then
     echo "  ✓ Perfiles de color registrados en colord"
 fi
 
-# --- 3. Teclado y Controladores ---
-echo "⌨️ Configurando teclado e iluminación..."
-if [ -f ./kmod/install.sh ]; then
-    sudo ./kmod/install.sh
-fi
-
 # --- 4. Modo Térmico por Defecto ---
 if [ -f /sys/firmware/acpi/platform_profile ]; then
     echo "balanced" | sudo tee /sys/firmware/acpi/platform_profile >/dev/null 2>&1 || true

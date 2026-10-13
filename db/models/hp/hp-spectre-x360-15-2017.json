@@ -51,15 +51,15 @@
       "fix_path": null,
       "details": {}
     },
-    "display_color": {
+    "audio_amp": {
       "status": "fixed",
-      "fix_type": "icc-profile",
+      "fix_type": "cirrus-cs35l41",
       "fix_path": null,
       "details": {}
     },
-    "audio_amp": {
+    "display_color": {
       "status": "fixed",
-      "fix_type": "conexant-realtek",
+      "fix_type": "icc-profile",
       "fix_path": null,
       "details": {}
     }

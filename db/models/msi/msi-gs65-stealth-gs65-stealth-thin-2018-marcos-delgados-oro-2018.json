@@ -52,6 +52,12 @@
       "fix_path": null,
       "details": {}
     },
+    "audio_amp": {
+      "status": "fixed",
+      "fix_type": "realtek-alc1220",
+      "fix_path": null,
+      "details": {}
+    },
     "keyboard_rgb": {
       "status": "fixed",
       "fix_type": "msi-wmi",
