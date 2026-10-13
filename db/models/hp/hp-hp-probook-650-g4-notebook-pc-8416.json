@@ -1,0 +1,46 @@
+{
+  "id": "hp-hp-probook-650-g4-notebook-pc-8416",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 650 G4 Notebook PC",
+  "system_id": "8416,844a",
+  "dmi_matches": [
+    "8416",
+    "844a",
+    "HP ProBook 650 G4 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp87575-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87575.exe",
+      "size_bytes": 807030648,
+      "md5": "259a0b2a6b4ac6a8d41e280e16f80ff2",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/1/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp99707-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99707.exe",
+      "size_bytes": 808122336,
+      "md5": "0b4452549fe4c7b4215b690aa240223c",
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "11/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp114195-HP Probook 6x0 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114195.exe",
+      "size_bytes": 1604021320,
+      "md5": "b517449ad3c4dc3210c5a8387d2bb6a1",
+      "sha256": null,
+      "version": "14.00 A 1",
+      "release_date": "6/15/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

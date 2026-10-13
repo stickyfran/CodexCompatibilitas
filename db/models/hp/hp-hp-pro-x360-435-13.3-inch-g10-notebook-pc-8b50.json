@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-pro-x360-435-13.3-inch-g10-notebook-pc-8b50",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 435 13.3 inch G10 Notebook PC",
+  "system_id": "8B50",
+  "dmi_matches": [
+    "8B50",
+    "HP Pro x360 435 13.3 inch G10 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp147939-HP Pro x360 435 G10 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147939.exe",
+      "size_bytes": 852745128,
+      "md5": "5ebfcf74373c82722e70f424bd76ba69",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "7/6/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149191-HP Pro x360 4x5 G10 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149191.exe",
+      "size_bytes": 854414552,
+      "md5": "f178c07b34eb3f435cd10a8b0b7212cc",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/7/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158618-HP Pro x360 435 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158618.exe",
+      "size_bytes": 1238094712,
+      "md5": "CF386D7743DBCC8EFE1CDFB3798FA629",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "12/2/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp170006-HP Pro x360 435 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170006.exe",
+      "size_bytes": 1285483152,
+      "md5": "1578439B057EF0B5EA43095EBE7A4DD7",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/19/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

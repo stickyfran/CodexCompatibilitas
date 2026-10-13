@@ -1,0 +1,57 @@
+{
+  "id": "lenovo-thinkstation-p348",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P348",
+  "system_id": "30EQ,30ER,30ET,30ES",
+  "dmi_matches": [
+    "30EQ",
+    "30ER",
+    "30ET",
+    "30ES"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p348_w1064_20h2_202109.exe",
+      "size_bytes": null,
+      "md5": "f105bf766806343cf6437c8c512eccf7",
+      "sha256": "128873611e0c98c3907bcfcbdc8a99acf71f4b48e522e589290fc9f628a8912b",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p348_w1064_21h2_202504.exe",
+      "size_bytes": null,
+      "md5": "0569654b86f866b3e997576497a2c18b",
+      "sha256": "9f9597a082437533db8fd23c6f3fce9cd32580d0e7f602644e0add1487ac37a7",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p348_w11_21_202201.exe",
+      "size_bytes": null,
+      "md5": "ff79faecb050478d234b31b09ad8af91",
+      "sha256": "a13c1959d3f105abb4cfc7c72dadeb00cc2f220f1c1d26ad3489bf41f01ab8fa",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p348_w11_22_202504.exe",
+      "size_bytes": null,
+      "md5": "a137f4da81e30b0ff4e22d25165e34ec",
+      "sha256": "e3a3326be3004871e7b125be96990897fb49b4a32233dd32b1deb79d626cbf62",
+      "version": null,
+      "release_date": "2025-06-20"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

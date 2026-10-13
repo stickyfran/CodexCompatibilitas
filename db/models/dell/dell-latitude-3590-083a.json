@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-3590-083a",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3590",
+  "system_id": "083A",
+  "dmi_matches": [
+    "Latitude 3590",
+    "083A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HFJ4R",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07350620M/1/3590-win10-A15-HFJ4R.CAB",
+      "size_bytes": 1286655647,
+      "md5": "60D8C153EC00B2D3E0C825E615622733",
+      "sha256": "9030435B1A55518DFAD1528F432099C4088AD34662FA12FE70A2175F992FE712",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

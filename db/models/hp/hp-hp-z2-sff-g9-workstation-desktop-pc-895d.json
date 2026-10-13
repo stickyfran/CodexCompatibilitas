@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-z2-sff-g9-workstation-desktop-pc-895d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 SFF G9 Workstation Desktop PC",
+  "system_id": "895D",
+  "dmi_matches": [
+    "895D",
+    "HP Z2 SFF G9 Workstation Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp146391-HP Z2G9 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp146001-146500/sp146391.exe",
+      "size_bytes": 3162207144,
+      "md5": "e79bf077ae14a93672cd076a689407a1",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "4/18/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp150678-HP Z2G9 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150678.exe",
+      "size_bytes": 3069260640,
+      "md5": "776075bff17eb74db8017d276635867e",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "12/21/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp154019-HP Z2G9 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp154001-154500/sp154019.exe",
+      "size_bytes": 3465271000,
+      "md5": "8C0779502CCD56E90325EB57726117B7",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "8/5/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp171406-HP Z2G9 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp171001-171500/sp171406.exe",
+      "size_bytes": 3938258072,
+      "md5": "4793F51B5C459B85B4B37BC11EF8351D",
+      "sha256": null,
+      "version": "12.00 A 2",
+      "release_date": "2/27/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

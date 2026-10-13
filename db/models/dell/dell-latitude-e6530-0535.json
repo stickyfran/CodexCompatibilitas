@@ -1,0 +1,65 @@
+{
+  "id": "dell-latitude-e6530-0535",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6530",
+  "system_id": "0535",
+  "dmi_matches": [
+    "Latitude E6530",
+    "0535"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PXT6R",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03649264M/1/E6530-win10-A01-PXT6R.CAB",
+      "size_bytes": 675737161,
+      "md5": "683041C6855ACCF1D53106FAD3EC0CCA",
+      "sha256": "02699EB037C5B6A306E00A627B4E0FE81D384C1A9CB59B5813BDB41E8443371F",
+      "version": null,
+      "release_date": "2016-04-15T00:00:00"
+    },
+    {
+      "name": "DellPack-JRWWC",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER03480810M/1/E6530-win7-A14-JRWWC.CAB",
+      "size_bytes": 784480086,
+      "md5": "660FDF5B7FD0D116C165D69C84216D00",
+      "sha256": "DE82DB8C42C0FCC4CD5390081797042DD3C0AEEAC3D97C554772F5FB9EFF5570",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    },
+    {
+      "name": "DellPack-8KXPP",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02804720M/1/E6530-Win8.1-A04-8KXPP.CAB",
+      "size_bytes": 744093020,
+      "md5": "728DB58220F54EE0DBDB179FA8F829AF",
+      "sha256": "7C9323CF0AF09A0D0D2359514793567B69EEBEBB22532A81C9C7A21DB6ABFBB5",
+      "version": null,
+      "release_date": "2015-03-10T00:00:00"
+    },
+    {
+      "name": "DellPack-NMPYP",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02584328M/1/E6530-win8-A05-NMPYP.CAB",
+      "size_bytes": 719792514,
+      "md5": "91A1D201D1F8DF82FB246FA100DE719B",
+      "sha256": "CFC54F828EFF9E1987E840FF82FBA46A216605D5A0F849566B0724D73E46197D",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-80N1C",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02061431M/1/E6530-xp-A05-80N1C.CAB",
+      "size_bytes": 221577775,
+      "md5": "BCA537BE14D54D49CB600BFAA13A1408",
+      "sha256": "931B58206136E7E05FF9CC2878319181594749DA7317CF3A4A2FD51F65BBDA89",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

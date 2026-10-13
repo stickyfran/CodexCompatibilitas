@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-13-0432",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 13",
+  "system_id": "0432",
+  "dmi_matches": [
+    "Latitude 13",
+    "0432"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-VH2G7",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02121429M/1/Latitude 13-win7-A09-VH2G7.CAB",
+      "size_bytes": 362352595,
+      "md5": "2577DAFC3DD745C61AEFB23BE8597FA6",
+      "sha256": "BA2A74599B847009771C0E57C3AD4578D982FA6AC03C16BB5B8F5BDF8A371448",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-WF2K2",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02121379M/1/Latitude 13-xp-A08-WF2K2.CAB",
+      "size_bytes": 161122015,
+      "md5": "BF6CF7B61184F2BA34E8DAAD988205B2",
+      "sha256": "D3C4CF5E9CA8560DBDB49C7F7FD315362D367318CD0053C3AAED3C55B600BAC1",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

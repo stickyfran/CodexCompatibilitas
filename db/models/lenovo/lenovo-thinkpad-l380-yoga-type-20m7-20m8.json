@@ -1,0 +1,115 @@
+{
+  "id": "lenovo-thinkpad-l380-yoga-type-20m7-20m8",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad L380 Yoga Type 20M7 20M8",
+  "system_id": "20M8,20M7",
+  "dmi_matches": [
+    "20M8",
+    "20M7"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_1703_202005.exe",
+      "size_bytes": null,
+      "md5": "c15d318f604ad0ffbd089d810386bb6d",
+      "sha256": "8f45d6dec0e084f9d67b240b0a44da56652fb1e119fe3429eebd00216f424827",
+      "version": null,
+      "release_date": "2022-01-17"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_1709_201903.exe",
+      "size_bytes": null,
+      "md5": "6db3a53a87253e7651524523d960805b",
+      "sha256": "ff24d6dad4df076ec3b5301e339c6a977d9d63cbde33a6a5b53398539e6f1c7e",
+      "version": null,
+      "release_date": "2019-04-09"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_1803_201903.exe",
+      "size_bytes": null,
+      "md5": "f9036e549869f49a6397f7486d06588c",
+      "sha256": "34057e5506c0cedc2fbb23b5294e94d7f94709b12ace668574109f369faef161",
+      "version": null,
+      "release_date": "2019-04-09"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_1809_201903.exe",
+      "size_bytes": null,
+      "md5": "2d8980fb6cd14708a30038379e71be7d",
+      "sha256": "f8f26283828c87a6dfd5cddae573cd112f417a167ede44af1d47af9411dfa1c4",
+      "version": null,
+      "release_date": "2019-04-09"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_1903_201906.exe",
+      "size_bytes": null,
+      "md5": "1d6e4f6342176e4bcdf66cba35e720bf",
+      "sha256": "b2bd4cb809560f40f319a3b245d965740972a20477f8c9089f97db6fbd17a96f",
+      "version": null,
+      "release_date": "2019-07-05"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_1909_202003.exe",
+      "size_bytes": null,
+      "md5": "a1e5a302d72d96de442632e6c642a2d4",
+      "sha256": "b0a324a054e1db4eb414301bff8eaa498a692d20c1b3375e508a2669839468a9",
+      "version": null,
+      "release_date": "2022-01-17"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_2004_202008.exe",
+      "size_bytes": null,
+      "md5": "eb97fdbb1ee90428c93587424761a47a",
+      "sha256": "858c19afd116868e8ffeb2a2961b62bfb0eb1707d92aa809eaec1247df014bc2",
+      "version": null,
+      "release_date": "2020-09-21"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_20h2_202103.exe",
+      "size_bytes": null,
+      "md5": "4c8fa09e77f6f83f350c00ecff40a617",
+      "sha256": "e2ea2fe7f54873dbfb0451e7c4cde439e68e31cb7b7d70aede4864119e4056c5",
+      "version": null,
+      "release_date": "2021-03-30"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w1064_21h1_202107.exe",
+      "size_bytes": null,
+      "md5": "ffbbbaa75367e77a9bdd849d66f2e4b5",
+      "sha256": "065a0ae4fed376ded746d72fec7c7c4fd9ba89a36e06e4ce8bf4f87957af9c64",
+      "version": null,
+      "release_date": "2021-09-15"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-3rd-gen_s2-yoga-3rd-gen_l380_l380yoga_w11_21_202111.exe",
+      "size_bytes": null,
+      "md5": "255910dfda4ce6105d2fb1589c7f17ee",
+      "sha256": "64e63ad644cf4b9f969e9b255ed7116ab758d32cbd08e6350ff077ed25378189",
+      "version": null,
+      "release_date": "2022-01-13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

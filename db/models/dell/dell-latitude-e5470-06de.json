@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e5470-06de",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5470",
+  "system_id": "06DE",
+  "dmi_matches": [
+    "Latitude E5470",
+    "06DE"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CD3KM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06522466M/1/E5470-Win10-A16-CD3KM.CAB",
+      "size_bytes": 855805017,
+      "md5": "520380A94D1887966D0F64C33BCFCD24",
+      "sha256": "2BD11F754903F7EC564DE4CB4ABD8309D0BDEAF0CBCC52ABEABCBEC3E6D67741",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-MP8M4",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06252604M/1/E5470-Win7-A13-MP8M4.CAB",
+      "size_bytes": 897311626,
+      "md5": "DEEE3183AB24C788CEF411949AC12863",
+      "sha256": "B29A0489669D3AAF9D2B0FE1FA9168C91F0AD3E365F8E8E4DA550F67591E46F3",
+      "version": null,
+      "release_date": "2020-06-23T00:00:00"
+    },
+    {
+      "name": "DellPack-1889G",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03825216M/1/E5470-Win8.1-A03-1889G.CAB",
+      "size_bytes": 481464528,
+      "md5": "E70585D849F0B15F6972E444703EF197",
+      "sha256": "5816C20644AD0FE11526CCA0B89AFA54189DB392FCB90BF3BC95830A1DC5E207",
+      "version": null,
+      "release_date": "2016-08-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

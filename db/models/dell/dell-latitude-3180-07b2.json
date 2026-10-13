@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-3180-07b2",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3180",
+  "system_id": "07B2",
+  "dmi_matches": [
+    "Latitude 3180",
+    "07B2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-559Y5",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06220990M/1/3180-win10-A12-559Y5.CAB",
+      "size_bytes": 508877730,
+      "md5": "18DF999B50C2F0E9E53EFDEF0C863E64",
+      "sha256": "2939C9CC296AFB2A4007BDD8A3DDE0B0DC9EA99B72777F63F2081DC610D19A19",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

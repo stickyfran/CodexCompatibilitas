@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-elitebook-840-g6-healthcare-edition-notebook-pc-8549",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 840 G6 Healthcare Edition Notebook PC",
+  "system_id": "8549",
+  "dmi_matches": [
+    "8549",
+    "HP EliteBook 840 G6 Healthcare Edition Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp99665-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99665.exe",
+      "size_bytes": 805421472,
+      "md5": "f143f94b0ff730c898e6f48cd88ac78b",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/31/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100597-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100597.exe",
+      "size_bytes": 870538968,
+      "md5": "0c19d6dcf4872b38d1dbcce16de0f7fc",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/21/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110579-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110579.exe",
+      "size_bytes": 1463645216,
+      "md5": "2fde37e930a800ef78b5c1903092a487",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114161-HP Elite/ZBook 8x0 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114161.exe",
+      "size_bytes": 1702525096,
+      "md5": "60a521a44053671ecfab3370261f3238",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "6/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

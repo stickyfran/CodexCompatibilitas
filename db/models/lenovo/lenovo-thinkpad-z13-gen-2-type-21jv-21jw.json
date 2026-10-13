@@ -1,0 +1,75 @@
+{
+  "id": "lenovo-thinkpad-z13-gen-2-type-21jv-21jw",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad Z13 Gen 2 Type 21JV 21JW",
+  "system_id": "21JW,21JV",
+  "dmi_matches": [
+    "21JW",
+    "21JV"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_z13gen2_mt21jv-21jw_w1064_21h2_202607.exe",
+      "size_bytes": null,
+      "md5": "6da4fa61380af9fbec2a5c0e646e9c20",
+      "sha256": "0efdad975fc012831d1c79f934fd8a82ed459aca66858e58b5e7400bd38ac887",
+      "version": null,
+      "release_date": "2026-07-15"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_z13gen2_mt21jv-21jw_w1064_22h2_202607.exe",
+      "size_bytes": null,
+      "md5": "2dda927a30c79a644b81fa2fc368dc43",
+      "sha256": "ed71ef2fdeafd9e996cdad6758daddc6c96b7c0ff2cc7dfcca27b999494a6b83",
+      "version": null,
+      "release_date": "2026-07-27"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_z13gen2_mt21jv-21jw_w1164_21h2_202409.exe",
+      "size_bytes": null,
+      "md5": "612c7b8f1f93120085bede0b1afa3c91",
+      "sha256": "1a83f2f47bc5607e9ac798d98d01f2680e2d34a99ba39d2a8ea5c9beed1dae76",
+      "version": null,
+      "release_date": "2024-09-19"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_z13gen2_mt21jv-21jw_w1164_22h2_202605.exe",
+      "size_bytes": null,
+      "md5": "be9e6a8fcd47ed7776a841e51b7aaffb",
+      "sha256": "116677b3d7ad758df0aba1bc2975799912daad0e91d52f7c85535e549ea73a11",
+      "version": null,
+      "release_date": "2026-05-25"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_z13gen2_mt21jv-21jw_w1164_24h2_202607.exe",
+      "size_bytes": null,
+      "md5": "79163424f4b2d0042519391f5faf4aa2",
+      "sha256": "4ad57ef1a1abd3b1834c8f4d2e6b4cc7d93428453bf854b97f117cfa04dbc8c7",
+      "version": null,
+      "release_date": "2026-07-15"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_z13gen2_mt21jv-21jw_w1164_25h2_202607.exe",
+      "size_bytes": null,
+      "md5": "ff7eae4908e8e09e5beb146364952128",
+      "sha256": "5cd3414c4abefb6c9386d7db6654266e680ccfea00f6b363eb75718bad2cff6b",
+      "version": null,
+      "release_date": "2026-07-15"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

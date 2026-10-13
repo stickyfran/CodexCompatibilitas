@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e7270-06db",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E7270",
+  "system_id": "06DB",
+  "dmi_matches": [
+    "Latitude E7270",
+    "06DB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-1Y7X7",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05561454M/1/E7270-win10-A12-1Y7X7.CAB",
+      "size_bytes": 508578763,
+      "md5": "2078555D9958113CA1338EEAD219C477",
+      "sha256": "1024DC26A05E43D71D16263EEB5C2835FCBDFF52138138ACFE3EDBA65761E7F9",
+      "version": null,
+      "release_date": "2019-06-11T00:00:00"
+    },
+    {
+      "name": "DellPack-K4C3M",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05608593M/1/E7270-win7-A11-K4C3M.CAB",
+      "size_bytes": 640315744,
+      "md5": "B48AA8F6B200271A93E994943FC1ECCD",
+      "sha256": "CCCB212A18DAB8182408C0D479DE9E0C8C2768A81D203A5A439F9D3C3A5C4175",
+      "version": null,
+      "release_date": "2019-06-11T00:00:00"
+    },
+    {
+      "name": "DellPack-J1D3J",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03854292M/1/E7270-win8.1-A02-J1D3J.CAB",
+      "size_bytes": 448750014,
+      "md5": "DB3843EE15113E5C838EBA530F136D8E",
+      "sha256": "0C0D456F14FC905614EC21E71BE12625A2754EF4B07D39AEAA18C5294440A5B2",
+      "version": null,
+      "release_date": "2016-08-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

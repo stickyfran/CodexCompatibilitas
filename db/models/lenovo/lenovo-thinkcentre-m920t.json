@@ -1,0 +1,100 @@
+{
+  "id": "lenovo-thinkcentre-m920t",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M920T",
+  "system_id": "10U0,10U1,10SG,10TM,10SM,10SF,10SH",
+  "dmi_matches": [
+    "10U0",
+    "10U1",
+    "10SG",
+    "10TM",
+    "10SM",
+    "10SF",
+    "10SH"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330tiny_w1064_1709_201908.exe",
+      "size_bytes": null,
+      "md5": "2b6f2ef3821243716a094496c9f2e885",
+      "sha256": "fb42bff768494b51eca785dc71676d7b4b029d71e30e3a9453c39346e9bb18ef",
+      "version": null,
+      "release_date": "2023-06-27"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-p330tiny_w1064_1803_201902.exe",
+      "size_bytes": null,
+      "md5": "0e81ff972a970a1a09c5fcd916c85e40",
+      "sha256": "60a558e2a5c38e4984d829d59f1aa165377ed5bc00ac08d0909532b869855793",
+      "version": null,
+      "release_date": "2023-06-27"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330_tiny_w1064_1809_201904.exe",
+      "size_bytes": null,
+      "md5": "649721a2638673e0525572b744e7d0de",
+      "sha256": "fe97066d53ad78a7f8bb50208b7fc85fb60002aa5b4da5b19868730711daf883",
+      "version": null,
+      "release_date": "2023-06-27"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920t-m920s-m720t-m720s-m920q-m720q-m920x-v530-P330tiny_w1064_1903_201908.exe",
+      "size_bytes": null,
+      "md5": "ad51b93e8ab4cee6acba7928a9fbb1cc",
+      "sha256": "2e176e98a5d5948eadbe4ff9795e74246952d0320f9c83d324dcebc32a5cdd58",
+      "version": null,
+      "release_date": "2023-06-27"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920tsqx-m720tsq-v530-P330_tiny_w1064_1909_201912.exe",
+      "size_bytes": null,
+      "md5": "fa564ddaaf03c186b4f25abc1d93f9e5",
+      "sha256": "a5c53dc293b9355d22d367673d63bcfe3074abddf72100bd6a82a3ab621d5681",
+      "version": null,
+      "release_date": "2019-12-02"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720tsq-m920tsxq-p330tiny_w1064_2004_202007.exe",
+      "size_bytes": null,
+      "md5": "b0e8066b7a3074ff83d95af4985873fa",
+      "sha256": "904376bd939c40e47aa698c59347416ae1815fda78f20a69b9290e7ab0b0de67",
+      "version": null,
+      "release_date": "2023-06-27"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720tsq-m920tsxq-p330tiny_w1064_20h2_202101.exe",
+      "size_bytes": null,
+      "md5": "4f817809c8734497634004acea772fae",
+      "sha256": "f28020a11ee668bc29d38fa6ce8655c21a9a40c459d00b2d07792f021feeef98",
+      "version": null,
+      "release_date": "2023-06-27"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920tsqx-m720tsq-p330tiny_w11_21_202306.exe",
+      "size_bytes": null,
+      "md5": "71e1fd65f54085f1ba0373bc76e9539d",
+      "sha256": "bfacc1a53c4dcb54e09ac7ac4fd9adc18c9c618774313c2d1d168f76ecd8a1ed",
+      "version": null,
+      "release_date": "2023-06-27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-14-da14260-0db9",
+  "vendor": "Dell",
+  "family": "Dell Laptops",
+  "model_name": "XPS 14 DA14260",
+  "system_id": "0DB9",
+  "dmi_matches": [
+    "XPS 14 DA14260",
+    "0DB9"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-10KF7",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14363593M/1/XPS-14-DA14260-10KF7_Win11_1.0_A01.exe",
+      "size_bytes": 995523208,
+      "md5": "173BC070119CB10E11389201AFB2D9A1",
+      "sha256": "C6DDAE32BCE28AB523D86E4CFF55C5873F07BD416D80F4CABEA22B5FB2BEC420",
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

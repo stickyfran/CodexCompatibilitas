@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-br1100c",
+  "vendor": "ASUS",
+  "family": "ASUS",
+  "model_name": "Asus Br1100C",
+  "system_id": "BR1100C",
+  "dmi_matches": [
+    "BR1100C"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

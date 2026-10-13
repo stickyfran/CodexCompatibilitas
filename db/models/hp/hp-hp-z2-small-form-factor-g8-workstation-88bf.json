@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-z2-small-form-factor-g8-workstation-88bf",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Small Form Factor G8 Workstation",
+  "system_id": "88BF",
+  "dmi_matches": [
+    "88BF",
+    "HP Z2 Small Form Factor G8 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp113276-HP Z2G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113276.exe",
+      "size_bytes": 1478598768,
+      "md5": "f6058cabad4c5eceae6ec926e53fa8aa",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "4/30/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp135909-HP Z2G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135909.exe",
+      "size_bytes": 1665735408,
+      "md5": "ce13a0061efd1271421288c8df95beb8",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/15/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140361-HP Z2G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140361.exe",
+      "size_bytes": 1686022488,
+      "md5": "f6aaa19cfb98fe15c77cd5c05eedc542",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "5/16/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp139592-HP Z2G8 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139592.exe",
+      "size_bytes": 1732061872,
+      "md5": "b7f5760af7ae4aad5b50e7798f94e135",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "4/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

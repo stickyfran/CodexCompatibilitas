@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7470-aio-0935",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7470 AIO",
+  "system_id": "0935",
+  "dmi_matches": [
+    "OptiPlex 7470 AIO",
+    "0935"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-R8WNH",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08835387M/1/7470-AIO-R8WNH_Win10_1.0_A11.exe",
+      "size_bytes": 1869872968,
+      "md5": "16DAD86091E56729EE2CDBBF6CDE0A5E",
+      "sha256": "25CA0A2366491CAFAE1796D2408ABA717C31FD081C40ED92F83F8065E7BB6132",
+      "version": null,
+      "release_date": "2022-08-09T14:23:47"
+    },
+    {
+      "name": "DellPack-8DNP9",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08164869M/1/7470 AIO-win11-A00-8DNP9.CAB",
+      "size_bytes": 1640370793,
+      "md5": "EDCBEE4BEAB69D264038DAB31BD24181",
+      "sha256": "B55814A4CA1DC822004BA4CA163E98B590D60715A57C7F84618C808FDD63803A",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-prodesk-680-g4-microtower-pc-8580",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 680 G4 Microtower PC",
+  "system_id": "8580",
+  "dmi_matches": [
+    "8580",
+    "HP ProDesk 680 G4 Microtower PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp95450-HP ProDesk 680 G4 MT Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95450.exe",
+      "size_bytes": 795510296,
+      "md5": "3a3dd67a03998582635f4169e4eb66bf",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99651-HP ProDesk 680 G4 MT Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99651.exe",
+      "size_bytes": 817336008,
+      "md5": "6ee749d402f24d47a45ff5c74e95d4b5",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "10/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp108885-HP ProDesk 680 G4 MT Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108885.exe",
+      "size_bytes": 1346866200,
+      "md5": "2d2c48eea430d985fb21094c5a144cb1",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "9/1/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp111365-HP ProDesk 680 G4 MT Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111365.exe",
+      "size_bytes": 1352863552,
+      "md5": "657639fae78dcea296b4cc77d4f723bc",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "12/1/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114157-HP ProDesk 680 G4 MT Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114157.exe",
+      "size_bytes": 1595852160,
+      "md5": "87b1ab44ebeb5f74869da0287723bf96",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "6/8/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

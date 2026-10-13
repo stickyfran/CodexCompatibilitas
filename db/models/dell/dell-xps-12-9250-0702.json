@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-12-9250-0702",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 12 9250",
+  "system_id": "0702",
+  "dmi_matches": [
+    "XPS 12 9250",
+    "0702"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5FK7V",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05445200M/1/9250-Win10-A13-5FK7V.CAB",
+      "size_bytes": 546345104,
+      "md5": "53CB3AF7792A9EA78719F18B2C709092",
+      "sha256": "E61CC4C47E9C438345DCBE7DFAC0F99FE7F55F34C2A0590E5972C272391788E4",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

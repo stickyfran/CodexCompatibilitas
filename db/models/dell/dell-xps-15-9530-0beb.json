@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-15-9530-0beb",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 15 9530",
+  "system_id": "0BEB",
+  "dmi_matches": [
+    "XPS 15 9530",
+    "0BEB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-K5VTV",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14418514M/1/XPS-15-9530-K5VTV_Win11_1.0_A13.exe",
+      "size_bytes": 2529260864,
+      "md5": "4DC9CDB556A1127AA31A64D9594322CB",
+      "sha256": "7F8F89FA6CDFE41A97AC76713F8B6E538E0D29BBD8490C52802D5CF1E0CADCD7",
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

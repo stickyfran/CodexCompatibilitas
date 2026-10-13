@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e7450-062e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E7450",
+  "system_id": "062E",
+  "dmi_matches": [
+    "Latitude E7450",
+    "062E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-V0T12",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER05153722M/1/E7450-win10-A08-V0T12.CAB",
+      "size_bytes": 971462314,
+      "md5": "188F3D9E21A8D5DAC619EA08D3E24A6D",
+      "sha256": "F4CE1508183A0FC5A333796C9632858004F12CFB33FBE51FC38D64C17C88A8A0",
+      "version": null,
+      "release_date": "2018-08-28T00:00:00"
+    },
+    {
+      "name": "DellPack-4JPR7",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04846103M/1/E7450-win7-A11-4JPR7.CAB",
+      "size_bytes": 1014809334,
+      "md5": "027F58F096D621AF1F6CB74CBE0BC93D",
+      "sha256": "B6142F877F4C13B6A35C0BF82A5FEE2AD8EE18945BF01B8537B6744C29BC8267",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-6NDJW",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03471841M/1/E7450-win8.1-A05-6NDJW.CAB",
+      "size_bytes": 593258337,
+      "md5": "C465E6357FBBF66013754C7BB27B525D",
+      "sha256": "B4BCEF58F09D2DEC6F9BF17FB4CACF78FE9431C27744F14EDE8F221E97F2A42C",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

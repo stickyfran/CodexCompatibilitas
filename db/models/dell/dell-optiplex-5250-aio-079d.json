@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5250-aio-079d",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5250 AIO",
+  "system_id": "079D",
+  "dmi_matches": [
+    "OptiPlex 5250 AIO",
+    "079D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9M57F",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER06199621M/1/5250 AIO-win10-A13-9M57F.CAB",
+      "size_bytes": 865509381,
+      "md5": "F40B24931847CEBC84BD013B97C824AA",
+      "sha256": "5942FF7A5B7467FD039F6F3FA1E7C24781616ADB72E6ED7982E187651089ACC1",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-KKGH3",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04624235M/1/5250 AIO-Win8.1-A03-KKGH3.CAB",
+      "size_bytes": 487753025,
+      "md5": "09A89033AF95B953B20D811AD2D1BA16",
+      "sha256": "AC79FE5FE775253524369CB9E9A77B07004C997CADA7CE6C80DD1F30436B52D3",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

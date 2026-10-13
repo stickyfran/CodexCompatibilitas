@@ -1,0 +1,105 @@
+{
+  "id": "lenovo-thinkpad-l14-type-20u1-20u2",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad L14 Type 20U1 20U2",
+  "system_id": "20U1,20U2",
+  "dmi_matches": [
+    "20U1",
+    "20U2"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w1064_1809_202004.exe",
+      "size_bytes": null,
+      "md5": "1b0dd9dc79e821acf349ab8f0ed52c05",
+      "sha256": "2b10291537ae7c31bbdefb70285bb535a2338b0efe62f63bd029c95460231057",
+      "version": null,
+      "release_date": "2020-05-11"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w1064_1903_202009.exe",
+      "size_bytes": null,
+      "md5": "d48035ee59a767528e0730b2660c4d63",
+      "sha256": "5cfec7aabc6711d46ea0da89fc2e38e8d44216f1d7956af02ebba14af2186aa8",
+      "version": null,
+      "release_date": "2020-09-17"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w1064_1909_202110.exe",
+      "size_bytes": null,
+      "md5": "8706aed27fc54f9b5e5e5b877b7c868b",
+      "sha256": "a5addf1e6619599888dd5b92589429e8bc17e19935b91cf050c5e1157e7aa0e2",
+      "version": null,
+      "release_date": "2021-12-07"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w1064_2004_202109.exe",
+      "size_bytes": null,
+      "md5": "51df4a7a2a63c82c7f08323aa53cbd97",
+      "sha256": "930684e8b0aab828c352547c8fdb6a63cfa576d3f7a9f1a8e53837226dba4f77",
+      "version": null,
+      "release_date": "2021-10-13"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w1064_20h2_202109.exe",
+      "size_bytes": null,
+      "md5": "f3480271be3f453bdc59262712fd3cea",
+      "sha256": "2dc680c9a85371dcd8c6ceba5e513efdb1ccb7c27702441d5bc0fdae0748150d",
+      "version": null,
+      "release_date": "2023-11-30"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w1064_21h1_202109.exe",
+      "size_bytes": null,
+      "md5": "d3a067489dae067ba6f61dbfb8330020",
+      "sha256": "0b8c2689250339d755f7b775dd459e083ce89ea54bb8a721d13086d724ac7e69",
+      "version": null,
+      "release_date": "2021-10-13"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w1064_21h2_202201.exe",
+      "size_bytes": null,
+      "md5": "d5c1b55d8b58bbfb1c4218034a13ca00",
+      "sha256": "a69292e7a652094780d76bb33aacd317a8ac5725156d3717f1d53ee4efcbea06",
+      "version": null,
+      "release_date": "2022-02-28"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w1064_22h2_202302.exe",
+      "size_bytes": null,
+      "md5": "3b554ccfb77bdb1c1c6c42e604c68c10",
+      "sha256": "1c5b710ae25b55ea8011bc7644785e5abecafab1604f13c61e4f34b7c5687de7",
+      "version": null,
+      "release_date": "2023-04-14"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l14gen1_mt20u1-20u2-l15gen1_mt20u3-20u4_w11_22_22h2_202310.exe",
+      "size_bytes": null,
+      "md5": "01a9aec7467423d7f09f87cd0601c5c9",
+      "sha256": "686abe0ee0f084c2494b1eb2f50384115384cbfe62171c3255751f642c977afe",
+      "version": null,
+      "release_date": "2023-11-29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

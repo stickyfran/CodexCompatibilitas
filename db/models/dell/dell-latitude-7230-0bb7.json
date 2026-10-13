@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7230-0bb7",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7230",
+  "system_id": "0BB7",
+  "dmi_matches": [
+    "Latitude 7230",
+    "0BB7"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-MHXD6",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14353654M/1/Latitude-7230-MHXD6_Win10_1.0_A15.exe",
+      "size_bytes": 1463424696,
+      "md5": "B99D1CC8515CB057C65856729FEC71E6",
+      "sha256": "F9E2F35BB4E386F69D3B51D7F3D620F290489476B360D44C1D4FFE1CB2418D0B",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-FDGPG",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14353638M/1/Latitude-7230-FDGPG_Win11_1.0_A16.exe",
+      "size_bytes": 1102687792,
+      "md5": "A8BF62A5049BD7CE67F0178DF1039D52",
+      "sha256": "BDA7ECD523A87A553E8335DC27BAF3D3D213A6E723031FF94D1E08CD6364EB27",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

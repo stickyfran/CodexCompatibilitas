@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-m4600-04a3",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M4600",
+  "system_id": "04A3",
+  "dmi_matches": [
+    "Precision M4600",
+    "04A3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-2XDVP",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER01855000M/1/M4600-vista-A01-2XDVP.CAB",
+      "size_bytes": 467112343,
+      "md5": "B9616EB4F2802CE7ECD291EACAC6EEBA",
+      "sha256": "D2857FF5AE59421025681F905F7B9EE39C19417AF1496776CC9BF0C0EA8B0095",
+      "version": null,
+      "release_date": "2013-11-22T00:00:00"
+    },
+    {
+      "name": "DellPack-7CKND",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02161052M/1/M4600-win7-A12-7CKND.CAB",
+      "size_bytes": 807312217,
+      "md5": "61E8D1F993D6C584D53646550B043B08",
+      "sha256": "E0B98378586D8AF265B3DC70A0BAEF1B36B30D2DBB722D1AB6D0E171813628F6",
+      "version": null,
+      "release_date": "2014-06-05T00:00:00"
+    },
+    {
+      "name": "DellPack-C6K56",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02249225M/1/M4600-xp-A12-C6K56.CAB",
+      "size_bytes": 820727259,
+      "md5": "824C9E7D9D0E4BD9F6E02735312CDE0B",
+      "sha256": "D155E077EA7EDAB826F8AEA19C583340EC48B7D1A53460E4B3DDB340A4D22DB2",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

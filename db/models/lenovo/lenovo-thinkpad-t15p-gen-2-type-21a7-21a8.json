@@ -1,0 +1,105 @@
+{
+  "id": "lenovo-thinkpad-t15p-gen-2-type-21a7-21a8",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T15P Gen 2 Type 21A7 21A8",
+  "system_id": "21A7,21A8",
+  "dmi_matches": [
+    "21A7",
+    "21A8"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w1064_1909_202106.exe",
+      "size_bytes": null,
+      "md5": "8e2f92f30e7d442a4ed4bd5f674528df",
+      "sha256": "d2a5c58055f2197c3d02ea49a063689baeeb9a0d8733dbce1ec8728da130c09e",
+      "version": null,
+      "release_date": "2021-07-14"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w1064_2004_202112.exe",
+      "size_bytes": null,
+      "md5": "0b6fe29e6b1fe04f897c877287c28ea2",
+      "sha256": "ab761d8004926ba982918e5adacfccc89a5ed0303d6dff646c07d7b363e2cac2",
+      "version": null,
+      "release_date": "2022-01-17"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w1064_20h2_202211.exe",
+      "size_bytes": null,
+      "md5": "fe04ecc7dc7a0fa90dd332c1d188343e",
+      "sha256": "596021158ab48d6d1ffcbcc55a4f2cea645cfb07348de6a554ff1ec962d2142a",
+      "version": null,
+      "release_date": "2023-01-12"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w1064_21h1_202211.exe",
+      "size_bytes": null,
+      "md5": "f4334b96ced56b00fa22a778f85ce2f8",
+      "sha256": "6fea3b6bcb991b4b1723b0148dcb0e8331a02c7885ee0ebe78fdaead2f04a475",
+      "version": null,
+      "release_date": "2023-01-12"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w1064_21h2_202211.exe",
+      "size_bytes": null,
+      "md5": "0e2fb57b4cf5b2a48b018cc2b278785a",
+      "sha256": "4e27eb17e8859533bea408ed6b4e0cccf5e24b57e601121468342bafb6757c8e",
+      "version": null,
+      "release_date": "2023-01-12"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w1064_22h2_202302.exe",
+      "size_bytes": null,
+      "md5": "31ca0452f34f5621c766b0bbe6e7c2d0",
+      "sha256": "ed30446014bf60ab51e2791451d64844b491c60edbe64bda79c0321f39b51c39",
+      "version": null,
+      "release_date": "2023-04-14"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w11_21_202112.exe",
+      "size_bytes": null,
+      "md5": "1dd26ed7c001d3c3cdefff6d024977f3",
+      "sha256": "1ac4bf83d389a8c2e0e8f80eb368bdeb4ef65cc6c7dc461285dcbd288cf0ad77",
+      "version": null,
+      "release_date": "2022-01-17"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w11_22_202310.exe",
+      "size_bytes": null,
+      "md5": "0bd8582004ef0fe0e0611db89fb15d41",
+      "sha256": "510b21828f5610756fb6944d722d239596ff16b29e7a085e0ba92cc7b877dcd5",
+      "version": null,
+      "release_date": "2024-10-30"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15vg2_mt21a9-21aa-t15pg2_mt21a7-21a8_w11_24_202409.exe",
+      "size_bytes": null,
+      "md5": "5c9805240642bdef1d048b024ce95fdd",
+      "sha256": "493c9149ab159f5bebe7404f455faf95890187cb1e4fc2e632d852af620e70e3",
+      "version": null,
+      "release_date": "2024-10-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

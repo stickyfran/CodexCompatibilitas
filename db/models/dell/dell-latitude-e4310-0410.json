@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e4310-0410",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E4310",
+  "system_id": "0410",
+  "dmi_matches": [
+    "Latitude E4310",
+    "0410"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YCWJ4",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02120055M/1/E4310-vista-A02-YCWJ4.CAB",
+      "size_bytes": 163703636,
+      "md5": "7C354E826E8E2B02D11EB5D476E1DC8B",
+      "sha256": "CB2BA26F6179D88ADED89FACFA46106BAEFE8284CCD42977E8B93E8D60B52FAA",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-FH0R8",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02120052M/1/E4310-win7-A09-FH0R8.CAB",
+      "size_bytes": 405580043,
+      "md5": "7E7D4B05F4476F71C32E94D63A6F314E",
+      "sha256": "E0DE4CA4F7ECA652169D510D55E3B21CB834FC20BEF8D760D866022FE6A89712",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-TJ6FT",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02120058M/1/E4310-xp-A07-TJ6FT.CAB",
+      "size_bytes": 128154811,
+      "md5": "399467FE82B97383639C81A2F100F111",
+      "sha256": "3C56BDC10BEF94A950D56AD15CC63B8166E493D72770F0164A60DDE15656D9D8",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

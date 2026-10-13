@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-580-0433",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 580",
+  "system_id": "0433",
+  "dmi_matches": [
+    "OptiPlex 580",
+    "0433"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y8J8W",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02123582M/1/580-vista-A03-Y8J8W.CAB",
+      "size_bytes": 421825456,
+      "md5": "05E19FE7DEC706DF172FC425E9AB09C5",
+      "sha256": "9D81263C40EB0BC30BDA4B6302DD0D2AB188E89892C773D943857F0CC1DDA928",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-FK47Y",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02123565M/1/580-win7-A06-FK47Y.CAB",
+      "size_bytes": 729923063,
+      "md5": "A5ADE339A09107E9CAAF0AF613D3013D",
+      "sha256": "3165D69691D7234BCCB9E97C1BA1BEB152116C505DA26A87ABDFDBA8C05D591D",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-M24NX",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02123532M/1/580-xp-A06-M24NX.CAB",
+      "size_bytes": 253637147,
+      "md5": "9439B83CB68FD78EF2A5786136578A81",
+      "sha256": "1E7F1BA1ACCE8D20EA5A4C4ADF86F1FD45374B18506895759810CAB5D62219D6",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,98 @@
+{
+  "id": "lenovo-thinkcentre-m75q-gen-2-type-11jn-11jq-11jr-11js",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M75Q Gen 2 Type 11JN 11JQ 11JR 11JS",
+  "system_id": "11JR,11JN,11JS,11JQ,13E0",
+  "dmi_matches": [
+    "11JR",
+    "11JN",
+    "11JS",
+    "11JQ",
+    "13E0"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75q_gen2_cezanne_w1064_1809_20h2_202108.exe",
+      "size_bytes": null,
+      "md5": "1114c693addbadaf262480376e9134f9",
+      "sha256": "03f10231e5801d71586d2619b46687f2bbf65158591fcdf1f5daa9b12944f910",
+      "version": null,
+      "release_date": "2026-03-11"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75q_gen2_cezanne_w1064_1809_20h2_202108.exe",
+      "size_bytes": null,
+      "md5": "1114c693addbadaf262480376e9134f9",
+      "sha256": "03f10231e5801d71586d2619b46687f2bbf65158591fcdf1f5daa9b12944f910",
+      "version": null,
+      "release_date": "2026-03-11"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75tsq_gen2-m75tsq_gen2_cezanne-k_a1_w1064_21h2_22h2_202301.exe",
+      "size_bytes": null,
+      "md5": "e5890d0828d10e0d1749280461aef90e",
+      "sha256": "84d3419f537b1f636811eb9a1701b0803c1fdf4b8a04bd42ee756a2dfb6a48d6",
+      "version": null,
+      "release_date": "2026-03-11"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75tsq_gen2-m75tsq_gen2_cezanne-k_a1_w1064_21h2_22h2_202301.exe",
+      "size_bytes": null,
+      "md5": "e5890d0828d10e0d1749280461aef90e",
+      "sha256": "84d3419f537b1f636811eb9a1701b0803c1fdf4b8a04bd42ee756a2dfb6a48d6",
+      "version": null,
+      "release_date": "2026-03-11"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75tsq_gen2_cezanne_w11_21_202111.exe",
+      "size_bytes": null,
+      "md5": "a1d4be846d66c1f6163a1b6bdaed4b10",
+      "sha256": "fbc919101343a5535de435d3ef33c97171d8c84749223673b50b5696be3d2f8f",
+      "version": null,
+      "release_date": "2026-03-11"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75tsq_gen2-m75tsq_gen2_cezanne-k_a1_w11_22_202211.exe",
+      "size_bytes": null,
+      "md5": "09b1010eb623444d7392e5eca676bcca",
+      "sha256": "140307a455ab0bb95c8234285db5ce9e04891f7823b367ae40ddf5d2fb7fdd25",
+      "version": null,
+      "release_date": "2026-03-11"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75tsq_gen2_cezanne_w11_24_25_202602.exe",
+      "size_bytes": null,
+      "md5": "2f5a9dabfb35405a3fd51e91ec4a6362",
+      "sha256": "248ed8c6cd837cc6e10d229637b7cae5876f951dde8eae64488991d6c0b09c8d",
+      "version": null,
+      "release_date": "2026-03-11"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75tsq_gen2_cezanne_w11_24_25_202602.exe",
+      "size_bytes": null,
+      "md5": "2f5a9dabfb35405a3fd51e91ec4a6362",
+      "sha256": "248ed8c6cd837cc6e10d229637b7cae5876f951dde8eae64488991d6c0b09c8d",
+      "version": null,
+      "release_date": "2026-03-11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

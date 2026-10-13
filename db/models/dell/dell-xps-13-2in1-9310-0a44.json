@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-13-2in1-9310-0a44",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 2in1 9310",
+  "system_id": "0A44",
+  "dmi_matches": [
+    "XPS 13 2in1 9310",
+    "0A44"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-99FJJ",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09504017M/1/9310-2n1-99FJJ_Win10_1.0_A11.exe",
+      "size_bytes": 2275878248,
+      "md5": "FB58BB0F5632F24D78BCE3FFEE42B654",
+      "sha256": "2A25E1624ADF94A8E27A246346359BD57C9882B672A674FBFFB188141E2EC94D",
+      "version": null,
+      "release_date": "2023-02-09T12:04:59"
+    },
+    {
+      "name": "DellPack-KDD8H",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09501834M/1/9310-2n1-KDD8H_Win11_1.0_A05.exe",
+      "size_bytes": 2261589776,
+      "md5": "0449F062E984528856D76123E6C79586",
+      "sha256": "BCDD659EE75C099AC4442D9655596F10A03978F2A926259715E7CCEC2A6BDDE0",
+      "version": null,
+      "release_date": "2023-02-09T12:04:59"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

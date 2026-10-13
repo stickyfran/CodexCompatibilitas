@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-elitedesk-700-g1-microtower-pc-8027",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 700 G1 Microtower PC",
+  "system_id": "8027",
+  "dmi_matches": [
+    "8027",
+    "HP EliteDesk 700 G1 Microtower PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp92706-HP ElitePro 400-800 G1 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92706.exe",
+      "size_bytes": 870293,
+      "md5": "9e9876b8bd3e03e68bd408bfa4481dbf",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/14/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

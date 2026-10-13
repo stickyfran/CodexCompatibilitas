@@ -1,0 +1,13 @@
+{
+  "id": "asus-proart-pz14-ht7407",
+  "vendor": "ASUS",
+  "family": "ProArt",
+  "model_name": "Proart Pz14 Ht7407",
+  "system_id": "HT7407",
+  "dmi_matches": [
+    "HT7407"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

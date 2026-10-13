@@ -1,0 +1,55 @@
+{
+  "id": "dell-precision-m4800-05cc",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M4800",
+  "system_id": "05CC",
+  "dmi_matches": [
+    "Precision M4800",
+    "05CC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5DVNT",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03994830M/1/M4800-win10-A03-5DVNT.CAB",
+      "size_bytes": 1288963078,
+      "md5": "F7E329E2445AB66B4C649284A670B9E8",
+      "sha256": "C4371AC1777057AB6A505D62421B0C951E2BD6B6BEC74C9429917F057F9D23CC",
+      "version": null,
+      "release_date": "2016-11-22T00:00:00"
+    },
+    {
+      "name": "DellPack-C7MWR",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER03994628M/1/M4800-win7-A11-C7MWR.CAB",
+      "size_bytes": 1132407509,
+      "md5": "2C2B0FB03AFD3E808738B1D10B884219",
+      "sha256": "57DEE1C7E2C7250FC49BB23104CED274AEC71F35323D86134EC574064E09AE5D",
+      "version": null,
+      "release_date": "2016-11-22T00:00:00"
+    },
+    {
+      "name": "DellPack-P0GMF",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03511391M/1/M4800-win8.1-A06-P0GMF.CAB",
+      "size_bytes": 1228201144,
+      "md5": "B858C095589751C00E4F152C3E145985",
+      "sha256": "DABD6008D75A4BD1188050B3FA07B90DBA23F406B652A27277C2647286F2C561",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-D4DX1",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02518212M/1/M4800-win8-A04-D4DX1.CAB",
+      "size_bytes": 1022611275,
+      "md5": "AD92557334167A433BB09C62B10D80B0",
+      "sha256": "0C9E05EFD35809B3BF82378C443E9D3CE1D4BDF93414A320BB34BF1DE163CFAF",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,75 @@
+{
+  "id": "hp-hp-engage-go-13.5-inch-mobile-system-8a94",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go 13.5 inch Mobile System",
+  "system_id": "8a94",
+  "dmi_matches": [
+    "8a94",
+    "HP Engage Go 13.5 inch Mobile System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp144918-HP Engage Go 13.5 inch Mobile System Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144918.exe",
+      "size_bytes": 986054576,
+      "md5": "566c303e075712e8ecfac50853e8fdd5",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "2/16/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151779-HP Engage Go 13.5 inch Mobile System Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151779.exe",
+      "size_bytes": 1040300624,
+      "md5": "594d9c6ae46304f0416396f99f5a2317",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/15/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp144919-HP Engage Go 13.5 inch Mobile System IoT10 2021 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144919.exe",
+      "size_bytes": 927566696,
+      "md5": "d247c75756a49bca2513b6965c5687be",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "2/16/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158769-HP Engage Go 13.5 inch Mobile System Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158769.exe",
+      "size_bytes": 1421640048,
+      "md5": "836D0323641908DA0CA6907840C91E05",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "5/12/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp170270-HP Engage Go 13.5 inch Mobile System Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170270.exe",
+      "size_bytes": 1568589832,
+      "md5": "743A690D5F5ADB61389B6FD398B48357",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "2/4/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp160149-HP Engage Go 13.5 inch Mobile System IoT11 2024 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160149.exe",
+      "size_bytes": 1368960152,
+      "md5": "A5280CDF8BC28DE5AC13544C2258743F",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "6/10/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

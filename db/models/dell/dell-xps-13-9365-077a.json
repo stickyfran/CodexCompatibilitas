@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-13-9365-077a",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9365",
+  "system_id": "077A",
+  "dmi_matches": [
+    "XPS 13 9365",
+    "077A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GXYTC",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06072207M/1/9365-win10-A14-GXYTC.CAB",
+      "size_bytes": 581373846,
+      "md5": "6440CB2470D1E05CC5E5BED8391B05D4",
+      "sha256": "8F6B3D82B42D0C71A6A3835FDB597C1971C2C0B6BBFD9918E8B1050E65BE1EE4",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

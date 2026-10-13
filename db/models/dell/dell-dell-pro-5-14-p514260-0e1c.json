@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-5-14-p514260-0e1c",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 5 14 P514260",
+  "system_id": "0E1C",
+  "dmi_matches": [
+    "Dell Pro 5 14 P514260",
+    "0E1C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-1CG01",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14620281M/1/P514260-1CG01_Win11_1.0_A02.exe",
+      "size_bytes": 1353943376,
+      "md5": "72DA879458A0C74EE00A5507DE5820CD",
+      "sha256": "4DB1B8183D35E348A4D6646EA27EB4CA49856D01846871BC2464105CE0F216F9",
+      "version": null,
+      "release_date": "2026-07-02T04:51:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

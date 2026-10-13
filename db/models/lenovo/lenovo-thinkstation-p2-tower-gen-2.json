@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkstation-p2-tower-gen-2",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P2 TOWER Gen 2",
+  "system_id": "30JR,30JQ",
+  "dmi_matches": [
+    "30JR",
+    "30JQ"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p2_gen2-p3_gen2_w11_24_25_202606.exe",
+      "size_bytes": null,
+      "md5": "b6e0b0e1a0ac2263f5ffb2abdd7d998b",
+      "sha256": "077c58d4f69cbb4634c87b759e814d9a0bd70ac8c88e136ae59e284f843bfcce",
+      "version": null,
+      "release_date": "2026-07-09"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p2_gen2-p3_gen2_w11_24_25_202606.exe",
+      "size_bytes": null,
+      "md5": "b6e0b0e1a0ac2263f5ffb2abdd7d998b",
+      "sha256": "077c58d4f69cbb4634c87b759e814d9a0bd70ac8c88e136ae59e284f843bfcce",
+      "version": null,
+      "release_date": "2026-07-09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

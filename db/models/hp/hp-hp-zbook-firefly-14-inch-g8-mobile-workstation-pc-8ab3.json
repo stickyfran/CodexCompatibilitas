@@ -1,0 +1,66 @@
+{
+  "id": "hp-hp-zbook-firefly-14-inch-g8-mobile-workstation-pc-8ab3",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 14 inch G8 Mobile Workstation PC",
+  "system_id": "8ab3,880D",
+  "dmi_matches": [
+    "8ab3",
+    "880D",
+    "HP ZBook Firefly 14 inch G8 Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp112207-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112207.exe",
+      "size_bytes": 1651058824,
+      "md5": "588b905dc9c20fb398b826634935ff29",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "1/11/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp113369-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113369.exe",
+      "size_bytes": 1689578152,
+      "md5": "01c0c133ecb0567e9cb3f2a057b0b573",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "4/19/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp114045-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114045.exe",
+      "size_bytes": 1334838632,
+      "md5": "bbf25a9e43a902f37cd9e92b4bfb54f4",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "5/28/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp144988-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144988.exe",
+      "size_bytes": 1932939584,
+      "md5": "13cd9acc0905294bd078ce90a8b041f3",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142670-HP Elite/ZBook 8x0 G8 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142670.exe",
+      "size_bytes": 1500744608,
+      "md5": "a0f256cb8ac16a3f65117af20567c692",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/27/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

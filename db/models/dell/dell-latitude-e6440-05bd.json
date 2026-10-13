@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e6440-05bd",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6440",
+  "system_id": "05BD",
+  "dmi_matches": [
+    "Latitude E6440",
+    "05BD"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M1GYF",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04901365M/1/E6440-win10-A04-M1GYF.CAB",
+      "size_bytes": 849172864,
+      "md5": "4B1DCE57EDF290FD79DA497C96636B77",
+      "sha256": "D41698D566C788FED85751ED6ACFA9C1683A166496FFBA52EB69F0AB6ED39131",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-134C0",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04898106M/1/E6440-win7-A13-134C0.CAB",
+      "size_bytes": 831304898,
+      "md5": "29D892D5A6F29F7E82DD1F3E4E8F27BD",
+      "sha256": "D822C833ED45B0BFC59EC4FF1674DB7E8CE213E85B712C53E6366240D88E0E64",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-D7Y05",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03533129M/1/E6440-win8.1-A07-D7Y05.CAB",
+      "size_bytes": 770989222,
+      "md5": "EC7ECBA418B2DDFE571A97DE2EBA6EFC",
+      "sha256": "C08F15EAF7B397E408922A1FF3A4D3A4A28BCF9520AB77FF28594D80E9F9F18D",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

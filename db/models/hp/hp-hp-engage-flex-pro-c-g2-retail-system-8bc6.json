@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-engage-flex-pro-c-g2-retail-system-8bc6",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro-C G2 Retail System",
+  "system_id": "8BC6",
+  "dmi_matches": [
+    "8BC6",
+    "HP Engage Flex Pro-C G2 Retail System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp151314-HP Engage Flex Pro G2 Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151314.exe",
+      "size_bytes": 1619375560,
+      "md5": "6cd071f1478fdc646eb2519ff5a45939",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/5/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp168418-HP Engage Flex Pro G2 Windows 10 IoT Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168418.exe",
+      "size_bytes": 2490567520,
+      "md5": "1AF553A05C5E34018A6225321D0D8412",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "12/16/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp161789-HP Engage Flex Pro G2 Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161789.exe",
+      "size_bytes": 2274813368,
+      "md5": "323431EB00D25F04603D735F07FA5D8A",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "8/7/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp173588-HP Engage Flex Pro G2 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173588.exe",
+      "size_bytes": 2473983504,
+      "md5": "FCF4361EA2F67CD1514E2BA34994818A",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "6/15/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp168419-HP Engage Flex Pro G2 Windows 11 IoT Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168419.exe",
+      "size_bytes": 2490588560,
+      "md5": "E82FB5C0D4429E616B530409F470A734",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "12/16/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

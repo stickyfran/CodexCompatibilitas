@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-yoga-11e-20g8-20ga",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad Yoga 11e 20G8 20GA",
+  "system_id": "20G8,20GA",
+  "dmi_matches": [
+    "20G8",
+    "20GA"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_yoga_11e_3rd_gen_w1064_1909_202012.exe",
+      "size_bytes": null,
+      "md5": "32f817cbae439f5f6dd417d7082b692a",
+      "sha256": "d8d33b364a933d3ac25a73242f38158462756ff1bc567dfac83696ab30ef778b",
+      "version": null,
+      "release_date": "2020-12-29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

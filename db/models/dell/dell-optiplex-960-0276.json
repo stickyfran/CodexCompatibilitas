@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-960-0276",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 960",
+  "system_id": "0276",
+  "dmi_matches": [
+    "OptiPlex 960",
+    "0276"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WT9XW",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02043693M/1/960-Vista-A02-WT9XW.CAB",
+      "size_bytes": 276477933,
+      "md5": "8171D9B44E76131882495C0E90425A24",
+      "sha256": "68D35F34EC694982DB381F60BB0725B0DEAA8BBF7A43B034AA5ADB0A9C9E6FB3",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-NR65N",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02044091M/1/960-win7-A06-NR65N.CAB",
+      "size_bytes": 572176728,
+      "md5": "089DDB3A2F719D4D0ADE488C5793588D",
+      "sha256": "E571F55889799C7514E7CE9893EE641CC0D94A2CC62BAD79AD2354A076B2A252",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-8XGK4",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02043659M/1/960-xp-A07-8XGK4.CAB",
+      "size_bytes": 224568708,
+      "md5": "4346F1DA2BDDB7F29471366389675B28",
+      "sha256": "77A1C567BD89FBF9A5389E4337D942F4D1CA1A65714F60A35E871BF57AEF1B2A",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

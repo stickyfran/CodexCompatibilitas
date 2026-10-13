@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e5420-049b",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5420",
+  "system_id": "049B",
+  "dmi_matches": [
+    "Latitude E5420",
+    "049B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-31H2G",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02324610M/1/E5420-vista-A01-31H2G.CAB",
+      "size_bytes": 133127731,
+      "md5": "0E671626E8A93DF574B638729351665F",
+      "sha256": "629F67A86E0C75C48855FDC54BA6704E47362CFF5B95C61729AA02ABCAE83FC6",
+      "version": null,
+      "release_date": "2014-09-08T00:00:00"
+    },
+    {
+      "name": "DellPack-XXK8K",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02162241M/1/E5420-win7-A11-XXK8K.CAB",
+      "size_bytes": 196898380,
+      "md5": "68657C784F7B0485DAB17AB2B3B531A0",
+      "sha256": "82BF6DFCEBDF4DF7F8E47A3767E045620769E4DACD5D95E7A25374B4750A551D",
+      "version": null,
+      "release_date": "2014-06-05T00:00:00"
+    },
+    {
+      "name": "DellPack-DNR11",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02167127M/1/E5420-win8-A03-DNR11.CAB",
+      "size_bytes": 238330769,
+      "md5": "84A0A0DBA4EDB87B252C411F586B6051",
+      "sha256": "6A49E623223F7A580345328C640CA7A15FC82269DC6FB13D76D43E00437F4205",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-R12X4",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02238085M/1/E5420-xp-A09-R12X4.CAB",
+      "size_bytes": 140526950,
+      "md5": "76CBEF79E8C505156B7C5502AC2D9A32",
+      "sha256": "D488CA325E94220C121F6E006B60C2415B28E364CE1A3F7846CDFB0E9AB52575",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

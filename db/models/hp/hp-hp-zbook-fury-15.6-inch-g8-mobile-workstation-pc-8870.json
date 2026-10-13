@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-zbook-fury-15.6-inch-g8-mobile-workstation-pc-8870",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 15.6 inch G8 Mobile Workstation PC",
+  "system_id": "8870",
+  "dmi_matches": [
+    "8870",
+    "HP ZBook Fury 15.6 inch G8 Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp121402-HP ZBook Fury G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp121001-121500/sp121402.exe",
+      "size_bytes": 1706492104,
+      "md5": "f8c88474f5535ba97490def879015ae8",
+      "sha256": null,
+      "version": "2.00 A 2",
+      "release_date": "7/12/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp136447-HP ZBook Fury G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136447.exe",
+      "size_bytes": 1675693936,
+      "md5": "bcafe8bcf252ad73d0426eda4d2717dd",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "11/30/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp144955-HP ZBook Fury G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144955.exe",
+      "size_bytes": 2791884488,
+      "md5": "549c1794d2f0d77b5f5c8beb2210931d",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/20/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142669-HP ZBook Fury G8 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142669.exe",
+      "size_bytes": 1473515488,
+      "md5": "1d565a29733724a7db7d348f67b48bb9",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/27/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

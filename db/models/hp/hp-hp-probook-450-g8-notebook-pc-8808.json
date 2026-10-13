@@ -1,0 +1,29 @@
+{
+  "id": "hp-hp-probook-450-g8-notebook-pc-8808",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 450 G8 Notebook PC",
+  "system_id": "8808,87E1,8A77,8A85,8A75",
+  "dmi_matches": [
+    "8808",
+    "87E1",
+    "8A77",
+    "8A85",
+    "8A75",
+    "HP ProBook 450 G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp142908-HP ProBook 4x0 G8/ZHAN G4 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142908.exe",
+      "size_bytes": 1298060736,
+      "md5": "4d3a123d8205f7fd5a669a50677e8c96",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/7/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

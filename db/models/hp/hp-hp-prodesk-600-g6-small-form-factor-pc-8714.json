@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-prodesk-600-g6-small-form-factor-pc-8714",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G6 Small Form Factor PC",
+  "system_id": "8714",
+  "dmi_matches": [
+    "8714",
+    "HP ProDesk 600 G6 Small Form Factor PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp105836-HP ElitePro 4/6/800 G6 DM/SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105836.exe",
+      "size_bytes": 409501336,
+      "md5": "35304ed331018a2639886ac40ef8edaa",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/3/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113468-HP ElitePro 4/6/800 G6 DM Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113468.exe",
+      "size_bytes": 1536814072,
+      "md5": "0258a9a34f05197b2a69a83437123612",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/26/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp144698-HP ProDesk 4/600 G6/G7 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144698.exe",
+      "size_bytes": 2400780224,
+      "md5": "4f73d71a8ca2b82771d35f30bbc84969",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "2/13/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp143122-HP ElitePro 4/600 G6/G7 SFF Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143122.exe",
+      "size_bytes": 1081721896,
+      "md5": "118520e3a06e91ffeac7cc8ab527c64a",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/25/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

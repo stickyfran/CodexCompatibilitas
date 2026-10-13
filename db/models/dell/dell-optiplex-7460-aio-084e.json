@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7460-aio-084e",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7460 AIO",
+  "system_id": "084E",
+  "dmi_matches": [
+    "OptiPlex 7460 AIO",
+    "084E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9DK2C",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07333564M/1/7460 AIO-win10-A12-9DK2C.CAB",
+      "size_bytes": 980315313,
+      "md5": "A06D9E63DFFE099E67EC29F1352AA5BF",
+      "sha256": "C3C011F0E316D02F7258B42B2036A3E659E452631B60314624A4E8028D083C13",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    },
+    {
+      "name": "DellPack-HMVJR",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10605981M/1/7460-AIO-HMVJR_Win11_1.0_A00.exe",
+      "size_bytes": 1816516616,
+      "md5": "3AB42CF202E7084811B5331DA4A84F66",
+      "sha256": "F65D118EB94F4D04ED95926FAF1C37A7AB35FF55657B8901B7BCAC0065A5FFC5",
+      "version": null,
+      "release_date": "2023-10-27T05:18:49"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

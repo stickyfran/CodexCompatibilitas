@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7390-081b",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7390",
+  "system_id": "081B",
+  "dmi_matches": [
+    "Latitude 7390",
+    "081B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M0F3K",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11123762M/1/Latitude-7390-M0F3K_Win11_1.0_A01.exe",
+      "size_bytes": 1182735784,
+      "md5": "7120BEA7D1857FA2E62A008296F2802A",
+      "sha256": "B65D7FA28CCAA3561A25BDE37C0071482E1EEDBDCB58BF2215E31898840F3B19",
+      "version": null,
+      "release_date": "2024-01-22T07:15:21"
+    },
+    {
+      "name": "DellPack-M8N5D",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11166040M/1/Latitude-7390-M8N5D_Win10_1.0_A17.exe",
+      "size_bytes": 991483064,
+      "md5": "A652B7DD3AB369C9F96ED9412376A4C8",
+      "sha256": "AD109A062749EDE8FCF51C765283C3469AE007E1EE424D4CEA031D92C3717EA9",
+      "version": null,
+      "release_date": "2024-01-24T00:48:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

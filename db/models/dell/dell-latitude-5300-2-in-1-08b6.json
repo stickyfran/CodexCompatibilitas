@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5300-2-in-1-08b6",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5300 2-IN-1",
+  "system_id": "08B6",
+  "dmi_matches": [
+    "Latitude 5300 2-IN-1",
+    "08B6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-DM2DG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07938913M/1/5300 2-IN-1-win10-A13-DM2DG.CAB",
+      "size_bytes": 1270439939,
+      "md5": "509A09F21C77A1AB7AD111A5AFF99FA1",
+      "sha256": "AFA0DEB04B505B7F49961D80FDA850F6294D96A788EB82E7F196C209044FD6CF",
+      "version": null,
+      "release_date": "2022-03-21T07:25:51"
+    },
+    {
+      "name": "DellPack-M3W15",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08117862M/1/5300 2-IN-1-win11-A00-M3W15.CAB",
+      "size_bytes": 1603416874,
+      "md5": "EC93772C25324BD807FF806B72318222",
+      "sha256": "C71601F445CA8064912B9AAAD3D25EF18DC0419C5F622D627110CD94554E575F",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

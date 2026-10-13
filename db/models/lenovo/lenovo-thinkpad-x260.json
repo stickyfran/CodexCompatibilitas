@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-x260",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X260",
+  "system_id": "20F5,20F6",
+  "dmi_matches": [
+    "20F5",
+    "20F6"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x260_w1064_202001.exe",
+      "size_bytes": null,
+      "md5": "73cb96494b98329cc2c710139eeee5bd",
+      "sha256": "b011294a8ef998bb68a951fbd4ed357b63ebe2355ced0a9e579e2722c87c1453",
+      "version": null,
+      "release_date": "2020-01-14"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

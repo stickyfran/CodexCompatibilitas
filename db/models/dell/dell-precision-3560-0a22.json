@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3560-0a22",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3560",
+  "system_id": "0A22",
+  "dmi_matches": [
+    "Precision 3560",
+    "0A22"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-N11HT",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11919807M/1/Precision-3560-N11HT_Win11_1.0_A13.exe",
+      "size_bytes": 3097477160,
+      "md5": "51FCB5FFF289F53136E62FD3424D5489",
+      "sha256": "FD7E19114538D5935343E5787CF21BDE89ADBF0BD3C9F24999F6ADBB1F08AAA4",
+      "version": null,
+      "release_date": "2024-08-09T08:20:14"
+    },
+    {
+      "name": "DellPack-V96TV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11919806M/1/Precision-3560-V96TV_Win10_1.0_A21.exe",
+      "size_bytes": 3102425080,
+      "md5": "43ECBBDC7C26E9B29AFF71EDC35D1B0B",
+      "sha256": "0ECAB3E23D3B31097EFAE228AB5585DDE7436ACCC4FAED71E49109E0AED589D9",
+      "version": null,
+      "release_date": "2024-08-09T08:20:14"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

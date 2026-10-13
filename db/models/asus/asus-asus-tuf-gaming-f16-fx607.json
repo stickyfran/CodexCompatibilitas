@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-tuf-gaming-f16-fx607",
+  "vendor": "ASUS",
+  "family": "TUF Gaming",
+  "model_name": "Asus Tuf Gaming F16 Fx607",
+  "system_id": "FX607",
+  "dmi_matches": [
+    "FX607"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

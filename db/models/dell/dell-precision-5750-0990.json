@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5750-0990",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5750",
+  "system_id": "0990",
+  "dmi_matches": [
+    "Precision 5750",
+    "0990"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-75H6N",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09852232M/1/5750-75H6N_Win10_1.0_A12.exe",
+      "size_bytes": 2222891784,
+      "md5": "6843B189232A3E1F515D970C9B79DDBB",
+      "sha256": "B1E3A9942115655ADFA79417519F005282F67C04348A144BF371CE146125BF8B",
+      "version": null,
+      "release_date": "2023-06-01T07:55:27"
+    },
+    {
+      "name": "DellPack-1RKGC",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09852237M/1/5750-1RKGC_Win11_1.0_A02.exe",
+      "size_bytes": 2231048896,
+      "md5": "2B80AD31DC197B6325FBC6804FD68FE3",
+      "sha256": "520038993BA8400D9A09354A5E7C6980FB5C6B58982BF2DD3D41340103EEFDD1",
+      "version": null,
+      "release_date": "2023-06-01T07:55:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

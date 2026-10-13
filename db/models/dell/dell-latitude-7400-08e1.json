@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-7400-08e1",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7400",
+  "system_id": "08E1",
+  "dmi_matches": [
+    "Latitude 7400",
+    "08E1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-73PMG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11166548M/1/Latitude-7400-73PMG_Win10_1.0_A13.exe",
+      "size_bytes": 1343554448,
+      "md5": "807A22D89FEDC1718BD3E83100FFC72D",
+      "sha256": "76E0B4364FA20B1C542DFD3D9BAC4C412D5AB3FD73AD690EE8CEC0CF55DBEC96",
+      "version": null,
+      "release_date": "2024-01-24T00:48:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

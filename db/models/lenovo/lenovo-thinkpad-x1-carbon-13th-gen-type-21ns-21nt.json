@@ -1,0 +1,45 @@
+{
+  "id": "lenovo-thinkpad-x1-carbon-13th-gen-type-21ns-21nt",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Carbon 13TH Gen Type 21NS 21NT",
+  "system_id": "21NS,21NT",
+  "dmi_matches": [
+    "21NS",
+    "21NT"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21ns-21nt-x1_2-in-1_mt21nu-21nv_w11_23_202512.exe",
+      "size_bytes": null,
+      "md5": "fec1020d926672beac2834df75c05f46",
+      "sha256": "bc8ac58e4101bd43ca003ef520be105be02ec2f740f6965604310c44f775766a",
+      "version": null,
+      "release_date": "2025-12-22"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21ns-21nt-x1_2-in-1_mt21nu-21nv_w11_24_202608.exe",
+      "size_bytes": null,
+      "md5": "9625e1c91de1d174f7d2dd903d5c7f5e",
+      "sha256": "803fb7e3e2dd5c5435d205a14a0d4d2f7e940a20a62b6211f6174f3ef10e6f44",
+      "version": null,
+      "release_date": "2026-08-12"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21ns-21nt-x1_2-in-1_mt21nu-21nv_w11_25_202608.exe",
+      "size_bytes": null,
+      "md5": "62e45231ab14120c3e343bd6e2ba5aba",
+      "sha256": "9e02391e66214e41b159b2264eaddf763585fd0805b001e35ec72b5cd82ac9bd",
+      "version": null,
+      "release_date": "2026-08-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

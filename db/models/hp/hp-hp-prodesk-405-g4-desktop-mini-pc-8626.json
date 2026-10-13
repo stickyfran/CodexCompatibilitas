@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-prodesk-405-g4-desktop-mini-pc-8626",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G4 Desktop Mini PC",
+  "system_id": "8626",
+  "dmi_matches": [
+    "8626",
+    "HP ProDesk 405 G4 Desktop Mini PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp95002-HP ProDesk 405 G4 DM Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95002.exe",
+      "size_bytes": 361739704,
+      "md5": "7a59fa69de83fb3400867b04505074f8",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "4/2/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99624-HP ProDesk 405 G4 DM Win 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99624.exe",
+      "size_bytes": 397164064,
+      "md5": "FC8F643113A63657255261439A2BB7E8",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "10/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101450-HP ProDesk 405 G4 DM Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101450.exe",
+      "size_bytes": 358223976,
+      "md5": "91a260484af20c5ab32db3aab9acde89",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "1/27/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110348-HP ProDesk 405 G4 DM Win 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110348.exe",
+      "size_bytes": 565774144,
+      "md5": "77771ada3d558be4af370d0a3f829f1a",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "10/5/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114258-HP ProDesk 405 G4 DM Win 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114258.exe",
+      "size_bytes": 397317544,
+      "md5": "d5b4f5150a4a5e371a985d94c1b636c0",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "6/24/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

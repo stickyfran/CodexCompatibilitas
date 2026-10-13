@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5860-tower-0a3c",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5860 Tower",
+  "system_id": "0A3C",
+  "dmi_matches": [
+    "Precision 5860 Tower",
+    "0A3C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-F10G1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13469692M/1/Precision-5860-Tower-F10G1_Win10_1.0_A10.exe",
+      "size_bytes": 1908470168,
+      "md5": "9C4DB7B795499994FFCFDC0D4149D3CD",
+      "sha256": "D415E4B2B7B47F947C79F0B4382163B7B451FC0F64F9502D27726CFED62ECFA7",
+      "version": null,
+      "release_date": "2025-09-19T01:47:20"
+    },
+    {
+      "name": "DellPack-R3RCM",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13469694M/1/Precision-5860-Tower-R3RCM_Win11_1.0_A10.exe",
+      "size_bytes": 1910221608,
+      "md5": "3E73226FD4475460853139237C2729AE",
+      "sha256": "CF7DDD6DEA2810605F6B652B48AF0A0BEC77E4AFADB5B6751386AFC8816E1243",
+      "version": null,
+      "release_date": "2025-09-19T01:47:20"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

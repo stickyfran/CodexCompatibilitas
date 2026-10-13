@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5400-0928",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5400",
+  "system_id": "0928",
+  "dmi_matches": [
+    "Latitude 5400",
+    "0928"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7CP7C",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07939287M/1/5400-win10-A13-7CP7C.CAB",
+      "size_bytes": 1432224284,
+      "md5": "CDC8CB10D11470E82B6BC660A5A99052",
+      "sha256": "23BFBF32AEC904A80A7F8F96C66F22F4AB9EBB27FE23995C5D23ACD03865F326",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    },
+    {
+      "name": "DellPack-84RYJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09083355M/1/5400-84RYJ_Win11_1.0_A00.exe",
+      "size_bytes": 1807098720,
+      "md5": "2064D44B2837B028DB74A66569EAB427",
+      "sha256": "FDF6E79547BBAAE79DF852315060E8D5F8994DB75CA161879D92164F07A5C92A",
+      "version": null,
+      "release_date": "2022-10-27T10:57:08"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

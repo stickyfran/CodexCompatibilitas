@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3550-0c9a",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3550",
+  "system_id": "0C9A",
+  "dmi_matches": [
+    "Latitude 3550",
+    "0C9A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-FDJDG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14246835M/1/Latitude-3550-FDJDG_Win10_1.0_A09.exe",
+      "size_bytes": 3759159968,
+      "md5": "256BC0B21E593DB3C78949AC7F3EBCD8",
+      "sha256": "8B6CBF3BB865813520DDD1882FB2C535C4D4C449A0DDFA5C78DC2D13C708D4E8",
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    },
+    {
+      "name": "DellPack-9D4TY",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14229238M/1/Latitude-3550-9D4TY_Win11_1.0_A09.exe",
+      "size_bytes": 3754762928,
+      "md5": "D25E7C14E8C6FD6420628A1E08EC0233",
+      "sha256": "DD9D34A7518A62B8345664E54F4585E68F620DD184F224A1A55940207173FF7B",
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

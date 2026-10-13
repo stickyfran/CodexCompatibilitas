@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-9440-2-in-1-0c12",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 9440 2-in-1",
+  "system_id": "0C12",
+  "dmi_matches": [
+    "Latitude 9440 2-in-1",
+    "0C12"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YD2YF",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14229750M/1/Latitude-9440-2-in-1-YD2YF_Win10_1.0_A11.exe",
+      "size_bytes": 1446742928,
+      "md5": "2E74822B44E64690B1FB235E1B29B302",
+      "sha256": "A73B6EF7400AAFFA0FF51EC6538E126526F4856C7EA6274B02D224D01D0471D9",
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    },
+    {
+      "name": "DellPack-N27Y1",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14229760M/1/Latitude-9440-2-in-1-N27Y1_Win11_1.0_A11.exe",
+      "size_bytes": 1449776320,
+      "md5": "747FC4E0CE9C5FA531C54FECC65E9752",
+      "sha256": "3DB94D3720792B488AE5F30D419B714D1E42A23A4036850AA5ADE119D22FB5CE",
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

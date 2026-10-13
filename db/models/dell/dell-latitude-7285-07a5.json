@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-7285-07a5",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7285",
+  "system_id": "07A5",
+  "dmi_matches": [
+    "Latitude 7285",
+    "07A5"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5VWFM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06092771M/1/7285-win10-A11-5VWFM.CAB",
+      "size_bytes": 672693751,
+      "md5": "162AB61D0728AA3CE81132840CE92CB7",
+      "sha256": "F282E581091CEB559953FDB5FD9434B85113DE4EC60EC13B94BFE0128BE92ECF",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

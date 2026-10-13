@@ -1,0 +1,38 @@
+{
+  "id": "hp-hp-proone-400-g6-24-all-in-one-pc-880f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 400 G6 24 All-in-One PC",
+  "system_id": "880F,8810,871C,871B",
+  "dmi_matches": [
+    "880F",
+    "8810",
+    "871C",
+    "871B",
+    "HP ProOne 400 G6 24 All-in-One PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp144594-HP ProOne 4/600 G6 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144594.exe",
+      "size_bytes": 1441141912,
+      "md5": "8f4135765c4858a318effc202633929c",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "3/2/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp144620-HP ProOne 4/600 G6 AiO Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144620.exe",
+      "size_bytes": 1323202872,
+      "md5": "04ca1e17a96442ee64166685a4e6f158",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

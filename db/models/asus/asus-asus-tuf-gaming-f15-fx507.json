@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-tuf-gaming-f15-fx507",
+  "vendor": "ASUS",
+  "family": "TUF Gaming",
+  "model_name": "Asus Tuf Gaming F15 Fx507",
+  "system_id": "FX507",
+  "dmi_matches": [
+    "FX507"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

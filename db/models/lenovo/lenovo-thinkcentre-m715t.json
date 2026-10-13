@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkcentre-m715t",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M715T",
+  "system_id": "10ME,10MD",
+  "dmi_matches": [
+    "10ME",
+    "10MD"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715t_m715s_w1064_201805.exe",
+      "size_bytes": null,
+      "md5": "d1918432f07fb5d82b676628be2b6d39",
+      "sha256": "45c0222f3137d6cd5f9c3b83bd9fe435186d44489a470c4a2b0e015a6f159e66",
+      "version": null,
+      "release_date": "2018-05-30"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715s_m715t_w1064_1803_201903.exe",
+      "size_bytes": null,
+      "md5": "8e337f6f6f7abee0e4b1df4f6a190b66",
+      "sha256": "e0424f6be1389bd99f3d3b08ce08aa78b05601b2448ef1dedc6e72360601f0ed",
+      "version": null,
+      "release_date": "2019-03-26"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

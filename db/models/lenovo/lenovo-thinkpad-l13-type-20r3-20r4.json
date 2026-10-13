@@ -1,0 +1,115 @@
+{
+  "id": "lenovo-thinkpad-l13-type-20r3-20r4",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad L13 Type 20R3 20R4",
+  "system_id": "20R4,20R3",
+  "dmi_matches": [
+    "20R4",
+    "20R3"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_w1064_1803_201911.exe",
+      "size_bytes": null,
+      "md5": "0589c02c94a142b6f103ab2685bcca26",
+      "sha256": "4675fcdb97da8a7741b02c82add7d9486eaba3846578a3374c465ab273bf735f",
+      "version": null,
+      "release_date": "2019-09-23"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w1064_1809_202101.exe",
+      "size_bytes": null,
+      "md5": "96c21c72b59407839627d9b35a5b5ad3",
+      "sha256": "4e8f07d421324c23ac8addf51938444addbac1824f18dda804f9ec0316d0ace7",
+      "version": null,
+      "release_date": "2020-06-05"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w1064_1903_202010.exe",
+      "size_bytes": null,
+      "md5": "81f266e391e50d6cdb0b485b424d4eaa",
+      "sha256": "1bff5b2683406e8408372592c41ac01112e577aab2672d8fea25a88272e82c0a",
+      "version": null,
+      "release_date": "2021-01-08"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w1064_1909_202104.exe",
+      "size_bytes": null,
+      "md5": "e2de4e81079c8b9e8dc61660bc9b74a7",
+      "sha256": "87ac481ba9a98fc46373b8b7279c2a5c4dc34696e9d1247e253e023b18cb8677",
+      "version": null,
+      "release_date": "2021-06-03"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w1064_2004_202104.exe",
+      "size_bytes": null,
+      "md5": "94ceaf49f077bde1575fe9fdca245ca6",
+      "sha256": "38e25773db15470a5328f14ba3d2c68f060b5639c3e2e85e1d224bd25b8be7cb",
+      "version": null,
+      "release_date": "2021-06-03"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w1064_20h2_202104.exe",
+      "size_bytes": null,
+      "md5": "214a4852e9cf10c3abfb435c8c3bc376",
+      "sha256": "a146c45d0a1a519549f280ae23761397fa35efa20b9d2878969ef5f0293869ca",
+      "version": null,
+      "release_date": "2023-03-15"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w1064_21h1_202107.exe",
+      "size_bytes": null,
+      "md5": "70badffac3c8ec1ea1a7571493cb5460",
+      "sha256": "386963048ec24a4b7bfa0095b0f318c7ccdc880c0b5a8589258c4779016c7bf3",
+      "version": null,
+      "release_date": "2021-08-09"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w1064_21h2_202204.exe",
+      "size_bytes": null,
+      "md5": "a4111582219416c48663b3c95be6a0d5",
+      "sha256": "78079db1148f68b278a9258a7743d8f031f03784659bdad979c92ac7bb9490eb",
+      "version": null,
+      "release_date": "2023-03-10"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w11_21_202111.exe",
+      "size_bytes": null,
+      "md5": "6dc54a2f140925e3b2d16ba1e7eaacac",
+      "sha256": "3549c89196803ab5edd086a2a29427bc70356cb23699d986da0cdc038501691b",
+      "version": null,
+      "release_date": "2022-01-13"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s2-5th-gen_s2-yoga-5th-gen_l13_l13yoga_l13-gen-1_l13yogagen-1_w11_22h2_202212.exe",
+      "size_bytes": null,
+      "md5": "406bec4bd0f94481f232f16e6baa1a16",
+      "sha256": "6fa43f257fef25ed5f87012b9f15f2b5ed0301f544d1b33cdf27c55238b77e9f",
+      "version": null,
+      "release_date": "2023-01-09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

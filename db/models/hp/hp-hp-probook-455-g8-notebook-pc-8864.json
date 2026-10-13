@@ -1,0 +1,26 @@
+{
+  "id": "hp-hp-probook-455-g8-notebook-pc-8864",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 455 G8 Notebook PC",
+  "system_id": "8864,8A90",
+  "dmi_matches": [
+    "8864",
+    "8A90",
+    "HP ProBook 455 G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp138543-HP ProBook 4x5 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138543.exe",
+      "size_bytes": 940843216,
+      "md5": "7153d8935eab68b44eb4411c8a82156e",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "2/24/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

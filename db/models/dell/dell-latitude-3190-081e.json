@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3190-081e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3190",
+  "system_id": "081E",
+  "dmi_matches": [
+    "Latitude 3190",
+    "081E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-V6918",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07416488M/1/3190-win10-A11-V6918.CAB",
+      "size_bytes": 526726880,
+      "md5": "6C6F41D5426B318BA57B4BBE76A2E3BD",
+      "sha256": "55EA141016EA071FFF5DBB65C44286F727D53E6A5467B3D0A71464E2D05C21EF",
+      "version": null,
+      "release_date": "2021-06-17T09:52:28"
+    },
+    {
+      "name": "DellPack-6V030",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09765008M/1/3190-6V030_Win11_1.0_A00.exe",
+      "size_bytes": 778034336,
+      "md5": "AE47367FD35371BE6C8A65878CA86D59",
+      "sha256": "F5B56D082E84CF505EF25CBD41F0188796A4F3042F5EBE5D10863BE115E75676",
+      "version": null,
+      "release_date": "2023-03-24T02:41:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

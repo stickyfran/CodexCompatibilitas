@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-tower-qct1255-0d56",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Tower QCT1255",
+  "system_id": "0D56",
+  "dmi_matches": [
+    "Dell Pro Tower QCT1255",
+    "0D56"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-4JPM0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14802748M/1/QCT1255-4JPM0_Win10_1.0_A06.exe",
+      "size_bytes": 1411102904,
+      "md5": "3C2EEB1347B05059DF1C9DF6AC1B557D",
+      "sha256": "A420127F37BF0634F82D255D615D0AE9578F3059B2C318E7F33B8E8EB54A51F2",
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    },
+    {
+      "name": "DellPack-8NK9H",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14926166M/1/QCT1255-8NK9H_Win11_1.0_A07.exe",
+      "size_bytes": 2803019184,
+      "md5": "FDF704C4523EB83AEE56D0CE80142061",
+      "sha256": "8545ACFFA11C9DD406FE303E28E30928814C6A5B6370C9A21A794FB223EF4DB4",
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

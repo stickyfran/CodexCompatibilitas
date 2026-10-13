@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7200-2-in-1-08e9",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7200 2-in-1",
+  "system_id": "08E9",
+  "dmi_matches": [
+    "Latitude 7200 2-in-1",
+    "08E9"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6505G",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07954879M/1/7200 2-in-1-win10-A11-6505G.CAB",
+      "size_bytes": 1184211026,
+      "md5": "EAB69003B6AE71EDF85FF30101B23B06",
+      "sha256": "990569159C7D22B8F929912E6CDDAD3AFB49E46E81C57F86CFECF07A276A099C",
+      "version": null,
+      "release_date": "2022-01-05T14:28:04"
+    },
+    {
+      "name": "DellPack-9FDW0",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08131660M/1/7200 2-in-1-win11-A00-9FDW0.CAB",
+      "size_bytes": 1187585888,
+      "md5": "C514660D2C8E8EA98807E05FDC9D0EC6",
+      "sha256": "D26FE002E652A98CD98029BFE1BA445C4F555CA2BAF12FCD9AA4DEAB68AF0DFC",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

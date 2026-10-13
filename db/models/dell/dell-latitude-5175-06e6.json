@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-5175-06e6",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5175",
+  "system_id": "06E6",
+  "dmi_matches": [
+    "Latitude 5175",
+    "06E6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XHGFM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06527729M/1/5175-win10-A10-XHGFM.CAB",
+      "size_bytes": 594299018,
+      "md5": "D71A98509CE0D04B7337E331E6FCC1B7",
+      "sha256": "834D9EFD92D421DAD7C641E4041381FF399849C40CB6BAB7270C5BC85BC1B366",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-GXYCX",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03716345M/1/5175-win8.1-A02-GXYCX.CAB",
+      "size_bytes": 363926896,
+      "md5": "0D9CC9BF3AE3F789C50AC8F7B0700DF9",
+      "sha256": "85BFF076382E3A54884DA785FD820A12EEF25014FE2F9B4BF2A5BB485926509A",
+      "version": null,
+      "release_date": "2016-06-14T00:00:00"
+    },
+    {
+      "name": "DellPack-91P8R",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05444919M/1/5179-win10-A10-91P8R.CAB",
+      "size_bytes": 550864722,
+      "md5": "F1DDEFB5DB53DB8E66FC422E4507E11F",
+      "sha256": "9CDA7F32A4718FAC264A961FDAC0E48367FEB9FB5AB4DDE0614C2AB2E6409A0E",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-0953J",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03716445M/1/5179-win8.1-A02-0953J.CAB",
+      "size_bytes": 370245577,
+      "md5": "9E6A5249CECBEC62962C333BA188CD48",
+      "sha256": "BA3C0600F90D826ED2CD0D6921A70F3F4FA1B9AEA09F270D54D8B3C9E72E91B0",
+      "version": null,
+      "release_date": "2016-06-14T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

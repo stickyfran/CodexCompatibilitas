@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-990-047e",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 990",
+  "system_id": "047E",
+  "dmi_matches": [
+    "OptiPlex 990",
+    "047E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-59GRY",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02289476M/1/990-vista-A01-59GRY.CAB",
+      "size_bytes": 431093245,
+      "md5": "A78B59D8486DBD541C06011FCC9A27BC",
+      "sha256": "BBD08965A58AD43090644065CE8E4AE45E916D6B3947002D738F747A8979F52E",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-5GWVN",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02161719M/1/990-win7-A10-5GWVN.CAB",
+      "size_bytes": 950346694,
+      "md5": "1D86D1B5673F30AEB253D02B40A098AD",
+      "sha256": "D6101B32016EEE80F8140837007A64F338F90820580C64C7950F4A8A9E3CF641",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-HX3XP",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02252409M/1/990-xp-A11-HX3XP.CAB",
+      "size_bytes": 475375836,
+      "md5": "179B41339C06447B4E7817910E619878",
+      "sha256": "7B23B0337E0D210F59F2F9E54EE32FBDB0486FEDEC3719F4EB7B69CB7CE2971D",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

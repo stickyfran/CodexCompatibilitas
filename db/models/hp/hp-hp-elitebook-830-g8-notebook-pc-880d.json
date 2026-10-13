@@ -1,0 +1,37 @@
+{
+  "id": "hp-hp-elitebook-830-g8-notebook-pc-880d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 830 G8 Notebook PC",
+  "system_id": "880D,8AB3,8AB8",
+  "dmi_matches": [
+    "880D",
+    "8AB3",
+    "8AB8",
+    "HP EliteBook 830 G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp144988-HP Elite/ZBook 8x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144988.exe",
+      "size_bytes": 1932939584,
+      "md5": "13cd9acc0905294bd078ce90a8b041f3",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142670-HP Elite/ZBook 8x0 G8 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142670.exe",
+      "size_bytes": 1500744608,
+      "md5": "a0f256cb8ac16a3f65117af20567c692",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/27/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,89 @@
+{
+  "id": "lenovo-thinkstation-p340",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P340",
+  "system_id": "30DH,30DK,30DM,30DN,30DJ,30DL",
+  "dmi_matches": [
+    "30DH",
+    "30DK",
+    "30DM",
+    "30DN",
+    "30DJ",
+    "30DL"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p340_w1064_1809_1903_202008.exe",
+      "size_bytes": null,
+      "md5": "5c9d3022cd88650a4fdd6deec7bc2471",
+      "sha256": "7ef29612f3853f7010c45382de35c3c8c8230f52f9a22e998db130083ccd3a09",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p340_w1064_1809_1903_202008.exe",
+      "size_bytes": null,
+      "md5": "5c9d3022cd88650a4fdd6deec7bc2471",
+      "sha256": "7ef29612f3853f7010c45382de35c3c8c8230f52f9a22e998db130083ccd3a09",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_P340_win1064_1909_202005.exe",
+      "size_bytes": null,
+      "md5": "281fb5c488f18b6f25c69dea4e8f38c9",
+      "sha256": "ea932a25d0d1f4190a5b903b949e3b239c9595143646a666f66590f0a4f48134",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p340_w1064_2004_202008.exe",
+      "size_bytes": null,
+      "md5": "051080fda7499c5bab15fb11c9490a40",
+      "sha256": "382232b0bbcec2b3981ba0776bdf78e9a54aac05ab6a89142d1e2d61d0cf91c0",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p340_w1064_20h2_202101.exe",
+      "size_bytes": null,
+      "md5": "d805c66d44bfa166f724228e14cb79f9",
+      "sha256": "609738f9c0467f0848a9b6605a43345fdcf282557e680d24571fc776a19cb615",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p340_w1064_21h2_202504.exe",
+      "size_bytes": null,
+      "md5": "8120a119154e71000735f366443592d5",
+      "sha256": "837ef46cfe851339e52a1436c8bbfbc3591e99790858cb44efae4a5c8b299eeb",
+      "version": null,
+      "release_date": "2025-06-20"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p340_w11_21_202504.exe",
+      "size_bytes": null,
+      "md5": "fec417c502e3a3ffadab2bfb2c1814b2",
+      "sha256": "69bfdb514ada2d407bcb9e5bc90b286c8e60437b83a6bfdb779349f16a8648eb",
+      "version": null,
+      "release_date": "2025-06-20"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

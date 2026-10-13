@@ -1,0 +1,45 @@
+{
+  "id": "lenovo-thinkpad-p14s-gen-6-type-21qt-21qu",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P14S Gen 6 Type 21QT 21QU",
+  "system_id": "21QT,21QU",
+  "dmi_matches": [
+    "21QT",
+    "21QU"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14sg6_p16sg4_mt21qv_mt21qw_mt21qt_mt21qu_w11_23h2_202602.exe",
+      "size_bytes": null,
+      "md5": "436bb4ba8262a838db9734d4d0e94590",
+      "sha256": "26ff4bf93a7ea84131e2334c0551aec23ec49764b079a6a758ea7c75b0a1fa23",
+      "version": null,
+      "release_date": "2026-02-26"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14sg6_p16sg4_mt21qv_mt21qw_mt21qt_mt21qu_w11_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": "112874b2227bbcde550536873bfb09f8",
+      "sha256": "7d0af47bcc4b83fd86360f93b070262ef85a97f5537c66209ef32cf369ff17f3",
+      "version": null,
+      "release_date": "2026-08-13"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14sg6_p16sg4_mt21qv_mt21qw_mt21qt_mt21qu_w11_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": "a425aef41a6ae130782fea5e3d942fc3",
+      "sha256": "d952bd80ea1addd22b697e8e37d9c8fc2982e3a5526e9ab5cbe2483abc9e809c",
+      "version": null,
+      "release_date": "2026-08-13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

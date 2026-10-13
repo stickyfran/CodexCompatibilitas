@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3930-rack-0873",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3930 Rack",
+  "system_id": "0873",
+  "dmi_matches": [
+    "Precision 3930 Rack",
+    "0873"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-945W2",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11759414M/1/Precision-3930-Rack-945W2_Win11_1.0_A05.exe",
+      "size_bytes": 3368061200,
+      "md5": "B6F053C19C147940071A56D4687BB8A3",
+      "sha256": "1156AAFB86D57473B3C027BB5727474829706475CFD0CC1FBB9F4E0CA39AD0A3",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-W8PVM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11759413M/1/Precision-3930-Rack-W8PVM_Win10_1.0_A23.exe",
+      "size_bytes": 3368053248,
+      "md5": "7F0AC2544A33B9A2363A8AD5594B63F4",
+      "sha256": "F7C6533A229EA83D09CED0DC76166DD172E7FE2509B61F5E7D4138ADA4D2B2E2",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

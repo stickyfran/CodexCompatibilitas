@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-xe-02fb",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex XE",
+  "system_id": "02FB",
+  "dmi_matches": [
+    "OptiPlex XE",
+    "02FB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9FY9M",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02293179M/1/XE-Vista-A01-9FY9M.CAB",
+      "size_bytes": 185687691,
+      "md5": "F1C2341D26BB966D494CEDEDD0779016",
+      "sha256": "5222C90DDF850C8E05E6EFE16B28B742A3C294CF123208AA894F3CE3121A02A9",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-33JJK",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER01836641M/1/XE-Win7-A01-33JJK.CAB",
+      "size_bytes": 185679084,
+      "md5": "0FDC4D2F6DE7EFBFD1521AE59502A0B6",
+      "sha256": "BC1554E2BAFACF1F69F37D8C63D90002E09EA34E2104E8760E8B73F40A01852F",
+      "version": null,
+      "release_date": "2013-11-12T00:00:00"
+    },
+    {
+      "name": "DellPack-PKV08",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02249540M/1/XE-xp-A01-PKV08.CAB",
+      "size_bytes": 70563433,
+      "md5": "61291B15B8795B80651FF72899E3069E",
+      "sha256": "DD81073E206D6E175E7194F19B600730137B58C1D0D36469A84AC53DD8AF3AD4",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

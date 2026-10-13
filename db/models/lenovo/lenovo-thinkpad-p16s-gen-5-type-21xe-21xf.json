@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-p16s-gen-5-type-21xe-21xf",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P16S Gen 5 Type 21XE 21XF",
+  "system_id": "21XF,21XE",
+  "dmi_matches": [
+    "21XF",
+    "21XE"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_tpps_mt21xn_22a6_21xj_21xk_21xe_21xf_w11_24h2_202604.exe",
+      "size_bytes": null,
+      "md5": "be1e37fa51ead667a7e6e01ad06d7bff",
+      "sha256": "5ef7425ebe123eece0af17ff2072ba4e1adb97d1a38be3acba117be8b200ef52",
+      "version": null,
+      "release_date": "2026-05-08"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_tpps_mt21xn_22a6_21xj_21xk_21xe_21xf_w11_25h2_202604.exe",
+      "size_bytes": null,
+      "md5": "c0e37ea51e11e8c5aba552b206998abf",
+      "sha256": "a83a075ec6121cdcdd852810a011f9f5a6467e75056c4593f0f89f3dfba3fae2",
+      "version": null,
+      "release_date": "2026-05-08"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

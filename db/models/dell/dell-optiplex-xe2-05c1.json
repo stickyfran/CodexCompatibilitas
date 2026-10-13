@@ -1,0 +1,55 @@
+{
+  "id": "dell-optiplex-xe2-05c1",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex XE2",
+  "system_id": "05C1",
+  "dmi_matches": [
+    "OptiPlex XE2",
+    "05C1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-X1TN0",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04898010M/1/XE2-win10-A04-X1TN0.CAB",
+      "size_bytes": 1263200612,
+      "md5": "A82A199A7A49ED767EE8765511587E3C",
+      "sha256": "51BFFF2FD8590F9501761CFE1D95E183BD143F42EE129AA3895CD6B951607604",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-C9J45",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04897677M/1/XE2-win7-A11-C9J45.CAB",
+      "size_bytes": 649649588,
+      "md5": "BDD40F79DBBB38B4B2B711C7406B46F2",
+      "sha256": "96B90880734222C338F27994CB2B08409BBF4382F29BF605B91D722F472D55E5",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-5PRNW",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03532930M/1/XE2-win8.1-A05-5PRNW.CAB",
+      "size_bytes": 329265266,
+      "md5": "78AF9252E1B2BED77E5070FC47A57AED",
+      "sha256": "E32078439C808F2C70CBFCA3FD8F35C8513E50D6C3C1BC4B6ADF2AB40A241113",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    },
+    {
+      "name": "DellPack-8CR6Y",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02607927M/1/XE2-win8-A05-8CR6Y.CAB",
+      "size_bytes": 284104178,
+      "md5": "F57C16C294401390B8B78704F65A0992",
+      "sha256": "7E9B5A474E3A28199174ED13185DA023A74C611EB0AFE89E81C28C982DFD8AE1",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

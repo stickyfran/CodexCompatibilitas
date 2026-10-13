@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5060-085b",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5060",
+  "system_id": "085B",
+  "dmi_matches": [
+    "OptiPlex 5060",
+    "085B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9C16J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07340507M/1/5060-win10-A12-9C16J.CAB",
+      "size_bytes": 1243716981,
+      "md5": "94B3C67D6302733EC0BF74B4384C5A39",
+      "sha256": "49E5601C28BB652691C075B69F5CC726D57E5275754FBD5E81F86BBB2B8ABD30",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    },
+    {
+      "name": "DellPack-Y8P88",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09708031M/1/5060-Y8P88_Win11_1.0_A00.exe",
+      "size_bytes": 2293511864,
+      "md5": "DC7E207D18FEC216A725F83B4E60A374",
+      "sha256": "47009BCC9C66618A0C5B617D819885D4AAC2468BE9242EC77135DAD5146E67AB",
+      "version": null,
+      "release_date": "2023-03-24T02:41:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

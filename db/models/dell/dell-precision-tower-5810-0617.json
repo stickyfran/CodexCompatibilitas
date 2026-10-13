@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-tower-5810-0617",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Tower 5810",
+  "system_id": "0617",
+  "dmi_matches": [
+    "Precision Tower 5810",
+    "0617"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-774GJ",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04846777M/1/T5810-win10-A05-774GJ.CAB",
+      "size_bytes": 1753476032,
+      "md5": "98756DECB338FF232B73D79BB566AD59",
+      "sha256": "CBA107F9B14FBD1C9DB049FD35F97D134A1F8CFDAC1203AF74910E03B7DB8115",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-24WYX",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04850994M/1/T5810-win7-A09-24WYX.CAB",
+      "size_bytes": 1680569916,
+      "md5": "B9CDED7982CDF692107368A1315E7970",
+      "sha256": "922248512B9076D76E0F058AB0E466ACEDF1E821104D9FC75BB7A7A0811D860B",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-DKFM6",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03512073M/1/T5810-win8.1-A04-DKFM6.CAB",
+      "size_bytes": 453627059,
+      "md5": "5849B96596761F215C683C89B6B3840A",
+      "sha256": "53142A290F6D0780D38AF5A0D7CA07F7F113A37CAD5396C79C89E19057A5F77F",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

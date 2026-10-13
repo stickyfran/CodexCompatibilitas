@@ -1,0 +1,36 @@
+{
+  "id": "hp-hp-z1-g9-tower-desktop-8ac1",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 G9 Tower Desktop",
+  "system_id": "8ac1,894d",
+  "dmi_matches": [
+    "8ac1",
+    "894d",
+    "HP Z1 G9 Tower Desktop"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp157726-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157726.exe",
+      "size_bytes": 3825933152,
+      "md5": "904E1F4DB15A95A756C4106AA1FBFD2E",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "12/1/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp173512-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173512.exe",
+      "size_bytes": 3932107416,
+      "md5": "10F5033C2E72C614E9AA7EFF2B81964F",
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "6/8/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

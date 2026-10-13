@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-17-9720-0aff",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 17 9720",
+  "system_id": "0AFF",
+  "dmi_matches": [
+    "XPS 17 9720",
+    "0AFF"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-4K4W5",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13155416M/1/XPS-17-9720-4K4W5_Win11_1.0_A14.exe",
+      "size_bytes": 2804562784,
+      "md5": "A24A79C5DD3C8FBDAC7799B03200CE25",
+      "sha256": "94A6A71C4B4B479DFABE3260210709985E93AE68609DEC5A96D438F6727E3300",
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

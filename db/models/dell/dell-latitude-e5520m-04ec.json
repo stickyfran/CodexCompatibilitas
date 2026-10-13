@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-e5520m-04ec",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5520m",
+  "system_id": "04EC",
+  "dmi_matches": [
+    "Latitude E5520m",
+    "04EC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TPPD2",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02233651M/1/E5520m-win7-A01-TPPD2.CAB",
+      "size_bytes": 94699875,
+      "md5": "20224AF36D881815164D5E6596D5C483",
+      "sha256": "A0192B43B82F756A21F2D3EFE5AE5D2CB7366187A961D1C5B7A2D01768109356",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-95FWC",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02249373M/1/E5520m-xp-A02-95FWC.CAB",
+      "size_bytes": 72868718,
+      "md5": "1B124ECB05457371E23F529033B3541D",
+      "sha256": "D585E8626D45BDE7E7A590ED815A21A87E6795395B0F9222193EBDEBC74B758F",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

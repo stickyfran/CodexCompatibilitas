@@ -1,0 +1,75 @@
+{
+  "id": "lenovo-thinkpad-p1-gen-7-type-21kv-21kw",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P1 Gen 7 Type 21KV 21KW",
+  "system_id": "21KW,21KV",
+  "dmi_matches": [
+    "21KW",
+    "21KV"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21kv-21kw_w1064_21h2_202604.exe",
+      "size_bytes": null,
+      "md5": "1d0170185aedd9160d9a8ba7f5c7f078",
+      "sha256": "65a18e10b0ab996c6a753a1419f55d50051b324e3800ef2cb8c89ef6ef800c74",
+      "version": null,
+      "release_date": "2026-04-24"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21kv-21kw_w1064_22h2_202604.exe",
+      "size_bytes": null,
+      "md5": "c900edc7d526cb96639c4b97619eefc2",
+      "sha256": "929e6bf9c969f65e235b25679d2c398512a73f2d215ec1181a86fd8098f49827",
+      "version": null,
+      "release_date": "2026-04-24"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21kv-21kw_w11_22_202405.exe",
+      "size_bytes": null,
+      "md5": "abac539a409bcc934b54c5472acdca36",
+      "sha256": "2fe5621584bb8ee82bfb96206c2d618ecb3c6b347a735944c2cc013586f5337a",
+      "version": null,
+      "release_date": "2024-06-06"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21kv-21kw_w11_23_202512.exe",
+      "size_bytes": null,
+      "md5": "f95c3678929ac7396173f34a2a72e6a2",
+      "sha256": "0040a9fe0a9ca60cabaf345a22ae159d9f329251b787a526d27e247c597cd4da",
+      "version": null,
+      "release_date": "2025-12-23"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21kv-21kw_w11_24_202604.exe",
+      "size_bytes": null,
+      "md5": "a93d68581117df8b6e544d8d3af35b20",
+      "sha256": "57176d8912fa43c28302ff9d239b929f6f9541abbf18d6fbe2269f61178037ba",
+      "version": null,
+      "release_date": "2026-04-24"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21kv-21kw_w11_25_202604.exe",
+      "size_bytes": null,
+      "md5": "802d615065eb891c766bdc5f1a05fd3d",
+      "sha256": "4eb15dad2bfebce65b65509decca02becedf44d583c475b04b44dd0260366c36",
+      "version": null,
+      "release_date": "2026-04-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

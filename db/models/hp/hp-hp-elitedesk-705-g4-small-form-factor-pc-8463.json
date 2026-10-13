@@ -1,0 +1,37 @@
+{
+  "id": "hp-hp-elitedesk-705-g4-small-form-factor-pc-8463",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G4 Small Form Factor PC",
+  "system_id": "8463,8462,83e8",
+  "dmi_matches": [
+    "8463",
+    "8462",
+    "83e8",
+    "HP EliteDesk 705 G4 Small Form Factor PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp101773-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101773.exe",
+      "size_bytes": 425995088,
+      "md5": "b1a52c90c1389a13141ce70f7d3b27b2",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/27/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114270-HP EliteDesk 705 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114270.exe",
+      "size_bytes": 1112316872,
+      "md5": "e6100925e9153b5fe0055de4d681841a",
+      "sha256": null,
+      "version": "12.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

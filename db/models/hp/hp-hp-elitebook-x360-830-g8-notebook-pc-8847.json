@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-elitebook-x360-830-g8-notebook-pc-8847",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 830 G8 Notebook PC",
+  "system_id": "8847",
+  "dmi_matches": [
+    "8847",
+    "HP EliteBook x360 830 G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp113360-HP EliteBook x360 830 G8 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113360.exe",
+      "size_bytes": 1239240392,
+      "md5": "dc6109678762337d1b46c91157859fd9",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "4/19/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp114275-HP EliteBook x360 830 G8 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114275.exe",
+      "size_bytes": 1347239392,
+      "md5": "788327148efa1b8f07877544afd4f6ad",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp145105-HP EliteBook x360 830 G8 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145105.exe",
+      "size_bytes": 1259928568,
+      "md5": "9a4ff6630ce3c9977397010c31a442b3",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/8/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142776-HP EliteBook x360 830 G8 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142776.exe",
+      "size_bytes": 1307930616,
+      "md5": "d50caf78a496602cc92a4ffbbf27554a",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/28/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

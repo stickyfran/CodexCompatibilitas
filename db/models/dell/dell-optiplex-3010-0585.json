@@ -1,0 +1,65 @@
+{
+  "id": "dell-optiplex-3010-0585",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3010",
+  "system_id": "0585",
+  "dmi_matches": [
+    "OptiPlex 3010",
+    "0585"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XM7K2",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03656814M/1/3010-Win10-A01-XM7K2.CAB",
+      "size_bytes": 485251630,
+      "md5": "0430AB014540C68684AD3B39726A0F4A",
+      "sha256": "37FFF8465654289DA88B2FB1952C6B10B21CAE339DB6326B14C1DB0FE25A4DD8",
+      "version": null,
+      "release_date": "2016-04-15T00:00:00"
+    },
+    {
+      "name": "DellPack-5JP3G",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02812194M/1/3010-win7-A11-5JP3G.CAB",
+      "size_bytes": 291703406,
+      "md5": "AE048F408F6EA74DBE02E24A3DCB3A3E",
+      "sha256": "D4AEA6FCF5B4DFB9F0C26E9B0564BF37D55F5E8A7B9BB3971ACC3D918E4CBDB6",
+      "version": null,
+      "release_date": "2015-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-N8MV5",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02812218M/1/3010-win8.1-A04-N8MV5.CAB",
+      "size_bytes": 332379869,
+      "md5": "21E143AE884D43E9014E30E50591D50F",
+      "sha256": "3726D2AA8A82B04C17F17656777682F444E807BD4C91121DA634C8F8972DA68B",
+      "version": null,
+      "release_date": "2015-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-356Y6",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02602639M/1/3010-win8-A05-356Y6.CAB",
+      "size_bytes": 402323704,
+      "md5": "2BBE959B688C6C745E86308007BE884F",
+      "sha256": "3DAC9B075FAB5F41FBF04C7A09DBFC54E29AF4B3FB3D9C4BE0A9D9BCCC9EF784",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-G54YD",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02061319M/1/3010-xp-A05-G54YD.CAB",
+      "size_bytes": 138113455,
+      "md5": "32173B766FECF5F920B624729C390E2C",
+      "sha256": "AC823F71D21554D7F6632B4AD6CE75A9DDBA631A5F04D615F0947E6C19472363",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

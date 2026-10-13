@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-zbook-power-g7-mobile-workstation-87ec",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power G7 Mobile Workstation",
+  "system_id": "87EC",
+  "dmi_matches": [
+    "87EC",
+    "HP ZBook Power G7 Mobile Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp108884-HP ZBook Power G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108884.exe",
+      "size_bytes": 1489450416,
+      "md5": "97cef7ce1d9343b20b77b1e7df9bb147",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "9/1/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp140568-HP ZBook Power G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140568.exe",
+      "size_bytes": 1338253608,
+      "md5": "3127b5791ddef10e3738045645f1df6c",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "6/2/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp140882-HP ZBook Power G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140882.exe",
+      "size_bytes": 1338303768,
+      "md5": "6ab169fc756e7108b0683e38af5655f0",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/12/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

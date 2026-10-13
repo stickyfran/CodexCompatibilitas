@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5720-aio-075d",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5720 AIO",
+  "system_id": "075D",
+  "dmi_matches": [
+    "Precision 5720 AIO",
+    "075D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-8DN8T",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06105244M/1/5720 AIO-win10-A12-8DN8T.CAB",
+      "size_bytes": 890109383,
+      "md5": "265371DF0FE133257BD88F1EC33C9EE4",
+      "sha256": "309E5CA3E57D81AF1DA3C18966C397E1B04BA4EA747726F9CF487E3F274945C7",
+      "version": null,
+      "release_date": "2020-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-X511W",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER06109184M/1/5720 AIO-win7-A11-X511W.CAB",
+      "size_bytes": 743561606,
+      "md5": "0A9727B32B6AA3479A5AE5011377073B",
+      "sha256": "7F614CDC8AACDC71CBE3BD0172AC593E21F7340E8DC0823F9BB0DE405CC9228A",
+      "version": null,
+      "release_date": "2020-04-14T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-elite-x2-1013-g3-tablet-8414",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x2 1013 G3 Tablet",
+  "system_id": "8414",
+  "dmi_matches": [
+    "8414",
+    "HP Elite x2 1013 G3 Tablet"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp91837-HP Elite x2 1013 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp91501-92000/sp91837.exe",
+      "size_bytes": 797301624,
+      "md5": "cc62781684ee19522a8e27ba40365671",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/6/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp102028-HP Elite x2 1013 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102028.exe",
+      "size_bytes": 823439688,
+      "md5": "62b4180f1ef22f961b42a79261e83394",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "3/18/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103620-HP Elite x2 1013 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103620.exe",
+      "size_bytes": 834431352,
+      "md5": "4387d1574719dd1d1208c541b9bd4b44",
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114207-HP Elite x2 1013 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114207.exe",
+      "size_bytes": 1328182936,
+      "md5": "8b26766c990119b0b6a7fce357d205b0",
+      "sha256": null,
+      "version": "12.00 A 1",
+      "release_date": "6/16/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

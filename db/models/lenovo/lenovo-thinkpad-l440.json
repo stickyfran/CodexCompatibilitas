@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-l440",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad L440",
+  "system_id": "20AT,20AS",
+  "dmi_matches": [
+    "20AT",
+    "20AS"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l440_l540_w1064_20160219.exe",
+      "size_bytes": null,
+      "md5": "110fe18702d984d74490fc7fb788e8a9",
+      "sha256": "3f1e212cf6257bcaf5e39c8e456c87c3194ac8f7044db5f157930445cd6b2f6a",
+      "version": null,
+      "release_date": "2015-10-30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

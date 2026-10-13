@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-7440-aio-06c5",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7440 AIO",
+  "system_id": "06C5",
+  "dmi_matches": [
+    "OptiPlex 7440 AIO",
+    "06C5"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-021PV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05295293M/1/7440 AIO-win10-A13-021PV.CAB",
+      "size_bytes": 668654554,
+      "md5": "79871645E51800EF2C4C0013AEB056A7",
+      "sha256": "82D895B04A776BA23FAC0455EACF5DB2BA450D8E23F1344A9ECA3BE5F102B765",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-V14PM",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05296971M/1/7440 AIO-win7-A13-V14PM.CAB",
+      "size_bytes": 848543908,
+      "md5": "190E8D416F574D6DB75C7C5B5C617639",
+      "sha256": "68CC12CD5915ACB5A563FAE1B9D6031AFD2B600F2E86D254D322E31FA3B174C3",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-CGRVW",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03797675M/1/7440 AIO-win8.1-A03-CGRVW.CAB",
+      "size_bytes": 473559799,
+      "md5": "07E152472B85BED0C896D891EF1A094D",
+      "sha256": "57DAF719DE2DAE868E9DF2D57986CB127A2633D24EE839AD4A9DAFA0A95B921B",
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

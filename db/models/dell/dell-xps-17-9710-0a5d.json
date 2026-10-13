@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-17-9710-0a5d",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 17 9710",
+  "system_id": "0A5D",
+  "dmi_matches": [
+    "XPS 17 9710",
+    "0A5D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-4KHFH",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10496427M/1/9710-4KHFH_Win10_1.0_A14.exe",
+      "size_bytes": 2088837968,
+      "md5": "8226C448640C61D476F63C46E713FD72",
+      "sha256": "22D840A77DD8379D6BACEF4F58F853B1FA662CD71F48ACEEBD92EF5665472BCF",
+      "version": null,
+      "release_date": "2023-10-10T04:04:50"
+    },
+    {
+      "name": "DellPack-0R0TF",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10496448M/1/9710-0R0TF_Win11_1.0_A12.exe",
+      "size_bytes": 2088840224,
+      "md5": "09FFF5BB1154F540D340374F39E76F24",
+      "sha256": "E1DF2A794C7E8EEDB4E223781F77424C2A3CF555164483B66FD5703AC1D50AC6",
+      "version": null,
+      "release_date": "2023-10-10T04:04:50"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

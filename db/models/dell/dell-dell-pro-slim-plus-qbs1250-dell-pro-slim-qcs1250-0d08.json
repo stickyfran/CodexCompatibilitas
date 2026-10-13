@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-slim-plus-qbs1250-dell-pro-slim-qcs1250-0d08",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+  "system_id": "0D08",
+  "dmi_matches": [
+    "Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+    "0D08"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-N8PHV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14271868M/1/QxS1250-N8PHV_Win10_1.0_A05.exe",
+      "size_bytes": 2862013752,
+      "md5": "9D005B7A4EF1B1B16DDCF31654805BC5",
+      "sha256": "7015BE864E9A36C1763DC62BE03C916A7A37D3489A4E92C523E0B21C774E7D7D",
+      "version": null,
+      "release_date": "2026-03-24T01:16:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

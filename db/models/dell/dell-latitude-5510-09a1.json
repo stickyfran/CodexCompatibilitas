@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5510-09a1",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5510",
+  "system_id": "09A1",
+  "dmi_matches": [
+    "Latitude 5510",
+    "09A1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0R8YR",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09534815M/1/5510-0R8YR_Win11_1.0_A01.exe",
+      "size_bytes": 2325025336,
+      "md5": "75763DF8CE1E4F6A9EBB103C31D2B751",
+      "sha256": "653E83FF7190E59185DC97D85512B33570ED1D92DEBA74C04D17651230FE2E82",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    },
+    {
+      "name": "DellPack-F7V34",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09534645M/1/5510-F7V34_Win10_1.0_A11.exe",
+      "size_bytes": 2330825208,
+      "md5": "4994ADB66724A5BF42DCB0075C7FC7C1",
+      "sha256": "EEA41479716F93C9727B6C707E0578776299A5373E06AAC1FE0459814C6B25DA",
+      "version": null,
+      "release_date": "2023-04-11T00:54:01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

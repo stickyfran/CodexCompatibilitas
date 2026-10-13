@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-vr-backpack-g2-8590",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP VR Backpack G2",
+  "system_id": "8590",
+  "dmi_matches": [
+    "8590",
+    "HP VR Backpack G2"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp96024-HP Z VR Backpack G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96024.exe",
+      "size_bytes": 457864576,
+      "md5": "49ef17eca4be032199e05c5305d3755c",
+      "sha256": null,
+      "version": "05.2019 A 1",
+      "release_date": "5/7/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100647-HP VR Backpack G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100647.exe",
+      "size_bytes": 1048514384,
+      "md5": "8c6fb2f0d08bb797b8acb896906154d2",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "12/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp105743-HP VR Backpack G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105743.exe",
+      "size_bytes": 531217664,
+      "md5": "957aff2955653a95b96efd39cfb770d5",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "7/7/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113140-HP VR Backpack G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113140.exe",
+      "size_bytes": 534713784,
+      "md5": "98cee5426349b5334cea02b1d5de6d25",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "3/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

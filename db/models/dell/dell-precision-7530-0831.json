@@ -1,0 +1,25 @@
+{
+  "id": "dell-precision-7530-0831",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7530",
+  "system_id": "0831",
+  "dmi_matches": [
+    "Precision 7530",
+    "0831"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-4PJ79",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07546243M/1/7530-win10-A13-4PJ79.CAB",
+      "size_bytes": 1804757959,
+      "md5": "060E8ED6AEC173D8525CC7DC818CE59C",
+      "sha256": "6BB3BAA579208B6D0A4041E8DE35FC21EFEE472ED4ACF16DD60EA39ACD368003",
+      "version": null,
+      "release_date": "2021-08-19T11:25:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

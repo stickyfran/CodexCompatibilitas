@@ -1,0 +1,65 @@
+{
+  "id": "lenovo-thinkpad-x12-detachable-gen-2-type-21lk-21ll",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X12 DETACHABLE Gen 2 Type 21LK 21LL",
+  "system_id": "21LL,21LK",
+  "dmi_matches": [
+    "21LL",
+    "21LK"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x12detachable_gen2_mt21lk-21ll_w1064_22h2_202608.exe",
+      "size_bytes": null,
+      "md5": "85935caa95a67ed4771977ef5e7b9ff1",
+      "sha256": "2afde28c2b601b992651f6d04f07b55f750d910ffef8be37a085ae38e558432c",
+      "version": null,
+      "release_date": "2026-08-12"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x12detachable_gen2_mt21lk-21ll_w11_22_202408.exe",
+      "size_bytes": null,
+      "md5": "954369c4289e1ddd9f80a9a9414e5581",
+      "sha256": "1c002f5214b80b4024fb80d5ea2e45f64e523df8b908f6d5682afb332980b181",
+      "version": null,
+      "release_date": "2024-08-14"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x12detachable_gen2_mt21lk-21ll_w11_23_202512.exe",
+      "size_bytes": null,
+      "md5": "806e424003efb1b545bbcba87e949725",
+      "sha256": "fae8841ad906aef6bff4af0cd86949b49bfa89679644fa2ffe9a07bc2681d34c",
+      "version": null,
+      "release_date": "2025-12-23"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x12detachable_gen2_mt21lk-21ll_w11_24_202608.exe",
+      "size_bytes": null,
+      "md5": "6ff5dd00164f3e3550fc1d9227c06d83",
+      "sha256": "ec852b1f179843cd6c5bcbf07f60a289f27107327227fdbbc682fa19a663bb4d",
+      "version": null,
+      "release_date": "2026-08-12"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x12detachable_gen2_mt21lk-21ll_w11_25_202608.exe",
+      "size_bytes": null,
+      "md5": "8d34716a7f873326113a1f759c148cf4",
+      "sha256": "ff7f01cae64b5a4ba5f3241235f167ab09b92e10f63a2d8cf4abc7a2216e3edf",
+      "version": null,
+      "release_date": "2026-08-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

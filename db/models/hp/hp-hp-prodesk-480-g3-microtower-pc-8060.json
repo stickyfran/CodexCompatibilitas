@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-prodesk-480-g3-microtower-pc-8060",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 480 G3 Microtower PC",
+  "system_id": "8060",
+  "dmi_matches": [
+    "8060",
+    "HP ProDesk 480 G3 Microtower PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp88958-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88958.exe",
+      "size_bytes": 947806080,
+      "md5": "2994960e336ea8714b0375c2585361a1",
+      "sha256": null,
+      "version": "13.0 A 1",
+      "release_date": "7/24/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp93539-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93501-94000/sp93539.exe",
+      "size_bytes": 1010426232,
+      "md5": "4b689f95c5a93c9179d183cb48cff59a",
+      "sha256": null,
+      "version": "15.0 A 1",
+      "release_date": "1/11/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

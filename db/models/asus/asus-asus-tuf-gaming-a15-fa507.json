@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-tuf-gaming-a15-fa507",
+  "vendor": "ASUS",
+  "family": "TUF Gaming",
+  "model_name": "Asus Tuf Gaming A15 Fa507",
+  "system_id": "FA507",
+  "dmi_matches": [
+    "FA507"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

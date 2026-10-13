@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7210-2-in-1-09ba",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7210 2-in-1",
+  "system_id": "09BA",
+  "dmi_matches": [
+    "Latitude 7210 2-in-1",
+    "09BA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KR7XH",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08820551M/1/7210-2-in-1-KR7XH_Win10_1.0_A12.exe",
+      "size_bytes": 1833452840,
+      "md5": "241E49D737F5BED7E7F7D3C325709300",
+      "sha256": "CE3C962D4639BBADF85A6B8EBFCE11D55787B47023F2B4EE3A428941856C6AE2",
+      "version": null,
+      "release_date": "2022-10-10T14:02:58"
+    },
+    {
+      "name": "DellPack-62H8D",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08742978M/1/7210-2-in-1-62H8D_Win11_1.0_A01.exe",
+      "size_bytes": 1798372936,
+      "md5": "F09F579F0A61FFD9E700649E00096D2B",
+      "sha256": "3F207F062ED86C3E6D5D35955C060111B8D6ACC050D191FFC4FDFFCB092D305C",
+      "version": null,
+      "release_date": "2022-07-11T14:48:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

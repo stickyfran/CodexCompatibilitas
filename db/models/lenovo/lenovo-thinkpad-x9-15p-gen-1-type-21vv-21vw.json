@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-x9-15p-gen-1-type-21vv-21vw",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X9-15P Gen 1 Type 21VV 21VW",
+  "system_id": "21VW,21VV",
+  "dmi_matches": [
+    "21VW",
+    "21VV"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x9-15p_gen1_mt21vw-21vv_w11_24h2_25h2_202607.exe",
+      "size_bytes": null,
+      "md5": "b557671a497a908a17958618a60bfd61",
+      "sha256": "776b7178c65be807a7f1e5cb52c8997b46062c0a390666abb062f17fb8e5398e",
+      "version": null,
+      "release_date": "2026-07-01"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x9-15p_gen1_mt21vw-21vv_w11_24h2_25h2_202607.exe",
+      "size_bytes": null,
+      "md5": "b557671a497a908a17958618a60bfd61",
+      "sha256": "776b7178c65be807a7f1e5cb52c8997b46062c0a390666abb062f17fb8e5398e",
+      "version": null,
+      "release_date": "2026-07-01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

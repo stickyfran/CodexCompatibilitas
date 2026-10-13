@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5490-aio-0a49",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5490 AIO",
+  "system_id": "0A49",
+  "dmi_matches": [
+    "OptiPlex 5490 AIO",
+    "0A49"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TV400",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10990698M/1/5490-AIO-TV400_Win10_1.0_A12.exe",
+      "size_bytes": 2478195232,
+      "md5": "D75623709354F25C517D8B43A45892D7",
+      "sha256": "2C36AF8BCB1C06A92465ED831DF474D902EE06762369821A1851C1F5920B1606",
+      "version": null,
+      "release_date": "2024-03-08T00:14:17"
+    },
+    {
+      "name": "DellPack-GV3NM",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10991028M/1/5490-AIO-GV3NM_Win11_1.0_A06.exe",
+      "size_bytes": 2478209680,
+      "md5": "0B43959F77AFC85508B91D4F13D74DD7",
+      "sha256": "59AD0502C6B269CEB143463DF5EAF7E35CCE8625A4EF350DA8162E6C0CD1A1D2",
+      "version": null,
+      "release_date": "2024-03-08T00:14:17"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

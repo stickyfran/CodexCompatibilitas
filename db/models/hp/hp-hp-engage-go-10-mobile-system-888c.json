@@ -1,0 +1,85 @@
+{
+  "id": "hp-hp-engage-go-10-mobile-system-888c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Go 10 Mobile System",
+  "system_id": "888c",
+  "dmi_matches": [
+    "888c",
+    "HP Engage Go 10 Mobile System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp144948-HP Engage Go 10 Mobile System IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144948.exe",
+      "size_bytes": 606096616,
+      "md5": "85cd81ec8dbd229d1d05ad5b2a3d0407",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "2/17/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142912-HP Engage Go 10 Mobile System Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142912.exe",
+      "size_bytes": 847136552,
+      "md5": "4b758e18092f4bce7206f0fcff85dfbc",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/29/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp144946-HP Engage Go 10 Mobile System Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144946.exe",
+      "size_bytes": 986054656,
+      "md5": "2124fd5ea5e9a64d39f972c44df6ff0a",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "2/17/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151781-HP Engage Go 10 Mobile System Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151781.exe",
+      "size_bytes": 1040300744,
+      "md5": "a56f5765cec64d0e504674dd8b4e60ef",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "3/15/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp144947-HP Engage Go 10 Mobile System IoT10 2021 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144947.exe",
+      "size_bytes": 927566720,
+      "md5": "710a8fe021e0cd30af131520a677f5a4",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/17/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158770-HP Engage Go 10 Mobile System Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158770.exe",
+      "size_bytes": 1421640136,
+      "md5": "D2D52CCFCDCDBB7A41CA2B49A1E1D414",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/12/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp170271-HP Engage Go 10 Mobile System Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170271.exe",
+      "size_bytes": 1568589848,
+      "md5": "97D14C9663BF759297CCD5F5CF810451",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/4/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

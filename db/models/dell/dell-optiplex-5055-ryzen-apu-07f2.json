@@ -1,0 +1,25 @@
+{
+  "id": "dell-optiplex-5055-ryzen-apu-07f2",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5055 Ryzen APU",
+  "system_id": "07F2",
+  "dmi_matches": [
+    "OptiPlex 5055 Ryzen APU",
+    "07F2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CCG9P",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05767062M/1/OptiPlex 5055 Ryzen APU-Win10-A04-CCG9P.CAB",
+      "size_bytes": 576777829,
+      "md5": "EB2E5428CCCA584F9033D4D5E3EAA7C4",
+      "sha256": "C8B540600C211F52779D273740CFEAD85C2E8F2A1D8C8799BCB2CE6608AA379B",
+      "version": null,
+      "release_date": "2019-10-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

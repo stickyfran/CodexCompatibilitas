@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-precision-7-14-pw714260-0db3",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Precision 7 14 PW714260",
+  "system_id": "0DB3",
+  "dmi_matches": [
+    "Dell Pro Precision 7 14 PW714260",
+    "0DB3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GP308",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14538040M/1/PW714260-GP308_Win11_1.0_A01.exe",
+      "size_bytes": 2663900760,
+      "md5": "4150845B4151DE62CD286FF099756E5F",
+      "sha256": "47759A3D8D9620FA72DBAB44164BAC51672D3512E7829A3C66CC74FC78AE6D85",
+      "version": null,
+      "release_date": "2026-05-26T02:31:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

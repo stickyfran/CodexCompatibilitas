@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-13-9360-082a",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9360",
+  "system_id": "082A",
+  "dmi_matches": [
+    "XPS 13 9360",
+    "082A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RTNJ7",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06104751M/1/9360-win10-A15-RTNJ7.CAB",
+      "size_bytes": 651217693,
+      "md5": "BC73660A14F0E094BC659A9A7F6275D4",
+      "sha256": "93C0DB237D43E68A7B8F0495CDA54893D4D73737417A3083ED6DA8E77399A581",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

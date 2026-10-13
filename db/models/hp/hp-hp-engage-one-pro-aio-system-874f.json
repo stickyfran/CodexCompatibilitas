@@ -1,0 +1,105 @@
+{
+  "id": "hp-hp-engage-one-pro-aio-system-874f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Pro AIO System",
+  "system_id": "874F",
+  "dmi_matches": [
+    "874F",
+    "HP Engage One Pro AIO System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp144689-HP Engage One Pro AIO G1 IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144689.exe",
+      "size_bytes": 591927640,
+      "md5": "d941e92ab67af7506221a86ef873369f",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "1/23/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp111578-HP Engage One Pro AIO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111578.exe",
+      "size_bytes": 468544152,
+      "md5": "1f78693d332a00b0d99bfe4bd9717fc6",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "12/10/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp142940-HP Engage One Pro AIO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142940.exe",
+      "size_bytes": 691109648,
+      "md5": "d47723e8d0416b448aed39497736eda5",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/30/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp144687-HP Engage One Pro AIO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144687.exe",
+      "size_bytes": 711633264,
+      "md5": "93bfd54100eb0626db69a6552bc317cf",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "1/20/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151310-HP Engage One Pro AIO Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151310.exe",
+      "size_bytes": 617779696,
+      "md5": "833c03541624bc6556fb0e91e4e2c853",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "2/5/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp144688-HP Engage One Pro AIO IoT10 2021 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144688.exe",
+      "size_bytes": 600490288,
+      "md5": "0a36c3740779f8fd383bdea31e25284e",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/23/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp157675-HP Engage One Pro AIO Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp157501-158000/sp157675.exe",
+      "size_bytes": 894175648,
+      "md5": "4C4398B094E1153CD26DEBF2BFCBEAAB",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "3/24/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp170248-HP Engage One Pro AIO Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170248.exe",
+      "size_bytes": 933360680,
+      "md5": "85803EC079DD89062CABD034B9D2D408",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/3/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp168524-HP Engage One Pro AIO Windows 11 IoT Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168501-169000/sp168524.exe",
+      "size_bytes": 933359904,
+      "md5": "62637A592B7E89F5AA35669CB532D08A",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "12/19/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

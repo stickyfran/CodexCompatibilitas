@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-x360-435-g8-notebook-pc-8886",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 435 G8 Notebook PC",
+  "system_id": "8886",
+  "dmi_matches": [
+    "8886",
+    "HP ProBook x360 435 G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp112708-HP ProBook x360 435 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112708.exe",
+      "size_bytes": 601408816,
+      "md5": "4d8e9853d778b6e3c7e9f258703011d1",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "2/22/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp113445-HP ProBook x360 435 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113445.exe",
+      "size_bytes": 1116679296,
+      "md5": "938ba1567f55d5256dcbe6f3b158cad9",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "4/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp147679-HP ProBook x360 435 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147679.exe",
+      "size_bytes": 929051944,
+      "md5": "177e71e02a7de43d38d1715daf9e9a4d",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "6/7/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp147680-HP ProBook x360 435 G8 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147680.exe",
+      "size_bytes": 934364800,
+      "md5": "03625def9176cc45cd149a921f02fe35",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/7/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

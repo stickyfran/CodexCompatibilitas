@@ -1,0 +1,66 @@
+{
+  "id": "hp-hp-zhan-66-pro-g1-notebook-pc-83fd",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro G1 Notebook PC",
+  "system_id": "83fd,8471",
+  "dmi_matches": [
+    "83fd",
+    "8471",
+    "HP ZHAN 66 Pro G1 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp90193-HP ZHAN 66 Pro G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90193.exe",
+      "size_bytes": 986174397,
+      "md5": "aa7cc5735809de57461a1dd8c5919b5c",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "7/31/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95461-HP ZHAN 66 Pro G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95461.exe",
+      "size_bytes": 798782224,
+      "md5": "165a3b2de62df0b79be8499e66d26de1",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp96289-HP ZHAN 66 Pro G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96289.exe",
+      "size_bytes": 809115856,
+      "md5": "0142a2335f69e31ed3e6d0790e94dee0",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/13/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100592-HP ZHAN 66 Pro G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100592.exe",
+      "size_bytes": 807097888,
+      "md5": "c233f6f5d79ec06f9191e3b4f92d6a72",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "12/9/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp114245-HP ZHAN 66 Pro G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114245.exe",
+      "size_bytes": 1407982088,
+      "md5": "604f0b0389475e404fa351eef3247053",
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

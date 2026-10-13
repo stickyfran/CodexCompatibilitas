@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-elite-x2-g8-tablet-870d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x2 G8 Tablet",
+  "system_id": "870D",
+  "dmi_matches": [
+    "870D",
+    "HP Elite x2 G8 Tablet"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp112840-HP Elite x2 G8 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112840.exe",
+      "size_bytes": 1515468264,
+      "md5": "9b1abecb13effe1aedeb252cf1cdbf1c",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "3/2/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp114219-HP Elite x2 G8 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114219.exe",
+      "size_bytes": 1299708424,
+      "md5": "4678f0fc0c704f138ff90cdfcbe09d8e",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/17/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp144956-HP Elite x2 G8 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144956.exe",
+      "size_bytes": 1263788968,
+      "md5": "c70036362aa1aaa467242026bb91c398",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "2/22/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149134-HP Elite x2 G8 Tablet Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149134.exe",
+      "size_bytes": 1081527392,
+      "md5": "bb4747ebe3a27ecc6c52c5e70514ad90",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/13/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151794-HP Elite x2 G8 Tablet Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151794.exe",
+      "size_bytes": 1109618856,
+      "md5": "3f49a1c531a0c3bb7319e89627157d71",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "5/14/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

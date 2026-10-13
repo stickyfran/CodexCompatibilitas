@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5070-0932",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5070",
+  "system_id": "0932",
+  "dmi_matches": [
+    "OptiPlex 5070",
+    "0932"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PPPRC",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08644752M/1/5070-PPPRC_Win10_1.0_A10.exe",
+      "size_bytes": 2525984736,
+      "md5": "C42A9A1B953D951B7F0AFDA92328E2D8",
+      "sha256": "40B7273E02D5497A2D9DBED3DDD3450F4D9B5A9D924880DCA048B25D48EAE0ED",
+      "version": null,
+      "release_date": "2022-06-13T14:57:24"
+    },
+    {
+      "name": "DellPack-NGX2F",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09082695M/1/5070-NGX2F_Win11_1.0_A00.exe",
+      "size_bytes": 2601288488,
+      "md5": "4DFC5BFEF64CC76D5D2D1028349ECBF0",
+      "sha256": "D0A4639B3B2E9DFDC11BF12C881E2EF7DF2D254C27636B654EF066CD6F6CB8A7",
+      "version": null,
+      "release_date": "2022-10-27T10:57:08"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

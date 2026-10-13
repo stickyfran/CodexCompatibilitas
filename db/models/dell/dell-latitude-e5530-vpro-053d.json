@@ -1,0 +1,65 @@
+{
+  "id": "dell-latitude-e5530-vpro-053d",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5530 vPro",
+  "system_id": "053D",
+  "dmi_matches": [
+    "Latitude E5530 vPro",
+    "053D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0740M",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03646873M/1/E5530-win10-A01-0740M.CAB",
+      "size_bytes": 468640536,
+      "md5": "D525041D666D152C9B173D54B9FD6807",
+      "sha256": "C4B122340FFED6D9EE97E7BE556E7D3C848A3E45B5D2563567246ADD9310941C",
+      "version": null,
+      "release_date": "2016-04-15T00:00:00"
+    },
+    {
+      "name": "DellPack-N58X1",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER03497122M/1/E5530-win7-A12-N58X1.CAB",
+      "size_bytes": 424736927,
+      "md5": "7FF4E3BA0CF3EB3933073615E20C7C57",
+      "sha256": "C3473C373B0081097E1CDFC0A3931019F863FB8912C602AC36365739FEE13519",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    },
+    {
+      "name": "DellPack-9G46F",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02610196M/1/E5530-win8.1-A03-9G46F.CAB",
+      "size_bytes": 446832379,
+      "md5": "05CC7AF388F460795DBE278833E3C980",
+      "sha256": "C870ECC8EB28D1B44A3ADBFBAF9C25BDD132F57D1B1C439D744254E5A572858C",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-FVFG7",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02581875M/1/E5530-win8-A05-FVFG7.CAB",
+      "size_bytes": 269907302,
+      "md5": "6135390ABE35C952FD1BB7BA4B9A9C7D",
+      "sha256": "C48B9C1C8FFFF881D8A4FCEB5E66D430493A4E721BF2E026FC69D46615804694",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-6VT88",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02098840M/1/E5530-xp-A06-6VT88.CAB",
+      "size_bytes": 69596962,
+      "md5": "727D8C1055F79B7B00D9A2A06B48C413",
+      "sha256": "A82A7BDE5DFC4C292E460FEAB23347D193C199AB59722FBF69F671521D90B14D",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

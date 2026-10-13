@@ -1,0 +1,27 @@
+{
+  "id": "hp-hp-elitedesk-800-g6-desktop-mini-pc-870f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G6 Desktop Mini PC",
+  "system_id": "870f,8711,8710",
+  "dmi_matches": [
+    "870f",
+    "8711",
+    "8710",
+    "HP EliteDesk 800 G6 Desktop Mini PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp143754-HP ElitePro 6/800 G6 SFF Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143501-144000/sp143754.exe",
+      "size_bytes": 1226001688,
+      "md5": "d5f2b06d204a514e0fd93fc6163004db",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "11/28/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

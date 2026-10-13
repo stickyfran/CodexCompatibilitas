@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-5491-0818",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5491",
+  "system_id": "0818",
+  "dmi_matches": [
+    "Latitude 5491",
+    "0818"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M714V",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07340652M/1/5491-win10-A13-M714V.CAB",
+      "size_bytes": 1293477191,
+      "md5": "5673AEC6CC3493A09FFB44B1B5B3325F",
+      "sha256": "05B1EBE3421786974E67D6C83C79E729A275A57C69028BBB191CEAA230930DC7",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,85 @@
+{
+  "id": "hp-hp-proone-600-g2-21.5-inch-touch-all-in-one-pc-805e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProOne 600 G2 21.5-inch Touch All-in-One PC",
+  "system_id": "805e",
+  "dmi_matches": [
+    "805e",
+    "HP ProOne 600 G2 21.5-inch Touch All-in-One PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp79203-HP ElitePro 600/800 G2 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79203.exe",
+      "size_bytes": 923155376,
+      "md5": "dddf0af739701d2e81c7095c7b1187a3",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "2/24/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp80306-HP ElitePro 600/800 G2 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80306.exe",
+      "size_bytes": 1036823336,
+      "md5": "ee95f68769edede6533127b2e95e14bb",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/31/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp85475-HP ElitePro 600/800 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp85001-85500/sp85475.exe",
+      "size_bytes": 1055770520,
+      "md5": "5e17c4c45835ea399b7320911687f319",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "2/20/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95331-HP ElitePro 600/800 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95331.exe",
+      "size_bytes": 616276760,
+      "md5": "da750a0a12c535376f919fd3e66446cf",
+      "sha256": null,
+      "version": "12.0 A 1",
+      "release_date": "3/12/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp96027-HP ElitePro 4/6/800 G2 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96027.exe",
+      "size_bytes": 785697008,
+      "md5": "a866ec67a09821919e6adca373d72ae8",
+      "sha256": null,
+      "version": "13.0 A 1",
+      "release_date": "5/1/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100850-HP ElitePro 600/800 G2 AiO Windows  10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100850.exe",
+      "size_bytes": 580069008,
+      "md5": "c5437f21ea20cab0e4b8de9f8bb3ef65",
+      "sha256": null,
+      "version": "14.0 A 1",
+      "release_date": "12/19/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp105920-HP ElitePro 600/800 G2 AiO Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105920.exe",
+      "size_bytes": 601163752,
+      "md5": "e43728b0c011e6b00ba0b3097d9620b7",
+      "sha256": null,
+      "version": "15.0 A 1",
+      "release_date": "7/5/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

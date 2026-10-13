@@ -1,0 +1,75 @@
+{
+  "id": "lenovo-thinkpad-x1-carbon-12th-gen-type-21kc-21kd",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Carbon 12TH Gen Type 21KC 21KD",
+  "system_id": "21KC,21KD",
+  "dmi_matches": [
+    "21KC",
+    "21KD"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21kc-21kd-x1_2-in-1_mt21ke-21kf_w1064_21h2_202512.exe",
+      "size_bytes": null,
+      "md5": "3009123c4fc78fcea97e178da2131752",
+      "sha256": "811de882f44ea0adb03b3c83e8efc11ac09b23e2a8867b6e4e48bc70002b3449",
+      "version": null,
+      "release_date": "2025-12-23"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21kc-21kd-x1_2-in-1_mt21ke-21kf_w1064_22h2_202512.exe",
+      "size_bytes": null,
+      "md5": "3501c31e52a0c06426307e60caa0373f",
+      "sha256": "2c421699f1ae88bfa5805b69a6df0471580582d0b6e31054dd8fd4c10650c3c8",
+      "version": null,
+      "release_date": "2025-12-23"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21kc-21kd-x1_2-in-1_mt21ke-21kf_w11_22_202408.exe",
+      "size_bytes": null,
+      "md5": "2539d95187248576632e04785bd27042",
+      "sha256": "7d20f24ffbe730415b9874a380bfc5b586da589a6c39185df8347bce5e382894",
+      "version": null,
+      "release_date": "2024-08-14"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21kc-21kd-x1_2-in-1_mt21ke-21kf_w11_23_202508.exe",
+      "size_bytes": null,
+      "md5": "d38fc7f65473bf80e6dcdaddd9c9d66d",
+      "sha256": "e98f3e89f9ff32cfa7bf234d57f49e723cee76a78e72aea0ba5f2abb51204351",
+      "version": null,
+      "release_date": "2025-08-25"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21kc-21kd-x1_2-in-1_mt21ke-21kf_w11_24_202512.exe",
+      "size_bytes": null,
+      "md5": "cbf21633a62e4ee05d3b67cf8c75bb2c",
+      "sha256": "e26a2d9c5b796555d45ead14f19bcaf22c55135d6c0d8a69d89665c8fec4c666",
+      "version": null,
+      "release_date": "2025-12-23"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21kc-21kd-x1_2-in-1_mt21ke-21kf_w11_25_202512.exe",
+      "size_bytes": null,
+      "md5": "c63498a2c36d01488757a58465621928",
+      "sha256": "263c930244cb2435d58b6051bfb4c1c59d0137617540f6ff44f698850542590a",
+      "version": null,
+      "release_date": "2025-12-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

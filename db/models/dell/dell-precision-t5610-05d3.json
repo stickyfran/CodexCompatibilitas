@@ -1,0 +1,55 @@
+{
+  "id": "dell-precision-t5610-05d3",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T5610",
+  "system_id": "05D3",
+  "dmi_matches": [
+    "Precision T5610",
+    "05D3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CPKF3",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04900748M/1/T5610-win10-A04-CPKF3.CAB",
+      "size_bytes": 1012716898,
+      "md5": "2FAE5F0A19D07527F7FBBDDE899D46F7",
+      "sha256": "59AF865C0A50843062BFF05FB8473EDF0F4111E438083661905901C18A299CED",
+      "version": null,
+      "release_date": "2018-04-16T00:00:00"
+    },
+    {
+      "name": "DellPack-86RDX",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04901772M/1/T5610-win7-A09-86RDX.CAB",
+      "size_bytes": 735305727,
+      "md5": "ED6A9207624228EDDBAA6838BE2F41DB",
+      "sha256": "4730106B86E0B8D0BAB36EEBF2CDA8CD281A84A36EB8E5DA13AA28E0B4A83379",
+      "version": null,
+      "release_date": "2018-04-16T00:00:00"
+    },
+    {
+      "name": "DellPack-KPWFY",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03488800M/1/T5610-win8.1-A05-KPWFY.CAB",
+      "size_bytes": 819335050,
+      "md5": "CF6D1CEFC082BE5E40A353A275CB71C2",
+      "sha256": "731BB0B43F5E9EC47A59AF3CABB4BBDBFA65013EA19CDAEEA80E2626D2A0D846",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-5H93P",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02632425M/1/T5610-win8-A04-5H93P.CAB",
+      "size_bytes": 625604865,
+      "md5": "BEE8893BB2B96E78576FF2631676F3FE",
+      "sha256": "E57371F7257888CC8F5DE25E45E7682095F7C6C68BF5BAAEF981C575BB5403C7",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

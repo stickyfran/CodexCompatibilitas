@@ -1,0 +1,25 @@
+{
+  "id": "dell-optiplex-7760-aio-084d",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7760 AIO",
+  "system_id": "084D",
+  "dmi_matches": [
+    "OptiPlex 7760 AIO",
+    "084D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TCNTX",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07333584M/1/7760 AIO-win10-A12-TCNTX.CAB",
+      "size_bytes": 980414003,
+      "md5": "E452017CD80FEBFB77438A2B3C6DBB2E",
+      "sha256": "3EFB3636EB02D00C9EA74E869CF6EE3CAD4A6884CEB669880F10A6FED5F72FD9",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

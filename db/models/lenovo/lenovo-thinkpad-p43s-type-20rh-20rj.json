@@ -1,0 +1,145 @@
+{
+  "id": "lenovo-thinkpad-p43s-type-20rh-20rj",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P43S Type 20RH 20RJ",
+  "system_id": "20RH,20RJ",
+  "dmi_matches": [
+    "20RH",
+    "20RJ"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p53s_p43s_w1064_1709_201909.exe",
+      "size_bytes": null,
+      "md5": "72bc7b6bea33831ffcddc53ef3a22519",
+      "sha256": "62a7aecb1a719438ab2eb71114a0efb4dc6772feae21a0ded0515aedb6266845",
+      "version": null,
+      "release_date": "2019-11-11"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p53s_p43s_w1064_1803_201909.exe",
+      "size_bytes": null,
+      "md5": "256cf4aa10ee96c17134cb20bd786568",
+      "sha256": "ad7be6a089a1a7501bc83c01fc72eed0df52630a0b1443416be13281dde6e140",
+      "version": null,
+      "release_date": "2019-11-01"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_1809_202003.exe",
+      "size_bytes": null,
+      "md5": "19b2ece7ac4bc82c652dee7ed300b275",
+      "sha256": "cc8730bbd1944f0366c9465b9bf333e685caa92c6065876c66795f8bda56cb34",
+      "version": null,
+      "release_date": "2020-03-27"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_1903_202009.exe",
+      "size_bytes": null,
+      "md5": "8160ceb1f1f8eb971c0023688c02ff2c",
+      "sha256": "a1e8540addbd3e5cf364040305d86abf4dc3b795cffe8889efdba98cc5b3842d",
+      "version": null,
+      "release_date": "2020-10-06"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_1909_202011.exe",
+      "size_bytes": null,
+      "md5": "738fb9e1f389b8a8c248802ec70fed81",
+      "sha256": "08de4c8a2576bf6aade4155019dbfcb6b713d9dc94b3918af5278660e58c545b",
+      "version": null,
+      "release_date": "2021-01-13"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_2004_202011.exe",
+      "size_bytes": null,
+      "md5": "b6473016235c619453828b7af951ce49",
+      "sha256": "38645c3006db3712fa6cc3bac7965ddc89c51de99d3843e9fc9f962c85e26073",
+      "version": null,
+      "release_date": "2024-02-06"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_20h2_202011.exe",
+      "size_bytes": null,
+      "md5": "e9b43637e2e08d00770076cf3b1a91f1",
+      "sha256": "970691b3e8084c92380e0ecf94e6cd1688467ce39626640a5a62a07325e467f9",
+      "version": null,
+      "release_date": "2021-01-13"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_21h1_202105.exe",
+      "size_bytes": null,
+      "md5": "8cfecab94de931f3197764916e2d0145",
+      "sha256": "046714d09a82b0449663a7490b2f77f30da445ecfd0e61e0b50f6ba84cc8243f",
+      "version": null,
+      "release_date": "2021-05-26"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_21h2_202201.exe",
+      "size_bytes": null,
+      "md5": "7e75750b663189f2c7faf77958cda88f",
+      "sha256": "b193cd44d0dbab277a9538f029bc2afcdaed7672d73fc78a374ab25efbdfb6cf",
+      "version": null,
+      "release_date": "2022-02-28"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w1064_22h2_202302.exe",
+      "size_bytes": null,
+      "md5": "7a7e59e2172d14a2b7b55bee18d19003",
+      "sha256": "04bbb416135e9193bf5f38a5af610684054ebe18f27727a3e63d602a5626ec04",
+      "version": null,
+      "release_date": "2023-03-23"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w11_21_202110.exe",
+      "size_bytes": null,
+      "md5": "54cd386ea83f907d4c6ae33e6d0513dd",
+      "sha256": "1c761711171b2552d1e928fa825c11c3ee24adffbc0697de04c2ba1d60e2e4b9",
+      "version": null,
+      "release_date": "2021-11-05"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w11_22_202210.exe",
+      "size_bytes": null,
+      "md5": "8c052c29d290bc9f67b568db611998cd",
+      "sha256": "7fcf58aecf80bbf6ddef741c896567c43ad86394a2d66806aa0030a24cf5b6ce",
+      "version": null,
+      "release_date": "2022-11-08"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t490_t590_p43s_p53s_w11_22_202210.exe",
+      "size_bytes": null,
+      "md5": "8c052c29d290bc9f67b568db611998cd",
+      "sha256": "7fcf58aecf80bbf6ddef741c896567c43ad86394a2d66806aa0030a24cf5b6ce",
+      "version": null,
+      "release_date": "2022-11-08"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

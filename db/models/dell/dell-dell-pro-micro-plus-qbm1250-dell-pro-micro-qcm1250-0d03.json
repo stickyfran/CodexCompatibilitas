@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-micro-plus-qbm1250-dell-pro-micro-qcm1250-0d03",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250",
+  "system_id": "0D03",
+  "dmi_matches": [
+    "Dell Pro Micro Plus QBM1250/Dell Pro Micro QCM1250",
+    "0D03"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XKDPF",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14649095M/1/QxM1250-XKDPF_Win10_1.0_A07.exe",
+      "size_bytes": 2711777096,
+      "md5": "33B7093CE16279A311A5D7BDAEF6935D",
+      "sha256": "1300CBB2184B2E5446D822B3FF72F1178B242A64472159D3C4B6DE49243ED98F",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    },
+    {
+      "name": "DellPack-JHY83",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14649097M/1/QxM1250-JHY83_Win11_1.0_A07.exe",
+      "size_bytes": 2768963312,
+      "md5": "C837AD876DB65366180AFDF8720A92AB",
+      "sha256": "0E00F7111D055455C9748CF7E82997184FEB260BF6B24CFEE91618EB03AFEF4D",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

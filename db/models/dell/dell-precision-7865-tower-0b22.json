@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7865-tower-0b22",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7865 Tower",
+  "system_id": "0B22",
+  "dmi_matches": [
+    "Precision 7865 Tower",
+    "0B22"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WKWC0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12880228M/1/Precision-7865-Tower-WKWC0_Win10_1.0_A08.exe",
+      "size_bytes": 3728977504,
+      "md5": "6708AFAAD717DBCC8459136BBE356FAD",
+      "sha256": "081F094B3DF77FDE393CB4FC23899F63BEB13940DE37AF124A20C755CF2547C5",
+      "version": null,
+      "release_date": "2025-05-12T06:18:30"
+    },
+    {
+      "name": "DellPack-TCHPV",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12880229M/1/Precision-7865-Tower-TCHPV_Win11_1.0_A08.exe",
+      "size_bytes": 3705993048,
+      "md5": "D16148EDCFDC9F6015C337AC2B91A155",
+      "sha256": "2001AFE87032A9562ACF3258D42948FE88BC50DEC88EDE1C5486ACA54902B8B2",
+      "version": null,
+      "release_date": "2025-05-12T06:18:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

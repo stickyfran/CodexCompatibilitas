@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-x140e",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X140E",
+  "system_id": "20BL,20BM",
+  "dmi_matches": [
+    "20BL",
+    "20BM"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x140e_w1064_201509.exe",
+      "size_bytes": null,
+      "md5": "541f097f5926eb4597a2b6ed73282e30",
+      "sha256": "bc6ed7d518a1afbfdc5237fb61ffb8caa409418560bcfbc3e1fc8417d9786bc5",
+      "version": null,
+      "release_date": "2015-09-16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

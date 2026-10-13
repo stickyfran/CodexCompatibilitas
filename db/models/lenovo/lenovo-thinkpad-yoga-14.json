@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-yoga-14",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad Yoga 14",
+  "system_id": "20DN,20DM",
+  "dmi_matches": [
+    "20DN",
+    "20DM"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s3-yoga14-yoga460-yogap40_w1064_1909_202003.exe",
+      "size_bytes": null,
+      "md5": "1ae30cba5c3155beb146642efb6bc3d9",
+      "sha256": "8600e85841976ae83feefa2d6354b6b45f8906a7f830e1ce4ba958c2f88b5ac8",
+      "version": null,
+      "release_date": "2020-03-13"
+    },
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s3-yoga14-yoga460-yogap40_w1064_201906.exe",
+      "size_bytes": null,
+      "md5": "6fac6a224b9dc42af0ee7f6427871aaa",
+      "sha256": "c2463d3a60f04ee3ec53d6dce8c22190057d0bafa630d8717f4500060e9384c6",
+      "version": null,
+      "release_date": "2019-07-05"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

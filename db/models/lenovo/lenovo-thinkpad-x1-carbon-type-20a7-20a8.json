@@ -1,0 +1,45 @@
+{
+  "id": "lenovo-thinkpad-x1-carbon-type-20a7-20a8",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Carbon Type 20A7 20A8",
+  "system_id": "20A8,20A7",
+  "dmi_matches": [
+    "20A8",
+    "20A7"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20a7-20a8_w1064_201611.exe",
+      "size_bytes": null,
+      "md5": "048081903197480f37a1fae9a304a705",
+      "sha256": "ce4477ce05cd134bb842dee6b3293b184588906c7836c10ba48c49ed9d736a66",
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20a7-20a8_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "5a8a7a2a7e623d7539caa3a837c47556",
+      "sha256": "2ff0476681931f016f0db173ca1e89bbd23786d02f9e14a1338b507f2862009a",
+      "version": null,
+      "release_date": "2018-07-27"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20a7-20a8_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": "5c28f97ba098fbcbf844fc8316a37109",
+      "sha256": "3053064d93d1deb387c085aca710fb7eb237ee68fabbaccad1627fe262706012",
+      "version": null,
+      "release_date": "2018-10-30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

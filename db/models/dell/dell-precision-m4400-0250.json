@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-m4400-0250",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M4400",
+  "system_id": "0250",
+  "dmi_matches": [
+    "Precision M4400",
+    "0250"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y72R6",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02291195M/1/M4400-vista-A03-Y72R6.CAB",
+      "size_bytes": 177525385,
+      "md5": "F79CD00F68C961916154F048AD12E27D",
+      "sha256": "7E9E19D6A9587FBFB5F0F895E3A6F19791AAADC65720BF3BCC5E89E7DF4A25B1",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-WC70W",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02241822M/1/M4400-Win7-A01-WC70W.CAB",
+      "size_bytes": 327967901,
+      "md5": "E4F9458431704217BD7134A3E533A12D",
+      "sha256": "22A556F5F1395E780E8DAB20F8268CED487C199561423526EBB25497071CCA1D",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-C90JR",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02239330M/1/M4400-xp-A03-C90JR.CAB",
+      "size_bytes": 254860671,
+      "md5": "54849761F22462588C557EFEAC116FA8",
+      "sha256": "FF8EBBF69AF1B6609FEB485EF4E3885B2C9307A5737FAE22BF48559C338234D4",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

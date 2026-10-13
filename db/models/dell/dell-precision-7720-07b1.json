@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-7720-07b1",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7720",
+  "system_id": "07B1",
+  "dmi_matches": [
+    "Precision 7720",
+    "07B1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XHT1M",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06179464M/1/7720-win10-A12-XHT1M.CAB",
+      "size_bytes": 1352037849,
+      "md5": "2ED06413F7FD372EB018D20F3F796ADD",
+      "sha256": "489B69BDA03B528196E6D46BED99F1915E51B4CB8A53DB11172B1FE836DA9C2F",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-7CY9K",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER06309421M/1/7720-win7-A11-7CY9K.CAB",
+      "size_bytes": 1000694736,
+      "md5": "E0A01A1E3C2423AA8C360D9D7F8D934C",
+      "sha256": "FCFC40D999534BD53F69ECD8CD21022C824ED123C6520B2137A91C866D314520",
+      "version": null,
+      "release_date": "2020-06-23T00:00:00"
+    },
+    {
+      "name": "DellPack-2H6CX",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04628528M/1/7720-Win8.1-A01-2H6CX.CAB",
+      "size_bytes": 725950220,
+      "md5": "4EB7619FEF118FBA490BA3430AB84226",
+      "sha256": "BA6E30C2C76CEEAA95053AD253CBD5FBCB463EA614A9A47A300E7BC4B7B11A9D",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7340-0c09",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7340",
+  "system_id": "0C09",
+  "dmi_matches": [
+    "Latitude 7340",
+    "0C09"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PVTT7",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13725473M/1/Latitude-7340-PVTT7_Win10_1.0_A12.exe",
+      "size_bytes": 1306452048,
+      "md5": "3647CF40D33088DE9522F7EFCA8C4C3E",
+      "sha256": "6BBB2024C1E86BE1E2D29B0157B615E5780A203AE79B7D7BAB6EDD36C522C1C3",
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    },
+    {
+      "name": "DellPack-MVFK6",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14364013M/1/Latitude-7340-MVFK6_Win11_1.0_A13.exe",
+      "size_bytes": 2099781056,
+      "md5": "88150E139AFE7DDDEDE41A575BD61209",
+      "sha256": "40A98067F7334EC0DD6C80DC9A11017C36F0501CC0A43C2AE2871D914AD8F208",
+      "version": null,
+      "release_date": "2026-05-14T01:40:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

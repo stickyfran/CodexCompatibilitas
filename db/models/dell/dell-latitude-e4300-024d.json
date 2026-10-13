@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e4300-024d",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E4300",
+  "system_id": "024D",
+  "dmi_matches": [
+    "Latitude E4300",
+    "024D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JYYNV",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02087452M/1/E4300-vista-A03-JYYNV.CAB",
+      "size_bytes": 187577336,
+      "md5": "D5B88FE56CB88D0F47D295F5F6496D64",
+      "sha256": "C86901E634E1A8B28CCFD0414BADFE33FE14808A6463C362A8A123109ED63B53",
+      "version": null,
+      "release_date": "2014-04-02T00:00:00"
+    },
+    {
+      "name": "DellPack-XH15D",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02055109M/1/E4300-win7-A06-XH15D.CAB",
+      "size_bytes": 195909612,
+      "md5": "1E3C0D8CC203BFB3F98B82F50D62FA0A",
+      "sha256": "BCCD7875D0043FD2B7D37D652B94AF05101C86118C81C95A9F317B8A69A2B289",
+      "version": null,
+      "release_date": "2014-04-02T00:00:00"
+    },
+    {
+      "name": "DellPack-NJ8X8",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02054662M/1/E4300-xp-A06-NJ8X8.CAB",
+      "size_bytes": 133094707,
+      "md5": "BEE25532CE3055D0805A9628F1E4A580",
+      "sha256": "873BF4D05343B83F16D4442AAFDAD5B122459129611276903503FC925FB51A64",
+      "version": null,
+      "release_date": "2014-04-02T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

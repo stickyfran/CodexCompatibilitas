@@ -1,0 +1,56 @@
+{
+  "id": "hp-hp-elitedesk-705-g5-small-form-factor-pc-8618",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G5 Small Form Factor PC",
+  "system_id": "8618,8617",
+  "dmi_matches": [
+    "8618",
+    "8617",
+    "HP EliteDesk 705 G5 Small Form Factor PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp101928-HP EliteDesk 705 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101928.exe",
+      "size_bytes": 727977256,
+      "md5": "769c3fadd37e54d3dc66f05179b7c628",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "3/30/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110346-HP EliteDesk 705 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110346.exe",
+      "size_bytes": 1011446368,
+      "md5": "913c8e25162c9c2aad21a330bba5d467",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "10/5/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112583-HP EliteDesk 705 G5 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112583.exe",
+      "size_bytes": 901612064,
+      "md5": "e80a9b516cb962e39e7be47f49e36793",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "2/1/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp114220-HP EliteDesk 705 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114220.exe",
+      "size_bytes": 948192024,
+      "md5": "4ca290b99b969696161be89619ca5a64",
+      "sha256": null,
+      "version": "12.0 A 1",
+      "release_date": "6/17/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

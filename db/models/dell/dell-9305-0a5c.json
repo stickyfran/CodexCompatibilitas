@@ -1,0 +1,35 @@
+{
+  "id": "dell-9305-0a5c",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "9305",
+  "system_id": "0A5C",
+  "dmi_matches": [
+    "9305",
+    "0A5C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RKY3K",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11755820M/1/9305-RKY3K_Win11_1.0_A13.exe",
+      "size_bytes": 1377657872,
+      "md5": "1CD65B7BE1E0D2A781874D06CB2A2983",
+      "sha256": "2A143CAE5743E1DA1E58A305615DA858F88B0FC21484766D029F2D3C45B446FE",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-VC8TH",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11755793M/1/9305-VC8TH_Win10_1.0_A16.exe",
+      "size_bytes": 1377378392,
+      "md5": "FAFE6555BE5EA81427E610BB03579032",
+      "sha256": "0A6F98A60BB340C3EDB82BA62FE45DE90E43DD3F6EB76FBEFDC08E415A2D3C55",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

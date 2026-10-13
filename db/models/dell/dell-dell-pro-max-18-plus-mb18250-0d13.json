@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-max-18-plus-mb18250-0d13",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max 18 Plus MB18250",
+  "system_id": "0D13",
+  "dmi_matches": [
+    "Dell Pro Max 18 Plus MB18250",
+    "0D13"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HYH51",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14498020M/1/MB18250-HYH51_Win10_1.0_A05.exe",
+      "size_bytes": 2313784600,
+      "md5": "7CBF214FC07C20889BD740B6EE039E85",
+      "sha256": "B09A5D9B7CFBE7861608345BD0EF14A8B674F151116C512A1A30F2090B9955DE",
+      "version": null,
+      "release_date": "2026-05-14T01:40:30"
+    },
+    {
+      "name": "DellPack-J0TYF",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14697491M/1/MB18250-J0TYF_Win11_1.0_A06.exe",
+      "size_bytes": 2281408880,
+      "md5": "F884C794BA2CEC11AFD4A2FC88041D0F",
+      "sha256": "91DCB5A91360F7E5B8F946BCE9A2E5A12E918EFD64668F4B219976FA6FBCDDE5",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

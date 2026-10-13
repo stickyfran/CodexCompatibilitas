@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-st-050b",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude ST",
+  "system_id": "050B",
+  "dmi_matches": [
+    "Latitude ST",
+    "050B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-98DM2",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER02163932M/1/ST-win7-A06-98DM2.CAB",
+      "size_bytes": 47005536,
+      "md5": "A553F5CE6A98C9660533DC8308E7AE25",
+      "sha256": "A855F9A7CFB2F51FB0E1723801537391FB676A24ECC6A8C56F6FBA3175CCE155",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elitebook-630-13.3-inch-g11-notebook-pc-8c85",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 630 13.3 inch G11 Notebook PC",
+  "system_id": "8C85",
+  "dmi_matches": [
+    "8C85",
+    "HP EliteBook 630 13.3 inch G11 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp164397-HP Pro/EliteBook 4x0/6x0 G11 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp164001-164500/sp164397.exe",
+      "size_bytes": 2427362408,
+      "md5": "9C2FB3DD2A35D543DCD2AC59B949C266",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/1/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp153107-HP Pro/EliteBook 4x0/6x0 G11 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp153001-153500/sp153107.exe",
+      "size_bytes": 1864770336,
+      "md5": "fa21951b2bbf262cb7e026e28af2517c",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/27/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp174517-HP Pro/EliteBook 4x0/6x0 G11 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174517.exe",
+      "size_bytes": 2548607000,
+      "md5": "FA7067E23134772CB3E85E9D67C1AAF3",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "9/1/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

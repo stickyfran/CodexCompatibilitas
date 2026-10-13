@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-3046-079b",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3046",
+  "system_id": "079B",
+  "dmi_matches": [
+    "OptiPlex 3046",
+    "079B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9D81J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05332970M/1/3046-win10-A09-9D81J.CAB",
+      "size_bytes": 718547066,
+      "md5": "6ECEB4321D63476ADF89F6340AA689A7",
+      "sha256": "62AC7768581D696A873A30AC686B137A441E64353006C3E51E20888628FFCEAE",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-FP90V",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05332985M/1/3046-win7-A09-FP90V.CAB",
+      "size_bytes": 1176587333,
+      "md5": "E3E33274DD2236C65FC303CE6796C0DF",
+      "sha256": "8B9FA4AD9E7E0E1683145B95586E3BE1B1B978C7E77DC308545F3F19739E822E",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-Y4VMT",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03664556M/1/3046-win8.1-A00-Y4VMT.CAB",
+      "size_bytes": 577320872,
+      "md5": "30A59F9B931D91A61BA0FA8DE5145B2A",
+      "sha256": "38FEC5D7A155B0E1B0A2D173BBFAFA81F613D08A83E16E7EFC7F1D5E26E2B4CC",
+      "version": null,
+      "release_date": "2016-06-21T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

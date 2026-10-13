@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-z1-all-in-one-g3-workstation-8115",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 All-in-One G3 Workstation",
+  "system_id": "8115",
+  "dmi_matches": [
+    "8115",
+    "HP Z1 All-in-One G3 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp79263-HP Z1G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79263.exe",
+      "size_bytes": 500656024,
+      "md5": "f148ce1463b6741be492a1669890bd1b",
+      "sha256": null,
+      "version": "01.2017 A 2",
+      "release_date": "3/7/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp80814-HP Z1G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80501-81000/sp80814.exe",
+      "size_bytes": 556709816,
+      "md5": "9d5ec732d153effd993e29c54432cb87",
+      "sha256": null,
+      "version": "07.2017 B 1",
+      "release_date": "7/11/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp78583-HP Z1G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp78501-79000/sp78583.exe",
+      "size_bytes": 500654016,
+      "md5": "3d4c980bfdb74957fcf9b2e7930bac51",
+      "sha256": null,
+      "version": "01.2017 A 1",
+      "release_date": "1/11/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,46 @@
+{
+  "id": "hp-hp-zbook-firefly-14-inch-g9-mobile-workstation-pc-896d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 14 inch G9 Mobile Workstation PC",
+  "system_id": "896d,8abb",
+  "dmi_matches": [
+    "896d",
+    "8abb",
+    "HP ZBook Firefly 14 inch G9 Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp144912-HP EB 8x0 1040 ZB G9 MWS Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144912.exe",
+      "size_bytes": 2507886208,
+      "md5": "d6e501602e579038895e0ca54ecc1301",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp150834-HP EB 8x0 1040 ZB G9 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150834.exe",
+      "size_bytes": 1602532416,
+      "md5": "18a815ee31e9e64be60c02fa7f699e9a",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/15/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp155095-HP EB 8x0 1040 ZB G9 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155001-155500/sp155095.exe",
+      "size_bytes": 2088474584,
+      "md5": "BEEBB93DBD4FF71B410CFCB0B132C85C",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "11/21/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

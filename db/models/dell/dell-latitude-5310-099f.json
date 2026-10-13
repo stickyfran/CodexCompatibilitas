@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5310-099f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5310",
+  "system_id": "099F",
+  "dmi_matches": [
+    "Latitude 5310",
+    "099F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YTVMK",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09526670M/1/5310-YTVMK_Win10_1.0_A13.exe",
+      "size_bytes": 1709406456,
+      "md5": "774EC6FE8330D8D59F81746FBDE4515D",
+      "sha256": "3CC9F8AE31E9C6F3E44E9183F7D5C4A0616043D4AA6E68A84A1BF012985211AF",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    },
+    {
+      "name": "DellPack-H0X0J",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09526666M/1/5310-H0X0J_Win11_1.0_A02.exe",
+      "size_bytes": 1710189224,
+      "md5": "AFAF950EBC5BD842EDDBBAC485E07B29",
+      "sha256": "BF83AC0C65F213131E804F9768FB242215D0064F41E50E14F62A4F939ADBDF3B",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-5-14-p514265-0e69",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 5 14 P514265",
+  "system_id": "0E69",
+  "dmi_matches": [
+    "Dell Pro 5 14 P514265",
+    "0E69"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5D0VR",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14857362M/1/P514265-5D0VR_Win11_1.0_A01.exe",
+      "size_bytes": 1057109728,
+      "md5": "DEEC113D21CC08A441609D8186A317AE",
+      "sha256": "6CF3197068C6B8B13D965064D31C851C049287E8EE099EB54C103B590B650F97",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

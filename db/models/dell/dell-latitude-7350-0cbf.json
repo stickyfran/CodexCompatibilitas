@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7350-0cbf",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7350",
+  "system_id": "0CBF",
+  "dmi_matches": [
+    "Latitude 7350",
+    "0CBF"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XY64P",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14137324M/1/Latitude-7350-XY64P_Win10_1.0_A09.exe",
+      "size_bytes": 2109638472,
+      "md5": "4459766870C8E395EAC3101CF6B46B60",
+      "sha256": "3BADD36805C8932CAE993F946616041F21ECBD0B589F9BCE70D8510C1844E78D",
+      "version": null,
+      "release_date": "2026-02-05T03:36:06"
+    },
+    {
+      "name": "DellPack-4CRFW",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14509408M/1/Latitude-7350-4CRFW_Win11_1.0_A10.exe",
+      "size_bytes": 1980805920,
+      "md5": "673CC116F8A5A152B4EB4A828EF44D09",
+      "sha256": "5E3FBCAAE0AFF9F6D9F96357399D9D9A86D586FDDF7604F8FBBBA20AD7BCC9EA",
+      "version": null,
+      "release_date": "2026-09-22T02:46:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

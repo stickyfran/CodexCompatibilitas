@@ -1,0 +1,25 @@
+{
+  "id": "dell-precision-3430-0861",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3430",
+  "system_id": "0861",
+  "dmi_matches": [
+    "Precision 3430",
+    "0861"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GH0FV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07167657M/1/3430-win10-A09-GH0FV.CAB",
+      "size_bytes": 1208625808,
+      "md5": "EFBDCA4859A77652E602FB4385EF847F",
+      "sha256": "2A34577A3ABF1C01ED2AB361EC414B115547F8C68494C0425B2D9985B252B244",
+      "version": null,
+      "release_date": "2021-05-05T02:31:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

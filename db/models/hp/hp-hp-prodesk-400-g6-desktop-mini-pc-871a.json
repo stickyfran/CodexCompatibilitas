@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-prodesk-400-g6-desktop-mini-pc-871a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G6 Desktop Mini PC",
+  "system_id": "871a",
+  "dmi_matches": [
+    "871a",
+    "HP ProDesk 400 G6 Desktop Mini PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp105836-HP ElitePro 4/6/800 G6 DM/SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105836.exe",
+      "size_bytes": 409501336,
+      "md5": "35304ed331018a2639886ac40ef8edaa",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/3/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112401-HP ElitePro 4/6/800 G6 DM Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112401.exe",
+      "size_bytes": 1498481472,
+      "md5": "7ecbd0fdd4a7374c3d5419328fa58c9f",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/20/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp144615-HP ElitePro 4/6/800 G6 Desktop Mini Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144615.exe",
+      "size_bytes": 1420438408,
+      "md5": "a46b65335542b7f32bb28a36ca5e2690",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

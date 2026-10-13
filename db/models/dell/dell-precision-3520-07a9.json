@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-3520-07a9",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3520",
+  "system_id": "07A9",
+  "dmi_matches": [
+    "Precision 3520",
+    "07A9"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-F2C2V",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06179551M/1/3520-win10-A13-F2C2V.CAB",
+      "size_bytes": 1408022207,
+      "md5": "F00C2D8B0557E7D55BF6EF541354DA21",
+      "sha256": "62A585C5342A09E6A94A00344B34820241AB7C8F0831E84F773C620C96F4B1FE",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-YHVN0",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER06180189M/1/3520-Win7-A10-YHVN0.CAB",
+      "size_bytes": 802523601,
+      "md5": "57D2F40D36D1930C1010248B0CB67E68",
+      "sha256": "1B3A5AFCC23D48A4CDE550D8CB585C9EB9174235D0F5ED52137023BD2AC4E0FF",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-C1Y27",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04608778M/1/3520-Win8.1-A02-C1Y27.CAB",
+      "size_bytes": 722467239,
+      "md5": "CB91B79FA6F47BC0E2747E5A006ADD33",
+      "sha256": "481ABC0E99D03AF317470AD0971395A2DE34843252753A54F8C70AD0107A94D2",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

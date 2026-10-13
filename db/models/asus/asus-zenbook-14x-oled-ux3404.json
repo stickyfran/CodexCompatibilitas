@@ -1,0 +1,13 @@
+{
+  "id": "asus-zenbook-14x-oled-ux3404",
+  "vendor": "ASUS",
+  "family": "Zenbook",
+  "model_name": "Zenbook 14X Oled Ux3404",
+  "system_id": "UX3404",
+  "dmi_matches": [
+    "UX3404"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

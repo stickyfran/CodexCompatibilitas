@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3550-0632",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3550",
+  "system_id": "0632",
+  "dmi_matches": [
+    "Latitude 3550",
+    "0632"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YT0P2",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04846942M/1/3550-Win10-A07-YT0P2.CAB",
+      "size_bytes": 885591977,
+      "md5": "7C884B314C1E3B24AA37E510687973AC",
+      "sha256": "42FF2A2F432D2F35B3F8A6C9D1E765E430175F784B66AC23C3545AB63FA8B632",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-MTH46",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04846802M/1/3550-Win7-A09-MTH46.CAB",
+      "size_bytes": 809660692,
+      "md5": "6A27DBD97D6B5F3C1C1F3C24F1D34EF0",
+      "sha256": "A4D008B41818291AB43A0599D7D6984DCD38ED50B08A296277E27F47AB6D744B",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-CD2VN",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03471545M/1/3550-win8.1-A04-CD2VN.CAB",
+      "size_bytes": 469089908,
+      "md5": "7775A39E572FF90803398E8329E7E331",
+      "sha256": "426689C31FD402ED171282C6C49503D1ECB72D4D0D352B2C644B4E7158894627",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

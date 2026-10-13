@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-m509",
+  "vendor": "ASUS",
+  "family": "ASUS",
+  "model_name": "Asus M509",
+  "system_id": "M509",
+  "dmi_matches": [
+    "M509"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-expertbook-p5-g2-14-intel",
+  "vendor": "ASUS",
+  "family": "ExpertBook",
+  "model_name": "Asus Expertbook P5 G2 14 Intel",
+  "system_id": "INTEL",
+  "dmi_matches": [
+    "INTEL"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

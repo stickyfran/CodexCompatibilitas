@@ -1,0 +1,105 @@
+{
+  "id": "lenovo-thinkpad-t470",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T470",
+  "system_id": "20HE,20HD",
+  "dmi_matches": [
+    "20HE",
+    "20HD"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t470_w1064_1703_201705.exe",
+      "size_bytes": null,
+      "md5": "1e5d5fb630bec25de5a8a58d6988d758",
+      "sha256": "6835c16a32be546dbe4465b7866094da3ef5e3fad9db0f8062638c9821d5a567",
+      "version": null,
+      "release_date": "2017-05-31"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad25_t470_w1064_1709_201803.exe",
+      "size_bytes": null,
+      "md5": "6bcd99d4c78b28b0fbd8796d0e602dea",
+      "sha256": "6cc0154db450a825363c49dc6597dc5f19c5ff73e898e802973225699a46e12f",
+      "version": null,
+      "release_date": "2017-12-28"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad25_t470_w1064_1803_201809.exe",
+      "size_bytes": null,
+      "md5": "aad25e348fd04dce1c5e5f8eaa59f1b8",
+      "sha256": "5067bb1962d7264101b058e1db00e0e5c414cfc94eb9c63a48479343306c3467",
+      "version": null,
+      "release_date": "2021-06-09"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad25_t470_w1064_1809_201903.exe",
+      "size_bytes": null,
+      "md5": "b5fcb2a53361599e0668b2f65176fc7b",
+      "sha256": "97d113b2c8eb741ceabc7c33ff88bd04c89a850ab761d4f9b1af7e92ef015e2d",
+      "version": null,
+      "release_date": "2019-03-26"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad25_t470_w1064_1903_201909.exe",
+      "size_bytes": null,
+      "md5": "478ab79f16972a271c557e740df0fb40",
+      "sha256": "440f1a7eb766f4945e200fbdde64034b0e65a95bffab7ed43e2d103ce38fffbb",
+      "version": null,
+      "release_date": "2019-09-27"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad25_t470_w1064_1909_201912.exe",
+      "size_bytes": null,
+      "md5": "769564762eef97c2e9a39e83930291f9",
+      "sha256": "e91953675b5d4e358389eda03b489fa4d6e9a9b1a509386e793d66b57dec9f44",
+      "version": null,
+      "release_date": "2019-12-25"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad25_t470_w1064_2004_202012.exe",
+      "size_bytes": null,
+      "md5": "539248a465cf630fdb4e86ece8848a9c",
+      "sha256": "5987084708b9b029698cec5b8962050197af60c191e15627e56cc7766e3c778d",
+      "version": null,
+      "release_date": "2020-05-29"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad25_t470_w1064_20h2_202011.exe",
+      "size_bytes": null,
+      "md5": "8784b7ceb39fd0d64b3baf2941466e6c",
+      "sha256": "9ca1a1a96b3c27047de1673076bd2bb99f02f578bc5f596f3fee56dc446d3c58",
+      "version": null,
+      "release_date": "2020-12-08"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad25_t470_w1064_21h1_202105.exe",
+      "size_bytes": null,
+      "md5": "e92613f606d27774d43c5c7ab672481b",
+      "sha256": "ac34583cc7026b5f65e8fc089e342ca6465169b182ee974bef96f1833089c5d5",
+      "version": null,
+      "release_date": "2021-05-31"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

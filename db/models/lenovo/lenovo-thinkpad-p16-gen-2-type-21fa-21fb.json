@@ -1,0 +1,85 @@
+{
+  "id": "lenovo-thinkpad-p16-gen-2-type-21fa-21fb",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P16 Gen 2 Type 21FA 21FB",
+  "system_id": "21FB,21FA",
+  "dmi_matches": [
+    "21FB",
+    "21FA"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16g2_mt21fa_21fb_w1064_21h2_202606.exe",
+      "size_bytes": null,
+      "md5": "3dae4665d06a7312a61569760c6b412b",
+      "sha256": "c71e18efaef2831923e8847409ecb16ea27b67fbdb87aea7dacdf9e4aee16cf9",
+      "version": null,
+      "release_date": "2026-06-16"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16g2_mt21fa_21fb_w1064_22h2_202606.exe",
+      "size_bytes": null,
+      "md5": "9ea670cbfa9a5636836ac480bc306025",
+      "sha256": "549ff0676d6cb38f095aaa36cbbe41883ea43a3eff58c33e916eacaf4042c0e1",
+      "version": null,
+      "release_date": "2026-06-16"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16g2_mt21fa_21fb_win11_21h2_sccm_202406.exe",
+      "size_bytes": null,
+      "md5": "8f0c7e3739fac2d0a21c28c21834a75d",
+      "sha256": "8cce4ac2dcea6d10c7352fa2891d332315fa0d36d5ef96384927a466055d9640",
+      "version": null,
+      "release_date": "2024-07-02"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16g2_mt21fa_21fb_win11_22_202408.exe",
+      "size_bytes": null,
+      "md5": "5ef22cddb840a69bb88e5edd72264cb3",
+      "sha256": "81a80264cba007aa96d80f48af08b7071305030e29af3a06633834d342338fbb",
+      "version": null,
+      "release_date": "2024-08-30"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16g2_mt21fa_21fb_win11_23_202512.exe",
+      "size_bytes": null,
+      "md5": "0c493f17d9675e98bc6a083f18bcf578",
+      "sha256": "98135fbd17f550b74ac4c2bf26a0375e3ef19c1e614514936b226995a72737d7",
+      "version": null,
+      "release_date": "2026-07-10"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16g2_mt21fa_21fb_win11_24h2_202606.exe",
+      "size_bytes": null,
+      "md5": "a00b78ca08727c3c579354334852510d",
+      "sha256": "db75701de6cc3730d489088580257456aeb47f894ae75b7dbbf5928e1bf2e65d",
+      "version": null,
+      "release_date": "2026-06-16"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16g2_mt21fa_21fb_win11_25h2_202606.exe",
+      "size_bytes": null,
+      "md5": "3ba5bd28c3808d6277151939cd5d4967",
+      "sha256": "760dd7a4ba991b32d6cb8a95181cfed4914181741ed85bdedb9fe567d2cb4dfc",
+      "version": null,
+      "release_date": "2026-06-16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

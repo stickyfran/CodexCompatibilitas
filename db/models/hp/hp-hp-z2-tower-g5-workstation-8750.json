@@ -1,0 +1,46 @@
+{
+  "id": "hp-hp-z2-tower-g5-workstation-8750",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Tower G5 Workstation",
+  "system_id": "8750,8751",
+  "dmi_matches": [
+    "8750",
+    "8751",
+    "HP Z2 Tower G5 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp107668-HP Z2G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp107501-108000/sp107668.exe",
+      "size_bytes": 1242701088,
+      "md5": "faba0e66e787581952001d5aecd867a5",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "9/17/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp140433-HP Z2G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140433.exe",
+      "size_bytes": 1588293256,
+      "md5": "3095c2b0084a7f4c0fb7c3c7f934f482",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/10/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp139593-HP Z2G5 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139593.exe",
+      "size_bytes": 1482251416,
+      "md5": "dd3bd1c3382c6892847c6bb4491077fb",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "4/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7780-0c42",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7780",
+  "system_id": "0C42",
+  "dmi_matches": [
+    "Precision 7780",
+    "0C42"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-G0RHD",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14365981M/1/Precision-7780-G0RHD_Win10_1.0_A11.exe",
+      "size_bytes": 2190789552,
+      "md5": "E177EC5B627F31BA3044058006D02D48",
+      "sha256": "EAAF47B01B0B9D0AE3401570ED1A7CA46B15B0C5CB0B941E89FDE15951632DF6",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-611J5",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14365970M/1/Precision-7780-611J5_Win11_1.0_A11.exe",
+      "size_bytes": 2061379240,
+      "md5": "CEA1C8E9660AECBEC288943B0134BCB6",
+      "sha256": "C87118D957124154A5538F80E4C0FDB7E72D48BCCAD8BA482C45BF118E4C1623",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

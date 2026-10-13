@@ -1,0 +1,75 @@
+{
+  "id": "hp-hp-probook-450-g5-notebook-pc-837d",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 450 G5 Notebook PC",
+  "system_id": "837d",
+  "dmi_matches": [
+    "837d",
+    "HP ProBook 450 G5 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp84239-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84001-84500/sp84239.exe",
+      "size_bytes": 1049692384,
+      "md5": "a2b96f06d028b6b776867305ccc7e459",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "12/14/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp88921-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88921.exe",
+      "size_bytes": 1067495344,
+      "md5": "66f7abcc6339dda76e0e99bf2754841c",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/16/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95462-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95462.exe",
+      "size_bytes": 817803536,
+      "md5": "f6af8f19dd14e674ab60c508f6800152",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100045-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100045.exe",
+      "size_bytes": 917714784,
+      "md5": "d00fa2991d7a3f6ce975f2efa94c9bf1",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100638-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100638.exe",
+      "size_bytes": 857206720,
+      "md5": "c0856a1bcd5884f70843149d297f7f01",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "12/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp115298-HP ProBook 4x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp115001-115500/sp115298.exe",
+      "size_bytes": 1627039704,
+      "md5": "40dea0e5a94d5ef9b89bef4bde9fc9e2",
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "6/30/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

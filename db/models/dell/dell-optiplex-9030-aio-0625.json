@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-9030-aio-0625",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 9030 AIO",
+  "system_id": "0625",
+  "dmi_matches": [
+    "OptiPlex 9030 AIO",
+    "0625"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-09R0F",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04901695M/1/9030-win10-A04-09R0F.CAB",
+      "size_bytes": 932837668,
+      "md5": "14872B0B214E2DEBA5FB507C6483E6A6",
+      "sha256": "E37F32D4F7F7DAACCAC10E61B71F0EE6FB9512F5922FA6C277B96FD2631E1029",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-8CG1M",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04901720M/1/9030-win7-A08-8CG1M.CAB",
+      "size_bytes": 570513830,
+      "md5": "94D579AB76DAFBB526727A5C3FD27343",
+      "sha256": "9F36FC153DB1660C3CD5B0371483F782532F258632A56FF68A06B257217821DA",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-D2N5F",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03538734M/1/9030-win8.1-A05-D2N5F.CAB",
+      "size_bytes": 341939635,
+      "md5": "32285DF997EC93D3A20ACD18DDE661E7",
+      "sha256": "6E8E089BB331144B245EE9F6B1402E8AF95EA61F09E614B5BEF0FE0CDB3D1F49",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

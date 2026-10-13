@@ -1,0 +1,75 @@
+{
+  "id": "hp-hp-zbook-15-g5-mobile-workstation-842a",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 15 G5 Mobile Workstation",
+  "system_id": "842a",
+  "dmi_matches": [
+    "842a",
+    "HP ZBook 15 G5 Mobile Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp88880-HP Zbook 15/17 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88880.exe",
+      "size_bytes": 716498704,
+      "md5": "dc9a712e5a3104981e18e2a8acf8bc1d",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/6/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp91839-HP Zbook 15/17 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp91501-92000/sp91839.exe",
+      "size_bytes": 794704136,
+      "md5": "8d1cdfec9a12dd494407bab3752e8f84",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/1/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95547-HP Zbook 15/17 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95501-96000/sp95547.exe",
+      "size_bytes": 808743040,
+      "md5": "ad147a3345afc9357b8fd51f5e30440f",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "4/5/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp102120-HP Zbook 15/17 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102120.exe",
+      "size_bytes": 962462448,
+      "md5": "6a28d3a90fae65777553933955d2142a",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "3/25/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103584-HP Zbook 15/17 G5 Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103584.exe",
+      "size_bytes": 954825632,
+      "md5": "90c9efbc98815bf70edb1cf1ffa1c8b5",
+      "sha256": null,
+      "version": "12.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114269-HP Zbook 15/17 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114269.exe",
+      "size_bytes": 1672904048,
+      "md5": "014d2020fccb4e2d9c44133aa8798425",
+      "sha256": null,
+      "version": "14.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

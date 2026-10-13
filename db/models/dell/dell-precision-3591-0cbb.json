@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3591-0cbb",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3591",
+  "system_id": "0CBB",
+  "dmi_matches": [
+    "Precision 3591",
+    "0CBB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CWG6R",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14134927M/1/Precision-3591-CWG6R_Win10_1.0_A10.exe",
+      "size_bytes": 3128428776,
+      "md5": "D0D0DC8206E813ADE9296B8D22469A06",
+      "sha256": "07F94345C4D4EB3C91BE21EAFFC194BBB5BACC5B0EA26162C80DCD2DC51379D2",
+      "version": null,
+      "release_date": "2026-02-05T03:36:06"
+    },
+    {
+      "name": "DellPack-7K9G3",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14134924M/1/Precision-3591-7K9G3_Win11_1.0_A10.exe",
+      "size_bytes": 2956461152,
+      "md5": "EAB7301F7D84EC5612508AEEB83786F1",
+      "sha256": "E163F190F03D5A8AFFE9A33FE0C413723973E766FAC1F25FECF09E3BFB4520C6",
+      "version": null,
+      "release_date": "2026-02-05T03:36:06"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

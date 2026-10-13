@@ -1,0 +1,105 @@
+{
+  "id": "lenovo-thinkpad-x1-titanium-type-20qa-20qb",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 TITANIUM Type 20QA 20QB",
+  "system_id": "20QA,20QB",
+  "dmi_matches": [
+    "20QA",
+    "20QB"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w1064_1909_202107.exe",
+      "size_bytes": null,
+      "md5": "817b752784608a486c7f53169ec31c98",
+      "sha256": "d30078d9c37d0254a546b751900210f60a08b2db97bac9946c2e2d12eb2989ea",
+      "version": null,
+      "release_date": "2021-07-29"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w1064_2004_202206.exe",
+      "size_bytes": null,
+      "md5": "25863bb6dbeb1e0fa0654fec5511f872",
+      "sha256": "434be843af1d1749c50d4a6551fec73439c1e569d300df2c1a13c28ae3619682",
+      "version": null,
+      "release_date": "2022-06-30"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w1064_20h2_220209.exe",
+      "size_bytes": null,
+      "md5": "ac6dcc2232a1bdfab6998055646fc65c",
+      "sha256": "487aa473029ec4ee553593b7c366a90b47a84525317cd2132db8d3e6fbb5ff72",
+      "version": null,
+      "release_date": "2022-10-24"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w1064_21h1_202301.exe",
+      "size_bytes": null,
+      "md5": "3031a78c621a66bc6a360fe76e8a2f24",
+      "sha256": "cf16a5e2bf0412fe00ca25964553ee2b17770fa9241fcfce8e6b66b70e440c71",
+      "version": null,
+      "release_date": "2023-01-31"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w1064_21h2_202301.exe",
+      "size_bytes": null,
+      "md5": "5ddcabebb37b6e88a54a87458db30454",
+      "sha256": "1da075cb4f7660ee5cc5ece3bf2e5737a855f8b334d862a6cf1d3814ff7a565a",
+      "version": null,
+      "release_date": "2023-01-31"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w1064_22h2_202301.exe",
+      "size_bytes": null,
+      "md5": "6f376791caeb324d685cbb639b134c67",
+      "sha256": "3682f9a4c40d9e607b74913ba3f3f81327e686fa180b9cb246fbb8fd375905d6",
+      "version": null,
+      "release_date": "2023-01-31"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w11_21_202206.exe",
+      "size_bytes": null,
+      "md5": "20d705b5b7617a891a850045a0712929",
+      "sha256": "e3cd722faf6c28a5e9a85336cae4913c638fae56056a80feedd78b6159652815",
+      "version": null,
+      "release_date": "2022-06-30"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w11_22_202308.exe",
+      "size_bytes": null,
+      "md5": "b0da4d1dc068fe6d7f009605229463ad",
+      "sha256": "16684437d77a48b4ae115e98207bace6db771351f500f4246cfa853e405099f2",
+      "version": null,
+      "release_date": "2023-10-19"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1titanium_mt20qa-20qb_w11_24_202406.exe",
+      "size_bytes": null,
+      "md5": "13bcac34a8c9f56f9e4093e9ab47e495",
+      "sha256": "c6ff768a332b96adad2267173c5cf039a32a9736c422994a881297fbf0911d64",
+      "version": null,
+      "release_date": "2024-07-03"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

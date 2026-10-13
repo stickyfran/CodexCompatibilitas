@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-zbook-fury-15-g7-mobile-workstation-8783",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 15 G7 Mobile Workstation",
+  "system_id": "8783",
+  "dmi_matches": [
+    "8783",
+    "HP ZBook Fury 15 G7 Mobile Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp107667-HP ZBook Fury 15/17 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp107501-108000/sp107667.exe",
+      "size_bytes": 1337174760,
+      "md5": "d4176fd0b02f1a043f59f9e5174c3a69",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "8/18/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110547-HP ZBook Fury 15/17 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110547.exe",
+      "size_bytes": 1812322360,
+      "md5": "d9fe5fa66024448d8633b28e185fc664",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/21/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113944-HP ZBook Fury 15/17 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113944.exe",
+      "size_bytes": 1343421016,
+      "md5": "75d042ec7431f3217231b7e1f808f468",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "5/20/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140881-HP ZBook Fury 15/17 G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140881.exe",
+      "size_bytes": 1343492288,
+      "md5": "b5df66dd57759011af1db7eb11877f81",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/1/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

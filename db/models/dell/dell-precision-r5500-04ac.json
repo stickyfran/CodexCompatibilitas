@@ -1,0 +1,55 @@
+{
+  "id": "dell-precision-r5500-04ac",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision R5500",
+  "system_id": "04AC",
+  "dmi_matches": [
+    "Precision R5500",
+    "04AC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-R5TMH",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02293163M/1/R5500-vista-A01-R5TMH.CAB",
+      "size_bytes": 424252892,
+      "md5": "83DC585FC47D94EE4A2514EEC356BE65",
+      "sha256": "A38D2F38EDE331F8FBDF046B9F84BDAC086ADFC83CCFE851C0290E702B976D7E",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-385D1",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03528023M/1/R5500-win10-A01-385D1.CAB",
+      "size_bytes": 395953834,
+      "md5": "759D5B82239729991B4DD82E3926409A",
+      "sha256": "5BA547DE8891B25879FDCA37D89C9A32C9BE9A5E60298B8CAAEA15EE9283707C",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    },
+    {
+      "name": "DellPack-9TKC2",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02223296M/1/R5500-win7-A06-9TKC2.CAB",
+      "size_bytes": 502343188,
+      "md5": "2A5641CB72CDB94B3D7834C924A7C558",
+      "sha256": "62805619A74691419A081C748E57BFA165553B90900D595EB7A25550E02C502F",
+      "version": null,
+      "release_date": "2014-06-05T00:00:00"
+    },
+    {
+      "name": "DellPack-197HH",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02262640M/1/R5500-xp-A08-197HH.CAB",
+      "size_bytes": 255757722,
+      "md5": "67D7373B4B369328DADF586394E12C53",
+      "sha256": "408BE7672E6220D37DC232BDA28F8B6A1D38BC8907FBDA7E16834AF8EDE6F70A",
+      "version": null,
+      "release_date": "2014-07-16T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

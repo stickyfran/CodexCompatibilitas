@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3541-091a",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3541",
+  "system_id": "091A",
+  "dmi_matches": [
+    "Precision 3541",
+    "091A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-15XV1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09143715M/1/3541-15XV1_Win10_1.0_A15.exe",
+      "size_bytes": 2063519072,
+      "md5": "7B8F84FB5EE08F192FA2677EA0EC4FAD",
+      "sha256": "4B79786AC1BEB48E1EAA13A0410F5AAE191BFD210846BC70466C51A2C4240223",
+      "version": null,
+      "release_date": "2022-10-21T19:26:35"
+    },
+    {
+      "name": "DellPack-HT8FH",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08080634M/1/3541-win11-A00-HT8FH.CAB",
+      "size_bytes": 1501533820,
+      "md5": "CA08FA874130A9C608E910372631DFB0",
+      "sha256": "2A7300DA0CEEF0C7D04CB36300336ED3523B976D752A4B68CFD1B0080665E299",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkcentre-x-aio",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre X AIO",
+  "system_id": "13H5,13H4",
+  "dmi_matches": [
+    "13H5",
+    "13H4"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_x_w11_25_202604.exe",
+      "size_bytes": null,
+      "md5": "5faffd051fd10639704412ea65289f38",
+      "sha256": "85c35a86ee19d869e598209ce4a966cdd07d6252245383d8480063c09ba715f4",
+      "version": null,
+      "release_date": "2026-04-15"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

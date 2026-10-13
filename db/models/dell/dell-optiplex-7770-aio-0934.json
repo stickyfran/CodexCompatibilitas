@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7770-aio-0934",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7770 AIO",
+  "system_id": "0934",
+  "dmi_matches": [
+    "OptiPlex 7770 AIO",
+    "0934"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KK2M0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08837076M/1/7770-AIO-KK2M0_Win10_1.0_A11.exe",
+      "size_bytes": 1869872968,
+      "md5": "ED8DE9E67874343896B608C634CE4944",
+      "sha256": "F312CD471ECFB6912C9139A09EE41A8C2F2296CD02A1D6C01020DE9ED66D02B7",
+      "version": null,
+      "release_date": "2022-08-09T14:23:47"
+    },
+    {
+      "name": "DellPack-XD7X8",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08165454M/1/7770 AIO-win11-A00-XD7X8.CAB",
+      "size_bytes": 1640391887,
+      "md5": "5C3A3ADD88B26E45E4AC2098730F3A94",
+      "sha256": "93D329FCF6DE18A3FA7E3E373E9FA4F6C01747099E80FF9F0771367A991C4853",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

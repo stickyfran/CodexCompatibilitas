@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5450-0cb4",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5450",
+  "system_id": "0CB4",
+  "dmi_matches": [
+    "Latitude 5450",
+    "0CB4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-31H8R",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14525384M/1/Latitude-5450-31H8R_Win10_1.0_A10.exe",
+      "size_bytes": 3148277768,
+      "md5": "1D28FE37E014F58A4600C4DF8BD81858",
+      "sha256": "9B1D4A0CE739FE643A2A607F2B44B2A5AA1223505027EE67E25F9447C16019A7",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-YJ8JX",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14525405M/1/Latitude-5450-YJ8JX_Win11_1.0_A10.exe",
+      "size_bytes": 3005568224,
+      "md5": "7C4D3B87CD68BBE858ED74646CFA3121",
+      "sha256": "21D6D4953743B7FA87A8F9799D3EEE181328A4E31CD4661667AB9AE385886540",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

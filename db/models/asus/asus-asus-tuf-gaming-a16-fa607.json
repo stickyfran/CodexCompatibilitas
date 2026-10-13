@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-tuf-gaming-a16-fa607",
+  "vendor": "ASUS",
+  "family": "TUF Gaming",
+  "model_name": "Asus Tuf Gaming A16 Fa607",
+  "system_id": "FA607",
+  "dmi_matches": [
+    "FA607"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-m6400-0251",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M6400",
+  "system_id": "0251",
+  "dmi_matches": [
+    "Precision M6400",
+    "0251"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PN3XD",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02292476M/1/M6400-vista-A03-PN3XD.CAB",
+      "size_bytes": 177536977,
+      "md5": "66BD3FD63E63118B7F406924BFB6FFC4",
+      "sha256": "2B678759C34F3E3A25AF8AAE9364491176675661E8CDCC9FA3F219ECC8206885",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-GYDWK",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02242120M/1/M6400-Win7-A01-GYDWK.CAB",
+      "size_bytes": 357474764,
+      "md5": "34C1C3F774A1776BA70D78834AA43766",
+      "sha256": "943D12856D8D22C00B6E2F1DEF8985440B25D318F562A62040D0F34AAEB414D9",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-F8MRR",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02236500M/1/M6400-xp-A03-F8MRR.CAB",
+      "size_bytes": 254871683,
+      "md5": "6F3CE478FFAEC41CF267DE2BBB3770D4",
+      "sha256": "C93F61A83D939717397DC7FBC56CD652488DD4631C9E239E74B564ED228B35D1",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

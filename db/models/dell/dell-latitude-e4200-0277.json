@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e4200-0277",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E4200",
+  "system_id": "0277",
+  "dmi_matches": [
+    "Latitude E4200",
+    "0277"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-DYRGV",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02052536M/1/E4200-vista-A03-DYRGV.CAB",
+      "size_bytes": 177527435,
+      "md5": "5EE0B5E80451BD95BE120C80E7302F1B",
+      "sha256": "90D1140BFE93D6D4DCCBC61557C5C3784027A01FF3103F7E32422EA3D2D22B6E",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-85T51",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02055116M/1/E4200-win7-A04-85T51.CAB",
+      "size_bytes": 138203441,
+      "md5": "BB5454FA15097B55E7186E33EEA9C91A",
+      "sha256": "9227F7FD7088DC49D8E9E276C6A0C018E704DB4FB7B72E3BF5D1A179CB83A4F7",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-MX4KD",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02055129M/1/E4200-xp-A04-MX4KD.CAB",
+      "size_bytes": 105951921,
+      "md5": "2385211996D7F455FEF7266182534FE9",
+      "sha256": "FD3F6EB09D2366ABC35E6A7993776FCC6A8EBA5233F4AEDE2FDD9A69A65F9DF4",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

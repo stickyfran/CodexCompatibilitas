@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7740-0927",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7740",
+  "system_id": "0927",
+  "dmi_matches": [
+    "Precision 7740",
+    "0927"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-8FH1R",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07961336M/1/7740-win10-A11-8FH1R.CAB",
+      "size_bytes": 1993566792,
+      "md5": "1F9423766AA08CEA040784E6841BC681",
+      "sha256": "12BC652605D169F044A38FA9CE6D4F9836F95CD5CF20B3DAFA2853B9DDE513F7",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    },
+    {
+      "name": "DellPack-N6N1R",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09527652M/1/7740-N6N1R_Win11_1.0_A00.exe",
+      "size_bytes": 2661916784,
+      "md5": "14CCA0577909EA4658B730E069976FB0",
+      "sha256": "E2884E69843156293F78466BF82EF7FD39BCDF2C72349AE49B51CF2D6CA8D2F4",
+      "version": null,
+      "release_date": "2023-02-10T00:14:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

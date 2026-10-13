@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-tuf-gaming-a14-2026-fa401ea",
+  "vendor": "ASUS",
+  "family": "TUF Gaming",
+  "model_name": "Asus Tuf Gaming A14 2026 Fa401Ea",
+  "system_id": "FA401EA",
+  "dmi_matches": [
+    "FA401EA"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

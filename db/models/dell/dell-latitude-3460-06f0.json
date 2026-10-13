@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3460-06f0",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3460",
+  "system_id": "06F0",
+  "dmi_matches": [
+    "Latitude 3460",
+    "06F0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-3F4DN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05280997M/1/3460-win10-A11-3F4DN.CAB",
+      "size_bytes": 660727900,
+      "md5": "5FEBBC668C3CC93565888A4806A51E9E",
+      "sha256": "7F37CBB130835C3321E9822A6206DFCBBBA32922AD19D09B323ED72B9948B680",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-D2R6H",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05283454M/1/3460-win7-A10-D2R6H.CAB",
+      "size_bytes": 1070046085,
+      "md5": "E549F7FB09823D25FE443664F36C6C38",
+      "sha256": "828EF374BD8117FC78DAD52F2290FC7382504F7C84D42A31FC6CCBD5D7B2C11E",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-1PGHY",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03798124M/1/3460-win8.1-A02-1PGHY.CAB",
+      "size_bytes": 555067449,
+      "md5": "E927E36585042AAB8B20C23896A8CE6E",
+      "sha256": "0D08E7362E7DE8AA0A1ADC735EC4900E8E062B18EC860A114A511771B211B19F",
+      "version": null,
+      "release_date": "2016-08-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

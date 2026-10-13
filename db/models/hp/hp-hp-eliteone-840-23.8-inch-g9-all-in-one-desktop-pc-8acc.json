@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-eliteone-840-23.8-inch-g9-all-in-one-desktop-pc-8acc",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC",
+  "system_id": "8acc,8acb,895f,8957",
+  "dmi_matches": [
+    "8acc",
+    "8acb",
+    "895f",
+    "8957",
+    "HP EliteOne 840 23.8 inch G9 All-in-One Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp173495-HP EliteOne 8x0 27 G9 AIO Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173495.exe",
+      "size_bytes": 1300961200,
+      "md5": "2A373361861BDDF6C30A25C06A62FB81",
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "6/5/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

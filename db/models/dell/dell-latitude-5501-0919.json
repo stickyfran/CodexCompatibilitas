@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5501-0919",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5501",
+  "system_id": "0919",
+  "dmi_matches": [
+    "Latitude 5501",
+    "0919"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-FD0M4",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08756450M/1/5501-FD0M4_Win10_1.0_A13.exe",
+      "size_bytes": 1834727496,
+      "md5": "A8C159D6D56D0440E2A735C5E16E7D15",
+      "sha256": "B7436A05AB91784E2126A6F163A6B48347CDADF2683F6054B694FB95E15C6F87",
+      "version": null,
+      "release_date": "2022-07-12T07:07:18"
+    },
+    {
+      "name": "DellPack-012CJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09892255M/1/5501-012CJ_Win11_1.0_A00.exe",
+      "size_bytes": 2104242384,
+      "md5": "98AC43928022779BD169A8C49A75FDA5",
+      "sha256": "7BFEE933BC234C321FDD9487DCEE4EA3F43C89DAB928C2510F4DF825FA70788F",
+      "version": null,
+      "release_date": "2023-04-27T05:36:32"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

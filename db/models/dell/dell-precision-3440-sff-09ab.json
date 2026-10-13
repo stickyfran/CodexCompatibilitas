@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3440-sff-09ab",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3440 SFF",
+  "system_id": "09AB",
+  "dmi_matches": [
+    "Precision 3440 SFF",
+    "09AB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-634FC",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09847966M/1/Precision-3440-SFF-634FC_Win10_1.0_A10.exe",
+      "size_bytes": 3618119856,
+      "md5": "A476E66AC9BA098E2153A4CC6748A31C",
+      "sha256": "FE38DCFEC8AC78FE3B29480B3AC5416AD3984C831BE8AA4FECD67ECD83780FA1",
+      "version": null,
+      "release_date": "2023-06-30T02:52:58"
+    },
+    {
+      "name": "DellPack-87T5P",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09848777M/1/Precision-3440-SFF-87T5P_Win11_1.0_A02.exe",
+      "size_bytes": 3618122008,
+      "md5": "B955C35522C6B0A33F394D08893D8A5F",
+      "sha256": "C6B2167B21DB3D9F726C86600BEE06987294E8016A9FCEB4A1000F75E21C724C",
+      "version": null,
+      "release_date": "2023-06-30T02:52:58"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

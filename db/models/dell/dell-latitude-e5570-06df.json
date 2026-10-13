@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e5570-06df",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5570",
+  "system_id": "06DF",
+  "dmi_matches": [
+    "Latitude E5570",
+    "06DF"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-441JC",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06251954M/1/E5570-Win10-A18-441JC.CAB",
+      "size_bytes": 956581507,
+      "md5": "EB2FFD2DD7DAF6E9F78B07F2300A9387",
+      "sha256": "8F5AF0FE82D566513E8B673344FA1E2A9DC94B1498BC0FB2DA824659ACA7A426",
+      "version": null,
+      "release_date": "2020-06-23T00:00:00"
+    },
+    {
+      "name": "DellPack-YTVNC",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06307650M/1/E5570-Win7-A16-YTVNC.CAB",
+      "size_bytes": 974548238,
+      "md5": "48E7461A4829649A085D9645EFABEC3E",
+      "sha256": "C5EFFA47C3CB83C7C597A4B5F1447C01D6919B28BBFC5A7E4EBA6A3F8A552C56",
+      "version": null,
+      "release_date": "2020-06-23T00:00:00"
+    },
+    {
+      "name": "DellPack-FH4JJ",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03884861M/1/E5570-Win8.1-A06-FH4JJ.CAB",
+      "size_bytes": 624801850,
+      "md5": "A53282D8163C477BD6F7B1423DAEE30A",
+      "sha256": "C55939E1C46AB2BBA8BFC15F17998592EC88531BBA2A5C7B1C5CA603C16DD410",
+      "version": null,
+      "release_date": "2016-09-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

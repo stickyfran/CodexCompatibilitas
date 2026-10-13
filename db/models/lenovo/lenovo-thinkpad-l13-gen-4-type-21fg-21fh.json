@@ -1,0 +1,75 @@
+{
+  "id": "lenovo-thinkpad-l13-gen-4-type-21fg-21fh",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad L13 Gen 4 Type 21FG 21FH",
+  "system_id": "21FH,21FG",
+  "dmi_matches": [
+    "21FH",
+    "21FG"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-4_s2-gen-8_l13-yoga-gen-4_s2-yoga-gen-8_intel_w10_21h2_202601.exe",
+      "size_bytes": null,
+      "md5": "4b8fde85be743cb892c6896dd09098f9",
+      "sha256": "810c93eaeb6a784a5dbc1c8fd973a61beb705fd128ee5c5c4767ebd2674ca521",
+      "version": null,
+      "release_date": "2026-02-11"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-4_s2-gen-8_l13-yoga-gen-4_s2-yoga-gen-8_intel_w10_22h2_202601.exe",
+      "size_bytes": null,
+      "md5": "230bdf7aa79f25ae86a58a472fb1aa31",
+      "sha256": "f2f24f9c85ad23b1c603b8560c6aa234b14870db1920144ceaa268acba4240b7",
+      "version": null,
+      "release_date": "2026-02-11"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-4_s2-gen-8_l13-yoga-gen-4_s2-yoga-gen-8_intel_w11_21h2_202402.exe",
+      "size_bytes": null,
+      "md5": "da3abfceb5c3ce25d041523346bd4e7d",
+      "sha256": "63ac84407f6e98cf030581629feb8767b7662a64cbdc139e9f4c3d21f64bc349",
+      "version": null,
+      "release_date": "2024-02-20"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-4_s2-gen-8_l13-yoga-gen-4_s2-yoga-gen-8_intel_w11_22h2_202406.exe",
+      "size_bytes": null,
+      "md5": "2c68448571456492b6ca1c6459fe514f",
+      "sha256": "71ba5adf85c1ff2ca934eb76aed15d90339f54efe0b303349125685a28699444",
+      "version": null,
+      "release_date": "2024-07-09"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-4_s2-gen-8_l13-yoga-gen-4_s2-yoga-gen-8_intel_w11_23h2_202601.exe",
+      "size_bytes": null,
+      "md5": "83399e1951ce0724dcb46710757acdf5",
+      "sha256": "81f4e040b8fba83378f9d1545795ce06461acd1ccf94e8d481aa0eb6a494f8ab",
+      "version": null,
+      "release_date": "2026-02-11"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l13-gen-4_s2-gen-8_l13-yoga-gen-4_s2-yoga-gen-8_intel_w11_24h2_202601.exe",
+      "size_bytes": null,
+      "md5": "e49d73791950cd9d6cfe391d15faebe2",
+      "sha256": "3e81bb8084ced022f6545f5db3c52f9c53c4031944dc08ade08fd5addd04173a",
+      "version": null,
+      "release_date": "2026-02-03"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

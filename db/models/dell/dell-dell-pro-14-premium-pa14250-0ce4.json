@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-14-premium-pa14250-0ce4",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 14 Premium PA14250",
+  "system_id": "0CE4",
+  "dmi_matches": [
+    "Dell Pro 14 Premium PA14250",
+    "0CE4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TMV81",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14825439M/1/PA14250-TMV81_Win11_1.0_A09.exe",
+      "size_bytes": 1274574744,
+      "md5": "6B6A1C2AB62B62F47B96427063F3E50E",
+      "sha256": "41BFA3C0A5AD79E3A0D150A6AFC6FA51F78596C40B874CA8F8CFDE58AD88BE0A",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

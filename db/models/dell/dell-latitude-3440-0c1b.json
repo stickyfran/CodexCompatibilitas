@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3440-0c1b",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3440",
+  "system_id": "0C1B",
+  "dmi_matches": [
+    "Latitude 3440",
+    "0C1B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PRH5W",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14366934M/1/Latitude-3440-PRH5W_Win10_1.0_A13.exe",
+      "size_bytes": 3609373344,
+      "md5": "8F92B2C2956873C4A41493FEF2259D25",
+      "sha256": "41C1329E4C86F7E6D1CE7F7C3EB4A3ECC274B926BE10C7D2D54B2A0DAAA6C9D8",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-TG46W",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14366920M/1/Latitude-3440-TG46W_Win11_1.0_A13.exe",
+      "size_bytes": 3604243880,
+      "md5": "B64A4EDDA80EE7F241EE657D2ABC4093",
+      "sha256": "DB6B7CA115674D83E1FD720557A6B960987222DD34C30AEA3F861B64DC49FA0E",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

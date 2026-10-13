@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-precision-5-16s-pw516260-0e20",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Precision 5 16S PW516260",
+  "system_id": "0E20",
+  "dmi_matches": [
+    "Dell Pro Precision 5 16S PW516260",
+    "0E20"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KCV6V",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14809626M/1/PW516260-KCV6V_Win11_1.0_A02.exe",
+      "size_bytes": 1362005360,
+      "md5": "0593B26246C55F8E3EAB189CCF439737",
+      "sha256": "1CACB2A2594C37540796962492F5B6DF7DE54F2ED9BC3B8803BE911B87C8D62B",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

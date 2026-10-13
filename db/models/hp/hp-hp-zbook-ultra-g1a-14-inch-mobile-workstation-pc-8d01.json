@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-zbook-ultra-g1a-14-inch-mobile-workstation-pc-8d01",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Ultra G1a 14 inch Mobile Workstation PC",
+  "system_id": "8d01",
+  "dmi_matches": [
+    "8d01",
+    "HP ZBook Ultra G1a 14 inch Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp174592-HP ZBook Ultra G1a MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174592.exe",
+      "size_bytes": 1016009464,
+      "md5": "000F0EE0197652B5484C4DCC9314C624",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "9/7/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

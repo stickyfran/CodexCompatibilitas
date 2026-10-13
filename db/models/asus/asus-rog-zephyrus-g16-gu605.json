@@ -1,0 +1,13 @@
+{
+  "id": "asus-rog-zephyrus-g16-gu605",
+  "vendor": "ASUS",
+  "family": "ROG",
+  "model_name": "Rog Zephyrus G16 Gu605",
+  "system_id": "GU605",
+  "dmi_matches": [
+    "GU605"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

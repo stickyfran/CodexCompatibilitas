@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-2120-04a5",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 2120",
+  "system_id": "04A5",
+  "dmi_matches": [
+    "Latitude 2120",
+    "04A5"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-2X2JP",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02292855M/1/2120-vista-A02-2X2JP.CAB",
+      "size_bytes": 121881318,
+      "md5": "9190C2F6B5688351D8AB053B406DEB39",
+      "sha256": "F3BD8DDDAF3C5364F12421BBDD81FD1D52B6A599BDA908C9E0BC062A1A3748F5",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-CVRXK",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER02169009M/1/2120-win7-A09-CVRXK.CAB",
+      "size_bytes": 102397174,
+      "md5": "243CCF81A20C2B73198F01B31A6FB823",
+      "sha256": "46B58F4B5F77C5F5D7D87D303C2572071E55CCBB7E97D6DDCA61E39DAD913653",
+      "version": null,
+      "release_date": "2014-06-05T00:00:00"
+    },
+    {
+      "name": "DellPack-WP0DF",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02135434M/1/2120-xp-A09-WP0DF.CAB",
+      "size_bytes": 70777637,
+      "md5": "15234A8D41577D50D0D5EC8B1E578282",
+      "sha256": "43D7FB3F75D1BEACB0E7D222D4D8E67B67ED90D6E2D4DEE98905C869BDA5EE17",
+      "version": null,
+      "release_date": "2014-06-05T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

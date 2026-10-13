@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-13-9380-08af",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9380",
+  "system_id": "08AF",
+  "dmi_matches": [
+    "XPS 13 9380",
+    "08AF"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-18WFG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07936715M/1/9380-win10-A14-18WFG.CAB",
+      "size_bytes": 960748950,
+      "md5": "7CADDC9684A23ECC19A72EB63D01C836",
+      "sha256": "C19D39325057C574ED3609F91250351A4FAEA0FA60DA89196E59B0543DC5D3AB",
+      "version": null,
+      "release_date": "2022-01-05T14:28:04"
+    },
+    {
+      "name": "DellPack-2PNY6",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER07762903M/1/9380-win11-A00-2PNY6.CAB",
+      "size_bytes": 935216432,
+      "md5": "1954B95B53F1B23B789E409B28E7971A",
+      "sha256": "B3F64AFE76444CEAABF7338377A24F80E191EB112883669D864769FC3939A3A2",
+      "version": null,
+      "release_date": "2021-10-11T05:10:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

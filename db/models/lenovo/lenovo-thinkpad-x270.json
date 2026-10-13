@@ -1,0 +1,115 @@
+{
+  "id": "lenovo-thinkpad-x270",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X270",
+  "system_id": "20HM,20HN",
+  "dmi_matches": [
+    "20HM",
+    "20HN"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1607",
+      "os": "win10-1607",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_201910.exe",
+      "size_bytes": null,
+      "md5": "df6fc21ebeb49a4069d4807b2e086c6e",
+      "sha256": "dac362a0ca27fa13c349fb96ee2d3d47a312f4ffe5b600ddb2d96d4c8fa3f4c0",
+      "version": null,
+      "release_date": "2019-12-03"
+    },
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_201910.exe",
+      "size_bytes": null,
+      "md5": "df6fc21ebeb49a4069d4807b2e086c6e",
+      "sha256": "dac362a0ca27fa13c349fb96ee2d3d47a312f4ffe5b600ddb2d96d4c8fa3f4c0",
+      "version": null,
+      "release_date": "2019-12-03"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_201910.exe",
+      "size_bytes": null,
+      "md5": "df6fc21ebeb49a4069d4807b2e086c6e",
+      "sha256": "dac362a0ca27fa13c349fb96ee2d3d47a312f4ffe5b600ddb2d96d4c8fa3f4c0",
+      "version": null,
+      "release_date": "2019-12-03"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_201910.exe",
+      "size_bytes": null,
+      "md5": "df6fc21ebeb49a4069d4807b2e086c6e",
+      "sha256": "dac362a0ca27fa13c349fb96ee2d3d47a312f4ffe5b600ddb2d96d4c8fa3f4c0",
+      "version": null,
+      "release_date": "2019-12-03"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_201910.exe",
+      "size_bytes": null,
+      "md5": "df6fc21ebeb49a4069d4807b2e086c6e",
+      "sha256": "dac362a0ca27fa13c349fb96ee2d3d47a312f4ffe5b600ddb2d96d4c8fa3f4c0",
+      "version": null,
+      "release_date": "2019-12-03"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_201910.exe",
+      "size_bytes": null,
+      "md5": "df6fc21ebeb49a4069d4807b2e086c6e",
+      "sha256": "dac362a0ca27fa13c349fb96ee2d3d47a312f4ffe5b600ddb2d96d4c8fa3f4c0",
+      "version": null,
+      "release_date": "2019-12-03"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_201910.exe",
+      "size_bytes": null,
+      "md5": "df6fc21ebeb49a4069d4807b2e086c6e",
+      "sha256": "dac362a0ca27fa13c349fb96ee2d3d47a312f4ffe5b600ddb2d96d4c8fa3f4c0",
+      "version": null,
+      "release_date": "2019-12-03"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_2004_202004.exe",
+      "size_bytes": null,
+      "md5": "89705070e9e8c5844d9d0657695303fd",
+      "sha256": "ad5d037a22fc49b7f9e087adb6ebca4f906f26805e4abcc4071cf6bf3cceb0db",
+      "version": null,
+      "release_date": "2020-06-16"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_20h2_202011.exe",
+      "size_bytes": null,
+      "md5": "2105b8fbec54559d567d6902e9c34873",
+      "sha256": "b39f6c1b1ddee1d4bb117f357b5d3f0a60c5004ce006e95a2c18b12c77b06dfd",
+      "version": null,
+      "release_date": "2020-12-22"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x270_w1064_21h1_202105.exe",
+      "size_bytes": null,
+      "md5": "4b44493e54c6401cffb212eada97fe86",
+      "sha256": "2a7cfb3d0a407c4159ce32353d9ee9254e83a5c1a5f875fd496075eda9ee5b10",
+      "version": null,
+      "release_date": "2021-05-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

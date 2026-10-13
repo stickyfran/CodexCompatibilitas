@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-e5420m-04eb",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5420m",
+  "system_id": "04EB",
+  "dmi_matches": [
+    "Latitude E5420m",
+    "04EB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WW3JD",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02233560M/1/E5420m-win7-A02-WW3JD.CAB",
+      "size_bytes": 94705783,
+      "md5": "76BE3E29B0E355D1E7B581D4951E3C28",
+      "sha256": "C6AE89C702F53B53908E32FB135FCD9ECCEB4F6E5407990E6AAAFC134FE439C8",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-6J9PR",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02233611M/1/E5420m-xp-A02-6J9PR.CAB",
+      "size_bytes": 72865444,
+      "md5": "0EE7C629987A4531DD98FB80B334F13D",
+      "sha256": "8B5D1B3A4C3F1C0DE472753155D8AF69B2124D7E7BCC305A25890A8B06A42910",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

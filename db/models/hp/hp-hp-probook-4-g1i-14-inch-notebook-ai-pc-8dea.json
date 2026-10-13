@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-probook-4-g1i-14-inch-notebook-ai-pc-8dea",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 4 G1i 14 inch Notebook AI PC",
+  "system_id": "8DEA",
+  "dmi_matches": [
+    "8DEA",
+    "HP ProBook 4 G1i 14 inch Notebook AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp161621-HP ProBook 4 G1i  AI  Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161621.exe",
+      "size_bytes": 2801787224,
+      "md5": "928A62F38269EBC25CCEC267355A4D62",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/24/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp170202-HP ProBook 4 G1i  AI  Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170202.exe",
+      "size_bytes": 2490076592,
+      "md5": "D8F41923ABAF9EC088B8C1A4733EB5C0",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "8/17/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

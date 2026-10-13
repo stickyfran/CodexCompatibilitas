@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elitebook-x360-1040-g6-notebook-pc-857f",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1040 G6 Notebook PC",
+  "system_id": "857F",
+  "dmi_matches": [
+    "857F",
+    "HP EliteBook x360 1040 G6 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp101914-HP EliteBook x360 1040 G6 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101914.exe",
+      "size_bytes": 832819512,
+      "md5": "2353390a1ae1be1b1f69cb2eec9e23e9",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "3/16/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110180-HP EliteBook x360 1040 G6 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110180.exe",
+      "size_bytes": 968659664,
+      "md5": "208a9b2f45d0f302b16f767780d37fa6",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "9/21/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114134-HP EliteBook x360 1040 G6 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114134.exe",
+      "size_bytes": 1086996520,
+      "md5": "ef6633ce6de3f7b6674236cf0c7112aa",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "6/7/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

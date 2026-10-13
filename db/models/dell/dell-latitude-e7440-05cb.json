@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e7440-05cb",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E7440",
+  "system_id": "05CB",
+  "dmi_matches": [
+    "Latitude E7440",
+    "05CB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-J1YD9",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04898824M/1/E7440-Win10-A04-J1YD9.CAB",
+      "size_bytes": 444790879,
+      "md5": "B9CFD485A7EBFED9F1103B02E519FABC",
+      "sha256": "B6B1F8CD3095277EE9E062FC59BA7E81B32461FBDBA2A577D83ABAAAC0D0168C",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-6PV4J",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04898793M/1/E7440-win7-A12-6PV4J.CAB",
+      "size_bytes": 469185384,
+      "md5": "0BFADB5E0CCCF80D8EB4710566FEE02C",
+      "sha256": "0D746F823FB36DDFF4744C113B5D6837E78B5F42B321419B35CEFFF03C0A1F84",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-KH5KC",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03523251M/1/E7440-win8.1-A06-KH5KC.CAB",
+      "size_bytes": 262436900,
+      "md5": "5F4811F99EF19F084C833AD92DD4CBDE",
+      "sha256": "12DE16E3AAC7E6572AE830E9E56B28DDCF15B75AF8EE541DE7A0A37CA886689C",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-462VH",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02411811M/1/E7440-win8-A05-462VH.CAB",
+      "size_bytes": 202868079,
+      "md5": "12A916879003B7E2ED8AADC87FFF5701",
+      "sha256": "5679EAA0CA41E60816AF4D5C0D888354220DA4F3A1C3E5BCFF20892491179053",
+      "version": null,
+      "release_date": "2014-09-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

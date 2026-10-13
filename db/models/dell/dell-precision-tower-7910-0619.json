@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-tower-7910-0619",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Tower 7910",
+  "system_id": "0619",
+  "dmi_matches": [
+    "Precision Tower 7910",
+    "0619"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RN2J6",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04846542M/1/T7910-win10-A06-RN2J6.CAB",
+      "size_bytes": 1747335828,
+      "md5": "81EE83D5F7A0B5D6A57B98D7161EA0B9",
+      "sha256": "558F4A097BC3E900EFFDE696CAA1631AF062D485D4919B3D3C3F36C6907E5347",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-0J3NF",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04851523M/1/T7910-win7-A10-0J3NF.CAB",
+      "size_bytes": 1675946421,
+      "md5": "F5F0018EDEEA140DA0868AE6FDD8F619",
+      "sha256": "DB0E67C63BB5BEA5D0ED19B065D0EEA58FCF1E42B768617874B23360BCD4C44C",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-327C9",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03512035M/1/T7910-win8.1-A04-327C9.CAB",
+      "size_bytes": 446254416,
+      "md5": "E611127DD393645D62C874ABA1B25D3C",
+      "sha256": "73D66BC57B673930493DB40131881AC9DD309E51DD45F1BA3D61EB0F00143019",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hp-hp-eliteone-870-27-inch-g9-all-in-one-desktop-pc-8acc",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 870 27 inch G9 All-in-One Desktop PC",
+  "system_id": "8acc,8acb,8957,895f",
+  "dmi_matches": [
+    "8acc",
+    "8acb",
+    "8957",
+    "895f",
+    "HP EliteOne 870 27 inch G9 All-in-One Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145710-HP EliteOne 8x0 27 G9 AIO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145710.exe",
+      "size_bytes": 1473673504,
+      "md5": "0f6d6630ca01bdd76b9a77e0165f45f1",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/26/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp168466-HP EliteOne 8x0 27 G9 AIO Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168466.exe",
+      "size_bytes": 1369723640,
+      "md5": "F18184BB64160C2F62020FC9F4ECD142",
+      "sha256": null,
+      "version": "10.00 A 1",
+      "release_date": "12/18/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

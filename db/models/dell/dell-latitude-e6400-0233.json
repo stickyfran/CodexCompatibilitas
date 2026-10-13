@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e6400-0233",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6400",
+  "system_id": "0233",
+  "dmi_matches": [
+    "Latitude E6400",
+    "0233"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RW93N",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02045533M/1/E6400-vista-A03-RW93N.CAB",
+      "size_bytes": 177508001,
+      "md5": "AF1E4C36BBDD77B97AADF8EC03C90A16",
+      "sha256": "E8D1F4AC21F674CB6CB9A628921445A28C16DB1245313C47A303F8C418A6CF23",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-J30K5",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02045492M/1/E6400-win7-A05-J30K5.CAB",
+      "size_bytes": 500116516,
+      "md5": "B8A0A38CFDD7D80B9144630B7075328C",
+      "sha256": "AC895E95B84C81B7DE94107A241E5888B0B08866E5E69413D242F04B65200E8A",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-R60F7",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02067077M/1/E6400-xp-A09-R60F7.CAB",
+      "size_bytes": 389058779,
+      "md5": "E974E3D5846FA0354F9EB522B6D2E2C9",
+      "sha256": "AE050C59931145A8A12921FEB6FC6E6BBCFE4AD5F45276ED62F56B49FBB943A6",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

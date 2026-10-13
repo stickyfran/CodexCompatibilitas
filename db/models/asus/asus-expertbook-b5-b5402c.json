@@ -1,0 +1,13 @@
+{
+  "id": "asus-expertbook-b5-b5402c",
+  "vendor": "ASUS",
+  "family": "ExpertBook",
+  "model_name": "Expertbook B5 B5402C",
+  "system_id": "B5402C",
+  "dmi_matches": [
+    "B5402C"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

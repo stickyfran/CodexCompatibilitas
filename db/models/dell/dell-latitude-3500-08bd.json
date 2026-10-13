@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3500-08bd",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3500",
+  "system_id": "08BD",
+  "dmi_matches": [
+    "Latitude 3500",
+    "08BD"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-4C3N9",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07956694M/1/3500-win10-A13-4C3N9.CAB",
+      "size_bytes": 1548021133,
+      "md5": "D88DB9DF9644DE19C3A3A69BF6DF332C",
+      "sha256": "0AEA5FD708836148A5675E2A97730C05E270FE5616A76E9146EA65FFDC699621",
+      "version": null,
+      "release_date": "2022-02-03T13:14:33"
+    },
+    {
+      "name": "DellPack-YH77C",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08164654M/1/3500-win11-A00-YH77C.CAB",
+      "size_bytes": 1692345974,
+      "md5": "605E84199166AB3DF0914E44A8743D0A",
+      "sha256": "E0EF413146EF9C98CBB7CAFD742CC42CFC1C273BE53FC683659124041547B57B",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

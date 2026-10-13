@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5290-2-in-1-081d",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5290 2-IN-1",
+  "system_id": "081D",
+  "dmi_matches": [
+    "Latitude 5290 2-IN-1",
+    "081D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-V8N0D",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07340616M/1/5290 2-IN-1-win10-A15-V8N0D.CAB",
+      "size_bytes": 737176767,
+      "md5": "7E9C2D7D5FC8D7E9AF6052F8CD565E75",
+      "sha256": "90E0924150DA937A0C534703A2A389EFB8A0699352FC8D87D3B0E2055C4C0AA7",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    },
+    {
+      "name": "DellPack-1WV2K",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10624263M/1/5290-2-IN-1-1WV2K_Win11_1.0_A00.exe",
+      "size_bytes": 1047099872,
+      "md5": "E2B5DB2EFDDE1A99A4D7893FCA239507",
+      "sha256": "2CBE319A3CF3B0891F83E42BC2C8BA5D9DC99CEC4B1B781FA99E546398457A60",
+      "version": null,
+      "release_date": "2023-10-27T05:18:49"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

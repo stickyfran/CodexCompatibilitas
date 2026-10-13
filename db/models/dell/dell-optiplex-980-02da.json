@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-980-02da",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 980",
+  "system_id": "02DA",
+  "dmi_matches": [
+    "OptiPlex 980",
+    "02DA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-F17H3",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02289149M/1/980-vista-A02-F17H3.CAB",
+      "size_bytes": 399652781,
+      "md5": "4F272B0DFC443716C75D91728EE3BC4A",
+      "sha256": "093C9258856D63BF836AAA960F83D05A3AFB5C35ABDEEE932983D7C6BE62BC34",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-KFHTN",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02120262M/1/980-win7-A09-KFHTN.CAB",
+      "size_bytes": 828987926,
+      "md5": "195C1E4931F53E47E708AE742037F4B3",
+      "sha256": "0E1BCCA1949CF9B9532458A6B515280C32468029B736B2766FA9526D5D88D137",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-1PJJN",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02120244M/1/980-xp-A09-1PJJN.CAB",
+      "size_bytes": 243756270,
+      "md5": "01801CE4FF9D0913FB77F2D417F5DE01",
+      "sha256": "417DC3C5A1815DC5A537AD1640290CACC75EFFEFEE7144B2742EF09EDF6B507B",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

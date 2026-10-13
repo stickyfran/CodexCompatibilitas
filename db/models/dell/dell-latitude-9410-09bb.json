@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-9410-09bb",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 9410",
+  "system_id": "09BB",
+  "dmi_matches": [
+    "Latitude 9410",
+    "09BB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-FPN41",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08061388M/1/9410-win11-A00-FPN41.CAB",
+      "size_bytes": 1747130502,
+      "md5": "30F1214BF1B2B62C340916B984566104",
+      "sha256": "AFC7E29FC3919BE2B9F4DF7AF4738B51E312DBCC5EBDF090908DDEE388162680",
+      "version": null,
+      "release_date": "2022-04-21T04:02:17"
+    },
+    {
+      "name": "DellPack-CKR53",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09359081M/1/9410-CKR53_Win10_1.0_A13.exe",
+      "size_bytes": 2190468560,
+      "md5": "70DB3E6476077C22105BCA8F5DE3CA2F",
+      "sha256": "F1FD2E892558DDDDEA5FF85D794EF38B0549C8220D7167952BC752F86832FBD6",
+      "version": null,
+      "release_date": "2022-12-21T16:50:42"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

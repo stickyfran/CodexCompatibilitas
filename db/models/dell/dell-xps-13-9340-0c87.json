@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-13-9340-0c87",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9340",
+  "system_id": "0C87",
+  "dmi_matches": [
+    "XPS 13 9340",
+    "0C87"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-H9KD7",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14229203M/1/XPS-13-9340-H9KD7_Win11_1.0_A09.exe",
+      "size_bytes": 990737664,
+      "md5": "D0F7742D1AB6C9CF53638E75E4DBB379",
+      "sha256": "BFFED0DE3277BF0EA3193C32C68A9376EE565BFCF6F735752EE9FF6E7113CBEF",
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hp-hp-zbook-x-g2i-16-inch-mobile-workstation-pc-8f0d",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook X G2i 16 inch Mobile Workstation PC",
+  "system_id": "8F0D,8F0C",
+  "dmi_matches": [
+    "8F0D",
+    "8F0C",
+    "HP ZBook X G2i 16 inch Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp173906-HP ZBook X G2i MWS Windows11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173906.exe",
+      "size_bytes": 2725568336,
+      "md5": "CFC0AEAF0AA7ADC8CCCB4AE42D669135",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "8/17/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-vivobook-15-oled-m1505",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Asus Vivobook 15 Oled M1505",
+  "system_id": "M1505",
+  "dmi_matches": [
+    "M1505"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

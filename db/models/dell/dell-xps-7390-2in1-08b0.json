@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-7390-2in1-08b0",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 7390 2in1",
+  "system_id": "08B0",
+  "dmi_matches": [
+    "XPS 7390 2in1",
+    "08B0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WGJHF",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08691968M/1/7390-2in1-WGJHF_Win10_1.0_A11.exe",
+      "size_bytes": 1271873088,
+      "md5": "7E68D28FD8D4C3CF32FD7322C6200849",
+      "sha256": "78F0540AA5592707B2402779F5600D03821E13501A622CDC0A8300AEB45462BE",
+      "version": null,
+      "release_date": "2022-07-07T07:28:52"
+    },
+    {
+      "name": "DellPack-4PY3P",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER07772029M/1/7390 2in1-win11-A00-4PY3P.CAB",
+      "size_bytes": 906379213,
+      "md5": "7EB37A1C3D10746B494C2BD1F93F6999",
+      "sha256": "C1E6C298A46F51B0B386886A5D82C8B4773E9F072E16ED06EE22AE090422D439",
+      "version": null,
+      "release_date": "2021-10-11T05:10:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

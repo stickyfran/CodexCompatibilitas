@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-790-04ad",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 790",
+  "system_id": "04AD",
+  "dmi_matches": [
+    "OptiPlex 790",
+    "04AD"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y90GC",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER01836712M/1/790-vista-A02-Y90GC.CAB",
+      "size_bytes": 153530195,
+      "md5": "CD39A9C8338DBC8A3BF724182DE0B61A",
+      "sha256": "70F9415522E71B819E5D6BBECD74122FC432BC14C92BE58EC1E24D192309FA52",
+      "version": null,
+      "release_date": "2013-11-12T00:00:00"
+    },
+    {
+      "name": "DellPack-GTMXV",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02584344M/1/790-win7-A09-GTMXV.CAB",
+      "size_bytes": 485122506,
+      "md5": "BE7F4A1C011158C98DB0B8007FC6E13D",
+      "sha256": "4A606288524CA68ED0AA284DFFFA9B2AFA2520AD72EEB49DBB78C655E3E9CA2F",
+      "version": null,
+      "release_date": "2014-10-13T00:00:00"
+    },
+    {
+      "name": "DellPack-RJ87D",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02253805M/1/790-xp-A11-RJ87D.CAB",
+      "size_bytes": 69326416,
+      "md5": "9B585393BE41EFF4FDD3CF2A90131173",
+      "sha256": "74A556791F8F396D17E7942B7D779C0CE2AE5A14C5CEC478C61E2E43F0FABD02",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

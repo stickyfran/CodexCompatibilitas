@@ -1,0 +1,47 @@
+{
+  "id": "hp-hp-eliteone-800-g5-23.8-in-healthcare-edition-all-in-one-859f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One",
+  "system_id": "859f,85a0,85eb",
+  "dmi_matches": [
+    "859f",
+    "85a0",
+    "85eb",
+    "HP EliteOne 800 G5 23.8-in Healthcare Edition All-in-One"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp96782-HP ElitePro 4/6/800 G5 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96782.exe",
+      "size_bytes": 738862328,
+      "md5": "eebb0157f59933272493e925deef3d33",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/30/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp109028-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp109001-109500/sp109028.exe",
+      "size_bytes": 909840496,
+      "md5": "00f2a25d0bc94daf90556d89bd634fbe",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "9/10/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114248-HP ElitePro 4/6/800 G5 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114248.exe",
+      "size_bytes": 886134344,
+      "md5": "8b54cafe69710ecdb74024ed18c700a8",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

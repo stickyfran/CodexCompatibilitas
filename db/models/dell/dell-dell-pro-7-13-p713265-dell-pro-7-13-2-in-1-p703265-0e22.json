@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-7-13-p713265-dell-pro-7-13-2-in-1-p703265-0e22",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265",
+  "system_id": "0E22",
+  "dmi_matches": [
+    "Dell Pro 7 13 P713265/Dell Pro 7 13 2-in-1 P703265",
+    "0E22"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PKJTY",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14830868M/1/P7x3265-PKJTY_Win11_1.0_A01.exe",
+      "size_bytes": 1055205104,
+      "md5": "8F269AB52ECE68B4160B0CCB46463066",
+      "sha256": "F3C9C7A8CFC27254290922E2E4AB3BF79009FAF9A262CB6B912599CE8B6BFDE0",
+      "version": null,
+      "release_date": "2026-09-22T02:46:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

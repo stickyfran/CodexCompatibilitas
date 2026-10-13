@@ -1,0 +1,39 @@
+{
+  "id": "lenovo-thinkstation-p320",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P320",
+  "system_id": "30BG,30BK,30BH,30BR,30BJ,30BS",
+  "dmi_matches": [
+    "30BG",
+    "30BK",
+    "30BH",
+    "30BR",
+    "30BJ",
+    "30BS"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p320_w1064_201808.exe",
+      "size_bytes": null,
+      "md5": "2588967a59b2d65aad648d5807594440",
+      "sha256": "d7f26b8b6d9ac65fb469683707971772f860f68f5ccc4bfd980352afe9be6441",
+      "version": null,
+      "release_date": "2018-08-29"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p320_w1064_1809_201905.exe",
+      "size_bytes": null,
+      "md5": "ccaf6dc57b67f409308692c7778464ab",
+      "sha256": "7abaad162ce46dbe88fc513607dcc042c749642811537e489c45bafcd3b3b843",
+      "version": null,
+      "release_date": "2019-06-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

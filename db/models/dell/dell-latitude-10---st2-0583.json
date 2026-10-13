@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-10---st2-0583",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Latitude 10 - ST2",
+  "system_id": "0583",
+  "dmi_matches": [
+    "Latitude 10 - ST2",
+    "0583"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-R8XJC",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02908398M/1/ST2-Win8.1-A04-R8XJC.CAB",
+      "size_bytes": 47595669,
+      "md5": "87D808BF6D42FA9B8C53A643FF70D4AF",
+      "sha256": "7EEBEEF0A7FD4E6B4FB0ACDE4479B8BA77ECC80ACAD03FB64089DD7F8438CFF0",
+      "version": null,
+      "release_date": "2015-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-0R8GH",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02583134M/1/ST2-win8-A07-0R8GH.CAB",
+      "size_bytes": 138581691,
+      "md5": "3F4DC29307A98C66CBF38BD2F6E10CD2",
+      "sha256": "E8E6C9B4D2A728FE3D26583AFCBD18D3BCBB6E2713B3E46D8D445C61F06BC83F",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

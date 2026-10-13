@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elitedesk-800-g8-small-form-factor-pc-889c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G8 Small Form Factor PC",
+  "system_id": "889C",
+  "dmi_matches": [
+    "889C",
+    "HP EliteDesk 800 G8 Small Form Factor PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp123512-HP ElitePro 6/8x0 G8 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123512.exe",
+      "size_bytes": 1668932840,
+      "md5": "afd6307ab22846a599e189a6aa30fb1a",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138480-HP ElitePro 6/8x0 G8 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138480.exe",
+      "size_bytes": 1172344968,
+      "md5": "34c76021151d4ecf4373288ca6779730",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/21/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp136262-HP ElitePro 6/8x0 G8 PC Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136262.exe",
+      "size_bytes": 1523093560,
+      "md5": "c8446958aae0fb26c76dfb8d806a9c50",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

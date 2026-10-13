@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-13-9315-2-in-1-0b49",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9315 2-in-1",
+  "system_id": "0B49",
+  "dmi_matches": [
+    "XPS 13 9315 2-in-1",
+    "0B49"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-8PPJK",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12228348M/1/XPS-13-9315-2-in-1-8PPJK_Win11_1.0_A11.exe",
+      "size_bytes": 1523870816,
+      "md5": "80936BFDAC215DB8CFE14359A94B711D",
+      "sha256": "352B80315389C0CEB864F538255DC9971DBDDA29B715C4A3ABD880670A17E639",
+      "version": null,
+      "release_date": "2024-12-05T01:34:38"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

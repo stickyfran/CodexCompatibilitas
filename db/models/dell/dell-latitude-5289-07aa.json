@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-5289-07aa",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5289",
+  "system_id": "07AA",
+  "dmi_matches": [
+    "Latitude 5289",
+    "07AA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JDW66",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06528841M/1/5289-win10-A12-JDW66.CAB",
+      "size_bytes": 690237223,
+      "md5": "B8B302D735145E0F6365107CA91A2414",
+      "sha256": "647E610B451FCA1CD2DF1CF47A9BB4AE262352315A6AF3AAE76F36C2921ADFC2",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

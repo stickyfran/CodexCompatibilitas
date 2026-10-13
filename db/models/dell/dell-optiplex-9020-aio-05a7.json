@@ -1,0 +1,55 @@
+{
+  "id": "dell-optiplex-9020-aio-05a7",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 9020 AIO",
+  "system_id": "05A7",
+  "dmi_matches": [
+    "OptiPlex 9020 AIO",
+    "05A7"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HFGR3",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04898417M/1/9020 AIO-win10-A04-HFGR3.CAB",
+      "size_bytes": 782010663,
+      "md5": "AE41A9276BDEAEEF693EE607C0532586",
+      "sha256": "E148C78DD2F67C7D7330A1C34772E0D65CEFA56AB102915BA9F650439DFFA3AC",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-CH48X",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04898580M/1/9020 AIO-win7-A12-CH48X.CAB",
+      "size_bytes": 527381974,
+      "md5": "856B366426700CD3EC215AC23AA6C62A",
+      "sha256": "2391BC54D38781DA62B188A91B07E59D546E14F794732806B4CCBF96DCB8ED41",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-RJK0P",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03528170M/1/9020 AIO-win8.1-A06-RJK0P.CAB",
+      "size_bytes": 334365553,
+      "md5": "085C16D4466931D58EB295B9D2053DB4",
+      "sha256": "F849BD2847E86FFE2F0E87B6F0FA883AFEC2BAE5D6E3BD8188813DE8E89A275C",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    },
+    {
+      "name": "DellPack-CNRN1",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02527387M/1/9020 AIO-win8-A05-CNRN1.CAB",
+      "size_bytes": 309567074,
+      "md5": "075A5BEA240E9AE9DD3F30B8E90DF9AF",
+      "sha256": "F93908A3DE35EC5397A4710A1485B1599D427D0DF91FFAACF0253DC39871497A",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

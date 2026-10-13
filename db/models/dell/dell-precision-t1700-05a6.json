@@ -1,0 +1,55 @@
+{
+  "id": "dell-precision-t1700-05a6",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T1700",
+  "system_id": "05A6",
+  "dmi_matches": [
+    "Precision T1700",
+    "05A6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M1X9P",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04907472M/1/T1700-win10-A04-M1X9P.CAB",
+      "size_bytes": 1057041194,
+      "md5": "1D3BC185E6D5980CDAE1BA63379D2806",
+      "sha256": "AF8AF3275B42899353AEB36326225CB8F432168A3614A84B73401B347D4238C5",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-D1PR2",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04907383M/1/T1700-win7-A11-D1PR2.CAB",
+      "size_bytes": 1002892085,
+      "md5": "58E59C0AA813960C1D0D942F54BF02A3",
+      "sha256": "653B5C13C646DAAAC90A0D40B70E05DB6C15EB6CB3442B893D91B23307A18B7D",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-VPPXN",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03501882M/1/T1700-win8.1-A06-VPPXN.CAB",
+      "size_bytes": 605619291,
+      "md5": "15A34B1B07E4E11635F389D1673D38A3",
+      "sha256": "C18F1F4A9F2481BD8E51F1A0DDB233825E9782D3F18096811F4BA16FD97978E6",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-692F3",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02476294M/1/T1700-win8-A05-692F3.CAB",
+      "size_bytes": 748627432,
+      "md5": "6E1367ADB4BAA1247B01E76BC3EF0922",
+      "sha256": "BD48A0CE49725B00076F0CF94BB76ECE6DAE320E3D7E99C23D220528B1625176",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

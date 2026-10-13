@@ -1,0 +1,62 @@
+{
+  "id": "lenovo-thinkstation-p360",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P360",
+  "system_id": "30FN,30FQ,30FM,30FW,30FU,30FR,30FX,30FT,30FV",
+  "dmi_matches": [
+    "30FN",
+    "30FQ",
+    "30FM",
+    "30FW",
+    "30FU",
+    "30FR",
+    "30FX",
+    "30FT",
+    "30FV"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p360_w1064_21h2_202208.exe",
+      "size_bytes": null,
+      "md5": "f1f73745d119415a6c0e454c7e7b4ac7",
+      "sha256": "33f4f11f4a8e4443b9f220b8cfe2c7e5817a96fb85c27620375dbb253c604a2d",
+      "version": null,
+      "release_date": "2025-06-12"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p360_w1064_22h2_202505.exe",
+      "size_bytes": null,
+      "md5": "899a707830520d67dca09bed4ab825f9",
+      "sha256": "a9be93b3c9d1b20be311becc67a75bd0a72dcdbc3691eee6a755867885528756",
+      "version": null,
+      "release_date": "2025-06-12"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p360_w11_21_202203.exe",
+      "size_bytes": null,
+      "md5": "073976e2ca1a65b826fbfc2c2872d302",
+      "sha256": "543e998f2736775b2786510a451381be6ff3e5ffb645799f7ac91d97ea78dca9",
+      "version": null,
+      "release_date": "2025-06-12"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p360_w11_22_202505.exe",
+      "size_bytes": null,
+      "md5": "3e869e15a5c027d4330ae0f3345aa996",
+      "sha256": "452937e5ed5eaff5669e9a9ae56d72ac2ba130d74511b6428c0ea0f4321981b4",
+      "version": null,
+      "release_date": "2025-06-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

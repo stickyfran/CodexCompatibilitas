@@ -1,0 +1,65 @@
+{
+  "id": "lenovo-thinkpad-t550",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T550",
+  "system_id": "20CJ,20CK",
+  "dmi_matches": [
+    "20CJ",
+    "20CK"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1703_201706.exe",
+      "size_bytes": null,
+      "md5": "9b148f5ff8557c6a695891bae0a333a2",
+      "sha256": "2dd2f7b03c6626433683f58a61a064c4bac353c7b703d088309a52a22ffca9cc",
+      "version": null,
+      "release_date": "2017-06-24"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1709_201710.exe",
+      "size_bytes": null,
+      "md5": "8293a5559e652fc3d29f3d14f5ddaf71",
+      "sha256": "3db980514c9b8767a3b1e84753e5ae7336d765e50b617dad63efd59b3504ba38",
+      "version": null,
+      "release_date": "2017-10-31"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "f4d0083e103592c4e46b909a1d1a4dfe",
+      "sha256": "6cd221d036ff32e62e3dde532e66e4531921c2d88fa16025e06b0d3e2debf9b6",
+      "version": null,
+      "release_date": "2018-07-23"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": "1bcea55ef156d127e0a33b21d4bab805",
+      "sha256": "5fcd837b0a970b3da6cb0e32dfac02a15edc7864ff55827a993ae62336e39ab8",
+      "version": null,
+      "release_date": "2018-10-30"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t550-w550s_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "067a53d5ae550644489a40e8dd8678c7",
+      "sha256": "1792c0906544b465c2cd135c718959b496d58d939b39e28bbd210699722f5df9",
+      "version": null,
+      "release_date": "2019-06-05"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

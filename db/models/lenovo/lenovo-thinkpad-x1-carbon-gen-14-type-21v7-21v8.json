@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-x1-carbon-gen-14-type-21v7-21v8",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Carbon Gen 14 Type 21V7 21V8",
+  "system_id": "21V7,21V8",
+  "dmi_matches": [
+    "21V7",
+    "21V8"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21v7-21v8-x1_2-in-1_mt21v9-21va_w11_24_202608.exe",
+      "size_bytes": null,
+      "md5": "1b4287979bd98e5423d710a66e2f1b7c",
+      "sha256": "8d61efed76f2517e175d7851641093a392098b601919fde20157074fa9d4a996",
+      "version": null,
+      "release_date": "2026-08-17"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21v7-21v8-x1_2-in-1_mt21v9-21va_w11_25_202608.exe",
+      "size_bytes": null,
+      "md5": "6312deb8d698cf11d5f25e25935ae59c",
+      "sha256": "5632cd5b3e99bb2178a9acc2fa32f3ec598627b8369ba9a64d626179155a8308",
+      "version": null,
+      "release_date": "2026-08-17"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

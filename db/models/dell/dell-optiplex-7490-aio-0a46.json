@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7490-aio-0a46",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7490 AIO",
+  "system_id": "0A46",
+  "dmi_matches": [
+    "OptiPlex 7490 AIO",
+    "0A46"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-NGK7X",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11010022M/1/7490-AIO-NGK7X_Win10_1.0_A12.exe",
+      "size_bytes": 2478195232,
+      "md5": "803E126F4FE3509D505D6B38465DDB7F",
+      "sha256": "2DBCB7488AFD35C42C1E05A986B8C160C5801D7FE757FC5DD717C4C194012C46",
+      "version": null,
+      "release_date": "2024-03-08T00:14:17"
+    },
+    {
+      "name": "DellPack-9MFPM",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11010023M/1/7490-AIO-9MFPM_Win11_1.0_A06.exe",
+      "size_bytes": 2478209696,
+      "md5": "BA26D7FB208756821D0E0BC4AC8013BB",
+      "sha256": "94EDB7E234B27F02FAC415941551D4D041A6921B5275E200BF4468F50B741774",
+      "version": null,
+      "release_date": "2024-03-08T00:14:17"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

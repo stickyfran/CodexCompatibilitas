@@ -1,0 +1,55 @@
+{
+  "id": "dell-optiplex-9020-05a4",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 9020",
+  "system_id": "05A4",
+  "dmi_matches": [
+    "OptiPlex 9020",
+    "05A4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6TD3V",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04897495M/1/9020-win10-A05-6TD3V.CAB",
+      "size_bytes": 870362084,
+      "md5": "EAC66569FA1934A1DBE380110FEA8908",
+      "sha256": "B36246D5C1C121494FB047B0810B59A04AC9969FE0BEC8A72E48440A720F1770",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-MH44X",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04897211M/1/9020-win7-A13-MH44X.CAB",
+      "size_bytes": 937476460,
+      "md5": "0A41174414081ACEB2BE9D2F721B5502",
+      "sha256": "28B02F197491D9482B7812E14964F3C8FCA8610A6D22F078E259E27AC0E46A87",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-H0JV7",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03578472M/1/9020-win8.1-A06-H0JV7.CAB",
+      "size_bytes": 421640944,
+      "md5": "7EF6F0ACEADE1A5D44F3C25BB64D74E3",
+      "sha256": "C95EB8AD4213BB518E079BC01E9B44F0690BF3D46051986796429DADA8B26ABA",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    },
+    {
+      "name": "DellPack-R5P5D",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02607967M/1/9020-win8-A05-R5P5D.CAB",
+      "size_bytes": 483027944,
+      "md5": "F5F1C740A3ABD8C914B45956D38B572F",
+      "sha256": "58A836DEA1630CC5DEC0928A90C3BDA22C14903EBDEE4B772C87CA73DFDBC6FE",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

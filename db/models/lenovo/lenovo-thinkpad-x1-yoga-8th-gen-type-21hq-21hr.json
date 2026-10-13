@@ -1,0 +1,85 @@
+{
+  "id": "lenovo-thinkpad-x1-yoga-8th-gen-type-21hq-21hr",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Yoga 8th Gen Type 21HQ 21HR",
+  "system_id": "21HR,21HQ",
+  "dmi_matches": [
+    "21HR",
+    "21HQ"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21hm-21hn-x1yoga_mt21hq-21hr_w1064_21h2_202506.exe",
+      "size_bytes": null,
+      "md5": "537069535d66bbe7885cc18530e44c5e",
+      "sha256": "72eed31f989aafed553a65ea656697d0f6edbe3550cc876fdcdceb637a520bcd",
+      "version": null,
+      "release_date": "2026-06-26"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21hm-21hn-x1yoga_mt21hq-21hr_w1064_22h2_202506.exe",
+      "size_bytes": null,
+      "md5": "2113f91dd107f69dbe70dc68299c8657",
+      "sha256": "9ce8d15493621cf169bc97246cc89e466316092f880bdbbea1fe2f8a4694680c",
+      "version": null,
+      "release_date": "2025-07-01"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21hm-21hn-x1yoga_mt21hq-21hr_w11_21_202312.exe",
+      "size_bytes": null,
+      "md5": "580976e4e912ffeedc465bb18dec67fb",
+      "sha256": "6a56f9af88715aeb016c69500e6872e41ee6067f38c7c902233d63b136457028",
+      "version": null,
+      "release_date": "2023-12-13"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21hm-21hn-x1yoga_mt21hq-21hr_w11_22_202409.exe",
+      "size_bytes": null,
+      "md5": "02d598d1513d9ad1ef5e02f9fb639438",
+      "sha256": "7856402f7a5c59bc34c39c558082e79fecc427fe3d2829df7d63f7a1b18203bd",
+      "version": null,
+      "release_date": "2024-09-30"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21hm-21hn-x1yoga_mt21hq-21hr_w11_23_202506.exe",
+      "size_bytes": null,
+      "md5": "3f72bcbbf2952048b4995a720a064513",
+      "sha256": "743249b4c46c0c999b397dbe74b2de57f7586e3fca902ddff12e76cd1066aafa",
+      "version": null,
+      "release_date": "2026-07-07"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21hm-21hn-x1yoga_mt21hq-21hr_w11_24_202506.exe",
+      "size_bytes": null,
+      "md5": "53ba2bcbe1603a04fc5005e6fd84af6a",
+      "sha256": "c026f4090cd8a946ae6852e37ecb81b6d2b945283fda06fa35b8e3b6b1e7368d",
+      "version": null,
+      "release_date": "2025-06-26"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt21hm-21hn-x1yoga_mt21hq-21hr_w11_25_202512.exe",
+      "size_bytes": null,
+      "md5": "a78551f86951219cdd955bd3257f0e92",
+      "sha256": "e94faf9e4e8734dfe87b31d10ac4948fd90654ec3db1144417f44432a398339d",
+      "version": null,
+      "release_date": "2025-12-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

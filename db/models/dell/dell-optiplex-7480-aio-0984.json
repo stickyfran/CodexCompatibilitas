@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7480-aio-0984",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7480 AIO",
+  "system_id": "0984",
+  "dmi_matches": [
+    "OptiPlex 7480 AIO",
+    "0984"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6JRF9",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09854406M/1/7480-AIO-6JRF9_Win10_1.0_A12.exe",
+      "size_bytes": 2233557664,
+      "md5": "6793921ABF517C529D8824055B2A7696",
+      "sha256": "27F91722A9D8E6D5BD4EA7BCA753A9546CFBB0497A8C643F28E45CA91CFF2EFD",
+      "version": null,
+      "release_date": "2023-06-30T02:52:58"
+    },
+    {
+      "name": "DellPack-G3Y4X",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09854400M/1/7480-AIO-G3Y4X_Win11_1.0_A02.exe",
+      "size_bytes": 2233565272,
+      "md5": "183382841E82782626AFBF7868CAE5FF",
+      "sha256": "59449127DBC2EB3522FF0956CB445F3E1D0E89E84CCEA6FD7631349F1CAA19F9",
+      "version": null,
+      "release_date": "2023-06-30T02:52:58"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

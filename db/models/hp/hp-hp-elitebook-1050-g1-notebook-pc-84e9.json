@@ -1,0 +1,85 @@
+{
+  "id": "hp-hp-elitebook-1050-g1-notebook-pc-84e9",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 1050 G1 Notebook PC",
+  "system_id": "84e9",
+  "dmi_matches": [
+    "84e9",
+    "HP EliteBook 1050 G1 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp88881-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88881.exe",
+      "size_bytes": 724641272,
+      "md5": "00a3f300debb05aa98685c19d47ff117",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/6/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp91840-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp91501-92000/sp91840.exe",
+      "size_bytes": 803440328,
+      "md5": "44419c4c513a2444be6c9d35e475e083",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "11/1/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95549-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95501-96000/sp95549.exe",
+      "size_bytes": 817369240,
+      "md5": "f4dcec5a1dbe3522256ed1b59526d6dd",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "4/5/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99720-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99720.exe",
+      "size_bytes": 890260152,
+      "md5": "bf4ced07dd7348f601ce1d177af7bdce",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "11/14/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101326-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101326.exe",
+      "size_bytes": 946233848,
+      "md5": "286b9226fc7ebc47d7d8bce9866239eb",
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "1/10/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110038-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110038.exe",
+      "size_bytes": 1492441416,
+      "md5": "a1bd3a212ad3af9af3351e206092f6a6",
+      "sha256": null,
+      "version": "13.0 A 1",
+      "release_date": "9/11/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114252-HP ZB Studio G5/EB 1050 G1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114252.exe",
+      "size_bytes": 1489248376,
+      "md5": "5e6c95f465e487e2d62fe450d3cb59e5",
+      "sha256": null,
+      "version": "15.0 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

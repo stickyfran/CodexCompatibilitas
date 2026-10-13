@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-x360-11-g3-ee-notebook-pc-8521",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G3 EE Notebook PC",
+  "system_id": "8521",
+  "dmi_matches": [
+    "8521",
+    "HP ProBook x360 11 G3 EE Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp93009-HP ProBook x360 11 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93001-93500/sp93009.exe",
+      "size_bytes": 524253072,
+      "md5": "3001385103d0be6ccbb48ce33b711836",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/26/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp99671-HP ProBook x360 11 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99671.exe",
+      "size_bytes": 682289688,
+      "md5": "31e34c28897494dee4ac8c7a9b7e8eaf",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "11/19/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp103588-HP ProBook x360 11 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103588.exe",
+      "size_bytes": 802354288,
+      "md5": "1d00764ad1974da3e78e526b5d60fc10",
+      "sha256": null,
+      "version": "6.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp111752-HP ProBook x360 11 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111752.exe",
+      "size_bytes": 817798664,
+      "md5": "299b6e3b9a45469f08391f5e5977c0e7",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "12/21/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

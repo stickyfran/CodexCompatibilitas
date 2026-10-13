@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-eliteboard-g2a-next-gen-ai-pc-8ef0",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteBoard G2a Next Gen AI PC",
+  "system_id": "8EF0",
+  "dmi_matches": [
+    "8EF0",
+    "HP EliteBoard G2a Next Gen AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp174519-HP EliteBoard G2a Next Gen AI Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174519.exe",
+      "size_bytes": 1063077456,
+      "md5": "433DFB640A96FA56797E626FC879CC3C",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "9/1/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

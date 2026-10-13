@@ -1,0 +1,13 @@
+{
+  "id": "asus-rog-flow-x13-gv302",
+  "vendor": "ASUS",
+  "family": "ROG",
+  "model_name": "Rog Flow X13 Gv302",
+  "system_id": "GV302",
+  "dmi_matches": [
+    "GV302"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

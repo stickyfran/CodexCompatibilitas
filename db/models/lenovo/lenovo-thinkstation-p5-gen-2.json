@@ -1,0 +1,26 @@
+{
+  "id": "lenovo-thinkstation-p5-gen-2",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P5 Gen 2",
+  "system_id": "30KD,30KB,30KC",
+  "dmi_matches": [
+    "30KD",
+    "30KB",
+    "30KC"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p5_gen2_w11_24h2_202609.exe",
+      "size_bytes": null,
+      "md5": "1511df2e1685499546e9ff4040305f2c",
+      "sha256": "c18e3c8c225988416a5f716a050a28351474dc81e31db7377965497b014e2261",
+      "version": null,
+      "release_date": "2026-09-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

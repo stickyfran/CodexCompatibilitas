@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-7050-07a1",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7050",
+  "system_id": "07A1",
+  "dmi_matches": [
+    "OptiPlex 7050",
+    "07A1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-772VV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06528239M/1/7050-win10-A14-772VV.CAB",
+      "size_bytes": 890914965,
+      "md5": "74A0BFB4F0182B1A96183D8C4EED7D65",
+      "sha256": "2B4AFE08B291E7ADA134C9D19CAFD3BF4FF960BCFCB8B462413197D6BC075026",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-HTNM4",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06182972M/1/7050-Win7-A13-HTNM4.CAB",
+      "size_bytes": 1031142925,
+      "md5": "F3AB810BF992CD8A47A8CEC7F6CB8911",
+      "sha256": "A9FFB8108BFFCE5FE4563AE6F5F824E63DFE290AD064A57094AF3D03BC9CB48F",
+      "version": null,
+      "release_date": "2020-05-12T00:00:00"
+    },
+    {
+      "name": "DellPack-82M12",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04599544M/1/7050-Win8.1-A03-82M12.CAB",
+      "size_bytes": 651284619,
+      "md5": "E41106BD908E0AAE850F6DB32473119F",
+      "sha256": "9F05B4D842416CA48C4FB7C59758EEDC938ECC3D975F2F59672D4F4B2ADE6970",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

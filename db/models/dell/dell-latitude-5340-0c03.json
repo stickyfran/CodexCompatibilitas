@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5340-0c03",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5340",
+  "system_id": "0C03",
+  "dmi_matches": [
+    "Latitude 5340",
+    "0C03"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YTNDG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13733402M/1/Latitude-5340-YTNDG_Win10_1.0_A11.exe",
+      "size_bytes": 1188083224,
+      "md5": "464759CFA7FF35DB062EDA8BE27BBD95",
+      "sha256": "8AACEBFBF67B5E5354636C49A902A58F1D109DC03C28DC559CB26B3D6E02AE0B",
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    },
+    {
+      "name": "DellPack-30VC2",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14425684M/1/Latitude-5340-30VC2_Win11_1.0_A12.exe",
+      "size_bytes": 1490238264,
+      "md5": "D15830640798E615C99B7A199C0ABEA3",
+      "sha256": "7DA7FB08603DCFE018E9CC251529860AD3109286ABB94CFF0EF678EC13AB641E",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-r5400-024e",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision R5400",
+  "system_id": "024E",
+  "dmi_matches": [
+    "Precision R5400",
+    "024E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6X46W",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02299915M/1/R5400-Vista-A01-6X46W.CAB",
+      "size_bytes": 359590710,
+      "md5": "A98F06534ED7F3200628FB2D883FB82B",
+      "sha256": "B69E904F8F54907A67883F6C2B433B2481E51A2A367FF222FCEFD46555B20D92",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-1597H",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02236568M/1/R5400-Win7-A01-1597H.CAB",
+      "size_bytes": 318522665,
+      "md5": "A00EEC10B60EA73D6F8734FC900373CA",
+      "sha256": "B54B7D956165980799CBE45E51C622558C72495BC08419CE0B5D4E21615631B5",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

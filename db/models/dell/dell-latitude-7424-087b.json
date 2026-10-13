@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-7424-087b",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7424",
+  "system_id": "087B",
+  "dmi_matches": [
+    "Latitude 7424",
+    "087B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KX1DK",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07409844M/1/7424-win10-A10-KX1DK.CAB",
+      "size_bytes": 1184474252,
+      "md5": "E1394BA0B8A24D62A1C3C9A21783E202",
+      "sha256": "C06DA4B05F3F6587FA6BDD1D1D52BAC3ECE241128DB0FCC45AE51B16732BEA72",
+      "version": null,
+      "release_date": "2021-08-05T10:39:39"
+    },
+    {
+      "name": "DellPack-XFY3Y",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER07424978M/1/7424-win7-A09-XFY3Y.CAB",
+      "size_bytes": 515884289,
+      "md5": "9DB246AA9B838E1FE437E3005E3924D7",
+      "sha256": "697E42DF74986DDF3B0BE325CC8628825974777290223FD763366F6E8BFFCC2F",
+      "version": null,
+      "release_date": "2021-08-05T10:39:39"
+    },
+    {
+      "name": "DellPack-HXGNJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09892536M/1/7424-HXGNJ_Win11_1.0_A00.exe",
+      "size_bytes": 1557327576,
+      "md5": "051D7012F63F48ADA9380907C6613BF6",
+      "sha256": "F86A2D52ACCABE6F890037DF63304EE66C3E2D478B6DFD0435A0FE27EFFE785A",
+      "version": null,
+      "release_date": "2023-04-27T05:36:32"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

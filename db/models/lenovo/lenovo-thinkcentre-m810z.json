@@ -1,0 +1,38 @@
+{
+  "id": "lenovo-thinkcentre-m810z",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M810Z",
+  "system_id": "10NY,10NX,10Q0,10Q2,10Q1",
+  "dmi_matches": [
+    "10NY",
+    "10NX",
+    "10Q0",
+    "10Q2",
+    "10Q1"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m810z_w1064_1809_201904.exe",
+      "size_bytes": null,
+      "md5": "df0fd7c21d0992a5954de811c69dd61f",
+      "sha256": "1b4428f65e22cc02352f4172a90a2a9fc00621f10c30b85e2ef4afad7a687101",
+      "version": null,
+      "release_date": "2019-05-03"
+    },
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/m810z_w10_64_20181011.exe",
+      "size_bytes": null,
+      "md5": "5237d1d296ca56ef691b6d322dc36e69",
+      "sha256": "f0776961dacd19bd7ee7505575e9a733f26fd02c0d248e4854e0507376b39d80",
+      "version": null,
+      "release_date": "2018-10-11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-tuf-gaming-f16-2026",
+  "vendor": "ASUS",
+  "family": "TUF Gaming",
+  "model_name": "Asus Tuf Gaming F16 2026",
+  "system_id": "2026",
+  "dmi_matches": [
+    "2026"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

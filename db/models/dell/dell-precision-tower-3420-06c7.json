@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-tower-3420-06c7",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Tower 3420",
+  "system_id": "06C7",
+  "dmi_matches": [
+    "Precision Tower 3420",
+    "06C7"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PM4W0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05471840M/1/T3420-win10-A13-PM4W0.CAB",
+      "size_bytes": 1091383798,
+      "md5": "401768E4B0EB51378A98340B28C0CFF8",
+      "sha256": "A8C4E3871B8D9E138B4721C74DC69018F0F0808507ABC701A639C556188D298A",
+      "version": null,
+      "release_date": "2019-03-12T00:00:00"
+    },
+    {
+      "name": "DellPack-XWMP9",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05471599M/1/T3420-win7-A12-XWMP9.CAB",
+      "size_bytes": 1768275614,
+      "md5": "E9BBB5F87DC2CAD459889E245FF9FA8B",
+      "sha256": "20DFC00A2A0FFF04827F6ECE0049CC2A444F749CD1390FF250B765423B8A0BA2",
+      "version": null,
+      "release_date": "2019-03-12T00:00:00"
+    },
+    {
+      "name": "DellPack-Y47K6",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03788608M/1/T3420-win8.1-A03-Y47K6.CAB",
+      "size_bytes": 804112209,
+      "md5": "75877902399884C9E89A7F868E9FB78C",
+      "sha256": "CD11B1FDCB4A9FD92E46AF72DF07989A2B192B1B85EC324660A593F2FB6C66A1",
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

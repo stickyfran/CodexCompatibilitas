@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3301-094f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3301",
+  "system_id": "094F",
+  "dmi_matches": [
+    "Latitude 3301",
+    "094F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-54X13",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08645417M/1/3301-54X13_Win10_1.0_A12.exe",
+      "size_bytes": 2399991792,
+      "md5": "CCD4915E7ADF824AADCD84DBC566F37C",
+      "sha256": "0CB6B6E717B16C6885413BC2A8DDB084F255E85F3D9A386E32BC716F9EFF3180",
+      "version": null,
+      "release_date": "2022-06-13T14:57:24"
+    },
+    {
+      "name": "DellPack-YF3TW",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08130901M/1/3301-win11-A00-YF3TW.CAB",
+      "size_bytes": 896791148,
+      "md5": "537E7C13EEE23B507C107EC0A1F47EF6",
+      "sha256": "F9F2F362D710250D4E82F62B5E90F1A9FB5659A4B9E4D3DBCDC5D16B29D899AF",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

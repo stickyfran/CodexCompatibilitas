@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-3070-0930",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3070",
+  "system_id": "0930",
+  "dmi_matches": [
+    "OptiPlex 3070",
+    "0930"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0DFFN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08644749M/1/3070-0DFFN_Win10_1.0_A09.exe",
+      "size_bytes": 2525815688,
+      "md5": "5D40A49BA7D46CCBBABB57F89767D616",
+      "sha256": "CCB68DA7D01F992BB2C9CD852F75AE81659D9B5657AE9A39212AB0B0C3B20DF2",
+      "version": null,
+      "release_date": "2022-06-13T14:57:24"
+    },
+    {
+      "name": "DellPack-PCGHP",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09160431M/1/3070-PCGHP_Win11_1.0_A00.exe",
+      "size_bytes": 2602195296,
+      "md5": "B1841B239EA3912055300D8FD27EFD57",
+      "sha256": "0645AAA5033F3A5663F4FE52668DB8A12F87FDDE8A37DDC164198EED6ED8BBBE",
+      "version": null,
+      "release_date": "2022-10-28T15:25:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

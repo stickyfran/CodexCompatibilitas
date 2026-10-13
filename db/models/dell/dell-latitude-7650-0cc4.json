@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7650-0cc4",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7650",
+  "system_id": "0CC4",
+  "dmi_matches": [
+    "Latitude 7650",
+    "0CC4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-63VR6",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14566211M/1/Latitude-7650-63VR6_Win10_1.0_A10.exe",
+      "size_bytes": 2111074464,
+      "md5": "AAD5833FB65E10982DCCD23DFB7484DF",
+      "sha256": "FB6F5EB8951642F2C83FE6443DA25E2AA92D6068866A61BD778C601B2D28090F",
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    },
+    {
+      "name": "DellPack-023WD",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14566238M/1/Latitude-7650-023WD_Win11_1.0_A10.exe",
+      "size_bytes": 1949389296,
+      "md5": "6B12F3F5D10DD411561764BF888D19F2",
+      "sha256": "2F1BC69DA82B8CF130EE7A385A88FE23CC257D63DE7D4577F3DA7BAA321A323C",
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

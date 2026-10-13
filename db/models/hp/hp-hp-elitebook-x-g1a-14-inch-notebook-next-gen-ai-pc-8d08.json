@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-elitebook-x-g1a-14-inch-notebook-next-gen-ai-pc-8d08",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook X G1a 14 inch Notebook Next Gen AI PC",
+  "system_id": "8D08",
+  "dmi_matches": [
+    "8D08",
+    "HP EliteBook X G1a 14 inch Notebook Next Gen AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp174481-HP EB X G1a Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174481.exe",
+      "size_bytes": 1023824936,
+      "md5": "9D6AAC32739D59C4EF99926F85F956D1",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "8/31/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

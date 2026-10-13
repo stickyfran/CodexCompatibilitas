@@ -1,0 +1,88 @@
+{
+  "id": "lenovo-thinkcentre-m90a",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M90A",
+  "system_id": "11E0,11CE,11DY,11CD,11JX",
+  "dmi_matches": [
+    "11E0",
+    "11CE",
+    "11DY",
+    "11CD",
+    "11JX"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_win1064_1809_1903_1909.exe",
+      "size_bytes": null,
+      "md5": "ad29b34225230ef3968f3f1325d60f19",
+      "sha256": "fab85e1da944edefe2749b9d5d5a7d3da320527d4b247bf399c169fdd82e08c8",
+      "version": null,
+      "release_date": "2020-12-17"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_win1064_1809_1903_1909.exe",
+      "size_bytes": null,
+      "md5": "ad29b34225230ef3968f3f1325d60f19",
+      "sha256": "fab85e1da944edefe2749b9d5d5a7d3da320527d4b247bf399c169fdd82e08c8",
+      "version": null,
+      "release_date": "2020-12-17"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_win1064_1809_1903_1909.exe",
+      "size_bytes": null,
+      "md5": "ad29b34225230ef3968f3f1325d60f19",
+      "sha256": "fab85e1da944edefe2749b9d5d5a7d3da320527d4b247bf399c169fdd82e08c8",
+      "version": null,
+      "release_date": "2020-12-17"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_win1064_2004.exe",
+      "size_bytes": null,
+      "md5": "6d967a4320b156b079719a11a9c1ffa7",
+      "sha256": "5866433ce3ff34e42a3b6831e7e978c014e7ea7c99d12757780d0a7404a62eef",
+      "version": null,
+      "release_date": "2020-12-16"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_w1064_20h2_21h2_202209.exe",
+      "size_bytes": null,
+      "md5": "97df9d7dfdb74306e7732c5c6ee9d136",
+      "sha256": "4915071d690f06a034b30915a93c09f8aa2bba8cd787d903b548803a7084633b",
+      "version": null,
+      "release_date": "2022-09-21"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_w1064_20h2_21h2_202209.exe",
+      "size_bytes": null,
+      "md5": "97df9d7dfdb74306e7732c5c6ee9d136",
+      "sha256": "4915071d690f06a034b30915a93c09f8aa2bba8cd787d903b548803a7084633b",
+      "version": null,
+      "release_date": "2022-09-21"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_w11_21_202209.exe",
+      "size_bytes": null,
+      "md5": "1ac19e7d33a8fb8fb3e1047af64061c1",
+      "sha256": "80c29397f49758a05a2cfca8fd1998048866867994594b3f3d06826ad3d85a3b",
+      "version": null,
+      "release_date": "2022-09-21"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

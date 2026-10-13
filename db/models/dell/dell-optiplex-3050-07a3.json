@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-3050-07a3",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3050",
+  "system_id": "07A3",
+  "dmi_matches": [
+    "OptiPlex 3050",
+    "07A3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-84FTP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06522502M/1/3050-Win10-A13-84FTP.CAB",
+      "size_bytes": 871701628,
+      "md5": "53F2AC3EF9A40CB80303475350E43BE5",
+      "sha256": "C0806E083DC9C66C2BB274BF80C3B09206D96D785C826ADA16242C80325EAD7F",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-030MC",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06182924M/1/3050-Win7-A12-030MC.CAB",
+      "size_bytes": 939936509,
+      "md5": "B69934478E88206DD8BA7B9FEFA3DFE4",
+      "sha256": "547C910241C2AF98B22D95101A6975F73765326BE7446622742CEE57BA6485A6",
+      "version": null,
+      "release_date": "2020-05-12T00:00:00"
+    },
+    {
+      "name": "DellPack-V2N43",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04571489M/1/3050-Win8.1-A03-V2N43.CAB",
+      "size_bytes": 587342273,
+      "md5": "D70E0633CFEFA0E53355C087FA7517CB",
+      "sha256": "723ABE48F316C1C08F577509D5FEE73D00AFC330588CCE2258877FD7B5F043C4",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

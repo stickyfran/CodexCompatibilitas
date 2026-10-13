@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-14-essential-pv14250-0de9",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 14 Essential PV14250",
+  "system_id": "0DE9",
+  "dmi_matches": [
+    "Dell Pro 14 Essential PV14250",
+    "0DE9"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-53KFY",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14873679M/1/PV14250-53KFY_Win11_1.0_A03.exe",
+      "size_bytes": 1002618536,
+      "md5": "E1855C99485FA06D977975BA8B55DDD6",
+      "sha256": "C556D20BDF6AAD073647E92086BF69CADD3AF408CD75BE36C14F4CF45E15BFD1",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

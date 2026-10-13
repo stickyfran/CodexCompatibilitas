@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3320-0a88",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3320",
+  "system_id": "0A88",
+  "dmi_matches": [
+    "Latitude 3320",
+    "0A88"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RDN82",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11420673M/1/3320-RDN82_Win10_1.0_A14.exe",
+      "size_bytes": 1780417568,
+      "md5": "1A34AB77D3CFA5D7A1D1D3319837F4E6",
+      "sha256": "14A1225C9BDAB8ECDF9075F6CA65AB98311B37839AAE04C22904361B613097D7",
+      "version": null,
+      "release_date": "2024-04-19T01:46:10"
+    },
+    {
+      "name": "DellPack-WY7MP",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11420674M/1/3320-WY7MP_Win11_1.0_A08.exe",
+      "size_bytes": 1780707080,
+      "md5": "D480B6788E2E3C1193FA62F686374CCD",
+      "sha256": "39DA7E1126CDDEDC1778363CB64E24CB6164D5580E52DF541BC7E793B587763E",
+      "version": null,
+      "release_date": "2024-04-19T01:46:10"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

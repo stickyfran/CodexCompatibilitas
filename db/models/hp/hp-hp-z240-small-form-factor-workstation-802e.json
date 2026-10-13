@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-z240-small-form-factor-workstation-802e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z240 Small Form Factor Workstation",
+  "system_id": "802e",
+  "dmi_matches": [
+    "802e",
+    "HP Z240 Small Form Factor Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp80257-HP Z240 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80257.exe",
+      "size_bytes": 906813424,
+      "md5": "81c4a2bb8a7b916ae866fc94b2529d2e",
+      "sha256": null,
+      "version": "06.2017 C 1",
+      "release_date": "6/15/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp84799-HP Z240 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84799.exe",
+      "size_bytes": 1027075144,
+      "md5": "bce3eb025575fab4f83e40af4b4e3a19",
+      "sha256": null,
+      "version": "2.2018 H 1",
+      "release_date": "2/21/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp87514-HP Z240 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87514.exe",
+      "size_bytes": 1033541248,
+      "md5": "4e930d4543fc8e8671a64295074ec7ad",
+      "sha256": null,
+      "version": "5.2018 J 1",
+      "release_date": "5/9/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp88652-HP Z240 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88652.exe",
+      "size_bytes": 1031327096,
+      "md5": "5ffe3cb3596c619d1f72581bcc5b6956",
+      "sha256": null,
+      "version": "7.2018 K 1",
+      "release_date": "7/5/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp99401-HP Z240 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99401.exe",
+      "size_bytes": 824912944,
+      "md5": "3acee6fd73900c1c713e7524619ea776",
+      "sha256": null,
+      "version": "2.2019 N 3",
+      "release_date": "9/26/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

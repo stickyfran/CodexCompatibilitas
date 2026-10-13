@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-micro-qcm1255-0e6d",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Micro QCM1255",
+  "system_id": "0E6D",
+  "dmi_matches": [
+    "Dell Pro Micro QCM1255",
+    "0E6D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-065RY",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14310975M/1/QCM1255-065RY_Win10_1.0_A06.exe",
+      "size_bytes": 449960176,
+      "md5": "3B8B94940BB7F7F908EA0EEEA77F73B5",
+      "sha256": "F634843E78118A45DE7D6EF945EE51D28F2CE2DBE467D2722977950E0AA78BFF",
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    },
+    {
+      "name": "DellPack-8D5YW",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14310980M/1/QCM1255-8D5YW_Win11_1.0_A06.exe",
+      "size_bytes": 448795832,
+      "md5": "BA84E39C2BF101A873B98EC3DCDD3D7D",
+      "sha256": "C3701232E04BDCED310863472E47527958EFCA7DED9EDD641090AD8F03BA6143",
+      "version": null,
+      "release_date": "2026-04-28T01:43:18"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

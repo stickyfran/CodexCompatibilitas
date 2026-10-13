@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-13-premium-pa13250-0ce3",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 13 Premium PA13250",
+  "system_id": "0CE3",
+  "dmi_matches": [
+    "Dell Pro 13 Premium PA13250",
+    "0CE3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JRY5Y",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14818065M/1/PA13250-JRY5Y_Win11_1.0_A09.exe",
+      "size_bytes": 1274460968,
+      "md5": "2F3BCD1E1ED18B15766F399AB508EDF3",
+      "sha256": "C7BC54E263C3FF22AED13F5C71F35E8CCF1FF8593B01526122D9427EA50E120C",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

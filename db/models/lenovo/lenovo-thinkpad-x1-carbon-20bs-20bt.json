@@ -1,0 +1,65 @@
+{
+  "id": "lenovo-thinkpad-x1-carbon-20bs-20bt",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Carbon 20BS 20BT",
+  "system_id": "20BT,20BS",
+  "dmi_matches": [
+    "20BT",
+    "20BS"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20bs-20bt_w1064_1703_201706.exe",
+      "size_bytes": null,
+      "md5": "3d7cf005c8d2d5849bb219f14bcf85b7",
+      "sha256": "6384213aeb7e45d8f09bb3bb72d1db4a648578b55302ecb82b26fb640fad17fc",
+      "version": null,
+      "release_date": "2020-01-30"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20bs-20bt_w1064_1709_201710.exe",
+      "size_bytes": null,
+      "md5": "70e18c3d2d4c6e9089ba3e00dad43bc1",
+      "sha256": "ab19ab831c6748b3f7573bfce70e17198fb893e7677c0a1e1e127c44253d3de8",
+      "version": null,
+      "release_date": "2017-10-31"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20bs-20bt_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "2e219872fd77e5f5acd4292cd31fd101",
+      "sha256": "7dd8044a420b9741b772608ff558a1e64944d08fdce41e2f5bb077c50d04da60",
+      "version": null,
+      "release_date": "2018-07-20"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20bs-20bt_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": "ca022e02505d0f89a1ce6e4894f1920c",
+      "sha256": "0e76cc165a1b073ef3c0ad86d7dd6703fd7f407b5b9b97994d3a87e974205e0d",
+      "version": null,
+      "release_date": "2018-10-30"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20bs-20bt_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "acc5bf965995a1b0a5b56eb7229e154a",
+      "sha256": "3814e218dc8aed9e5844e2282f38c631a05fe97099070046ac21ab4645417ca9",
+      "version": null,
+      "release_date": "2019-04-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,67 @@
+{
+  "id": "hp-hp-eliteone-800-g3-23.8-inch-non-touch-all-in-one-pc-829c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC",
+  "system_id": "829c,829b,929C",
+  "dmi_matches": [
+    "829c",
+    "829b",
+    "929C",
+    "HP EliteOne 800 G3 23.8-inch Non-Touch All-in-One PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp85276-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp85001-85500/sp85276.exe",
+      "size_bytes": 1013976592,
+      "md5": "26c0937623d6ccaf946069807fa215fe",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "2/2/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp88958-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88958.exe",
+      "size_bytes": 947806080,
+      "md5": "2994960e336ea8714b0375c2585361a1",
+      "sha256": null,
+      "version": "13.0 A 1",
+      "release_date": "7/24/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp93539-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93501-94000/sp93539.exe",
+      "size_bytes": 1010426232,
+      "md5": "4b689f95c5a93c9179d183cb48cff59a",
+      "sha256": null,
+      "version": "15.0 A 1",
+      "release_date": "1/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99814-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99814.exe",
+      "size_bytes": 961073272,
+      "md5": "a14372c2394f3f6e8c28c54e8e7c1e5c",
+      "sha256": null,
+      "version": "18.0 A 1",
+      "release_date": "10/25/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp105672-HP ElitePro 600/800 G3 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105672.exe",
+      "size_bytes": 975426896,
+      "md5": "062c23c5bc591d728a1554fc92357950",
+      "sha256": null,
+      "version": "19.0 A 1",
+      "release_date": "6/22/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

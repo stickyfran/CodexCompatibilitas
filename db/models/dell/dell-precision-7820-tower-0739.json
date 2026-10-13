@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-7820-tower-0739",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7820 Tower",
+  "system_id": "0739",
+  "dmi_matches": [
+    "Precision 7820 Tower",
+    "0739"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-79TDH",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05436974M/1/Precision 7820 Tower-win7-A04-79TDH.CAB",
+      "size_bytes": 722034725,
+      "md5": "9435D3339C7E680EC55FCC6D73DC7C2F",
+      "sha256": "9BAE06343CA204172C78B218295EE7EBCB845590901154561F73BBD5DD5226E9",
+      "version": null,
+      "release_date": "2019-02-26T00:00:00"
+    },
+    {
+      "name": "DellPack-KDDF4",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11304869M/1/Precision-7820-Tower-KDDF4_Win10_1.0_A23.exe",
+      "size_bytes": 3953697944,
+      "md5": "368024241D8796AEFD501D43F25CE780",
+      "sha256": "D6FB52605E291A112E007AFFF67ABA54B5DC5366A420408AF2794FE46C0DD74E",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    },
+    {
+      "name": "DellPack-MMT0J",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11304918M/1/Precision-7820-Tower-MMT0J_Win11_1.0_A05.exe",
+      "size_bytes": 3952229128,
+      "md5": "D91999BE0990555D3F02933D8B4C7A46",
+      "sha256": "EAA7F9178D31E7870A5C2CCB26DE2B409BEB03A08BCD2B7DD3F36B9508C665F2",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

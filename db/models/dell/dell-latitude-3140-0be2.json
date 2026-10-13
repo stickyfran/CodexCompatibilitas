@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3140-0be2",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3140",
+  "system_id": "0BE2",
+  "dmi_matches": [
+    "Latitude 3140",
+    "0BE2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-VXNK8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14339015M/1/Latitude-3140-VXNK8_Win10_1.0_A11.exe",
+      "size_bytes": 950965208,
+      "md5": "D94FFABC9E544B145DBF0A81D8216B20",
+      "sha256": "EE7CE2D0C74FDCF76004869F372D64AD1C0B390EA9B95B3F7A37E1898301EB0D",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-NVP68",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14372102M/1/Latitude-3140-NVP68_Win11_1.0_A11.exe",
+      "size_bytes": 952612704,
+      "md5": "4AA75BBC400837E3EBBE6D5C5C488A25",
+      "sha256": "411F15D35AD08B2456EA997D666C8C5C4BD4220B2268A00A261B1F37E03218B5",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

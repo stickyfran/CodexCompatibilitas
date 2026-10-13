@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-5580-07a8",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5580",
+  "system_id": "07A8",
+  "dmi_matches": [
+    "Latitude 5580",
+    "07A8"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JRG2W",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06175492M/1/5580-win10-A13-JRG2W.CAB",
+      "size_bytes": 1031611819,
+      "md5": "D385C77D9312DA5E873CDEA778E5AA0F",
+      "sha256": "6807F2B09E467003667DF2D68FF395BD4502332101E8C8CC7E72C0B7B03D0050",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-1CPYP",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06177136M/1/5580-win7-A11-1CPYP.CAB",
+      "size_bytes": 1321042017,
+      "md5": "48DF39C4AF1E1CC70A1BFD08B167A767",
+      "sha256": "5A384C89E25AD6E9D4D4E23FDFE589245B1BA7F40A332812056D20D22E10B965",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-2J35R",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04609073M/1/5580-Win8.1-A02-2J35R.CAB",
+      "size_bytes": 732720483,
+      "md5": "81301257023692D47CDE58A200E5F396",
+      "sha256": "D12AA3BD3CFB5E2DD0112BAF8B86F54BF495C9C095D6828C751175C37150E8C2",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

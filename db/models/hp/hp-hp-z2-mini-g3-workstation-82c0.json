@@ -1,0 +1,56 @@
+{
+  "id": "hp-hp-z2-mini-g3-workstation-82c0",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G3 Workstation",
+  "system_id": "82c0,82bf",
+  "dmi_matches": [
+    "82c0",
+    "82bf",
+    "HP Z2 Mini G3 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp84800-HP Z2 Mini G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84800.exe",
+      "size_bytes": 849337896,
+      "md5": "63658dc88cbada3775bd7f8d8717e426",
+      "sha256": null,
+      "version": "2.2018 H 1",
+      "release_date": "2/21/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp87516-HP Z2 Mini G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87516.exe",
+      "size_bytes": 851531072,
+      "md5": "690e079b22cd9f9b7cb90d9af7fc7b5a",
+      "sha256": null,
+      "version": "5.2018 J 1",
+      "release_date": "5/9/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp88653-HP Z2 Mini G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88501-89000/sp88653.exe",
+      "size_bytes": 849315320,
+      "md5": "214f88389c5cbaf792ca4fec1a1ef422",
+      "sha256": null,
+      "version": "7.2018 K 1",
+      "release_date": "7/10/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp92593-HP Z2 Mini G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92593.exe",
+      "size_bytes": 736600160,
+      "md5": "2cf4084da531239ed1e37c2888156c3e",
+      "sha256": null,
+      "version": "12.2018 M 1",
+      "release_date": "12/3/2018 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

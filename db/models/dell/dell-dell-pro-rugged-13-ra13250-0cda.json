@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-rugged-13-ra13250-0cda",
+  "vendor": "Dell",
+  "family": "Dell Pro Rugged Laptops",
+  "model_name": "Dell Pro Rugged 13 RA13250",
+  "system_id": "0CDA",
+  "dmi_matches": [
+    "Dell Pro Rugged 13 RA13250",
+    "0CDA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PCN0G",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14186131M/1/RA13250-PCN0G_Win10_1.0_A05.exe",
+      "size_bytes": 1498067176,
+      "md5": "7F5F7F4726C059C6A8DD0336304DE6F5",
+      "sha256": "A9FB5697F39573ADBC70F14BF6D4A492B209733F381C5A8CE485AAA1BC732988",
+      "version": null,
+      "release_date": "2026-03-09T04:11:11"
+    },
+    {
+      "name": "DellPack-RY4PC",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14186895M/1/RA13250-RY4PC_Win11_1.0_A05.exe",
+      "size_bytes": 1515711792,
+      "md5": "34FD78D4AC4A2E32AC64FA6A23E62BCB",
+      "sha256": "63BD8D13F83B9AD49F9BE6BD6652D0D2CBC55B6EF1C8B63C6008D7E005285990",
+      "version": null,
+      "release_date": "2026-03-09T04:11:11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

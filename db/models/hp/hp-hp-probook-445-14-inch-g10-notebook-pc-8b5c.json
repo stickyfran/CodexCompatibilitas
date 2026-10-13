@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-445-14-inch-g10-notebook-pc-8b5c",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 14 inch G10 Notebook PC",
+  "system_id": "8B5C",
+  "dmi_matches": [
+    "8B5C",
+    "HP ProBook 445 14 inch G10 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp147284-HP Pro/EliteBook 4/6x5 G10 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147284.exe",
+      "size_bytes": 872470216,
+      "md5": "4e9162ac83649b6ce51f6ab47a2dfb61",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/22/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149205-HP Pro/EliteBook 4/6x5 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149205.exe",
+      "size_bytes": 913638064,
+      "md5": "401b5f6e454443b92a2388be94de6222",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/14/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151777-HP Pro/EliteBook 4/6x5 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151777.exe",
+      "size_bytes": 1164146832,
+      "md5": "223975fea3cc26db0557d04b5a60687a",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/20/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp169014-HP Pro/EliteBook 4/6x5 G10 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp169001-169500/sp169014.exe",
+      "size_bytes": 1229907968,
+      "md5": "8A6076DF8BAEE80F44E09B704DE1CB68",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/16/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

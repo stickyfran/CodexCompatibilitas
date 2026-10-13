@@ -1,0 +1,85 @@
+{
+  "id": "hp-hp-elitedesk-705-g2-microtower-pc-805a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G2 Microtower PC",
+  "system_id": "805a",
+  "dmi_matches": [
+    "805a",
+    "HP EliteDesk 705 G2 Microtower PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp80906-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80501-81000/sp80906.exe",
+      "size_bytes": 790596096,
+      "md5": "d24899cf28f23e2ff88cabc1b1f136a1",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/23/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp79202-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79202.exe",
+      "size_bytes": 682817032,
+      "md5": "618cfe4cbff332f467f757be06d854a1",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "2/24/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp87289-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87001-87500/sp87289.exe",
+      "size_bytes": 758830152,
+      "md5": "f4e28b4fb7f584a8971f9ef80dd3ef68",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "4/12/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp92421-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92421.exe",
+      "size_bytes": 800386224,
+      "md5": "d7e5932b33975509cac3baed2a22344b",
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "10/31/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp96058-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96058.exe",
+      "size_bytes": 827904560,
+      "md5": "f57a54c15d5ec79ff844bca19c79980d",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "5/2/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100849-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100849.exe",
+      "size_bytes": 799176344,
+      "md5": "5b0e8d6e7916a0d4c0edec170fe10e52",
+      "sha256": null,
+      "version": "12.0 A 1",
+      "release_date": "12/19/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp105919-HP EliteDesk 705 G2 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105919.exe",
+      "size_bytes": 872694152,
+      "md5": "1d14df74418b4276a2016db847b6a618",
+      "sha256": null,
+      "version": "13.0 A 1",
+      "release_date": "7/3/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

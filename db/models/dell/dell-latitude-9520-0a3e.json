@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-9520-0a3e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 9520",
+  "system_id": "0A3E",
+  "dmi_matches": [
+    "Latitude 9520",
+    "0A3E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6PP6H",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10952482M/1/9520-6PP6H_Win10_1.0_A11.exe",
+      "size_bytes": 1624936896,
+      "md5": "16272154860FE5B94C9B0850F12B4BC1",
+      "sha256": "517FB093755356ACDF034357F95CCD138A7220657926A166D1A353F7D20887C2",
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    },
+    {
+      "name": "DellPack-NWTT3",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10952504M/1/9520-NWTT3_Win11_1.0_A09.exe",
+      "size_bytes": 1528362224,
+      "md5": "449CD771E4BAFBAA4D78BCB457555D6B",
+      "sha256": "D0FA5F783C596FC9D6F1512DC274A7DD59B55DC3E6B5306BCCC6F4CD28D014ED",
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

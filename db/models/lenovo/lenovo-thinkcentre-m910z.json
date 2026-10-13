@@ -1,0 +1,39 @@
+{
+  "id": "lenovo-thinkcentre-m910z",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M910Z",
+  "system_id": "10NV,10NT,10NS,10NR,10NU,10RM",
+  "dmi_matches": [
+    "10NV",
+    "10NT",
+    "10NS",
+    "10NR",
+    "10NU",
+    "10RM"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1607",
+      "os": "win10-1607",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m910z_w10rs164_20170106.exe",
+      "size_bytes": null,
+      "md5": "7AEE0D0686C4FD7F71D0EA70CE3D38F4",
+      "sha256": "248D59C5FB9CF1E6D60835E90054BF4460061DE9A27CA93F247D2473524CA705",
+      "version": null,
+      "release_date": "2017-05-15"
+    },
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m910z_w10rs264_20170628.exe",
+      "size_bytes": null,
+      "md5": "DECD0CAE4B479436B028030E39937D93",
+      "sha256": "CF6CBE5F016C14B1D24335D1705757F617ACAF78F62AA53B8ED94611EBA549B0",
+      "version": null,
+      "release_date": "2017-06-28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

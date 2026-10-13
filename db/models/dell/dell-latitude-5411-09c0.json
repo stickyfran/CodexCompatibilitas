@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5411-09c0",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5411",
+  "system_id": "09C0",
+  "dmi_matches": [
+    "Latitude 5411",
+    "09C0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-VYRY8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09535206M/1/5411-VYRY8_Win10_1.0_A12.exe",
+      "size_bytes": 2754667648,
+      "md5": "AB36EDFA9DB6521F443689477431FD62",
+      "sha256": "46BA025CBE4EE91EB3080D0DFF737D1F139F35FF8DADD20617A302B8B2945551",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    },
+    {
+      "name": "DellPack-4CK98",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09535409M/1/5411-4CK98_Win11_1.0_A02.exe",
+      "size_bytes": 2755450400,
+      "md5": "08E3032F1A43ED9E8584582F3C7AA7BA",
+      "sha256": "A528F7871ED3C1EF10B6A0D75A7B3C8DBCB1DDDB08FF16C3AFA0C3CD79A7F2EA",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

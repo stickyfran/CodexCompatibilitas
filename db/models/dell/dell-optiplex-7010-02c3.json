@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7010-02c3",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7010",
+  "system_id": "02C3",
+  "dmi_matches": [
+    "OptiPlex 7010",
+    "02C3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JFH0G",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02291001M/1/160-vista-A01-JFH0G.CAB",
+      "size_bytes": 72429980,
+      "md5": "4B4B4330EBFF3E9F353D2C3D7B4450F6",
+      "sha256": "5C7AC089BE1DBED5341B1CBC633F5B027358BD257A444E2A7677787A15BBA36B",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-2CFT1",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02249582M/1/160-xp-A01-2CFT1.CAB",
+      "size_bytes": 11741656,
+      "md5": "C8837120167C51F7F6D736454FC6372F",
+      "sha256": "A64454085239C0A032292B83192FF8826AC23BF5756A6692D8433A875F11D6F2",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

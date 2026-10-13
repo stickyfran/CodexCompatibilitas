@@ -1,0 +1,63 @@
+{
+  "id": "lenovo-thinkstation-p360-ultra",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P360 ULTRA",
+  "system_id": "30G1,30G6,30G7,30G2,30FY,30G3,30G0,30G8,30G4,30G5",
+  "dmi_matches": [
+    "30G1",
+    "30G6",
+    "30G7",
+    "30G2",
+    "30FY",
+    "30G3",
+    "30G0",
+    "30G8",
+    "30G4",
+    "30G5"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p360_ultra_w1064_21h2_202209.exe",
+      "size_bytes": null,
+      "md5": "e428c6e79b138a7cee2c5b76805d8380",
+      "sha256": "c26312562450286c526a642d58637f57bb36e3189cdc35db29c07c619133c948",
+      "version": null,
+      "release_date": "2026-07-24"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p360_ultra_w1064_22h2_202607.exe",
+      "size_bytes": null,
+      "md5": "ef4119b955f1df67ec211072c57cb893",
+      "sha256": "67c38500b300e2e6f6e9906941da3d9bbe0e25156c5dff17710cf73777451ca5",
+      "version": null,
+      "release_date": "2026-07-24"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p360_ultra_3.0_w1164_sv2_202301.exe",
+      "size_bytes": null,
+      "md5": "cea0215a948cf797e6ed208b9a6a4252",
+      "sha256": "0966137b0a92c44b721fa7c3e504cb6c3913847e04ef3f0ebd9163fcf6632d5a",
+      "version": null,
+      "release_date": "2022-02-22"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p360_ultra_3.0_w1164_sv2_202301.exe",
+      "size_bytes": null,
+      "md5": "cea0215a948cf797e6ed208b9a6a4252",
+      "sha256": "0966137b0a92c44b721fa7c3e504cb6c3913847e04ef3f0ebd9163fcf6632d5a",
+      "version": null,
+      "release_date": "2022-02-22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

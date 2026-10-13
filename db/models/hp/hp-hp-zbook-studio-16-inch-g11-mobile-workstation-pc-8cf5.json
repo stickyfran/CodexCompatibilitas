@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-zbook-studio-16-inch-g11-mobile-workstation-pc-8cf5",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Studio 16 inch G11 Mobile Workstation PC",
+  "system_id": "8cf5",
+  "dmi_matches": [
+    "8cf5",
+    "HP ZBook Studio 16 inch G11 Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp160226-HP ZBook Studio G11 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160226.exe",
+      "size_bytes": 2206677856,
+      "md5": "E2903F01B7A6B84D8C759BC7D09E8D2B",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "6/19/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp153466-HP ZBook Studio G11 MWS Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp153001-153500/sp153466.exe",
+      "size_bytes": 1939843856,
+      "md5": "108c6601ae5135934ee19b9e8d10d788",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/2/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp168949-HP ZBook Studio G11 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168501-169000/sp168949.exe",
+      "size_bytes": 2567603704,
+      "md5": "4AE833641CB8860ADB9AAB5BCCF6654B",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "1/13/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,103 @@
+{
+  "id": "lenovo-thinkcentre-m90n-1",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M90N 1",
+  "system_id": "11AE,11AM,11AK,11AG,11AS,11AL,11AD,11AF,11AJ,11AH",
+  "dmi_matches": [
+    "11AE",
+    "11AM",
+    "11AK",
+    "11AG",
+    "11AS",
+    "11AL",
+    "11AD",
+    "11AF",
+    "11AJ",
+    "11AH"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90n-1_w1064_1709_202103.exe",
+      "size_bytes": null,
+      "md5": "23841d1111cd6ea6b00de05cb2075618",
+      "sha256": "d790c1d9bef465e53870b97aef273bdad689484c0075ea79467b082d9e86cd74",
+      "version": null,
+      "release_date": "2021-03-18"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90n-1_w1064_1803_202103.exe",
+      "size_bytes": null,
+      "md5": "ce718f254f61231b344fb24bcd3241b8",
+      "sha256": "2038cac69247b078fe3e54407d8acd3aac26aaa9242bc76ebe69cb840f080f2f",
+      "version": null,
+      "release_date": "2021-03-18"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90n-1_w1064_1809_202103.exe",
+      "size_bytes": null,
+      "md5": "67c8ad895430ac4c3efd2d2ccb4d530c",
+      "sha256": "f62b0d3e968e291408ce9214931c737a82cb815a680e95b50f0031f7b6ec438f",
+      "version": null,
+      "release_date": "2021-03-18"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_M90n-1_w1064_1903_201908.exe",
+      "size_bytes": null,
+      "md5": "86831a2c408af75368712af00ca6d6e5",
+      "sha256": "462e087cece8234446aff5bf416eb898392cbe483369e4b20870787d748f27d9",
+      "version": null,
+      "release_date": "2019-08-23"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_M90n-1_w1064_1909_201903.exe",
+      "size_bytes": null,
+      "md5": "1eec570d2e28f0aac6f7d29bf3141d20",
+      "sha256": "87f2d783facee224af7d660b1565bbc5a9fd0b9c7402d064d17d00bc21e04c7e",
+      "version": null,
+      "release_date": "2020-03-06"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_M90n-1_w1064_2004_202007.exe",
+      "size_bytes": null,
+      "md5": "c9219e73634550e949239e9b86b704c5",
+      "sha256": "b098424398b51309de032ca9656fa06311e43d96b95fe4e8a7d016f278579f27",
+      "version": null,
+      "release_date": "2020-07-15"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90n-1_w1064_20h2_202103.exe",
+      "size_bytes": null,
+      "md5": "9f5f9250d67b83c98a3fe1eec10d46aa",
+      "sha256": "e77d45e9db899d45ee6541dcba37f57766bc5be3d99da37dde697a4da97dd34e",
+      "version": null,
+      "release_date": "2021-03-18"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90n-1_w1064_21h1_202111.exe",
+      "size_bytes": null,
+      "md5": "1e96e1db0860498cba9dd7b44965a92d",
+      "sha256": "aa473aba96cca5556e4562a6339996d41f9ac953fcdafd7580d1baa9994b5d9d",
+      "version": null,
+      "release_date": "2021-11-26"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

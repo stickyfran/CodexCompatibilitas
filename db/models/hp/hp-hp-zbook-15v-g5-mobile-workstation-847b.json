@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-zbook-15v-g5-mobile-workstation-847b",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 15v G5 Mobile Workstation",
+  "system_id": "847b",
+  "dmi_matches": [
+    "847b",
+    "HP ZBook 15v G5 Mobile Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp92372-HP ZBook 15v G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92372.exe",
+      "size_bytes": 871211936,
+      "md5": "3b581d4d3a004759dc733e51322f487d",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "10/26/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp93501-HP ZBook 15v G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93501-94000/sp93501.exe",
+      "size_bytes": 945372984,
+      "md5": "1188da4dcfe172dcd516e12100052ba2",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "1/10/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp96760-HP ZBook 15v G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96760.exe",
+      "size_bytes": 931778688,
+      "md5": "5c664d71495205cab3fdea6861fc1b65",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "5/29/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp135797-HP ZBook 15v G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135797.exe",
+      "size_bytes": 1005138856,
+      "md5": "a1463fceeefefbcaf8c589013b166d5f",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "10/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

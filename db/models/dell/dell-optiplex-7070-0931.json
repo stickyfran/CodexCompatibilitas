@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7070-0931",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7070",
+  "system_id": "0931",
+  "dmi_matches": [
+    "OptiPlex 7070",
+    "0931"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-J700Y",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08644756M/1/7070-J700Y_Win10_1.0_A12.exe",
+      "size_bytes": 3369588512,
+      "md5": "E017625E5ADDBC8C18AAF5BF4AED7A4F",
+      "sha256": "2CA035535A2B74A04CCA84687C5EDF629D0C34F6EAFDA699F60E2651CAE44D42",
+      "version": null,
+      "release_date": "2022-06-13T14:57:24"
+    },
+    {
+      "name": "DellPack-W9T8J",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09701138M/1/7070-W9T8J_Win11_1.0_A00.exe",
+      "size_bytes": 3405583688,
+      "md5": "FA0A2C861AD331D6AE9668F780A1F084",
+      "sha256": "D45DA2E6F31A2EEDFA0ECFCEAC3DBC0CB32661DE3C3C3A5957EB8AF0559ABB48",
+      "version": null,
+      "release_date": "2023-03-24T02:41:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

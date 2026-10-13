@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5550-097e",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5550",
+  "system_id": "097E",
+  "dmi_matches": [
+    "Precision 5550",
+    "097E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PX44F",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11259151M/1/5550-PX44F_Win10_1.0_A14.exe",
+      "size_bytes": 3944134568,
+      "md5": "CB02E6C587A0ED24464205C361E171F8",
+      "sha256": "99722723143F175AE8C32052D253D27AB19D93F8F2303DCBF5DFA8CF89109D8A",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    },
+    {
+      "name": "DellPack-H9RWT",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11259136M/1/5550-H9RWT_Win11_1.0_A05.exe",
+      "size_bytes": 3925731840,
+      "md5": "0EB07BB7DD1FBD4BCB53F76090ED3746",
+      "sha256": "FD0B7350C09F66957777FC80C8A4F934FFF7FEBBD2BF5F5DD937203619434EB4",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

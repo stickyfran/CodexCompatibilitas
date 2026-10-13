@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-5424-087a",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5424",
+  "system_id": "087A",
+  "dmi_matches": [
+    "Latitude 5424",
+    "087A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0Y20V",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07409707M/1/5424-win10-A10-0Y20V.CAB",
+      "size_bytes": 1187589038,
+      "md5": "97F6A87146E13470A76C82958E1015AF",
+      "sha256": "B080F9AE2CEF641B73443D023E4B11DB538E18E585BD95D87C9E4EF33AC14F4F",
+      "version": null,
+      "release_date": "2021-08-05T10:39:39"
+    },
+    {
+      "name": "DellPack-D4V6P",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER07409598M/1/5424-win7-A09-D4V6P.CAB",
+      "size_bytes": 533408892,
+      "md5": "6EC6E17D60CE774637EEF7F6680A5A79",
+      "sha256": "379DB2940E596A778C7C78280D633F1D7E1990051585F6C8116A5580952EEA32",
+      "version": null,
+      "release_date": "2021-08-05T10:39:39"
+    },
+    {
+      "name": "DellPack-KDHXM",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09896834M/1/5424-KDHXM_Win11_1.0_A00.exe",
+      "size_bytes": 1560759472,
+      "md5": "3010F1F7D33087F04F301FAFCB763586",
+      "sha256": "4C174448E4C1D8A71B8A16D74B9C6F55548AFFA934884164EB21F4D43D08B0F5",
+      "version": null,
+      "release_date": "2023-04-27T05:36:32"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

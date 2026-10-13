@@ -1,0 +1,13 @@
+{
+  "id": "asus-expertbook-b5-b5604",
+  "vendor": "ASUS",
+  "family": "ExpertBook",
+  "model_name": "Expertbook B5 B5604",
+  "system_id": "B5604",
+  "dmi_matches": [
+    "B5604"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

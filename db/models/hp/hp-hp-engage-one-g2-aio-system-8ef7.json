@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-engage-one-g2-aio-system-8ef7",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One G2 AiO System",
+  "system_id": "8ef7",
+  "dmi_matches": [
+    "8ef7",
+    "HP Engage One G2 AiO System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp174401-HP Engage One G2 AiO System Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174401.exe",
+      "size_bytes": 1051379352,
+      "md5": "A9601F1EB16E55D24F71FF13350890DA",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "8/18/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp174402-HP Engage One G2 AiO System Windows 11 IoT 24H2 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174402.exe",
+      "size_bytes": 1051379344,
+      "md5": "88DA5CD6FE3D64FBDEC06A0DCF1ADFCC",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "8/18/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

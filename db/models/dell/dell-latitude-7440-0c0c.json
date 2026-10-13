@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7440-0c0c",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7440",
+  "system_id": "0C0C",
+  "dmi_matches": [
+    "Latitude 7440",
+    "0C0C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-688RC",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14348454M/1/Latitude-7440-688RC_Win10_1.0_A11.exe",
+      "size_bytes": 1550758152,
+      "md5": "B6BED935DB8194E91DFACF0E5667DB74",
+      "sha256": "896AB31D8C6D97F405B535F31009D5B166F408FCA9605A9C11FA83EC0F978BD8",
+      "version": null,
+      "release_date": "2026-05-14T01:40:30"
+    },
+    {
+      "name": "DellPack-W3HH1",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14348464M/1/Latitude-7440-W3HH1_Win11_1.0_A11.exe",
+      "size_bytes": 1556090144,
+      "md5": "F03E29675F2CC5B2AC76D3DE890D93C2",
+      "sha256": "8129C077C31D76DD88B8631F7A90C86802551DD872FD7021C4938EB90C624FA7",
+      "version": null,
+      "release_date": "2026-05-14T01:40:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

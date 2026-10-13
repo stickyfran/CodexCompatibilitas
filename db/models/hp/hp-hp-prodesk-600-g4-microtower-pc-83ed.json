@@ -1,0 +1,86 @@
+{
+  "id": "hp-hp-prodesk-600-g4-microtower-pc-83ed",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 600 G4 Microtower PC",
+  "system_id": "83ed,83ec",
+  "dmi_matches": [
+    "83ed",
+    "83ec",
+    "HP ProDesk 600 G4 Microtower PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp84657-HP ElitePro 400/600/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84657.exe",
+      "size_bytes": 920095384,
+      "md5": "c7102ab053dae3b762d1e2878547194b",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "1/10/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp90296-HP ElitePro 400/600/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90296.exe",
+      "size_bytes": 780294320,
+      "md5": "4b035498df0fcd5263e0f4273785b8ad",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/31/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95457-HP ElitePro 4/6/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95457.exe",
+      "size_bytes": 780404384,
+      "md5": "e4854b947b8c1af474ddc4b5aa485288",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100497-HP ElitePro 4/6/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100497.exe",
+      "size_bytes": 843131728,
+      "md5": "1dfd07f0e7c77e4ae7b9914296e2d564",
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "12/4/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101465-HP ElitePro 4/6/800 G4 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101465.exe",
+      "size_bytes": 406630272,
+      "md5": "102e6c6983216fab47f43f3e1977a6a7",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "2/4/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103581-HP ElitePro 400/600/800 G4 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103581.exe",
+      "size_bytes": 417375016,
+      "md5": "e9dd00dd7bb7a01132b58e91ea6c1b0c",
+      "sha256": null,
+      "version": "12.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114276-HP ElitePro 400/600/800 G4 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114276.exe",
+      "size_bytes": 1496484384,
+      "md5": "fe508c14282d24f1ef3fc7bdedd81b53",
+      "sha256": null,
+      "version": "14.00 A 1",
+      "release_date": "6/28/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

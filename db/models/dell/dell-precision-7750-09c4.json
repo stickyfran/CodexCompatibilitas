@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7750-09c4",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7750",
+  "system_id": "09C4",
+  "dmi_matches": [
+    "Precision 7750",
+    "09C4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PV1D1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09143352M/1/7750-PV1D1_Win10_1.0_A10.exe",
+      "size_bytes": 2755842072,
+      "md5": "57B979567E53933ED262515D621A23E5",
+      "sha256": "0CC7CFF5499CBDDE9379BAE22BA9D8C17F3EE425121374FB8C05E242902AFB40",
+      "version": null,
+      "release_date": "2022-12-07T05:17:51"
+    },
+    {
+      "name": "DellPack-V6V18",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09891643M/1/7750-V6V18_Win11_1.0_A02.exe",
+      "size_bytes": 2765313384,
+      "md5": "65213315F587A54015E4A45C08D730B1",
+      "sha256": "CA7471707EC09B0C8A850E8CDFFA4F4D97BD7C1B30564CBA995F04CC67FA92C0",
+      "version": null,
+      "release_date": "2023-11-24T15:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

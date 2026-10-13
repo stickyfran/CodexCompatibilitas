@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-15-9560-07be",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 15 9560",
+  "system_id": "07BE",
+  "dmi_matches": [
+    "XPS 15 9560",
+    "07BE"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TT7W3",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06071649M/1/9560-win10-A14-TT7W3.CAB",
+      "size_bytes": 1118514085,
+      "md5": "628F5BD4C4F10F8A963F89A18970FA14",
+      "sha256": "11BFBEFF18F8F3FA4F15F4A5BADD0E6B28C3B42E29971AC720856A4D6BB98FAE",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

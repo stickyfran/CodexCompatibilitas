@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3450-sff-0a57",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3450 SFF",
+  "system_id": "0A57",
+  "dmi_matches": [
+    "Precision 3450 SFF",
+    "0A57"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-NKD36",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10951562M/1/Precision-3450-SFF-NKD36_Win10_1.0_A09.exe",
+      "size_bytes": 3019369088,
+      "md5": "412D03773FFF71F3FCD29CBD36723E62",
+      "sha256": "C287E792B38921766F637FE7A8F6F24653DE11049DD3A2FCE7696C70C658EE7E",
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    },
+    {
+      "name": "DellPack-V7FPF",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10951531M/1/Precision-3450-SFF-V7FPF_Win11_1.0_A04.exe",
+      "size_bytes": 3019312016,
+      "md5": "34A637AF513627F0049C6C995A7B29DD",
+      "sha256": "102A52615772BEE778B8993350163AE21B2FB3F31F585CF8DD286FFA0335C406",
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

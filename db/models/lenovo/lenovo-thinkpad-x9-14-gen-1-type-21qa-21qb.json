@@ -1,0 +1,45 @@
+{
+  "id": "lenovo-thinkpad-x9-14-gen-1-type-21qa-21qb",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X9-14 Gen 1 Type 21QA 21QB",
+  "system_id": "21QB,21QA",
+  "dmi_matches": [
+    "21QB",
+    "21QA"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x9-14_gen1_mt21qa-21qb_w11_23h2_202512.exe",
+      "size_bytes": null,
+      "md5": "d5a108cc948af00568134083c7f5fc83",
+      "sha256": "bff045265a7b1644fed62729b1ad74f4f157df441cd5c5b4e04493998b65d816",
+      "version": null,
+      "release_date": "2026-01-06"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x9-14_gen1_mt21qa-21qb_w11_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": "33f18801b3f7a15f4c807e8c91eb82e8",
+      "sha256": "8510a4c5672e49b33cf46e8d5fcf82349910ab832875035b728e36e22d477f44",
+      "version": null,
+      "release_date": "2026-08-12"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x9-14_gen1_mt21qa-21qb_w11_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": "11c7bb5c642b2c800b580682ccaae540",
+      "sha256": "17dcef3822f640e2f4157c98fa6e7d818c4eff16318eb37309d6bc38146cb5b2",
+      "version": null,
+      "release_date": "2026-08-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

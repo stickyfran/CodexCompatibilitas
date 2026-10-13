@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-m2400-0234",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M2400",
+  "system_id": "0234",
+  "dmi_matches": [
+    "Precision M2400",
+    "0234"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y6J8M",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02291019M/1/M2400-vista-A03-Y6J8M.CAB",
+      "size_bytes": 177532299,
+      "md5": "FA1D59ABB7FA31D8E16F524D54F7DB9C",
+      "sha256": "FC6CAFE165076ABB8CBE7FF0EC3E86A2B7AF84C152FADCEE4BBD6BFD6231FA6D",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-KGYJY",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02241757M/1/M2400-Win7-A01-KGYJY.CAB",
+      "size_bytes": 344055259,
+      "md5": "A3B1349107F7F194C8783EA5B9DE897C",
+      "sha256": "3BCE78C143B08A256D4864A5D86A8326912A284FB8022460D25D4CDCBA3BEDB9",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-XHT68",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02239041M/1/M2400-xp-A03-XHT68.CAB",
+      "size_bytes": 254873349,
+      "md5": "183D527C9FCF87AE22290402B8DCCAB4",
+      "sha256": "20EA5AE4A38C678340F7904685D43F5D811265FC06EB55438839CA9D5BDB574B",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

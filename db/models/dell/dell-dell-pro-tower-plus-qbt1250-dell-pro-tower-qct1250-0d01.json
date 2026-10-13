@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-tower-plus-qbt1250-dell-pro-tower-qct1250-0d01",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Tower Plus QBT1250/Dell Pro Tower QCT1250",
+  "system_id": "0D01",
+  "dmi_matches": [
+    "Dell Pro Tower Plus QBT1250/Dell Pro Tower QCT1250",
+    "0D01"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-3NT5G",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14233409M/1/QxT1250-3NT5G_Win10_1.0_A04.exe",
+      "size_bytes": 3929746160,
+      "md5": "2CF84E9551AAFAA1783DC6F78422C581",
+      "sha256": "C08E445C69829C2EB6598130A94F9776D5FE0F3EE507FCC6A73E63C8233375DB",
+      "version": null,
+      "release_date": "2026-03-24T01:16:25"
+    },
+    {
+      "name": "DellPack-RND61",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14233408M/1/QxT1250-RND61_Win11_1.0_A04.exe",
+      "size_bytes": 3935206824,
+      "md5": "4AE0EEED73E06AE27C59FB5496E65D6A",
+      "sha256": "FD78DBB3D165C6B6D2A639C51FCC517A917CEC72D97CBBB734351A47B1FD58E2",
+      "version": null,
+      "release_date": "2026-03-24T01:16:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

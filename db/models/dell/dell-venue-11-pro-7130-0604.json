@@ -1,0 +1,35 @@
+{
+  "id": "dell-venue-11-pro-7130-0604",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Venue 11 Pro 7130",
+  "system_id": "0604",
+  "dmi_matches": [
+    "Venue 11 Pro 7130",
+    "0604"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WDD3H",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04898339M/1/7130-win10-A04-WDD3H.CAB",
+      "size_bytes": 289452832,
+      "md5": "6797DDD536976C47B63324D1B51AC11D",
+      "sha256": "AA24027CC39A8B800246B3CC3A092237E1AB7B7F712D446380039B1F58A80E31",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-JCPDX",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03544019M/1/7130-win8.1-A07-JCPDX.CAB",
+      "size_bytes": 205914229,
+      "md5": "E125C9B351D54329047BE9EC3896792C",
+      "sha256": "36D0E01EF2FB1762AF0AD78CCCE642A2CE1BEADC919EDF858E042DF4A5AD3AC9",
+      "version": null,
+      "release_date": "2016-02-22T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

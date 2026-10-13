@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5490-0816",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5490",
+  "system_id": "0816",
+  "dmi_matches": [
+    "Latitude 5490",
+    "0816"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0DWT0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07336372M/1/5490-win10-A15-0DWT0.CAB",
+      "size_bytes": 1119296250,
+      "md5": "BEBB9FE113D4FAF360BA32CDDECD17CD",
+      "sha256": "159E83C26FD8FB632FD7DCE8538724E938039AD6F64C174B9D7B5D410AD90608",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    },
+    {
+      "name": "DellPack-1MFCV",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10101628M/1/5490-1MFCV_Win11_1.0_A00.exe",
+      "size_bytes": 1946603272,
+      "md5": "5264CF3834C57696B3B8F2AB17215E80",
+      "sha256": "6029CE3412D0BE68BAF6A42EF140F223507674F4E0CEF7A61A3B33523B23809E",
+      "version": null,
+      "release_date": "2023-05-31T01:37:32"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

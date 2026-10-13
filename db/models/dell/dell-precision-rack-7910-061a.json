@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-rack-7910-061a",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Rack 7910",
+  "system_id": "061A",
+  "dmi_matches": [
+    "Precision Rack 7910",
+    "061A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-23V7P",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04510396M/1/R7910-win10-A05-23V7P.CAB",
+      "size_bytes": 1147781775,
+      "md5": "404B348E8AC877F0493D86144EEEA5DA",
+      "sha256": "374C0716CE03D0BE25B42E534CB03088D8A50A320769FCC585B979785EF9103F",
+      "version": null,
+      "release_date": "2017-10-10T00:00:00"
+    },
+    {
+      "name": "DellPack-NR5T0",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04510880M/1/R7910-win7-A08-NR5T0.CAB",
+      "size_bytes": 1293303546,
+      "md5": "8329292A930739777E47C55BE37B397A",
+      "sha256": "432670B7857D8CE10D05169050576CC35E52E7E16DA9E9795049F35D9D4AA3FD",
+      "version": null,
+      "release_date": "2017-10-10T00:00:00"
+    },
+    {
+      "name": "DellPack-J99WG",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03539559M/1/R7910-Win8.1-A04-J99WG.CAB",
+      "size_bytes": 365907896,
+      "md5": "47893171A72E26ED020E530F2583C988",
+      "sha256": "9CC649F6909DA260AA3B87F7553DC4DAF4AB0CA567FC9FEF1335D62DCC163BDA",
+      "version": null,
+      "release_date": "2016-02-22T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7010-micro-0be5",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7010 Micro",
+  "system_id": "0BE5",
+  "dmi_matches": [
+    "OptiPlex 7010 Micro",
+    "0BE5"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0WJN2",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14364004M/1/OptiPlex-7010-Micro-0WJN2_Win10_1.0_A12.exe",
+      "size_bytes": 1638467048,
+      "md5": "BB927FDC0A79A96818E8E4DDB525D957",
+      "sha256": "ABCE42A1248863E98C7167947E926B7E58710F86D0B4FF7370EF439579181810",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-RY26G",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14364002M/1/OptiPlex-7010-Micro-RY26G_Win11_1.0_A12.exe",
+      "size_bytes": 1623420816,
+      "md5": "2AE60AD969EB394C8318811CFC5F2178",
+      "sha256": "D1A77D801DC138BA851A1D4FA94F315441860B396BF9E797ED23C6054BE0485E",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

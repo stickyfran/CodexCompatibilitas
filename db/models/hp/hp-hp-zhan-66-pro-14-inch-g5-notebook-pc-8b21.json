@@ -1,0 +1,26 @@
+{
+  "id": "hp-hp-zhan-66-pro-14-inch-g5-notebook-pc-8b21",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro 14 inch G5 Notebook PC",
+  "system_id": "8B21,8979",
+  "dmi_matches": [
+    "8B21",
+    "8979",
+    "HP ZHAN 66 Pro 14 inch G5 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp151808-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151808.exe",
+      "size_bytes": 1803198400,
+      "md5": "972f74b2586ed51ed6a7cdb65806f864",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/25/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

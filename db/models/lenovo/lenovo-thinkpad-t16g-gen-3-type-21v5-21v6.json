@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-t16g-gen-3-type-21v5-21v6",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T16G Gen 3 Type 21V5 21V6",
+  "system_id": "21V5,21V6",
+  "dmi_matches": [
+    "21V5",
+    "21V6"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t16gg3_p16g3_mt21v5-21v6_mt21rq_21rr_w1164_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": "6087d381301f7fc928c1e57caafdb9e0",
+      "sha256": "a55d26b0a0e727e9e3dc2f98bbed7136efe0b109b59bb3d63e6326c33ee89b5e",
+      "version": null,
+      "release_date": "2026-08-13"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t16gg3_p16g3_mt21v5-21v6_mt21rq_21rr_w1164_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": "b54ba221c1e5ad36d60bd59ab57bddea",
+      "sha256": "31c038e797cd687db5132da8fa48a3b357107089e8c5108b81f9399c77a5e5fd",
+      "version": null,
+      "release_date": "2026-08-13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

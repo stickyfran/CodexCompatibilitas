@@ -1,0 +1,51 @@
+{
+  "id": "lenovo-thinkcentre-m715q-2nd-gen",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M715Q 2nd Gen",
+  "system_id": "10VL,10VN,10VJ,10VG,10VQ,10VM,10VH,10VK",
+  "dmi_matches": [
+    "10VL",
+    "10VN",
+    "10VJ",
+    "10VG",
+    "10VQ",
+    "10VM",
+    "10VH",
+    "10VK"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715q_2nd_w1064_201805.exe",
+      "size_bytes": null,
+      "md5": "f7551a6146a26a3da61f4c9aa9e981a0",
+      "sha256": "39a8ff5abd3579bef9b02b6f1c3c688dbc8ae1833ef04c4d6007c91f30dfd180",
+      "version": null,
+      "release_date": "2018-05-23"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715q_2nd_w1064_1809_201903.exe",
+      "size_bytes": null,
+      "md5": "de22f133ef09d00551b624e804ce439b",
+      "sha256": "82be1bddfd4873834d5578e78ae9db1b96e5360f3ca775037f2b94548b8f9ad9",
+      "version": null,
+      "release_date": "2020-02-24"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m715q_2nd_w1064_1909_202002.exe",
+      "size_bytes": null,
+      "md5": "3fcae4199571823149c8c082419df64e",
+      "sha256": "eedb68198fec284eaf5e77a1c41d045552eb1fcf9dc3323e99f249b9210211af",
+      "version": null,
+      "release_date": "2020-02-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

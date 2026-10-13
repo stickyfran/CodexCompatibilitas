@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-z840-workstation-2129",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z840 Workstation",
+  "system_id": "2129",
+  "dmi_matches": [
+    "2129",
+    "HP Z840 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp80255-HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80255.exe",
+      "size_bytes": 921406600,
+      "md5": "782d8dc857393a0140cd8f010f7f5c2d",
+      "sha256": null,
+      "version": "06.2017 C 1",
+      "release_date": "6/15/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp84798-HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84798.exe",
+      "size_bytes": 1048643200,
+      "md5": "2ba9c36f4c332b740ec1cf415e247801",
+      "sha256": null,
+      "version": "2.2018 H 1",
+      "release_date": "2/21/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp87513-HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87513.exe",
+      "size_bytes": 729843336,
+      "md5": "b20f57da46d2612be620414dc9cafa1b",
+      "sha256": null,
+      "version": "5.2018 J 1",
+      "release_date": "5/9/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp78922-HP Z440/Z640/Z840 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp78501-79000/sp78922.exe",
+      "size_bytes": 673643544,
+      "md5": "fbd87cd4a7a27f4c0fd617f075d80fac",
+      "sha256": null,
+      "version": "01.2017 A 1",
+      "release_date": "1/11/2017 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

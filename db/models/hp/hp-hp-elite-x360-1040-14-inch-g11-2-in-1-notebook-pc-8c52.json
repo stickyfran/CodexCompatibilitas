@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elite-x360-1040-14-inch-g11-2-in-1-notebook-pc-8c52",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC",
+  "system_id": "8c52",
+  "dmi_matches": [
+    "8c52",
+    "HP Elite x360 1040 14 inch G11 2-in-1 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp167307-HP EliteBook 1040 G11 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp167001-167500/sp167307.exe",
+      "size_bytes": 2560566056,
+      "md5": "9AECAD0BC1AEA84911EEE2C8C3D0BEF8",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "12/11/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp152764-HP EliteBook 1040 G11 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152764.exe",
+      "size_bytes": 2414320552,
+      "md5": "7d7a71c5cbe166c68a0bf464e14cecd6",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp170001-HP EliteBook 1040 G11 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170001.exe",
+      "size_bytes": 1603949432,
+      "md5": "2AD37EB75E872EA2FA158555B62F4601",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "1/17/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

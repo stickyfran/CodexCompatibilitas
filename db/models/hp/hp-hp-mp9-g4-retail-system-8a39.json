@@ -1,0 +1,106 @@
+{
+  "id": "hp-hp-mp9-g4-retail-system-8a39",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP MP9 G4 Retail System",
+  "system_id": "8A39,83ef",
+  "dmi_matches": [
+    "8A39",
+    "83ef",
+    "HP MP9 G4 Retail System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp88413-HP MP9 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp88001-88500/sp88413.exe",
+      "size_bytes": 592922928,
+      "md5": "d261e73e7735492fdefc009ab33f3a3c",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "6/20/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp92268-HP MP9 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92268.exe",
+      "size_bytes": 618624376,
+      "md5": "29f28aff981f560e21479bc34533d2e2",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "11/27/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp133116-HP MP9 G4 IoT10 2016 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp133001-133500/sp133116.exe",
+      "size_bytes": 570410880,
+      "md5": "3d388fdcf449a4e2a661936c700f2373",
+      "sha256": null,
+      "version": "10.00 A 1",
+      "release_date": "8/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp133117-HP MP9 G4 IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp133001-133500/sp133117.exe",
+      "size_bytes": 453738432,
+      "md5": "d44d29d7128509b6bad5ef9aeb8031c8",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "8/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp97069-HP MP9 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp97001-97500/sp97069.exe",
+      "size_bytes": 774963712,
+      "md5": "3e0a16208de1c99b235bdd714a270492",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "6/14/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp98435-HP MP9 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp98001-98500/sp98435.exe",
+      "size_bytes": 820782632,
+      "md5": "2b81ad0f12589ef1cca87f7ba03354f7",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "7/16/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101387-HP MP9 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101387.exe",
+      "size_bytes": 773947960,
+      "md5": "26a8b8bed482be1cf3fa870298ff6624",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/15/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110458-HP MP9 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110458.exe",
+      "size_bytes": 420818960,
+      "md5": "3c292803c0c43d8167ea87e186f7fe24",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "10/19/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112646-HP MP9 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112646.exe",
+      "size_bytes": 441546136,
+      "md5": "56e8519b62782e645c6c366e7eadac60",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "2/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

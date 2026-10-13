@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-13-7390-0962",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 7390",
+  "system_id": "0962",
+  "dmi_matches": [
+    "XPS 13 7390",
+    "0962"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-2JP94",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09101331M/1/7390-2JP94_Win11_1.0_A01.exe",
+      "size_bytes": 1476976664,
+      "md5": "F2290C67EC23CDC63E85211501828D3B",
+      "sha256": "5EA52D4C9C9E3837894E5C816F2147278A407305EB96F054CAB7476EEE9F2FC9",
+      "version": null,
+      "release_date": "2022-12-07T05:17:51"
+    },
+    {
+      "name": "DellPack-XVCYC",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09844661M/1/7390-XVCYC_Win10_1.0_A13.exe",
+      "size_bytes": 1435390784,
+      "md5": "72A97EDD507DED02D7F7C0BFEF07579D",
+      "sha256": "2FC2438C19E04673990EF2B15837E2C44905FDE32F035C5143CADDCE78BFEFD9",
+      "version": null,
+      "release_date": "2023-06-01T07:55:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

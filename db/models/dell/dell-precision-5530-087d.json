@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5530-087d",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5530",
+  "system_id": "087D",
+  "dmi_matches": [
+    "Precision 5530",
+    "087D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CD246",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07388489M/1/5530-win10-A13-CD246.CAB",
+      "size_bytes": 1369682472,
+      "md5": "E73EDEF1AA2F5B78970D09AD0193B700",
+      "sha256": "B169D4E9BC177D4B36139DAB6B65E922EC690953544C22BDD72F7BEA6CCC4843",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    },
+    {
+      "name": "DellPack-M8RFT",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09733252M/1/5530-M8RFT_Win11_1.0_A00.exe",
+      "size_bytes": 1931827912,
+      "md5": "39BC8E634A3B8612A495CBDA4DC0CFCF",
+      "sha256": "B54C63B45CE5A327225DB3EF198E1D06887003B39B2FF0D19A56374BAFEA506E",
+      "version": null,
+      "release_date": "2023-03-24T02:41:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

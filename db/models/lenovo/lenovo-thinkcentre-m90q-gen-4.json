@@ -1,0 +1,57 @@
+{
+  "id": "lenovo-thinkcentre-m90q-gen-4",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M90Q Gen 4",
+  "system_id": "12EL,12EJ,12EK,12EH",
+  "dmi_matches": [
+    "12EL",
+    "12EJ",
+    "12EK",
+    "12EH"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70tsq_gen4-m80tsq_gen4-m90tsq_gen4-n50t_gen4_w1064_21h2_22h2_202305.exe",
+      "size_bytes": null,
+      "md5": "4f374141e15239d7ccb0dde9c82cb947",
+      "sha256": "2cfd411799b22da052543bba404ce2eb4b9f5bc8be995f5edeb07ab1373461bf",
+      "version": null,
+      "release_date": "2024-09-06"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70tsq_gen4-m80tsq_gen4-m90tsq_gen4-n50t_gen4_w1064_21h2_22h2_202305.exe",
+      "size_bytes": null,
+      "md5": "4f374141e15239d7ccb0dde9c82cb947",
+      "sha256": "2cfd411799b22da052543bba404ce2eb4b9f5bc8be995f5edeb07ab1373461bf",
+      "version": null,
+      "release_date": "2024-09-06"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70tsq_gen4-m80tsq_gen4-m90tsq_gen4-n50t_gen4_w11_22_202309.exe",
+      "size_bytes": null,
+      "md5": "b580f5cbfc69ada4d89153bb18daf063",
+      "sha256": "78b695ce08eebd14b5703b6f26378eee1e8a5be482b6a4d7f03df2e1d3b7faa2",
+      "version": null,
+      "release_date": "2024-09-06"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70tsq_gen4-m80q_gen4-m90tsq_gen4-n50t_gen4_w11_24_202408.exe",
+      "size_bytes": null,
+      "md5": "7563b15508d98c7ec0a077a1f6458052",
+      "sha256": "ea74f0b197c35e04df307008e5c0cbfe60ff273ea957d5e5631ed924a8b5d8bf",
+      "version": null,
+      "release_date": "2024-09-06"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,95 @@
+{
+  "id": "lenovo-thinkpad-p14s-gen-2-type-21a0-21a1",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P14S Gen 2 Type 21A0 21A1",
+  "system_id": "21A1,21A0",
+  "dmi_matches": [
+    "21A1",
+    "21A0"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14s_gen2_1909_w1064_202202.exe",
+      "size_bytes": null,
+      "md5": "31561c7a6ddfdd30815727628be91012",
+      "sha256": "6e68526f879680fcd82752f309d5c7f3449ec8ea9a2428dad8ed078536ec6cb6",
+      "version": null,
+      "release_date": "2022-02-25"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14s_gen_2a_mt21a0-21a1_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": "1614173b55656a06ca736dfa89a9a44b",
+      "sha256": "fb467574f9b74977dc3ed62ef4c20a1c02a6498fc891b3cb1cee5b3ee221b187",
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14s_gen_2a_mt21a0-21a1_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": "1614173b55656a06ca736dfa89a9a44b",
+      "sha256": "fb467574f9b74977dc3ed62ef4c20a1c02a6498fc891b3cb1cee5b3ee221b187",
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14s_gen_2a_mt21a0-21a1_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": "1614173b55656a06ca736dfa89a9a44b",
+      "sha256": "fb467574f9b74977dc3ed62ef4c20a1c02a6498fc891b3cb1cee5b3ee221b187",
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14s_gen_2a_mt21a0-21a1_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": "1614173b55656a06ca736dfa89a9a44b",
+      "sha256": "fb467574f9b74977dc3ed62ef4c20a1c02a6498fc891b3cb1cee5b3ee221b187",
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14s_gen_2a_mt21a0-21a1_2004_20h2_21h1_21h2_22h2_w1064_202303.exe",
+      "size_bytes": null,
+      "md5": "1614173b55656a06ca736dfa89a9a44b",
+      "sha256": "fb467574f9b74977dc3ed62ef4c20a1c02a6498fc891b3cb1cee5b3ee221b187",
+      "version": null,
+      "release_date": "2023-03-27"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14s_gen_2a_mt21a0-21a1_w11_21_22_24_202409.exe",
+      "size_bytes": null,
+      "md5": "9968b1d7ac1ecfbf1e4a712ae5769924",
+      "sha256": "7313824efa425d2f6ffac16f5be0e37ebb48f2a94fa38d1a4f48a1165c9a1037",
+      "version": null,
+      "release_date": "2024-10-14"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p14s_gen_2a_mt21a0-21a1_w11_21_22_24_202409.exe",
+      "size_bytes": null,
+      "md5": "9968b1d7ac1ecfbf1e4a712ae5769924",
+      "sha256": "7313824efa425d2f6ffac16f5be0e37ebb48f2a94fa38d1a4f48a1165c9a1037",
+      "version": null,
+      "release_date": "2024-10-14"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

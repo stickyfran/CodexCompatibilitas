@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e5270-06dd",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5270",
+  "system_id": "06DD",
+  "dmi_matches": [
+    "Latitude E5270",
+    "06DD"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-N8KCM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06528860M/1/E5270-Win10-A14-N8KCM.CAB",
+      "size_bytes": 648528263,
+      "md5": "19932733264D943F2C072503AD5E3E6D",
+      "sha256": "EFA0B2CFB5B035DA28545389C1A5DCD791A84B2376A46009E24336F5C94C9AD5",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-8KDFJ",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06307637M/1/E5270-Win7-A11-8KDFJ.CAB",
+      "size_bytes": 677700526,
+      "md5": "963B75AB6DC1A81A419C309F169C7A48",
+      "sha256": "D9B09DD82FBF6E2B17C1D94BA5C8771C575B4D394EA069C95B5FFFC1047B560D",
+      "version": null,
+      "release_date": "2020-06-23T00:00:00"
+    },
+    {
+      "name": "DellPack-VYKMK",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03823043M/1/E5270-Win8.1-A02-VYKMK.CAB",
+      "size_bytes": 340227233,
+      "md5": "32B615D868B55803B6DA995E870FEC0B",
+      "sha256": "85157B92F344B039E3226397811DF9DBF042CE19EADEEF7FEFD2290AA264B435",
+      "version": null,
+      "release_date": "2016-08-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,36 @@
+{
+  "id": "hp-hp-elite-mini-800-g9-desktop-pc-894f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Mini 800 G9 Desktop PC",
+  "system_id": "894F,8AC3",
+  "dmi_matches": [
+    "894F",
+    "8AC3",
+    "HP Elite Mini 800 G9 Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145699-HP Pro/Elite Mini 4/6/800 G9 Windows 10x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145699.exe",
+      "size_bytes": 1468090592,
+      "md5": "560fa9291fc20f76211194d24b414c66",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "4/5/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151266-HP Pro/Elite Mini 4/6/800 G9 Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151266.exe",
+      "size_bytes": 1578922200,
+      "md5": "486e8ff49b97faae32eda2b5dd978b31",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "2/13/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

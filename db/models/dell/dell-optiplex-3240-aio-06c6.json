@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-3240-aio-06c6",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3240 AIO",
+  "system_id": "06C6",
+  "dmi_matches": [
+    "OptiPlex 3240 AIO",
+    "06C6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M5C9X",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05305441M/1/3240 AIO-win10-A11-M5C9X.CAB",
+      "size_bytes": 668112118,
+      "md5": "1D1EEFF80DE5E3DE1EE5F75CFF2BB810",
+      "sha256": "2260020FDD48BD11A8372CA0946056E5EB1844B38653D91A11366932C57BA6B6",
+      "version": null,
+      "release_date": "2019-01-25T00:00:00"
+    },
+    {
+      "name": "DellPack-V6126",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05354220M/1/3240 AIO-win7-A11-V6126.CAB",
+      "size_bytes": 847634534,
+      "md5": "9132EB68F72E7EFA9F8B33D897282F96",
+      "sha256": "29EB101F6B95AA220358BC5A5BBC00A37B23EF2B10D8C4942108FB846286062C",
+      "version": null,
+      "release_date": "2019-01-25T00:00:00"
+    },
+    {
+      "name": "DellPack-5KVPF",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03797625M/1/3240 AIO-win8.1-A02-5KVPF.CAB",
+      "size_bytes": 465974769,
+      "md5": "7999B765CE8DBB96420C5A60E37735E8",
+      "sha256": "7E5A9E5383B84BB7AB1DEE97C780CB5369A118B7A82D954A5387C5CA104ED669",
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

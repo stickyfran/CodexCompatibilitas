@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-13-dx13260-0e54",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 DX13260",
+  "system_id": "0E54",
+  "dmi_matches": [
+    "XPS 13 DX13260",
+    "0E54"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M5WNV",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14659631M/1/XPS-13-DX13260-M5WNV_Win11_1.0_A00.exe",
+      "size_bytes": 1052592200,
+      "md5": "C347CBA529AB78D10DEAA240457A38B1",
+      "sha256": "F785724E9D7BBE2C60A80252E6A83B0C1B8E2B4E87CC58163AFA920A6E8830C9",
+      "version": null,
+      "release_date": "2026-06-16T01:55:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

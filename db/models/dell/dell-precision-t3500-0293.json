@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-t3500-0293",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T3500",
+  "system_id": "0293",
+  "dmi_matches": [
+    "Precision T3500",
+    "0293"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-W1GPW",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02289862M/1/T3500-Vista-A01-W1GPW.CAB",
+      "size_bytes": 402414650,
+      "md5": "C727C817BE537D42F2749F32353F3284",
+      "sha256": "D40BBC63E7A6018610E03974EC52AFCED2E26DCF40D7325F7A4DD4BB74B450FA",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-P2N37",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02120280M/1/T3500-win7-A04-P2N37.CAB",
+      "size_bytes": 446774687,
+      "md5": "BFA0EFBF42BEFFFEDB5721BFD078E425",
+      "sha256": "9BA60633A4E8A97880DAAECA23083A163388B161A7B9AB4A42BD659ECCA2CC62",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-5FY1C",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02133510M/1/T3500-xp-A06-5FY1C.CAB",
+      "size_bytes": 494928609,
+      "md5": "177CC2D510F16A82D45041F16DC81EB5",
+      "sha256": "1503C58BA37A46BC84A6F39839DB5A5284F4A9B508DF7AB68923DC1D2D274412",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

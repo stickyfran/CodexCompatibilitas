@@ -1,0 +1,26 @@
+{
+  "id": "hp-hp-elitedesk-8-mini-g1a-desktop-pc-8daa",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 8 Mini G1a Desktop PC",
+  "system_id": "8DAA,8DAB",
+  "dmi_matches": [
+    "8DAA",
+    "8DAB",
+    "HP EliteDesk 8 Mini G1a Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp173494-HP EliteDesk 8 Mini G1a Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173494.exe",
+      "size_bytes": 1118895672,
+      "md5": "21CEBCAA466D06C7D18F429C16D038FF",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "6/5/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

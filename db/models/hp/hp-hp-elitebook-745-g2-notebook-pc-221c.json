@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elitebook-745-g2-notebook-pc-221c",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 745 G2 Notebook PC",
+  "system_id": "221c",
+  "dmi_matches": [
+    "221c",
+    "HP EliteBook 745 G2 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp79214-HP EliteBook 7x5 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79214.exe",
+      "size_bytes": 425155176,
+      "md5": "43cc60329abaaec5fd62b9d6806d94ef",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "2/24/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp92598-HP EliteBook 7x5 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92598.exe",
+      "size_bytes": 486686272,
+      "md5": "8bc4398409ed26cf85fb3fa5c6d95405",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "11/9/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp96748-HP EliteBook 7x5 G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96748.exe",
+      "size_bytes": 469639416,
+      "md5": "54cb064afc073a20a704cfec3f8d20b8",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/29/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

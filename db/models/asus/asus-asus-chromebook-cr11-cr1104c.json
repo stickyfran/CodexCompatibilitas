@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-chromebook-cr11-cr1104c",
+  "vendor": "ASUS",
+  "family": "ASUS",
+  "model_name": "Asus Chromebook Cr11 Cr1104C",
+  "system_id": "CR1104C",
+  "dmi_matches": [
+    "CR1104C"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

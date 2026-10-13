@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkcentre-m725s",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M725S",
+  "system_id": "10VU,10VT",
+  "dmi_matches": [
+    "10VU",
+    "10VT"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m725s_w1064_1809_201906.exe",
+      "size_bytes": null,
+      "md5": "030f73cb6e08e750b6eb7d4d216b2d6e",
+      "sha256": "44be21d47c1b4ddc1bbf05f966c372f647683bcf9c58940bd6ff5a56624fe490",
+      "version": null,
+      "release_date": "2019-06-04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

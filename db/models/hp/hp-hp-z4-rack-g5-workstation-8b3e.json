@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-z4-rack-g5-workstation-8b3e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 Rack G5 Workstation",
+  "system_id": "8B3E",
+  "dmi_matches": [
+    "8B3E",
+    "HP Z4 Rack G5 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp155837-HP Z4 Rack G5 Windows 11",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155501-156000/sp155837.exe",
+      "size_bytes": 1878044704,
+      "md5": "B914422CFEB06A6C16AB07D1BE1DA7EE",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/20/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp149689-HP Z4 Rack G5 Windows 10",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149501-150000/sp149689.exe",
+      "size_bytes": 1886895528,
+      "md5": "8ce1cf6fb1f35cc96e38a13a3c64ab95",
+      "sha256": null,
+      "version": "2.0 A 1",
+      "release_date": "10/19/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158931-HP Z4 Rack G5 Windows 11",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158931.exe",
+      "size_bytes": 2125733072,
+      "md5": "2963845C319F41F5D5800C462A55C319",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "5/20/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,13 @@
+{
+  "id": "asus-rog-strix-scar-16-g634",
+  "vendor": "ASUS",
+  "family": "ROG",
+  "model_name": "Rog Strix Scar 16 G634",
+  "system_id": "G634",
+  "dmi_matches": [
+    "G634"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-3189-07b3",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3189",
+  "system_id": "07B3",
+  "dmi_matches": [
+    "Latitude 3189",
+    "07B3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HGY7M",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06220950M/1/3189-win10-A12-HGY7M.CAB",
+      "size_bytes": 483348963,
+      "md5": "6E3CDE60263BCB95B654DFE5F62716E9",
+      "sha256": "0B2317DE63C7A3469B20C15632B1E223A0A7AC093536C749BB175CBD9AB47322",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

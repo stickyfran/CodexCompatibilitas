@@ -1,0 +1,45 @@
+{
+  "id": "dell-xps-13-9350-0704",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9350",
+  "system_id": "0704",
+  "dmi_matches": [
+    "XPS 13 9350",
+    "0704"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5G6R8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05575684M/1/9350-win10-A14-5G6R8.CAB",
+      "size_bytes": 486519097,
+      "md5": "2EC64324E559D8CCB303B0D33D3820B5",
+      "sha256": "CDF5BC0DDC1F4ED3D1E9C32D9DCDABE319963467277EEE494B2C7403A7FF1CE2",
+      "version": null,
+      "release_date": "2019-06-11T00:00:00"
+    },
+    {
+      "name": "DellPack-11MGY",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05576008M/1/9350-win7-A13-11MGY.CAB",
+      "size_bytes": 466833046,
+      "md5": "21D410AB1436914F448D044CD536293C",
+      "sha256": "B7E0897ADB9DA5C7000C645D81C7ABD3451FE936C2ABC48EE6F553448C3EE09D",
+      "version": null,
+      "release_date": "2019-06-11T00:00:00"
+    },
+    {
+      "name": "DellPack-M4K2C",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03814519M/1/9350-win8.1-A04-M4K2C.CAB",
+      "size_bytes": 627273012,
+      "md5": "256EE9E671B104769979C6B8AB32FDD4",
+      "sha256": "F746DFDE0C330B00C39B4FF7732FC4F1E81B9078D41916883D59796F2C76374C",
+      "version": null,
+      "release_date": "2016-07-26T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

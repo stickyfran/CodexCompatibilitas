@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-t14s-2in1-gen-2-type-21yy-22a0",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T14S 2IN1 Gen 2 Type 21YY 22A0",
+  "system_id": "22A0,21YY",
+  "dmi_matches": [
+    "22A0",
+    "21YY"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen7_mt21yu-21yv_t14s_2-in-1_gen2_mt21yy-22a0_w11_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": "2642362c0950b6a8f999e130103e6de7",
+      "sha256": "3cf120cc7d45e01726f529fc6ce84e2a1d17a2d7f76b194c7084fdbf9bb7420b",
+      "version": null,
+      "release_date": "2026-08-06"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen7_mt21yu-21yv_t14s_2-in-1_gen2_mt21yy-22a0_w11_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": "a1a3330be884bf8f697f7ddec648055b",
+      "sha256": "3f40b381473a0fa79f0bd61bfeac70f8a2be7708b9ca6fbb8cc21509838d430d",
+      "version": null,
+      "release_date": "2026-08-20"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

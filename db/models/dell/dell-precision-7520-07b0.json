@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-7520-07b0",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7520",
+  "system_id": "07B0",
+  "dmi_matches": [
+    "Precision 7520",
+    "07B0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y55Y7",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06528263M/1/7520-Win10-A13-Y55Y7.CAB",
+      "size_bytes": 1402184615,
+      "md5": "EF24D513AD7FB35165D555F4A4F2C482",
+      "sha256": "E553D9F5B178413763456E475B6E2405E8F58D72D7BB3DB3199C6220002B7D48",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-P13J4",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER06179357M/1/7520-win7-A11-P13J4.CAB",
+      "size_bytes": 1000658062,
+      "md5": "DA11801CE7AA96D2F64377C67130197E",
+      "sha256": "7FD84E76E09CA23B49DF45B7970B0ECEE11728EE9D7CE698EE2D7F64DDD2FE75",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-01FR1",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04628089M/1/7520-Win8.1-A01-01FR1.CAB",
+      "size_bytes": 725786531,
+      "md5": "43D88300FA3C62540B465F8799E79046",
+      "sha256": "1BF2D0192742C17F8DA7D50C57CAE3F083FD6FE9B5D5F190E5580EB4E1F3909A",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-12-rugged-tablet-7202-06a2",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 12 Rugged Tablet 7202",
+  "system_id": "06A2",
+  "dmi_matches": [
+    "Latitude 12 Rugged Tablet 7202",
+    "06A2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-H82Y2",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04845787M/1/7202-Win10-A06-H82Y2.CAB",
+      "size_bytes": 379755260,
+      "md5": "3D562924F04226585297692DD98887CF",
+      "sha256": "40B6A84169E99946125361263FDFD5A7F5E74B724751178C184B54499E70C5E0",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-8GMX2",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04888379M/1/7202-win7-A08-8GMX2.CAB",
+      "size_bytes": 588550143,
+      "md5": "CC7C180B3BA8FF908FEF6206A2B8722D",
+      "sha256": "5531A7D27717CB94AE5BD5059EE09515D960E882154297E46C034A6ED91C98A2",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-12VX4",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03514783M/1/7202-win8.1-A01-12VX4.CAB",
+      "size_bytes": 220302690,
+      "md5": "D91B4DDF193E91421D17D5FB8A1E70B7",
+      "sha256": "B422F67406BF184B2E12C01FF3EC66DB5401E63E072C205FFFD83924675F1578",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

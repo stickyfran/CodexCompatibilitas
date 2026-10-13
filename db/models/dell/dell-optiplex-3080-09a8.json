@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-3080-09a8",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3080",
+  "system_id": "09A8",
+  "dmi_matches": [
+    "OptiPlex 3080",
+    "09A8"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-NYFNK",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09601332M/1/3080-NYFNK_Win10_1.0_A11.exe",
+      "size_bytes": 2161189136,
+      "md5": "6D46D21F816FED0A9918A654990E0CDE",
+      "sha256": "860ED0F86C862829979EC4D6CB19D036D3D6133AB9A8467AE07112F041C024FD",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    },
+    {
+      "name": "DellPack-GFKHH",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09601450M/1/3080-GFKHH_Win11_1.0_A03.exe",
+      "size_bytes": 2155963792,
+      "md5": "290236A327F3CE075E320D7D381AE2F2",
+      "sha256": "1CEEE090365AA7CA44B6B1F2D27022C6FB9CCADC69B808F04D1809957DC76CB2",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

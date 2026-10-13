@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3480-0c02",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3480",
+  "system_id": "0C02",
+  "dmi_matches": [
+    "Precision 3480",
+    "0C02"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6C72C",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14424250M/1/Precision-3480-6C72C_Win10_1.0_A15.exe",
+      "size_bytes": 2227464000,
+      "md5": "41B03B721D83979BF8F5977256F4DADB",
+      "sha256": "B35B21AA1260D74F14D08345C7DD44582FCD58F7800A5169DF34D4A695A1EAB1",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-3JX9C",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14424263M/1/Precision-3480-3JX9C_Win11_1.0_A15.exe",
+      "size_bytes": 2231575408,
+      "md5": "61BB680B858101DFDC1B1A4F8A2CE4BF",
+      "sha256": "81C662DB60EDEBECC8B96551F955388935EB6473D18F3293C1F0AC38BD8BB245",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

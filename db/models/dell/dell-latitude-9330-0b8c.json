@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-9330-0b8c",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 9330",
+  "system_id": "0B8C",
+  "dmi_matches": [
+    "Latitude 9330",
+    "0B8C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-65F6V",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13158404M/1/Latitude-9330-65F6V_Win10_1.0_A11.exe",
+      "size_bytes": 2022160528,
+      "md5": "3F0A0798F277CF512534C04DBD6EF9F7",
+      "sha256": "8A35ADA4FA29FCF1620D61E537F946EB528F34841AEF83E5FBE959C40E56B677",
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    },
+    {
+      "name": "DellPack-JY5H9",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13158403M/1/Latitude-9330-JY5H9_Win11_1.0_A11.exe",
+      "size_bytes": 1775938864,
+      "md5": "31DA0BDC8A28274C6DAB2642226C6F9D",
+      "sha256": "5B135D7B2E690CBB017C0C09BF29C0EF332B8C675A9AD1A6B6DBE07CCA4116EB",
+      "version": null,
+      "release_date": "2025-07-11T05:45:11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

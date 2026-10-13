@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5400-all-in-one-0b18",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5400 All-in-One",
+  "system_id": "0B18",
+  "dmi_matches": [
+    "OptiPlex 5400 All-in-One",
+    "0B18"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6G89C",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12222722M/1/OptiPlex-5400-All-in-One-6G89C_Win10_1.0_A13.exe",
+      "size_bytes": 1195065288,
+      "md5": "DF5C5A74EAAE686A16C7FC081DD666B4",
+      "sha256": "D5F27857A1866C3FFF143C3A8C44765BEC2A9DD840743CCFB01CACC1A8E5DAFC",
+      "version": null,
+      "release_date": "2025-01-09T05:44:51"
+    },
+    {
+      "name": "DellPack-MW4TF",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12224973M/1/OptiPlex-5400-All-in-One-MW4TF_Win11_1.0_A13.exe",
+      "size_bytes": 1195061632,
+      "md5": "263B9B09BE68DD53123E0524419324D7",
+      "sha256": "7D0ECBFA9BB756A0FB5E38574A9023CD4C96C548ECA4A6B3B24C8D5227F1B121",
+      "version": null,
+      "release_date": "2025-01-09T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

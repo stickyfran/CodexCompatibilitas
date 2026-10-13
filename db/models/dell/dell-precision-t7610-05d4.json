@@ -1,0 +1,55 @@
+{
+  "id": "dell-precision-t7610-05d4",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T7610",
+  "system_id": "05D4",
+  "dmi_matches": [
+    "Precision T7610",
+    "05D4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-T2W1W",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04901836M/1/T7610-win10-A02-T2W1W.CAB",
+      "size_bytes": 1012243114,
+      "md5": "B7E8489176FC30375395D3CFB9C1D4C4",
+      "sha256": "64BC529646D9D5A45B81A9DD361E9DE97D151D58C4FB93DE85A89A8EA8AFA7A1",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-V8C6F",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04901877M/1/T7610-win7-A09-V8C6F.CAB",
+      "size_bytes": 732851153,
+      "md5": "AA25CB86AB99FCA0ACCC1B6C561EDFC8",
+      "sha256": "8BD368B41875DFA508DACD5B14156DAB3E1C87CD4FDE54D27CB1F17AD6BA2C60",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-3YDV5",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03488715M/1/T7610-win8.1-A05-3YDV5.CAB",
+      "size_bytes": 820200732,
+      "md5": "85B0F36F810BD7DE08F3560EBAE8305E",
+      "sha256": "5E8557194FA5F8955B698A6E2D69E122C09466E2B1C3CEFD913F595F02F8C864",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-M9KHG",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02632509M/1/T7610-win8-A04-M9KHG.CAB",
+      "size_bytes": 771377407,
+      "md5": "6184E729BD73BF4AB53DE6131D28039C",
+      "sha256": "F7926962AB6EB8EB2528ABA1050094F056207276B04B97FFBFEEB2C6194B7278",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

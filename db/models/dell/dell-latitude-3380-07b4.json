@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3380-07b4",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3380",
+  "system_id": "07B4",
+  "dmi_matches": [
+    "Latitude 3380",
+    "07B4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-P1X8T",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06190084M/1/3380-win10-A13-P1X8T.CAB",
+      "size_bytes": 589079101,
+      "md5": "34957B212E158DD93FE10822C4F55493",
+      "sha256": "4AC7D030F8E47685E2C81ACCBC9DA2E3CDEECB44393D96470B8C7AD66C57EF95",
+      "version": null,
+      "release_date": "2020-05-12T00:00:00"
+    },
+    {
+      "name": "DellPack-7Y16R",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER06190042M/1/3380-win7-A12-7Y16R.CAB",
+      "size_bytes": 375651786,
+      "md5": "423EEBF84298B2DABBE43E48E81EA88D",
+      "sha256": "9931CFB57988462584154FB5CCC8B83626FA5F1196E429B084A536966A133CC0",
+      "version": null,
+      "release_date": "2020-05-12T00:00:00"
+    },
+    {
+      "name": "DellPack-M9GD1",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04804253M/1/3380-win8.1-A06-M9GD1.CAB",
+      "size_bytes": 356070704,
+      "md5": "07E6B2BF39E83B6734014550B91989A2",
+      "sha256": "10D834F428BA67282D4902319D78EC5DE5D9E586865D495C533F8E2459890028",
+      "version": null,
+      "release_date": "2018-02-14T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

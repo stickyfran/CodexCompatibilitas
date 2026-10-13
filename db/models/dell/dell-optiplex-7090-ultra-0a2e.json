@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7090-ultra-0a2e",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7090 Ultra",
+  "system_id": "0A2E",
+  "dmi_matches": [
+    "OptiPlex 7090 Ultra",
+    "0A2E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-NVGDK",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11265308M/1/7090-ULTRA-NVGDK_Win10_1.0_A14.exe",
+      "size_bytes": 1729897672,
+      "md5": "79F80D4A866EDCB4C312DD923227CA69",
+      "sha256": "505DA2CF990DA0C46DEACCC89C3B0B015FECDFA5C87D4854B1947D6F1E95F4AD",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    },
+    {
+      "name": "DellPack-3DXDY",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11265322M/1/7090-ULTRA-3DXDY_Win11_1.0_A07.exe",
+      "size_bytes": 1711640416,
+      "md5": "5E71944D5452CEC1AF722234FB631BAE",
+      "sha256": "296BAED113D446051BFAA4C2509F1AE8B59F7C23AB124FC1012098B4F42DA22C",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

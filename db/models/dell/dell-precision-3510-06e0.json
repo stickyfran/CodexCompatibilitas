@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-3510-06e0",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3510",
+  "system_id": "06E0",
+  "dmi_matches": [
+    "Precision 3510",
+    "06E0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-8FHVG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05387873M/1/3510-Win10-A15-8FHVG.CAB",
+      "size_bytes": 667853004,
+      "md5": "C168F795BA020B7C94DD57BFCBBA314E",
+      "sha256": "B56F3CEAD8954C2973FB388456489CFDE953463F443F9700AE357BCE7B75D2A0",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-YH7YF",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05389222M/1/3510-Win7-A11-YH7YF.CAB",
+      "size_bytes": 626985287,
+      "md5": "C3E1AD7CC38B0CB14B3B2902103D03E8",
+      "sha256": "326B9CFF04A2DAD2B5D27FD16D1E917E5C67C9E6EDEC7039CFDF02085C9C0609",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-T3F76",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03816024M/1/3510-Win8.1-A05-T3F76.CAB",
+      "size_bytes": 611356054,
+      "md5": "95B0D3EB699C992B02F3543615A4B340",
+      "sha256": "13A1679D0DE603E956F8D122DE45A67EB99BC99D27A492275384FEEFC82B4FF2",
+      "version": null,
+      "release_date": "2016-07-26T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

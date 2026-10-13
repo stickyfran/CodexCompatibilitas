@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-tower-3620-06b7",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Tower 3620",
+  "system_id": "06B7",
+  "dmi_matches": [
+    "Precision Tower 3620",
+    "06B7"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7T7FD",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05422014M/1/T3620-win10-A13-7T7FD.CAB",
+      "size_bytes": 1441686615,
+      "md5": "8087788D1327B9E5CF82F2E70866E32E",
+      "sha256": "C0CB97BA0CCA5F22E814CF7F979C0BC5F42D4B0BAA2F8B3477B4F019DFB32A26",
+      "version": null,
+      "release_date": "2019-03-12T00:00:00"
+    },
+    {
+      "name": "DellPack-16GDG",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05491890M/1/T3620-win7-A12-16GDG.CAB",
+      "size_bytes": 1753562561,
+      "md5": "30E3359EEA8E24B31AA84641E3390D01",
+      "sha256": "8004331BFE5C04B8F4B6706DCF90FD7CFAC2866891BC637980D00254E73B18D8",
+      "version": null,
+      "release_date": "2019-03-26T00:00:00"
+    },
+    {
+      "name": "DellPack-HF6PX",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03788643M/1/T3620-win8.1-A03-HF6PX.CAB",
+      "size_bytes": 860656960,
+      "md5": "4100D832DDC43A93B785885A5E089C12",
+      "sha256": "EA9B1ECB6D2CEFBF75DD9605B89F0CE51FAFC4FF51B22AE35D7B29B96E7102C5",
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

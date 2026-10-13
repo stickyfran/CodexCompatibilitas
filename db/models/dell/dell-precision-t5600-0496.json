@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-t5600-0496",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T5600",
+  "system_id": "0496",
+  "dmi_matches": [
+    "Precision T5600",
+    "0496"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-674D0",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER01856633M/1/T5600-vista-A01-674D0.CAB",
+      "size_bytes": 644808963,
+      "md5": "6C1AEF1BB8DDAE9BDA84B065102C37C9",
+      "sha256": "691A7296AAC10FF9D2F404E7C1D302390199E3BBCA5E888B898B2680BEC7D1C1",
+      "version": null,
+      "release_date": "2013-11-22T00:00:00"
+    },
+    {
+      "name": "DellPack-VFHNM",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03537942M/1/T5600-win10-A01-VFHNM.CAB",
+      "size_bytes": 802010184,
+      "md5": "681A262DB455BB8EDD9FA8BE988E5DE5",
+      "sha256": "ABA551EB4F875DCCB842469430768843B70CEA4DF1A482820BA28CAE136372BA",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    },
+    {
+      "name": "DellPack-849JK",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02643158M/1/T5600-win7-A07-849JK.CAB",
+      "size_bytes": 668933118,
+      "md5": "C20A150E7DA3571BE91D668686F69E6D",
+      "sha256": "8B6DFBABAF779E5ADAA9A8ACB02942A83216EF5BFF9DF19F8EB46C0ADF3F8ABD",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

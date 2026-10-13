@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-7510-06d9",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7510",
+  "system_id": "06D9",
+  "dmi_matches": [
+    "Precision 7510",
+    "06D9"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-G9R71",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06528223M/1/7510-win10-A14-G9R71.CAB",
+      "size_bytes": 1288251613,
+      "md5": "75C0D8BCBF4BD13669ABA7F795B3566A",
+      "sha256": "8FF6A4F95264528C65838FDF303038F13F6192F9F4BE2287A35170AD86F3F1F7",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-YVWNM",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05083388M/1/7510-win7-A11-YVWNM.CAB",
+      "size_bytes": 938073728,
+      "md5": "324ECF0197F9B8D136A9077205BB7A90",
+      "sha256": "0B32BA65435EC84A5E75814AE99BC4E9F4E89B04FB0AEEE97E75E13F6FD593AD",
+      "version": null,
+      "release_date": "2018-09-12T00:00:00"
+    },
+    {
+      "name": "DellPack-298T4",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03889680M/1/7510-win8.1-A05-298T4.CAB",
+      "size_bytes": 906603281,
+      "md5": "6068B34DA4A2648780FBBF229F6FEA16",
+      "sha256": "11312C7D3C348529F4473E8657153552368312279AE690681B93E6E822A52F6F",
+      "version": null,
+      "release_date": "2016-09-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

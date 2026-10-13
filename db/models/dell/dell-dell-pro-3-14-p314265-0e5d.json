@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-3-14-p314265-0e5d",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 3 14 P314265",
+  "system_id": "0E5D",
+  "dmi_matches": [
+    "Dell Pro 3 14 P314265",
+    "0E5D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-DX936",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14857383M/1/P314265-DX936_Win11_1.0_A01.exe",
+      "size_bytes": 697165888,
+      "md5": "FE6681BBDAD927116BD40E1D5298FDB2",
+      "sha256": "81B425178EB3DF6AE8066EEB00D4F359C11B58BE2F0A9BB51A298E47D8DB56C5",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

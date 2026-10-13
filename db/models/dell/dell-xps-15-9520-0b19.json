@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-15-9520-0b19",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 15 9520",
+  "system_id": "0B19",
+  "dmi_matches": [
+    "XPS 15 9520",
+    "0B19"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-DWXWJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12816979M/1/XPS-15-9520-DWXWJ_Win11_1.0_A14.exe",
+      "size_bytes": 2795522976,
+      "md5": "06E3F37045ADAC9E3273DF44449395E4",
+      "sha256": "286CDCA4792AB0C906465C1FEBC75709B99CEB456B6BBCF47CC825DC2ADEE1B0",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

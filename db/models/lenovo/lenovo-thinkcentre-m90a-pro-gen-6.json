@@ -1,0 +1,37 @@
+{
+  "id": "lenovo-thinkcentre-m90a-pro-gen-6",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M90A PRO Gen 6",
+  "system_id": "13AM,13AQ,13AR,13AN",
+  "dmi_matches": [
+    "13AM",
+    "13AQ",
+    "13AR",
+    "13AN"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_gen6-m90a_pro_gen6-m70a_gen6_w11_24_25_202603.exe",
+      "size_bytes": null,
+      "md5": "b1fcb88eaf1e56b14eb0a276ee6426a6",
+      "sha256": "7c536e9c4091bb04a1a88a706e505ff4c74ddce566b9d06429d78c4d76c15172",
+      "version": null,
+      "release_date": "2026-04-30"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m90a_gen6-m90a_pro_gen6-m70a_gen6_w11_24_25_202603.exe",
+      "size_bytes": null,
+      "md5": "b1fcb88eaf1e56b14eb0a276ee6426a6",
+      "sha256": "7c536e9c4091bb04a1a88a706e505ff4c74ddce566b9d06429d78c4d76c15172",
+      "version": null,
+      "release_date": "2026-04-30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

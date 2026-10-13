@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-xe3-0864",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex XE3",
+  "system_id": "0864",
+  "dmi_matches": [
+    "OptiPlex XE3",
+    "0864"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-NY6RP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10549411M/1/XE3-NY6RP_Win10_1.0_A16.exe",
+      "size_bytes": 3308667040,
+      "md5": "3310D7F0AA9655BFAA0792D3004B4D52",
+      "sha256": "8EFC06BF8CF9FCA37EAF7B3F3C49A2AB0AD4DD597DCF5C82E3F693B10D5B545A",
+      "version": null,
+      "release_date": "2023-09-06T06:56:22"
+    },
+    {
+      "name": "DellPack-JJCWM",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10549412M/1/XE3-JJCWM_Win11_1.0_A05.exe",
+      "size_bytes": 3308677264,
+      "md5": "44576DC9E379703C4DCECF171E577D4D",
+      "sha256": "61FCF21CB350164AC3769EAFE80AC79D9E895D97BC85C59366133DF2A5D38975",
+      "version": null,
+      "release_date": "2023-09-06T06:56:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

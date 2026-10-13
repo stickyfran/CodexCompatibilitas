@@ -1,0 +1,47 @@
+{
+  "id": "hp-hp-elitedesk-800-g5-desktop-mini-pc-8593",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G5 Desktop Mini PC",
+  "system_id": "8593,8595,8594",
+  "dmi_matches": [
+    "8593",
+    "8595",
+    "8594",
+    "HP EliteDesk 800 G5 Desktop Mini PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp99588-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99588.exe",
+      "size_bytes": 832327416,
+      "md5": "a178e51dd931676497168a7014185bb1",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/17/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp111207-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111207.exe",
+      "size_bytes": 1802888864,
+      "md5": "371c36fb504fceba8822c40414056ec6",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/20/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114190-HP ElitePro 4/6/800 G5 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114190.exe",
+      "size_bytes": 1434992488,
+      "md5": "39034d289f4ac761a65963c3612228c0",
+      "sha256": null,
+      "version": "9.00 A 2",
+      "release_date": "6/14/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

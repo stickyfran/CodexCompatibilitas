@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3280-compact-0c81",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3280 Compact",
+  "system_id": "0C81",
+  "dmi_matches": [
+    "Precision 3280 Compact",
+    "0C81"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-T4JHN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13681664M/1/Precision-3280-Compact-T4JHN_Win10_1.0_A07.exe",
+      "size_bytes": 2470292120,
+      "md5": "5A839F29B4FB8CFF61FAA5C84C98E187",
+      "sha256": "AAA0ED4CA71EF89731A67210038A7E319E4A543F6F21F034B76441A4E4169FAE",
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    },
+    {
+      "name": "DellPack-VNT5C",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14520881M/1/Precision-3280-Compact-VNT5C_Win11_1.0_A09.exe",
+      "size_bytes": 2619122256,
+      "md5": "B396F69F764823902519315DDC8906E7",
+      "sha256": "84D6EEA2E94422D5DF3C23FEB0CB3F2FB3B863E90CE2D930888765DD0ED57AAC",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

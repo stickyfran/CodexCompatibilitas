@@ -1,0 +1,55 @@
+{
+  "id": "dell-precision-m6800-05cd",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M6800",
+  "system_id": "05CD",
+  "dmi_matches": [
+    "Precision M6800",
+    "05CD"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XT1RJ",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03998281M/1/M6800-win10-A03-XT1RJ.CAB",
+      "size_bytes": 1288748695,
+      "md5": "5F5C4C884D5E8CB1A5164D361CFA94D9",
+      "sha256": "289813630BBC75994D6A50838D6DBD588047FD5B9C8C2E8355B6A4E06549CDCD",
+      "version": null,
+      "release_date": "2017-01-10T00:00:00"
+    },
+    {
+      "name": "DellPack-XVHPF",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER03997245M/1/M6800-win7-A11-XVHPF.CAB",
+      "size_bytes": 1139016937,
+      "md5": "96C94ADB96A73E553509F7E4067FE1B5",
+      "sha256": "5A6F51FF6266F8F269A7FF8DDF0131B03103B0026FBE9B4C73C22D24DCA32E2D",
+      "version": null,
+      "release_date": "2017-01-10T00:00:00"
+    },
+    {
+      "name": "DellPack-R5KYV",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03511535M/1/M6800-win8.1-A06-R5KYV.CAB",
+      "size_bytes": 1228193326,
+      "md5": "C9BD464BC40DE15F947C60EB08A1008B",
+      "sha256": "A3CFB4D1B444B36B3745CCD37E92088F37B315FDDDF2E94DDE4D1C179375066A",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-269FW",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02518557M/1/M6800-win8-A04-269FW.CAB",
+      "size_bytes": 1022636231,
+      "md5": "A8340173678F273EAB9ABA6E7E3D9702",
+      "sha256": "2EE39BC7FC0ED2896EFD0218FD23F8E40453271F76061BB8848688AA2A0D7A74",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

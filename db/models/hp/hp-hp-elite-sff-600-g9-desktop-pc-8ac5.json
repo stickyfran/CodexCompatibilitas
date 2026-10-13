@@ -1,0 +1,36 @@
+{
+  "id": "hp-hp-elite-sff-600-g9-desktop-pc-8ac5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite SFF 600 G9 Desktop PC",
+  "system_id": "8AC5,8951",
+  "dmi_matches": [
+    "8AC5",
+    "8951",
+    "HP Elite SFF 600 G9 Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145708-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145708.exe",
+      "size_bytes": 2822576448,
+      "md5": "58c03558580bf6490dc64d3bc6b9604c",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/21/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151654-HP Elite Tower/SFF 6x0/8x0 G9/Z1 Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151654.exe",
+      "size_bytes": 3055277696,
+      "md5": "96a21c4aa6f99fe838a14d4bd6549773",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "3/12/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

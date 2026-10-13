@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-elitebook-8-g1i-14-inch-notebook-next-gen-ai-pc-8d8a",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC",
+  "system_id": "8D8A",
+  "dmi_matches": [
+    "8D8A",
+    "HP EliteBook 8 G1i 14 inch Notebook Next Gen AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp158689-HP EliteBook G1i NB Next Gen Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158689.exe",
+      "size_bytes": 1450240888,
+      "md5": "420BF0E159F4605BC05DB89BBBC71803",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/20/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp174398-HP EliteBook G1i NB Next Gen Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174398.exe",
+      "size_bytes": 1229009304,
+      "md5": "732E708172D8F5F06FAA134B6546E2A5",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "8/18/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

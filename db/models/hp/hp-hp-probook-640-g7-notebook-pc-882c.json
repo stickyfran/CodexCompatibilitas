@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-probook-640-g7-notebook-pc-882c",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 640 G7 Notebook PC",
+  "system_id": "882c",
+  "dmi_matches": [
+    "882c",
+    "HP ProBook 640 G7 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp110196-HP Probook 6x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110196.exe",
+      "size_bytes": 987167560,
+      "md5": "a9f8f664b20400ddc283816e151e89a6",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/22/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113465-HP Probook 6x0 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113465.exe",
+      "size_bytes": 1165238872,
+      "md5": "9b78d8323dd9a8addfdd5585f8200ad8",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "5/19/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140725-HP Probook 6x0 G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140725.exe",
+      "size_bytes": 1220001096,
+      "md5": "d007d400d2980eaac36bde0a8215a52b",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "6/17/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

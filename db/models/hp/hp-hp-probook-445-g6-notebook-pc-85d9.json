@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-445-g6-notebook-pc-85d9",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 G6 Notebook PC",
+  "system_id": "85d9",
+  "dmi_matches": [
+    "85d9",
+    "HP ProBook 445 G6 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp93254-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93001-93500/sp93254.exe",
+      "size_bytes": 544581088,
+      "md5": "b8ede917f55ce515cee4a566668d6106",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "1/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99461-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99001-99500/sp99461.exe",
+      "size_bytes": 704514272,
+      "md5": "0bd09714dc4dce2b72162937b9a403cc",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/30/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp103578-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103578.exe",
+      "size_bytes": 921618616,
+      "md5": "0c57909ca5e213dd03a4485d190fad87",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114179-HP ProBook 4x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114179.exe",
+      "size_bytes": 1180286416,
+      "md5": "dfa4ada9c9c515c3d28bf3f27e8a378d",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/11/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7920-rack-0718",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7920 Rack",
+  "system_id": "0718",
+  "dmi_matches": [
+    "Precision 7920 Rack",
+    "0718"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-3VNR3",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08667979M/1/Precision-7920-Rack-3VNR3_Win10_1.0_A16.exe",
+      "size_bytes": 1046180296,
+      "md5": "C61B43A45E448406E4504A78378EB099",
+      "sha256": "B6A65D0EFA49BC59D69597B512EDA6B2231D6934736DBFFE97A5AE9CA82B0CC4",
+      "version": null,
+      "release_date": "2022-07-22T13:59:58"
+    },
+    {
+      "name": "DellPack-R16HC",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08194025M/1/Precision 7920 Rack-win11-A00-R16HC.CAB",
+      "size_bytes": 927300345,
+      "md5": "11C87EE9911DD739840498286814840E",
+      "sha256": "87E1212D91D52CAE4270380BCE5D3215AF677775F8B04DEC1F34A31C864DEB77",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

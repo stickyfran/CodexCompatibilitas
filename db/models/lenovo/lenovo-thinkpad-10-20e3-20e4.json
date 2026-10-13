@@ -1,0 +1,65 @@
+{
+  "id": "lenovo-thinkpad-10-20e3-20e4",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad 10 20E3 20E4",
+  "system_id": "20E4,20E3",
+  "dmi_matches": [
+    "20E4",
+    "20E3"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad10_mt20e3-20e4_w1064_201609.exe",
+      "size_bytes": null,
+      "md5": "e1a12bbf374b8e5e94f5e60a01c039b5",
+      "sha256": "09db60c01fa34962173319d40172b019b3cc3a912f638e41a5dd49c20ca43498",
+      "version": null,
+      "release_date": "2019-06-20"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad10_mt20e3-20e4_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "0f1e7816a4cc63d810b0e479562d8f92",
+      "sha256": "d6bd4f973c06bfc3a4188873571456e5d668d5fcad5d790fe69f6ee1d55e3a30",
+      "version": null,
+      "release_date": "2018-07-27"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad10_mt20e3-20e4_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": "293c5cf82b906c8ee08ab8f46de2c716",
+      "sha256": "ab8f544f736ee526b4537000f08fa5a3144356b7f9b46fd723ee19a50120d9da",
+      "version": null,
+      "release_date": "2018-10-30"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad10_mt20e3-20e4_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "41826fb6befcc63c680e4fa242c05b51",
+      "sha256": "d26bc7456dde350a39c595b2dbbae0e126d7429d9e660717f38488c0383002da",
+      "version": null,
+      "release_date": "2019-06-06"
+    },
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_thinkpad10_mt20e3-20e4_w1064_201710.exe",
+      "size_bytes": null,
+      "md5": "845a52574a4318bac47e3745cddff020",
+      "sha256": "5a02157610ec282b7b4716f87f8785cb401a1022ec0ea77cbc178fa9be643bd7",
+      "version": null,
+      "release_date": "2017-11-13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

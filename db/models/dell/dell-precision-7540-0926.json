@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7540-0926",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7540",
+  "system_id": "0926",
+  "dmi_matches": [
+    "Precision 7540",
+    "0926"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-FK7CD",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10154898M/1/7540-FK7CD_Win10_1.0_A11.exe",
+      "size_bytes": 2683577176,
+      "md5": "412A13F28F290542A5B8B749630BFC07",
+      "sha256": "9BBC697AF487F7C0792A2E6E92927DBCCFEC9957EBD858F78462CCB1070B57E4",
+      "version": null,
+      "release_date": "2023-07-07T08:03:22"
+    },
+    {
+      "name": "DellPack-WCXFW",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10154911M/1/7540-WCXFW_Win11_1.0_A01.exe",
+      "size_bytes": 2700765040,
+      "md5": "12ADA599C6CE89444DBE78451AA150DF",
+      "sha256": "0C6904F9C858ECEEBC305558731BBDDB221BC45E7757211C03A8B21DB3265315",
+      "version": null,
+      "release_date": "2023-07-07T08:03:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

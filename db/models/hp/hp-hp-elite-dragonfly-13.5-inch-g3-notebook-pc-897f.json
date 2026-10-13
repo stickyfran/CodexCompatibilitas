@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-elite-dragonfly-13.5-inch-g3-notebook-pc-897f",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly 13.5 inch G3 Notebook PC",
+  "system_id": "897F",
+  "dmi_matches": [
+    "897F",
+    "HP Elite Dragonfly 13.5 inch G3 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145124-HP Elite Dragonfly 13.5 G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145124.exe",
+      "size_bytes": 1193978304,
+      "md5": "251bdb0ed1e7be0afa79bcc2ebd40ff5",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/13/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142802-HP Elite Dragonfly G3 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142802.exe",
+      "size_bytes": 1319553824,
+      "md5": "23de4c2c0cb09798802569c28e59185a",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/29/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

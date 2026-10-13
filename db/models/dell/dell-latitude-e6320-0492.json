@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e6320-0492",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6320",
+  "system_id": "0492",
+  "dmi_matches": [
+    "Latitude E6320",
+    "0492"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-J7JPJ",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02290047M/1/E6320-vista-A01-J7JPJ.CAB",
+      "size_bytes": 139459157,
+      "md5": "0347FF2716F0D5A3A31D61DDA1FB2C0E",
+      "sha256": "AD9E12FB45AD75E9624C7E91E6D6A562763BDF991B23C78AE8DEF26B102F98C0",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-YHRJ4",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02169169M/1/E6320-win7-A12-YHRJ4.CAB",
+      "size_bytes": 302988055,
+      "md5": "371CDF57C1FF9F0BBF3F9D0D91B6142A",
+      "sha256": "FA7CF7019CB3661EFB691E6009AB9D5BC9FF7042828EBC072FE62560A0E245F0",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    },
+    {
+      "name": "DellPack-KXHWF",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02092727M/1/E6320-win8-A03-KXHWF.CAB",
+      "size_bytes": 250871469,
+      "md5": "A2E480D4D64BCBB431548D0E4EACB6B8",
+      "sha256": "7BF18E4BE212525B4D598A7550810A01086125E47535FDE23DF54A0BE48E21BB",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    },
+    {
+      "name": "DellPack-83P7M",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02199175M/1/E6320-xp-A07-83P7M.CAB",
+      "size_bytes": 63109506,
+      "md5": "780E5B2DC87F9B8727129DE042611AB7",
+      "sha256": "33DB67A252D2DF998A99B4D75CCC3231CD4A1B65468AD223FCF7EAA85C155B14",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3570-06f3",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3570",
+  "system_id": "06F3",
+  "dmi_matches": [
+    "Latitude 3570",
+    "06F3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WKJ11",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05283329M/1/3570-Win10-A12-WKJ11.CAB",
+      "size_bytes": 1031047815,
+      "md5": "888348805D10DB575AC314B0E87ACA77",
+      "sha256": "9B04E083933CE11267FA7198585C74B5B195BAE4E14C0E7FB984D1D0840C17C5",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-Y73W1",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05283519M/1/3570-win7-A11-Y73W1.CAB",
+      "size_bytes": 1105407197,
+      "md5": "08978DFC1047AE803480ACD63ADFF36A",
+      "sha256": "CCC95E3EB422D04E377DB4ABEDD707508598F1007F6708E70B978E0B5192B1E7",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-PTGJ2",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03798327M/1/3570-win8.1-A02-PTGJ2.CAB",
+      "size_bytes": 558094805,
+      "md5": "EA1DCC44E1AFE8A4787A34938405EA95",
+      "sha256": "0285C58364C09286BC7FAF0FCCD71054DF58DC64BAE7568CC1973F0DDEEA4771",
+      "version": null,
+      "release_date": "2016-08-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

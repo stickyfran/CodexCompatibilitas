@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elitebook-835-13-inch-g10-notebook-pc-8c10",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 835 13 inch G10 Notebook PC",
+  "system_id": "8C10",
+  "dmi_matches": [
+    "8C10",
+    "HP EliteBook 835 13 inch G10 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp149192-HP ZBook/EliteBook 8x5 G10/A Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149192.exe",
+      "size_bytes": 1049260176,
+      "md5": "51787d5ae2f96ca2017ac22968e51092",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/7/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149193-HP ZBook/EliteBook 8x5 G10/A Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149193.exe",
+      "size_bytes": 1049234280,
+      "md5": "b6cfb74eb9b177a8b9fe0388b80403f2",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/7/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151792-HP ZBook/EliteBook 8x5 G10/A Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151792.exe",
+      "size_bytes": 1164102512,
+      "md5": "e2786315b93f21aa960e4d0731371117",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/25/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

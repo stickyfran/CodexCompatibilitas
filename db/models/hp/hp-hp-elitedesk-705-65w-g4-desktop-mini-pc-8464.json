@@ -1,0 +1,66 @@
+{
+  "id": "hp-hp-elitedesk-705-65w-g4-desktop-mini-pc-8464",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 65W G4 Desktop Mini PC",
+  "system_id": "8464,83e9",
+  "dmi_matches": [
+    "8464",
+    "83e9",
+    "HP EliteDesk 705 65W G4 Desktop Mini PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp92293-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92293.exe",
+      "size_bytes": 1114825176,
+      "md5": "3b999ae6fd705a1427fe9b6ff91bfe82",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/16/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp99766-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99766.exe",
+      "size_bytes": 1253226328,
+      "md5": "804d3ca0370f4425d656630fb008f6d1",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/6/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101773-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101773.exe",
+      "size_bytes": 425995088,
+      "md5": "b1a52c90c1389a13141ce70f7d3b27b2",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/27/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp111437-HP EliteDesk 705 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111437.exe",
+      "size_bytes": 970378096,
+      "md5": "dd3d41abcc4f0e674ba12e9c2d0acf04",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "12/3/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114270-HP EliteDesk 705 G4 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114270.exe",
+      "size_bytes": 1112316872,
+      "md5": "e6100925e9153b5fe0055de4d681841a",
+      "sha256": null,
+      "version": "12.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e6420-0493",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6420",
+  "system_id": "0493",
+  "dmi_matches": [
+    "Latitude E6420",
+    "0493"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-N4CXV",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER01809605M/1/E6420-vista-A01-N4CXV.CAB",
+      "size_bytes": 354022766,
+      "md5": "059821036E73510E5F85915742C497C4",
+      "sha256": "EC89FF5BD4029F7D11F264253CDDA815E96CB26CB65F0C8B03115D5E5D925E43",
+      "version": null,
+      "release_date": "2013-10-30T00:00:00"
+    },
+    {
+      "name": "DellPack-89PW8",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02169324M/1/E6420-win7-A12-89PW8.CAB",
+      "size_bytes": 597662598,
+      "md5": "0A9279E8510C97541A82A8219156299B",
+      "sha256": "F783403BF06E2A56D6E8FEAC632E4825C26ADA2CD8B58893C5291DBDF3CFB13E",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    },
+    {
+      "name": "DellPack-0D34V",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02092723M/1/E6420-win8-A03-0D34V.CAB",
+      "size_bytes": 248295494,
+      "md5": "640A62F86D5402142C24A315B9556FAB",
+      "sha256": "D7097F9A6A9D425D1B582A0064CA838E1FA2997CDB78C385F2A9E11FCA014624",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    },
+    {
+      "name": "DellPack-DNCP1",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02190831M/1/E6420-xp-A10-DNCP1.CAB",
+      "size_bytes": 175679542,
+      "md5": "B32D70B429572691A8DD8276872FDAE9",
+      "sha256": "BDDF36C6789A43D99989A55ECEEF9C199EEEB42B2BCE05981B1337D0CF563316",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

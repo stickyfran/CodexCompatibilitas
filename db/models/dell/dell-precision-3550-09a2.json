@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3550-09a2",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3550",
+  "system_id": "09A2",
+  "dmi_matches": [
+    "Precision 3550",
+    "09A2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-38CXG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08822942M/1/3550-38CXG_Win10_1.0_A12.exe",
+      "size_bytes": 2712130584,
+      "md5": "CFDEA5192F9F9E193BDD0BEECAE3B802",
+      "sha256": "0EEE9ACDDF45AC74560861FFF01F86675A12A84306673225A9004E43DD54814F",
+      "version": null,
+      "release_date": "2022-10-10T14:02:58"
+    },
+    {
+      "name": "DellPack-P2MTX",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08061416M/1/3550-win11-A00-P2MTX.CAB",
+      "size_bytes": 2030834636,
+      "md5": "2C69A0A35234EE2AC25DA1CC6369A381",
+      "sha256": "300304252C274F9025CCD821FCAAF7622D3AB0790E9D4E8CA6FDBC08F4661932",
+      "version": null,
+      "release_date": "2022-04-21T04:02:17"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-5820-tower-0738",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5820 Tower",
+  "system_id": "0738",
+  "dmi_matches": [
+    "Precision 5820 Tower",
+    "0738"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-V63WG",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05556055M/1/Precision 5820 Tower-win7-A04-V63WG.CAB",
+      "size_bytes": 722464893,
+      "md5": "1CA23B3D805052615E729FCC65828E0E",
+      "sha256": "7B9FE455C79023E6C3F8C2770AE55E03FE0DF59A7F7462F2BC749DCA0C8AD06C",
+      "version": null,
+      "release_date": "2019-05-14T00:00:00"
+    },
+    {
+      "name": "DellPack-P9GC7",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10785074M/1/Precision-5820-Tower-P9GC7_Win10_1.0_A20.exe",
+      "size_bytes": 2891193352,
+      "md5": "3E9CA53FE763EAAA4B5F86AC58A84422",
+      "sha256": "707689EDCD2146D6EC33E74077F2AEB533F6F8060F88BF30885FAEB69768E607",
+      "version": null,
+      "release_date": "2023-11-09T01:05:40"
+    },
+    {
+      "name": "DellPack-12CM4",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10865490M/1/Precision-5820-Tower-12CM4_Win11_1.0_A05.exe",
+      "size_bytes": 2891197704,
+      "md5": "38B526A259D1E3D7EDD37343C1786584",
+      "sha256": "384CACD25B40C84757364931461C29824887AD5CBC6319F5ADD45F31FD84409B",
+      "version": null,
+      "release_date": "2023-11-24T15:35:13"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

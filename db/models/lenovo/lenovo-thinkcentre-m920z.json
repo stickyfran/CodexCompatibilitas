@@ -1,0 +1,67 @@
+{
+  "id": "lenovo-thinkcentre-m920z",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M920Z",
+  "system_id": "10S6,10S7,10Y5,10Y6",
+  "dmi_matches": [
+    "10S6",
+    "10S7",
+    "10Y5",
+    "10Y6"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920z_w10rs464_20180702.exe",
+      "size_bytes": null,
+      "md5": "650dc2853bbc279ec8a45fe310b2936b",
+      "sha256": "32267d7f7766f53b90001e26676cda6c9fda6878deb74a1a726da01d3203bb82",
+      "version": null,
+      "release_date": "2022-04-18"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920z_win1064_1903_20190730.exe",
+      "size_bytes": null,
+      "md5": "f948d3d5c3c7172a72378365daa53029",
+      "sha256": "50bed51db7c1dd3f7d668237404c2c9f36aabc9972aacfe900d83454390f2174",
+      "version": null,
+      "release_date": "2022-04-18"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920z_win1064_1909_20191125.exe",
+      "size_bytes": null,
+      "md5": "6ad9abd9ec5e53972501eaa1bd6e6fca",
+      "sha256": "ece01aaaa476ae9c737d0d535608d317db6b0e6e24f00f15347994516c5aea1c",
+      "version": null,
+      "release_date": "2022-04-18"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920z_w1064_2004_20h2_202203.exe",
+      "size_bytes": null,
+      "md5": "ae470562966892a09283f9c745f36dc2",
+      "sha256": "1b1e4beedd44033777c61db1045f9aa6dab52712ba2cef51c34c961efc9c51bc",
+      "version": null,
+      "release_date": "2022-03-15"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m920z_w1064_2004_20h2_202203.exe",
+      "size_bytes": null,
+      "md5": "ae470562966892a09283f9c745f36dc2",
+      "sha256": "1b1e4beedd44033777c61db1045f9aa6dab52712ba2cef51c34c961efc9c51bc",
+      "version": null,
+      "release_date": "2022-03-15"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

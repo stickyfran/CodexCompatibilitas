@@ -1,0 +1,25 @@
+{
+  "id": "dell-da16250-0ce6",
+  "vendor": "Dell",
+  "family": "Dell Laptops",
+  "model_name": "DA16250",
+  "system_id": "0CE6",
+  "dmi_matches": [
+    "DA16250",
+    "0CE6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y23VT",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13657000M/1/DA16250-Y23VT_Win11_1.0_A02.exe",
+      "size_bytes": 2047333048,
+      "md5": "EA425D39053E311E4DDD004A6533774A",
+      "sha256": "7BE8058ABC52B3D2FE7C86AD78527E1388506EA830C5328C3C7ADECD05230E40",
+      "version": null,
+      "release_date": "2025-10-27T04:04:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

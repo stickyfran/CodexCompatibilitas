@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3460-sff-0ac8",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3460 SFF",
+  "system_id": "0AC8",
+  "dmi_matches": [
+    "Precision 3460 SFF",
+    "0AC8"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-F1F14",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14454005M/1/Precision-3460-SFF-F1F14_Win10_1.0_A15.exe",
+      "size_bytes": 3233034304,
+      "md5": "A5F0BBAE64974E970E89304C82630C07",
+      "sha256": "3E0B2BD418303AE5ACA583A6D5B322CB3BAC8E5709BA5B2C8065C224F428E55A",
+      "version": null,
+      "release_date": "2026-04-29T02:30:38"
+    },
+    {
+      "name": "DellPack-7TTDP",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14454030M/1/Precision-3460-SFF-7TTDP_Win11_1.0_A14.exe",
+      "size_bytes": 3228707680,
+      "md5": "6259BC30C47992463076AF012E2A04EB",
+      "sha256": "5043DB5CB1754EEED9F7E88F5FBCCAFCC774E9D69DADF8DB255CC0300A70AB75",
+      "version": null,
+      "release_date": "2026-04-29T02:30:38"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

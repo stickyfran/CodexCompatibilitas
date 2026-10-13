@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-probook-635-aero-g7-notebook-pc-8830",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 635 Aero G7 Notebook PC",
+  "system_id": "8830",
+  "dmi_matches": [
+    "8830",
+    "HP ProBook 635 Aero G7 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp110626-HP ProBook 635 Aero G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110501-111000/sp110626.exe",
+      "size_bytes": 534725648,
+      "md5": "d6fe0cacd7a6851b47a86a163583cadc",
+      "sha256": null,
+      "version": "1.00 A 2",
+      "release_date": "10/26/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp142803-HP ProBook 635 Aero G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142803.exe",
+      "size_bytes": 741029256,
+      "md5": "a5e6c97904bee8c966843dc797cea21a",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/11/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

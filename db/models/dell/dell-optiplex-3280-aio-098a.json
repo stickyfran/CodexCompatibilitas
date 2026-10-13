@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-3280-aio-098a",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3280 AIO",
+  "system_id": "098A",
+  "dmi_matches": [
+    "OptiPlex 3280 AIO",
+    "098A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-VJ332",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11655190M/1/3280-AIO-VJ332_Win10_1.0_A19.exe",
+      "size_bytes": 1462822808,
+      "md5": "36FF459892B12A00388D5C5EF2EA97C4",
+      "sha256": "0FEAECF0C0469719EF411A8D3C94B92E0B8436EEE83EB9DE33414039AB58389C",
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    },
+    {
+      "name": "DellPack-VTN8D",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11655193M/1/3280-AIO-VTN8D_Win11_1.0_A08.exe",
+      "size_bytes": 1456402520,
+      "md5": "0C090FBFBFE8539D1D3DA49AD3B76F6F",
+      "sha256": "D7AEEDFA30CB91442609A95C87C91721C025A6412619A6E93CEDD20318E17DFF",
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

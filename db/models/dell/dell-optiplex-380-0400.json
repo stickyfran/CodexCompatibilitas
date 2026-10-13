@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-380-0400",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 380",
+  "system_id": "0400",
+  "dmi_matches": [
+    "OptiPlex 380",
+    "0400"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-J5VX9",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02123413M/1/Optiplex 380-win7-A05-J5VX9.CAB",
+      "size_bytes": 287414587,
+      "md5": "042B07C62F02AEE81542780E580D9DB0",
+      "sha256": "E2F658D3916096ED79DEE5A219F9AAEDA8DD1A02724BA2A797F4D3BC18CEF563",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-GMVHW",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02123383M/1/Optiplex 380-xp-A08-GMVHW.CAB",
+      "size_bytes": 306705552,
+      "md5": "3A988518C5D13D25D79FC6502B59F38B",
+      "sha256": "3764DE16E93EFD4690B59973C1AA2DAFDEC0BDDE4B173F249ED59C85F5C1CB2E",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

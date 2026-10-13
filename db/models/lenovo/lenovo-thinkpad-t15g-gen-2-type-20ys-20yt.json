@@ -1,0 +1,105 @@
+{
+  "id": "lenovo-thinkpad-t15g-gen-2-type-20ys-20yt",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T15G Gen 2 Type 20YS 20YT",
+  "system_id": "20YS,20YT",
+  "dmi_matches": [
+    "20YS",
+    "20YT"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w1064_1909_202106.exe",
+      "size_bytes": null,
+      "md5": "11b56263b4f48a577b29db1088a7ae48",
+      "sha256": "33fb10ed7beee49d04d76c9a39832a40db21438a6b703196e40ede464ccc5c41",
+      "version": null,
+      "release_date": "2021-07-16"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w1064_2004_202112.exe",
+      "size_bytes": null,
+      "md5": "490aa0ce8368e7be50f38a50bb5e262e",
+      "sha256": "a533f59657defe588013a1dec8488c00df66936da418674187548ea6394d1e7c",
+      "version": null,
+      "release_date": "2022-01-13"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w1064_20h2_202211.exe",
+      "size_bytes": null,
+      "md5": "9873a048600c1b270cb43cbe4345efa3",
+      "sha256": "879fb8d3cfb009656390deb547fff0a5f75883bdaa27761004f50901b23779e9",
+      "version": null,
+      "release_date": "2023-01-05"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w1064_21h1_202211.exe",
+      "size_bytes": null,
+      "md5": "2e54270a7a3fa06ba15267320cd19f72",
+      "sha256": "eb3de4461dff6e088c3b6a97689cc23fe6c22a8a463d55771d0538eb6f8f9f1e",
+      "version": null,
+      "release_date": "2023-01-05"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w1064_21h2_202211.exe",
+      "size_bytes": null,
+      "md5": "184b93981b9540cf355af415884dcc20",
+      "sha256": "1c9bf867fe1e9d03150c24271f87b860b866b140777036468b2a9e937e726fbb",
+      "version": null,
+      "release_date": "2023-01-05"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w1064_22h2_202303.exe",
+      "size_bytes": null,
+      "md5": "5b51435a25f23b67b39b9bf2f6f747c7",
+      "sha256": "1670366a393b20ad103718907ddf0aad70b657320edc1ef92500215e216d66cd",
+      "version": null,
+      "release_date": "2023-04-14"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w11_21_202112.exe",
+      "size_bytes": null,
+      "md5": "675718379e1bb1bb7e1fb00f4152ab87",
+      "sha256": "99ef1cc7791f9d01166a8e05c80bf59f4d661ea4617dcfba887df8b548908aaf",
+      "version": null,
+      "release_date": "2022-01-13"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w11_22_202310.exe",
+      "size_bytes": null,
+      "md5": "e819be71242f2a367e9c1f4cadb0748d",
+      "sha256": "29681d1d3f51c8786f75a46cf75c32294c1faf5c4bf139a795b64a2c15722c49",
+      "version": null,
+      "release_date": "2023-12-06"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p15g2_mt20yq-20yr-t15gg2_mt20ys-20yt-p17g2_mt20yu-20yv_w11_24_202409.exe",
+      "size_bytes": null,
+      "md5": "ed03d93cab9ee3304b05f479a19cf48a",
+      "sha256": "de29de6eef34bd13dbd47ea35237386df2d79bf9f55c5e0d572f73bcc0ab393c",
+      "version": null,
+      "release_date": "2024-10-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

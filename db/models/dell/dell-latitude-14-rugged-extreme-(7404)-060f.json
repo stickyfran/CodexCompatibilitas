@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-14-rugged-extreme-(7404)-060f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 14 Rugged Extreme (7404)",
+  "system_id": "060F",
+  "dmi_matches": [
+    "Latitude 14 Rugged Extreme (7404)",
+    "060F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-88C14",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04898157M/1/7404-Win10-A05-88C14.CAB",
+      "size_bytes": 551587669,
+      "md5": "1486481E18B0C1B8021C9FEA04FC165D",
+      "sha256": "BB187374B298A1D72DEC4801101CB96BAA82C87074DB67890D170809B5B38C4B",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-3VN08",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04898248M/1/7404-Win7-A08-3VN08.CAB",
+      "size_bytes": 802755693,
+      "md5": "BA7386A09AE63A613B07329B4C8D155F",
+      "sha256": "1DCC5B89FB5D9729A5A6587789ADEECE6ECC7EAA7E772C8678551BE38A7BF492",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-YRJ9J",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03569294M/1/7404-Win8.1-A06-YRJ9J.CAB",
+      "size_bytes": 437333566,
+      "md5": "08A5514595CEEE6ABA051718D46452D2",
+      "sha256": "36C369637A61381D28DC53D8C8886B4EBA974EEEA4F53AB517D1F7EE22421681",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

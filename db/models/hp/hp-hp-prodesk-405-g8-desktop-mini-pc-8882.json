@@ -1,0 +1,46 @@
+{
+  "id": "hp-hp-prodesk-405-g8-desktop-mini-pc-8882",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G8 Desktop Mini PC",
+  "system_id": "8882,8968",
+  "dmi_matches": [
+    "8882",
+    "8968",
+    "HP ProDesk 405 G8 Desktop Mini PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp121400-HP ElitePro 4/805 G8 DM Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp121001-121500/sp121400.exe",
+      "size_bytes": 1118428792,
+      "md5": "8abd07de9645c77378bec828969aa586",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/12/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138570-HP ElitePro 4/805 G8 DM Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138570.exe",
+      "size_bytes": 1148526104,
+      "md5": "1d3bfd90ce09daf3e9dcac8851dc0c80",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "3/1/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp143119-HP ElitePro 4/805 G8 DM Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143119.exe",
+      "size_bytes": 1208364592,
+      "md5": "4499a4e1066126f71ba210f58e004868",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "10/19/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

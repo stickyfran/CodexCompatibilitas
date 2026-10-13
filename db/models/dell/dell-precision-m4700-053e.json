@@ -1,0 +1,65 @@
+{
+  "id": "dell-precision-m4700-053e",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M4700",
+  "system_id": "053E",
+  "dmi_matches": [
+    "Precision M4700",
+    "053E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GMFJV",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03650061M/1/M4700-win10-A02-GMFJV.CAB",
+      "size_bytes": 1107482069,
+      "md5": "160DCB2569C2CA1F017E0783003A59EE",
+      "sha256": "A34337A4421FF731F1F048577858D25902D4D098EF645CE6D039BF95519DF61F",
+      "version": null,
+      "release_date": "2016-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-P33X8",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02891636M/1/M4700-win7-A11-P33X8.CAB",
+      "size_bytes": 798509395,
+      "md5": "F1801DE46835082196FBA80AFB1A7E92",
+      "sha256": "C172AC7E9A85F7EC8E4BF570951B54CFE743B42EBE66C045B51E0B394713145B",
+      "version": null,
+      "release_date": "2015-05-11T00:00:00"
+    },
+    {
+      "name": "DellPack-704JG",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02279312M/1/M4700-win8.1-A02-704JG.CAB",
+      "size_bytes": 884011853,
+      "md5": "D82F17AED12AA63D22FAF5956E98832E",
+      "sha256": "DA84F5DC0D3CF1294B1492CD3929F90E05D00EF150268E3B49DB59D060D6516D",
+      "version": null,
+      "release_date": "2014-06-28T00:00:00"
+    },
+    {
+      "name": "DellPack-2C5FD",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02610668M/1/M4700-win8-A05-2C5FD.CAB",
+      "size_bytes": 777319028,
+      "md5": "E08D4A69A4E91AE54527D17DA23EB4ED",
+      "sha256": "F1349DF623D790EDF1E970A6B73CB5E20EE40EE750F9C2D85D95A6BF639034A5",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-YH4YP",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02141120M/1/M4700-xp-A07-YH4YP.CAB",
+      "size_bytes": 685655147,
+      "md5": "41BCEB90FCEC3E863023D29A07E17490",
+      "sha256": "510E2B1413D6580C3E046BA5CA85C667EFC23FCF9E8D831DCC7989C0FFC76E4D",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

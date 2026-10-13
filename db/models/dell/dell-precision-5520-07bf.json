@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-5520-07bf",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5520",
+  "system_id": "07BF",
+  "dmi_matches": [
+    "Precision 5520",
+    "07BF"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KMMND",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06071572M/1/5520-win10-A13-KMMND.CAB",
+      "size_bytes": 1090855617,
+      "md5": "D7CFD5728356F240D63D8C2FE9147581",
+      "sha256": "A787AC65CB26C6A4104F783316767DB1FA5810FAD092AA41C49883DECB1DBB69",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    },
+    {
+      "name": "DellPack-JMHNT",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER06083223M/1/5520-win7-A11-JMHNT.CAB",
+      "size_bytes": 877926106,
+      "md5": "EEDFE8656D5BBDD08A296F9FA3E8ABBB",
+      "sha256": "DB2B997AD1F10D12F6C154705AF77BFCAD8C629E0D3C6A8F643D38DAB885FE54",
+      "version": null,
+      "release_date": "2020-05-12T00:00:00"
+    },
+    {
+      "name": "DellPack-MK0RT",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04272515M/1/5520-Win8.1-A00-MK0RT.CAB",
+      "size_bytes": 883857085,
+      "md5": "22C82079810473AB68CBE5A1906849F0",
+      "sha256": "6C4D446A90F82D8D1A8C1A51A7609719D95C8809B13CAC356C1CD42B52028024",
+      "version": null,
+      "release_date": "2017-05-26T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

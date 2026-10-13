@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e7470-06dc",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E7470",
+  "system_id": "06DC",
+  "dmi_matches": [
+    "Latitude E7470",
+    "06DC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-3P8NR",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06315906M/1/E7470-win10-A13-3P8NR.CAB",
+      "size_bytes": 522732096,
+      "md5": "9254F3462486AE5F90C4432C7E3F2C77",
+      "sha256": "EC75CE02EFDE90C0FBF72FA0327C1282B5E8740DF325FB390E474EC9696CC8EC",
+      "version": null,
+      "release_date": "2020-07-14T00:00:00"
+    },
+    {
+      "name": "DellPack-C4KW5",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05630859M/1/E7470-win7-A11-C4KW5.CAB",
+      "size_bytes": 645558914,
+      "md5": "69D46842B1BAD7B7CD7D175B11C25F04",
+      "sha256": "ADEC0D0A029783408A605D42BE775AFDD44A79A49B054C2CD65C8CA2F007820F",
+      "version": null,
+      "release_date": "2019-06-11T00:00:00"
+    },
+    {
+      "name": "DellPack-1W5J9",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03854513M/1/E7470-win8.1-A02-1W5J9.CAB",
+      "size_bytes": 448746982,
+      "md5": "A6C6D31E3EB89BBFEA6378E5FC3DEEFE",
+      "sha256": "B94D2A1822DBE7910B8D779E7E084A69D1312B9B4CB289A0DB1D617D8CFC7D26",
+      "version": null,
+      "release_date": "2016-08-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

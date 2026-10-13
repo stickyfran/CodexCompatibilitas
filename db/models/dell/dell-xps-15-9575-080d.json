@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-15-9575-080d",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 15 9575",
+  "system_id": "080D",
+  "dmi_matches": [
+    "XPS 15 9575",
+    "080D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GJDT1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06105198M/1/9575-win10-A07-GJDT1.CAB",
+      "size_bytes": 767560327,
+      "md5": "0E73549E33C7EF0AEF2CBF926C72C7BE",
+      "sha256": "65CAE5442E59AA3F921C9F0D798850A9E54FBE8277A963EAB98C621DAC094521",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

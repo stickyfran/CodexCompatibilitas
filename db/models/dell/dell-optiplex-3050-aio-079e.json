@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-3050-aio-079e",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3050 AIO",
+  "system_id": "079E",
+  "dmi_matches": [
+    "OptiPlex 3050 AIO",
+    "079E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-T7CGN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06201705M/1/3050 AIO-win10-A13-T7CGN.CAB",
+      "size_bytes": 579670392,
+      "md5": "B76A51F5929867C96BA00CF288BB2073",
+      "sha256": "C9665E04D0F02173C100F3E531D5F9F724527B874C776707EB71E4D68C042A50",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-96T3X",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06201734M/1/3050 AIO-win7-A11-96T3X.CAB",
+      "size_bytes": 562467255,
+      "md5": "A4B0879E96ABFE821E5E9EA791EC0E01",
+      "sha256": "8BA8081586DC23B2C3367499FA0B23BBE25B2D15A9CB4D7BF66202A0E1E593F5",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-4R75M",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04630451M/1/3050 AIO-win8.1-A03-4R75M.CAB",
+      "size_bytes": 339411786,
+      "md5": "C0B6D8871F51EA599C7B87D9EAC3E25F",
+      "sha256": "7F37B0BF96A2E9BAC3828429F2DCD8C736A112E056E37ECD590C2D71ECBCFC29",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,13 @@
+{
+  "id": "asus-expertbook-b5-b5402c-13th-gen-intel",
+  "vendor": "ASUS",
+  "family": "ExpertBook",
+  "model_name": "Expertbook B5 B5402C 13Th Gen Intel",
+  "system_id": "INTEL",
+  "dmi_matches": [
+    "INTEL"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

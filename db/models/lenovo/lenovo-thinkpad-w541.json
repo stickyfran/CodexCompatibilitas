@@ -1,0 +1,45 @@
+{
+  "id": "lenovo-thinkpad-w541",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad W541",
+  "system_id": "20EG,20EF",
+  "dmi_matches": [
+    "20EG",
+    "20EF"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t540p-w54x_w1064_201706.exe",
+      "size_bytes": null,
+      "md5": "01206f0fc75e37217974c4eadba59948",
+      "sha256": "e7aeadfb68539a8dae898dd37564865cc362bfb025ac817680bb26bce0a4a0d4",
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t540p-w54x_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "29aa71cd4d03c6b0c13a94fdb0a06837",
+      "sha256": "91307ee25037a4b2c767ce71be6fc55f97a4ffb020966276fc9202e90b0c750f",
+      "version": null,
+      "release_date": "2018-07-27"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t540p-w54x_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": "9d39fbfb303a44dcbdfe321d8c4f4208",
+      "sha256": "2d08074329724293087bb1afa28cb05148e5202c5920c3e89ecee265ccf7c44c",
+      "version": null,
+      "release_date": "2018-10-30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

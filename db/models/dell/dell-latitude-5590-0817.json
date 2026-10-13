@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5590-0817",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5590",
+  "system_id": "0817",
+  "dmi_matches": [
+    "Latitude 5590",
+    "0817"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-4045F",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08634583M/1/5590-win10-A18-4045F.CAB",
+      "size_bytes": 1599519200,
+      "md5": "94EE5C10B1D4055CA1CB29D17BC49BDA",
+      "sha256": "E015AB3549946A5DAD1D2A993F17D7A3C2E289B970002444D3238BA653425A00",
+      "version": null,
+      "release_date": "2022-06-27T12:37:57"
+    },
+    {
+      "name": "DellPack-1XY18",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10612662M/1/5590-1XY18_Win11_1.0_A00.exe",
+      "size_bytes": 1795680456,
+      "md5": "0B6BBB17333DED33AE6076E6DD6C49AA",
+      "sha256": "BFF87D41901EB22991D858DFFEFC22152899A07F8F623E52A428F4D4A76FE9FD",
+      "version": null,
+      "release_date": "2023-10-27T05:18:49"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

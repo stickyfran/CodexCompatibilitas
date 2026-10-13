@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-3390-2-in-1-0878",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3390 2-in-1",
+  "system_id": "0878",
+  "dmi_matches": [
+    "Latitude 3390 2-in-1",
+    "0878"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JGRW1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07308660M/1/3390 2-in-1-win10-A14-JGRW1.CAB",
+      "size_bytes": 672457067,
+      "md5": "1B0F08AABC5EB0C4B86671CABCED1CEC",
+      "sha256": "EE01101A6F74A74244A499AEDB1810C1F90EBB420C0410F366E9EE632610227D",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

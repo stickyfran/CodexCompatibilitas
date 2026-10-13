@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-zbook-fury-16-g9-mobile-workstation-pc-89c6",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 16 G9 Mobile Workstation PC",
+  "system_id": "89C6",
+  "dmi_matches": [
+    "89C6",
+    "HP ZBook Fury 16 G9 Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145107-HP ZBook Fury 16 G9 MWS Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145107.exe",
+      "size_bytes": 2667499160,
+      "md5": "70974441c52f710a7552722c41fa6885",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "3/16/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149082-HP ZBook Fury G9 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149082.exe",
+      "size_bytes": 2180501496,
+      "md5": "b7f2b9b37b3b1cd2592ddc218c761418",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "8/31/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158224-HP ZBook Fury 16 G9 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158224.exe",
+      "size_bytes": 2452069104,
+      "md5": "2C5DA70495266A4D1FAF3DBB1578D9D4",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "4/18/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

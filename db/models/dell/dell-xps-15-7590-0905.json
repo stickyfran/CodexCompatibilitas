@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-15-7590-0905",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 15 7590",
+  "system_id": "0905",
+  "dmi_matches": [
+    "XPS 15 7590",
+    "0905"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PKXRV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07961172M/1/7590-win10-A11-PKXRV.CAB",
+      "size_bytes": 1567299524,
+      "md5": "F647FFDBF8D5BB8D8F2268BBDED58C87",
+      "sha256": "51B912781EAF6CF23C642BF9D9629361F765F963AF1575C5AB10E6E564B25D23",
+      "version": null,
+      "release_date": "2022-01-05T14:28:04"
+    },
+    {
+      "name": "DellPack-59MW4",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER07762657M/1/7590-win11-A00-59MW4.CAB",
+      "size_bytes": 1453091630,
+      "md5": "A13655252950773B06B4F13A759D2577",
+      "sha256": "7DA904DDC73275F3901BEFE54E1B204958A1A0943B40FFA6C956A157325FC29F",
+      "version": null,
+      "release_date": "2021-10-11T05:10:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

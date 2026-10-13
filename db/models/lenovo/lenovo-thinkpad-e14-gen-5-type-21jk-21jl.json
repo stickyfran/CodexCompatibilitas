@@ -1,0 +1,55 @@
+{
+  "id": "lenovo-thinkpad-e14-gen-5-type-21jk-21jl",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad E14 Gen 5 Type 21JK 21JL",
+  "system_id": "21JK,21JL",
+  "dmi_matches": [
+    "21JK",
+    "21JL"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_r14-g-5_e16-g-1_mt21jk-21jl_21jm_21jn-21jq_win10_22h2_202504.exe",
+      "size_bytes": null,
+      "md5": "fa7166d363e3ed7994a60972fb561ef1",
+      "sha256": "551b180a94964f15498bc69014352b4c0d9c87c0b4eb245bea3c1de6ebf1570a",
+      "version": null,
+      "release_date": "2025-05-14"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_r14-g-5_e16-g-1_mt21jk-21jl_21jm_21jn-21jq_win11_22h2_24h2_202504.exe",
+      "size_bytes": null,
+      "md5": "fa0db484eeb05ceae37b948900d40fe2",
+      "sha256": "4eefb26e779775dba738d723a86b073dc288ccdc2474cd382b43d2cb841a2a11",
+      "version": null,
+      "release_date": "2026-07-07"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_r14-g-5_e16-g-1_mt21jk-21jl_21jm_21jn-21jq_win11_22h2_24h2_202504.exe",
+      "size_bytes": null,
+      "md5": "fa0db484eeb05ceae37b948900d40fe2",
+      "sha256": "4eefb26e779775dba738d723a86b073dc288ccdc2474cd382b43d2cb841a2a11",
+      "version": null,
+      "release_date": "2026-07-07"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_r14-g-5_e16-g-1_mt21jk_21jl_21jm_21jn_21jq_win11_25h2_202601.exe",
+      "size_bytes": null,
+      "md5": "99f570b58a79d4ced131a7469f8c51de",
+      "sha256": "77b62fce856f438579cdebb5ed218e68507c8fd02aff93d89079a7e66a461b79",
+      "version": null,
+      "release_date": "2026-02-11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

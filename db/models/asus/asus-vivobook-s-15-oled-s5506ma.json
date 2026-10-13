@@ -1,0 +1,65 @@
+{
+  "id": "asus-vivobook-s-15-oled-s5506ma",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Vivobook S 15 OLED S5506MA",
+  "system_id": "S5506MA",
+  "dmi_matches": [
+    "S5506MA",
+    "ASUS Vivobook S 15 S5506MA_S5506MA"
+  ],
+  "driver_packs": [
+    {
+      "name": "Audio_Realtek_DCH_ROG_Intel_Z_V6.0.9635.1_36683",
+      "os": "win11-64",
+      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/Audio/36683/Audio_Realtek_DCH_ROG_Intel_Z_V6.0.9635.1_36683.exe",
+      "version": "6.0.9635.1",
+      "size_bytes": 109261824
+    },
+    {
+      "name": "ASUSSystemControlInterfacev3_ASUS_Z_V3.1.32.0_37280",
+      "os": "win11-64",
+      "url": "https://dlcdnets.asus.com/pub/ASUS/nb/Image/Driver/SoftwareUtility/37280/ASUSSystemControlInterfacev3_ASUS_Z_V3.1.32.0_37280.exe",
+      "version": "3.1.32.0",
+      "size_bytes": 18874368
+    }
+  ],
+  "individual_drivers": [],
+  "components": {
+    "audio": {
+      "status": "fixed",
+      "fix_type": "pipewire_filter_chain",
+      "fix_path": "/home/kes/Documentos/Programando/AsusS5506MAConfiguracion/02-pipewire-audio/99-asus-s5506ma-speakers.conf",
+      "details": {
+        "codec": "ALC294",
+        "pci_subsys": "1043:3c10",
+        "profile": "Dolby Atmos factory parametric EQ"
+      }
+    },
+    "display": {
+      "status": "fixed",
+      "fix_type": "color_icc_profile",
+      "fix_path": "/home/kes/Documentos/Programando/AsusS5506MAConfiguracion/04-color-profiles/profiles/S5506MA_8086_834C4180.icm",
+      "details": {
+        "edid": "SDC4180",
+        "factory_profile": "Splendid factory calibration"
+      }
+    },
+    "keyboard_rgb": {
+      "status": "fixed",
+      "fix_type": "kernel_driver_module",
+      "fix_path": "/home/kes/Documentos/Programando/colores/asus-lamparray-kmod/hid-asus-lamparray.c",
+      "details": {
+        "hid_id": "0B05:19B6",
+        "features": ["LampArray", "F4 hotkey", "FN-Lock", "State restore on resume"]
+      }
+    },
+    "thermal": {
+      "status": "fixed",
+      "fix_type": "bios_dptf_tables",
+      "details": {
+        "fan_profile": "Standard / Whisper / Performance via WMI"
+      }
+    }
+  }
+}

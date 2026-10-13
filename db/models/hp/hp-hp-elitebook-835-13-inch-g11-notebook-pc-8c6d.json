@@ -1,0 +1,36 @@
+{
+  "id": "hp-hp-elitebook-835-13-inch-g11-notebook-pc-8c6d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 835 13 inch G11 Notebook PC",
+  "system_id": "8C6D,8D04",
+  "dmi_matches": [
+    "8C6D",
+    "8D04",
+    "HP EliteBook 835 13 inch G11 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp161611-HP ZBook/EliteBook 8x5 G11/A Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161611.exe",
+      "size_bytes": 1195483304,
+      "md5": "4F787443F760D887426D6CC9018AD8A7",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "12/2/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp152820-HP ZBook/EliteBook 8x5 G11/A Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152820.exe",
+      "size_bytes": 1110797232,
+      "md5": "a4277ca2b663aae649670ba822a48bb5",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

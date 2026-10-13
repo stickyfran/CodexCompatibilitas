@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-education-14-pe14260-0ded",
+  "vendor": "Dell",
+  "family": "Dell Edu Laptops",
+  "model_name": "Dell Pro Education 14 PE14260",
+  "system_id": "0DED",
+  "dmi_matches": [
+    "Dell Pro Education 14 PE14260",
+    "0DED"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-G97T0",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14682619M/1/PE14260-G97T0_Win11_1.0_A02.exe",
+      "size_bytes": 1387382064,
+      "md5": "9A899920A7C75E882162DC533FCA9A44",
+      "sha256": "1EF99B0A7FDF1CAB3E7CF521CCC3E1E1B3A7735592B0076D47529F2B09C818C1",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

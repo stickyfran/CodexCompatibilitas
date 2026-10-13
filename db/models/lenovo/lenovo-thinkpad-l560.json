@@ -1,0 +1,85 @@
+{
+  "id": "lenovo-thinkpad-l560",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad L560",
+  "system_id": "20F1,20F2",
+  "dmi_matches": [
+    "20F1",
+    "20F2"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1607",
+      "os": "win10-1607",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l560_w1064_1709_201710.exe",
+      "size_bytes": null,
+      "md5": "4189f7f4bd12ef149440c3f8c0fc0100",
+      "sha256": "a059211470b47bc9aa7b0d0d12ddaec5c4821964d4a9e396fb9685d4d33a84fd",
+      "version": null,
+      "release_date": "2017-10-24"
+    },
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l560_w1064_1703_201705.exe",
+      "size_bytes": null,
+      "md5": "d0856a5baec9ba6b475a27173382feaf",
+      "sha256": "66971c080c53d34f243dc247ec47c0609d26d881838ba6222fa1b1f3bc2d7228",
+      "version": null,
+      "release_date": "2017-05-24"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l560_w1064_1709_201710.exe",
+      "size_bytes": null,
+      "md5": "4189f7f4bd12ef149440c3f8c0fc0100",
+      "sha256": "a059211470b47bc9aa7b0d0d12ddaec5c4821964d4a9e396fb9685d4d33a84fd",
+      "version": null,
+      "release_date": "2017-10-24"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l560_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "ccfaf2f6c2d9dd4ed70dd5dc4f2f18e2",
+      "sha256": "e09d6da31f67e07ad13492019d4ddf0231a0351da2d10d01f9a0b4f81d02f705",
+      "version": null,
+      "release_date": "2018-07-23"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l560_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": "c46f2ebdd9234cc16da316d4093ac81f",
+      "sha256": "0851c96ff89f065e77d6d46b5f5febfe57595b963b316499f8a46586c0030eb3",
+      "version": null,
+      "release_date": "2018-10-30"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l560_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "9fc62f2ddc06295eee8c0c5caf013f0e",
+      "sha256": "3ceb5800d4c5d1c0d8089909514d375568c715689654377d8c7696bd50ff2fdc",
+      "version": null,
+      "release_date": "2019-04-23"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_l560_w1064_1909_201911.exe",
+      "size_bytes": null,
+      "md5": "7c5b59907e03795e0e27ee7903885898",
+      "sha256": "704ec713962d333d7a6d3e2d2a1be070da1083c647888905a04316ab2c5d3f48",
+      "version": null,
+      "release_date": "2019-11-28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

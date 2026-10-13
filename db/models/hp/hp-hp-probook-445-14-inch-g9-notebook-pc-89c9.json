@@ -1,0 +1,26 @@
+{
+  "id": "hp-hp-probook-445-14-inch-g9-notebook-pc-89c9",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 14 inch G9 Notebook PC",
+  "system_id": "89C9,8B17",
+  "dmi_matches": [
+    "89C9",
+    "8B17",
+    "HP ProBook 445 14 inch G9 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145268-HP ZHAN/Pro/Elite 4/6x5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145268.exe",
+      "size_bytes": 933538288,
+      "md5": "0e2b4a7c797a798cf1fd4bbf09bc377d",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "3/18/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

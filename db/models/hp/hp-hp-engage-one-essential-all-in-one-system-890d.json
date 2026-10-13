@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-engage-one-essential-all-in-one-system-890d",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Essential All-in-One System",
+  "system_id": "890d",
+  "dmi_matches": [
+    "890d",
+    "HP Engage One Essential All-in-One System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145912-HP Engage One Essential AIO IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145912.exe",
+      "size_bytes": 498657520,
+      "md5": "82f3ff95a5ff8e9e635956e1ac71e572",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "4/10/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp145964-HP Engage One Essential AIO IoT10 2021 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145964.exe",
+      "size_bytes": 498656952,
+      "md5": "cef777f514faa8553e42ee00f2738ec5",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "4/11/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

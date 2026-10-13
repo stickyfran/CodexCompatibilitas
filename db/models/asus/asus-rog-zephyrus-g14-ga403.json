@@ -1,0 +1,13 @@
+{
+  "id": "asus-rog-zephyrus-g14-ga403",
+  "vendor": "ASUS",
+  "family": "ROG",
+  "model_name": "Rog Zephyrus G14 Ga403",
+  "system_id": "GA403",
+  "dmi_matches": [
+    "GA403"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

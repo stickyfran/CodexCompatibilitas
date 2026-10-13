@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7640-0c0e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7640",
+  "system_id": "0C0E",
+  "dmi_matches": [
+    "Latitude 7640",
+    "0C0E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GH66X",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14453690M/1/Latitude-7640-GH66X_Win10_1.0_A11.exe",
+      "size_bytes": 1545516952,
+      "md5": "F065FDEDB1D8D1AADC58ABB44BF96054",
+      "sha256": "77EE8E34BB6B745069284017E1D7987E1CA660D1AC30B0F0A15CAAAA42C13577",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-9GC0R",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14453691M/1/Latitude-7640-9GC0R_Win11_1.0_A11.exe",
+      "size_bytes": 1545440656,
+      "md5": "8B3F9498D075C737D132DBF73366702F",
+      "sha256": "3E3AAD69504682EFE6CFB062F680C5E61233556DEA944FC24FC6576AE569BC2A",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

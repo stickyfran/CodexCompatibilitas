@@ -1,0 +1,25 @@
+{
+  "id": "dell-optiplex-5055-ryzen-cpu-07f0",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5055 Ryzen CPU",
+  "system_id": "07F0",
+  "dmi_matches": [
+    "OptiPlex 5055 Ryzen CPU",
+    "07F0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-42WR6",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05767101M/1/OptiPlex 5055 Ryzen CPU-win10-A07-42WR6.CAB",
+      "size_bytes": 457179847,
+      "md5": "21E4BED3267EA3DFCDC5AD446E20F8F6",
+      "sha256": "8B3668F2EA343DA115DAFF7D6B22F62F4D8E4C27F9476588996732D4870EBA95",
+      "version": null,
+      "release_date": "2019-10-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,88 @@
+{
+  "id": "lenovo-thinkstation-px",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation PX",
+  "system_id": "30EV,30EU,30H3,30EW,30EY",
+  "dmi_matches": [
+    "30EV",
+    "30EU",
+    "30H3",
+    "30EW",
+    "30EY"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_px_w1064_21h2_202410.exe",
+      "size_bytes": null,
+      "md5": "e1836f4c80eb950c151c06a098ad67cf",
+      "sha256": "472caeacd9e0f73d5ca632c960089d90af13245061f889079c6a2363ecde439f",
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p7_intel_p5_intel_px_w1064_22h2_202607.exe",
+      "size_bytes": null,
+      "md5": "2b95676e9b730124056919c681b2bab5",
+      "sha256": "709ea663e99658f4711dbecf32444b3d70057c3e77a3ce91c614229e971cb039",
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_px_w1164_21h2_202405.exe",
+      "size_bytes": null,
+      "md5": "af0bf40ba5aff522eb35263e6636697b",
+      "sha256": "46ff427a50506390e24067277dcde95ee75fd40cdcf87e02a7c3e02fd32e6cf0",
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_px_w1164_22h2_or_later_202504.exe",
+      "size_bytes": null,
+      "md5": "fbcfeaa8d345aa73ffe260b769377400",
+      "sha256": "1eef6bc39025c3f3d38315c6744b1544cb263a90a35dcb63610784e667f6a6c1",
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_px_w1164_22h2_or_later_202504.exe",
+      "size_bytes": null,
+      "md5": "fbcfeaa8d345aa73ffe260b769377400",
+      "sha256": "1eef6bc39025c3f3d38315c6744b1544cb263a90a35dcb63610784e667f6a6c1",
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_px_p7_intel_p5_w11_24h2_202607.exe",
+      "size_bytes": null,
+      "md5": "432bd2548936910b2a9d7aeba4062023",
+      "sha256": "0d05d3e91e645bd914868a9884db0244295fcfceacb430aa3e08b876f6c8c33f",
+      "version": null,
+      "release_date": "2026-08-10"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_px_p7_intel_p5_w11_25h2_202607.exe",
+      "size_bytes": null,
+      "md5": "41aa795469f10c70971a491785a23b38",
+      "sha256": "b7d21d4cf32babd9e78ad4ef18b024b185849ebd3aa1a5eaa330caad11b98588",
+      "version": null,
+      "release_date": "2026-08-10"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-450-g7-notebook-pc-86a0",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 450 G7 Notebook PC",
+  "system_id": "86a0",
+  "dmi_matches": [
+    "86a0",
+    "HP ProBook 450 G7 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp99557-HP ProBook 4x0 G7/ZHAN G3 Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99557.exe",
+      "size_bytes": 859617296,
+      "md5": "9c85663d2963aed5787996e530c7335e",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "10/8/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp100529-HP ProBook 4x0 G7/ZHAN G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100529.exe",
+      "size_bytes": 816693544,
+      "md5": "a3c50b60291730e00c3e5438b7d9eef1",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "12/5/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp110123-HP ProBook 4x0 G7/ZHAN G3 Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110123.exe",
+      "size_bytes": 1458029128,
+      "md5": "f762acf0acdbd4f35dfe6d00a75045bc",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/16/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114212-HP ProBook 4x0 G7/ZHAN G3 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114212.exe",
+      "size_bytes": 1608954216,
+      "md5": "ac98fd9e94d8b744b6f5dc98ca6d719b",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "6/17/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

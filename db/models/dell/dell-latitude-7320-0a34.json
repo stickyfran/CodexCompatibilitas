@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7320-0a34",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7320",
+  "system_id": "0A34",
+  "dmi_matches": [
+    "Latitude 7320",
+    "0A34"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-X2Y4G",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10956508M/1/7320-X2Y4G_Win11_1.0_A05.exe",
+      "size_bytes": 1310469752,
+      "md5": "B8D1B47F5580B3C055B57D299B6A79D8",
+      "sha256": "BD1B4050ADC4E3AE0F19DB63D696A5FDF62714AF898EB1DDBEAE68638566C706",
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    },
+    {
+      "name": "DellPack-2GYW9",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10956439M/1/7320-2GYW9_Win10_1.0_A11.exe",
+      "size_bytes": 1683317480,
+      "md5": "63D271FF5B628DC0E25307A115530774",
+      "sha256": "CE070F35882192D515BFDC7E26C4E09006BCB1A71D461BBB99938C971ED0EE4E",
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

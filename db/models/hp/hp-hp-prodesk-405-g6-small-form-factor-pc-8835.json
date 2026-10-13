@@ -1,0 +1,56 @@
+{
+  "id": "hp-hp-prodesk-405-g6-small-form-factor-pc-8835",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G6 Small Form Factor PC",
+  "system_id": "8835,872D",
+  "dmi_matches": [
+    "8835",
+    "872D",
+    "HP ProDesk 405 G6 Small Form Factor PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp123510-HP ElitePro 4/805 G6 SFF Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123510.exe",
+      "size_bytes": 1429883248,
+      "md5": "6af906210e52487ca7481c5148fc7c13",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp111033-HP ElitePro 4/805 G6 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111033.exe",
+      "size_bytes": 898589120,
+      "md5": "fec0c4af08c1ffc0a386eebc7800b520",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "11/12/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp138598-HP ElitePro 4/805 G6 SFF Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138598.exe",
+      "size_bytes": 1499094112,
+      "md5": "6851b9c114af71b10e847ee229a667f1",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/3/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp136309-HP ElitePro 4/805 G6 SFF Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136309.exe",
+      "size_bytes": 1544174872,
+      "md5": "6d207d56be308b7b70e919f28e4f1114",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

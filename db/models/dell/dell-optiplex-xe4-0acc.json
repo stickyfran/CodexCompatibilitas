@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-xe4-0acc",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex XE4",
+  "system_id": "0ACC",
+  "dmi_matches": [
+    "OptiPlex XE4",
+    "0ACC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HHCH3",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12234772M/1/OptiPlex-XE4-HHCH3_Win10_1.0_A13.exe",
+      "size_bytes": 3535494824,
+      "md5": "2EB57E58A271217C5790C516B5346A54",
+      "sha256": "99434769AF2144490F3E92CE5E355D39EA2703E80652C9079848DDDF819BB188",
+      "version": null,
+      "release_date": "2025-01-09T05:44:51"
+    },
+    {
+      "name": "DellPack-J79H8",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12234801M/1/OptiPlex-XE4-J79H8_Win11_1.0_A12.exe",
+      "size_bytes": 3535500176,
+      "md5": "77F624434418F987E95E70EE17EA48CC",
+      "sha256": "FFEB6E580BB1A10F9F7CB1052442267D6774356D7C8FA5A4451237969C0D4017",
+      "version": null,
+      "release_date": "2025-01-09T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

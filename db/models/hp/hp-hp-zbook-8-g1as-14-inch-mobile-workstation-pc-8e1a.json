@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-zbook-8-g1as-14-inch-mobile-workstation-pc-8e1a",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 8 G1as 14 inch Mobile Workstation PC",
+  "system_id": "8e1a",
+  "dmi_matches": [
+    "8e1a",
+    "HP ZBook 8 G1as 14 inch Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp168444-HP EB/ZB 8 G1a/ak NG NB/MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168444.exe",
+      "size_bytes": 1117245528,
+      "md5": "97A54A38FA237E8851F32AE5636BB0D4",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "12/17/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7070-ultra-091b",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7070 ULTRA",
+  "system_id": "091B",
+  "dmi_matches": [
+    "OptiPlex 7070 ULTRA",
+    "091B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-N40JD",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07972253M/1/7070 ULTRA-win10-A09-N40JD.CAB",
+      "size_bytes": 915965808,
+      "md5": "244BA6AD8B8E82C800151F6633010407",
+      "sha256": "64353A6D64FDB7350D87738000DA3E63BE325EEAA547361CDFC5FC1CC84D2369",
+      "version": null,
+      "release_date": "2022-01-05T14:28:04"
+    },
+    {
+      "name": "DellPack-MD46G",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08164879M/1/7070 ULTRA-win11-A00-MD46G.CAB",
+      "size_bytes": 916758348,
+      "md5": "16707FAAB65DFE1627A7FC8E1D06DC52",
+      "sha256": "6F69873EE53EB0941C9CFD0056E745D2CBBEE5F67E3C656B9C2014242BE6504F",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

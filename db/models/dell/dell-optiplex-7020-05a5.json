@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-7020-05a5",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7020",
+  "system_id": "05A5",
+  "dmi_matches": [
+    "OptiPlex 7020",
+    "05A5"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KXG7W",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04898481M/1/7020-win10-A04-KXG7W.CAB",
+      "size_bytes": 650908259,
+      "md5": "9BF352CCBB776662BFBCAF9338E061E9",
+      "sha256": "08E4502C8C4B81463A81A1586487559B469BE422C3F590D22F7FAFCCAE3BFD77",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-M8FMR",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04898549M/1/7020-win7-A08-M8FMR.CAB",
+      "size_bytes": 582249322,
+      "md5": "DD3D43E56AF3D7E457BFE1A410D54340",
+      "sha256": "B36088E50439925CA782B90539F3E233E9CFD59CAC10906351118FC089416B96",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-GN6NJ",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03584896M/1/7020-win8.1-A05-GN6NJ.CAB",
+      "size_bytes": 331489732,
+      "md5": "394489D1E5DF1D794711E515FCEA9B52",
+      "sha256": "FAFDD2D81E2FFBDD39462B9E24F3F84B06F2E8F2970B2E56A1F19C0174122F61",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

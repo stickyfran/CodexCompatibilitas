@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3340-061f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3340",
+  "system_id": "061F",
+  "dmi_matches": [
+    "Latitude 3340",
+    "061F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-990JJ",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04901743M/1/3340-win10-A05-990JJ.CAB",
+      "size_bytes": 469361974,
+      "md5": "59F2A5295C2AFE2EB9F41D3CE67BE0A1",
+      "sha256": "E2C06BB1CB988FF8B9A5C6D9B954B183B41E3CD27DEFE87C5841F02F5901F56A",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-67GD2",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04909804M/1/3340-win7-A09-67GD2.CAB",
+      "size_bytes": 450393030,
+      "md5": "C116BB1BAF266564856C575BDADB9418",
+      "sha256": "192624121BA738998281C919C1A9CB98DC910E06C9F4C8AEA827659D1A6C2609",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-2J9G1",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03511628M/1/3340-win8.1-A06-2J9G1.CAB",
+      "size_bytes": 247008384,
+      "md5": "9DF708CA7E5FABCA87439B8EBC5FE851",
+      "sha256": "82AB54A4A6FF2E4052E3D9976D01A3E69BB14826632CD7DFD489863E814DB0C6",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

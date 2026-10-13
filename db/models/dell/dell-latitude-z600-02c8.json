@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-z600-02c8",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude Z600",
+  "system_id": "02C8",
+  "dmi_matches": [
+    "Latitude Z600",
+    "02C8"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0P73K",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02301267M/1/Z600-Vista-A01-0P73K.CAB",
+      "size_bytes": 300005612,
+      "md5": "6EB6AF3A6161DA7E045F1E94E05B27D8",
+      "sha256": "082382384C877AB15AE2DD7A4DC9D408D5450D6FF16CB256F742CC6BED4C9482",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-NP3G4",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER02254886M/1/Z600-Win7-A01-NP3G4.CAB",
+      "size_bytes": 45340976,
+      "md5": "5503B7FB0841A22103F341F702CA91A8",
+      "sha256": "B04495205EE9BE62FB573BDAB9A43FCE2FE67B93F5A0B13DDE69364F58DA5E32",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

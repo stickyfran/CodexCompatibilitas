@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-elitedesk-705-g1-microtower-pc-2215",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 705 G1 Microtower PC",
+  "system_id": "2215",
+  "dmi_matches": [
+    "2215",
+    "HP EliteDesk 705 G1 Microtower PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp92706-HP ElitePro 400-800 G1 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92706.exe",
+      "size_bytes": 870293,
+      "md5": "9e9876b8bd3e03e68bd408bfa4481dbf",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/14/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp96758-HP ElitePro 400-800 G1 PC Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96758.exe",
+      "size_bytes": 900475256,
+      "md5": "ee96507bd1530ae92e134ab781320a03",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/29/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

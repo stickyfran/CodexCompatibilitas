@@ -1,0 +1,13 @@
+{
+  "id": "asus-x553ma",
+  "vendor": "ASUS",
+  "family": "ASUS",
+  "model_name": "X553Ma",
+  "system_id": "X553MA",
+  "dmi_matches": [
+    "X553MA"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

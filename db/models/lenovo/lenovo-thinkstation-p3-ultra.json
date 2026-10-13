@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkstation-p3-ultra",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P3 ULTRA",
+  "system_id": "30HA,30HB",
+  "dmi_matches": [
+    "30HA",
+    "30HB"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p3_ultra_w1064_22h2_202607.exe",
+      "size_bytes": null,
+      "md5": "eeaacce1832bf368288af970435103ed",
+      "sha256": "f62404f126cdb3102f6f34ae0ddeb15a045d062a7d51996c7684ec445e194c36",
+      "version": null,
+      "release_date": "2026-07-24"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p3_ultra_w1164_24H2_or_later_202607.exe",
+      "size_bytes": null,
+      "md5": "b0cc5a84cb35a51b6285481c5bfae3fb",
+      "sha256": "3e1d1c3be60e81c3142565232b9423c94c2e7aa896ff9c55bace7735c76e0e69",
+      "version": null,
+      "release_date": "2026-07-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

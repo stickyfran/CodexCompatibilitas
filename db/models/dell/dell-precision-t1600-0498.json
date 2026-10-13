@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-t1600-0498",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T1600",
+  "system_id": "0498",
+  "dmi_matches": [
+    "Precision T1600",
+    "0498"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-J6JF0",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER01836694M/1/T1600-vista-A02-J6JF0.CAB",
+      "size_bytes": 390418274,
+      "md5": "2A3BD65A5F1C47C5B37BA6F02AF4228D",
+      "sha256": "5DA112B06142037686DB53F64B2F2B48F9BD8B2D400FA1BBBA5977F1974AF8E9",
+      "version": null,
+      "release_date": "2013-11-12T00:00:00"
+    },
+    {
+      "name": "DellPack-JTH82",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02447606M/1/T1600-win7-A12-JTH82.CAB",
+      "size_bytes": 726293878,
+      "md5": "639B087CF3F7511A157BC950DB111496",
+      "sha256": "14AD223803064BD56C391F15A4EC2D6A07FBF2FB8EC4CA1540A6BC0539D96A21",
+      "version": null,
+      "release_date": "2014-09-08T00:00:00"
+    },
+    {
+      "name": "DellPack-16NKF",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER01829486M/1/T1600-xp-A10-16NKF.CAB",
+      "size_bytes": 439594415,
+      "md5": "1555B1CBCD4CD8D643890ADCAD766284",
+      "sha256": "4B668A4CD7AD98CA02C20268BEE3A430F7BA9305026E9E7D421A4414B59D1961",
+      "version": null,
+      "release_date": "2013-11-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

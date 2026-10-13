@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-elite-x2-g4-tablet-with-keyboard-85b9",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x2 G4 Tablet with Keyboard",
+  "system_id": "85b9",
+  "dmi_matches": [
+    "85b9",
+    "HP Elite x2 G4 Tablet with Keyboard"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp101918-HP Elite x2 G4 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101918.exe",
+      "size_bytes": 863083800,
+      "md5": "251e75c954721013995115a6caae568f",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/14/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp101988-HP Elite x2 G4 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101988.exe",
+      "size_bytes": 869151912,
+      "md5": "76c5d25198d8e37688fd8bde29b3effe",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "3/14/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110397-HP Elite x2 G4 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110397.exe",
+      "size_bytes": 980671896,
+      "md5": "4ef919e0fd17a129bf42df6225d712be",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "10/9/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114168-HP Elite x2 G4 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114168.exe",
+      "size_bytes": 1086849528,
+      "md5": "5c062cc9176be659640acaa8a8b44594",
+      "sha256": null,
+      "version": "10.00 A 1",
+      "release_date": "6/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

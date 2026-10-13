@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-8",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad 8",
+  "system_id": "20BQ,20BN",
+  "dmi_matches": [
+    "20BQ",
+    "20BN"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp8_w1064_201509.exe",
+      "size_bytes": null,
+      "md5": "7610b7ae3407c35fe772d7187589f4e9",
+      "sha256": "f3a8e7d6e2223705db17695de567015c69e08d79881d72aad4caa9d62299c3e1",
+      "version": null,
+      "release_date": "2015-09-25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

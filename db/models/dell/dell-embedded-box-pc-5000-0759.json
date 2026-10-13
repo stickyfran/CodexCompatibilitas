@@ -1,0 +1,35 @@
+{
+  "id": "dell-embedded-box-pc-5000-0759",
+  "vendor": "Dell",
+  "family": "Internet of Things",
+  "model_name": "Embedded Box PC 5000",
+  "system_id": "0759",
+  "dmi_matches": [
+    "Embedded Box PC 5000",
+    "0759"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M2XHF",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05397209M/1/Dell Embedded Box PC 5000-win10-A05-M2XHF.CAB",
+      "size_bytes": 323846389,
+      "md5": "B138A0F5053CADD0D977265F662EE3B2",
+      "sha256": "902D0BE3FA2CB0E0A20ED9293529EC807553E891DA95566064744D4EAB0869D0",
+      "version": null,
+      "release_date": "2019-01-25T00:00:00"
+    },
+    {
+      "name": "DellPack-JGTF5",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05416838M/1/Dell Embedded Box PC 5000-win7-A09-JGTF5.CAB",
+      "size_bytes": 324746633,
+      "md5": "865B8BDF2068AE747B2FA8E1B42D467F",
+      "sha256": "22D4471F264C03B40CC4F726FCD1B7373A3C1D47593305C3E78FC285FB577351",
+      "version": null,
+      "release_date": "2019-01-25T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

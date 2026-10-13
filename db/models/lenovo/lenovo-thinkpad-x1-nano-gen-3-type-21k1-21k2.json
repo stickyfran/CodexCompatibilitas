@@ -1,0 +1,75 @@
+{
+  "id": "lenovo-thinkpad-x1-nano-gen-3-type-21k1-21k2",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 NANO Gen 3 Type 21K1 21K2",
+  "system_id": "21K2,21K1",
+  "dmi_matches": [
+    "21K2",
+    "21K1"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1nano_gen3_mt21k1-21k2_w1064_22h2_202406.exe",
+      "size_bytes": null,
+      "md5": "14632523ebf4a220f48d063a0915e664",
+      "sha256": "acf5d6bc42ef41b4697170ec5f08e9e30111897411552c4230cc0e5c9462f3ed",
+      "version": null,
+      "release_date": "2024-06-13"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1nano_gen3_mt21k1-21k2_w11_21_202312.exe",
+      "size_bytes": null,
+      "md5": "d1ca5ab7d56b59626e5535aa32e597dc",
+      "sha256": "af41795892167062cde660d0e3c3409d9caf3ec38b8f97f16ab2ac23f61064bc",
+      "version": null,
+      "release_date": "2023-12-08"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1nano_gen3_mt21k1-21k2_w11_22_202406.exe",
+      "size_bytes": null,
+      "md5": "419630704133024d02ac84a4ddf9b67a",
+      "sha256": "cfd92039c74ac99199fd3948bb3702e48c562f48895c73411bef301d00b392f7",
+      "version": null,
+      "release_date": "2024-06-13"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1nano_gen3_mt21k1-21k2_w11_23_202406.exe",
+      "size_bytes": null,
+      "md5": "35a1d25cc4dd0a6edb9725b040fa8354",
+      "sha256": "18dd89163898914418001baeeb0cdd5b613a3ebc8c42937e54562226a2d5538b",
+      "version": null,
+      "release_date": "2024-06-13"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1nano_gen3_mt21k1-21k2_w11_24_202406.exe",
+      "size_bytes": null,
+      "md5": "0c30c61a52d77734b7546be62e79bb7e",
+      "sha256": "f4d15853043d6037a3f34c76141a7df8859e8c95946b09bd0337c651a5023595",
+      "version": null,
+      "release_date": "2024-07-03"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1nano_gen3_mt21k1-21k2_w11_25_202512.exe",
+      "size_bytes": null,
+      "md5": "2444152d4597274efce8ef5e73555b87",
+      "sha256": "e52d17392f8837ef3944cf8e59e8dd3d651997f0386be61284ebe91e5288103d",
+      "version": null,
+      "release_date": "2026-07-07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,117 @@
+{
+  "id": "lenovo-thinkpad-x380-yoga",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X380 Yoga",
+  "system_id": "20LJ,20LH,20LK,20LL",
+  "dmi_matches": [
+    "20LJ",
+    "20LH",
+    "20LK",
+    "20LL"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_1703_202012.exe",
+      "size_bytes": null,
+      "md5": "979ea614fb713fedbb9ccfd17c540c63",
+      "sha256": "13ea782f72090f012dbf4fc16ef4a7f46d7c653490fa65a5e4bf9c4386b34297",
+      "version": null,
+      "release_date": "2018-10-09"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_1709_202012.exe",
+      "size_bytes": null,
+      "md5": "c7ed76eced48fa437553074070676e2d",
+      "sha256": "897f92975018cf7fea1cd3e72522b53b571489612a64696308c6a5af0357bed8",
+      "version": null,
+      "release_date": "2019-01-07"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_1803_202012.exe",
+      "size_bytes": null,
+      "md5": "9a3edcd9721c8f4d99a220de790c06be",
+      "sha256": "ebbee7fff560e3770455336ab830f442af849df97ae8ab47083b229a57e196ad",
+      "version": null,
+      "release_date": "2019-04-09"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_1809_202012.exe",
+      "size_bytes": null,
+      "md5": "7cd2e529fffeb657706a06f95bb28caa",
+      "sha256": "4ba0a0dc6a2a6ee7dca9c1988638bd519090dd87fe4a24cd6bc757a0405a8341",
+      "version": null,
+      "release_date": "2019-04-09"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_1903_202012.exe",
+      "size_bytes": null,
+      "md5": "a1f0173d2270711dea6188a33653781d",
+      "sha256": "88e2c5fe7d4dcdcda175c05731ebeb9ae4c8243d187e517787864768e7985ee1",
+      "version": null,
+      "release_date": "2023-12-18"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_1909_202012.exe",
+      "size_bytes": null,
+      "md5": "0087f0c322d845399eb7c36670cec486",
+      "sha256": "0f508579bf708406d86a387b79e7ecee2930883bbc2f818e30159d131f5bb259",
+      "version": null,
+      "release_date": "2020-03-24"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_2004_202012.exe",
+      "size_bytes": null,
+      "md5": "9885b894a0a3536bab6157242c8d458e",
+      "sha256": "528f679c510d06cd3aca517a279302a639122654cbff9da7a4fa8b257ff8b0cb",
+      "version": null,
+      "release_date": "2020-08-24"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_20h2_202103.exe",
+      "size_bytes": null,
+      "md5": "f8f632c9cf0f2e9c578b47e54733d1aa",
+      "sha256": "39ca6903ec7c7144038276224cf70726140cea3c475babe78d386390fe9d0eb7",
+      "version": null,
+      "release_date": "2021-03-19"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1064_21h1_202110.exe",
+      "size_bytes": null,
+      "md5": "61ccbcac3cf953e83531e2235a2e1b29",
+      "sha256": "2d5f10767d366540503f496dcfaa03bef92a603d08c937d7609706e4f28fcf83",
+      "version": null,
+      "release_date": "2022-01-13"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s1-yoga_x380_w1164_21h2_202111.exe",
+      "size_bytes": null,
+      "md5": "37b801659777c8c66de21e4a00272142",
+      "sha256": "612b7c3e50d17618d375c1903ebbf4af7587cda8ea070dbf120118cf5a5c42c7",
+      "version": null,
+      "release_date": "2023-12-18"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

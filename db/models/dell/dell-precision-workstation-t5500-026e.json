@@ -1,0 +1,25 @@
+{
+  "id": "dell-precision-workstation-t5500-026e",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision WorkStation T5500",
+  "system_id": "026E",
+  "dmi_matches": [
+    "Precision WorkStation T5500",
+    "026E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GKYCY",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02243207M/1/T5500-Win7-A01-GKYCY.CAB",
+      "size_bytes": 540622265,
+      "md5": "DA7061A6BF2FE8FAD9CB82488CD992C1",
+      "sha256": "536E41FD8068BEF35ED2E07D9826E159CBCD3C312DDF050FB5F3EC6158B4BE96",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

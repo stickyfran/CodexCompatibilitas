@@ -1,0 +1,37 @@
+{
+  "id": "lenovo-thinkcentre-m630e",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M630E",
+  "system_id": "10YR,10YM,10YN,10YQ",
+  "dmi_matches": [
+    "10YR",
+    "10YM",
+    "10YN",
+    "10YQ"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_M630E_w1064_1903_201911.exe",
+      "size_bytes": null,
+      "md5": "7bee095a3aae7b18b6ea2259303be6f7",
+      "sha256": "844d57ca1c4c8cddce02aa0be5df2943d89688ce78621aa97f52ae8fa9966276",
+      "version": null,
+      "release_date": "2019-01-08"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m630E_w1064_2004_202006.exe",
+      "size_bytes": null,
+      "md5": "52e4ae69e6bed7f040211b3e9cd31a2b",
+      "sha256": "8ee31242922a3f4be40ad4f8937ae5660864fbd8dc6e6107825c317fb27da2ea",
+      "version": null,
+      "release_date": "2019-01-08"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

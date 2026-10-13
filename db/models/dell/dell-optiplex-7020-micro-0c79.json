@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7020-micro-0c79",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7020 Micro",
+  "system_id": "0C79",
+  "dmi_matches": [
+    "OptiPlex 7020 Micro",
+    "0C79"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-681R7",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13680133M/1/OptiPlex-7020-Micro-681R7_Win10_1.0_A08.exe",
+      "size_bytes": 1660905624,
+      "md5": "DDCD73DB07922E9DAE7BC14A28571C2F",
+      "sha256": "585553DA33699C2766990468AB28470B665690944BACC79069949F9292CDB241",
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    },
+    {
+      "name": "DellPack-TT2RJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13680135M/1/OptiPlex-7020-Micro-TT2RJ_Win11_1.0_A08.exe",
+      "size_bytes": 1636845392,
+      "md5": "94D7E0C59AD425838633E875EE07B37B",
+      "sha256": "BEE12AEAC1A4C4EA6457C0FD2F21E339BDD2191DF3DF78902A574156DC2EDB2F",
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

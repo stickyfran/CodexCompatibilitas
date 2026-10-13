@@ -1,0 +1,46 @@
+{
+  "id": "hp-hp-z2-mini-g5-workstation-8755",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G5 Workstation",
+  "system_id": "8755,8754",
+  "dmi_matches": [
+    "8755",
+    "8754",
+    "HP Z2 Mini G5 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp135910-HP Z2G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp135501-136000/sp135910.exe",
+      "size_bytes": 1499518472,
+      "md5": "2225fefc94e3dd69e7531d4513737728",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/15/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140433-HP Z2G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140433.exe",
+      "size_bytes": 1588293256,
+      "md5": "3095c2b0084a7f4c0fb7c3c7f934f482",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/10/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp139593-HP Z2G5 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp139501-140000/sp139593.exe",
+      "size_bytes": 1482251416,
+      "md5": "dd3bd1c3382c6892847c6bb4491077fb",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "4/15/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

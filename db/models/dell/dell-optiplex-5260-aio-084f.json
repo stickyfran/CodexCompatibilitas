@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5260-aio-084f",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5260 AIO",
+  "system_id": "084F",
+  "dmi_matches": [
+    "OptiPlex 5260 AIO",
+    "084F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5TH0D",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07340574M/1/5260 AIO-win10-A12-5TH0D.CAB",
+      "size_bytes": 652199992,
+      "md5": "217AC8C3176150AB4750C80B4D3680E3",
+      "sha256": "598777E31F319B084C4D67AF7AE7B811EB3056A11E28EBA5AB570BEDF8DF24A2",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    },
+    {
+      "name": "DellPack-YJN73",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09719149M/1/5260-AIO-YJN73_Win11_1.0_A00.exe",
+      "size_bytes": 1123351376,
+      "md5": "13A581B66872120B533CBD0344857107",
+      "sha256": "4D3AB6D9940A4D5E74ABA4BB31C50A288F3E89FAD67259B5DE30F16E031C3F71",
+      "version": null,
+      "release_date": "2023-03-24T02:41:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

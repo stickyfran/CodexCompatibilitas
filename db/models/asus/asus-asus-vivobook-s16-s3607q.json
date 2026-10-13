@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-vivobook-s16-s3607q",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Asus Vivobook S16 S3607Q",
+  "system_id": "S3607Q",
+  "dmi_matches": [
+    "S3607Q"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

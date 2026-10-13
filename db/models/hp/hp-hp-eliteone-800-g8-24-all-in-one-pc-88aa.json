@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-eliteone-800-g8-24-all-in-one-pc-88aa",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G8 24 All-in-One PC",
+  "system_id": "88AA",
+  "dmi_matches": [
+    "88AA",
+    "HP EliteOne 800 G8 24 All-in-One PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp123514-HP EliteOne 800 G8 AIO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp123501-124000/sp123514.exe",
+      "size_bytes": 812811768,
+      "md5": "66c79b22329e3795c0c57037984fda43",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "7/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138786-HP EliteOne 800 G8 AIO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138786.exe",
+      "size_bytes": 821548608,
+      "md5": "2ab36aa22ead65c4294b69c625fe3a94",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/10/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp136261-HP EliteOne 800 G8 AIO Win 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136261.exe",
+      "size_bytes": 821687008,
+      "md5": "77812496a14c772088e24b55fb12d800",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/19/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

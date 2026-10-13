@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-5285-07a4",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5285",
+  "system_id": "07A4",
+  "dmi_matches": [
+    "Latitude 5285",
+    "07A4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-NYPWP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06144397M/1/5285-win10-A13-NYPWP.CAB",
+      "size_bytes": 693402063,
+      "md5": "A257E8C2021B9C4817AA919230D84F03",
+      "sha256": "CE11E4038F1374B8DB176E7432D492AB9151EF9644B9F3D094867602D7C72938",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-360-0294",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 360",
+  "system_id": "0294",
+  "dmi_matches": [
+    "OptiPlex 360",
+    "0294"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-35MNH",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02122452M/1/360-Vista-A02-35MNH.CAB",
+      "size_bytes": 205324052,
+      "md5": "8BFE1767C3AC665926BEDD5202DADD9D",
+      "sha256": "EDFEB517B032A9BF5237C87CEA5DB14BD97460A4AA6D9D56605138165D972CC0",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-RF3P5",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER02122570M/1/360-Win7-A01-RF3P5.CAB",
+      "size_bytes": 372367606,
+      "md5": "83C9787E255F5B943D7CBB1A587E841D",
+      "sha256": "902E645E2A538D4299CC39F48AE3EED07A6C56F91D670894E1489A1A1CBFFD7D",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-80W4K",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02122688M/1/360-xp-A02-80W4K.CAB",
+      "size_bytes": 131620279,
+      "md5": "19804E71F394CB4C8E931ADD0FF68C16",
+      "sha256": "4D8B9E7B98717AA7B44B3E27F1F0350A00C1BA6D98DCE90709D9A248B2BCB356",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

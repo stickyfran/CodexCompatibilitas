@@ -1,0 +1,65 @@
+{
+  "id": "dell-precision-t1650-053a",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T1650",
+  "system_id": "053A",
+  "dmi_matches": [
+    "Precision T1650",
+    "053A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-G15VM",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03642465M/1/T1650-win10-A01-G15VM.CAB",
+      "size_bytes": 1186190272,
+      "md5": "64ABB19BB1773BE1D502D5CD3525C38B",
+      "sha256": "8EBEEE1FD84D380B9752C666D2BD8C907778981CF88FCDEBEE0B86A7E42C9FB6",
+      "version": null,
+      "release_date": "2016-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-06G77",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02891430M/1/T1650-win7-A13-06G77.CAB",
+      "size_bytes": 678862729,
+      "md5": "748C1128D1C6C60D8009D778E21AE27F",
+      "sha256": "724666F893B1930CCC93898B2174DEEDDB66A32F1A834425A371C0B9629532E9",
+      "version": null,
+      "release_date": "2015-05-11T00:00:00"
+    },
+    {
+      "name": "DellPack-KD6D8",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02891341M/1/T1650-Win8.1-A04-KD6D8.CAB",
+      "size_bytes": 745252305,
+      "md5": "5CD3DBD40C60F303B72C834D73770ACD",
+      "sha256": "D7E4C3AFF58003506B0C724B7B435E295129CBE1B891B7D03C5E4BDA9CB15CEF",
+      "version": null,
+      "release_date": "2015-05-11T00:00:00"
+    },
+    {
+      "name": "DellPack-H19YM",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02580950M/1/T1650-win8-A05-H19YM.CAB",
+      "size_bytes": 678769493,
+      "md5": "A8DAC65DFA904FB246D3470EF8BEE896",
+      "sha256": "7A51332689DEAED2FFA881FBB3F67C1392E7D26CDFA4D6ED21074B9808CDB29D",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-Y99K9",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02061339M/1/T1650-xp-A06-Y99K9.CAB",
+      "size_bytes": 187978695,
+      "md5": "72421C55C5DD81AEA7DA3A98023B9A0C",
+      "sha256": "ED6B2724E6648B81DFA272BF0DEC7CE59EEA7CA23E09D7F1489C18DF7F8FB582",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

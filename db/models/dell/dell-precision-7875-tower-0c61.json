@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7875-tower-0c61",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7875 Tower",
+  "system_id": "0C61",
+  "dmi_matches": [
+    "Precision 7875 Tower",
+    "0C61"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6K46C",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14520831M/1/Precision-7875-Tower-6K46C_Win10_1.0_A06.exe",
+      "size_bytes": 2625815728,
+      "md5": "5BE4CDAEA72CFA0CE279F65EB89405CB",
+      "sha256": "17CAB50C309DE48C7F76F696F182AF540FA2E77F23535BBA213D9B29A3471808",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-DR52T",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14393519M/1/Precision-7875-Tower-DR52T_Win11_1.0_A06.exe",
+      "size_bytes": 2625774440,
+      "md5": "B4384380D810E55C38A2A5DEA914F6A8",
+      "sha256": "61011A0BCF00C4CEE4D92B7A1098DB0EE828D34CF71B54F455DF81706F7C2796",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

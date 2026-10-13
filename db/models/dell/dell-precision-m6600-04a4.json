@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-m6600-04a4",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M6600",
+  "system_id": "04A4",
+  "dmi_matches": [
+    "Precision M6600",
+    "04A4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TNWCD",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02293152M/1/M6600-vista-A01-TNWCD.CAB",
+      "size_bytes": 468400914,
+      "md5": "257FDDC51726428C81197EAE4A824892",
+      "sha256": "9C54396D9BAF73738D5568FF7425475D736E1B88530676F9C1BAF9BEF8B374A3",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-6VFXW",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02160908M/1/M6600-win7-A13-6VFXW.CAB",
+      "size_bytes": 667603889,
+      "md5": "ADF3CA3000A8F709CF2228606D8DEC31",
+      "sha256": "D25EBFF8A1F4A1D60FF58EDD0B8D4B3CA306A52B29A128F1BD41A50D9851C8C6",
+      "version": null,
+      "release_date": "2014-06-05T00:00:00"
+    },
+    {
+      "name": "DellPack-F1KRY",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02249359M/1/M6600-xp-A12-F1KRY.CAB",
+      "size_bytes": 824095252,
+      "md5": "7538C0969A74760426BE37103FBD0E48",
+      "sha256": "14A9BC27D1AFEC1D3ABD1FF4C54974158D401A7CDC4F5141600F7FF0ACBF06ED",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

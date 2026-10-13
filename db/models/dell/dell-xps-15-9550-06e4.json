@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-15-9550-06e4",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 15 9550",
+  "system_id": "06E4",
+  "dmi_matches": [
+    "XPS 15 9550",
+    "06E4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TV5DD",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05395260M/1/9550-Win10-A14-TV5DD.CAB",
+      "size_bytes": 822625061,
+      "md5": "F0D7EB1BE2CF9BDCD183DE2B89CCED49",
+      "sha256": "9EE0FBF61209DB27FACB7B9F99CA7509DEC2CD2794B8EB66AEB1D1290A21A59F",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-PR3DJ",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03910836M/1/9550-win8.1-A06-PR3DJ.CAB",
+      "size_bytes": 720550681,
+      "md5": "78A643CF30A0A1BDB0B9C68EBC629013",
+      "sha256": "F7836981469DED2866251E05DC9F240C94DAD97EB77DF6C1E68C20C8CFF6CBBF",
+      "version": null,
+      "release_date": "2016-09-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

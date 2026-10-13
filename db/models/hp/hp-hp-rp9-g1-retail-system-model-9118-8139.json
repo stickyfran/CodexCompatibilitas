@@ -1,0 +1,56 @@
+{
+  "id": "hp-hp-rp9-g1-retail-system-model-9118-8139",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP RP9 G1 Retail System Model 9118",
+  "system_id": "8139,8397",
+  "dmi_matches": [
+    "8139",
+    "8397",
+    "HP RP9 G1 Retail System Model 9118"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp92272-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92272.exe",
+      "size_bytes": 479951248,
+      "md5": "9e73c039c6b1ec9ac4445c7933acefb4",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/22/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp112598-HP RP9 G1 IoT10 2016 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112598.exe",
+      "size_bytes": 540807576,
+      "md5": "fac67b5b2e4bec9734f0ad5633d7d321",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/5/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp99584-HP RP9 G1 IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99584.exe",
+      "size_bytes": 544839200,
+      "md5": "9cfdf4c12f8b12a71453ef23fea401d7",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/23/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp94920-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp94501-95000/sp94920.exe",
+      "size_bytes": 532136504,
+      "md5": "7b3465298ab51f9d97e704ba930716a7",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "5/8/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-14-pc14250-0d63",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 14 PC14250",
+  "system_id": "0D63",
+  "dmi_matches": [
+    "Dell Pro 14 PC14250",
+    "0D63"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-FWPNN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14643849M/1/PC14250-FWPNN_Win10_1.0_A06.exe",
+      "size_bytes": 2634777480,
+      "md5": "DB1C13B2E67D81CD1E462EEDEBA74A07",
+      "sha256": "E64DFDD39F1F3DC434CAFD31205E9A5BF6A56DDE30765ACD5E25B12F87A2C82C",
+      "version": null,
+      "release_date": "2026-07-28T04:57:01"
+    },
+    {
+      "name": "DellPack-JHDY8",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14884170M/1/PC14250-JHDY8_Win11_1.0_A07.exe",
+      "size_bytes": 1649384368,
+      "md5": "66632D972F54D0A70A4D04A4A214E25D",
+      "sha256": "AF3771B4271057EA24C86560079042BDDF33114C83728997F4FC78A1D78F200B",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

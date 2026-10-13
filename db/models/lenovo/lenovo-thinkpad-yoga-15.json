@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-yoga-15",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad Yoga 15",
+  "system_id": "20DQ,20DR",
+  "dmi_matches": [
+    "20DQ",
+    "20DR"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_s5yoga15_w1064_201706.exe",
+      "size_bytes": null,
+      "md5": "cfe622432b227683cc2e1cbc63ac455b",
+      "sha256": "681c27cdb553e9015c1e1a244e7cfb48086b0593f114598fba56fe1d93409ce1",
+      "version": null,
+      "release_date": "2015-08-06"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

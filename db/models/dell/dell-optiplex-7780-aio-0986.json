@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7780-aio-0986",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7780 AIO",
+  "system_id": "0986",
+  "dmi_matches": [
+    "OptiPlex 7780 AIO",
+    "0986"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HP45G",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09854403M/1/7780-AIO-HP45G_Win10_1.0_A12.exe",
+      "size_bytes": 2233557672,
+      "md5": "40A03F2F7A9C839A28709531152A7C92",
+      "sha256": "7435682BDB9D4504F7D95A9305998E6BFED21B0736DAA2B8DC6047C4DE3748D8",
+      "version": null,
+      "release_date": "2023-06-30T02:52:58"
+    },
+    {
+      "name": "DellPack-6P02C",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09854394M/1/7780-AIO-6P02C_Win11_1.0_A02.exe",
+      "size_bytes": 2233565272,
+      "md5": "5942F1818003793D734E75F021D1A1A1",
+      "sha256": "3BAE920D5918B42769755A00819F7DFC0546DC65D00AD1F490E8F6CC5AA67DBA",
+      "version": null,
+      "release_date": "2023-06-30T02:52:58"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e5520-049a",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5520",
+  "system_id": "049A",
+  "dmi_matches": [
+    "Latitude E5520",
+    "049A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-R3D8Y",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02289960M/1/E5520-vista-A01-R3D8Y.CAB",
+      "size_bytes": 133140855,
+      "md5": "46200A39105D4E8A6B68F93E8BC8842D",
+      "sha256": "F059B6B12582B14B809170A9BC58C66CAC1CBBC7C14F8021D1530EE7C84C8FCC",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-1T3DP",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02162245M/1/E5520-win7-A11-1T3DP.CAB",
+      "size_bytes": 200994893,
+      "md5": "43BED8184B29A9B7AFC32BF5B2BEF717",
+      "sha256": "EEB1D17CE45E9673D6B629CCCD8637BEDECF580F51D8F31B8F628175D2448965",
+      "version": null,
+      "release_date": "2014-06-05T00:00:00"
+    },
+    {
+      "name": "DellPack-X15FY",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02167178M/1/E5520-win8-A03-X15FY.CAB",
+      "size_bytes": 240677526,
+      "md5": "FE85B182E2F227F86DBF91379A8D110D",
+      "sha256": "9A2CF740927F89BD888408E3C5E207311D07DD8C842BFD3E94639EEF9117F217",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-WMCR9",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02238024M/1/E5520-xp-A09-WMCR9.CAB",
+      "size_bytes": 140523390,
+      "md5": "B1E6806DD5508C3C775C42041310894C",
+      "sha256": "185EC99C57541FEFCB8341B3D2C39D2914ABE2809931C0FC77096D930AB8F22D",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7730-0832",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7730",
+  "system_id": "0832",
+  "dmi_matches": [
+    "Precision 7730",
+    "0832"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6VXK9",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07546177M/1/7730-win10-A13-6VXK9.CAB",
+      "size_bytes": 1804900600,
+      "md5": "E21A2630F9C829DC260040CBE3A08CA8",
+      "sha256": "F35897758E13E53DFC0367279F8805918AA009049F350D1E28BED83117FD3798",
+      "version": null,
+      "release_date": "2021-08-19T11:25:22"
+    },
+    {
+      "name": "DellPack-VYNRX",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10067565M/1/7730-VYNRX_Win11_1.0_A00.exe",
+      "size_bytes": 2542542704,
+      "md5": "1710AB9F07CE220F2131066C2000E3D7",
+      "sha256": "D361BCD65E3CD04274397CC418C15D6AC40FF7B34AB9859FADA492F33FA285F8",
+      "version": null,
+      "release_date": "2023-05-31T01:37:32"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

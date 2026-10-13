@@ -1,0 +1,135 @@
+{
+  "id": "hp-hp-engage-flex-mini-retail-system-8715",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Mini Retail System",
+  "system_id": "8715",
+  "dmi_matches": [
+    "8715",
+    "HP Engage Flex Mini Retail System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp144691-HP Engage Flex Mini IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144691.exe",
+      "size_bytes": 435140224,
+      "md5": "7095772a9f53295b322ff87c89395448",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "1/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp105836-HP ElitePro 4/6/800 G6 DM/SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105836.exe",
+      "size_bytes": 409501336,
+      "md5": "35304ed331018a2639886ac40ef8edaa",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/3/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp132842-HP Engage Flex Mini Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp132501-133000/sp132842.exe",
+      "size_bytes": 1230907184,
+      "md5": "880cf3447e8dc9150d812ba2e1d0dc5f",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "8/11/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp113468-HP ElitePro 4/6/800 G6 DM Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113468.exe",
+      "size_bytes": 1536814072,
+      "md5": "0258a9a34f05197b2a69a83437123612",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/26/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138465-HP Engage Flex Mini Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138465.exe",
+      "size_bytes": 1440739992,
+      "md5": "94510162af7be989394a7efabd05acfb",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/18/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp144615-HP ElitePro 4/6/800 G6 Desktop Mini Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144615.exe",
+      "size_bytes": 1420438408,
+      "md5": "a46b65335542b7f32bb28a36ca5e2690",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp144694-HP Engage Flex Mini Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144694.exe",
+      "size_bytes": 740546280,
+      "md5": "c8f3dd1fdda723ef51ee1c5fc9a54620",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "1/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151305-HP Engage Flex Mini Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151001-151500/sp151305.exe",
+      "size_bytes": 731305656,
+      "md5": "38bcc1a905ede977c5911d5b610d45c1",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "2/5/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp143754-HP ElitePro 6/800 G6 SFF Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143501-144000/sp143754.exe",
+      "size_bytes": 1226001688,
+      "md5": "d5f2b06d204a514e0fd93fc6163004db",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "11/28/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp144693-HP Engage Flex Mini IoT10 2021 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144693.exe",
+      "size_bytes": 615904704,
+      "md5": "e38439d99221fa3b9bd1674ab9fcf708",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "1/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp168479-HP Engage Flex Mini Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168479.exe",
+      "size_bytes": 870498704,
+      "md5": "7CA641FE6A5F738A046AA511B38B794E",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "12/18/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp168480-HP Engage Flex Mini Windows 11 IoT Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168480.exe",
+      "size_bytes": 942928528,
+      "md5": "384437B38EBB0D94543D001EA4059044",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "12/18/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

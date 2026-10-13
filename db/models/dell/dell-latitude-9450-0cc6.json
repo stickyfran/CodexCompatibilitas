@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-9450-0cc6",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 9450",
+  "system_id": "0CC6",
+  "dmi_matches": [
+    "Latitude 9450",
+    "0CC6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RK0G0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14585283M/1/Latitude-9450-RK0G0_Win10_1.0_A13.exe",
+      "size_bytes": 1309478528,
+      "md5": "57D6B2811131EC526426759C0E11CAF2",
+      "sha256": "22D1922BB087BCEE7C501BA631599A7B757B3637487461F1713703D09B666BF3",
+      "version": null,
+      "release_date": "2026-05-26T01:54:30"
+    },
+    {
+      "name": "DellPack-W6NVC",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14585354M/1/Latitude-9450-W6NVC_Win11_1.0_A13.exe",
+      "size_bytes": 1142142400,
+      "md5": "094C235BFA07F06B8F2ECAD60AFA0F73",
+      "sha256": "9047700639C0DB46F3A934B146744C29FAD44374253431DC90B6435CFA1E14EE",
+      "version": null,
+      "release_date": "2026-05-26T01:54:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

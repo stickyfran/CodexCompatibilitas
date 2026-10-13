@@ -1,0 +1,66 @@
+{
+  "id": "hp-hp-prodesk-400-g6-microtower-pc-8599",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G6 Microtower PC",
+  "system_id": "8599,859a",
+  "dmi_matches": [
+    "8599",
+    "859a",
+    "HP ProDesk 400 G6 Microtower PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp96781-HP ProDesk 4x0 G6 SFF/MT Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96781.exe",
+      "size_bytes": 812260784,
+      "md5": "a9f98a759828fe824747bc966afb4c22",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/30/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99623-HP ProDesk 4x0 G6 SFF/MT Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99623.exe",
+      "size_bytes": 830748224,
+      "md5": "caf952f16ff2264132facff1524b72a9",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/17/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101210-HP ProDesk 4x0 G6 SFF/MT Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101210.exe",
+      "size_bytes": 795385392,
+      "md5": "07f4c901060dd0f33df5b57ac0f16207",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/6/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp111234-HP ProDesk 4x0 G6 SFF/MT Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111234.exe",
+      "size_bytes": 1366595384,
+      "md5": "03f574fd356d9460c0bd61c714e7e023",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "11/24/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112656-HP ProDesk 4x0 G6 SFF/MT Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112656.exe",
+      "size_bytes": 1394309288,
+      "md5": "c3e063689f647aeb2282b83a25210ad0",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "2/12/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

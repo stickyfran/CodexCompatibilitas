@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e5510-0428",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5510",
+  "system_id": "0428",
+  "dmi_matches": [
+    "Latitude E5510",
+    "0428"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-DG5NP",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02477484M/1/E5510-vista-A02-DG5NP.CAB",
+      "size_bytes": 64698461,
+      "md5": "B1B58EC1A7DE90E8AECE0D48D198856A",
+      "sha256": "79968231CF07CA83758DE1FA3322DBF108AD13A367DC74EFCA345BF296A2F25B",
+      "version": null,
+      "release_date": "2014-09-23T00:00:00"
+    },
+    {
+      "name": "DellPack-GF0PK",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02123904M/1/E5510-Win7-A07-GF0PK.CAB",
+      "size_bytes": 486847067,
+      "md5": "831E31D5EA612C79F8270EBA20EA571A",
+      "sha256": "DB055BC85BDD99A56824C9C4CC67C60A53BD5EEFF1E10073079AA40836B1C853",
+      "version": null,
+      "release_date": "2014-07-18T00:00:00"
+    },
+    {
+      "name": "DellPack-XT2M0",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02105793M/1/E5510-xp-A07-XT2M0.CAB",
+      "size_bytes": 212125856,
+      "md5": "9536116F3A2158A231AD7C91DA04C6DB",
+      "sha256": "0BD65EC09B6570323EE346EDA34BE397194B8DA19B64692E085E0314C1BF290B",
+      "version": null,
+      "release_date": "2014-07-18T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

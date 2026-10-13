@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7410-09be",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7410",
+  "system_id": "09BE",
+  "dmi_matches": [
+    "Latitude 7410",
+    "09BE"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YGGNG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09358960M/1/7410-YGGNG_Win10_1.0_A13.exe",
+      "size_bytes": 1955574320,
+      "md5": "92F20A5391DBFFA98A9D1BDC039F711F",
+      "sha256": "5CAAA94321EF532D732CEF4764B3866515125F3999EBC282AF3B926ECFE56EF2",
+      "version": null,
+      "release_date": "2022-12-21T16:50:42"
+    },
+    {
+      "name": "DellPack-G89DY",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09754088M/1/7410-G89DY_Win11_1.0_A03.exe",
+      "size_bytes": 1949691560,
+      "md5": "845C8D02F732F3478E971CC2F20AD917",
+      "sha256": "A65D25356AC32A51C46800F4C6FCC9CDB29B3470B5602B6CA2DC2AA5A7F0CDBB",
+      "version": null,
+      "release_date": "2023-05-08T00:41:29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

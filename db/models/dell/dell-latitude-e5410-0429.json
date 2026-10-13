@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e5410-0429",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5410",
+  "system_id": "0429",
+  "dmi_matches": [
+    "Latitude E5410",
+    "0429"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-MXVJX",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02133775M/1/E5410-vista-A01-MXVJX.CAB",
+      "size_bytes": 75092642,
+      "md5": "00E9090CD15BA8454A00366E404E1218",
+      "sha256": "96536694AB3C1A3E7908A2CCC55339102D140D95A3968A21BD8929D6BF27C22D",
+      "version": null,
+      "release_date": "2014-07-18T00:00:00"
+    },
+    {
+      "name": "DellPack-K16PC",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02133783M/1/E5410-Win7-A08-K16PC.CAB",
+      "size_bytes": 474482596,
+      "md5": "0BDFC55705B76F0D433A0E1D2AC0FEA4",
+      "sha256": "17BF90B5F6A0084EE81E50068132C1C5506282EBD22B066B304889B43483C517",
+      "version": null,
+      "release_date": "2014-07-18T00:00:00"
+    },
+    {
+      "name": "DellPack-6T0M7",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02123853M/1/E5410-xp-A09-6T0M7.CAB",
+      "size_bytes": 213145007,
+      "md5": "D85ADCD80D3B70D5DDC4788018D54FB2",
+      "sha256": "392D84E6BB38572F705E92B0EBB64685B1F05D0E98257FE4218C37E3F038267C",
+      "version": null,
+      "release_date": "2014-07-18T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "lenovo-thinkpad-x13-gen-6-type-21rk-21rl",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X13 Gen 6 Type 21RK 21RL",
+  "system_id": "21RL,21RK",
+  "dmi_matches": [
+    "21RL",
+    "21RK"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13g6_mt21rk_21rl_w11_23_sccm_202512.exe",
+      "size_bytes": null,
+      "md5": "5f2c4b13daba626e8eced8347d373a92",
+      "sha256": "05b25f580958af5e217d96b2c3e5f3a794bb27e323e1f327e659a0c9f4efe93c",
+      "version": null,
+      "release_date": "2026-09-04"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13g6_mt21rk_21rl_w11_24h2_202608.exe",
+      "size_bytes": null,
+      "md5": "b4c92fb823ea886edca77737fe786281",
+      "sha256": "b30f58a768973bbe408885e7c14b2171cc8327d7952d74bd489ec09ef755fb72",
+      "version": null,
+      "release_date": "2026-08-13"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x13g6_mt21rk_21rl_w11_25h2_202608.exe",
+      "size_bytes": null,
+      "md5": "093a27b775f75204b1d5d7735509faf9",
+      "sha256": "88f1d2a55aeea195be8ae627c9159a2277e65dda806642da2feae1cca2189920",
+      "version": null,
+      "release_date": "2026-08-27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

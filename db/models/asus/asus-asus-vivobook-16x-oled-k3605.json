@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-vivobook-16x-oled-k3605",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Asus Vivobook 16X Oled K3605",
+  "system_id": "K3605",
+  "dmi_matches": [
+    "K3605"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

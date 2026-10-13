@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-7450-aio-079c",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7450 AIO",
+  "system_id": "079C",
+  "dmi_matches": [
+    "OptiPlex 7450 AIO",
+    "079C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CMMF0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06200467M/1/7450 AIO-win10-A13-CMMF0.CAB",
+      "size_bytes": 868505254,
+      "md5": "A8B8EACFAE1FAF80A17C6366A880785A",
+      "sha256": "19EA4F73179211AAA21870EE0916CB931832E351367050EC56C1C203F5BE27E1",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-HMGYG",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06254426M/1/7450 AIO-win7-A11-HMGYG.CAB",
+      "size_bytes": 921452683,
+      "md5": "317254AF3F8289F3411B86476E67C755",
+      "sha256": "90EB5C22EAE9AC728AE79CEE6B0B9CD69F30A285ED03E5DB081A2C84A10DF560",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-1TJ6N",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04597435M/1/7450 AIO-win8.1-A03-1TJ6N.CAB",
+      "size_bytes": 488023507,
+      "md5": "0D4C501AF2FA8B27DAF1FA89C0046E77",
+      "sha256": "477EC1DA2F59886F4488D4FB32D80E0DD94D66CC5342CDF92923DA5701B4080D",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

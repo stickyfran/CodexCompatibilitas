@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7670-0b2a",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7670",
+  "system_id": "0B2A",
+  "dmi_matches": [
+    "Precision 7670",
+    "0B2A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TNGRY",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12822636M/1/Precision-7670-TNGRY_Win10_1.0_A12.exe",
+      "size_bytes": 2634546968,
+      "md5": "AD82E93211AA0140110C85E29251F1B8",
+      "sha256": "22C26B58BEE4FBE3D8F28A2E8BA3F885A3EFF5170A27010DEED8957F4D051A03",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-NWCT1",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12822635M/1/Precision-7670-NWCT1_Win11_1.0_A11.exe",
+      "size_bytes": 2495856328,
+      "md5": "BA4F8F7D2FA8A673C41B82EE0A985D28",
+      "sha256": "8D3249AFE632ABE1F01660083F34E07A70F42BF23DC9E8A76B0F032809576E64",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

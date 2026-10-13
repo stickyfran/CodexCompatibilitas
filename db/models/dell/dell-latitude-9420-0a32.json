@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-9420-0a32",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 9420",
+  "system_id": "0A32",
+  "dmi_matches": [
+    "Latitude 9420",
+    "0A32"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-28DFM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11261430M/1/9420-28DFM_Win10_1.0_A13.exe",
+      "size_bytes": 1725260192,
+      "md5": "BB03522BD33C0FBDA3C0C661C9C299A2",
+      "sha256": "5C36440FCB15D60107217DF43BDBA49B1C8F7678CDB9F5858748B9F8C8924817",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    },
+    {
+      "name": "DellPack-C98F7",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11261431M/1/9420-C98F7_Win11_1.0_A06.exe",
+      "size_bytes": 1574637872,
+      "md5": "B50D87989B16E6E545568DEE27F0CBA5",
+      "sha256": "561AA50755B7BEC3BFF849E0645EDE1EAB0CF584F31722C18C9F091BE08786D4",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

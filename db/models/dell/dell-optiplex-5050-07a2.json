@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-5050-07a2",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5050",
+  "system_id": "07A2",
+  "dmi_matches": [
+    "OptiPlex 5050",
+    "07A2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-X89GJ",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06178974M/1/5050-win10-A13-X89GJ.CAB",
+      "size_bytes": 876926876,
+      "md5": "C6D89F693E6798BB475EE02B41BA7953",
+      "sha256": "27CF60C5E665270D042A9A656DE118FA87F1DF7441A20174B3F2CE285A38355E",
+      "version": null,
+      "release_date": "2020-05-12T00:00:00"
+    },
+    {
+      "name": "DellPack-KN3CT",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06260812M/1/5050-win7-A12-KN3CT.CAB",
+      "size_bytes": 943491190,
+      "md5": "4726D9810A720832CD19BB8BB67A7AC3",
+      "sha256": "0F866170BFE1E076B2591C3CF4EF455C33920704812ABE0A9D7CD6F02ECE9178",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-97FPH",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04572543M/1/5050-win8.1-A03-97FPH.CAB",
+      "size_bytes": 590703268,
+      "md5": "C75AC2D448B1CE2C5A0AFDA94E77E1AE",
+      "sha256": "28D45F9DBA6A57BBA6782215B139505C5BB656F180F4B0E610287A0A3CAA48CE",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-14-premium-pa14260-0dd6",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 14 Premium PA14260",
+  "system_id": "0DD6",
+  "dmi_matches": [
+    "Dell Pro 14 Premium PA14260",
+    "0DD6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TG84P",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14788363M/1/PA14260-TG84P_Win11_1.0_A02.exe",
+      "size_bytes": 1166101936,
+      "md5": "B825086525CD8C0FE16CB9ACE5AD5BB3",
+      "sha256": "2FC4C7D8F40C49D9A37136A6B29E9F5C5CCAFA797BC091B3B9ACC8EB37894B0C",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

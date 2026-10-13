@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-elitebook-745-g6-notebook-pc-8584",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 745 G6 Notebook PC",
+  "system_id": "8584",
+  "dmi_matches": [
+    "8584",
+    "HP EliteBook 745 G6 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp96411-HP EliteBook 7x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96411.exe",
+      "size_bytes": 480085128,
+      "md5": "21099eb3cfc8e883a3c71adb479664b0",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "6/4/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99542-HP EliteBook 7x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99542.exe",
+      "size_bytes": 751569776,
+      "md5": "8444FF03352A5BF67313A87D0475EE93",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/9/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99666-HP EliteBook 7x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99666.exe",
+      "size_bytes": 836791920,
+      "md5": "0572d36aca83c3c2448917841d575874",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/15/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110137-HP EliteBook 7x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110137.exe",
+      "size_bytes": 984462456,
+      "md5": "285add0d86f55ca3ca5c7104f510406f",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "9/17/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114213-HP EliteBook 7x5 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114213.exe",
+      "size_bytes": 1113242904,
+      "md5": "59b37ee6bf217fdae0d4d0c795976f05",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/17/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7060-085d",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7060",
+  "system_id": "085D",
+  "dmi_matches": [
+    "OptiPlex 7060",
+    "085D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-R0NN1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10385995M/1/7060-R0NN1_Win10_1.0_A13.exe",
+      "size_bytes": 3178746520,
+      "md5": "81138DE55838FB0D140955A7FBAC3999",
+      "sha256": "B84E7E71CE012696B21CE3A03F8D9A74E4709B6056804496F599DBCD8FAC8FFD",
+      "version": null,
+      "release_date": "2023-08-01T07:21:39"
+    },
+    {
+      "name": "DellPack-PNKRW",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10243918M/1/7060-PNKRW_Win11_1.0_A01.exe",
+      "size_bytes": 3179968816,
+      "md5": "4A7B0097CE99D5771AB626D28BB29EF5",
+      "sha256": "6DEF2B4641BF513CCE2A4D06C70D6EDDAC8C2F2EFFD59C06636A1E1814D0AE47",
+      "version": null,
+      "release_date": "2023-08-02T01:27:21"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

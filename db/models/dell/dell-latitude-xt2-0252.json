@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-xt2-0252",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude XT2",
+  "system_id": "0252",
+  "dmi_matches": [
+    "Latitude XT2",
+    "0252"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-F0D7R",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02301273M/1/XT2-vista-A03-F0D7R.CAB",
+      "size_bytes": 177537821,
+      "md5": "E1960877120138D6A44B701093AAE86A",
+      "sha256": "D8DD62478B6B35EAD4A15672E0D1927B42478FC3A2A7E08B8E4D256AF4F52B41",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-2RJ0N",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02249510M/1/XT2-Win7-A01-2RJ0N.CAB",
+      "size_bytes": 146612817,
+      "md5": "DDC426227DE2E173D9E7128C16D32F63",
+      "sha256": "49F2AE00BEFFFC13C0D93C2555048F5049919C53A3EE4E575299ED4E9BB13B1E",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-HVK6R",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02477570M/1/XT2-xp-A04-HVK6R.CAB",
+      "size_bytes": 93406140,
+      "md5": "CF29C36B74EDF0F2DAB4A939A4B948BC",
+      "sha256": "FD11866054070462F093187F924207180154CFEDA9E09D334FDB48DFA86355B0",
+      "version": null,
+      "release_date": "2014-09-23T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

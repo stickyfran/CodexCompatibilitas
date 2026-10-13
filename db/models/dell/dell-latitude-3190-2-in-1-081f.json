@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3190-2-in-1-081f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3190 2-in-1",
+  "system_id": "081F",
+  "dmi_matches": [
+    "Latitude 3190 2-in-1",
+    "081F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HM7VY",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07416497M/1/3190 2-in-1-win10-A11-HM7VY.CAB",
+      "size_bytes": 526687052,
+      "md5": "FACFF262935137A88BE078450ED78EBE",
+      "sha256": "E38026A93B46C40770039A86DE515A00753754C15D6F31CC545D0672E2A13952",
+      "version": null,
+      "release_date": "2021-06-17T09:52:28"
+    },
+    {
+      "name": "DellPack-X7C9R",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09765403M/1/3190-2-in-1-X7C9R_Win11_1.0_A00.exe",
+      "size_bytes": 778216960,
+      "md5": "87F4E84B595C9F8714F32CA5A45364DF",
+      "sha256": "B7591263C50939E0D5C8E57976A23A79F675BD6AD713FDA818BF793223F48C5A",
+      "version": null,
+      "release_date": "2023-03-24T02:41:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elite-x360-1040-14-inch-g10-2-in-1-notebook-pc-8b41",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC",
+  "system_id": "8b41",
+  "dmi_matches": [
+    "8b41",
+    "HP Elite x360 1040 14 inch G10 2-in-1 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp147159-HP EB/ZB/x360 8x0/1040/FF G10 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147159.exe",
+      "size_bytes": 1809359408,
+      "md5": "7994dd38a25c5afdad805d088b374f96",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp150833-HP EB/ZB/x360 8x0/1040/FF G10 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150833.exe",
+      "size_bytes": 1635333944,
+      "md5": "70e16f2d80ecda524bdfdfae6fdbbc6d",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "1/12/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp160195-HP EB/ZB/x360 8x0/1040/FF G10 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160195.exe",
+      "size_bytes": 2178574672,
+      "md5": "0FFC30E1385FAE0C17732A72E48AC4C4",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "11/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

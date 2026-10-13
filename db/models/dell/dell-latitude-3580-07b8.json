@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3580-07b8",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3580",
+  "system_id": "07B8",
+  "dmi_matches": [
+    "Latitude 3580",
+    "07B8"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WN8VN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06082849M/1/3580-Win10-A13-WN8VN.CAB",
+      "size_bytes": 1177243084,
+      "md5": "F2ECA9CDB4ADB1DABD04F5B5415D0E97",
+      "sha256": "64642D0143C6B60AA1D44BF7B819DCE5D467964426D1050BB4DEF9E0456664DA",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    },
+    {
+      "name": "DellPack-KTK44",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06083030M/1/3580-Win7-A11-KTK44.CAB",
+      "size_bytes": 1291349281,
+      "md5": "F2D82E1CE6B5D2EBCA6EDEB9191A3764",
+      "sha256": "17679B63F8D4E9C50D245E41B943D78F68FA1B674CD5586AFD8071411D15F341",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    },
+    {
+      "name": "DellPack-4KMV9",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04706481M/1/3580-Win8.1-A03-4KMV9.CAB",
+      "size_bytes": 683284777,
+      "md5": "361D911E7C7E1356703AD8496C4041E9",
+      "sha256": "D19760138840AC74B687FA563BA2CD317E2811918096D9F18654A5FE8AABBD9A",
+      "version": null,
+      "release_date": "2018-01-10T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

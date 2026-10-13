@@ -1,0 +1,96 @@
+{
+  "id": "lenovo-thinkstation-p620",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P620",
+  "system_id": "30E0,30E1,30KK",
+  "dmi_matches": [
+    "30E0",
+    "30E1",
+    "30KK"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p620_w1064_2004_202203.exe",
+      "size_bytes": null,
+      "md5": "04f4424d9278443ce073c0625c8e4cc2",
+      "sha256": "0ef4d063dab85545f2f4fb8c565c65d2b127e39a857081c5526a0561a0afe3d7",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p620_w1064_20h2_202209.exe",
+      "size_bytes": null,
+      "md5": "ff13b410ad61e9b8fc1cb5e63c2b5f0b",
+      "sha256": "df48943188d6399ee37432e97422871feff754a9a13aa6b5593781da7b77bb95",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p620_w1064_21h2_202408.exe",
+      "size_bytes": null,
+      "md5": "110e1c26a9bd115efe86d7756466846b",
+      "sha256": "3dcbf61f7c611b1f0fefdecf21f22b5f9006c2fa15069dc25cb9a588eba278d7",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p620_w1064_22h2_202607.exe",
+      "size_bytes": null,
+      "md5": "96c54387091a72188d2ac47c14b8fbd2",
+      "sha256": "f9f9968d57b3930dea0a2666bea0307d1a17ec5ba937aa65718dff4ee5d7a967",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p620_w11_21_202309.exe",
+      "size_bytes": null,
+      "md5": "ecdb402bc07f08e1e43631ff245ef7e4",
+      "sha256": "f3003dd079e492fdd3659c44fab86ab41409d7494fade78dcaa54ed5f2a837a1",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p620_w11_22_or_later_202408.exe",
+      "size_bytes": null,
+      "md5": "979bfa73bbdcb7fd90015fa7b1e29876",
+      "sha256": "1aa105c8a5cce5603299e81ce6d4126cb9191554079682c21c305ffa8840dd75",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p620_w11_22_or_later_202408.exe",
+      "size_bytes": null,
+      "md5": "979bfa73bbdcb7fd90015fa7b1e29876",
+      "sha256": "1aa105c8a5cce5603299e81ce6d4126cb9191554079682c21c305ffa8840dd75",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p620_w1164_24h2_or_later_202607.exe",
+      "size_bytes": null,
+      "md5": "bfc5bc9523733bf3b77cd8fe2b0beda2",
+      "sha256": "5ec6bfeca8470f9b244b71d760b05bd44999b1bcef614be5cdcc2aff5e29e919",
+      "version": null,
+      "release_date": "2026-07-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

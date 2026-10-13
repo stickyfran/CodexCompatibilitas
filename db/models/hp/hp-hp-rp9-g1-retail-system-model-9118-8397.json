@@ -1,0 +1,66 @@
+{
+  "id": "hp-hp-rp9-g1-retail-system-model-9118-8397",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP RP9 G1 Retail System Model 9118",
+  "system_id": "8397,8139",
+  "dmi_matches": [
+    "8397",
+    "8139",
+    "HP RP9 G1 Retail System Model 9118"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp112599-HP RP9 G1 IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112599.exe",
+      "size_bytes": 640058624,
+      "md5": "b20f60de1d66ae7d8404969b04ac628f",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "2/8/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp99585-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99585.exe",
+      "size_bytes": 561777712,
+      "md5": "2B5E141B215F8A18D8EE1D10197FF5F9",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/23/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101289-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101289.exe",
+      "size_bytes": 523995048,
+      "md5": "55d8d43331c6b2351b004ab3b58f3a5a",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/14/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110454-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110454.exe",
+      "size_bytes": 541804944,
+      "md5": "c421facdd82918eb106426902672d881",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "10/14/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112600-HP RP9 G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112600.exe",
+      "size_bytes": 561062032,
+      "md5": "8c5c5c1b0a921a5b4dea110930e95007",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "2/8/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

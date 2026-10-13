@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-5495-0814",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5495",
+  "system_id": "0814",
+  "dmi_matches": [
+    "Latitude 5495",
+    "0814"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-97R2Y",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06102691M/1/5495-win10-A06-97R2Y.CAB",
+      "size_bytes": 753846135,
+      "md5": "8D025B27CA23F3454994A690776A5084",
+      "sha256": "137394106A7168EB04F1EAE4BBC1E77D8A345EF2389FA59EA485AAA7CA9077D7",
+      "version": null,
+      "release_date": "2020-05-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

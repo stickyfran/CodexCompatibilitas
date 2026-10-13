@@ -1,0 +1,46 @@
+{
+  "id": "hp-hp-z2-mini-g4-workstation-8458",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Mini G4 Workstation",
+  "system_id": "8458,8457",
+  "dmi_matches": [
+    "8458",
+    "8457",
+    "HP Z2 Mini G4 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp108840-HP Z2G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp108501-109000/sp108840.exe",
+      "size_bytes": 1374088344,
+      "md5": "a8678cfcff4ec3ce48eb0bcc8a439a4c",
+      "sha256": null,
+      "version": "3.00 A 2",
+      "release_date": "8/31/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp136455-HP Z2G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136455.exe",
+      "size_bytes": 1435272472,
+      "md5": "6e7cd13a00696e6efc5ec104b31d18bd",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "6/25/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp152173-HP Z2G4 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152001-152500/sp152173.exe",
+      "size_bytes": 1321129280,
+      "md5": "51fe239ba30c71f763a6a5e956e05635",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "4/15/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,36 @@
+{
+  "id": "hp-hp-eliteone-800-g6-27-all-in-one-pc-874e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteOne 800 G6 27 All-in-One PC",
+  "system_id": "874E,874D",
+  "dmi_matches": [
+    "874E",
+    "874D",
+    "HP EliteOne 800 G6 27 All-in-One PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp109005-HP EliteOne 800 G6 AiO Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp109001-109500/sp109005.exe",
+      "size_bytes": 1453587648,
+      "md5": "9943bb1ecfd77becd41e25a0edbe6385",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "9/9/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp144873-HP EliteOne 800 G6 AiO Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144873.exe",
+      "size_bytes": 2097523360,
+      "md5": "fb094e562805d9fcb753c04e1060c5d5",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/19/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

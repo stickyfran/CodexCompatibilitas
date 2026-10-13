@@ -1,0 +1,25 @@
+{
+  "id": "dell-optiplex-5055-a-series-07f1",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5055 A-Series",
+  "system_id": "07F1",
+  "dmi_matches": [
+    "OptiPlex 5055 A-Series",
+    "07F1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KVP96",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06191609M/1/OptiPlex 5055 A-Series-win10-A07-KVP96.CAB",
+      "size_bytes": 342172668,
+      "md5": "93406CBEFC6BAF34F26A5E470FC661AB",
+      "sha256": "5545DE0A46068D12F5BB6FC854FA3F39225DC5577BE0BB2C63DC2D5FADBFDF96",
+      "version": null,
+      "release_date": "2020-06-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,66 @@
+{
+  "id": "hp-hp-probook-640-g8-notebook-pc-87ea",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 640 G8 Notebook PC",
+  "system_id": "87EA,87ED",
+  "dmi_matches": [
+    "87EA",
+    "87ED",
+    "HP ProBook 640 G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp110267-HP Probook 6x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110267.exe",
+      "size_bytes": 1618191344,
+      "md5": "88cf767acc51463efa897a6c41a15d72",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "9/28/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112089-HP Probook 6x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112089.exe",
+      "size_bytes": 1660242784,
+      "md5": "8b9cf2e808cf91cfc01400ce1ec043c9",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "1/5/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp114068-HP Probook 6x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114068.exe",
+      "size_bytes": 1344850896,
+      "md5": "5ed3876b14ebefa412a36013fcadd0f8",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "6/1/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp144683-HP Probook 6x0 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144683.exe",
+      "size_bytes": 1618021104,
+      "md5": "541bbe7479369db4c0e395194af29141",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "2/2/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142734-HP Probook 6x0 G8 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142734.exe",
+      "size_bytes": 1276964016,
+      "md5": "7eb79b87de6e8445fde1c51c76793b09",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/21/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

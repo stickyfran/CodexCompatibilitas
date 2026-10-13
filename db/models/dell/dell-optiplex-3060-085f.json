@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-3060-085f",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3060",
+  "system_id": "085F",
+  "dmi_matches": [
+    "OptiPlex 3060",
+    "085F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0JJVK",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07337399M/1/3060-win10-A13-0JJVK.CAB",
+      "size_bytes": 1226153789,
+      "md5": "CFEFCA97F0B89472B73A7427D3F81987",
+      "sha256": "69D04195C286201664A7E6877D6DABB1ACE536945C08CB9A92284858A9A78964",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    },
+    {
+      "name": "DellPack-5TY71",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10089171M/1/3060-5TY71_Win11_1.0_A00.exe",
+      "size_bytes": 2267024600,
+      "md5": "BF3340FD24DA78C242E1E323F421BAC1",
+      "sha256": "BC8C87C47DEBFBA6CBD0A493528A4795533D25983C28B248588EA8D742B690DB",
+      "version": null,
+      "release_date": "2023-05-31T01:37:32"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

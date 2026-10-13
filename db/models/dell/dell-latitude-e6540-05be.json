@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e6540-05be",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6540",
+  "system_id": "05BE",
+  "dmi_matches": [
+    "Latitude E6540",
+    "05BE"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HW0T8",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04901480M/1/E6540-win10-A04-HW0T8.CAB",
+      "size_bytes": 849637017,
+      "md5": "3E76140C0097B21C048C7AC9ACEB2479",
+      "sha256": "4318D086AE8C750EA041CE26ADFA5A3A916D1FCBD633EC649F3FBE8A71011938",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-TW8PK",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04901590M/1/E6540-win7-A14-TW8PK.CAB",
+      "size_bytes": 821109644,
+      "md5": "7D948A87F7EDEBF82A8116FD64DCA5FE",
+      "sha256": "B6723A6261256D88CD5C7F9EA8DC1A4F9F217830C48F7A0970D08465FDB0C278",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-TWHXK",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03533484M/1/E6540-win8.1-A07-TWHXK.CAB",
+      "size_bytes": 611361969,
+      "md5": "8001CA1AD8948033C3CE2C3ED4E689C5",
+      "sha256": "1D25488F050723B97A15CFAB7AF125CB4DEBCE0AA8CB804BDE9C131FF88DEF1F",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

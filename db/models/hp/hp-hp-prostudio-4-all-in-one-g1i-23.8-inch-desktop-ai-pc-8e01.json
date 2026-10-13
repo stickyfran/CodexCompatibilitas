@@ -1,0 +1,26 @@
+{
+  "id": "hp-hp-prostudio-4-all-in-one-g1i-23.8-inch-desktop-ai-pc-8e01",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC",
+  "system_id": "8e01,8d19",
+  "dmi_matches": [
+    "8e01",
+    "8d19",
+    "HP ProStudio 4 All-in-One G1i 23.8 inch Desktop AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp161705-HP Pro4 AIO G1i AI PC Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp161501-162000/sp161705.exe",
+      "size_bytes": 2716246000,
+      "md5": "5E91E152A2EFE5B49C85FB869FC3E2BE",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/31/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

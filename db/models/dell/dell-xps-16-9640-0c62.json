@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-16-9640-0c62",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 16 9640",
+  "system_id": "0C62",
+  "dmi_matches": [
+    "XPS 16 9640",
+    "0C62"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-01JH0",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13359086M/1/XPS-16-9640-01JH0_Win11_1.0_A07.exe",
+      "size_bytes": 3040637048,
+      "md5": "CD1E197F591EDBCBCCDCFBF22DF0F8EB",
+      "sha256": "2A978CE11E8A1B933B8EB9ECBAECFABC6D46D14C4F61B766324C13E5E95CF3DD",
+      "version": null,
+      "release_date": "2025-08-24T23:48:03"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

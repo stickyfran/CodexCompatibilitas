@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-pro-x2-612-g1-tablet-221b",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x2 612 G1 Tablet",
+  "system_id": "221b",
+  "dmi_matches": [
+    "221b",
+    "HP Pro x2 612 G1 Tablet"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp77225-HP Elite/Pro G1 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp77001-77500/sp77225.exe",
+      "size_bytes": 516323304,
+      "md5": "63211795340609598f6c3e9ca7d336f6",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "8/22/2016 12:00:00 AM"
+    },
+    {
+      "name": "sp79219-HP Elite/Pro G1 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp79001-79500/sp79219.exe",
+      "size_bytes": 478142592,
+      "md5": "50d6be9aa5c6fcea64b8da3a6eb09dbf",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "2/24/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp92562-HP Elite/Pro G1 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92501-93000/sp92562.exe",
+      "size_bytes": 506033224,
+      "md5": "ea8bf4e1c02c4f41c075652a534c15ca",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "11/8/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp96751-HP Pro x2 612 G1 Tablet Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96751.exe",
+      "size_bytes": 497582144,
+      "md5": "db45156232e6eeccbe5388b397d9eb35",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/29/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

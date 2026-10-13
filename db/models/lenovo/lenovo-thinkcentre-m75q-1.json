@@ -1,0 +1,67 @@
+{
+  "id": "lenovo-thinkcentre-m75q-1",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M75Q 1",
+  "system_id": "11A5,11A7,11A4,11A6",
+  "dmi_matches": [
+    "11A5",
+    "11A7",
+    "11A4",
+    "11A6"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75q-1_win1064_1803_201912.exe",
+      "size_bytes": null,
+      "md5": "ea37bd606685d929a4a18a5c8152b923",
+      "sha256": "9722304a56c0c58d11a298378ca5359810a88f8a34f1835847846dd1cd8c6ef8",
+      "version": null,
+      "release_date": "2019-12-17"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75q-1_win1064_1809_201912.exe",
+      "size_bytes": null,
+      "md5": "49ff4238d8770c0a8851af1e3d2b43b2",
+      "sha256": "40024c82d169c4d6cd425192fe3a9428c2bc3b4daf89b21f002b3fd768296d98",
+      "version": null,
+      "release_date": "2019-12-17"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75q-1_win1064_1903_2019010.exe",
+      "size_bytes": null,
+      "md5": "47a452f259f6804f98181b1be11624b7",
+      "sha256": "c5e1d6a3823f405e2bdae426f32eaf4857fa8a0b4e3e0165e7f48b6c0d54604c",
+      "version": null,
+      "release_date": "2019-10-08"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75q-1_win1064_1909_202001.exe",
+      "size_bytes": null,
+      "md5": "c8e1ebe2ad3f8a223bc4716597f5ce2b",
+      "sha256": "ef98010ab4f9e972df704944fe9d176464f4ff3c1be6d3dedbd504471ddc301e",
+      "version": null,
+      "release_date": "2020-01-07"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75sq-1_w1064_2004_202007.exe",
+      "size_bytes": null,
+      "md5": "254b1f1891eb680f754ec32f7e0a8503",
+      "sha256": "ee7a591918c21469850686917d1d74c3d353863bdd5c5373ff8b89ff5d5dd4a1",
+      "version": null,
+      "release_date": "2020-08-11"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

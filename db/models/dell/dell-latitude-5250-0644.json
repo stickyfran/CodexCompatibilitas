@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-5250-0644",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5250",
+  "system_id": "0644",
+  "dmi_matches": [
+    "Latitude 5250",
+    "0644"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-32HKG",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04846197M/1/E5250_5250-win10-A08-32HKG.CAB",
+      "size_bytes": 452622188,
+      "md5": "69B395171DE4B8B476C1A8F2762A2700",
+      "sha256": "1CBA192E08EE648F8D8DBEF45A3388CA0B940741600156E07F8EA61FF94D4C67",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-W6XNT",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04847343M/1/E5250_5250-win7-A11-W6XNT.CAB",
+      "size_bytes": 495165017,
+      "md5": "5DB3ADC4A4DEA708D750BCADFD713C7C",
+      "sha256": "27EC42A62D00D0254B5D2B3421308602737216AF4D5FEDB5053BD295C631AD40",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-JJVM7",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03487651M/1/E5250_5250-Win8.1-A05-JJVM7.CAB",
+      "size_bytes": 213738293,
+      "md5": "9A311D6606AB739F5558D63F708F0823",
+      "sha256": "776A90655E9DEC8434289740191C3BE448407EEFA0FB939F59095BFAED08E0D9",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3240-compact-09f6",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3240 Compact",
+  "system_id": "09F6",
+  "dmi_matches": [
+    "Precision 3240 Compact",
+    "09F6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-4DXND",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11301366M/1/Precision-3240-Compact-4DXND_Win10_1.0_A16.exe",
+      "size_bytes": 1847495296,
+      "md5": "B05D4743B6DCD1992726E685AF466805",
+      "sha256": "EC79E3D9DC52237E2CE4A74DA46742C0306187B51D9BCFA09E8E5115CC83B737",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    },
+    {
+      "name": "DellPack-3PYY9",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11301682M/1/Precision-3240-Compact-3PYY9_Win11_1.0_A06.exe",
+      "size_bytes": 1845995872,
+      "md5": "3B21951146A73104F6A3ED76E3B56216",
+      "sha256": "C20BDC3AFB0F22D734349A11B58612C2254CC8327DF4DC58E839EB6023F8FFCE",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

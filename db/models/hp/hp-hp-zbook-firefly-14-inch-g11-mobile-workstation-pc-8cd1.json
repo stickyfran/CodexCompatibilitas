@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-zbook-firefly-14-inch-g11-mobile-workstation-pc-8cd1",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Firefly 14 inch G11 Mobile Workstation PC",
+  "system_id": "8cd1",
+  "dmi_matches": [
+    "8cd1",
+    "HP ZBook Firefly 14 inch G11 Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp160042-HP ZB Firefly/EB x360 8x0 MWS/NB Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160042.exe",
+      "size_bytes": 2240136064,
+      "md5": "B3C46E1E5771D4682EF4960D6105F463",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/29/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp152748-HP ZBook Firefly/Elite x360 8x0 G11 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp152501-153000/sp152748.exe",
+      "size_bytes": 3087226816,
+      "md5": "54e103cc0e7d116c6835a72de2dc8277",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/20/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp174328-HP ZB Firefly/EB x360 8x0 MWS/NB Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174328.exe",
+      "size_bytes": 2553565888,
+      "md5": "0E2F62EB2DCD5854CEE7E52D01631A42",
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "8/12/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

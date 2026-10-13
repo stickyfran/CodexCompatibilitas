@@ -1,0 +1,116 @@
+{
+  "id": "lenovo-thinkstation-p520c",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P520C",
+  "system_id": "30C0,30BY,30BX",
+  "dmi_matches": [
+    "30C0",
+    "30BY",
+    "30BX"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p520p520c_w1064_20180613.exe",
+      "size_bytes": null,
+      "md5": "523fedb4b44f7377eec97e6adfe0dd8b",
+      "sha256": "7e5a098e6aeeb4b8706e6da2617e46d4813414846fc1dcebb7e039ebede565f5",
+      "version": null,
+      "release_date": "2018-06-13"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p520p520c_w1064_20190123.exe",
+      "size_bytes": null,
+      "md5": "4973829956d3af70f8796ce59dbab1a8",
+      "sha256": "51ad92e3d1ab8740a1a6f45df790240e961602b47fef6c5253d50685350803c0",
+      "version": null,
+      "release_date": "2019-01-23"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p520p520c_w1064_1903_201908.exe",
+      "size_bytes": null,
+      "md5": "78a247fd937ff8e7f8e09c04b85a82d1",
+      "sha256": "d8fe881bfb784ee008d83d754fb16140253d72644e24d118e4b9064ca604b256",
+      "version": null,
+      "release_date": "2019-08-13"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p520_p520c_w1064_1909_202004.exe",
+      "size_bytes": null,
+      "md5": "f68a09095d4c2df65f701209dfa3e93b",
+      "sha256": "090fa50a67facc78985f8cd3c973b4365f35dc19a8be6cadf1ad47985a73ea67",
+      "version": null,
+      "release_date": "2019-04-14"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p520-p520c_w1064_2004_202007.exe",
+      "size_bytes": null,
+      "md5": "729221657ffa515e9683977940fdf25a",
+      "sha256": "24af9c33f5c16d12117a7ed8a722cde5a24058c2461a0f949271d096f280059b",
+      "version": null,
+      "release_date": "2020-07-23"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p520-p520c_w1064_20h2_202110.exe",
+      "size_bytes": null,
+      "md5": "8d17d651ff25331e78497e148edf482a",
+      "sha256": "a36b706525402babc3e8ef6f66a0bcd6b8c52453f75174741825a850f2cba0cb",
+      "version": null,
+      "release_date": "2021-10-15"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p520-p520c_w1064_21h2_202208.exe",
+      "size_bytes": null,
+      "md5": "5b7b3aea60dc1f038574ec091fe0c870",
+      "sha256": "3e2c2b87a1a81be519283418b578a22247580ed4573a4e9b12ac0c17595d1d89",
+      "version": null,
+      "release_date": "2022-08-12"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p920-p720-p520-p520c_w1064_22h2_202607.exe",
+      "size_bytes": null,
+      "md5": "1a0158fa66fa7a0c3cad68970f9d9fdd",
+      "sha256": "d5b348d142938a791ffa9c592aaf144edb7101197b9811fe39453b05012443d6",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p520-p520c_w1164_21h2_202203.exe",
+      "size_bytes": null,
+      "md5": "fcbd0142565d8f9b58a269602b37d602",
+      "sha256": "bb5f77ab655f1c12be12cc36d4ab95086d88dc7e04f7a9a4b0687b4f5744326e",
+      "version": null,
+      "release_date": "2026-07-23"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p920-p720-p520-p520c_w1164_22h2_or_later_202607.exe",
+      "size_bytes": null,
+      "md5": "08583978c6789a5dcc34ff1f3b962bc4",
+      "sha256": "eb7bbd374ae704718859e152a501d1a56fef742cb02192c0523fff138a431344",
+      "version": null,
+      "release_date": "2026-07-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

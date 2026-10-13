@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-2100-02d6",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 2100",
+  "system_id": "02D6",
+  "dmi_matches": [
+    "Latitude 2100",
+    "02D6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-N8YX2",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02091207M/1/2100-vista-A01-N8YX2.CAB",
+      "size_bytes": 99924200,
+      "md5": "99250CC701BFF39E42A5A70296D6E75A",
+      "sha256": "B757954A9919E7695BEAEF3AEB8A8B08B755F4FFEAC953E97D8FD4382749D42E",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-NJ87G",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER02090754M/1/2100-win7-A01-NJ87G.CAB",
+      "size_bytes": 104284445,
+      "md5": "1A52FF8CD688F32A942196F9BDE34475",
+      "sha256": "675B870A74958DB57C317A1DCD0A8598E4AAE936D32FEC967787CF6C3F74DBBA",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-Y33P3",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02055244M/1/2100-xp-A01-Y33P3.CAB",
+      "size_bytes": 155338577,
+      "md5": "555BFF8F838A406E3D9CC44AB78627A7",
+      "sha256": "0DBF70A038451A71E19ABDF53CFDE25C35F7411A59039B4C189FDC12E6630590",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

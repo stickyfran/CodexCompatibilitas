@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3640-tower-098d",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3640 Tower",
+  "system_id": "098D",
+  "dmi_matches": [
+    "Precision 3640 Tower",
+    "098D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JPNH8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09896778M/1/Precision-3640-Tower-JPNH8_Win10_1.0_A10.exe",
+      "size_bytes": 2112567128,
+      "md5": "7AF7C79F080EEFC30E7E482FD3A56D60",
+      "sha256": "BE0D16751D06D4BC9D018812714D3F973E5E54C28D93E56B56E7A8D768FD302C",
+      "version": null,
+      "release_date": "2023-07-07T07:33:33"
+    },
+    {
+      "name": "DellPack-DR4JR",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09896781M/1/Precision-3640-Tower-DR4JR_Win11_1.0_A02.exe",
+      "size_bytes": 2111633824,
+      "md5": "2A9D708067B09366B307F6243514A87C",
+      "sha256": "32D683704E97FC68C0279017A3CED260DA18CCFBE9A419B558E4527CCB445C27",
+      "version": null,
+      "release_date": "2023-07-07T07:33:33"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

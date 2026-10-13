@@ -1,0 +1,35 @@
+{
+  "id": "dell-venue-10-pro-5056-06e7",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Venue 10 Pro 5056",
+  "system_id": "06E7",
+  "dmi_matches": [
+    "Venue 10 Pro 5056",
+    "06E7"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-P4G6J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05382957M/1/5056-win10-A12-P4G6J.CAB",
+      "size_bytes": 267215256,
+      "md5": "83C27BDD6672D976992039AF6905064C",
+      "sha256": "7A90C9DF45F8245E46738E8275F6BD4B308E7B4387836087B10D596934EF57F2",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-CRJ34",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03714947M/1/5056-win8.1-A03-CRJ34.CAB",
+      "size_bytes": 203197998,
+      "md5": "7E80F9717137B88E4503ADB009E83B8A",
+      "sha256": "6D861DD5A88B0156502551E8E40C813F1D24DE1C8E478F7A4E820BE5BBF5D8DE",
+      "version": null,
+      "release_date": "2016-06-14T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

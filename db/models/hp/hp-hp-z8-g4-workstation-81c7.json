@@ -1,0 +1,85 @@
+{
+  "id": "hp-hp-z8-g4-workstation-81c7",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z8 G4 Workstation",
+  "system_id": "81c7",
+  "dmi_matches": [
+    "81c7",
+    "HP Z8 G4 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp84801-HP Z6/Z8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84801.exe",
+      "size_bytes": 1031299552,
+      "md5": "456884612f9f84472a05111b3e924b47",
+      "sha256": null,
+      "version": "2.2018 C 1",
+      "release_date": "2/21/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95338-HP Z6/Z8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95338.exe",
+      "size_bytes": 699438296,
+      "md5": "1e2cb670af29571751d69f837969a413",
+      "sha256": null,
+      "version": "4.2019 H 1",
+      "release_date": "4/10/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp110211-HP Z6/Z8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110211.exe",
+      "size_bytes": 994756712,
+      "md5": "094cc982c0d7d7db9fefcfe49a70a434",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113514-HP Z6/Z8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113514.exe",
+      "size_bytes": 1072468152,
+      "md5": "fa6c46fe32e0a48fe80a4c41a1fff753",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "5/19/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp144717-HP Z6/Z8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144717.exe",
+      "size_bytes": 2094017480,
+      "md5": "3a49011a55a97848ed874ee9cfc463fd",
+      "sha256": null,
+      "version": "12.00 A 1",
+      "release_date": "2/1/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp147415-HP Z6/Z8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147415.exe",
+      "size_bytes": 1557492144,
+      "md5": "972fbb552b1fa38623e33cdeab0463ad",
+      "sha256": null,
+      "version": "13.00 A 1",
+      "release_date": "5/19/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp147117-HP Z6/Z8 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147001-147500/sp147117.exe",
+      "size_bytes": 1458104616,
+      "md5": "bf5b9190a12c989921e4d0aebf0c5e5e",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "5/5/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

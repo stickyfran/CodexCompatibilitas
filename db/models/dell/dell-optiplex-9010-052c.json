@@ -1,0 +1,65 @@
+{
+  "id": "dell-optiplex-9010-052c",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 9010",
+  "system_id": "052C",
+  "dmi_matches": [
+    "OptiPlex 9010",
+    "052C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TRYJN",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03651130M/1/9010-win10-A02-TRYJN.CAB",
+      "size_bytes": 889491070,
+      "md5": "442D8AA1E49546D9189A8686E1C92CDD",
+      "sha256": "E87EA53D5FCAB20331DEF5B7AA9DDA95F9CEE52943DFF2A97998C0212F576622",
+      "version": null,
+      "release_date": "2016-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-X1X4G",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02816390M/1/9010-win7-A11-X1X4G.CAB",
+      "size_bytes": 759767262,
+      "md5": "B67DA071948652D1C6DF2CA7D7A88C85",
+      "sha256": "DE50D8AD02B612031E3C8E4AF059E904F37D8943FE97A08616A65CCDF1F9755A",
+      "version": null,
+      "release_date": "2015-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-16DDK",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02816370M/1/9010-win8.1-A04-16DDK.CAB",
+      "size_bytes": 745594089,
+      "md5": "F7F164D212C2478D055AE1876F6FA987",
+      "sha256": "EE100FB8EB5D1140C1B78516B1A6612F91AC38608707BA6D3F07B236679D270E",
+      "version": null,
+      "release_date": "2015-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-70W9W",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02617166M/1/9010-win8-A05-70W9W.CAB",
+      "size_bytes": 657176184,
+      "md5": "394440EA6C9963CDA44B76D2A455FB81",
+      "sha256": "80779A683E6592ADCBAD42A0476434A843F1419E5EF639D3BD95E33779EC13B1",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-8YR57",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02061609M/1/9010-xp-A05-8YR57.CAB",
+      "size_bytes": 211152992,
+      "md5": "7B911A4A767903A8E6F8057E26037BB5",
+      "sha256": "F3642F94CF1BD46BD7341E1CEE6D71492149214F8A11F5B801128A212AD87E35",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

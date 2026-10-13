@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7212-07d3",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7212",
+  "system_id": "07D3",
+  "dmi_matches": [
+    "Latitude 7212",
+    "07D3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-H4GY4",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06105298M/1/7212-win10-A10-H4GY4.CAB",
+      "size_bytes": 690950262,
+      "md5": "6E4EDF0CF2DD97BCC8609CA7390DF398",
+      "sha256": "AC491AC256AEAA65ABBBCF9E29F60691B92DF31F7BB0A7998273C1C2CD10EA7B",
+      "version": null,
+      "release_date": "2020-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-45VJ9",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER06109236M/1/7212-win7-A08-45VJ9.CAB",
+      "size_bytes": 450505786,
+      "md5": "8323E375970F2E43F38D70FF5703B8B1",
+      "sha256": "A58BCD93A63593ED21DE8A8C061FB64E6FE7186DAC90D70B9361CF9D113DEF36",
+      "version": null,
+      "release_date": "2020-04-14T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

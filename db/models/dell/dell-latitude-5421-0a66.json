@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5421-0a66",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5421",
+  "system_id": "0A66",
+  "dmi_matches": [
+    "Latitude 5421",
+    "0A66"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-NXWNT",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11663107M/1/Latitude-5421-NXWNT_Win10_1.0_A17.exe",
+      "size_bytes": 3098948288,
+      "md5": "1B40CE0C818D1DFCDFA0D53D6E1AF1EE",
+      "sha256": "BEE3385DF3B370D70AFCCFE655019C816FE39444537F912788B970B357AECF93",
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    },
+    {
+      "name": "DellPack-KX51F",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11663154M/1/Latitude-5421-KX51F_Win11_1.0_A13.exe",
+      "size_bytes": 3099234928,
+      "md5": "08577FB27138D11A54BA4B3C70756921",
+      "sha256": "9ED7AE421665D23B41C98036C10A12C5438FC48D1E42E16873AE74F052E80890",
+      "version": null,
+      "release_date": "2024-06-10T02:50:45"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-11e-20g9-20gb",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad 11e 20G9 20GB",
+  "system_id": "20G9,20GB",
+  "dmi_matches": [
+    "20G9",
+    "20GB"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_11e_3rd_gen_w1064_1909_202012.exe",
+      "size_bytes": null,
+      "md5": "a93d5679a9aead84f17a8040f485846f",
+      "sha256": "cfdc9881c4f1ca29ecf925464dc99952b50583d050eaaa6c2531910ac77d1fd3",
+      "version": null,
+      "release_date": "2020-12-29"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

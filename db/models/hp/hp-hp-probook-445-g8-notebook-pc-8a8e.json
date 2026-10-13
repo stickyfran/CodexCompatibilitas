@@ -1,0 +1,56 @@
+{
+  "id": "hp-hp-probook-445-g8-notebook-pc-8a8e",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 G8 Notebook PC",
+  "system_id": "8A8E,8861",
+  "dmi_matches": [
+    "8A8E",
+    "8861",
+    "HP ProBook 445 G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp112129-HP ProBook 4x5 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112129.exe",
+      "size_bytes": 1064009408,
+      "md5": "95291c693da65c8fd16c2b3dc2a84cba",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "1/19/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp113578-HP ProBook 4x5 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113578.exe",
+      "size_bytes": 1116523344,
+      "md5": "dee0a66126a46b03a74f7e397e2bfc20",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/3/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138543-HP ProBook 4x5 G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138543.exe",
+      "size_bytes": 940843216,
+      "md5": "7153d8935eab68b44eb4411c8a82156e",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "2/24/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp136223-HP ProBook 4x5 G8 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136223.exe",
+      "size_bytes": 1153356552,
+      "md5": "42a2471e5d3c2c64ed1e49abccd921b1",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/17/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

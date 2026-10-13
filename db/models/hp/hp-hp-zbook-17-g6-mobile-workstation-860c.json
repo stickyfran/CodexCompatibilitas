@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-zbook-17-g6-mobile-workstation-860c",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 17 G6 Mobile Workstation",
+  "system_id": "860c",
+  "dmi_matches": [
+    "860c",
+    "HP ZBook 17 G6 Mobile Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp97017-HP ZBook 15/17 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp97001-97500/sp97017.exe",
+      "size_bytes": 703717080,
+      "md5": "3ba4b65502ff8b2217079f5b2c556869",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/16/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99544-HP ZBook 15/17 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99544.exe",
+      "size_bytes": 901882232,
+      "md5": "4c26e35b4656e344796a9ea9ed49ac8f",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/9/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101896-HP ZBook 15/17 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101896.exe",
+      "size_bytes": 859497104,
+      "md5": "ad56be19a377bd8eb371b3e5b7ac2f26",
+      "sha256": null,
+      "version": "4.0 A 1",
+      "release_date": "3/6/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110037-HP ZBook 15/17 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110037.exe",
+      "size_bytes": 1282268904,
+      "md5": "e8c202b7b5673020103235ab00f5507e",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "9/11/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114120-HP ZBook 15/17 G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114120.exe",
+      "size_bytes": 1435067520,
+      "md5": "7e8428673dab1880c2f3bba19f9fa209",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "6/4/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

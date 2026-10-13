@@ -1,0 +1,55 @@
+{
+  "id": "dell-optiplex-3020-0612",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3020",
+  "system_id": "0612",
+  "dmi_matches": [
+    "OptiPlex 3020",
+    "0612"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-D46TR",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04906888M/1/3020-win10-A03-D46TR.CAB",
+      "size_bytes": 608817580,
+      "md5": "D7A9DD12AB199EF6AA196B75CCD98D39",
+      "sha256": "D69E7DC29DD4538F0326C809F28C8095A67E7894969C38404BF15D9BA717F42F",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-H2MCR",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04907061M/1/3020-win7-A09-H2MCR.CAB",
+      "size_bytes": 599443527,
+      "md5": "EFDBB06EEA6A99A8C76D60D792FEA50D",
+      "sha256": "ACD3BED868A10433873563C36022E0C68AE9B30698E01C6BB32AFF6CB720D14A",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-PK86M",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03526447M/1/3020-win8.1-A04-PK86M.CAB",
+      "size_bytes": 301050055,
+      "md5": "B5A269DD6ECB37FADC6CEC5C61F0A6F3",
+      "sha256": "AF4DDAC3AE7CF5ADE5FAA3C4214015AB60BC66916354120BF0884ABD39181A2E",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    },
+    {
+      "name": "DellPack-9FV8T",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02606129M/1/3020-win8-A03-9FV8T.CAB",
+      "size_bytes": 293478073,
+      "md5": "DC2B151F9C73E10E7A33E8A5EDBB921D",
+      "sha256": "F96D6B10A94CEB1DE5519C434DE8270E7C74BD47AF12653CCB5F24E40819BDC2",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

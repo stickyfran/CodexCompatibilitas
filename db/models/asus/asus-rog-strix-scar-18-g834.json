@@ -1,0 +1,13 @@
+{
+  "id": "asus-rog-strix-scar-18-g834",
+  "vendor": "ASUS",
+  "family": "ROG",
+  "model_name": "Rog Strix Scar 18 G834",
+  "system_id": "G834",
+  "dmi_matches": [
+    "G834"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

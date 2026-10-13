@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5510-06e5",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5510",
+  "system_id": "06E5",
+  "dmi_matches": [
+    "Precision 5510",
+    "06E5"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-1JF37",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05422204M/1/5510-Win7-A12-1JF37.CAB",
+      "size_bytes": 746935386,
+      "md5": "9D13970BDC4E5E1FD5A9BF268E4ECA04",
+      "sha256": "35B5836EA2E0E847229EB211E98796BB8A33C28FB25842DAED00116F39E801D7",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-49TC7",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04330504M/1/5510-Win8.1-A06-49TC7.CAB",
+      "size_bytes": 728342674,
+      "md5": "15EF7A11FDE43A60BADA80CA105D9B7C",
+      "sha256": "48A6E78BCF9F68D86A23665C8B33E3E187DF9854EF891B9C370BE91F1FF9D4E4",
+      "version": null,
+      "release_date": "2017-05-19T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

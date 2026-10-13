@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7010-sff-0bd2",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7010 SFF",
+  "system_id": "0BD2",
+  "dmi_matches": [
+    "OptiPlex 7010 SFF",
+    "0BD2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TFTN1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14366838M/1/OptiPlex-7010-SFF-TFTN1_Win10_1.0_A14.exe",
+      "size_bytes": 1940413408,
+      "md5": "2D9E1BAFA6C2873673FCA9B6ED01FB43",
+      "sha256": "9736428EC12457D6CD9DDB5EF582C4BE24E206F4BFE9011795FD329B6C5BD4BD",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-19H85",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14393387M/1/OptiPlex-7010-SFF-19H85_Win11_1.0_A14.exe",
+      "size_bytes": 1940404648,
+      "md5": "313229B641CB8CDA980CC19D54EE1F00",
+      "sha256": "A53CD632535161990E8168ABFEABE0797649DB467A7E237EC07AB499B464D70B",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

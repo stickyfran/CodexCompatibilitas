@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3530-0820",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3530",
+  "system_id": "0820",
+  "dmi_matches": [
+    "Precision 3530",
+    "0820"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RVGFR",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07340435M/1/3530-Win10-A13-RVGFR.CAB",
+      "size_bytes": 1284014664,
+      "md5": "F2FA888F4487650C0599D30BBE98F5EF",
+      "sha256": "B141589B0C1872FA02E4CBEB95FB559A2D7B998F7A044B5EF14B92E6FBF8D62E",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    },
+    {
+      "name": "DellPack-F0GK4",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09089346M/1/3530-F0GK4_Win11_1.0_A00.exe",
+      "size_bytes": 1860006608,
+      "md5": "8860A581407F471B48B719E6A621F4CF",
+      "sha256": "A99424BF43F874A851B979297345C465B36D0379BC72FB95D45FAF0033B9640C",
+      "version": null,
+      "release_date": "2022-10-27T10:57:08"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,95 @@
+{
+  "id": "lenovo-thinkpad-x1-tablet-type-20jb-20jc",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Tablet Type 20JB 20JC",
+  "system_id": "20JB,20JC",
+  "dmi_matches": [
+    "20JB",
+    "20JC"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_gen2_w1064_1703_201705.exe",
+      "size_bytes": null,
+      "md5": "413a16aba5d12007e6b71503bfd38c0e",
+      "sha256": "7a733e57e8396ed02259e715e7c866439ca5c4744ec3859d3dd889f5baf3a619",
+      "version": null,
+      "release_date": "2017-05-31"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_gen2_w1064_1709_201803.exe",
+      "size_bytes": null,
+      "md5": "3cc17b3f82e449f13c3125dcd17fcefd",
+      "sha256": "9a0434cadf3b24d1600723375ad03a333d31bc3ddabb12f5672a7b82e5a689df",
+      "version": null,
+      "release_date": "2018-03-29"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_gen2_w1064_1803_201809.exe",
+      "size_bytes": null,
+      "md5": "82a1e684b385682185e03209d7c80320",
+      "sha256": "bad1e107c97bc494266027c976207c4406cc0aa6f706ce15977711a393429ed6",
+      "version": null,
+      "release_date": "2018-09-28"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_gen2_w1064_1809_201812.exe",
+      "size_bytes": null,
+      "md5": "fe43278e402771ca66e71af2729f90f5",
+      "sha256": "a7c793c45a15e82d1a6b87f188285f03dfd4045e3811eaeebe9b584d5f69c9b8",
+      "version": null,
+      "release_date": "2018-12-26"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_gen2_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "529d924ce374e2c2f9c8487eaba7fa41",
+      "sha256": "34ae139e579039aec805c261ba83caabf6a98fabc5973ff3bfecc1285fb05fb3",
+      "version": null,
+      "release_date": "2020-12-21"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_gen2_w1064_1909_201911.exe",
+      "size_bytes": null,
+      "md5": "90b65fe626307016ca20e657393aed51",
+      "sha256": "4211bbae0103bd3dfc4798257900b3e06b71e34ad13b180303eed8eedd3d3c0b",
+      "version": null,
+      "release_date": "2019-11-28"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_gen2_w1064_2004_202012.exe",
+      "size_bytes": null,
+      "md5": "76ef88770469d2142a40c6c6f97bc7e4",
+      "sha256": "5f865a6c88453d103c6ffbd06abfc8ebb5894c5efb506c912bca2c3b50c1aaa8",
+      "version": null,
+      "release_date": "2020-05-26"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_gen2_w1064_20h2_202011.exe",
+      "size_bytes": null,
+      "md5": "9464714aadf3ca15155655e3f9ff11de",
+      "sha256": "7619c36427da8295f4ca3b55ca0cde882032c4180387ec2e1a1700fb92dd0c55",
+      "version": null,
+      "release_date": "2020-12-01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

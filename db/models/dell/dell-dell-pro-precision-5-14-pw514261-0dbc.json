@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-precision-5-14-pw514261-0dbc",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Precision 5 14 PW514261",
+  "system_id": "0DBC",
+  "dmi_matches": [
+    "Dell Pro Precision 5 14 PW514261",
+    "0DBC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CNPC0",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14826419M/1/PW514261-CNPC0_Win11_1.0_A01.exe",
+      "size_bytes": 2062585920,
+      "md5": "1DA42587603CA01589EFD544AF12D3E5",
+      "sha256": "5529A8AB293246D3AC276838440F393E008AA462D3DFDB7D0CBCFE8789C3EB8C",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

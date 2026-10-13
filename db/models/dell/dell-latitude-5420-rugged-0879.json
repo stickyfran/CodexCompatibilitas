@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-5420-rugged-0879",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5420 Rugged",
+  "system_id": "0879",
+  "dmi_matches": [
+    "Latitude 5420 Rugged",
+    "0879"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7PYRM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07409301M/1/5420-win10-A10-7PYRM.CAB",
+      "size_bytes": 1187635657,
+      "md5": "65746EF32FF2491B2431FA09C9F01870",
+      "sha256": "AA9888D2DDE246F09AA9A8AE97F985872935D6CD62EDB730440220C3239919E1",
+      "version": null,
+      "release_date": "2021-08-05T10:39:39"
+    },
+    {
+      "name": "DellPack-3N6MK",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER07432869M/1/5420-win7-A09-3N6MK.CAB",
+      "size_bytes": 533404849,
+      "md5": "29D7E3BC01FF1E231B40E481B0714DD2",
+      "sha256": "93EEA99AA91A59EEC2A6830BE1C3D9C6839E0C871984FDEC581D9AEC65E4512B",
+      "version": null,
+      "release_date": "2021-08-05T10:39:39"
+    },
+    {
+      "name": "DellPack-6MXM3",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09896817M/1/Latitude-5420-Rugged-6MXM3_Win11_1.0_A00.exe",
+      "size_bytes": 1560807160,
+      "md5": "47AFFFD6E759A85FA8820C16003A3D6D",
+      "sha256": "44646F9A6142B51257D2BE3BDE1480607280E3B2695BA03FD70CB06433D341FD",
+      "version": null,
+      "release_date": "2023-04-27T05:36:32"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

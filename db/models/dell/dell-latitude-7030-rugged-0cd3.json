@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7030-rugged-0cd3",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7030 Rugged",
+  "system_id": "0CD3",
+  "dmi_matches": [
+    "Latitude 7030 Rugged",
+    "0CD3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y9J8J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12950280M/1/Latitude-7030-Rugged-Y9J8J_Win10_1.0_A07.exe",
+      "size_bytes": 2590171960,
+      "md5": "9AF58AD2754BC553DAB64E16AE081A32",
+      "sha256": "FFD07D5F6519B03CFE0B2B42F84E0C2D15038DD43476EE5FB1B82F87E7D8A33F",
+      "version": null,
+      "release_date": "2025-06-11T01:27:22"
+    },
+    {
+      "name": "DellPack-VPY4R",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14387597M/1/Latitude-7030-Rugged-VPY4R_Win11_1.0_A12.exe",
+      "size_bytes": 1424468544,
+      "md5": "8CA062D1F1410B9AF063A62472A58B19",
+      "sha256": "83E811D5A66AD62E2A008B43AD941FEC5C6D741D46224E81CE241417339CCA5F",
+      "version": null,
+      "release_date": "2026-05-14T01:40:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

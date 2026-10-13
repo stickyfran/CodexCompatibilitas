@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-7480-07a0",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7480",
+  "system_id": "07A0",
+  "dmi_matches": [
+    "Latitude 7480",
+    "07A0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CJP34",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06179364M/1/7480-win7-A11-CJP34.CAB",
+      "size_bytes": 799688169,
+      "md5": "4DB2D44CB6EBF6B7C6838FC427E8069D",
+      "sha256": "D9135C52313C118B8B3A61F73E0176A50F9A90CC9A6CA06A0536C8B167A05E9F",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-6F13F",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04617207M/1/7480-win8.1-A01-6F13F.CAB",
+      "size_bytes": 479607108,
+      "md5": "B2F10C2E795392B886CA349C4A07B785",
+      "sha256": "7B361E4CE22A64F6F09077AFD7E77198D9776C462EB6D6F040BAEFEE832E0DB2",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    },
+    {
+      "name": "DellPack-01KR1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11121027M/1/Latitude-7480-01KR1_Win10_1.0_A16.exe",
+      "size_bytes": 851113688,
+      "md5": "03D9ADE0449153A9FAF65DE88D3EDDC4",
+      "sha256": "41ECDC5B5D0632A9E0D715BD120C1C841A9363BD8E586FC0453DE5BE4370C19B",
+      "version": null,
+      "release_date": "2024-01-22T07:15:21"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-7040-06b9",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7040",
+  "system_id": "06B9",
+  "dmi_matches": [
+    "OptiPlex 7040",
+    "06B9"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-G65J8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06522386M/1/7040-Win10-A14-G65J8.CAB",
+      "size_bytes": 1096685889,
+      "md5": "9A64293EF8E1164BB0785F280107A305",
+      "sha256": "661DA60F68160733DEBB43F749D3EE2D051E8E08CEFB2612A5B129F115C7633A",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-XTP89",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05391302M/1/7040-win7-A11-XTP89.CAB",
+      "size_bytes": 1636235307,
+      "md5": "36428754046F22CB3D227CA8BD0FA29B",
+      "sha256": "27FCE5219513385019CA4B57582B51EEA9E3D9AC06A12540E85EB3D166E6F0A3",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-J2JHK",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03763454M/1/7040-win8.1-A03-J2JHK.CAB",
+      "size_bytes": 661072665,
+      "md5": "853E9B5CDABC8650F9060EFD93E88F7B",
+      "sha256": "2A618E8BFF8828913BDD690E3C68C548B79E2BF361CFCEA9E3366D7051D1EC21",
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

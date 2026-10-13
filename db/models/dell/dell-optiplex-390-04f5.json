@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-390-04f5",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 390",
+  "system_id": "04F5",
+  "dmi_matches": [
+    "OptiPlex 390",
+    "04F5"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-F9DJN",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER01857328M/1/390-vista-A01-F9DJN.CAB",
+      "size_bytes": 294059319,
+      "md5": "8E9EF585A0C8E21B9B9FD67A1C1F5776",
+      "sha256": "DD0DBFA0B8E1D9FB7F0C480C7DEBC9EEAC3D1EA67EF4EBE87BE8E5EEEF38C74F",
+      "version": null,
+      "release_date": "2013-11-22T00:00:00"
+    },
+    {
+      "name": "DellPack-V499W",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER01836613M/1/390-win7-A01-V499W.CAB",
+      "size_bytes": 193928331,
+      "md5": "8C531A959C3463B83F7DFD241683E3A5",
+      "sha256": "BEBF6EB5F5FFEB816E56D074D58356739EC4685661D05CD6DDC3CC2251ACF53E",
+      "version": null,
+      "release_date": "2013-11-12T00:00:00"
+    },
+    {
+      "name": "DellPack-T8T9P",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER01854890M/1/390-xp-A01-T8T9P.CAB",
+      "size_bytes": 57263584,
+      "md5": "EEB24842B20F53681848589AEC0F6F12",
+      "sha256": "097DB20176B318E14619E7804E89B92CB1218B4937274F66A598A83DCEBC0453",
+      "version": null,
+      "release_date": "2013-11-22T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

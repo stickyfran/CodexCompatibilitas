@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elitebook-645-14-inch-g11-notebook-pc-8c7a",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 645 14 inch G11 Notebook PC",
+  "system_id": "8C7A",
+  "dmi_matches": [
+    "8C7A",
+    "HP EliteBook 645 14 inch G11 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp160200-HP ProBook/EliteBook 4/6x5 G11 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160200.exe",
+      "size_bytes": 1277070824,
+      "md5": "B00E02FBF0FF91A27BB4BB4E97DEC9E6",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "12/1/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp153445-HP ProBook/EliteBook 4/6x5 G11 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp153001-153500/sp153445.exe",
+      "size_bytes": 982367240,
+      "md5": "7be949d3ad8feb9990f5a21f0f1b7e13",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/25/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp174364-HP ProBook/EliteBook 4/6x5 G11 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174001-174500/sp174364.exe",
+      "size_bytes": 1194666616,
+      "md5": "69539AECDBC1246F6EC69431C35AFF76",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "8/17/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

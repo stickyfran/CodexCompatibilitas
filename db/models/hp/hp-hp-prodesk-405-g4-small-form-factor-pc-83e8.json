@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-prodesk-405-g4-small-form-factor-pc-83e8",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 405 G4 Small Form Factor PC",
+  "system_id": "83e8",
+  "dmi_matches": [
+    "83e8",
+    "HP ProDesk 405 G4 Small Form Factor PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp100259-HP ProDesk 405 G4 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100259.exe",
+      "size_bytes": 847213848,
+      "md5": "7a126f3aea6f6736549fbf1510f8c41d",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "11/26/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101806-HP ProDesk 405 G4 SFF Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101806.exe",
+      "size_bytes": 831201696,
+      "md5": "e8763b7212d1c0d57f47646e1dd99b3b",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "3/2/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110349-HP ProDesk 405 G4 SFF Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110349.exe",
+      "size_bytes": 1021390624,
+      "md5": "b92ccd53efbdb529351b418811e6a772",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/5/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114259-HP ProDesk 405 G4 SFF Win 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114259.exe",
+      "size_bytes": 1112690824,
+      "md5": "2a2cc4abcb146dda2ad93d5a3a3d57f5",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "6/24/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

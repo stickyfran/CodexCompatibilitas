@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-450-15.6-inch-g10-notebook-pc-8b7c",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 450 15.6 inch G10 Notebook PC",
+  "system_id": "8B7C",
+  "dmi_matches": [
+    "8B7C",
+    "HP ProBook 450 15.6 inch G10 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp147514-HP EB/PB/ZH 6x0/4x0/Pro G10/G6 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147514.exe",
+      "size_bytes": 1660192312,
+      "md5": "05e7dd20cf84aafff3ec74a938325ff1",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/1/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149120-HP EliteBook/ProBook 6x0/4x0 G10 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149120.exe",
+      "size_bytes": 1614352832,
+      "md5": "8835eca05048ca85305a0076a258131b",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/20/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158202-HP EB/PB/ZH 6x0/4x0/Pro G10/G6 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158202.exe",
+      "size_bytes": 2173984456,
+      "md5": "B167126113B86ACF2AA68C18E74C05A4",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "11/26/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp170014-HP EB/PB/ZH 6x0/4x0/Pro G10/G6 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170014.exe",
+      "size_bytes": 2657464456,
+      "md5": "B8C4F2B44E1E7EF676B63C1CACF66D90",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "1/19/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

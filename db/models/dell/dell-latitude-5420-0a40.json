@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5420-0a40",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5420",
+  "system_id": "0A40",
+  "dmi_matches": [
+    "Latitude 5420",
+    "0A40"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KFYCW",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11785325M/1/Latitude-5420-KFYCW_Win10_1.0_A18.exe",
+      "size_bytes": 2381879552,
+      "md5": "D7CA07D3B0773464431115376E0FC2F7",
+      "sha256": "FA653EBC5CDAF0544839CADC2BC59F343E93D499F8E9746C2CFD1FFCB888F9F2",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-X8RTR",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11785360M/1/Latitude-5420-X8RTR_Win11_1.0_A13.exe",
+      "size_bytes": 2382161408,
+      "md5": "6FB01955584D54F78022B988271BFB54",
+      "sha256": "125840F06511DE0EEAEBD501F16E5716FD29AE66B91A9A9756BEE2F9B93691B1",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

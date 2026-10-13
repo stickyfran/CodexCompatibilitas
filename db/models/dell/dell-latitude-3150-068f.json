@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3150-068f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3150",
+  "system_id": "068F",
+  "dmi_matches": [
+    "Latitude 3150",
+    "068F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-R27P9",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04306795M/1/3150-win10-A04-R27P9.CAB",
+      "size_bytes": 271103894,
+      "md5": "15C33C277E48F0A08DEC3F05A308F3FC",
+      "sha256": "EB8CEC2AB2188E79F7A60D5A48F0443C9F7955A60ED6351436EC02119F2E3E5C",
+      "version": null,
+      "release_date": "2017-05-09T00:00:00"
+    },
+    {
+      "name": "DellPack-WRH4J",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER04306823M/1/3150-win7-A08-WRH4J.CAB",
+      "size_bytes": 265648965,
+      "md5": "58A104FBF27AD3E4DB4F1C5F5D87974D",
+      "sha256": "B3D32746FC290C8A32BDACA841A0B13F7AEEEC20EE65D48E54DE4F05BB75AEAA",
+      "version": null,
+      "release_date": "2017-05-09T00:00:00"
+    },
+    {
+      "name": "DellPack-TY0X8",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03511963M/1/3150-win8.1-A03-TY0X8.CAB",
+      "size_bytes": 253094421,
+      "md5": "31794CA20B0D716F79FE402028BD6A28",
+      "sha256": "51DBC11B1B339D3AA09830910D889FF6937BC8E27C20CC6862CEBC6794EA01AC",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

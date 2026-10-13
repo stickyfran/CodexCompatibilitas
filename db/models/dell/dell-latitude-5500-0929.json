@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5500-0929",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5500",
+  "system_id": "0929",
+  "dmi_matches": [
+    "Latitude 5500",
+    "0929"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0X9Y6",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08730639M/1/5500-win10-A15-0X9Y6.CAB",
+      "size_bytes": 1482466903,
+      "md5": "E073CC4185E265BE0DEC652B55B6DFA0",
+      "sha256": "88E9DCA5CB5C3488AC132053CDC6EDABCC647767D4CCFF4B8BA513D7CE7FD13A",
+      "version": null,
+      "release_date": "2022-07-12T09:10:11"
+    },
+    {
+      "name": "DellPack-FPHN9",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10605844M/1/5500-FPHN9_Win11_1.0_A00.exe",
+      "size_bytes": 1797406360,
+      "md5": "0DF0FCED2D9685C71FBC1384114BBA77",
+      "sha256": "742E7A5C74A896707A3A9ED8F623EC684FA10CD642B0003EBBF1F71679788EE3",
+      "version": null,
+      "release_date": "2023-10-27T05:18:49"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

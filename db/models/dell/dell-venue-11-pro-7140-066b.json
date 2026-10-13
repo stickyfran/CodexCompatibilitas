@@ -1,0 +1,35 @@
+{
+  "id": "dell-venue-11-pro-7140-066b",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Venue 11 Pro 7140",
+  "system_id": "066B",
+  "dmi_matches": [
+    "Venue 11 Pro 7140",
+    "066B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XNGHF",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04843753M/1/7140-win10-A06-XNGHF.CAB",
+      "size_bytes": 327920916,
+      "md5": "329DF3D4F3B8562688504A534B4F1512",
+      "sha256": "0A43006A441756F013DD1E29897091DCB762216968346DE986EF35B9AF687516",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-2R3GJ",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03476108M/1/7140-win8.1-A03-2R3GJ.CAB",
+      "size_bytes": 244428832,
+      "md5": "C1943DD7F7149C29CD69B6CB3A0DEFF3",
+      "sha256": "03DBC58AACF2E41E943C6EE9D8D1526159CFC01FC3F3798C1B144AF9A5C5F299",
+      "version": null,
+      "release_date": "2016-01-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

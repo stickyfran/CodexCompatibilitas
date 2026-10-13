@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5540-0906",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5540",
+  "system_id": "0906",
+  "dmi_matches": [
+    "Precision 5540",
+    "0906"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-C87NP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07961303M/1/5540-win10-A11-C87NP.CAB",
+      "size_bytes": 1570941235,
+      "md5": "2E420B2A2E530BC0CE6DA96B091B9A87",
+      "sha256": "1A568F2380D3891B09E8B0A744DBFA12FBF2DA15AAA0D4F7AC0ACA808230AF79",
+      "version": null,
+      "release_date": "2022-01-05T14:28:04"
+    },
+    {
+      "name": "DellPack-H0FP3",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08165790M/1/5540-win11-A00-H0FP3.CAB",
+      "size_bytes": 1582505187,
+      "md5": "B0C6A69312858D497BD01D693647654C",
+      "sha256": "B3304785EBEDE8E4F3D4A218F03A03192BDC71762E6A0EA75C0B16232A155601",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

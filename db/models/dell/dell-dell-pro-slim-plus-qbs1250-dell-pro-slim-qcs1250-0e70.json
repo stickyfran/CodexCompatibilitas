@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-slim-plus-qbs1250-dell-pro-slim-qcs1250-0e70",
+  "vendor": "Dell",
+  "family": "Dell Pro Desktops",
+  "model_name": "Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+  "system_id": "0E70",
+  "dmi_matches": [
+    "Dell Pro Slim Plus QBS1250/Dell Pro Slim QCS1250",
+    "0E70"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HJTM6",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14643760M/1/QxS1250-HJTM6_Win11_1.0_A06.exe",
+      "size_bytes": 4139590424,
+      "md5": "6C4181F2FF8D8DA4DBAE85CBF5FE7BEA",
+      "sha256": "453B12EA91D9C03CA0345F0F6CAB0E6737743EB7B04FA8504387BDED8512E256",
+      "version": null,
+      "release_date": "2026-07-28T04:57:01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

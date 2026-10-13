@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-x360-11-g7-education-edition-887d",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G7 Education Edition",
+  "system_id": "887d",
+  "dmi_matches": [
+    "887d",
+    "HP ProBook x360 11 G7 Education Edition"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp112210-HP ProBook x360 11 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112210.exe",
+      "size_bytes": 538373680,
+      "md5": "fdd8b206dd8f0912e9b03931fe04b795",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "1/19/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp113444-HP ProBook x360 11 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113001-113500/sp113444.exe",
+      "size_bytes": 983638376,
+      "md5": "103926f46e3af3ead9f46cecea6bb4cf",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "4/22/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138311-HP ProBook x360 11 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138001-138500/sp138311.exe",
+      "size_bytes": 1169577312,
+      "md5": "76de0d8b9a61300be65f8eaa1e49ac82",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/8/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp136241-HP ProBook x360 11 G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp136001-136500/sp136241.exe",
+      "size_bytes": 1157406744,
+      "md5": "c5e581fbde97d2960ac2ed3e57204947",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/18/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

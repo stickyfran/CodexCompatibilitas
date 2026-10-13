@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7760-0a6a",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7760",
+  "system_id": "0A6A",
+  "dmi_matches": [
+    "Precision 7760",
+    "0A6A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RN8RG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11563937M/1/Precision-7760-RN8RG_Win10_1.0_A11.exe",
+      "size_bytes": 2329508216,
+      "md5": "B8AB238559462D5B821A06088BC60F5D",
+      "sha256": "20E1EBD53E271FBAE59C9678D142B25F061F8651C44555DEB48CA473145010F8",
+      "version": null,
+      "release_date": "2024-05-13T01:58:46"
+    },
+    {
+      "name": "DellPack-R70JC",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11563936M/1/Precision-7760-R70JC_Win11_1.0_A08.exe",
+      "size_bytes": 2196071216,
+      "md5": "FD5A500885A573F396702666449BAB26",
+      "sha256": "99F895AA16BC548ECB3F3F9FD216BDA7CB825B675A9BB5AF99FCA098790F8473",
+      "version": null,
+      "release_date": "2024-05-13T01:58:46"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,85 @@
+{
+  "id": "hp-hp-prodesk-400-g5-small-form-factor-pc-83f2",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ProDesk 400 G5 Small Form Factor PC",
+  "system_id": "83f2",
+  "dmi_matches": [
+    "83f2",
+    "HP ProDesk 400 G5 Small Form Factor PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp85217-HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp85001-85500/sp85217.exe",
+      "size_bytes": 919984744,
+      "md5": "4995b14818f9bf011f8560c52fb5661f",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "1/31/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp86888-HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp86501-87000/sp86888.exe",
+      "size_bytes": 753219208,
+      "md5": "65fde438dc21b5f8f81de262410db968",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "7/31/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95455-HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95455.exe",
+      "size_bytes": 722719408,
+      "md5": "9428c86bea02237c1784186e0bb5be2a",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99723-HP ProDesk 4x0 G5 SFF/MT Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99723.exe",
+      "size_bytes": 816261432,
+      "md5": "57cca03f4faf25b7afcad951e8d332e5",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "10/21/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101758-HP ProDesk 4x0 G5 SFF/MT Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101758.exe",
+      "size_bytes": 759805984,
+      "md5": "8c7326fafeb107739327e976cee2968a",
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "2/26/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103579-HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103579.exe",
+      "size_bytes": 773112816,
+      "md5": "b7a592af86e0a35b516ab41630503eb9",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114246-HP ProDesk 4x0 G5 SFF/MT Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114246.exe",
+      "size_bytes": 1488636064,
+      "md5": "57143ed172cb829247de51069e940ae5",
+      "sha256": null,
+      "version": "13.00 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

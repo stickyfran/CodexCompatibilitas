@@ -1,0 +1,13 @@
+{
+  "id": "asus-proart-p16-h7606",
+  "vendor": "ASUS",
+  "family": "ProArt",
+  "model_name": "Proart P16 H7606",
+  "system_id": "H7606",
+  "dmi_matches": [
+    "H7606"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

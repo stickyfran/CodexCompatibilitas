@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-5450-0645",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5450",
+  "system_id": "0645",
+  "dmi_matches": [
+    "Latitude 5450",
+    "0645"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0K2C6",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER06563763M/1/E5450_5450-win10-A09-0K2C6.CAB",
+      "size_bytes": 1198698401,
+      "md5": "A9EBF63D9F502045336ECDF3A1B7547E",
+      "sha256": "8B14D75BBEF97288F20621CD36B0879444B05104AF6FC8F33EC3DADBF460948C",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-YC2XC",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04847476M/1/E5450_5450-win7-A11-YC2XC.CAB",
+      "size_bytes": 811495347,
+      "md5": "93657B1D6D2A9E0A91502FA63A30C0E5",
+      "sha256": "18E8E33ECF9772E231AF24AFD757F0E06AB40CDE2AFEA324FC1A16A4C651DEF1",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-5KFCX",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03481194M/1/E5450_5450-Win8.1-A05-5KFCX.CAB",
+      "size_bytes": 445056619,
+      "md5": "4E2E5D4AE851621AAB0E75AC56EC27EB",
+      "sha256": "0DA16B7447ACA8ADEB7FCB6CB03AA124715FA8A434F852D01DE53B01E197C403",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-precision-9-t2-pw9t2260-0d98",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Desktops",
+  "model_name": "Dell Pro Precision 9 T2 PW9T2260",
+  "system_id": "0D98",
+  "dmi_matches": [
+    "Dell Pro Precision 9 T2 PW9T2260",
+    "0D98"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WXDX8",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14884173M/1/PW9T2260-WXDX8_Win11_1.0_A02.exe",
+      "size_bytes": 2572572704,
+      "md5": "651303827E4CDFFA61103D61AA84E2F5",
+      "sha256": "A74CA1BF50050C61A1106DF982413E18FE9F902D32203767CBD71CA6ECE3985D",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

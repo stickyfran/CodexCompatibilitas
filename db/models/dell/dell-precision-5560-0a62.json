@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5560-0a62",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5560",
+  "system_id": "0A62",
+  "dmi_matches": [
+    "Precision 5560",
+    "0A62"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HVHFK",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10276505M/1/Precision-5560-HVHFK_Win10_1.0_A11.exe",
+      "size_bytes": 2787412032,
+      "md5": "FAC146A994949275A5F7956CBE887FF2",
+      "sha256": "FE03AED539DBE26835A1080392FE8AB0A119A88CE54660821897CA2EDB122D32",
+      "version": null,
+      "release_date": "2023-07-06T23:45:27"
+    },
+    {
+      "name": "DellPack-9KJTW",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10276508M/1/Precision-5560-9KJTW_Win11_1.0_A04.exe",
+      "size_bytes": 2768631536,
+      "md5": "1A216E992D6567E61EF0743600FFB165",
+      "sha256": "CD0B4141A6D21B7B6E6B85BD619DA388DCF96B5A9EAA5CF00F067F878BB97E8A",
+      "version": null,
+      "release_date": "2023-07-06T23:45:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

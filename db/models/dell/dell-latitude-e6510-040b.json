@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e6510-040b",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6510",
+  "system_id": "040B",
+  "dmi_matches": [
+    "Latitude E6510",
+    "040B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9KKYW",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02289534M/1/E6510-vista-A04-9KKYW.CAB",
+      "size_bytes": 296967818,
+      "md5": "541488FF52207168E92764D605ECC234",
+      "sha256": "BCD624D11CD7EF08E268CC4315AA652470F203C284E08E19ECC078F60DEFB7EA",
+      "version": null,
+      "release_date": "2014-07-16T00:00:00"
+    },
+    {
+      "name": "DellPack-5KV7R",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02123827M/1/E6510-win7-A12-5KV7R.CAB",
+      "size_bytes": 718474852,
+      "md5": "DE0B95C00000727ED721FC6F6FC35E24",
+      "sha256": "3BC5C7040CCDD835C2D78823DB7BCCCBBBAD2191F2CBE87924B5330CCEBE63F9",
+      "version": null,
+      "release_date": "2014-07-18T00:00:00"
+    },
+    {
+      "name": "DellPack-WX1YK",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02123899M/1/E6510-xp-A16-WX1YK.CAB",
+      "size_bytes": 590999267,
+      "md5": "0E91FDF9D3601A10FA3465881F40C321",
+      "sha256": "706F2152C240EFC8706D2A1FE895C48C0310727032AE83DDA98F8C33D61CA1C0",
+      "version": null,
+      "release_date": "2014-07-18T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

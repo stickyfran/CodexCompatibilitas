@@ -1,0 +1,75 @@
+{
+  "id": "hp-hp-probook-645-g4-notebook-pc-8401",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 645 G4 Notebook PC",
+  "system_id": "8401",
+  "dmi_matches": [
+    "8401",
+    "HP ProBook 645 G4 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp84351-HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84001-84500/sp84351.exe",
+      "size_bytes": 592765928,
+      "md5": "fab16fc00c4eb2e44532262966807f9f",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "12/20/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp91601-HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp91501-92000/sp91601.exe",
+      "size_bytes": 575707480,
+      "md5": "365676fd24d21dc79c6c05b8e42d60fb",
+      "sha256": null,
+      "version": "2.01 A 1",
+      "release_date": "8/15/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp93537-HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93501-94000/sp93537.exe",
+      "size_bytes": 725158808,
+      "md5": "3b2acf9e07a8b4d6c6ce485623ff1e7a",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "1/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99719-HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99719.exe",
+      "size_bytes": 814213376,
+      "md5": "2196cca0455bd7befb71b8d935bf8346",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "12/9/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp103626-HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103626.exe",
+      "size_bytes": 939346512,
+      "md5": "02ee1fa293c350f855c7bc44d4d1680b",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114239-HP Probook 6x5 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114239.exe",
+      "size_bytes": 1193956376,
+      "md5": "8d86c2180cfc39029ed7ec1b936ee639",
+      "sha256": null,
+      "version": "10.00 A 1",
+      "release_date": "6/22/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

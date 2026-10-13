@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-elitedesk-8-mini-g2a-desktop-next-gen-ai-pc-8f12",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 8 Mini G2a Desktop Next Gen AI PC",
+  "system_id": "8F12",
+  "dmi_matches": [
+    "8F12",
+    "HP EliteDesk 8 Mini G2a Desktop Next Gen AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp174543-HP EliteDesk 8 Mini G2a Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174543.exe",
+      "size_bytes": 1197038640,
+      "md5": "C48A30AD3F5A85C11596F98CBBD010F8",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/2/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

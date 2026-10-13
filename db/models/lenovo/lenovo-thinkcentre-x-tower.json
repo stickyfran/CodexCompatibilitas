@@ -1,0 +1,29 @@
+{
+  "id": "lenovo-thinkcentre-x-tower",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre X TOWER",
+  "system_id": "13ME,13LF,13MF,13LE,13LD,13K4",
+  "dmi_matches": [
+    "13ME",
+    "13LF",
+    "13MF",
+    "13LE",
+    "13LD",
+    "13K4"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_xt_w11_25_202603.exe",
+      "size_bytes": null,
+      "md5": "1af2f9356e8916970683c8f2c38663a4",
+      "sha256": "4b75e474e2cb0e27d3e8daef8802fbc3d4aaeb079f893e68d3fafb8e8454bb68",
+      "version": null,
+      "release_date": "2026-03-31"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

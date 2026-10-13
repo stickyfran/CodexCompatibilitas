@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-13-9300-096d",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9300",
+  "system_id": "096D",
+  "dmi_matches": [
+    "XPS 13 9300",
+    "096D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-MXCVY",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09847729M/1/9300-MXCVY_Win10_1.0_A13.exe",
+      "size_bytes": 1394732704,
+      "md5": "8762738707ED88E16C1F3C0717CD3123",
+      "sha256": "1241B873EBAFE237FD52D18D564B4D1F5C782519869C9259887E5B8EA97D5A3C",
+      "version": null,
+      "release_date": "2023-06-01T07:55:27"
+    },
+    {
+      "name": "DellPack-078XJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09847981M/1/9300-078XJ_Win11_1.0_A02.exe",
+      "size_bytes": 1395529688,
+      "md5": "5345BFD8185F9E2467A8C2DA20A377AD",
+      "sha256": "5A3D3F7CA1AD128D57E5DB836E53AC52E4A5B1235597C72AC2300747E7DCA15D",
+      "version": null,
+      "release_date": "2023-06-01T07:55:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

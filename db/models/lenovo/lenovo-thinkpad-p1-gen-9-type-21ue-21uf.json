@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-p1-gen-9-type-21ue-21uf",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P1 Gen 9 Type 21UE 21UF",
+  "system_id": "21UF,21UE",
+  "dmi_matches": [
+    "21UF",
+    "21UE"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21ue-21uf_t1g_mt21ug-21uh_w11_24_202607.exe",
+      "size_bytes": null,
+      "md5": "4c7c5db05ba53df173279b0e4156cb74",
+      "sha256": "1ff23e203d4af61be54dc0981e7e80ca5ad5ffa4d2541e16e82a54531a749529",
+      "version": null,
+      "release_date": "2026-07-22"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p1_mt21ue-21uf_t1g_mt21ug-21uh_w11_25_202607.exe",
+      "size_bytes": null,
+      "md5": "5b47596ba930605383f8e8ced3046194",
+      "sha256": "85f23e25dfe19d6c8dc7c4e2822f4000488f73f610479e66af5821a106570b8f",
+      "version": null,
+      "release_date": "2026-07-22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

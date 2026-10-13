@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-13-plus-pb13255-0d47",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 13 Plus PB13255",
+  "system_id": "0D47",
+  "dmi_matches": [
+    "Dell Pro 13 Plus PB13255",
+    "0D47"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PHX4M",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14722263M/1/PB13255-PHX4M_Win10_1.0_A07.exe",
+      "size_bytes": 718895456,
+      "md5": "2F85F7B36F8A035EAEFF2B74E98DEC93",
+      "sha256": "A54ADC66FC11308860DABC67282290A729ABF99234A31540DE5D6F75B53BC494",
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    },
+    {
+      "name": "DellPack-FK9DT",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14722280M/1/PB13255-FK9DT_Win11_1.0_A07.exe",
+      "size_bytes": 757048040,
+      "md5": "C7F2F524C172DC6DA10A5579DDA430B8",
+      "sha256": "EFF66EEF9A9B42D7EB0F024A199F4338A3022AF73984829D824C40BED5982A25",
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

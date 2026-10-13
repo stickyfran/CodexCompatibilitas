@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-7214-071d",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7214",
+  "system_id": "071D",
+  "dmi_matches": [
+    "Latitude 7214",
+    "071D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7J3NP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05383060M/1/7214-Win10-A08-7J3NP.CAB",
+      "size_bytes": 469544974,
+      "md5": "8E627E70340A3A0F774F0600FB4727BA",
+      "sha256": "E74186BA5A854335573D7C789BD0605DDA15BB0902482FA076444FABBA01BA72",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-FH3RP",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05383160M/1/7214-Win7-A08-FH3RP.CAB",
+      "size_bytes": 654007028,
+      "md5": "B34058CABF77F92B703F0CD9088596F8",
+      "sha256": "C2E62FFE41D2EA91DF5F40EEA7BAF1764260096BCE0085DF0879A28A84AEEBF9",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-YH8M3",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04357570M/1/7214-Win8.1-A02-YH8M3.CAB",
+      "size_bytes": 274362399,
+      "md5": "80B6DE001045095915DD187C1F873B24",
+      "sha256": "900A1AE56811275B527A5C1C788F53EFAACE4A400371388776091798A98C9D65",
+      "version": null,
+      "release_date": "2017-08-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

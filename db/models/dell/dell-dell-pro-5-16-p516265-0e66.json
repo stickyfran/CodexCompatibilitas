@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-5-16-p516265-0e66",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 5 16 P516265",
+  "system_id": "0E66",
+  "dmi_matches": [
+    "Dell Pro 5 16 P516265",
+    "0E66"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5FJYF",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14857814M/1/P516265-5FJYF_Win11_1.0_A01.exe",
+      "size_bytes": 1057113800,
+      "md5": "CB18FEE74F60CC5540CBFB83E41E0EB8",
+      "sha256": "9DA6B0D0D24835C7483A86BBE8A0E631BC44600C457B7C92AF73C8FD70194482",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

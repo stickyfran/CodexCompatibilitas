@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7550-09c3",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7550",
+  "system_id": "09C3",
+  "dmi_matches": [
+    "Precision 7550",
+    "09C3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-29PY5",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10173661M/1/7550-29PY5_Win10_1.0_A12.exe",
+      "size_bytes": 3386872464,
+      "md5": "ED771162A4018528EB96F578C7D9970C",
+      "sha256": "521FE7673ACEAA867159D5F8AB1506943F757C09690864CA542D3F3C0E3F09DD",
+      "version": null,
+      "release_date": "2023-07-18T08:51:06"
+    },
+    {
+      "name": "DellPack-VT1X2",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10175846M/1/7550-VT1X2_Win11_1.0_A03.exe",
+      "size_bytes": 2765003728,
+      "md5": "6C5DAB1B800F256E3173D42BBDD650DC",
+      "sha256": "829FF363C3999B542A8AF9813AD601EB51D3F633D465169C3C18E3D02D629456",
+      "version": null,
+      "release_date": "2023-07-18T08:51:06"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

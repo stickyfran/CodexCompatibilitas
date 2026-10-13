@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkstation-p510",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P510",
+  "system_id": "30B5,30B4",
+  "dmi_matches": [
+    "30B5",
+    "30B4"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p410p510p710p910_w1064_201706.exe",
+      "size_bytes": null,
+      "md5": "328a8ee91527b3f9655349994a5ec52e",
+      "sha256": "1bfc05986a39e628a54f9c80424b0842859f04d289cc04922a94d044a8b94f6c",
+      "version": null,
+      "release_date": "2017-06-22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

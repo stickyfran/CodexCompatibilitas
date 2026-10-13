@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-m3800-060d",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M3800",
+  "system_id": "060D",
+  "dmi_matches": [
+    "Precision M3800",
+    "060D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7K2W2",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04904244M/1/M3800-win10-A02-7K2W2.CAB",
+      "size_bytes": 708712893,
+      "md5": "180467DF950F8E9FEDD91C1D923D82E5",
+      "sha256": "ECE0ED34C7EA70A9217C5889A32C3EF6E1D2FC11B6655602AB8DC6AB049DB76D",
+      "version": null,
+      "release_date": "2018-04-17T00:00:00"
+    },
+    {
+      "name": "DellPack-1FPVC",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER03411890M/1/M3800-win7-A07-1FPVC.CAB",
+      "size_bytes": 659304733,
+      "md5": "04D2F7B29F185EECDBDE1C392DF58302",
+      "sha256": "F0F0CBECA40D863B58BCC58C53F0817E754E16656FCBB5C63F52A519AD37E7DB",
+      "version": null,
+      "release_date": "2015-12-08T00:00:00"
+    },
+    {
+      "name": "DellPack-TRD77",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03511821M/1/M3800-win8.1-A06-TRD77.CAB",
+      "size_bytes": 517134027,
+      "md5": "F4C49CD217D7F7F5E325EBF1326ECCB5",
+      "sha256": "E77DE951D06485A21DE719C8812D559E9DDB11C4E1C5B1B82D688BF1EFDC8898",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

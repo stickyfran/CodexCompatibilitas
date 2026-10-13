@@ -1,0 +1,57 @@
+{
+  "id": "hp-hp-probook-430-g8-notebook-pc-8a73",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 430 G8 Notebook PC",
+  "system_id": "8A73,8A83,87DF",
+  "dmi_matches": [
+    "8A73",
+    "8A83",
+    "87DF",
+    "HP ProBook 430 G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp110423-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110423.exe",
+      "size_bytes": 1626029912,
+      "md5": "eac4fa200e17e9aff2d36fd44f5b851d",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/12/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114062-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114062.exe",
+      "size_bytes": 1371475104,
+      "md5": "c0ce6bc542a8a2c926f4312554d0fade",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "5/31/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp145051-HP ProBook 4x0 G8/ZHAN G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145051.exe",
+      "size_bytes": 1812436448,
+      "md5": "fafb6ebee1c54f0ec6de07d51fcac049",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "3/1/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142908-HP ProBook 4x0 G8/ZHAN G4 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142908.exe",
+      "size_bytes": 1298060736,
+      "md5": "4d3a123d8205f7fd5a669a50677e8c96",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/7/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

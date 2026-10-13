@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-t3600-0497",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T3600",
+  "system_id": "0497",
+  "dmi_matches": [
+    "Precision T3600",
+    "0497"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-D072X",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02584385M/1/T3600-vista-A01-D072X.CAB",
+      "size_bytes": 643717583,
+      "md5": "108E31E35DC2637CBD3918986A805AF0",
+      "sha256": "EF8346DFF8263F8E65B6BD92C5821B119DDABBDFDA262B3B067BC09E4E4AFB44",
+      "version": null,
+      "release_date": "2014-10-13T00:00:00"
+    },
+    {
+      "name": "DellPack-X9M2C",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03537821M/1/T3600-win10-A01-X9M2C.CAB",
+      "size_bytes": 802107201,
+      "md5": "30A90E7143C778BA0CF03685F580B48F",
+      "sha256": "2ADF55364D708231DE0D72D8218D69F3FF36D9B0585F4990BFCF90A98DAE5869",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    },
+    {
+      "name": "DellPack-3M9TH",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02643190M/1/T3600-win7-A08-3M9TH.CAB",
+      "size_bytes": 521603161,
+      "md5": "0F7AB31AED87A3128F7251FF46580D68",
+      "sha256": "A79EB3DD01FBA58F2EC1A27C597AACC9A996D2708625B735BBA3279AFC0F6A91",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

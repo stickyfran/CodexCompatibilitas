@@ -1,0 +1,75 @@
+{
+  "id": "hp-hp-elitedesk-800-g5-tower-pc-8591",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 800 G5 Tower PC",
+  "system_id": "8591",
+  "dmi_matches": [
+    "8591",
+    "HP EliteDesk 800 G5 Tower PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp96974-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96974.exe",
+      "size_bytes": 799163936,
+      "md5": "c35413e055cd8f55929d0189b996f043",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/10/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99588-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99588.exe",
+      "size_bytes": 832327416,
+      "md5": "a178e51dd931676497168a7014185bb1",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/17/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101208-HP ElitePro 4/6/800 G5 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101208.exe",
+      "size_bytes": 412295160,
+      "md5": "6d52b617ed0c0ac6933414ff760d6545",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "1/27/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp111207-HP ElitePro 4/6/800 G5 PC Win 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111001-111500/sp111207.exe",
+      "size_bytes": 1802888864,
+      "md5": "371c36fb504fceba8822c40414056ec6",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/20/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112643-HP ElitePro 4/6/800 G5 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112643.exe",
+      "size_bytes": 1827974072,
+      "md5": "168774fa8d395090920a8d4fc1bdc57a",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "2/8/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp114190-HP ElitePro 4/6/800 G5 PC Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114190.exe",
+      "size_bytes": 1434992488,
+      "md5": "39034d289f4ac761a65963c3612228c0",
+      "sha256": null,
+      "version": "9.00 A 2",
+      "release_date": "6/14/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

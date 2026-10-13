@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e7240-05ca",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E7240",
+  "system_id": "05CA",
+  "dmi_matches": [
+    "Latitude E7240",
+    "05CA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-8FN88",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04895413M/1/E7240-Win10-A04-8FN88.CAB",
+      "size_bytes": 440518902,
+      "md5": "AFD1C68F0BC21117790C3C196505CBF0",
+      "sha256": "2AA77ECABBCAAEC62FB7ED75D66A959F4ED1C1935392AE5184E7A2976ABB610D",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-P27PK",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04895490M/1/E7240-win7-A13-P27PK.CAB",
+      "size_bytes": 469226468,
+      "md5": "A499E3B8A9EEE9AB6844186FFCF94E95",
+      "sha256": "139E0A8EBE22F5F8927F36E503B730BA3D70BC82BD3A44A7CCC94ABCC5539142",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-PNY1N",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03501584M/1/E7240-win8.1-A06-PNY1N.CAB",
+      "size_bytes": 262177149,
+      "md5": "2A61D3162209087D23917D1E7D22B20E",
+      "sha256": "9D0A6E1DFEFE98B179F4DEA9D5BC3DAE5CC7BF2618D29E645ED3273A4EDCDE9D",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-F2M31",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02411837M/1/E7240-win8-A05-F2M31.CAB",
+      "size_bytes": 199591598,
+      "md5": "429F49A83E3995F74595B9E3ED83E119",
+      "sha256": "2E4580742DDA3015200C2A24FC9C8DBA3A7F7C1C316A85A0994A0BBF6D826239",
+      "version": null,
+      "release_date": "2014-09-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

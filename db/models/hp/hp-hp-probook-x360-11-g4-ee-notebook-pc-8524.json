@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-probook-x360-11-g4-ee-notebook-pc-8524",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G4 EE Notebook PC",
+  "system_id": "8524",
+  "dmi_matches": [
+    "8524",
+    "HP ProBook x360 11 G4 EE Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp93458-HP ProBook x360 11 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93001-93500/sp93458.exe",
+      "size_bytes": 596794608,
+      "md5": "2f0943ae99b68b09cd12c16d40358d0c",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "3/1/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101912-HP ProBook x360 11 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101912.exe",
+      "size_bytes": 793872392,
+      "md5": "1b919db8de50bde4254034b880baad12",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/17/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp100598-HP ProBook x360 11 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100501-101000/sp100598.exe",
+      "size_bytes": 800046288,
+      "md5": "b62f25e25a0e4137341132537480b7a6",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "1/14/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103538-HP ProBook x360 11 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103538.exe",
+      "size_bytes": 796261808,
+      "md5": "6915293e4e101b5512cc08b9d80c9b51",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "4/20/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114146-HP ProBook x360 11 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114146.exe",
+      "size_bytes": 929832272,
+      "md5": "c3d200f6bb886add7ca174235245bd9e",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "6/8/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

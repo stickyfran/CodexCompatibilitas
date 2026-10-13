@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-3330-05dc",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3330",
+  "system_id": "05DC",
+  "dmi_matches": [
+    "Latitude 3330",
+    "05DC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RVC2V",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03923349M/1/3330-win10-A03-RVC2V.CAB",
+      "size_bytes": 294009030,
+      "md5": "B381520135BE19D2A8FF69C055A13410",
+      "sha256": "7244DBA5B5A20BC72FFBF3E74E0D326E89A04259449E5A2B346D7D4A5F2B2E76",
+      "version": null,
+      "release_date": "2016-11-07T00:00:00"
+    },
+    {
+      "name": "DellPack-MC6F6",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER03923344M/1/3330-win7-A12-MC6F6.CAB",
+      "size_bytes": 499508979,
+      "md5": "531B1D619FC64E654D8D9885EB92A7D8",
+      "sha256": "DA8DB2783912D2B2673FEB00B773261B945A5946F9733D595D1589633CFE2A04",
+      "version": null,
+      "release_date": "2016-11-07T00:00:00"
+    },
+    {
+      "name": "DellPack-C007V",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03501602M/1/3330-win8.1-A04-C007V.CAB",
+      "size_bytes": 251719971,
+      "md5": "38A9A087AB7DE8FCCFA55F7AAE78D101",
+      "sha256": "9C3A012E8E0C44107693364624266A17D6C208040CE834E9B44CFE72CA446B0F",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-8MK19",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02439866M/1/3330-win8-A04-8MK19.CAB",
+      "size_bytes": 163009880,
+      "md5": "CE96BBD5A621B332DDD219332BCFD62B",
+      "sha256": "5F3E9B9F15F6BF1BFF6D81C725FF8ABF0CF04F1D0C28F2CA143820A196C112D8",
+      "version": null,
+      "release_date": "2014-09-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,75 @@
+{
+  "id": "lenovo-thinkpad-x250",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X250",
+  "system_id": "20CL,20CM",
+  "dmi_matches": [
+    "20CL",
+    "20CM"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1607",
+      "os": "win10-1607",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x250_w1064_201710.exe",
+      "size_bytes": null,
+      "md5": "cff9b68bed02c6fce17d30b537863530",
+      "sha256": "dbf7195274f41afb904ee82af9d3c6096e9a886e41b3c9fc31019d249bd6857e",
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x250_w1064_201710.exe",
+      "size_bytes": null,
+      "md5": "cff9b68bed02c6fce17d30b537863530",
+      "sha256": "dbf7195274f41afb904ee82af9d3c6096e9a886e41b3c9fc31019d249bd6857e",
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x250_w1064_201710.exe",
+      "size_bytes": null,
+      "md5": "cff9b68bed02c6fce17d30b537863530",
+      "sha256": "dbf7195274f41afb904ee82af9d3c6096e9a886e41b3c9fc31019d249bd6857e",
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x250_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "5d9927b5d32e3de0bb54f98f093cd7aa",
+      "sha256": "e52b967256cc3b46a44ab8401bea3c5995db9e2dc2abf2d5f12d971043b8119f",
+      "version": null,
+      "release_date": "2018-07-24"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x250_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": "4b58b5a80dbe84cccfa9640f00855a1f",
+      "sha256": "812d222910bc936549ce179601cd8b4cba3c3a39cc40ca7766a38fbd95ee77c8",
+      "version": null,
+      "release_date": "2018-10-30"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x250_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "3198411f0939edbfe67c99b9bfd0ca87",
+      "sha256": "a75ce2db8bd146595282e74d53d92c90ed15cc0e3d02ec8d8e7e1ebe494f3428",
+      "version": null,
+      "release_date": "2019-04-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

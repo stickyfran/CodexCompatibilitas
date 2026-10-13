@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3310-2-in-1-0980",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3310 2-IN-1",
+  "system_id": "0980",
+  "dmi_matches": [
+    "Latitude 3310 2-IN-1",
+    "0980"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-C9G7H",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09844665M/1/3310-2-IN-1-C9G7H_Win10_1.0_A13.exe",
+      "size_bytes": 1823100096,
+      "md5": "4F0E2C7C03FC55D0AEA827499913A7C8",
+      "sha256": "DF0B9A558031F88B602B81161944638DEF7769ADEDBD7A3842FB240930A03DE9",
+      "version": null,
+      "release_date": "2023-06-01T07:55:27"
+    },
+    {
+      "name": "DellPack-NJRGM",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09844669M/1/3310-2-IN-1-NJRGM_Win11_1.0_A02.exe",
+      "size_bytes": 1823881888,
+      "md5": "355E6304D0F1E7B16C443DC80DF315AA",
+      "sha256": "9A68891D3AD7EFAEE0139F804E4376F5005B73AF50D7D279C2B72A7EE0577558",
+      "version": null,
+      "release_date": "2023-06-01T07:55:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

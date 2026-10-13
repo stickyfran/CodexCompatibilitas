@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5540-0c05",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5540",
+  "system_id": "0C05",
+  "dmi_matches": [
+    "Latitude 5540",
+    "0C05"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TNGP1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13729835M/1/Latitude-5540-TNGP1_Win10_1.0_A12.exe",
+      "size_bytes": 2223181400,
+      "md5": "B5D7FCEA615F66E8E8E49FDE2D49E7A6",
+      "sha256": "2877A5861FEB0331CED97EB89346A6BCE8F32790111629A0297A17C28C1E8BE5",
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    },
+    {
+      "name": "DellPack-R1RR8",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14425601M/1/Latitude-5540-R1RR8_Win11_1.0_A13.exe",
+      "size_bytes": 2525828120,
+      "md5": "2F8BAC03CD4CB6D0CD1C2914E711ECD3",
+      "sha256": "C4BC007ACBEE12B504379D595943085D6C58A58B20428098BFA38C449EB909AB",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

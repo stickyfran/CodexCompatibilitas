@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5414-071e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5414",
+  "system_id": "071E",
+  "dmi_matches": [
+    "Latitude 5414",
+    "071E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-X6K2Y",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05504327M/1/5414-Win10-A10-X6K2Y.CAB",
+      "size_bytes": 698273343,
+      "md5": "D2DE3E0CCF5745CF79A6A0655C5E96AB",
+      "sha256": "AD20B415BA67C0B75E2C0414E949D3C323DA9F2AFDBC8720138F320B54213C75",
+      "version": null,
+      "release_date": "2019-03-26T00:00:00"
+    },
+    {
+      "name": "DellPack-98Y48",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05382700M/1/5414-Win7-A09-98Y48.CAB",
+      "size_bytes": 1035920568,
+      "md5": "1C2C09D67BFF2D854B257EE94ADF3891",
+      "sha256": "B8FA992989B85413A5632A56935235B59C27FEF44D9D05CE334D47840EAF8220",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

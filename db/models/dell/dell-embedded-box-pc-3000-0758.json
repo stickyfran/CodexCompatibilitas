@@ -1,0 +1,35 @@
+{
+  "id": "dell-embedded-box-pc-3000-0758",
+  "vendor": "Dell",
+  "family": "Internet of Things",
+  "model_name": "Embedded Box PC 3000",
+  "system_id": "0758",
+  "dmi_matches": [
+    "Embedded Box PC 3000",
+    "0758"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-90PDY",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05397218M/1/Dell Embedded Box PC 3000-win10-A03-90PDY.CAB",
+      "size_bytes": 230432190,
+      "md5": "BB69DA3724B2E4701C64A7C53071BFF1",
+      "sha256": "F7B832B489DE7E01120535F917717B238CA9E68841C1F6644F4EA1432F2863DE",
+      "version": null,
+      "release_date": "2019-01-25T00:00:00"
+    },
+    {
+      "name": "DellPack-C7FVC",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05397252M/1/Dell Embedded Box PC 3000-win7-A08-C7FVC.CAB",
+      "size_bytes": 233802668,
+      "md5": "1C46E13573ACB3FFD678A1B558877A6D",
+      "sha256": "84BB25EA027D1D1990C8774EDE8745F3C457F101032C8A2AA592497E6C262C9A",
+      "version": null,
+      "release_date": "2019-01-25T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

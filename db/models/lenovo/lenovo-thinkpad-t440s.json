@@ -1,0 +1,55 @@
+{
+  "id": "lenovo-thinkpad-t440s",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T440S",
+  "system_id": "20AR,20AQ",
+  "dmi_matches": [
+    "20AR",
+    "20AQ"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1607",
+      "os": "win10-1607",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t440-t440s_w1064_201611.exe",
+      "size_bytes": null,
+      "md5": "8992cf73450953b41c1905226bed8622",
+      "sha256": "e0b05b25c36ea3dd817a9fc62a659ceb6afe94a306d17fd7027e8d45e50333df",
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t440-t440s_w1064_201611.exe",
+      "size_bytes": null,
+      "md5": "8992cf73450953b41c1905226bed8622",
+      "sha256": "e0b05b25c36ea3dd817a9fc62a659ceb6afe94a306d17fd7027e8d45e50333df",
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t440-t440s_w1064_201611.exe",
+      "size_bytes": null,
+      "md5": "8992cf73450953b41c1905226bed8622",
+      "sha256": "e0b05b25c36ea3dd817a9fc62a659ceb6afe94a306d17fd7027e8d45e50333df",
+      "version": null,
+      "release_date": "2015-09-11"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t440-t440s_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "1e769f9946284e84d94de023dc54afcc",
+      "sha256": "38419e0a412d38afeaa6b813e7981182acaadfc7aaed243d0f3a8f44020a0add",
+      "version": null,
+      "release_date": "2018-07-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

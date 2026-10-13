@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-zhan-66-pro-a-14-g5-notebook-pc-89cf",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro A 14 G5 Notebook PC",
+  "system_id": "89CF",
+  "dmi_matches": [
+    "89CF",
+    "HP ZHAN 66 Pro A 14 G5 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145268-HP ZHAN/Pro/Elite 4/6x5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145268.exe",
+      "size_bytes": 933538288,
+      "md5": "0e2b4a7c797a798cf1fd4bbf09bc377d",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "3/18/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp150831-HP ZHAN/Pro/Elite 4/6x5 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150831.exe",
+      "size_bytes": 911332968,
+      "md5": "c94752a75312694c7aa79dc1c2a2bad0",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "1/11/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp151810-HP ZHAN/Pro/Elite 4/6x5 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151810.exe",
+      "size_bytes": 1057437280,
+      "md5": "b2ca4dcb1518501f341b60a206f4311a",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/27/2024 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-10---st2e-05c3",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Latitude 10 - ST2e",
+  "system_id": "05C3",
+  "dmi_matches": [
+    "Latitude 10 - ST2e",
+    "05C3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CJV1P",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02228912M/1/ST2E-Win8.1-A02-CJV1P.CAB",
+      "size_bytes": 25671474,
+      "md5": "7376AE67A4C2CAACDBC6B84023EDB1CD",
+      "sha256": "4348BAC42C3837C59F1F4C3CD912E85554AB34BF9296597398F639D0F2F64315",
+      "version": null,
+      "release_date": "2014-06-28T00:00:00"
+    },
+    {
+      "name": "DellPack-53K39",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER01948327M/1/ST2E-win8-A06-53K39.CAB",
+      "size_bytes": 125928888,
+      "md5": "2E0C62AFE298CC00D351792AABEDD70A",
+      "sha256": "F762BA45B71F3AA985B6418539D1C3669F190B8E55BD6DE3D1BBC3F4D727E858",
+      "version": null,
+      "release_date": "2014-01-24T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

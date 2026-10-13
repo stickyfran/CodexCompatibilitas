@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-13-type-20j1-20j2",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad 13 Type 20J1 20J2",
+  "system_id": "20J1,20J2",
+  "dmi_matches": [
+    "20J1",
+    "20J2"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_13_2nd_gen_w1064_2004_202012.exe",
+      "size_bytes": null,
+      "md5": "90e7558f6881e36999df1b7a83a95ac3",
+      "sha256": "b2c914fcf6384a5b0c6ad3c645799c82b89b9cd923c3ee1660b06e0e1db6d1db",
+      "version": null,
+      "release_date": "2020-04-01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

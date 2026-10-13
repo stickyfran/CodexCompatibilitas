@@ -1,0 +1,115 @@
+{
+  "id": "lenovo-thinkpad-x13-type-20t2-20t3",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X13 Type 20T2 20T3",
+  "system_id": "20T2,20T3",
+  "dmi_matches": [
+    "20T2",
+    "20T3"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w1064_1809_202006.exe",
+      "size_bytes": null,
+      "md5": "9504e2d0396dc84847e5c78d9209489a",
+      "sha256": "5ae70ee4ef34584392e16e8606e7f99b09692b92884a34cee1969014a0ca6eae",
+      "version": null,
+      "release_date": "2020-05-13"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w1064_1903_202009.exe",
+      "size_bytes": null,
+      "md5": "e8853c35fd9a516aafcfd1a7785ca092",
+      "sha256": "ee51e4f00c1c18d1636631ee158e835302066c37a915eae1ef56fd5984b02386",
+      "version": null,
+      "release_date": "2020-10-13"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w1064_1909_202102.exe",
+      "size_bytes": null,
+      "md5": "b614c073952452cc606c51503612f703",
+      "sha256": "93c7313fda22e3ac378b3033a67f9f2e23e51dcf9782bd4be284ec6ff9317785",
+      "version": null,
+      "release_date": "2021-02-01"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w1064_2004_202109.exe",
+      "size_bytes": null,
+      "md5": "359cd189519d6a46bd1c6be346f3c9d2",
+      "sha256": "75bf439e6a11b7fe46c6282027ded6a7b6ace12e19d14fb0aafd334bb80345f3",
+      "version": null,
+      "release_date": "2021-10-13"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w1064_20h2_202206.exe",
+      "size_bytes": null,
+      "md5": "5e811d530097375643b036ff1c00fc3b",
+      "sha256": "1bbf5f7781ac355eeaffa4296ed14fa781029ebb0a1f26237560f8ab3a357834",
+      "version": null,
+      "release_date": "2023-11-21"
+    },
+    {
+      "name": "SCCM-win10-21H1",
+      "os": "win10-21H1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w1064_21h1_202206.exe",
+      "size_bytes": null,
+      "md5": "3442175fdcfe722433ede72f31324ad2",
+      "sha256": "66fbad7c68eb4ea0a0b7a8398e7ff81b29b8eca126f34c273ff58a0876944e2d",
+      "version": null,
+      "release_date": "2022-06-30"
+    },
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w1064_21h2_202206.exe",
+      "size_bytes": null,
+      "md5": "9a28b4c3d5bcd8c2f5f81802983c823d",
+      "sha256": "09bf36dc1cac48e4b47793668906da2525abe8c9c82d608699483367beabf27d",
+      "version": null,
+      "release_date": "2022-06-30"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w1064_22h2_202302.exe",
+      "size_bytes": null,
+      "md5": "fab18986f34b171f31477d00579fe05c",
+      "sha256": "8161a1a174f334e7965e67c91a48b72dd494241c83783e884727f96879569a8e",
+      "version": null,
+      "release_date": "2023-03-23"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w11_21_202206.exe",
+      "size_bytes": null,
+      "md5": "a6fa185dd7560397231c1924845b4ed9",
+      "sha256": "11a7c4d685c79936b6eaca9ef4c28f756f5222f9a03bbbf4157a29d7f7b431f3",
+      "version": null,
+      "release_date": "2022-06-30"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_mt20t0-20t1-x13_mt20t2-20t3_w11_22_202310.exe",
+      "size_bytes": null,
+      "md5": "a0deda4cd06b16e4253f8a4f882eb9f6",
+      "sha256": "e4f05849ddd382b28c9826e0a9b669e35cf64a7e72d961b5009c4baf56f6ba75",
+      "version": null,
+      "release_date": "2023-11-15"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

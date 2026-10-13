@@ -1,0 +1,56 @@
+{
+  "id": "hp-hp-probook-fortis-14-inch-g9-notebook-pc-89b0",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook Fortis 14 inch G9 Notebook PC",
+  "system_id": "89b0,8b4b",
+  "dmi_matches": [
+    "89b0",
+    "8b4b",
+    "HP ProBook Fortis 14 inch G9 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145152-HP ProBook x360 Fortis 11 G9 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145152.exe",
+      "size_bytes": 862814264,
+      "md5": "cbde15f1e9ecca0f9876ab4cadce0537",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/20/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149133-HP ProBook x360 Fortis G9 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149133.exe",
+      "size_bytes": 770093592,
+      "md5": "d2c9273c45cf290f7271377c215acf09",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151769-HP ProBook x360 Fortis 11 G9 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151769.exe",
+      "size_bytes": 801295480,
+      "md5": "d45f23eb67f889f542fa8d11c3ebcc76",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/20/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp160036-HP ProBook x360 Fortis G9 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160036.exe",
+      "size_bytes": 937327600,
+      "md5": "E9820CCEEFCD19DEA32B808EA096CB5F",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "6/2/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

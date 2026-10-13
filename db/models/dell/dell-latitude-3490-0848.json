@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-3490-0848",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3490",
+  "system_id": "0848",
+  "dmi_matches": [
+    "Latitude 3490",
+    "0848"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-1RNK0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07350473M/1/3490-win10-A15-1RNK0.CAB",
+      "size_bytes": 1287030314,
+      "md5": "E35FE31C512152565013494F2ABF3740",
+      "sha256": "1B7AC307C26A4861B9282FE4BFAC74D282A7F302530360EAEF5A3E87FE89DA67",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

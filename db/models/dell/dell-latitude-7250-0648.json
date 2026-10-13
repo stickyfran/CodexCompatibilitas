@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-7250-0648",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7250",
+  "system_id": "0648",
+  "dmi_matches": [
+    "Latitude 7250",
+    "0648"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-59X09",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER05159454M/1/E7250_7250-win10-A08-59X09.CAB",
+      "size_bytes": 553977791,
+      "md5": "DC243434EFDA24980AA9F4F82E002907",
+      "sha256": "D474A3A4DD78053E002707ABFA0882AB71CB852E3E7C1B58A89BD35BB47399D0",
+      "version": null,
+      "release_date": "2018-08-28T00:00:00"
+    },
+    {
+      "name": "DellPack-R11GJ",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04846018M/1/E7250_7250-win7-A10-R11GJ.CAB",
+      "size_bytes": 631452220,
+      "md5": "E72920980DA8C31E6237E93D7A55F7DA",
+      "sha256": "3ACEC164A782D4A32059242741B351B054D45BB6208C30EEB26D297C8C5CD46D",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-NK2G0",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03470529M/1/E7250_7250-win8.1-A04-NK2G0.CAB",
+      "size_bytes": 355398900,
+      "md5": "BDB3A59391393743FD55559EFDF3452D",
+      "sha256": "56E4F992C5BEA08F0EE5E61736F1FFECF56A1EF766B3CD4BAAA25AEC534935A3",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

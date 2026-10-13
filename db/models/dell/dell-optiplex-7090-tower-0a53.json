@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7090-tower-0a53",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7090 Tower",
+  "system_id": "0A53",
+  "dmi_matches": [
+    "OptiPlex 7090 Tower",
+    "0A53"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-C2R2G",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11064191M/1/7090-C2R2G_Win10_1.0_A11.exe",
+      "size_bytes": 3199417696,
+      "md5": "80976F159501633C7C48F475860ED3F8",
+      "sha256": "8A5101A1D3ED0C6FB7301DB685B9990DCF0147B13AE00C31FF6A3FD406049495",
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    },
+    {
+      "name": "DellPack-RD3FW",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11064235M/1/7090-RD3FW_Win11_1.0_A04.exe",
+      "size_bytes": 3199433344,
+      "md5": "90C790C4762A07679A0807096436BAE4",
+      "sha256": "A9A0C3C5DD9306642DE4769EC7F7DFC2DA03580B7817223DB5777F121E7DCFBB",
+      "version": null,
+      "release_date": "2024-02-08T23:36:09"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

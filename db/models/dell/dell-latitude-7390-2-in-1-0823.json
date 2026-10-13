@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7390-2-in-1-0823",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7390 2-in-1",
+  "system_id": "0823",
+  "dmi_matches": [
+    "Latitude 7390 2-in-1",
+    "0823"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WX9TJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09720963M/1/7390-2-in-1-WX9TJ_Win11_1.0_A00.exe",
+      "size_bytes": 1179104752,
+      "md5": "8A14D955BDAA2E43DF3690AD4E95182B",
+      "sha256": "734B0532C107A286DAB1303FA7F5D46DC90AE9DF0A862B0473731F6D3EFE6A3D",
+      "version": null,
+      "release_date": "2023-03-24T02:41:52"
+    },
+    {
+      "name": "DellPack-9CRTM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11117075M/1/Latitude-7390-2-in-1-9CRTM_Win10_1.0_A16.exe",
+      "size_bytes": 1195219840,
+      "md5": "FCBA0B1FF0F8BBB0DDAC15E573BD9889",
+      "sha256": "229F8F82FEA5E05E69F313987BB5F7D2B59408B07CFBA2A8A73F06E4BF4C570F",
+      "version": null,
+      "release_date": "2024-01-22T07:15:21"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

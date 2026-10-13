@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-7710-06da",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7710",
+  "system_id": "06DA",
+  "dmi_matches": [
+    "Precision 7710",
+    "06DA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HWN90",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05159410M/1/7710-win10-A11-HWN90.CAB",
+      "size_bytes": 1175395139,
+      "md5": "AF7F2717762C2B7BBD7D5F789E1AE6AA",
+      "sha256": "EA379EE7FD7411E1A493EDAF875DBCA63FB128EDE78037CA1646F5C6BAA52187",
+      "version": null,
+      "release_date": "2018-09-07T00:00:00"
+    },
+    {
+      "name": "DellPack-VNGMW",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05083035M/1/7710-win7-A10-VNGMW.CAB",
+      "size_bytes": 938099532,
+      "md5": "6E443F5299ADC2E518C2C28FD0513DBE",
+      "sha256": "23C77C34B9C657F9E15364DD421AA69444BE033BDFD40506570A58C3EEA7465F",
+      "version": null,
+      "release_date": "2018-09-12T00:00:00"
+    },
+    {
+      "name": "DellPack-DCN54",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03889719M/1/7710-win8.1-A05-DCN54.CAB",
+      "size_bytes": 906561773,
+      "md5": "77935C569A19010977FE71DE4E2DD991",
+      "sha256": "F8E61209F3340F669E234B588546EECA305318C25C8ACFEEC878B3C76373BD4D",
+      "version": null,
+      "release_date": "2016-09-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

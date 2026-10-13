@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e6420-04e4",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6420",
+  "system_id": "04E4",
+  "dmi_matches": [
+    "Latitude E6420",
+    "04E4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-2T32M",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02293123M/1/E6420 XFR-vista-A01-2T32M.CAB",
+      "size_bytes": 352907012,
+      "md5": "7A149D13E33E7C149B3AF97D5D92AB8A",
+      "sha256": "CAF2C5256E3C07A6AF6202AB954F4B09C4FEC393164491169D78B006723C607A",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-PFXP1",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02233539M/1/E6420 XFR-win7-A01-PFXP1.CAB",
+      "size_bytes": 348927502,
+      "md5": "2CD4EEFC1827ECB325A2CF3FA43B0799",
+      "sha256": "AC4557126EAE4227D8804A38D356CFFE20E0BFA7C5C667AB0A44BC4F8EAD0E57",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    },
+    {
+      "name": "DellPack-3W5MX",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02249558M/1/E6420 XFR-xp-A01-3W5MX.CAB",
+      "size_bytes": 153006205,
+      "md5": "A2A78C9AAF3CB7CBCA8A03D796401571",
+      "sha256": "EB624878F48FB3F27F48280FCE51CDB161DDF29221EF5C5EA9A80CABC7F12B3A",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

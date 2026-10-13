@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e6520-0494",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6520",
+  "system_id": "0494",
+  "dmi_matches": [
+    "Latitude E6520",
+    "0494"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RP1GJ",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER01854934M/1/E6520-vista-A01-RP1GJ.CAB",
+      "size_bytes": 353199502,
+      "md5": "BCEEB614A9C47EB12DEA1C9E53774869",
+      "sha256": "A71C2DAD95644526CB0F31A3C76D0D0DC5EACC653BEC3B4E233FBC35CA82B053",
+      "version": null,
+      "release_date": "2013-11-26T00:00:00"
+    },
+    {
+      "name": "DellPack-3P0Y3",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02169486M/1/E6520-win7-A11-3P0Y3.CAB",
+      "size_bytes": 585058720,
+      "md5": "A561A7821E94B604E1BF20DC9B9890F2",
+      "sha256": "2371918AFEF5BB4E03D4DC7C8F45127F1CB0B996AD1CD4AD13EAE45F63D2BE44",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    },
+    {
+      "name": "DellPack-JN1VC",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02092735M/1/E6520-win8-A03-JN1VC.CAB",
+      "size_bytes": 252129388,
+      "md5": "3F24C531FE43BA228A541218C724DFAA",
+      "sha256": "1187DDAF47134139C845BBEF5E7750325A5504DBF684B0BA6DC043718464065B",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    },
+    {
+      "name": "DellPack-2GPFR",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02199302M/1/E6520-xp-A11-2GPFR.CAB",
+      "size_bytes": 175279401,
+      "md5": "768558DCA62C479DE4EAEEC2C07C8E6A",
+      "sha256": "1A8F7007DC5960CFB18A3FE44989D6FA7D5DA15440931AEE38B01A8AA9D4FF31",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

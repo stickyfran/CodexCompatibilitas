@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5350-0cb5",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5350",
+  "system_id": "0CB5",
+  "dmi_matches": [
+    "Latitude 5350",
+    "0CB5"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0JRXW",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14061233M/1/Latitude-5350-0JRXW_Win10_1.0_A11.exe",
+      "size_bytes": 1537156848,
+      "md5": "71AF500689B7773128F8AB0D101FDE24",
+      "sha256": "D045E933B898F95B36D4AE4844CE6CBBA78AB86D0640BA0759F0C58BD1AF635C",
+      "version": null,
+      "release_date": "2026-02-05T03:36:06"
+    },
+    {
+      "name": "DellPack-YCJ3W",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14615910M/1/Latitude-5350-YCJ3W_Win11_1.0_A12.exe",
+      "size_bytes": 1327477208,
+      "md5": "B1AF551291748ED3EA47D4E648D6822E",
+      "sha256": "634AE62457B308D3EA80E12EA6ED20B335EA5E54B29A72E67D073619F7742F5A",
+      "version": null,
+      "release_date": "2026-06-08T00:22:12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

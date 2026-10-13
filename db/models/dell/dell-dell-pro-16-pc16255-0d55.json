@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-16-pc16255-0d55",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 16 PC16255",
+  "system_id": "0D55",
+  "dmi_matches": [
+    "Dell Pro 16 PC16255",
+    "0D55"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-K29JH",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14686539M/1/PC16255-K29JH_Win10_1.0_A06.exe",
+      "size_bytes": 569091616,
+      "md5": "936E214CE44DC665060966A31CEF0BED",
+      "sha256": "9EAD8DF844604B3AC26F101F27317C02784754B5AAB15C3D810DAC4490D66763",
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    },
+    {
+      "name": "DellPack-3GY5J",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14698666M/1/PC16255-3GY5J_Win11_1.0_A07.exe",
+      "size_bytes": 672695592,
+      "md5": "E7327846495C3E40CC564A93E3BB5F9E",
+      "sha256": "CDFCB7F15B3CAF43201C9955AAA2595663E7320B45F3D875936ED761500230A6",
+      "version": null,
+      "release_date": "2026-08-24T05:44:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

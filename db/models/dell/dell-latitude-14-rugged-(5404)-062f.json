@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-14-rugged-(5404)-062f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 14 Rugged (5404)",
+  "system_id": "062F",
+  "dmi_matches": [
+    "Latitude 14 Rugged (5404)",
+    "062F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0X4M7",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04901932M/1/5404-Win10-A06-0X4M7.CAB",
+      "size_bytes": 810563574,
+      "md5": "A8D9BB422DC945A3EA7E28D75A7D4A6B",
+      "sha256": "DBFDE68BD1ED908AE63DB5D422CC8E6664361B1DE01FFAB7B237DF8DD6EAD763",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-VFY8T",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04917846M/1/5404-win7-A10-VFY8T.CAB",
+      "size_bytes": 1049033200,
+      "md5": "0A64449935434B6B7FCB6D7BD6BF05E9",
+      "sha256": "8660DC68B6719AB4E1AC16255845C49EE66F27CC261725AB70397975D686E9D4",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-422HK",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03481078M/1/5404-win8.1-A05-422HK.CAB",
+      "size_bytes": 441945310,
+      "md5": "961336C23C473A777A75AC1166FBBBFB",
+      "sha256": "71E19143E5C4895121F7F6F24FAAB18BA961324FE0A9B384EDA0374887A72BDB",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

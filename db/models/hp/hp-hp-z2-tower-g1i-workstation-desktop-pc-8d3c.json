@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-z2-tower-g1i-workstation-desktop-pc-8d3c",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z2 Tower G1i Workstation Desktop PC",
+  "system_id": "8D3C",
+  "dmi_matches": [
+    "8D3C",
+    "HP Z2 Tower G1i Workstation Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp158333-HP Z2 TWR SFF G1i Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158333.exe",
+      "size_bytes": 3643626704,
+      "md5": "EB066E04309BC60BDA22EB679D2EED0B",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "4/23/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp172110-HP Z2 TWR SFF G1i Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp172001-172500/sp172110.exe",
+      "size_bytes": 3029645104,
+      "md5": "E247EE9440D626275AFEBE21772CB524",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "3/27/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

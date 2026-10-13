@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7350-0673",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7350",
+  "system_id": "0673",
+  "dmi_matches": [
+    "Latitude 7350",
+    "0673"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-8VD30",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04845871M/1/7350-Win10-A07-8VD30.CAB",
+      "size_bytes": 338153242,
+      "md5": "7EBE5532F1B125CD5BDC944AAA78141A",
+      "sha256": "9EF577559AE383168603DF0DEBE5B3A65F315DBBCE2FEC2C7D9BBA46A9840B72",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-X37VX",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04298209M/1/7350-win8.1-A07-X37VX.CAB",
+      "size_bytes": 346732638,
+      "md5": "03F5AFC609FA90CD5206885A2ADC3DE9",
+      "sha256": "B419C7972B62B1E8B114E706E21EC889FBC1FD375D84EDCAF8E8A7507BBB0BF9",
+      "version": null,
+      "release_date": "2017-05-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

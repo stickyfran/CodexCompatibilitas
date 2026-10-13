@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3431-0942",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3431",
+  "system_id": "0942",
+  "dmi_matches": [
+    "Precision 3431",
+    "0942"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7Y16J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08791477M/1/3431-7Y16J_Win10_1.0_A10.exe",
+      "size_bytes": 2206948568,
+      "md5": "AD8A9CF7C470118B3AE6B2231FAD3C4F",
+      "sha256": "E6AF1B994EA6D91870009F46D0AF29E4F7BD7911C5B31ED2F03A61A77D21CC47",
+      "version": null,
+      "release_date": "2022-07-22T13:59:59"
+    },
+    {
+      "name": "DellPack-NGHP5",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08164658M/1/3431-win11-A00-NGHP5.CAB",
+      "size_bytes": 1940428467,
+      "md5": "DEFDA9D21CA801BEFC3A2BA9C3CD6ADB",
+      "sha256": "47FF8945CCBD03D096F989DF2D5FE9E55E9E376DADA729ABACFCE72CF1C7637E",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

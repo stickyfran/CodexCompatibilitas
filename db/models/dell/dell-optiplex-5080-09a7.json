@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5080-09a7",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5080",
+  "system_id": "09A7",
+  "dmi_matches": [
+    "OptiPlex 5080",
+    "09A7"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9T21F",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09854488M/1/5080-9T21F_Win10_1.0_A11.exe",
+      "size_bytes": 2950772560,
+      "md5": "12DC87D68FBE13B1377D6D5FF4717C86",
+      "sha256": "A549CB3AA9EE4C2809A4E12DD61DEF49F63EF3B75F6149534ACA936C5AD4EDCD",
+      "version": null,
+      "release_date": "2023-06-30T02:52:58"
+    },
+    {
+      "name": "DellPack-881W9",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09854481M/1/5080-881W9_Win11_1.0_A02.exe",
+      "size_bytes": 2950776984,
+      "md5": "667E836AA5963B10D0C4858D5A54D99F",
+      "sha256": "222EC991848B43FC4D8119489DB90A7AF015BB7050EE21A6A9FD1D113F91665B",
+      "version": null,
+      "release_date": "2023-06-30T02:52:58"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

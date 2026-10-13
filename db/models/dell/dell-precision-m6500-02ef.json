@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-m6500-02ef",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M6500",
+  "system_id": "02EF",
+  "dmi_matches": [
+    "Precision M6500",
+    "02EF"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-V6C8J",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02123555M/1/M6500-vista-A05-V6C8J.CAB",
+      "size_bytes": 373048800,
+      "md5": "3D0DE16E995968B5CF23F6739EA436F2",
+      "sha256": "96075B5F0BDD812B98CD9961FAF146E4DB4537288E48D697D092F78074F63D35",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-M8X84",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02123444M/1/M6500-win7-A08-M8X84.CAB",
+      "size_bytes": 623553227,
+      "md5": "AC1A870109A3C50FE17FFE258F99AD62",
+      "sha256": "970FDD13BD838F2C4069829BC939C5AC1407AC86D8723202F0E03E4AB1618F23",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-F12J2",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02123352M/1/M6500-xp-A08-F12J2.CAB",
+      "size_bytes": 488007777,
+      "md5": "1FA9D572E40B0FB75EFE6687EC537764",
+      "sha256": "CC129E4CBB77EB095F188A1E8502AC5F4584B074E84AAB261D887EB1F2F96A6D",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

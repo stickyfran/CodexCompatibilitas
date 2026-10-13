@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-zbook-power-15.6-inch-g10-a-mobile-workstation-pc-8b95",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 15.6 inch G10 A Mobile Workstation PC",
+  "system_id": "8b95",
+  "dmi_matches": [
+    "8b95",
+    "HP ZBook Power 15.6 inch G10 A Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp149194-HP ZBook Power G10A MWS Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149194.exe",
+      "size_bytes": 1669874344,
+      "md5": "a35bfebb016fd043d410f321fd38bb20",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/7/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149195-HP ZBook Power G10A MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149195.exe",
+      "size_bytes": 1669827432,
+      "md5": "493b65f2f922383537c39e5fbd4d153f",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "9/7/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp154912-HP ZBook Power G10A MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp154501-155000/sp154912.exe",
+      "size_bytes": 2100390416,
+      "md5": "10C224AEB797E7BD3FFC464AFE91ADFD",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "11/21/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

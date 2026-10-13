@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5521-0a67",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5521",
+  "system_id": "0A67",
+  "dmi_matches": [
+    "Latitude 5521",
+    "0A67"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-J76NV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11282123M/1/5521-J76NV_Win10_1.0_A17.exe",
+      "size_bytes": 2818733672,
+      "md5": "1AB4B2A96DDE1EA5A0CA5D12ABD91042",
+      "sha256": "A314C67FE6004C604AD5C4C990E547279E7A762FE05AF8D9C3CEB4D88D75729F",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    },
+    {
+      "name": "DellPack-4JH6G",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11282194M/1/5521-4JH6G_Win11_1.0_A12.exe",
+      "size_bytes": 2819026992,
+      "md5": "03020958088F3D93B6929DB6AABBF524",
+      "sha256": "3ED1985A55F14C21872338A9BDDA4C191196EB5D3C240A74D3D4A89BAFCFABF6",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-rugged-12-tablet-ra02260-0d67",
+  "vendor": "Dell",
+  "family": "Dell Pro Rugged Laptops",
+  "model_name": "Dell Pro Rugged 12 Tablet RA02260",
+  "system_id": "0D67",
+  "dmi_matches": [
+    "Dell Pro Rugged 12 Tablet RA02260",
+    "0D67"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-1K9FW",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14753854M/1/RA02260-1K9FW_Win10_1.0_A03.exe",
+      "size_bytes": 1240838056,
+      "md5": "4FD229D6B8E15F01BA6BD687997379D9",
+      "sha256": "6102B6FA1DD6169F0BC8D4F9A7D8AE2322CBACB0B240CDA1B5291061F7445D0E",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    },
+    {
+      "name": "DellPack-X0G67",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14874004M/1/RA02260-X0G67_Win11_1.0_A03.exe",
+      "size_bytes": 1108493920,
+      "md5": "1FBD2E8B29839559F8CCFB3EA3D2B12A",
+      "sha256": "F1EA4BF52EB4670942B4A6C3E8687E0DD5377A6F780C3FCAC27895B7F890307D",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

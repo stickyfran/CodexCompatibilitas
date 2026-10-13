@@ -1,0 +1,13 @@
+{
+  "id": "asus-expertbook-p1-p1403",
+  "vendor": "ASUS",
+  "family": "ExpertBook",
+  "model_name": "Expertbook P1 P1403",
+  "system_id": "P1403",
+  "dmi_matches": [
+    "P1403"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

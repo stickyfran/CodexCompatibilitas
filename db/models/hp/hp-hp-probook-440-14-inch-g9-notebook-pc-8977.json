@@ -1,0 +1,26 @@
+{
+  "id": "hp-hp-probook-440-14-inch-g9-notebook-pc-8977",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 440 14 inch G9 Notebook PC",
+  "system_id": "8977,8A9E",
+  "dmi_matches": [
+    "8977",
+    "8A9E",
+    "HP ProBook 440 14 inch G9 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145052-HP EB 4/6x0 G9 ZHAN Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145052.exe",
+      "size_bytes": 1804608680,
+      "md5": "aa59f9836bfec14884aef18d2ce87f10",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/1/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

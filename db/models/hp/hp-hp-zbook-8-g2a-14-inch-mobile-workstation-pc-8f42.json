@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-zbook-8-g2a-14-inch-mobile-workstation-pc-8f42",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook 8 G2a 14 inch Mobile Workstation PC",
+  "system_id": "8F42",
+  "dmi_matches": [
+    "8F42",
+    "HP ZBook 8 G2a 14 inch Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp174518-HP EB/ZB 8 G2a NB/MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174518.exe",
+      "size_bytes": 1128811784,
+      "md5": "A69F65E31DE44A2CC37BC6228577443D",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/1/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

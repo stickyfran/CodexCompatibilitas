@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-tower-dt1265-0e0d",
+  "vendor": "Dell",
+  "family": "Dell Desktops",
+  "model_name": "Dell Tower DT1265",
+  "system_id": "0E0D",
+  "dmi_matches": [
+    "Dell Tower DT1265",
+    "0E0D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JVMJJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14873787M/1/DT1265-JVMJJ_Win11_1.0_A02.exe",
+      "size_bytes": 1003349672,
+      "md5": "2D1F20A6601D4BB96263FEBD88E268F2",
+      "sha256": "B3109CAD2B2AB1CDB8FF789F2B7691E4D47444F0B366AE5CECC236120EE96E8F",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,85 @@
+{
+  "id": "hp-hp-elitebook-735-g5-notebook-pc-83da",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 735 G5 Notebook PC",
+  "system_id": "83da",
+  "dmi_matches": [
+    "83da",
+    "HP EliteBook 735 G5 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp84352-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84001-84500/sp84352.exe",
+      "size_bytes": 589795024,
+      "md5": "9ae80fdfefa67a42426c9a26442f7064",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "4/17/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp90334-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90334.exe",
+      "size_bytes": 572595576,
+      "md5": "41cd0ea71984888812365d37386026b4",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "8/3/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp93466-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93001-93500/sp93466.exe",
+      "size_bytes": 730278424,
+      "md5": "1821f3b4e3a231007ab6bf29ce5d084b",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "1/8/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99710-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99710.exe",
+      "size_bytes": 847736304,
+      "md5": "c39164173a122c5d0250a93bc441f2b0",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "11/19/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101496-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101496.exe",
+      "size_bytes": 819178504,
+      "md5": "ae638cd630e179ebcf04d0874122a164",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "1/31/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110177-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110177.exe",
+      "size_bytes": 967460056,
+      "md5": "6dc50307df3b92dbfa96a2a63b68c1a7",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "9/21/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114233-HP EliteBook 7x5 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114233.exe",
+      "size_bytes": 1226433000,
+      "md5": "dada9462e89814a6ab255bac48e2b52f",
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "6/21/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-15-9500-097d",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 15 9500",
+  "system_id": "097D",
+  "dmi_matches": [
+    "XPS 15 9500",
+    "097D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y2PC8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09602222M/1/9500-Y2PC8_Win10_1.0_A13.exe",
+      "size_bytes": 3254366336,
+      "md5": "8683DF2EA3942C1DDA5D2CA695462850",
+      "sha256": "975C3D7B1AEE70C214579CB762CA29EAC6D47E4093C32283F3692B235456DC8B",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    },
+    {
+      "name": "DellPack-J0H81",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09721771M/1/9500-J0H81_Win11_1.0_A03.exe",
+      "size_bytes": 3255150792,
+      "md5": "8459DAAD1265DE125F8E9373F5772214",
+      "sha256": "8EDDB9341F5E2C61F8F141BA2886B8276E2F8D61B579AA9353D1168768894FC7",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

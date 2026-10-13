@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7400-2-in-1-08e2",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7400 2-IN-1",
+  "system_id": "08E2",
+  "dmi_matches": [
+    "Latitude 7400 2-IN-1",
+    "08E2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-PV2P3",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11116624M/1/7400-2-IN-1-PV2P3_Win10_1.0_A13.exe",
+      "size_bytes": 2614659984,
+      "md5": "FC465052E71BA83050896150ED9472B9",
+      "sha256": "9F27C6F653A36B8FA24A361BB4FCBA0EDEF3F1B4600DF3DF9AF7960D9DBCC73A",
+      "version": null,
+      "release_date": "2024-01-22T07:15:21"
+    },
+    {
+      "name": "DellPack-N5NFM",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11116638M/1/7400-2-IN-1-N5NFM_Win11_1.0_A01.exe",
+      "size_bytes": 2619464288,
+      "md5": "94243B9196CAD69ACF26E2FE3310D4C0",
+      "sha256": "074AB1746BD5E67EB61A380EBE5053907B0E4CB3A0768CAA849BCEC9ADACEAB2",
+      "version": null,
+      "release_date": "2024-01-22T07:15:21"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

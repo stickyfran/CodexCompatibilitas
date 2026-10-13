@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-635-aero-g8-notebook-pc-8892",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 635 Aero G8 Notebook PC",
+  "system_id": "8892",
+  "dmi_matches": [
+    "8892",
+    "HP ProBook 635 Aero G8 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp112839-HP ProBook 635 Aero G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112501-113000/sp112839.exe",
+      "size_bytes": 554155496,
+      "md5": "c600882fb59124d28d81e5dc78079dc9",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "3/2/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp114158-HP ProBook 635 Aero G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114158.exe",
+      "size_bytes": 572739648,
+      "md5": "c0cbcf76b3155c9d5bf69a7625c5bd7a",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/8/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp145103-HP ProBook 635 Aero G8 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145103.exe",
+      "size_bytes": 989820328,
+      "md5": "1bbd521870e005a349315eaae345569f",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/8/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149075-HP ProBook 635 Aero G8 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149075.exe",
+      "size_bytes": 1046349216,
+      "md5": "3bfccc3b09e198b53341cdc4dd4823dd",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "8/30/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

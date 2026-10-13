@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-13-9370-07e6",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9370",
+  "system_id": "07E6",
+  "dmi_matches": [
+    "XPS 13 9370",
+    "07E6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WNYXM",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06104383M/1/9370-win10-A08-WNYXM.CAB",
+      "size_bytes": 703773040,
+      "md5": "2E5493B8462B68EE0BFB1C354D032BDE",
+      "sha256": "33241274A3C09DA4DAB3356A95B50B7E2FB301FECA42D6C0391B4A73393D5208",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

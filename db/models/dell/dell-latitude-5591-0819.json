@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-5591-0819",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5591",
+  "system_id": "0819",
+  "dmi_matches": [
+    "Latitude 5591",
+    "0819"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-2N50D",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07340737M/1/5591-Win10-A13-2N50D.CAB",
+      "size_bytes": 1293556431,
+      "md5": "D75AD7DC115ED1C58051C3290B297F48",
+      "sha256": "95D10CCCC810E7720C5BC713A5B2731535521335842AC6AB7D55B010BC176B77",
+      "version": null,
+      "release_date": "2021-08-05T10:39:39"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

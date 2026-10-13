@@ -1,0 +1,35 @@
+{
+  "id": "hp-hp-elite-x360-830-13.3-inch-g9-2-in-1-notebook-pc-896e",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC",
+  "system_id": "896E",
+  "dmi_matches": [
+    "896E",
+    "HP Elite x360 830 13.3 inch G9 2-in-1 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp144912-HP EB 8x0 1040 ZB G9 MWS Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144912.exe",
+      "size_bytes": 2507886208,
+      "md5": "d6e501602e579038895e0ca54ecc1301",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "2/24/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149137-HP EB 8x0 1040 ZB G9 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149137.exe",
+      "size_bytes": 1601075504,
+      "md5": "1e8da8a24a0cb2f733c9bc52df9ee7a9",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3650-tower-0a59",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3650 Tower",
+  "system_id": "0A59",
+  "dmi_matches": [
+    "Precision 3650 Tower",
+    "0A59"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M9RFF",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11764633M/1/Precision-3650-Tower-M9RFF_Win11_1.0_A11.exe",
+      "size_bytes": 3774012632,
+      "md5": "B17309CDE38EEBEC8134153F7DD9B0AF",
+      "sha256": "BDB22999D37FBEADEB7E2908EBE9B3144CF09180277A6C7DC221566B0FC93E99",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-VNGYJ",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11764632M/1/Precision-3650-Tower-VNGYJ_Win10_1.0_A16.exe",
+      "size_bytes": 3773998608,
+      "md5": "45B374EE904A2EE7862B80A488AA3414",
+      "sha256": "1D5666E7655B3CAE23525E2C8B50FCC4C93FECB94525907BC45094C326937EB0",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

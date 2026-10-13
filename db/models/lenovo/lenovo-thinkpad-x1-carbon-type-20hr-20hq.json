@@ -1,0 +1,95 @@
+{
+  "id": "lenovo-thinkpad-x1-carbon-type-20hr-20hq",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Carbon Type 20HR 20HQ",
+  "system_id": "20HQ,20HR",
+  "dmi_matches": [
+    "20HQ",
+    "20HR"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20hq-20hr-20k3-20k4_w1064_1703_201705.exe",
+      "size_bytes": null,
+      "md5": "50269859574485486b3e676563e250a2",
+      "sha256": "4eb962ee81850987bb02a76ca15a22532203eaf22ab6ba93b44a72103538fccf",
+      "version": null,
+      "release_date": "2017-05-31"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20hq-20hr-20k3-20k4_w1064_1709_201803.exe",
+      "size_bytes": null,
+      "md5": "2265c4b596a253f7f0f9257bc0ccd749",
+      "sha256": "ab50fc55645acf9af05c7618187888a37d5d14a6af35bdeb2d5afeee4f0e4ea8",
+      "version": null,
+      "release_date": "2017-12-28"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20hq-20hr-20k3-20k4_w1064_1803_201809.exe",
+      "size_bytes": null,
+      "md5": "56b961007c217475f4fa19cf782f5a35",
+      "sha256": "5d239709bfc8c026ae485e71cbc4e33e4a738760e696396bda5afd5e2e53e32d",
+      "version": null,
+      "release_date": "2018-09-25"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20hq-20hr-20k3-20k4_w1064_1809_201903.exe",
+      "size_bytes": null,
+      "md5": "98dc5441f1d5f0d88aea80688dfd4346",
+      "sha256": "bdf05746111e364f54adc437bc5b3776ca9edc9b053d9e5cf65da08167ad7d28",
+      "version": null,
+      "release_date": "2019-03-13"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20hq-20hr-20k3-20k4_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "5aea83459d3531537f5c67416ff4bade",
+      "sha256": "ce89a44aba3d8dec258265a7fc3264356df119aacead95c77f1b70cd3bf583e6",
+      "version": null,
+      "release_date": "2019-04-23"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20hq-20hr-20k3-20k4_w1064_1909_201911.exe",
+      "size_bytes": null,
+      "md5": "79706c648228c83fcd00abe3f7261482",
+      "sha256": "2bdde717a060c3d05af890147b996e2dbd029409929edded588a524b6872cafe",
+      "version": null,
+      "release_date": "2019-11-23"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20hq-20hr-20k3-20k4_w1064_2004_202012.exe",
+      "size_bytes": null,
+      "md5": "87dc7b0f31ef83601223303ad21f29e4",
+      "sha256": "0a1e5e65b558b34eb15112252f91b298f32a99646b9b1726744180d43bce6606",
+      "version": null,
+      "release_date": "2020-05-29"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1carbon_mt20hq-20hr-20k3-20k4_w1064_20h2_202011.exe",
+      "size_bytes": null,
+      "md5": "345a6f867e6b34b750158fa52ef3e0cd",
+      "sha256": "84ee7068a4c555c0ca3fc8a1395dd7a9657f8860d4ca3c5ec46592498e762d08",
+      "version": null,
+      "release_date": "2020-12-04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

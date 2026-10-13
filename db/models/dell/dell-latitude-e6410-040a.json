@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e6410-040a",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6410",
+  "system_id": "040A",
+  "dmi_matches": [
+    "Latitude E6410",
+    "040A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YX4YH",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER01856363M/1/E6410-vista-A04-YX4YH.CAB",
+      "size_bytes": 296996996,
+      "md5": "B136CA8E7C24912E2487A5DE06E506F4",
+      "sha256": "F326FF482E850768D52118B9DC58D8273738EF473C7B27BE0501C884F5C59F71",
+      "version": null,
+      "release_date": "2013-11-22T00:00:00"
+    },
+    {
+      "name": "DellPack-66JCY",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER01854855M/1/E6410-win7-A12-66JCY.CAB",
+      "size_bytes": 698745597,
+      "md5": "804E5E49C7C11F3A1CEA875F37942FF5",
+      "sha256": "28E7CFDE99A69676639ED73988D66749069BEEF0CE3E7CCF67E79179D6DE8F10",
+      "version": null,
+      "release_date": "2013-11-22T00:00:00"
+    },
+    {
+      "name": "DellPack-XHWFD",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER01811363M/1/E6410-xp-A14-XHWFD.CAB",
+      "size_bytes": 414168040,
+      "md5": "673F543F706ECF6509864BC53FCB291F",
+      "sha256": "7FDC9895E0E8EA3967C628F10F1F8323727582E70F02E8E1AAB23B48D66A99B3",
+      "version": null,
+      "release_date": "2013-10-30T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

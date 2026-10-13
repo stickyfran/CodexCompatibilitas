@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elitedesk-8-mini-g1i-desktop-ai-pc-8d15",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 8 Mini G1i Desktop AI PC",
+  "system_id": "8D15",
+  "dmi_matches": [
+    "8D15",
+    "HP EliteDesk 8 Mini G1i Desktop AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp173483-HP ProDesk/Elite Desk Mini G1i Desktop Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173001-173500/sp173483.exe",
+      "size_bytes": 2339228368,
+      "md5": "EDB7AAF447075DD7993267B0CF0F4474",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "6/12/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp168372-HP Engage Flex Mini G2 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168372.exe",
+      "size_bytes": 1331878384,
+      "md5": "52C879481617640C1296D66DB509BE4D",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "12/15/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp168371-HP Engage Flex Mini G2 Windows 11 IoT Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp168001-168500/sp168371.exe",
+      "size_bytes": 1331878392,
+      "md5": "A2D486E818A52D07C8DFAA050C0327E6",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "12/15/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

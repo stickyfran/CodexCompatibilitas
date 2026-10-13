@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7520-0a38",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7520",
+  "system_id": "0A38",
+  "dmi_matches": [
+    "Latitude 7520",
+    "0A38"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JRGHN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11803509M/1/Latitude-7520-JRGHN_Win10_1.0_A12.exe",
+      "size_bytes": 1744068768,
+      "md5": "CFE65E0AE3B25B17981ACC4666622AA2",
+      "sha256": "D2C1B88B18E0CF06A77205F03FAE9E9B6B18A5FA160D82AD1150042E8CA40935",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-N62TH",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11803510M/1/Latitude-7520-N62TH_Win11_1.0_A06.exe",
+      "size_bytes": 1741407760,
+      "md5": "C678BD332FA068E1C6497BEDE54EF0CD",
+      "sha256": "DFFA1D4D80CBDE89E1B4FB0BCBD3420D5812F1F0C6A91D084FF9C7DC247590F6",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

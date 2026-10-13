@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5310-2-in-1-099e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5310 2 in 1",
+  "system_id": "099E",
+  "dmi_matches": [
+    "Latitude 5310 2 in 1",
+    "099E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9RW7H",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09530204M/1/5310-2-IN-1-9RW7H_Win10_1.0_A13.exe",
+      "size_bytes": 1721545528,
+      "md5": "841DBC267B35F69215D54D5985A32A80",
+      "sha256": "A6BD25A72C75702F0755551C73A3C72CCBC19161275FD93655F7F07AC2033778",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    },
+    {
+      "name": "DellPack-6WGGR",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09530172M/1/5310-2-IN-1-6WGGR_Win11_1.0_A02.exe",
+      "size_bytes": 1722327992,
+      "md5": "C49F4A5A4B88F79EB2DFB18497D111FC",
+      "sha256": "FF1BDB39C7A8B6F24904659FA3E55348067F165BAFD282B68BD51C6978B9EF42",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

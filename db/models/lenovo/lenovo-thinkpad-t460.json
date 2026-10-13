@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-t460",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T460",
+  "system_id": "20FN,20FM",
+  "dmi_matches": [
+    "20FN",
+    "20FM"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t460_w1064_202001.exe",
+      "size_bytes": null,
+      "md5": "1c55e45c263bc21f8f4f76437d62a40f",
+      "sha256": "ab491585cd78dd1e10e8db9fd73345abaa1c8ef6c5a4f1642f43e2449ea5cb23",
+      "version": null,
+      "release_date": "2020-01-14"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

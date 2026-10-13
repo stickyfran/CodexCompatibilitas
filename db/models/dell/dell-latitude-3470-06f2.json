@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3470-06f2",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3470",
+  "system_id": "06F2",
+  "dmi_matches": [
+    "Latitude 3470",
+    "06F2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-094G8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05282751M/1/3470-Win10-A12-094G8.CAB",
+      "size_bytes": 770530391,
+      "md5": "57A8E17407412D8C62FF64175FBD8D07",
+      "sha256": "E964912C47C647C2E7F669EC6838F410BE549DC894155F55F01585CE7B08966D",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-4FY4G",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05282885M/1/3470-win7-A11-4FY4G.CAB",
+      "size_bytes": 1101258698,
+      "md5": "91FD6402DDB06D472D3973F0871804CB",
+      "sha256": "7CE8C1999F07CDC93F755EA99F6464161EFBCACCEED13A321BA1D37D6759ABCA",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-HNPMM",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03798255M/1/3470-win8.1-A02-HNPMM.CAB",
+      "size_bytes": 558125901,
+      "md5": "E9F42302395FE2D97ED245E2E4386681",
+      "sha256": "6387639ABAD989F07A9253C7807E79948BD5297F35A5E3BD7B737274ADD9AF03",
+      "version": null,
+      "release_date": "2016-08-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

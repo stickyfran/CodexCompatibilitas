@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-5040-06ba",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5040",
+  "system_id": "06BA",
+  "dmi_matches": [
+    "OptiPlex 5040",
+    "06BA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TF53Y",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05290024M/1/5040-Win10-A13-TF53Y.CAB",
+      "size_bytes": 717545077,
+      "md5": "A0EF64F8680A41F932DCCC08045951E6",
+      "sha256": "D1B7187CB3ADC98FB939DC1F83711B14335C9BF0557875163E329EBC1F174859",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-CDPPX",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05290188M/1/5040-win7-A12-CDPPX.CAB",
+      "size_bytes": 1184763004,
+      "md5": "B0CA30C42BA1B1C2A8847993E44397EB",
+      "sha256": "D76D33073AD228B56D8707F278F742525AC331C518E16321CBF759860DE5BDF6",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-JV3D3",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03765249M/1/5040-win8.1-A03-JV3D3.CAB",
+      "size_bytes": 431860797,
+      "md5": "A5AB8722CEB559F5A486676520459BA2",
+      "sha256": "AAFB656B6E69AA10B8EB2196DAD28B7AAA6D8ED424F0F111048C65ED75A4B9CD",
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

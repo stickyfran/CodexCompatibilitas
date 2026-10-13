@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-zbook-create-g7-notebook-pc-8736",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Create G7 Notebook PC",
+  "system_id": "8736",
+  "dmi_matches": [
+    "8736",
+    "HP ZBook Create G7 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp110361-HP ZBook Studio G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110361.exe",
+      "size_bytes": 993965424,
+      "md5": "0441c6100a4578690391a5f87a20dd87",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/6/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113952-HP ZBook Studio G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113952.exe",
+      "size_bytes": 1300895432,
+      "md5": "966c14b2c40b86864e3669dd74e325b7",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "5/21/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140788-HP ZBook Studio G7 Window 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140501-141000/sp140788.exe",
+      "size_bytes": 1300909400,
+      "md5": "d26561df11c6310be35bbebb9af93a49",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "6/23/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

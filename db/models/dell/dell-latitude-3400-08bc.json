@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3400-08bc",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3400",
+  "system_id": "08BC",
+  "dmi_matches": [
+    "Latitude 3400",
+    "08BC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-2XWPG",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11353259M/1/3400-2XWPG_Win11_1.0_A01.exe",
+      "size_bytes": 2154819408,
+      "md5": "09166D8D80960523AA53DE336791E7B0",
+      "sha256": "DB88E21B2E6FD59F325086E8BE48541D56E2974B49C598B5F45AC6B50946A165",
+      "version": null,
+      "release_date": "2024-03-22T05:21:28"
+    },
+    {
+      "name": "DellPack-992P5",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11311929M/1/3400-992P5_Win10_1.0_A13.exe",
+      "size_bytes": 2147749800,
+      "md5": "A02C24F69D149C28F8A87F10FAE6152C",
+      "sha256": "EB05BB079947A104B62636865F8CAF35DA23470BB815000FA99C66FC9B8C3BA5",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

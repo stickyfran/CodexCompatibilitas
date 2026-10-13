@@ -1,0 +1,65 @@
+{
+  "id": "hp-hp-elitebook-x360-1040-g5-notebook-pc-8470",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 1040 G5 Notebook PC",
+  "system_id": "8470",
+  "dmi_matches": [
+    "8470",
+    "HP EliteBook x360 1040 G5 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp92312-HP EliteBook x360 1040 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92312.exe",
+      "size_bytes": 627241760,
+      "md5": "e61cf6f2eac97af0c0fa98f0587b1a4b",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/19/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp95432-HP EliteBook x360 1040 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95432.exe",
+      "size_bytes": 621437848,
+      "md5": "f4993aef972c6f863cf3c7b205ba9d30",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/21/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp102088-HP EliteBook x360 1040 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102088.exe",
+      "size_bytes": 712510408,
+      "md5": "fcfed2f5e9fddf1be030e8ae57ada7c9",
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "3/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103610-HP EliteBook x360 1040 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103610.exe",
+      "size_bytes": 683147368,
+      "md5": "be4810f4b4202c56fc5660e155d836fe",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114187-HP EliteBook x360 1040 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114187.exe",
+      "size_bytes": 1497461624,
+      "md5": "728db67da6b14e4aa091e1f7703f242b",
+      "sha256": null,
+      "version": "13.00 A 1",
+      "release_date": "6/14/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

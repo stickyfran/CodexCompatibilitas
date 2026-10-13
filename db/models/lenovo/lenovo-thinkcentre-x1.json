@@ -1,0 +1,31 @@
+{
+  "id": "lenovo-thinkcentre-x1",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre X1",
+  "system_id": "10KE,10JY,10KF,10K0,10JX,10HU,10JW,10HT",
+  "dmi_matches": [
+    "10KE",
+    "10JY",
+    "10KF",
+    "10K0",
+    "10JX",
+    "10HU",
+    "10JW",
+    "10HT"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-*",
+      "os": "win10-*",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_x1_w10_64_20160224.exe",
+      "size_bytes": null,
+      "md5": "025f4dbc97aafce3ce895a44f9a28441",
+      "sha256": "ec0dad9db9aafe49b35a627f86f1ee576f3fa5a8263b202e73ac9a57d7be6a34",
+      "version": null,
+      "release_date": "2017-03-15"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e6500-024f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6500",
+  "system_id": "024F",
+  "dmi_matches": [
+    "Latitude E6500",
+    "024F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7KWJP",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02043631M/1/E6500-vista-A03-7KWJP.CAB",
+      "size_bytes": 177528215,
+      "md5": "E58119483B1298B23D69D294764FCC51",
+      "sha256": "BE687D2516A05320B32A801AFD4EC76DBDB0DBA1606E4666F90F9DBA4175EF1B",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-JJ15G",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02581686M/1/E6500-win7-A05-JJ15G.CAB",
+      "size_bytes": 366917755,
+      "md5": "C14B2C21F8B9FF05A59E3CD42C7BB6CA",
+      "sha256": "74C3E8BEE7F4CE3123DA375032D2DFAEC3F7934B1E4CA82FA8ED8020B56C85FA",
+      "version": null,
+      "release_date": "2014-10-13T00:00:00"
+    },
+    {
+      "name": "DellPack-872GX",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02043560M/1/E6500-xp-A06-872GX.CAB",
+      "size_bytes": 280308637,
+      "md5": "71C08F2B8AA30B2EB6B7F07888EEC94E",
+      "sha256": "0B76F7DEE32C074DCC716D1C074CDE7A72695A30B3B75EC15DCE6DBE62FF14D1",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

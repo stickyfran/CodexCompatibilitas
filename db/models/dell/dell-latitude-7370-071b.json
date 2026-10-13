@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-7370-071b",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7370",
+  "system_id": "071B",
+  "dmi_matches": [
+    "Latitude 7370",
+    "071B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-W8J2J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05575873M/1/7370-win10-A16-W8J2J.CAB",
+      "size_bytes": 509131080,
+      "md5": "22358B913FD0BBEDC08680DFD010B738",
+      "sha256": "8E007B8E3102CA37E4AA3BD9B758DC1DF3B98255119BD2AE3F0143D72D92E82A",
+      "version": null,
+      "release_date": "2019-06-11T00:00:00"
+    },
+    {
+      "name": "DellPack-Y2PWM",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05576201M/1/7370-win7-A13-Y2PWM.CAB",
+      "size_bytes": 471744673,
+      "md5": "28018C07E6773969BADAE5649B85B569",
+      "sha256": "6E39409D121EBA0D1383BD5935B25AC9F93441A4FAD93AA177DD89D476FE425F",
+      "version": null,
+      "release_date": "2019-06-11T00:00:00"
+    },
+    {
+      "name": "DellPack-11F9R",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03889647M/1/7370-win8.1-A05-11F9R.CAB",
+      "size_bytes": 507725349,
+      "md5": "ED27D4193ED221D93A26CECEE38378F4",
+      "sha256": "98E99DFCF2745121A27D09FDA55D6216EE248180E09ED396DBF8DAB0C64B2435",
+      "version": null,
+      "release_date": "2016-09-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

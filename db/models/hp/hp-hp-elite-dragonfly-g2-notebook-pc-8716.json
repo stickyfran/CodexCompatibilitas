@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-elite-dragonfly-g2-notebook-pc-8716",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Elite Dragonfly G2 Notebook PC",
+  "system_id": "8716",
+  "dmi_matches": [
+    "8716",
+    "HP Elite Dragonfly G2 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp111812-HP Elite Dragonfly G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp111501-112000/sp111812.exe",
+      "size_bytes": 1212844304,
+      "md5": "037258fe0bd26f06879b16000b5c7b7e",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "12/22/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114253-HP Elite Dragonfly G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114253.exe",
+      "size_bytes": 1358374384,
+      "md5": "0c5cb9b6be7ba66beec72ff3c37f67be",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "6/23/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp145158-HP Elite Dragonfly G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145158.exe",
+      "size_bytes": 1191290704,
+      "md5": "9f168b413647abb1316c34960876763e",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/15/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp142910-HP Elite Dragonfly G2 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142910.exe",
+      "size_bytes": 1291829184,
+      "md5": "a822888dc9d0f30f1d532766a32390c8",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/6/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

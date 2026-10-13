@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-elitedesk-8-tower-g1i-desktop-ai-pc-8d10",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 8 Tower G1i Desktop AI PC",
+  "system_id": "8D10",
+  "dmi_matches": [
+    "8D10",
+    "HP EliteDesk 8 Tower G1i Desktop AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp173938-HP EliteDesk/ProDesk Z1 G1i Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173938.exe",
+      "size_bytes": 2828993104,
+      "md5": "4A2EFDACEE09D41C5A170690CF5C14F8",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "8/31/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

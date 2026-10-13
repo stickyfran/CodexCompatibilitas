@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3560-06f1",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3560",
+  "system_id": "06F1",
+  "dmi_matches": [
+    "Latitude 3560",
+    "06F1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-W97JT",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05282644M/1/3560-win10-A12-W97JT.CAB",
+      "size_bytes": 924480336,
+      "md5": "7101362B7BF247098A3FA5E09302E195",
+      "sha256": "E6CB8C077B09A0A83C71716111B0CDC15CF660B7D0D46C1C8445E8E2F7908191",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-6WG94",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05295715M/1/3560-win7-A11-6WG94.CAB",
+      "size_bytes": 1067233531,
+      "md5": "3F190243BCB57D265E44918ECE9D6430",
+      "sha256": "1916F7CE8761D3155527907990B205AD6FF00D9351CD9D038B4FCA9EEC8F03D6",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-TC2W1",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03798197M/1/3560-win8.1-A02-TC2W1.CAB",
+      "size_bytes": 552796694,
+      "md5": "62630F01B21D4491E2E0234B560E47DD",
+      "sha256": "23A7DC4A0674A1821FB7C21A4ACCFEC7A1596798231A4F67E0D211ABCFA5E8AC",
+      "version": null,
+      "release_date": "2016-08-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

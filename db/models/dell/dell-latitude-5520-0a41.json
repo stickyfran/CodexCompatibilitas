@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5520-0a41",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5520",
+  "system_id": "0A41",
+  "dmi_matches": [
+    "Latitude 5520",
+    "0A41"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7X6JY",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11790727M/1/Latitude-5520-7X6JY_Win10_1.0_A20.exe",
+      "size_bytes": 3149770720,
+      "md5": "BB32FA6CA5B22AF35166BF371F038C00",
+      "sha256": "EA33EA64DBD34409149D5319406B202E8E9D8F42432047F1BF334D92D4B463C8",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-6WMJ8",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11790730M/1/Latitude-5520-6WMJ8_Win11_1.0_A12.exe",
+      "size_bytes": 3150065664,
+      "md5": "922BB39C70A6E262566C81C5350037E3",
+      "sha256": "D35CF4693951A4D2E8B31812711F06D31F96F25EBA23AA8EF3D556372AF65107",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

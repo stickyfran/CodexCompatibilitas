@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5401-0918",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5401",
+  "system_id": "0918",
+  "dmi_matches": [
+    "Latitude 5401",
+    "0918"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-DP6JK",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08755494M/1/5401-DP6JK_Win10_1.0_A13.exe",
+      "size_bytes": 1834706232,
+      "md5": "6EA510DF9648B883831296DC185E6445",
+      "sha256": "B4F74C710C8A2C5AE35887C5887042DC92CC1C97E07995909CF9C53E08976194",
+      "version": null,
+      "release_date": "2022-07-12T07:07:18"
+    },
+    {
+      "name": "DellPack-T77KG",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09896784M/1/5401-T77KG_Win11_1.0_A00.exe",
+      "size_bytes": 2104242392,
+      "md5": "527D1865FBBB91BDE09D23F12D52E8E0",
+      "sha256": "E50C87972835A5275C4447385AB5EB8B4E635AE2673A6B4DFD4FC04EDB46014D",
+      "version": null,
+      "release_date": "2023-04-27T05:36:32"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

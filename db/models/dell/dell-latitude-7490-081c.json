@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-7490-081c",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7490",
+  "system_id": "081C",
+  "dmi_matches": [
+    "Latitude 7490",
+    "081C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-33GP2",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11116639M/1/Latitude-7490-33GP2_Win10_1.0_A16.exe",
+      "size_bytes": 996943232,
+      "md5": "C29B207650DA5D90C084BF304EDC08CD",
+      "sha256": "4617773D5CD59F13BC0918A38FECFA81C7A0195E3FB70F226D27CB2CC63289EF",
+      "version": null,
+      "release_date": "2024-01-22T07:15:21"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

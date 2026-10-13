@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-zhan-66-pro-13-g2-notebook-pc-85a3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP ZHAN 66 Pro 13 G2 Notebook PC",
+  "system_id": "85a3",
+  "dmi_matches": [
+    "85a3",
+    "HP ZHAN 66 Pro 13 G2 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp102073-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102073.exe",
+      "size_bytes": 791414560,
+      "md5": "2b6baaf712394577fd4ea82eb08c180a",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "3/20/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp102074-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102074.exe",
+      "size_bytes": 794676896,
+      "md5": "38b396f3ef8c9c988fc0841a53bc0428",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/20/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103623-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103623.exe",
+      "size_bytes": 793097208,
+      "md5": "c12464bf48b6116de30bca70577faf72",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113701-HP ProBook 4x0 G6/ZHAN G2 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113701.exe",
+      "size_bytes": 1396861184,
+      "md5": "53887496f63b248979a92f6735a1b89c",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "6/9/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

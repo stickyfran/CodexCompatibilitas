@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-probook-650-g5-notebook-pc-856e",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 650 G5 Notebook PC",
+  "system_id": "856e",
+  "dmi_matches": [
+    "856e",
+    "HP ProBook 650 G5 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp95056-HP Probook 6x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp95001-95500/sp95056.exe",
+      "size_bytes": 670887624,
+      "md5": "65a96b8a7964604213afa65f033a8fc7",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "5/15/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101915-HP Probook 6x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101915.exe",
+      "size_bytes": 825661376,
+      "md5": "f5f045b7afe13c9d7992502680930721",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/19/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110080-HP Probook 6x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110080.exe",
+      "size_bytes": 1329343424,
+      "md5": "4bac59b75c0d9178e871fbf7135b524e",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "9/15/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114135-HP Probook 6x0 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114135.exe",
+      "size_bytes": 1524828880,
+      "md5": "76c3f5eb2f4fefb336a708a4f860e011",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "6/7/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

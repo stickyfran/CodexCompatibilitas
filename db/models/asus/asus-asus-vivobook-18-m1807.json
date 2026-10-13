@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-vivobook-18-m1807",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Asus Vivobook 18 M1807",
+  "system_id": "M1807",
+  "dmi_matches": [
+    "M1807"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

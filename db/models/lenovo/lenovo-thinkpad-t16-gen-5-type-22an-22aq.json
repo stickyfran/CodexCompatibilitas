@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-t16-gen-5-type-22an-22aq",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T16 Gen 5 Type 22AN 22AQ",
+  "system_id": "22AQ,22AN",
+  "dmi_matches": [
+    "22AQ",
+    "22AN"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_7a_mt22al-22am_t16_gen_5a_mt22an-22aq_w11_24h2_25h2_202609.exe",
+      "size_bytes": null,
+      "md5": "1cb20b4a90e8b9812c08a342f6a0d6ae",
+      "sha256": "a8a567e2f61a2b37ac0af3cb7f972abeb1bec20338658b55d0ee74c007da088a",
+      "version": null,
+      "release_date": "2026-09-15"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14_gen_7a_mt22al-22am_t16_gen_5a_mt22an-22aq_w11_24h2_25h2_202609.exe",
+      "size_bytes": null,
+      "md5": "1cb20b4a90e8b9812c08a342f6a0d6ae",
+      "sha256": "a8a567e2f61a2b37ac0af3cb7f972abeb1bec20338658b55d0ee74c007da088a",
+      "version": null,
+      "release_date": "2026-09-15"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

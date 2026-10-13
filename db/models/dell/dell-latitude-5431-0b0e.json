@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5431-0b0e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5431",
+  "system_id": "0B0E",
+  "dmi_matches": [
+    "Latitude 5431",
+    "0B0E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RTNVN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12821049M/1/Latitude-5431-RTNVN_Win10_1.0_A11.exe",
+      "size_bytes": 2735122456,
+      "md5": "43BD014E987A1AE5F30FC53D148EA378",
+      "sha256": "E0FC2DC919F87B61DE25C3A17DF8257A81A854D10A84CCDC623FD3045B59ED9C",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-254PJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12821048M/1/Latitude-5431-254PJ_Win11_1.0_A11.exe",
+      "size_bytes": 2494599312,
+      "md5": "4FA326CFAE7FE250FA049BDD4606D5E0",
+      "sha256": "9A965F316CAE53B41AB6918D9E8C1E2248B50195101BACF2B762C604E6863D07",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

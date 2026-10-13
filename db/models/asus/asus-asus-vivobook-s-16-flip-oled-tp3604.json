@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-vivobook-s-16-flip-oled-tp3604",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Asus Vivobook S 16 Flip Oled Tp3604",
+  "system_id": "TP3604",
+  "dmi_matches": [
+    "TP3604"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

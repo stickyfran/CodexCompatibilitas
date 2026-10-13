@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7275-06d6",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7275",
+  "system_id": "06D6",
+  "dmi_matches": [
+    "Latitude 7275",
+    "06D6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-M0K80",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05574863M/1/7275-win10-A13-M0K80.CAB",
+      "size_bytes": 592381465,
+      "md5": "D41F127FF6ED4C25C2A489DA18EE84C4",
+      "sha256": "EC0F5229710E04A460C1BA88307503391DC457CD6BC61557A6BD6EA3B2E7E423",
+      "version": null,
+      "release_date": "2019-06-11T00:00:00"
+    },
+    {
+      "name": "DellPack-H33GF",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03812256M/1/7275-Win8.1-A03-H33GF.CAB",
+      "size_bytes": 431440763,
+      "md5": "AEC6D50EBF514C53A844F0F02CB17BA1",
+      "sha256": "4B7EB5BAA0EE20D81845989E538CB9D2BCC207632B17895CEBA1B35D07CDD453",
+      "version": null,
+      "release_date": "2016-07-26T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

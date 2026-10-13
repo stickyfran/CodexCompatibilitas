@@ -1,0 +1,56 @@
+{
+  "id": "hp-hp-elitebook-640-14-inch-g9-notebook-pc-8aa6",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 640 14 inch G9 Notebook PC",
+  "system_id": "8AA6,897B",
+  "dmi_matches": [
+    "8AA6",
+    "897B",
+    "HP EliteBook 640 14 inch G9 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145052-HP EB 4/6x0 G9 ZHAN Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145052.exe",
+      "size_bytes": 1804608680,
+      "md5": "aa59f9836bfec14884aef18d2ce87f10",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "3/1/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149088-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149088.exe",
+      "size_bytes": 1580264856,
+      "md5": "7bb8421a071d04892d9cc59adbb80964",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp151808-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp151501-152000/sp151808.exe",
+      "size_bytes": 1803198400,
+      "md5": "972f74b2586ed51ed6a7cdb65806f864",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "3/25/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp155186-HP EB 4/6x0 G9 ZHAN Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp155001-155500/sp155186.exe",
+      "size_bytes": 2065787272,
+      "md5": "DAF5D3EC0A949B6B146E57EFDFCD72DE",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "11/27/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

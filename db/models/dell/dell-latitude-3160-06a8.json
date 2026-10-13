@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3160-06a8",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3160",
+  "system_id": "06A8",
+  "dmi_matches": [
+    "Latitude 3160",
+    "06A8"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-464RT",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04319691M/1/3160-win10-A05-464RT.CAB",
+      "size_bytes": 352808956,
+      "md5": "95D8031E9A63E38E59AFA9CAAF33A1B1",
+      "sha256": "0FFDD3730E11C1D497A903311EBE3173F640A8341F98E4C64031083E2CE2654A",
+      "version": null,
+      "release_date": "2017-05-09T00:00:00"
+    },
+    {
+      "name": "DellPack-H6NXX",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER04530808M/1/3160-win7-A07-H6NXX.CAB",
+      "size_bytes": 346363573,
+      "md5": "77DA931528DC91165809B7ECBBF1EDBD",
+      "sha256": "5A295ED01E23D58B4BA6F49A26FEBFC3C755172C35A56A179165B11176E0C69E",
+      "version": null,
+      "release_date": "2017-11-15T00:00:00"
+    },
+    {
+      "name": "DellPack-JG9XJ",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03511991M/1/3160-win8.1-A02-JG9XJ.CAB",
+      "size_bytes": 256022749,
+      "md5": "28437C5FED901D39416673A85F242A88",
+      "sha256": "98D673913353C41D85889846444C5E99CD5BAA98D4941D219962B38489AECAF9",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

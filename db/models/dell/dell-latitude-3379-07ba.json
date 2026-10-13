@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-3379-07ba",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3379",
+  "system_id": "07BA",
+  "dmi_matches": [
+    "Latitude 3379",
+    "07BA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-F6H07",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05295607M/1/3379-Win10-A07-F6H07.CAB",
+      "size_bytes": 540243131,
+      "md5": "D7F4BC9A1EC3CA3C1025DF384978DF51",
+      "sha256": "2C76E51FA4A0B3D23FFADA9FCF37AD4B25DF40C381D343AA6C7B8959E05DE75A",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

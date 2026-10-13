@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-pro-x360-fortis-11-inch-g10-notebook-pc-89b1",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro x360 Fortis 11 inch G10 Notebook PC",
+  "system_id": "89B1",
+  "dmi_matches": [
+    "89B1",
+    "HP Pro x360 Fortis 11 inch G10 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145122-HP Pro x360 Fortis 11 G10 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145001-145500/sp145122.exe",
+      "size_bytes": 962408496,
+      "md5": "d715d09d422c2a1f0a153e905d25e299",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "3/10/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149060-HP Pro x360 Fortis G10 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149060.exe",
+      "size_bytes": 767658592,
+      "md5": "e65d4c9a917a3df72ddd99cae646ad67",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "8/31/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158075-HP Pro x360 Fortis 11 G10 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158075.exe",
+      "size_bytes": 1264115040,
+      "md5": "12E0F8BC460B216146899DB9378F985D",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/25/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

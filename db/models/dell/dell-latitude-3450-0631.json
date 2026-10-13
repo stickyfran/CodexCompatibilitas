@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3450-0631",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3450",
+  "system_id": "0631",
+  "dmi_matches": [
+    "Latitude 3450",
+    "0631"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-TJ5YR",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04847957M/1/3450-Win10-A07-TJ5YR.CAB",
+      "size_bytes": 837711085,
+      "md5": "604D040879DB901AC6370FDBC741DE84",
+      "sha256": "10850CEB62281069BC70CA8225A43B0C7676E832EDDEF0B1093C3CF1840DA835",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-MMP4V",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04846788M/1/3450-Win7-A09-MMP4V.CAB",
+      "size_bytes": 798912512,
+      "md5": "98D37802A512AEFF7B88C37961C6D691",
+      "sha256": "B8E3440591ACF718910CCF5D62C9F2F53C5A610E08726F6DB881E46D68BB2DAF",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-WCJ45",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03471546M/1/3450-win8.1-A04-WCJ45.CAB",
+      "size_bytes": 467480841,
+      "md5": "82D2F8F5E0CCBC4C02475706167F3DF4",
+      "sha256": "39490D31DA2359C217AEA642DE96BB490C868A90AEDD2EB7F3DEA5194521B4A2",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

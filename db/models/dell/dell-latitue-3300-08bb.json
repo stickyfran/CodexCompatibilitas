@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitue-3300-08bb",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitue 3300",
+  "system_id": "08BB",
+  "dmi_matches": [
+    "Latitue 3300",
+    "08BB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-K15N4",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08644746M/1/3300_Win10_K15N4_64Bit_1.0_A13.exe",
+      "size_bytes": 2050709888,
+      "md5": "BE6CBB2BEBB9BC898E20F7A753105E31",
+      "sha256": "2A984C0FA1398D6F8A7BDDD6E3BFC60C6DEEE7314A7D76261E4DAC3ABFF14258",
+      "version": null,
+      "release_date": "2022-06-13T14:57:24"
+    },
+    {
+      "name": "DellPack-67P1H",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08103691M/1/3300-win11-A00-67P1H.CAB",
+      "size_bytes": 828272595,
+      "md5": "20EFA7CAB072B4782B34369C8CB71BC5",
+      "sha256": "81DAF4705D3DFE0F37E53A83684EA079C1DB483F8E8B1EF48820B459E1B98E97",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

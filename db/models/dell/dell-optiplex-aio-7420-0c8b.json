@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-aio-7420-0c8b",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex AIO 7420",
+  "system_id": "0C8B",
+  "dmi_matches": [
+    "OptiPlex AIO 7420",
+    "0C8B"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GVJ7G",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13681622M/1/OptiPlex-AIO-7420-GVJ7G_Win10_1.0_A09.exe",
+      "size_bytes": 1968181952,
+      "md5": "066C7DB045E6CAD828644521A312A8A1",
+      "sha256": "457DA05A18A30DDC377932CD39F360E152B944E8341EE59F8373E7D99B298340",
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    },
+    {
+      "name": "DellPack-P1N5T",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13681632M/1/OptiPlex-AIO-7420-P1N5T_Win11_1.0_A09.exe",
+      "size_bytes": 1962963976,
+      "md5": "1436C7E0ED710187FB43C28DF605400F",
+      "sha256": "AC832D5B86B90A3E9B993FF948FE35D8B6D4FE3DA73240828CFEC103D20933E2",
+      "version": null,
+      "release_date": "2025-11-21T04:56:03"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

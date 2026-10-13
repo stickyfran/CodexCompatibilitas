@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3551-09c2",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3551",
+  "system_id": "09C2",
+  "dmi_matches": [
+    "Precision 3551",
+    "09C2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-T87W9",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09529840M/1/3551-T87W9_Win10_1.0_A08.exe",
+      "size_bytes": 2739517680,
+      "md5": "2A4AD41ABB989721C60F89A94C39851B",
+      "sha256": "2BBE88694478BF8D8EF47EB931827A2982A810EE135A07628BB221A7B530BE78",
+      "version": null,
+      "release_date": "2023-03-27T01:30:35"
+    },
+    {
+      "name": "DellPack-N32F0",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09530789M/1/3551-N32F0_Win11_1.0_A00.exe",
+      "size_bytes": 2740178440,
+      "md5": "6C257E1B954FF966C02145B4725AF07E",
+      "sha256": "0BF8CD05BA37266EF43A0B064984398993A61A806D09281E97D164423D1745A4",
+      "version": null,
+      "release_date": "2023-03-27T01:30:35"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

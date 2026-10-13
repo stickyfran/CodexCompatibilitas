@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-chromebook-flip-c433",
+  "vendor": "ASUS",
+  "family": "ASUS",
+  "model_name": "Asus Chromebook Flip C433",
+  "system_id": "C433",
+  "dmi_matches": [
+    "C433"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

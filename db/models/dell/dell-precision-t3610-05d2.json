@@ -1,0 +1,55 @@
+{
+  "id": "dell-precision-t3610-05d2",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T3610",
+  "system_id": "05D2",
+  "dmi_matches": [
+    "Precision T3610",
+    "05D2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XPNV2",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04895591M/1/T3610-win10-A03-XPNV2.CAB",
+      "size_bytes": 1012779629,
+      "md5": "FA6C80B960D7B977F3C6A8799899B5EB",
+      "sha256": "7BE4C036CDD12A3EABC99D3C5218DB6DC6DFC6E01CCD3D41BF92EFB29F1E6502",
+      "version": null,
+      "release_date": "2018-04-16T00:00:00"
+    },
+    {
+      "name": "DellPack-PH3M0",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04900540M/1/T3610-win7-A09-PH3M0.CAB",
+      "size_bytes": 723907858,
+      "md5": "B214E5B7F8CF2F328CB5DAF8B7E1DF87",
+      "sha256": "353A5B82A3513D60550BC54340A4C03A50396D617B9D59728D683BFF1FD210F1",
+      "version": null,
+      "release_date": "2018-04-16T00:00:00"
+    },
+    {
+      "name": "DellPack-CK4H5",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03487527M/1/T3610-win8.1-A05-CK4H5.CAB",
+      "size_bytes": 786139931,
+      "md5": "359D096EB728CDB59C0C1A36AFEBC4B1",
+      "sha256": "7E6C39B21FFEDD47FCE09DED29C2B522EF3E83D415312D8D2882320FF6303690",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-6RXX0",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02618208M/1/T3610-win8-A04-6RXX0.CAB",
+      "size_bytes": 585013317,
+      "md5": "BB3C287E59CF624BEF6D584995E4A488",
+      "sha256": "4CAA573CE0839ADE09817707F2EFDB8BF50AF55A1ACA8EF78315E80C84F8CF7B",
+      "version": null,
+      "release_date": "2014-11-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

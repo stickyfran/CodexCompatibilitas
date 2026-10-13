@@ -1,0 +1,25 @@
+{
+  "id": "lenovo-thinkpad-e14-gen-8-type-21y8-21y9",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad E14 Gen 8 Type 21Y8 21Y9",
+  "system_id": "21Y9,21Y8",
+  "dmi_matches": [
+    "21Y9",
+    "21Y8"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_g8_l14p_g7_e16_g4_mt21y8-y9-yb-ye-yf_w11_25h2_20260528.exe",
+      "size_bytes": null,
+      "md5": "fa330674b5d376d64910c2b9d2073efc",
+      "sha256": "d7b61d0f0011be2c5e5b554edafc10131958fc535144d5e903ef593cbcb18f1c",
+      "version": null,
+      "release_date": "2026-06-19"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

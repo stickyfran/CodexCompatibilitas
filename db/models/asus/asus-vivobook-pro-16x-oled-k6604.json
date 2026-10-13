@@ -1,0 +1,13 @@
+{
+  "id": "asus-vivobook-pro-16x-oled-k6604",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Vivobook Pro 16X Oled K6604",
+  "system_id": "K6604",
+  "dmi_matches": [
+    "K6604"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

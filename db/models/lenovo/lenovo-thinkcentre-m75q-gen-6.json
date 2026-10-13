@@ -1,0 +1,47 @@
+{
+  "id": "lenovo-thinkcentre-m75q-gen-6",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M75Q Gen 6",
+  "system_id": "13R4,13K2,13U8,13R2,13JV,13R6,13U6,13R7,13K3,13QB,13JT,13R3,13R5,13JY,13K1,13QA,13QC,13U7,13U9,13QD,13JX,13JW,13JU,13K0",
+  "dmi_matches": [
+    "13R4",
+    "13K2",
+    "13U8",
+    "13R2",
+    "13JV",
+    "13R6",
+    "13U6",
+    "13R7",
+    "13K3",
+    "13QB",
+    "13JT",
+    "13R3",
+    "13R5",
+    "13JY",
+    "13K1",
+    "13QA",
+    "13QC",
+    "13U7",
+    "13U9",
+    "13QD",
+    "13JX",
+    "13JW",
+    "13JU",
+    "13K0"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m75tsq_gen6_w11_25_202607.exe",
+      "size_bytes": null,
+      "md5": "479af557369141deb6a65685b3ed9e1b",
+      "sha256": "b839860e37531b794e59a06a1c64cd7123aea6d3154b7f66933eaff6ba2e73ea",
+      "version": null,
+      "release_date": "2026-08-28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

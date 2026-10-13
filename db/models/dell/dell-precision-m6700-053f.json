@@ -1,0 +1,65 @@
+{
+  "id": "dell-precision-m6700-053f",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M6700",
+  "system_id": "053F",
+  "dmi_matches": [
+    "Precision M6700",
+    "053F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-T08R2",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03650102M/1/M6700-win10-A02-T08R2.CAB",
+      "size_bytes": 1107516871,
+      "md5": "0B744009FF68090C814FBC2D30AA1622",
+      "sha256": "8AC9D7AC8DFD4BE0AF40E8538AA0D0CEB3D160A7BBDF67F5BF0A16233E2666EB",
+      "version": null,
+      "release_date": "2016-04-15T00:00:00"
+    },
+    {
+      "name": "DellPack-8RM4M",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02892096M/1/M6700-win7-A11-8RM4M.CAB",
+      "size_bytes": 798988557,
+      "md5": "18931F892C9EB3330841C4C1B98FEC16",
+      "sha256": "E6555E0C2EC5F0AA62E00285DFFB0F41FA5DB994AE336711A3E39CC0DA65FC10",
+      "version": null,
+      "release_date": "2015-05-11T00:00:00"
+    },
+    {
+      "name": "DellPack-PMXFM",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02270568M/1/M6700-win8.1-A02-PMXFM.CAB",
+      "size_bytes": 884030181,
+      "md5": "F33000F7E613949E40B2F38896267C0F",
+      "sha256": "5CCDE9E46E4941FD0AFF5A56701318C861AF1B255C645652F195B5B8242520FE",
+      "version": null,
+      "release_date": "2014-07-31T00:00:00"
+    },
+    {
+      "name": "DellPack-V6TJC",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02617271M/1/M6700-win8-A05-V6TJC.CAB",
+      "size_bytes": 793673274,
+      "md5": "C49E55EC9EC26CBDC27C400823414CD9",
+      "sha256": "BED0B2191B2B4263E182B7705DCCB6BFC16B12CC99C13A51FA8DA7E036D25472",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-7V4KD",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02141080M/1/M6700-xp-A07-7V4KD.CAB",
+      "size_bytes": 633597468,
+      "md5": "2515006363425D937FA956976C75A967",
+      "sha256": "C0B20B26B89A126138EF1BF4B86D32556BBBF266A13744EC4BBA8F588C519036",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

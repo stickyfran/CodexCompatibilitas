@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-xt3-04b4",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude XT3",
+  "system_id": "04B4",
+  "dmi_matches": [
+    "Latitude XT3",
+    "04B4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KY4CH",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03201484M/1/XT3-win10-A00-KY4CH.CAB",
+      "size_bytes": 60777657,
+      "md5": "058A77F2D432D73DA2B1738C88C69FEC",
+      "sha256": "DFE4AD57EAEDEED0D5F9D1549F5F72136A245C6B6EA8D99B16670746602C7BED",
+      "version": null,
+      "release_date": "2015-07-28T00:00:00"
+    },
+    {
+      "name": "DellPack-2K2PP",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02194383M/1/XT3-win7-A09-2K2PP.CAB",
+      "size_bytes": 379344122,
+      "md5": "EBE9176752E0433F7C8244FEF4CEF3AA",
+      "sha256": "116DCE23CE24CDB16FC1112CA4585988505A25DC54A48089C09718598393A857",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    },
+    {
+      "name": "DellPack-004RW",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02129382M/1/XT3-xp-A08-004RW.CAB",
+      "size_bytes": 174796705,
+      "md5": "69A6AA90B52B07C4E31E1014CE7FA2E1",
+      "sha256": "4B6ED8A12C2F3DFC57D92B99EE2085F34E9211BD4F93678E3531EF2A46A66914",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

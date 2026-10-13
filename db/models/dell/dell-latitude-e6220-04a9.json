@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e6220-04a9",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E6220",
+  "system_id": "04A9",
+  "dmi_matches": [
+    "Latitude E6220",
+    "04A9"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-W6TT8",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02291013M/1/E6220-vista-A01-W6TT8.CAB",
+      "size_bytes": 196396114,
+      "md5": "CE97EE41F73BC6E5D3FCDDA2C3EB4BA7",
+      "sha256": "5946ADC223A470827A1979E00D486A4877F26CEBD161EC7B0900B09F89A89094",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-C3T88",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02169116M/1/E6220-win7-A10-C3T88.CAB",
+      "size_bytes": 313695806,
+      "md5": "CC17A81E8E4F85DC8520A32C68ED2851",
+      "sha256": "8ACEB5FD9F77725DEA5768FE3DE0A9B1E97732B32AB69B3D8D929F85F8EC9136",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    },
+    {
+      "name": "DellPack-DGW0N",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02102555M/1/E6220-win8-A03-DGW0N.CAB",
+      "size_bytes": 252071390,
+      "md5": "B3D261BB40D571B3C774ECC5B27FFD92",
+      "sha256": "9C9464269EA4097DB2F927457DB0E9BB76DDE74F73443AD69E638D80FBD3FECF",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    },
+    {
+      "name": "DellPack-W5GJ4",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02129095M/1/E6220-xp-A09-W5GJ4.CAB",
+      "size_bytes": 57800204,
+      "md5": "CEAB76D2A76519C19DDBD0523DE81F27",
+      "sha256": "284FF257E91E13CE054ACABB75BF98324D082110DC4FB368B793AB06F8D9DFB9",
+      "version": null,
+      "release_date": "2014-05-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

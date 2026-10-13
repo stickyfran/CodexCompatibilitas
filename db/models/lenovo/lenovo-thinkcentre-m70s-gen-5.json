@@ -1,0 +1,39 @@
+{
+  "id": "lenovo-thinkcentre-m70s-gen-5",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M70S Gen 5",
+  "system_id": "12U3,12U8,12U7,12U2,13E3,13EQ",
+  "dmi_matches": [
+    "12U3",
+    "12U8",
+    "12U7",
+    "12U2",
+    "13E3",
+    "13EQ"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70tsq_gen5-m90tsq_gen5-n50t_gen5-n_ultra_w1064_22h2_202405.exe",
+      "size_bytes": null,
+      "md5": "6c1c558fe48755a95ceebdeac8b97ce6",
+      "sha256": "fb21b1bd46b76d477bb9c3a8c4c97ef077dab9bfe8441fb8bc62cefd22904ed8",
+      "version": null,
+      "release_date": "2026-06-05"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70tsq_gen5-m90tsq_gen5-n50t_gen5-n_ultra_w11_23_202404.exe",
+      "size_bytes": null,
+      "md5": "f7c679b2c5f6fb553dd14119830207a9",
+      "sha256": "e11e58fbb644385693a33838e7d4fd27089527ed6337ddda6d4d2ab2a5c3ebbc",
+      "version": null,
+      "release_date": "2026-06-05"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

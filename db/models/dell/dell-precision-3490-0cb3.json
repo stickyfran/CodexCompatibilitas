@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3490-0cb3",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3490",
+  "system_id": "0CB3",
+  "dmi_matches": [
+    "Precision 3490",
+    "0CB3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GGD17",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14525451M/1/Precision-3490-GGD17_Win11_1.0_A10.exe",
+      "size_bytes": 2976935712,
+      "md5": "F0A84E8562C5F77EC252A09C159AC5A1",
+      "sha256": "C255532F3A796C10F021204AF0F59CF7ABE0647D844E6D0F017B608FA4FF2FD2",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    },
+    {
+      "name": "DellPack-WJW5M",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14525424M/1/Precision-3490-WJW5M_Win10_1.0_A10.exe",
+      "size_bytes": 3146238168,
+      "md5": "6A7E12342D57F51DCC41F7E236C99C05",
+      "sha256": "EE8CA97324FC98A9278DEE847081D8B19592A8787F2438A4108793E8D19F4DEB",
+      "version": null,
+      "release_date": "2026-05-26T01:54:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-15-9570-087c",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 15 9570",
+  "system_id": "087C",
+  "dmi_matches": [
+    "XPS 15 9570",
+    "087C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-VX9T3",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07388448M/1/9570-win10-A12-VX9T3.CAB",
+      "size_bytes": 1363859732,
+      "md5": "DAB993A86A053E5AAA3C1AFEB18FC4CA",
+      "sha256": "288635ED6A5259D20EB71F67F7B78629EF8AF1D323E888580C88EF39632EF2D6",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

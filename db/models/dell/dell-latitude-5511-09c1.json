@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5511-09c1",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5511",
+  "system_id": "09C1",
+  "dmi_matches": [
+    "Latitude 5511",
+    "09C1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-Y8HRW",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09526890M/1/5511-Y8HRW_Win10_1.0_A12.exe",
+      "size_bytes": 2754667648,
+      "md5": "CB39AB0901B527DD55C0549FF99CB844",
+      "sha256": "8C3C2A9DA73D86D24EDE7E4F61A34925BD74A5868556BDEB6EC482395B57D5DA",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    },
+    {
+      "name": "DellPack-NXR6K",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09526889M/1/5511-NXR6K_Win11_1.0_A02.exe",
+      "size_bytes": 2755450408,
+      "md5": "A5AF049E8449DBADF493C5B7C5831623",
+      "sha256": "202DF998E2FAF0BBDFADF3A8938A09FDBEC9EB1DEF10F1F4C745D96033D30E85",
+      "version": null,
+      "release_date": "2023-04-10T00:14:30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

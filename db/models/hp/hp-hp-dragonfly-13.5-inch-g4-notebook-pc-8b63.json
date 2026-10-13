@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-dragonfly-13.5-inch-g4-notebook-pc-8b63",
+  "vendor": "HP",
+  "family": "Dragonfly",
+  "model_name": "HP Dragonfly 13.5 inch G4 Notebook PC",
+  "system_id": "8b63",
+  "dmi_matches": [
+    "8b63",
+    "HP Dragonfly 13.5 inch G4 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp147695-HP Elite Dragonfly G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147695.exe",
+      "size_bytes": 1075721664,
+      "md5": "754e1c7446bcc15818864b2b04b0f100",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "6/8/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp149567-HP Elite Dragonfly G4 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149501-150000/sp149567.exe",
+      "size_bytes": 1022598232,
+      "md5": "3b372fa2efe09bb2e9fddfd3a461c144",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/5/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158219-HP Elite Dragonfly G4 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158219.exe",
+      "size_bytes": 1541910056,
+      "md5": "9E95595BEA6A0AD09DCAD55333C16D86",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "12/3/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-3040-06bb",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3040",
+  "system_id": "06BB",
+  "dmi_matches": [
+    "OptiPlex 3040",
+    "06BB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YCK4X",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06522425M/1/3040-win10-A14-YCK4X.CAB",
+      "size_bytes": 1017227743,
+      "md5": "7ADD69ABEC813ED138EDD9D745B5FEAB",
+      "sha256": "EC0BB4597CFFEDC2176EBEC9E0E0E7AEFA9998229E20D66D3337C32C1915FEC9",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    },
+    {
+      "name": "DellPack-HV1TH",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05289916M/1/3040-win7-A12-HV1TH.CAB",
+      "size_bytes": 1486718243,
+      "md5": "AEBAD0FFD2BD18A1E80DD8DBCEBB9213",
+      "sha256": "0173CC9EE4E4DE26660A4030D8B9A0CB2861680E3947C87E751DD4E01CDEDD1D",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-0TNRW",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03797441M/1/3040-win8.1-A02-0TNRW.CAB",
+      "size_bytes": 734534918,
+      "md5": "D9D1FD561AF57820460ADB68E9FF79DB",
+      "sha256": "D6F8E969C50CB748F9CA379CACEDFC308004D4675814FFD81C21D25A85315CC5",
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

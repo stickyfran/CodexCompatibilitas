@@ -1,0 +1,75 @@
+{
+  "id": "lenovo-thinkpad-t14s-gen-4-type-21f6-21f7",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T14S Gen 4 Type 21F6 21F7",
+  "system_id": "21F7,21F6",
+  "dmi_matches": [
+    "21F7",
+    "21F6"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen4_mt21f6-21f7_w1064_21h2_202508.exe",
+      "size_bytes": null,
+      "md5": "64f736bacfd5995f6657bb34c1310929",
+      "sha256": "4404f44a9afa15fe1267ca980e9c2c4e70307387e62d6bd50395eb7d090b593a",
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen4_mt21f6-21f7_w1064_22h2_202508.exe",
+      "size_bytes": null,
+      "md5": "ed02e490f4307c10b2ee1af6740c5b21",
+      "sha256": "26b2955b87d53c8fdee767e21f724907acc3a1560535db79524e77e208852dbb",
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen4_mt21f6-21f7_w11_21_202406.exe",
+      "size_bytes": null,
+      "md5": "6482ca2e08904ede5467f78c38e17e53",
+      "sha256": "abbafcd79c7002af8e91045393e1586817a14fffcdbf6c410ef45ede048c4982",
+      "version": null,
+      "release_date": "2024-07-01"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen4_mt21f6-21f7_w11_22_202508.exe",
+      "size_bytes": null,
+      "md5": "69299e1ff96b825547f32b1dac70e936",
+      "sha256": "57487b8b08f5626e5fb7dbc572d110656b51c00962f39e1af217c824d013696f",
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen4_mt21f6-21f7_w11_24_202508.exe",
+      "size_bytes": null,
+      "md5": "9ebfc4769ec832e3e9be5bc7c8347d5a",
+      "sha256": "4b77cafe0110119af813995ecaff68e3639e55c7ef43dc01c28eae8658b50758",
+      "version": null,
+      "release_date": "2025-08-19"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t14s_gen4_mt21f6_21f7_w11_25h2_202601.exe",
+      "size_bytes": null,
+      "md5": "9cfce1a2cce61bfe1a616dc4a072973f",
+      "sha256": "22bb2a00e365a73c695438bb54650bf7e212e78df759309e72b76437c4b71e67",
+      "version": null,
+      "release_date": "2026-07-07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

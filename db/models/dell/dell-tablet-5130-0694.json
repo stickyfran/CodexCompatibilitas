@@ -1,0 +1,35 @@
+{
+  "id": "dell-tablet-5130-0694",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Tablet 5130",
+  "system_id": "0694",
+  "dmi_matches": [
+    "Tablet 5130",
+    "0694"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-G9TYN",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03695173M/1/5130-win10-A02-G9TYN.CAB",
+      "size_bytes": 208557493,
+      "md5": "605F45506E2AB28936FA8984A827E12C",
+      "sha256": "0BA99AD66EC10AA5685563A77398513F402B3B77B45E7CEA4D37E56F3076B2A8",
+      "version": null,
+      "release_date": "2016-06-14T00:00:00"
+    },
+    {
+      "name": "DellPack-XTHCN",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03509007M/1/5130-win8.1-A08-XTHCN.CAB",
+      "size_bytes": 270931130,
+      "md5": "A585FEDB879B3C71A6410E03F5C5619F",
+      "sha256": "E3FB5BC424F91D6288B1D1C0FCD117BEEA0319F111FB9C0D7A3E9623BB01B858",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

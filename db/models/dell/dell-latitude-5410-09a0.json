@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5410-09a0",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5410",
+  "system_id": "09A0",
+  "dmi_matches": [
+    "Latitude 5410",
+    "09A0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-RG72F",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09534476M/1/5410-RG72F_Win10_1.0_A11.exe",
+      "size_bytes": 2331022376,
+      "md5": "D1F102FBA91DE2031BF04AA9CD5E7589",
+      "sha256": "9B0B1D8DB13E91390B2FD7904A6D240F441423AFB05A489A9DECC1B2BE858040",
+      "version": null,
+      "release_date": "2023-04-11T00:54:01"
+    },
+    {
+      "name": "DellPack-1D3X2",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09541488M/1/5410-1D3X2_Win11_1.0_A01.exe",
+      "size_bytes": 2336592256,
+      "md5": "F4534146E1990B60CD17C079A6772B1A",
+      "sha256": "FD575368C1B78B0906FF699F28EFD0E36798D0385C8D8CEA2F5EC9F4DCB4F250",
+      "version": null,
+      "release_date": "2023-04-11T00:54:01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

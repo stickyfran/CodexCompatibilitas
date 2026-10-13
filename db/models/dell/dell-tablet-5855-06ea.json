@@ -1,0 +1,35 @@
+{
+  "id": "dell-tablet-5855-06ea",
+  "vendor": "Dell",
+  "family": "Tablet",
+  "model_name": "Tablet 5855",
+  "system_id": "06EA",
+  "dmi_matches": [
+    "Tablet 5855",
+    "06EA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-75HY0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05383544M/1/5855-win10-A11-75HY0.CAB",
+      "size_bytes": 273443331,
+      "md5": "81EC7C81178513C8732EBAD43EB7F837",
+      "sha256": "F56F2E264EBCCC85C70208E0B24619325BA9100147AC7765D8F7A2FAFBD0697B",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-WF10G",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03715772M/1/5855-win8.1-A03-WF10G.CAB",
+      "size_bytes": 209221294,
+      "md5": "01F665E330C1CA4CA9523C2D9410A5B5",
+      "sha256": "56BA456787C5E757766BCD04FCA2AE803E8E6F2BA8976143DB5372C3AD30C146",
+      "version": null,
+      "release_date": "2016-06-14T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

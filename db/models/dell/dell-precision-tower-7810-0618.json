@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-tower-7810-0618",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision Tower 7810",
+  "system_id": "0618",
+  "dmi_matches": [
+    "Precision Tower 7810",
+    "0618"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7DNKJ",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04846464M/1/T7810-win10-A06-7DNKJ.CAB",
+      "size_bytes": 1747018159,
+      "md5": "2D217FE3DB07518971DE4CAE98BE505E",
+      "sha256": "3E09DF50F3979D9767BF5E6FDF653BF5739C5CD421263FFCC7DDB18A85688439",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-T4K43",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04890934M/1/T7810-win7-A09-T4K43.CAB",
+      "size_bytes": 1749782148,
+      "md5": "674EE13A655E5AC0AEE3FD42400E3E09",
+      "sha256": "EC736BFC71052E6C247C9FDCB838B9F37BEED92D2D675B9448D79046D3BF359D",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-FP0VM",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03512054M/1/T7810-win8.1-A04-FP0VM.CAB",
+      "size_bytes": 452352538,
+      "md5": "05DD7203539B0C744CD70B02DB61B221",
+      "sha256": "27E83697EDE0098523F7DC6263BC64581C5F8DBB849DC6E8C1D973750D739C5C",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

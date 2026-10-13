@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-zbook-power-16-inch-g11-mobile-workstation-pc-8ca0",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Power 16 inch G11 Mobile Workstation PC",
+  "system_id": "8ca0",
+  "dmi_matches": [
+    "8ca0",
+    "HP ZBook Power 16 inch G11 Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp158206-HP ZBook Power G11 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158001-158500/sp158206.exe",
+      "size_bytes": 2272805152,
+      "md5": "A27DDD48D9704E4FF843539B043B2532",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "5/5/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp172328-HP ZBook Power G11 MWS Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp172001-172500/sp172328.exe",
+      "size_bytes": 2649390400,
+      "md5": "2C96CE519938365C8EF1580937D911E5",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "4/8/2026 12:00:00 AM"
+    },
+    {
+      "name": "sp170007-HP ZBook Power G11 MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp170001-170500/sp170007.exe",
+      "size_bytes": 2606280304,
+      "md5": "F75F8409E7284CB7911483CC80C14F30",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/19/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

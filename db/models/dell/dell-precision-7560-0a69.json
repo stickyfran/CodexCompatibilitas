@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-7560-0a69",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7560",
+  "system_id": "0A69",
+  "dmi_matches": [
+    "Precision 7560",
+    "0A69"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-P7RNH",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11759929M/1/Precision-7560-P7RNH_Win11_1.0_A10.exe",
+      "size_bytes": 2312587944,
+      "md5": "EA2E1B8AE4374984685070B948AA1F86",
+      "sha256": "5BAFE8A9D309A1122F1C8A7FB69211B602AA9810F5D64A6E67FAE5049613BF50",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    },
+    {
+      "name": "DellPack-6M77J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11759683M/1/Precision-7560-6M77J_Win10_1.0_A15.exe",
+      "size_bytes": 2446173744,
+      "md5": "A8A9A436F989F6A2320F7C0A1D5A95B8",
+      "sha256": "9F1E02F61DE24D6FCFFADB70D79882BBB3EB7152464D88A70D22772384CA9F2C",
+      "version": null,
+      "release_date": "2024-07-05T00:58:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

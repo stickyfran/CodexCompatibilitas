@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-12-rugged-extreme-(7204)-0610",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 12 Rugged Extreme (7204)",
+  "system_id": "0610",
+  "dmi_matches": [
+    "Latitude 12 Rugged Extreme (7204)",
+    "0610"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CJ9XY",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04895537M/1/7204-Win10-A05-CJ9XY.CAB",
+      "size_bytes": 333092815,
+      "md5": "EEA2E514D86471F6DDF733C414672D41",
+      "sha256": "26DD63ECDB42B4C066EBB654C7CB276FDE918464D78ADF4D94312871D66FB1DE",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-1P5C3",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04895299M/1/7204-Win7-A08-1P5C3.CAB",
+      "size_bytes": 389727558,
+      "md5": "03CD0BF753268AF5796CC05F2033CD1B",
+      "sha256": "097474D9A72C9A7AB09C701C45AE72D55996AACC20308BF7F02541C35D0C850C",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-G0PGN",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03569313M/1/7204-Win8.1-A06-G0PGN.CAB",
+      "size_bytes": 212080238,
+      "md5": "1573A7C9CC9816DDF7E91B91BDD90BBB",
+      "sha256": "A24DEC570BCDC2D2E2CAEDE00136AF33CCAB3767C6814828397E0F9321A706A0",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

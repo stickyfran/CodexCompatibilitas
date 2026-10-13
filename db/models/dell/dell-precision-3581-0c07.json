@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3581-0c07",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3581",
+  "system_id": "0C07",
+  "dmi_matches": [
+    "Precision 3581",
+    "0C07"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-8HF4K",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13955013M/1/Precision-3581-8HF4K_Win10_1.0_A10.exe",
+      "size_bytes": 2205815200,
+      "md5": "92E0BFE9A0FD1379BBD4245A8E5F66AC",
+      "sha256": "034C955985F1186A8125FFD02FDBAC07D137DB6B438BC266933CA5C297A63885",
+      "version": null,
+      "release_date": "2025-12-19T05:06:45"
+    },
+    {
+      "name": "DellPack-HWD7V",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14412458M/1/Precision-3581-HWD7V_Win11_1.0_A11.exe",
+      "size_bytes": 2527933832,
+      "md5": "9F3053CB47D17F7D4EA2AEA3FEC9FE2B",
+      "sha256": "F3A7720837479DC93F87BB254B822766248105AA2DE99A16A13AAD68173F7262",
+      "version": null,
+      "release_date": "2026-05-25T04:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

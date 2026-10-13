@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-5280-07a6",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5280",
+  "system_id": "07A6",
+  "dmi_matches": [
+    "Latitude 5280",
+    "07A6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-T4KTP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06528868M/1/5280-win10-A14-T4KTP.CAB",
+      "size_bytes": 730613241,
+      "md5": "B2D422E2FDB6117EA99EF657E44266EA",
+      "sha256": "6C374E14480925DF7DD8A43CE31F71B7F2A75A1F586BD16119DBE85464149F0E",
+      "version": null,
+      "release_date": "2020-09-18T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

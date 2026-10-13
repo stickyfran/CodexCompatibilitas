@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-probook-445-g7-notebook-pc-8730",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook 445 G7 Notebook PC",
+  "system_id": "8730",
+  "dmi_matches": [
+    "8730",
+    "HP ProBook 445 G7 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp107648-HP ProBook 4x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp107501-108000/sp107648.exe",
+      "size_bytes": 437285168,
+      "md5": "9da32a025c6d8105a6f464597c28af34",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "8/17/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp142806-HP ProBook 4x5 G7 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142806.exe",
+      "size_bytes": 1004011288,
+      "md5": "3df4d1b4ec940629cda209d5944a8c02",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "10/6/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp142807-HP ProBook 4x5 G7 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142807.exe",
+      "size_bytes": 644062008,
+      "md5": "e8027001342276ac5f3be563c7c8ca72",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/6/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

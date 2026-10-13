@@ -1,0 +1,65 @@
+{
+  "id": "lenovo-thinkpad-x1-fold-16-gen-1-type-21es-21et",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 FOLD 16 Gen 1 Type 21ES 21ET",
+  "system_id": "21ES,21ET",
+  "dmi_matches": [
+    "21ES",
+    "21ET"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1fold16_mt21es-21et_w11_21_202310.exe",
+      "size_bytes": null,
+      "md5": "0d3f56a5d9c63cc6729a9bd3a94b5fee",
+      "sha256": "0b23b7da04bb7d68d1898e3d749037fb588d41061c7ccb0273ef09276608684e",
+      "version": null,
+      "release_date": "2023-10-29"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1fold16_mt21es-21et_w11_22_202408.exe",
+      "size_bytes": null,
+      "md5": "28307fba5627d2789c90acf0a9edf0de",
+      "sha256": "791b8ded04dc7e49740c0d51267334a8d3a4d70aeed7211e09daffcfd533a63d",
+      "version": null,
+      "release_date": "2024-06-13"
+    },
+    {
+      "name": "SCCM-win11-23H2",
+      "os": "win11-23H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1fold16_mt21es-21et_w11_23_202412.exe",
+      "size_bytes": null,
+      "md5": "16db4a2969fd97bfae9eaa63fc17b7e6",
+      "sha256": "4c40cd1c354c3554f03bf1a424069ca8d0fa3c10e8814503ff6b1f397a98026d",
+      "version": null,
+      "release_date": "2024-12-17"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1fold16_mt21es-21et_w11_24_202412.exe",
+      "size_bytes": null,
+      "md5": "31d4b33332e04ed413cded26c7db3222",
+      "sha256": "c35f4035f96a9486d940aada9645158d0eae79a125b70b071a94cad365772040",
+      "version": null,
+      "release_date": "2024-12-17"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1fold16_mt21es-21et_w11_25_202512.exe",
+      "size_bytes": null,
+      "md5": "8db46d6dc58f2b1c14fa230c57eb9f76",
+      "sha256": "d4cf78239863aed13f576c53c6f6520fd2e0d19fa6bd6eecb81099ae73760c81",
+      "version": null,
+      "release_date": "2025-12-22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

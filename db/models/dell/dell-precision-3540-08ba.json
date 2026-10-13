@@ -1,0 +1,25 @@
+{
+  "id": "dell-precision-3540-08ba",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3540",
+  "system_id": "08BA",
+  "dmi_matches": [
+    "Precision 3540",
+    "08BA"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XFN93",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07939475M/1/3540-win10-A13-XFN93.CAB",
+      "size_bytes": 1428598758,
+      "md5": "B20ECAEB6DD309AC7DE45F44F86F1C0A",
+      "sha256": "A78612BFBC3E20F6FC70A42D41C591DF0F47132F95F5BD37C84C2356E11806E1",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

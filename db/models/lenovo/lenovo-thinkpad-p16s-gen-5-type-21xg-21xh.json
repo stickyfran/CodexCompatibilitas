@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-p16s-gen-5-type-21xg-21xh",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P16S Gen 5 Type 21XG 21XH",
+  "system_id": "21XH,21XG",
+  "dmi_matches": [
+    "21XH",
+    "21XG"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16sg5_amd_mt21xg_21xh_win1164_24h2_202605.exe",
+      "size_bytes": null,
+      "md5": "cc32cc8fdf87005fe300c3175cfc5f1d",
+      "sha256": "3a1db8a14f8cd35bc812a174f45607238077d603e213b1494423aedc04c436f5",
+      "version": null,
+      "release_date": "2026-05-12"
+    },
+    {
+      "name": "SCCM-win11-25H2",
+      "os": "win11-25H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_p16sg5_amd_mt21xg_21xh_win1164_25h2_202605.exe",
+      "size_bytes": null,
+      "md5": "532f9af68afd1f5038380e86f35f0847",
+      "sha256": "a9973641fe23ddc1fc69250f9dffdfb85a84a3b97be6caa200d1143bc913b6df",
+      "version": null,
+      "release_date": "2026-05-12"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-xps-13-9343-0665",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9343",
+  "system_id": "0665",
+  "dmi_matches": [
+    "XPS 13 9343",
+    "0665"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JKF3J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER04843715M/1/9343-Win10-A05-JKF3J.CAB",
+      "size_bytes": 311112315,
+      "md5": "86F90FEE38D017FC3041D5B6E7CAEA34",
+      "sha256": "B3B895149325DEED44C2598206DAA9A8E49B8366BD0FA58F810BB27A780119A0",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-9P03W",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04845970M/1/9343-win7-A06-9P03W.CAB",
+      "size_bytes": 639446310,
+      "md5": "40626523F30F45E8DB36E0A76E92493E",
+      "sha256": "13D77C010376179EE03BC7E511C24C15F5B2F8B1B15A625CE00FF3D64A2803ED",
+      "version": null,
+      "release_date": "2018-03-27T00:00:00"
+    },
+    {
+      "name": "DellPack-HXWH4",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03511839M/1/9343-win8.1-A04-HXWH4.CAB",
+      "size_bytes": 251974772,
+      "md5": "80E0F5270FFBFAA927D09392719C58CF",
+      "sha256": "9750F82777312AAE6CEB437C6E0F08DB7F7EF4C815D9E0ADD5409FA0426DFAAC",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

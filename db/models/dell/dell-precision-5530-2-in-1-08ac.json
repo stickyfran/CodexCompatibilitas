@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-5530-2-in-1-08ac",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 5530 2-IN-1",
+  "system_id": "08AC",
+  "dmi_matches": [
+    "Precision 5530 2-IN-1",
+    "08AC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-854JG",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08102930M/1/5530 2-IN-1-win11-A00-854JG.CAB",
+      "size_bytes": 1288680022,
+      "md5": "31A82A9BD09D2CFC9C4BC4F35CAE7F95",
+      "sha256": "13D9BC8A355725E3983AC4685BB316FCE3DFBFB539F17E661E3E1CBA676BCBC0",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    },
+    {
+      "name": "DellPack-G11X2",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11117699M/1/Precision-5530-2-IN-1-G11X2_Win10_1.0_A16.exe",
+      "size_bytes": 3542057632,
+      "md5": "38332F83B94B6C8AD1272AC635CD1250",
+      "sha256": "F28514AFBFB345D19BFE93DDBC18D560FB444000FE2BAFF491A7FE8DD612AB45",
+      "version": null,
+      "release_date": "2024-01-22T07:15:21"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

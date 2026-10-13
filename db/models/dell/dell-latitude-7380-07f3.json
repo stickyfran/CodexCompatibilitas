@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-7380-07f3",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7380",
+  "system_id": "07F3",
+  "dmi_matches": [
+    "Latitude 7380",
+    "07F3"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CW27C",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06191589M/1/7380-win10-A10-CW27C.CAB",
+      "size_bytes": 632881696,
+      "md5": "08BAFEC3B99375254A17E79DD20E1DFA",
+      "sha256": "EE2CD8CD5B7232BAA5E7E0AFE7A69FB82ECCD82C3AAFB2CF4C451CE500F4C248",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-8G2D4",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06191815M/1/7380-win7-A10-8G2D4.CAB",
+      "size_bytes": 803739867,
+      "md5": "96458F2DD0024D3F332E4112490B9E35",
+      "sha256": "8195600245F2D371220B9FD4A243A904C0403D9AAECD5DF8C8F251967310B260",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-JH2XP",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04805061M/1/7380-win8.1-A03-JH2XP.CAB",
+      "size_bytes": 473886366,
+      "md5": "65B15C7DCF553AC7E4D46B816D1007EA",
+      "sha256": "875528CB6D7E08928A318C99F415BB14FA8469F49E2DC15E70DD3FB203B7BD27",
+      "version": null,
+      "release_date": "2018-02-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,55 @@
+{
+  "id": "dell-latitude-e5540-05e0",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5540",
+  "system_id": "05E0",
+  "dmi_matches": [
+    "Latitude E5540",
+    "05E0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5XY4J",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04848866M/1/E5540-Win10-A03-5XY4J.CAB",
+      "size_bytes": 796093805,
+      "md5": "AB4A75F1A3F18E7B0720A12D686A7B19",
+      "sha256": "12CD144DC814A2B66D8D09ABDD759DCB465E5BE2C2290FB23998F71FF8D09262",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-Y301V",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04848822M/1/E5540-win7-A11-Y301V.CAB",
+      "size_bytes": 824283341,
+      "md5": "0B01A09D5303F30CFB194C2A4CF53057",
+      "sha256": "C3974BB933EADD7E269B42F0BF206D49564F0B0E3FE72B35C11AE31BBD6FD524",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-CHKD8",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03509064M/1/E5540-win8.1-A07-CHKD8.CAB",
+      "size_bytes": 483223082,
+      "md5": "85E200B01C60AE1FC6AF1364555BCCB7",
+      "sha256": "5D4791922544D944E4AAEC6B049C830F1FEE519A3D0F208117BF7895140A9432",
+      "version": null,
+      "release_date": "2016-02-10T00:00:00"
+    },
+    {
+      "name": "DellPack-3GG59",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02532550M/1/E5540-win8-A03-3GG59.CAB",
+      "size_bytes": 363250046,
+      "md5": "861C1BC281150CF39BBDF1B851EA3D0B",
+      "sha256": "EE586AC938A652CFB4BE42013769058255B6F50E9D1BD4551A26A9CDA16AC1F7",
+      "version": null,
+      "release_date": "2014-09-29T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7071-tower-094d",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7071 Tower",
+  "system_id": "094D",
+  "dmi_matches": [
+    "OptiPlex 7071 Tower",
+    "094D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-FX82J",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07982913M/1/OptiPlex 7071 Tower-win10-A09-FX82J.CAB",
+      "size_bytes": 1305308059,
+      "md5": "BC622C06995B93233A5F8281EDEFA02C",
+      "sha256": "9BB6A809E03234EF5ADE65E086F85F61E5CB78E5BB04A9AAA185758ED6FD2A72",
+      "version": null,
+      "release_date": "2022-01-05T14:28:04"
+    },
+    {
+      "name": "DellPack-8XVFC",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08162223M/1/OptiPlex 7071 Tower-win11-A00-8XVFC.CAB",
+      "size_bytes": 1526092489,
+      "md5": "25B4EE056EE8DB6BC186CBDBB43712EF",
+      "sha256": "E4540AC851E3A8DC0D2EB83BC7CB141F0DAFFE28B288766E2B7E339FEABB8709",
+      "version": null,
+      "release_date": "2022-05-06T09:41:28"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5480-aio-0989",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5480 AIO",
+  "system_id": "0989",
+  "dmi_matches": [
+    "OptiPlex 5480 AIO",
+    "0989"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6JNCP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09896761M/1/5480-AIO-6JNCP_Win10_1.0_A11.exe",
+      "size_bytes": 2227638472,
+      "md5": "D05E459BBEB4ABA3CB0BFC624CDA243B",
+      "sha256": "DCB06C99F8C45C7626F47F0351DA09BAC98F17BBCF3CC4CE2EFD933F69A76097",
+      "version": null,
+      "release_date": "2023-07-07T07:33:33"
+    },
+    {
+      "name": "DellPack-5KR01",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09896771M/1/5480-AIO-5KR01_Win11_1.0_A02.exe",
+      "size_bytes": 2227646088,
+      "md5": "6093B70C31B1CBD888C5B72AF3ECAE3C",
+      "sha256": "54253AB6F3F19B1B07610DE2F765E8B3AF29E0755CAC108BDC8398121C142105",
+      "version": null,
+      "release_date": "2023-07-07T07:33:33"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

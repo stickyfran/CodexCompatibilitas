@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-7280-079f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7280",
+  "system_id": "079F",
+  "dmi_matches": [
+    "Latitude 7280",
+    "079F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CYF27",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07024452M/1/7280-win10-A15-CYF27.CAB",
+      "size_bytes": 735167984,
+      "md5": "A28AB82A1D74B2552A60E9EE1840EE85",
+      "sha256": "AB9568D179DAE4AFB52AB071B3486CFD657E57BB2F06644A809DD4BC937B106E",
+      "version": null,
+      "release_date": "2021-02-03T07:38:04"
+    },
+    {
+      "name": "DellPack-NR8W7",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06179545M/1/7280-win7-A11-NR8W7.CAB",
+      "size_bytes": 799640422,
+      "md5": "210FE7266E3CDD8C739D54EBFD18BCE2",
+      "sha256": "533596FC69EDA5B4E01B58963E64A30119631086F26B7A2F299D88B0D6430034",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-C4Y6X",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04608447M/1/7280-win8.1-A01-C4Y6X.CAB",
+      "size_bytes": 478694250,
+      "md5": "1FC64F3587D673524FCE13713CF23FA0",
+      "sha256": "828EB6668A14966F370091D93F89D5E6A2D829659394A7A5D33F52EFCC6CD001",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

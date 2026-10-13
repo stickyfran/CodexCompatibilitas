@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-3-14-p314260-0df4",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 3 14 P314260",
+  "system_id": "0DF4",
+  "dmi_matches": [
+    "Dell Pro 3 14 P314260",
+    "0DF4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5V66Y",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14619842M/1/P314260-5V66Y_Win11_1.0_A01.exe",
+      "size_bytes": 1265083296,
+      "md5": "145F87633AA9C7CA1B5787E780C3AD9F",
+      "sha256": "F17897327DE8181E3559D3BA9BA547BA2DE00C53AF19681C9F89AC7AABD248ED",
+      "version": null,
+      "release_date": "2026-07-02T04:51:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-9510-09c6",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 9510",
+  "system_id": "09C6",
+  "dmi_matches": [
+    "Latitude 9510",
+    "09C6"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6939W",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08819289M/1/9510-6939W_Win10_1.0_A11.exe",
+      "size_bytes": 1938417616,
+      "md5": "D9C5E3A846DEFC297782F91823A702D8",
+      "sha256": "0F53E788B1646E203A8A2D7A060014F70887E16B49E1D15838C0B27295A0A934",
+      "version": null,
+      "release_date": "2022-10-10T14:02:58"
+    },
+    {
+      "name": "DellPack-8F1PR",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08791640M/1/9510-8F1PR_Win11_1.0_A01.exe",
+      "size_bytes": 1883489856,
+      "md5": "B9224960DEEE8975BDCA90C9A7041762",
+      "sha256": "4C556E1326AD5112E58CA28F19174D5B35546ED9702085D9F656D2D5656AEABE",
+      "version": null,
+      "release_date": "2022-07-22T13:59:59"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

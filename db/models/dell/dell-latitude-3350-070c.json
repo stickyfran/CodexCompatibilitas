@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3350-070c",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3350",
+  "system_id": "070C",
+  "dmi_matches": [
+    "Latitude 3350",
+    "070C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-2X2P8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05280155M/1/3350-win10-A12-2X2P8.CAB",
+      "size_bytes": 369312660,
+      "md5": "72051B3B4E32EA1BD0C56E22332248BC",
+      "sha256": "CBFD3BE6E9447A08D870EA7FECF8EF9D963AEC21BC11C9C3C3794B3B76D94820",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-4XFDC",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05280243M/1/3350-win7-A11-4XFDC.CAB",
+      "size_bytes": 586989378,
+      "md5": "F49B925A932CD6EEF068E84FAF5F97BB",
+      "sha256": "8F98126B3D67FE2ED86637D03B8D86CE8C5FE7E1C951335B13EE84A17DFFC12C",
+      "version": null,
+      "release_date": "2019-01-07T00:00:00"
+    },
+    {
+      "name": "DellPack-31NC8",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03797558M/1/3350-win8.1-A02-31NC8.CAB",
+      "size_bytes": 331662752,
+      "md5": "DC20F9016C0908CD477323A03D49D1F2",
+      "sha256": "CD7C9C538AC50E1648B5258F15820E32D2D62F11762C233E6079B4446ABD251B",
+      "version": null,
+      "release_date": "2016-07-13T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

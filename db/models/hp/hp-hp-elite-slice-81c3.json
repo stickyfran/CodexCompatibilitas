@@ -1,0 +1,96 @@
+{
+  "id": "hp-hp-elite-slice-81c3",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Elite Slice",
+  "system_id": "81c3,8396",
+  "dmi_matches": [
+    "81c3",
+    "8396",
+    "HP Elite Slice"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp80493-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp80001-80500/sp80493.exe",
+      "size_bytes": 347993592,
+      "md5": "3bfd1457398b17eac59ba21338cd8f3c",
+      "sha256": null,
+      "version": "3.10 A 1",
+      "release_date": "5/23/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp83811-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp83501-84000/sp83811.exe",
+      "size_bytes": 418721424,
+      "md5": "7225be26e16121b4e8bbe5d5241cdbae",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "11/18/2017 12:00:00 AM"
+    },
+    {
+      "name": "sp90256-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp90001-90500/sp90256.exe",
+      "size_bytes": 423286792,
+      "md5": "de30a617914332bd1e4cf45c1031f57d",
+      "sha256": null,
+      "version": "12.0 A 1",
+      "release_date": "8/2/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp93538-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp93501-94000/sp93538.exe",
+      "size_bytes": 453575064,
+      "md5": "0ce3cc734a5557b37907f9bfbc68ffd5",
+      "sha256": null,
+      "version": "14.0 A 1",
+      "release_date": "1/11/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99891-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99891.exe",
+      "size_bytes": 507055712,
+      "md5": "d7ad7eeae18506a7988eeab50227c828",
+      "sha256": null,
+      "version": "17.0 A 1",
+      "release_date": "10/28/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101468-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101468.exe",
+      "size_bytes": 468612200,
+      "md5": "2f090051f8291d46858f7390f19a0e7e",
+      "sha256": null,
+      "version": "18.0 A 1",
+      "release_date": "1/28/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp104102-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp104001-104500/sp104102.exe",
+      "size_bytes": 509819112,
+      "md5": "f707230f60f04f39fc2a7c31aa45db55",
+      "sha256": null,
+      "version": "19.0 A 1",
+      "release_date": "5/22/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114257-HP Elite Slice Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114257.exe",
+      "size_bytes": 544124168,
+      "md5": "9b951906242503c0461b8e5c41d3be23",
+      "sha256": null,
+      "version": "21.00 A 1",
+      "release_date": "6/24/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

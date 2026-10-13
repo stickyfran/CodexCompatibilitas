@@ -1,0 +1,45 @@
+{
+  "id": "lenovo-thinkcentre-m720e",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M720E",
+  "system_id": "11BE,11BD",
+  "dmi_matches": [
+    "11BE",
+    "11BD"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720e_v530S_w1064_1903_201909.exe",
+      "size_bytes": null,
+      "md5": "deccc90d87b42d9f48429afeba8349d9",
+      "sha256": "95b398f9c9a8d577f0c41d4a7125e409d41bd4332358d1f93f730eec9f406af5",
+      "version": null,
+      "release_date": "2019-09-06"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720e-v530s_w1064_1909_201912.exe",
+      "size_bytes": null,
+      "md5": "bc9cada30a34f9e1397598c65e709632",
+      "sha256": "9500e8a1818e5c0b6b94b27db9e9e6211e6bc1af071fa8a05c83f93d085ba94e",
+      "version": null,
+      "release_date": "2019-12-23"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m720e-k70_w1064_2004_202006.exe",
+      "size_bytes": null,
+      "md5": "b18eacc963e5356cdce23bbff5e8ca3d",
+      "sha256": "da3b0467ae3664bdfe56b1e849be749e2a89025d8041a6f842ebc3130bdd46dc",
+      "version": null,
+      "release_date": "2020-06-30"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,36 @@
+{
+  "id": "hp-hp-elitebook-1040-g4-notebook-pc-8417",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 1040 G4 Notebook PC",
+  "system_id": "8417,82de",
+  "dmi_matches": [
+    "8417",
+    "82de",
+    "HP EliteBook 1040 G4 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp105670-HP EliteBook 1040 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105670.exe",
+      "size_bytes": 656656832,
+      "md5": "e5d239724f3c49fa53cd01744b680cae",
+      "sha256": null,
+      "version": "10.0 A 1",
+      "release_date": "6/22/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp112022-HP EliteBook 1040 G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp112001-112500/sp112022.exe",
+      "size_bytes": 734029488,
+      "md5": "af1ab9f7ad24c8d6e974a0e8fa15caa7",
+      "sha256": null,
+      "version": "11.00 A 1",
+      "release_date": "12/31/2020 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

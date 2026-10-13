@@ -1,0 +1,13 @@
+{
+  "id": "asus-rog-flow-z13-gz301",
+  "vendor": "ASUS",
+  "family": "ROG",
+  "model_name": "Rog Flow Z13 Gz301",
+  "system_id": "GZ301",
+  "dmi_matches": [
+    "GZ301"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

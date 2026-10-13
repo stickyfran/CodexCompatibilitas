@@ -1,0 +1,27 @@
+{
+  "id": "hp-hp-z230-small-form-factor-workstation-1906",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z230 Small Form Factor Workstation",
+  "system_id": "1906,8014,233F",
+  "dmi_matches": [
+    "1906",
+    "8014",
+    "233F",
+    "HP Z230 Small Form Factor Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp72465-HP Z230 Workstations Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp72001-72500/sp72465.exe",
+      "size_bytes": 764891304,
+      "md5": "0607fea96431a0d60f7c2a31b8009ae1",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "8/16/2015 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

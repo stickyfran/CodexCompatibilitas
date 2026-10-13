@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-17-9700-098f",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 17 9700",
+  "system_id": "098F",
+  "dmi_matches": [
+    "XPS 17 9700",
+    "098F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-5FRYR",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09152851M/1/9700-5FRYR_Win10_1.0_A11.exe",
+      "size_bytes": 2266506360,
+      "md5": "47580BCE9D9EF668FF59C30D7870E6DA",
+      "sha256": "051F97B9890187C267C2C176B4E521482EA5A5A2DEB69E46B59A8318ED191085",
+      "version": null,
+      "release_date": "2023-07-07T07:33:33"
+    },
+    {
+      "name": "DellPack-W9H8P",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09152496M/1/9700-W9H8P_Win11_1.0_A01.exe",
+      "size_bytes": 2268837672,
+      "md5": "154042E892D99A01278FDF7046B74C5E",
+      "sha256": "4FCF6E22EC5BCD43433A259289BC88CA320FF9C6CDA25AB880F738374C464ABD",
+      "version": null,
+      "release_date": "2023-07-07T07:33:33"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

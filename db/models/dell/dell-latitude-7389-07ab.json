@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-7389-07ab",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7389",
+  "system_id": "07AB",
+  "dmi_matches": [
+    "Latitude 7389",
+    "07AB"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-FYHNG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06190065M/1/7389-win10-A10-FYHNG.CAB",
+      "size_bytes": 657096717,
+      "md5": "6446C1BFBAFE1AB7F8921FFA2B76E24D",
+      "sha256": "B0CDCC3420E72B302761FDCA2F1640E3FBFD8EDE3344ABF9AF0B10BC6B6E7A63",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

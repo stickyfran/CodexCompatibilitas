@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-rugged-10-tablet-ra00260-0d66",
+  "vendor": "Dell",
+  "family": "Dell Pro Rugged Laptops",
+  "model_name": "Dell Pro Rugged 10 Tablet RA00260",
+  "system_id": "0D66",
+  "dmi_matches": [
+    "Dell Pro Rugged 10 Tablet RA00260",
+    "0D66"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-R0VMY",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14753853M/1/RA00260-R0VMY_Win10_1.0_A03.exe",
+      "size_bytes": 1240837688,
+      "md5": "D67503F97D284C310584993F2C8BB4FD",
+      "sha256": "90A917E8145F7BA5A2C6408AB20FB55F0F7876BDF5A6E152407F2826C3EC499F",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    },
+    {
+      "name": "DellPack-2HHDX",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14690336M/1/RA00260-2HHDX_Win11_1.0_A03.exe",
+      "size_bytes": 1113808752,
+      "md5": "34D1B1E1436C3F336999185E191D91F0",
+      "sha256": "286DC274BB26BE6D6B6280AB67DFD3895B03883CC0259251E579A0497A94E913",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

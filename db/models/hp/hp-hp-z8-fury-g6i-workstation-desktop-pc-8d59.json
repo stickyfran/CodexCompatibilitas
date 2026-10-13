@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-z8-fury-g6i-workstation-desktop-pc-8d59",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z8 Fury G6i Workstation Desktop PC",
+  "system_id": "8D59",
+  "dmi_matches": [
+    "8D59",
+    "HP Z8 Fury G6i Workstation Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp173775-HP Z8 Fury G6i and Z4 G6i Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp173501-174000/sp173775.exe",
+      "size_bytes": 1630448200,
+      "md5": "E211DE819F34D9A065DB622BA5C7D44C",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/15/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

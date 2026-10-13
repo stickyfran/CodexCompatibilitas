@@ -1,0 +1,13 @@
+{
+  "id": "asus-expertbook-b9-b9400",
+  "vendor": "ASUS",
+  "family": "ExpertBook",
+  "model_name": "Expertbook B9 B9400",
+  "system_id": "B9400",
+  "dmi_matches": [
+    "B9400"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

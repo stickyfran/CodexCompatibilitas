@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-780-0420",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 780",
+  "system_id": "0420",
+  "dmi_matches": [
+    "OptiPlex 780",
+    "0420"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-001T5",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02288527M/1/780-Vista-A01-001T5.CAB",
+      "size_bytes": 270439640,
+      "md5": "18ED17D8F30DBAFA560E8F222F7CD32A",
+      "sha256": "B8235FD27A4DB19F804E1B7B6EF034A2F060CCF9DFD906D94DFB5D2B414C2F43",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-JH03C",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02150460M/1/780-win7-A07-JH03C.CAB",
+      "size_bytes": 914099030,
+      "md5": "2DB2E821FB79CCB6F17054081133E069",
+      "sha256": "57EBEB6F9AF7E7A2E11E899F6A379E9C03C01CF7989BB65412A287288182DA62",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-XH1XW",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02123461M/1/780-xp-A11-XH1XW.CAB",
+      "size_bytes": 387335266,
+      "md5": "B53966AADCE3C992216D71912BC6F557",
+      "sha256": "63BD7F8401376720C77141996AAD1C30A360C9F007B0ED6DA85ED236522618CF",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

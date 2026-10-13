@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-3480-07b7",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3480",
+  "system_id": "07B7",
+  "dmi_matches": [
+    "Latitude 3480",
+    "07B7"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-NTKMR",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06082406M/1/3480-Win10-A12-NTKMR.CAB",
+      "size_bytes": 1177447720,
+      "md5": "2FB8A82515743D94F35C1F2DA1DB3BCB",
+      "sha256": "FDD82DF2F65A61093912899E6F19F2D86538B67E2F8D301901149B63AE3532CA",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    },
+    {
+      "name": "DellPack-J5N6H",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06082537M/1/3480-Win7-A11-J5N6H.CAB",
+      "size_bytes": 1284818830,
+      "md5": "976123DF555D11571AE55A3CF3ECB20F",
+      "sha256": "945C72FCAD4DF4C8A859C78E666A5544530177D59ED559047A84615FF42131BC",
+      "version": null,
+      "release_date": "2020-04-28T00:00:00"
+    },
+    {
+      "name": "DellPack-JJJ2K",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04666639M/1/3480-Win8.1-A03-JJJ2K.CAB",
+      "size_bytes": 683283462,
+      "md5": "B7C78373A4C19147462C69B0443805E7",
+      "sha256": "15D9521087A69D0615245099BE32115D6CFF105F5E7447AD35EE00FA6AA21478",
+      "version": null,
+      "release_date": "2018-01-10T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

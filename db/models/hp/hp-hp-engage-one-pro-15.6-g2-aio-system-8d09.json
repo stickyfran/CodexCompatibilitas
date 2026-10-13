@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-engage-one-pro-15.6-g2-aio-system-8d09",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage One Pro 15.6 G2 AiO System",
+  "system_id": "8D09",
+  "dmi_matches": [
+    "8D09",
+    "HP Engage One Pro 15.6 G2 AiO System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp160040-HP Engage One Pro AIO G2 IoT10 2021 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp160001-160500/sp160040.exe",
+      "size_bytes": 1180504440,
+      "md5": "3E2BC764DF77F912B2F169E5937A4BF0",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "5/28/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp167338-HP Engage One Pro AIO G2 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp167001-167500/sp167338.exe",
+      "size_bytes": 1292726432,
+      "md5": "377FAA22A0F0A8DF4E25528C710ACE39",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "12/12/2025 12:00:00 AM"
+    },
+    {
+      "name": "sp167339-HP Engage One Pro AIO G2 Windows 11 IoT Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp167001-167500/sp167339.exe",
+      "size_bytes": 1292726488,
+      "md5": "487A4C4DB8EA384AD745F55A72FBFDFD",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "12/12/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

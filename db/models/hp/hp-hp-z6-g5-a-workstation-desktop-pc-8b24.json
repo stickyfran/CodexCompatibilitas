@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-z6-g5-a-workstation-desktop-pc-8b24",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z6 G5 A Workstation Desktop PC",
+  "system_id": "8B24",
+  "dmi_matches": [
+    "8B24",
+    "HP Z6 G5 A Workstation Desktop PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp154015-HP Z6 G5 A Windows 11",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp154001-154500/sp154015.exe",
+      "size_bytes": 1724761512,
+      "md5": "14CA513082FBB9DD6B693D7FCB4AA78B",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "8/5/2024 12:00:00 AM"
+    },
+    {
+      "name": "sp150537-HP Z6 G5 A Windows 10",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp150501-151000/sp150537.exe",
+      "size_bytes": 1728155528,
+      "md5": "a1bbf8f91c1548d64a3fbf17b6c11085",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "12/8/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp158930-HP Z6 G5 A Windows 11",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp158501-159000/sp158930.exe",
+      "size_bytes": 3392323704,
+      "md5": "5DCD39E35F1E576D69E096A115AA2087",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "5/20/2025 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

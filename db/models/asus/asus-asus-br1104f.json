@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-br1104f",
+  "vendor": "ASUS",
+  "family": "ASUS",
+  "model_name": "Asus Br1104F",
+  "system_id": "BR1104F",
+  "dmi_matches": [
+    "BR1104F"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

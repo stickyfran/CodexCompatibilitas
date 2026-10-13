@@ -1,0 +1,95 @@
+{
+  "id": "lenovo-thinkpad-p51s-type-20hb-20hc",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad P51S Type 20HB 20HC",
+  "system_id": "20HB,20HC",
+  "dmi_matches": [
+    "20HB",
+    "20HC"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t570-p51s_w1064_1703_201705.exe",
+      "size_bytes": null,
+      "md5": "bf6ecd7c926d0524ca80514b2080a4cc",
+      "sha256": "64ed812cc30c588282a181a70e6f04242bf4604b749f2f99c8ef8ef9fcfe44f8",
+      "version": null,
+      "release_date": "2020-12-23"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t570-p51s_w1064_1709_201803.exe",
+      "size_bytes": null,
+      "md5": "c6b5aa36dbf942e3474227e6cdbead76",
+      "sha256": "0c34566e62e84c83ceeda7e8fa918a514d7c4e00a935c6946e32f25beb5815ae",
+      "version": null,
+      "release_date": "2017-12-28"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t570-p51s_w1064_1803_201809.exe",
+      "size_bytes": null,
+      "md5": "7d2e2ab188d6cc9398510675b417e379",
+      "sha256": "e47c5cb40f10825a1284f1268aa7b57d60647d37c248e4b3b4b7cf9ebbd595c8",
+      "version": null,
+      "release_date": "2018-09-28"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t570-p51s_w1064_1809_201812.exe",
+      "size_bytes": null,
+      "md5": "357bbfce563bcea031df427a41ec711d",
+      "sha256": "65b15b29513bc37630912370d3d79d6ba447195126b2f2b5f512003e3a1f0c3e",
+      "version": null,
+      "release_date": "2018-12-21"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t570-p51s_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "2d425f1db91a22088f907c361581e81e",
+      "sha256": "3d59d062cdcb8e5a3d530fb2721fd29baea5921961dc9ec9a37c2bfb76a1884e",
+      "version": null,
+      "release_date": "2020-12-23"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t570-p51s_w1064_1909_201911.exe",
+      "size_bytes": null,
+      "md5": "435679db8038364e7ab78f27aee9b64b",
+      "sha256": "44be31c72822a47e4bad7d25e0019de79077bdc2c93cbd5a02508bc005ccbefc",
+      "version": null,
+      "release_date": "2019-11-28"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t570-p51s_w1064_2004_202012.exe",
+      "size_bytes": null,
+      "md5": "fdc6aa90098d462e2620f2194b988e9b",
+      "sha256": "d636293840d0e040f8e022d793c42d56b9c9a297e7a5b77c3abb5deaa2f55e41",
+      "version": null,
+      "release_date": "2020-12-16"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t570-p51s_w1064_20H2_202012.exe",
+      "size_bytes": null,
+      "md5": "30982d6583b044af02a71e7236fa715c",
+      "sha256": "f4b2e9c361cac53312e5019d49861765bbb6b8bdb1df381a3186ea79fbd624ba",
+      "version": null,
+      "release_date": "2020-12-08"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

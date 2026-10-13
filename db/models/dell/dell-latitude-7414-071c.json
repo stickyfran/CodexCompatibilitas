@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-7414-071c",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7414",
+  "system_id": "071C",
+  "dmi_matches": [
+    "Latitude 7414",
+    "071C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-P2YWW",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER05389473M/1/7414-Win10-A09-P2YWW.CAB",
+      "size_bytes": 680510187,
+      "md5": "D9C52219082614208AF038388DA25523",
+      "sha256": "E60E63FE6C5D6AFB8609D4FD01175329542439701B48F3C4AA7FF5A9B712F363",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-GC1RR",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER05389429M/1/7414-Win7-A09-GC1RR.CAB",
+      "size_bytes": 1016208476,
+      "md5": "81E61B85C8D1F32A56AADA8B41AFB871",
+      "sha256": "773283943A1AF5969DB7D1343D95AB66E607D2320692D7872017789BDC1C927C",
+      "version": null,
+      "release_date": "2019-02-12T00:00:00"
+    },
+    {
+      "name": "DellPack-F29D6",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04355147M/1/7414-Win8.1-A02-F29D6.CAB",
+      "size_bytes": 500242842,
+      "md5": "42924300F1402AA4B0513D0013EECE6E",
+      "sha256": "F50566EEC594E7F1FE915477CF8BB10E75F64FF5C504C390E63B36FA191C9F62",
+      "version": null,
+      "release_date": "2017-08-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

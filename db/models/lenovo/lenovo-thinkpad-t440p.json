@@ -1,0 +1,35 @@
+{
+  "id": "lenovo-thinkpad-t440p",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad T440P",
+  "system_id": "20AW,20AN",
+  "dmi_matches": [
+    "20AW",
+    "20AN"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t440p_w1064_201611.exe",
+      "size_bytes": null,
+      "md5": "2ed26e29766fcbfba903c2de41cf41d2",
+      "sha256": "3d41e9f8ee3053dee0213463eff63ed31b6bc955ff5ea3865427097ec8645215",
+      "version": null,
+      "release_date": "2018-08-08"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_t440p_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "8277671be4bdf67a701bb9dab3e88e62",
+      "sha256": "3bb700763ac738ece1e9d4e6d6da42068801c7cec0315d3e18dbcbaa63519eb0",
+      "version": null,
+      "release_date": "2018-07-27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

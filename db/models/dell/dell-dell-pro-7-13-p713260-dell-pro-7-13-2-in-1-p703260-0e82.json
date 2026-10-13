@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-7-13-p713260-dell-pro-7-13-2-in-1-p703260-0e82",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260",
+  "system_id": "0E82",
+  "dmi_matches": [
+    "Dell Pro 7 13 P713260/Dell Pro 7 13 2-in-1 P703260",
+    "0E82"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JXVYW",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14814777M/1/P7x3260-JXVYW_Win11_1.0_A03.exe",
+      "size_bytes": 1357286416,
+      "md5": "F8CFC4F253A51A01482DCE62141A36D7",
+      "sha256": "C12E951BA63F4EA6EA85B7AFF5B204F40BFCF340CED654529FD1E1B95BDB580B",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-9430-0b12",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 9430",
+  "system_id": "0B12",
+  "dmi_matches": [
+    "Latitude 9430",
+    "0B12"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-1V487",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12823940M/1/Latitude-9430-1V487_Win10_1.0_A13.exe",
+      "size_bytes": 1931801240,
+      "md5": "762E22C88BD8EB12FC32A212EF53FD2F",
+      "sha256": "CB8FF1688923DF8E874D5E2F6CAA5B78830635419EC6DCB3FD8088079E4A151A",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-8XR4M",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12823931M/1/Latitude-9430-8XR4M_Win11_1.0_A13.exe",
+      "size_bytes": 1548114680,
+      "md5": "0534E2C24350807A0D5D7B7F60D6063A",
+      "sha256": "ED4E3E3025460C3DADD200BD1C897C03329345F676951D03FDE5E38B770F11E8",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

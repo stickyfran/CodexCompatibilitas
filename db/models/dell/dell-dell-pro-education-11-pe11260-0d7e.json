@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-education-11-pe11260-0d7e",
+  "vendor": "Dell",
+  "family": "Dell Edu Laptops",
+  "model_name": "Dell Pro Education 11 PE11260",
+  "system_id": "0D7E",
+  "dmi_matches": [
+    "Dell Pro Education 11 PE11260",
+    "0D7E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-96K0F",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14682092M/1/PE11260-96K0F_Win11_1.0_A02.exe",
+      "size_bytes": 1387488608,
+      "md5": "06D4E8BB81826A7D2B5A423EEDB54640",
+      "sha256": "C6C5D151C09D43812973BBFD321A7FC0F6E52CA448F27C0C2C8E48817CCD05DC",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

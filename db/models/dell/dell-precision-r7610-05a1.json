@@ -1,0 +1,55 @@
+{
+  "id": "dell-precision-r7610-05a1",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision R7610",
+  "system_id": "05A1",
+  "dmi_matches": [
+    "Precision R7610",
+    "05A1"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9JCPH",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04898292M/1/R7610-win10-A02-9JCPH.CAB",
+      "size_bytes": 1014923510,
+      "md5": "52F7236219D757897A85C2A0893D9BDA",
+      "sha256": "D7CD7B17C52DB7B0527010F1555C21F1BC160F2A750EA049E1678B01E9B49AA2",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-KCRKG",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04907507M/1/R7610-win7-A07-KCRKG.CAB",
+      "size_bytes": 596089725,
+      "md5": "A8666B79C5FC82DB96EB5325CD2967F4",
+      "sha256": "CF22B9CA2D9494AC2810D27E8189CC47756FA8404C27D30A5AEC80BBD3AB6531",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-KNHPK",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02886564M/1/R7610-Win8.1-A04-KNHPK.CAB",
+      "size_bytes": 690653840,
+      "md5": "1DF849A81E28276A91A6D2869CAAAD8E",
+      "sha256": "66BEE42181DD3E7A3D3062FA0626B34B3640DB167F055FE60F67795DB6616DE1",
+      "version": null,
+      "release_date": "2015-05-11T00:00:00"
+    },
+    {
+      "name": "DellPack-4RHCF",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02640933M/1/R7610-win8-A05-4RHCF.CAB",
+      "size_bytes": 536612650,
+      "md5": "3D2865D50FCB0219ED4878EB187CBDF9",
+      "sha256": "30B972D3DC660D09D513291C0E038401AF867C8861AAAD2431B0D91A66F99F17",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3340-0c19",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3340",
+  "system_id": "0C19",
+  "dmi_matches": [
+    "Latitude 3340",
+    "0C19"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0GG2N",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13725057M/1/Latitude-3340-0GG2N_Win10_1.0_A12.exe",
+      "size_bytes": 873585384,
+      "md5": "387F8C455D57D572B6B4FAAC9667511A",
+      "sha256": "D4BFE4E90123E0AC7E9DB2DD48BE948454A15A7259BA5D92C8D1E9C0C0E1A7AC",
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    },
+    {
+      "name": "DellPack-8KPMF",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13733231M/1/Latitude-3340-8KPMF_Win11_1.0_A12.exe",
+      "size_bytes": 875293912,
+      "md5": "7840BF59BB86A4C3D916887CB1583A3C",
+      "sha256": "0AEC5443D22BCC7C684A6182C5F4D7BC759E2D4CC5150AF971B36E2401896EA2",
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

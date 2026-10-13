@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-chromebook-cx34-flip-cx3401-12th-gen-intel",
+  "vendor": "ASUS",
+  "family": "ASUS",
+  "model_name": "Asus Chromebook Cx34 Flip Cx3401 12Th Gen Intel",
+  "system_id": "INTEL",
+  "dmi_matches": [
+    "INTEL"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

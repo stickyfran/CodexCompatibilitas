@@ -1,0 +1,13 @@
+{
+  "id": "asus-vivobook-s-14-oled-s5406ma",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Vivobook S 14 Oled S5406Ma",
+  "system_id": "S5406MA",
+  "dmi_matches": [
+    "S5406MA"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

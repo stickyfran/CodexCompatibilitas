@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-2110-0461",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 2110",
+  "system_id": "0461",
+  "dmi_matches": [
+    "Latitude 2110",
+    "0461"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-VNM0H",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02120049M/1/2110-vista-A01-VNM0H.CAB",
+      "size_bytes": 53927603,
+      "md5": "C121ABA2D3546FD44CD23073A1C73288",
+      "sha256": "DB75F9194BC2DC7CB01700348FF58253EB0DA9984923F26D6A58EEC881DDB893",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-KD2XV",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER02118978M/1/2110-win7-A05-KD2XV.CAB",
+      "size_bytes": 55901295,
+      "md5": "798FF971CFB9A312C03AE1B05955A675",
+      "sha256": "30BEA6A78A70A3D6412B7A8DCF8510402BEF045680F5F52A4FE76125A54C2A49",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-MRTRP",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02233299M/1/2110-xp-A05-MRTRP.CAB",
+      "size_bytes": 251582778,
+      "md5": "F7ACDFBE80E9FA7C7BBE13BABB7DDE89",
+      "sha256": "6CE6079D0C3868B4735A3A45ED57B2A65A12CB7F669D6ED4989FE0A1CD72688F",
+      "version": null,
+      "release_date": "2014-06-17T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

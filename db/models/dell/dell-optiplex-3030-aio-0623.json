@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-3030-aio-0623",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3030 AIO",
+  "system_id": "0623",
+  "dmi_matches": [
+    "OptiPlex 3030 AIO",
+    "0623"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-6G0WM",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04904615M/1/3030 AIO-win10-A04-6G0WM.CAB",
+      "size_bytes": 628765717,
+      "md5": "1DEAFC86A179128F834EDD5479BFE628",
+      "sha256": "D3782E7EEB04E1441A406F4BE723CEEAE0F20139E52F1F27C085D78D99179A1F",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-2FD6N",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04904658M/1/3030 AIO-win7-A10-2FD6N.CAB",
+      "size_bytes": 593837356,
+      "md5": "C266273AEA6BF12EA04430D292693A95",
+      "sha256": "E114AFA64ECA310F8B2D8F2CAE82073110891D9268DCB728326D588EA70CCA1D",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-JP26P",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03538780M/1/3030 AIO-win8.1-A07-JP26P.CAB",
+      "size_bytes": 547507098,
+      "md5": "478CFEAD5DC87C6C9292B9ADD6A9050D",
+      "sha256": "E990EEE552BCDD110D13B951256D5F68CE2777450B716E31F70BD823CD02C5E2",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

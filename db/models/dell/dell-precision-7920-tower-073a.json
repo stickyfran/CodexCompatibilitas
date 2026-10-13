@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-7920-tower-073a",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 7920 Tower",
+  "system_id": "073A",
+  "dmi_matches": [
+    "Precision 7920 Tower",
+    "073A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-06C0D",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER05437076M/1/Precision 7920 Tower-win7-A04-06C0D.CAB",
+      "size_bytes": 722100094,
+      "md5": "CDA69B7336283201121E56A9EE7C7DC0",
+      "sha256": "A8CD5DD8585F4CEA0FD4B60B5EC237F970A244A2E28AC6795CD478B539D511D5",
+      "version": null,
+      "release_date": "2020-04-03T00:00:00"
+    },
+    {
+      "name": "DellPack-RNPGD",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11305754M/1/Precision-7920-Tower-RNPGD_Win10_1.0_A22.exe",
+      "size_bytes": 3953718080,
+      "md5": "0BDD363031ACCCB8E41F56D54ADDB681",
+      "sha256": "91286FEB1EE07022C64DE4379B5E2CA8BE66B11795DD4099BAF576079E69340C",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    },
+    {
+      "name": "DellPack-3XRGC",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11305773M/1/Precision-7920-Tower-3XRGC_Win11_1.0_A03.exe",
+      "size_bytes": 3947555944,
+      "md5": "7A5A13846DB1025263262CC7716D60B5",
+      "sha256": "F11CA509B2A04450CF833BF3DBF0AEA0CC8293D1B9A76749EACEE11D9C75A08E",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

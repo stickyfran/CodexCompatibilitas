@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3680-tower-0c8c",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3680 Tower",
+  "system_id": "0C8C",
+  "dmi_matches": [
+    "Precision 3680 Tower",
+    "0C8C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-084V0",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14028712M/1/Precision-3680-Tower-084V0_Win10_1.0_A04.exe",
+      "size_bytes": 3317606616,
+      "md5": "8A5863D86EC844F5A0414367D3A109E5",
+      "sha256": "AB39EE59D672A62C37EF6C0F74D4974520C8955BF1B6F42CE5886A7F192853AF",
+      "version": null,
+      "release_date": "2026-01-23T07:00:22"
+    },
+    {
+      "name": "DellPack-35J53",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14028792M/1/Precision-3680-Tower-35J53_Win11_1.0_A04.exe",
+      "size_bytes": 3317391472,
+      "md5": "453270A2259EDA5B2A75B4AC5F14C028",
+      "sha256": "DA29FDC93AC5F0DBCD22A1223C7F54ACBC8F04190CBE5A571E766F927C086E3C",
+      "version": null,
+      "release_date": "2026-01-23T07:00:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e5400-0262",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5400",
+  "system_id": "0262",
+  "dmi_matches": [
+    "Latitude E5400",
+    "0262"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9RDT9",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02477474M/1/E5400-vista-A04-9RDT9.CAB",
+      "size_bytes": 78604089,
+      "md5": "0828716EB93F48F7D982D28BF5FF75BA",
+      "sha256": "CF0A552A09692361CCBD4AF274ACAA6F8FA636686A887E98197394ACEC45A18A",
+      "version": null,
+      "release_date": "2014-09-23T00:00:00"
+    },
+    {
+      "name": "DellPack-X91N9",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER02105224M/1/E5400-win7-A05-X91N9.CAB",
+      "size_bytes": 156182374,
+      "md5": "B7B9CF6A2B40867DF6C4FDDA21C5D419",
+      "sha256": "771F2DCC0C3218F1EF36BB87060E6BE58B0156274812200D9B2587DB0DA8536C",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-34PTP",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02079406M/1/E5400-xp-A06-34PTP.CAB",
+      "size_bytes": 233500062,
+      "md5": "09004C5C463305991523795DA407164A",
+      "sha256": "BF832C110F2EAF34C9BD6F08CE28F496F742E651B43013F67C99B3229541AB71",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,57 @@
+{
+  "id": "lenovo-thinkcentre-m70c",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkCentre M70C",
+  "system_id": "11GK,11GJ,11GL,11GM",
+  "dmi_matches": [
+    "11GK",
+    "11GJ",
+    "11GL",
+    "11GM"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70c-m730e-k70_v50s_w1064_2004_202006.exe",
+      "size_bytes": null,
+      "md5": "628ab5c0a8efa2bcbeb6c5e48a1e0739",
+      "sha256": "47e5215f191dc3ca80b5812961f7e6eb3be15011beccf8033bc0ec06efa28331",
+      "version": null,
+      "release_date": "2021-09-09"
+    },
+    {
+      "name": "SCCM-win10-1909",
+      "os": "win10-1909",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70c-m730e-k70_v50s_w1064_2004_202006.exe",
+      "size_bytes": null,
+      "md5": "628ab5c0a8efa2bcbeb6c5e48a1e0739",
+      "sha256": "47e5215f191dc3ca80b5812961f7e6eb3be15011beccf8033bc0ec06efa28331",
+      "version": null,
+      "release_date": "2021-09-09"
+    },
+    {
+      "name": "SCCM-win10-2004",
+      "os": "win10-2004",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70c-m730e-k70_v50s_w1064_2004_202006.exe",
+      "size_bytes": null,
+      "md5": "628ab5c0a8efa2bcbeb6c5e48a1e0739",
+      "sha256": "47e5215f191dc3ca80b5812961f7e6eb3be15011beccf8033bc0ec06efa28331",
+      "version": null,
+      "release_date": "2021-09-09"
+    },
+    {
+      "name": "SCCM-win10-20H2",
+      "os": "win10-20H2",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/tc_m70c-m730e-k70-v50s_w1064_20h2_202108.exe",
+      "size_bytes": null,
+      "md5": "7363da72b8a7b3c76cbaa0befd5ad866",
+      "sha256": "73dc3ed80c1e88097a58560c4c080f473299db3cde04c1c102e05116b07e9239",
+      "version": null,
+      "release_date": "2021-08-19"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

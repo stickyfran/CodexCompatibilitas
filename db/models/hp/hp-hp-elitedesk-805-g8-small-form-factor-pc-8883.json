@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-elitedesk-805-g8-small-form-factor-pc-8883",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP EliteDesk 805 G8 Small Form Factor PC",
+  "system_id": "8883",
+  "dmi_matches": [
+    "8883",
+    "HP EliteDesk 805 G8 Small Form Factor PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp121401-HP ElitePro 4/805 G8 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp121001-121500/sp121401.exe",
+      "size_bytes": 1091808592,
+      "md5": "370e1160d74c71016bd6c7ba3a06f335",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "7/12/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp138601-HP ElitePro 4/805 G8 SFF Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp138501-139000/sp138601.exe",
+      "size_bytes": 1527476312,
+      "md5": "66f3ffba1ecf5b8ed1bf7ad02b4bf5c0",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "3/3/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp143133-HP ElitePro 4/805 G8 SFF Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp143001-143500/sp143133.exe",
+      "size_bytes": 1573476968,
+      "md5": "f27245d0c03725ecfb3689f5214a2cef",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "10/20/2022 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

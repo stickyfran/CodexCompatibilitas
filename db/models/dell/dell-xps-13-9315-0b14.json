@@ -1,0 +1,25 @@
+{
+  "id": "dell-xps-13-9315-0b14",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9315",
+  "system_id": "0B14",
+  "dmi_matches": [
+    "XPS 13 9315",
+    "0B14"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-P84GN",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12885683M/1/XPS-13-9315-P84GN_Win11_1.0_A10.exe",
+      "size_bytes": 1903065064,
+      "md5": "05A8D7A5605B4CEA2126AE1D0F01440D",
+      "sha256": "FCE4518A6C4C34D005972017BF9EEDFD0616A06C2F5B018F07C1039409C0A1E3",
+      "version": null,
+      "release_date": "2025-05-12T05:46:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

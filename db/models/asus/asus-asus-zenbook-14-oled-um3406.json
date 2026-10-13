@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-zenbook-14-oled-um3406",
+  "vendor": "ASUS",
+  "family": "Zenbook",
+  "model_name": "Asus Zenbook 14 Oled Um3406",
+  "system_id": "UM3406",
+  "dmi_matches": [
+    "UM3406"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

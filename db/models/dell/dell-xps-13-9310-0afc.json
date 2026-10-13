@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-13-9310-0afc",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9310",
+  "system_id": "0AFC",
+  "dmi_matches": [
+    "XPS 13 9310",
+    "0AFC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-C0GGJ",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10416259M/1/9310-C0GGJ_Win10_1.0_A15.exe",
+      "size_bytes": 2288601816,
+      "md5": "477411318039BA0144956F4D26D82F4D",
+      "sha256": "D2F75D4B4AB451ACF66A2D890D670E2C3B16388098D2C5B0823F361EA10F4359",
+      "version": null,
+      "release_date": "2023-08-09T00:53:47"
+    },
+    {
+      "name": "DellPack-Y3DRJ",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10416264M/1/9310-Y3DRJ_Win11_1.0_A09.exe",
+      "size_bytes": 2289395896,
+      "md5": "3EF328E4A2322DA1AE1DB225C16798C8",
+      "sha256": "3EB90148F97203EB7AFB166BC8A1BEBA23BE5ABCC0A412BFC3A9D83966DF9921",
+      "version": null,
+      "release_date": "2023-08-09T00:53:47"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

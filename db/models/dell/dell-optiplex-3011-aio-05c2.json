@@ -1,0 +1,55 @@
+{
+  "id": "dell-optiplex-3011-aio-05c2",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3011 AIO",
+  "system_id": "05C2",
+  "dmi_matches": [
+    "OptiPlex 3011 AIO",
+    "05C2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YP44V",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03480611M/1/3011-win10-A01-YP44V.CAB",
+      "size_bytes": 473616707,
+      "md5": "113A45101636339D80E3E65A97F5CF95",
+      "sha256": "FBD301CCF6A5867B7B2666E81CA83ACD25B005C8358FDC1EFB9D315E1B928330",
+      "version": null,
+      "release_date": "2016-02-08T00:00:00"
+    },
+    {
+      "name": "DellPack-NRR8Y",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02815606M/1/3011-win7-A06-NRR8Y.CAB",
+      "size_bytes": 453643350,
+      "md5": "ED80BE81B81D916B327801B2AF5E8207",
+      "sha256": "A81747376E16AA578AEEDCCD155D460A02F4F3C447EC22CC553905F57E8732F3",
+      "version": null,
+      "release_date": "2015-04-16T00:00:00"
+    },
+    {
+      "name": "DellPack-PJHF5",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02815636M/1/3011-win8.1-A04-PJHF5.CAB",
+      "size_bytes": 328764900,
+      "md5": "496EA5060871D7FFED5AC8E55A865662",
+      "sha256": "EFE2867B45B0F10D8D064F3AB32EC1BBE848586D15B68E535212724802218637",
+      "version": null,
+      "release_date": "2015-04-16T00:00:00"
+    },
+    {
+      "name": "DellPack-WJ53M",
+      "os": "Windows8",
+      "url": "https://downloads.dell.com/FOLDER02580867M/1/3011-win8-A05-WJ53M.CAB",
+      "size_bytes": 213737484,
+      "md5": "3AA15623EDD92D3181BEA96ECDD0DE14",
+      "sha256": "C023DB04F3D25954D7847E002E7D43559A9B57619FC4C8651368BB250222A657",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

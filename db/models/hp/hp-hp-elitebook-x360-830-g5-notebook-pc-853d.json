@@ -1,0 +1,55 @@
+{
+  "id": "hp-hp-elitebook-x360-830-g5-notebook-pc-853d",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook x360 830 G5 Notebook PC",
+  "system_id": "853d",
+  "dmi_matches": [
+    "853d",
+    "HP EliteBook x360 830 G5 Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp94743-HP EliteBook x360 830 G5 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp94501-95000/sp94743.exe",
+      "size_bytes": 617205528,
+      "md5": "b7c3b25d3b44b910761bc3ea168714b3",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "1/22/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp102072-HP EliteBook x360 830 G5 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp102001-102500/sp102072.exe",
+      "size_bytes": 658830360,
+      "md5": "b539dc8ac4ed88c2cda0c7dcca3ec980",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "3/20/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp103622-HP EliteBook x360 830 G5 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp103501-104000/sp103622.exe",
+      "size_bytes": 632718904,
+      "md5": "97B398002B6832A7A0701CED347858E1",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "4/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114225-HP EliteBook x360 830 G5 Windows 10 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114225.exe",
+      "size_bytes": 1264780176,
+      "md5": "318b8b998e23fe4bddd3ef2bb7813d30",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "6/18/2021 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-m4500-040c",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision M4500",
+  "system_id": "040C",
+  "dmi_matches": [
+    "Precision M4500",
+    "040C"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0D35M",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02292863M/1/M4500-vista-A03-0D35M.CAB",
+      "size_bytes": 248669154,
+      "md5": "95AF2DC792A1C13F01514C35C562BFED",
+      "sha256": "65AF44D5C3DBC6DC5B527DD1FBF5DD33716145AF0AE3D880DCED3B2BD52C956F",
+      "version": null,
+      "release_date": "2014-07-11T00:00:00"
+    },
+    {
+      "name": "DellPack-0FKWK",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02120265M/1/M4500-win7-A09-0FKWK.CAB",
+      "size_bytes": 474669619,
+      "md5": "AB6618743CB866A25D4C5362AF3CDA14",
+      "sha256": "0B558A88AF71296176A55BE66E9A8A598FEC9F818C73E9AE092AEB06A04CBF18",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-RKC85",
+      "os": "XP/XP",
+      "url": "https://downloads.dell.com/FOLDER02120256M/1/M4500-xp-A09-RKC85.CAB",
+      "size_bytes": 631092127,
+      "md5": "1FA520CB42E4811476D884A897D7D18B",
+      "sha256": "6D840A6814910C89B01AEE64E11476377DEF31117FA353955D87ED11B5411447",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

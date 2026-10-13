@@ -1,0 +1,115 @@
+{
+  "id": "hp-hp-engage-flex-pro-retail-system-840a",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Engage Flex Pro Retail System",
+  "system_id": "840A",
+  "dmi_matches": [
+    "840A",
+    "HP Engage Flex Pro Retail System"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp91373-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp91001-91500/sp91373.exe",
+      "size_bytes": 1069692464,
+      "md5": "afa9171e79f40a34c154047fed7c509d",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "9/13/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp144659-HP Engage Flex Pro G1 IoT10 2016 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144659.exe",
+      "size_bytes": 977821896,
+      "md5": "fdef50e4407c75e1128bcb7646cc1575",
+      "sha256": null,
+      "version": "10.00 A 1",
+      "release_date": "1/18/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp144660-HP Engage Flex Pro G1 IoT10 2019 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144660.exe",
+      "size_bytes": 907224632,
+      "md5": "8b46ea12db57d46ce0a8a3c5775fb4bc",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "1/18/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp97052-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp97001-97500/sp97052.exe",
+      "size_bytes": 781081840,
+      "md5": "4dffb8f902147dd008c40dfc3992e817",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "6/13/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp99578-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99578.exe",
+      "size_bytes": 818199480,
+      "md5": "529da75357d03befea35f3f9ad7c05dd",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "10/15/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101287-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101001-101500/sp101287.exe",
+      "size_bytes": 775035520,
+      "md5": "b54730a188bd5220ac78945d3ecc0e3d",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "1/14/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp110418-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110418.exe",
+      "size_bytes": 836850952,
+      "md5": "831e2d780c6a506378fd4bd996d1c2d7",
+      "sha256": null,
+      "version": "8.00 A 1",
+      "release_date": "10/13/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp142896-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp142501-143000/sp142896.exe",
+      "size_bytes": 1269898624,
+      "md5": "2fc9a62a7194f8dc78a0185479753eb4",
+      "sha256": null,
+      "version": "11.0 A 1",
+      "release_date": "9/28/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp144661-HP Engage Flex Pro G1 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144501-145000/sp144661.exe",
+      "size_bytes": 1170094944,
+      "md5": "bdd5bd381ecdac1186e35569db0071d4",
+      "sha256": null,
+      "version": "12.00 A 1",
+      "release_date": "1/18/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp148713-HP Engage Flex Pro G1 Win11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp148501-149000/sp148713.exe",
+      "size_bytes": 1163946824,
+      "md5": "1a21a374cdbecb0ec683885d7df767d1",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "8/8/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

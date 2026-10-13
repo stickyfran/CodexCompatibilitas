@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7080-09a4",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7080",
+  "system_id": "09A4",
+  "dmi_matches": [
+    "OptiPlex 7080",
+    "09A4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-W10VV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11304230M/1/7080-W10VV_Win10_1.0_A18.exe",
+      "size_bytes": 2802229864,
+      "md5": "FDAD8A87C681DC6A393D395B264EBA1A",
+      "sha256": "44BBF6B52E760A72D6FD7C6AACD7DF9C6A9BB6C9FF28FA5520C12E2E10184879",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    },
+    {
+      "name": "DellPack-9NTR8",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11304256M/1/7080-9NTR8_Win11_1.0_A09.exe",
+      "size_bytes": 2800843704,
+      "md5": "13B8FE375E5E5FD0073575FA63FC9A6F",
+      "sha256": "945002FF48BE687260CD07C319B6A817B8A5D4F491D551FA74EF9C685B0E623A",
+      "version": null,
+      "release_date": "2024-03-08T00:09:25"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

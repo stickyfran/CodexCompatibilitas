@@ -1,0 +1,35 @@
+{
+  "id": "dell-dell-pro-13-plus-pb13250-0cf4",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 13 Plus PB13250",
+  "system_id": "0CF4",
+  "dmi_matches": [
+    "Dell Pro 13 Plus PB13250",
+    "0CF4"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-VT1WP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14670489M/1/PB13250-VT1WP_Win10_1.0_A08.exe",
+      "size_bytes": 1857688656,
+      "md5": "7084E751FA7F64844D912C8700377E6E",
+      "sha256": "80A5E1950EDD4E3AFFFA9D73BC1B4774A641A748AB68691E3D9FE08044F2F51B",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    },
+    {
+      "name": "DellPack-HT8VV",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14816275M/1/PB13250-HT8VV_Win11_1.0_A08.exe",
+      "size_bytes": 1932519904,
+      "md5": "B45BA72AA51C503737EB248158E12678",
+      "sha256": "C689DEB32AF06CF4D7F3CC6EBF4B1356F2F851CC70845E00CBA7E29552CC9324",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-9020m-0669",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 9020M",
+  "system_id": "0669",
+  "dmi_matches": [
+    "OptiPlex 9020M",
+    "0669"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WM3PT",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04896975M/1/9020M-Win10-A04-WM3PT.CAB",
+      "size_bytes": 381380712,
+      "md5": "FD77978B1824EABBA74ECCD8059A6677",
+      "sha256": "FF418D2A2FF331117FE02A44D2760FED0D191A317C95A452597BEF0FA2E14C1C",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-GH4D9",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04896891M/1/9020M-Win7-A09-GH4D9.CAB",
+      "size_bytes": 392723148,
+      "md5": "9B36EB0FBB56365E1853EED5A1F96F96",
+      "sha256": "9377C58BE881FFB27AD7538CA18293F93A8922B4C3C52BBE49D56B277380B378",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-6WG93",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03557080M/1/9020M-Win8.1-A06-6WG93.CAB",
+      "size_bytes": 230862370,
+      "md5": "40C105E985D645F7B4047E4956B4F59C",
+      "sha256": "7964DB268E908AD0E5455E6A2594BA0648157A6BE5D0E635F9CF85514D8FD01A",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

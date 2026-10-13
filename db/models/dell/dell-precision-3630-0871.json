@@ -1,0 +1,35 @@
+{
+  "id": "dell-precision-3630-0871",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision 3630",
+  "system_id": "0871",
+  "dmi_matches": [
+    "Precision 3630",
+    "0871"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-36V7K",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07982906M/1/3630-win10-A19-36V7K.CAB",
+      "size_bytes": 1794798163,
+      "md5": "500B27E0E03A5980E95820D740BDCA4F",
+      "sha256": "C50294E4F6F8DEFE8AE79D521334994F8EF089745C3992E1C679A3C9D3239C33",
+      "version": null,
+      "release_date": "2022-01-05T14:28:04"
+    },
+    {
+      "name": "DellPack-T7F59",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08179366M/1/3630-win11-A00-T7F59.CAB",
+      "size_bytes": 1878657037,
+      "md5": "EEF14BD77C5FDA182333943D2293972D",
+      "sha256": "336826F8F0670A6102FBC2519F7EDF387379382A448A9C3EA039C8F9DD9DB498",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

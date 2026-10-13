@@ -1,0 +1,75 @@
+{
+  "id": "hp-hp-z4-g4-workstation-81c5",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z4 G4 Workstation",
+  "system_id": "81c5",
+  "dmi_matches": [
+    "81c5",
+    "HP Z4 G4 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp84802-HP Z4G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84802.exe",
+      "size_bytes": 1030908864,
+      "md5": "8685923519362c4b7505696fd3380ae7",
+      "sha256": null,
+      "version": "2.2018 B 1",
+      "release_date": "2/21/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp96860-HP Z4G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp96501-97000/sp96860.exe",
+      "size_bytes": 698936808,
+      "md5": "b3040ff6d62d7ac3986f453c8b25ddf5",
+      "sha256": null,
+      "version": "4.2019 G 2",
+      "release_date": "6/4/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp110210-HP Z4G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp110001-110500/sp110210.exe",
+      "size_bytes": 993618120,
+      "md5": "8d1a951e000fbe03d8ae28f6536ec645",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/23/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp113515-HP Z4G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp113501-114000/sp113515.exe",
+      "size_bytes": 1071055776,
+      "md5": "e4894b1134e03e98a93e946b4d64ba37",
+      "sha256": null,
+      "version": "6.00 A 1",
+      "release_date": "5/19/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp147781-HP Z4G4 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147781.exe",
+      "size_bytes": 1591369984,
+      "md5": "b9e50e93f1d41eb41ccab8f72a4e92f0",
+      "sha256": null,
+      "version": "13.00 A 1",
+      "release_date": "6/12/2023 12:00:00 AM"
+    },
+    {
+      "name": "sp147782-HP Z4G4 Windows 11 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp147501-148000/sp147782.exe",
+      "size_bytes": 1486910480,
+      "md5": "95171bd51cc7422c9cc03d765a62333a",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "6/12/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

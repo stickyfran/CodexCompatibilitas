@@ -1,0 +1,27 @@
+{
+  "id": "hp-hp-pro-mini-400-g9-pc-8955",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Pro Mini 400 G9 PC",
+  "system_id": "8955,8C63,8AC9",
+  "dmi_matches": [
+    "8955",
+    "8C63",
+    "8AC9",
+    "HP Pro Mini 400 G9 PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp145699-HP Pro/Elite Mini 4/6/800 G9 Windows 10x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp145501-146000/sp145699.exe",
+      "size_bytes": 1468090592,
+      "md5": "560fa9291fc20f76211194d24b414c66",
+      "sha256": null,
+      "version": "5.00 A 1",
+      "release_date": "4/5/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

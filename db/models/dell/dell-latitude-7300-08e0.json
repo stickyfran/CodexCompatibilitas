@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7300-08e0",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7300",
+  "system_id": "08E0",
+  "dmi_matches": [
+    "Latitude 7300",
+    "08E0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-MWTC1",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER10154931M/1/7300-MWTC1_Win10_1.0_A13.exe",
+      "size_bytes": 1533895456,
+      "md5": "B9D0F0B7CC14AA2E3C27FE45DC1BB8B5",
+      "sha256": "2265C79C8998A280766F9D56BF659920180430776742E6E281024399A4B0893B",
+      "version": null,
+      "release_date": "2023-07-07T08:03:22"
+    },
+    {
+      "name": "DellPack-MYHKG",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10155222M/1/7300-MYHKG_Win11_1.0_A01.exe",
+      "size_bytes": 1528100928,
+      "md5": "6CD3CE87C4415303DB6FFA63387A2927",
+      "sha256": "910604A4A38C0786B7A4C7A8AD14E9429394EFB1C2A54E10915B8F6F257D2A09",
+      "version": null,
+      "release_date": "2023-07-07T08:03:22"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

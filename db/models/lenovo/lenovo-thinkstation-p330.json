@@ -1,0 +1,39 @@
+{
+  "id": "lenovo-thinkstation-p330",
+  "vendor": "Lenovo",
+  "family": "Other",
+  "model_name": "ThinkStation P330",
+  "system_id": "30C8,30C5,30C9,30CA,30C6,30C7",
+  "dmi_matches": [
+    "30C8",
+    "30C5",
+    "30C9",
+    "30CA",
+    "30C6",
+    "30C7"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_w1064_1803_20180613.exe",
+      "size_bytes": null,
+      "md5": "2d3d711694f096b7d91c15a1d005b582",
+      "sha256": "618acbf4829e9be1a6e95e17b4ca5135c213aeccb759bb837ae70e04c6548e01",
+      "version": null,
+      "release_date": "2018-06-26"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/thinkcentre_drivers/ts_p330_w1064_1809_20190124.exe",
+      "size_bytes": null,
+      "md5": "06d35fbe65f5bd3e756ff290071296d4",
+      "sha256": "df5cad3689436fae2b6b935a136f847820fea098ecde8984b2622a8c3fa99601",
+      "version": null,
+      "release_date": "2019-01-24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

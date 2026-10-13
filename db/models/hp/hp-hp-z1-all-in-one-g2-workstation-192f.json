@@ -1,0 +1,25 @@
+{
+  "id": "hp-hp-z1-all-in-one-g2-workstation-192f",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP Z1 All-in-One G2 Workstation",
+  "system_id": "192F",
+  "dmi_matches": [
+    "192F",
+    "HP Z1 All-in-One G2 Workstation"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp72467-HP Z1 G2 Workstations Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp72001-72500/sp72467.exe",
+      "size_bytes": 517273632,
+      "md5": "47fe122f41563babaa0993915783f279",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "8/16/2015 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

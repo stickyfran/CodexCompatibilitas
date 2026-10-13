@@ -1,0 +1,26 @@
+{
+  "id": "hp-hp-elitebook-8-g2a-14-inch-notebook-next-gen-ai-pc-8f40",
+  "vendor": "HP",
+  "family": "Elitebook",
+  "model_name": "HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC",
+  "system_id": "8F40,8F94",
+  "dmi_matches": [
+    "8F40",
+    "8F94",
+    "HP EliteBook 8 G2a 14 inch Notebook Next Gen AI PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp174518-HP EB/ZB 8 G2a NB/MWS Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp174501-175000/sp174518.exe",
+      "size_bytes": 1128811784,
+      "md5": "A69F65E31DE44A2CC37BC6228577443D",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "9/1/2026 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3510-09f2",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3510",
+  "system_id": "09F2",
+  "dmi_matches": [
+    "Latitude 3510",
+    "09F2"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-K9MN8",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08824604M/1/3510-K9MN8_Win10_1.0_A12.exe",
+      "size_bytes": 2569949416,
+      "md5": "61B3FBB813ED1FADD0ADCF9F0B1DB9ED",
+      "sha256": "99A61F90550533E8C35F8A881615867323C75713FCFC740CB7E93DE5121731FC",
+      "version": null,
+      "release_date": "2022-10-10T14:02:58"
+    },
+    {
+      "name": "DellPack-G8G4J",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08605824M/1/3510-G8G4J_Win11_1.0_A01.exe",
+      "size_bytes": 1773154432,
+      "md5": "842C1DFCC112168CF3E3A8DD262AE2C6",
+      "sha256": "DE6B6126F08C3C5444CAB060671D7E8F05F1EB0E65970C007E4D06D6EFB31CB3",
+      "version": null,
+      "release_date": "2022-07-22T13:59:59"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

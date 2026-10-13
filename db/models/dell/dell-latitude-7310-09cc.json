@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7310-09cc",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7310",
+  "system_id": "09CC",
+  "dmi_matches": [
+    "Latitude 7310",
+    "09CC"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-W0WRG",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER09606329M/1/7310-W0WRG_Win10_1.0_A13.exe",
+      "size_bytes": 1955486912,
+      "md5": "30486694C9A85DA5FC1A319EBC83F926",
+      "sha256": "81CB61179DB55440720DE3F852B437C0B1BED73639CA2EBD0ABAF6EEA8D8D898",
+      "version": null,
+      "release_date": "2023-04-11T00:54:01"
+    },
+    {
+      "name": "DellPack-MKRTK",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER09606313M/1/7310-MKRTK_Win11_1.0_A03.exe",
+      "size_bytes": 1956270792,
+      "md5": "25A8BAF82ED3FA1F92AC1CF587C32ACD",
+      "sha256": "5ED0D5B9E0D7AE9AE4C95131AA307A24D24C9CFF1E147DED3814F9317E72F65B",
+      "version": null,
+      "release_date": "2023-04-11T00:54:01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

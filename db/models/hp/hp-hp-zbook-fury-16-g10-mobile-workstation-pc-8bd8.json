@@ -1,0 +1,28 @@
+{
+  "id": "hp-hp-zbook-fury-16-g10-mobile-workstation-pc-8bd8",
+  "vendor": "HP",
+  "family": "Zbook",
+  "model_name": "HP ZBook Fury 16 G10 Mobile Workstation PC",
+  "system_id": "8bd8,8b92,8b93,8b94",
+  "dmi_matches": [
+    "8bd8",
+    "8b92",
+    "8b93",
+    "8b94",
+    "HP ZBook Fury 16 G10 Mobile Workstation PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp149065-HP ZBook Fury G10 MWS Windows10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp149001-149500/sp149065.exe",
+      "size_bytes": 1681959424,
+      "md5": "74ece9572789a0e34ceb52306adc3028",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "9/4/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

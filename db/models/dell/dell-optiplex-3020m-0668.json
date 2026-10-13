@@ -1,0 +1,45 @@
+{
+  "id": "dell-optiplex-3020m-0668",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 3020M",
+  "system_id": "0668",
+  "dmi_matches": [
+    "OptiPlex 3020M",
+    "0668"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-DYD40",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER04894324M/1/3020M-Win10-A04-DYD40.CAB",
+      "size_bytes": 362466994,
+      "md5": "933CC7BDD4A80325242C8EEF101B3589",
+      "sha256": "474200530C73A7E796BACBA69C85D53BE838ED9BCD78EA799BD7A6984C91A796",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-JR8M3",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER04894483M/1/3020M-Win7-A08-JR8M3.CAB",
+      "size_bytes": 391880438,
+      "md5": "9CB8E2E47890E1441994C3CA51F69354",
+      "sha256": "3C107B501DADC6B46B13831D30BC80871BC065F6622FE531523369C51A9AD7FD",
+      "version": null,
+      "release_date": "2018-04-10T00:00:00"
+    },
+    {
+      "name": "DellPack-C9PY8",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER03572061M/1/3020M-Win8.1-A05-C9PY8.CAB",
+      "size_bytes": 230882045,
+      "md5": "BBF66A8C97FFC04CA2EAA4F31EA2323F",
+      "sha256": "AF6E6E2002C80D9545C3308EA35EEC427D0BDCB173A367EE8C9E03E6A0B3F2B8",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

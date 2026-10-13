@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5290-0815",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5290",
+  "system_id": "0815",
+  "dmi_matches": [
+    "Latitude 5290",
+    "0815"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-GVPJP",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08634543M/1/5290-win10-A16-GVPJP.CAB",
+      "size_bytes": 1028236645,
+      "md5": "96B3D131C5A799295EEC6B81D8BA00CD",
+      "sha256": "170ED864482731A0CE3265DC5554A7AD18A53CC4DA144E7699FC5C39EC59746E",
+      "version": null,
+      "release_date": "2022-06-27T12:37:57"
+    },
+    {
+      "name": "DellPack-VH9TY",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER10612629M/1/5290-VH9TY_Win11_1.0_A00.exe",
+      "size_bytes": 1190715504,
+      "md5": "CF20C9B6570FFE2C272C1C881BD23FEF",
+      "sha256": "4B81162E215E1E945A7AD24423BF4CDA6482613012D49422356C5E97892621BB",
+      "version": null,
+      "release_date": "2023-10-27T05:18:49"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3540-0c1e",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3540",
+  "system_id": "0C1E",
+  "dmi_matches": [
+    "Latitude 3540",
+    "0C1E"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-JVRYV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14365693M/1/Latitude-3540-JVRYV_Win10_1.0_A13.exe",
+      "size_bytes": 3609395648,
+      "md5": "E4D824E3FA4B4671BDBBEBC328215CB7",
+      "sha256": "1EA3408D6E5969DEF0CCED2468EBA97400F02E556164FFA7604213BC32A939F0",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    },
+    {
+      "name": "DellPack-6FJP3",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14366837M/1/Latitude-3540-6FJP3_Win11_1.0_A13.exe",
+      "size_bytes": 3604260896,
+      "md5": "D35CE050A31F593A6FA73FFA9BB736A9",
+      "sha256": "6D2E1A7440646E1B06FE6AA184C836B896B98285C535FF516F7D422274C9F3AB",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

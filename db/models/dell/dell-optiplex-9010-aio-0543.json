@@ -1,0 +1,65 @@
+{
+  "id": "dell-optiplex-9010-aio-0543",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 9010 AIO",
+  "system_id": "0543",
+  "dmi_matches": [
+    "OptiPlex 9010 AIO",
+    "0543"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-84DGG",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03651157M/1/9010 AIO-Win10-A01-84DGG.CAB",
+      "size_bytes": 225028309,
+      "md5": "818DBA8C676331CA7A685FDB87577D06",
+      "sha256": "CA90EB9E118C50D1CD7A32CBC6E72EB787CFAC0CAFCCEBBA825385BBFCC23D1C",
+      "version": null,
+      "release_date": "2016-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-CDFJC",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02816408M/1/9010 AIO-win7-A08-CDFJC.CAB",
+      "size_bytes": 246149095,
+      "md5": "44E1B6A48DA646051E8A6414D562AABF",
+      "sha256": "0248B3C75CBCF8474A8D7637E332C1B8836421CE27B1FFD896EDF691A9212943",
+      "version": null,
+      "release_date": "2015-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-FTDT4",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02822626M/1/9010 AIO-win8.1-A04-FTDT4.CAB",
+      "size_bytes": 277617688,
+      "md5": "F3310A7D7906CB83FA9CCF7D3325748A",
+      "sha256": "F18EBCD753E3F69044AFBE57A9733B5A8B8A35845BDA1ABC91C9264FE3136049",
+      "version": null,
+      "release_date": "2015-04-14T00:00:00"
+    },
+    {
+      "name": "DellPack-H485K",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02643115M/1/9010 AIO-win8-A05-H485K.CAB",
+      "size_bytes": 217075286,
+      "md5": "46814E28BA69FC4DC0AB49C381494288",
+      "sha256": "DC5E593DF201754867DF22568C1C378E0BFBDC8ECFF0D7BB7548A443625A7F62",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-TTCPX",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02181741M/1/9010 AIO-xp-A04-TTCPX.CAB",
+      "size_bytes": 56138414,
+      "md5": "BC542D265AC22C09AC1F1C5135C312D4",
+      "sha256": "BF1D6820128468991F028339EB5EF8BDE6AB7B081760E9E69ED77D71A10A0CBF",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

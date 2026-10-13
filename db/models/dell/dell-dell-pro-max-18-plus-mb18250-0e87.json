@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-max-18-plus-mb18250-0e87",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Laptops",
+  "model_name": "Dell Pro Max 18 Plus MB18250",
+  "system_id": "0E87",
+  "dmi_matches": [
+    "Dell Pro Max 18 Plus MB18250",
+    "0E87"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-J0TYF",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14697491M/1/MB18250-J0TYF_Win11_1.0_A06.exe",
+      "size_bytes": 2281408880,
+      "md5": "F884C794BA2CEC11AFD4A2FC88041D0F",
+      "sha256": "91DCB5A91360F7E5B8F946BCE9A2E5A12E918EFD64668F4B219976FA6FBCDDE5",
+      "version": null,
+      "release_date": "2026-08-11T01:07:36"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

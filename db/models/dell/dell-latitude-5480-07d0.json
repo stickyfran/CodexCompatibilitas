@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-5480-07d0",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5480",
+  "system_id": "07D0",
+  "dmi_matches": [
+    "Latitude 5480",
+    "07D0"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0T2MV",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER06447757M/1/5480-win10-A14-0T2MV.CAB",
+      "size_bytes": 1163337582,
+      "md5": "41C7635AB09F3E5FBCCEA80A15F36C15",
+      "sha256": "67823AB29787046DABAB91E719CBDF3046EC52C20AB0936D98A36896B6D29307",
+      "version": null,
+      "release_date": "2020-09-08T00:00:00"
+    },
+    {
+      "name": "DellPack-NVGW4",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER06175738M/1/5480-win7-A11-NVGW4.CAB",
+      "size_bytes": 1305307748,
+      "md5": "932E08D18EBC1899C4374746302E8A6F",
+      "sha256": "3EABC80F0A9284903504DFCAF475EC944D700813E4357E60070C3EFDC9F468D3",
+      "version": null,
+      "release_date": "2020-05-26T00:00:00"
+    },
+    {
+      "name": "DellPack-97C7G",
+      "os": "Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER04609246M/1/5480-Win8.1-A02-97C7G.CAB",
+      "size_bytes": 732768091,
+      "md5": "2A9A2232DA19327919FB09DEDB93E752",
+      "sha256": "8E5B5B9347F605E19AFF28122DD8348E3549BEAB3A205419F71ED35CBCA430FA",
+      "version": null,
+      "release_date": "2017-12-12T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7220-093d",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7220",
+  "system_id": "093D",
+  "dmi_matches": [
+    "Latitude 7220",
+    "093D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-V6X6K",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12260643M/1/Latitude-7220-V6X6K_Win10_1.0_A15.exe",
+      "size_bytes": 1596068472,
+      "md5": "9114CBD3FB98FB9AF9121D2DF0A98873",
+      "sha256": "9AD79CD4A7A5762A1FF8E8A07C616FD7189EA469A996D659ED3AF6D9C62EE476",
+      "version": null,
+      "release_date": "2024-12-05T01:34:38"
+    },
+    {
+      "name": "DellPack-DPVDR",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12260641M/1/Latitude-7220-DPVDR_Win11_1.0_A06.exe",
+      "size_bytes": 1200886504,
+      "md5": "CFA4DBE96012AB07745DC35BAEBE8217",
+      "sha256": "7D0F0419DFBB1E31EC60F7DED1859E28344A01378B0F7B4E619F953D18D133E4",
+      "version": null,
+      "release_date": "2024-12-05T01:34:38"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

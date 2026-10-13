@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5300-08b7",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5300",
+  "system_id": "08B7",
+  "dmi_matches": [
+    "Latitude 5300",
+    "08B7"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-N7F30",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08639458M/1/5300-win10-A14-N7F30.CAB",
+      "size_bytes": 1301568820,
+      "md5": "E0F94C1F680FBAD28BC29D7C36DA45BE",
+      "sha256": "65CF205D9E991685AA64FDA6C8DA2BA00FBCE29DEA9E36F7D34D89A347F898DE",
+      "version": null,
+      "release_date": "2022-06-27T12:37:57"
+    },
+    {
+      "name": "DellPack-WX3C3",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08127722M/1/5300-win11-A00-WX3C3.CAB",
+      "size_bytes": 980344272,
+      "md5": "CF81256562A2CC2B32652126666FF038",
+      "sha256": "5449A0CFDF4377F0BA9EC4B8B4A55A2912363B921DA49875273DF1199C5B4BDE",
+      "version": null,
+      "release_date": "2022-02-19T13:15:48"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

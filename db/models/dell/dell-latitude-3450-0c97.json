@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-3450-0c97",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 3450",
+  "system_id": "0C97",
+  "dmi_matches": [
+    "Latitude 3450",
+    "0C97"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-XMT4F",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14229824M/1/Latitude-3450-XMT4F_Win10_1.0_A09.exe",
+      "size_bytes": 3664596744,
+      "md5": "D93284A2B9D6A532384D8368A8B3CA55",
+      "sha256": "A348F1E680EDECBCB86379A68E168558825314091A9452BD42E8FA86B01F3A23",
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    },
+    {
+      "name": "DellPack-KGPR0",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14229848M/1/Latitude-3450-KGPR0_Win11_1.0_A09.exe",
+      "size_bytes": 3670292640,
+      "md5": "7424F6FBFE8A3E1A360DC8041E4BB7E1",
+      "sha256": "4A0AA84E6B2292DF47FA591B1F6D98FE37C9304BE9FEBD9A24C1B9087809A097",
+      "version": null,
+      "release_date": "2026-04-10T02:09:16"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

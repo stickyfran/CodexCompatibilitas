@@ -1,0 +1,13 @@
+{
+  "id": "asus-expertbook-p5-p5405",
+  "vendor": "ASUS",
+  "family": "ExpertBook",
+  "model_name": "Expertbook P5 P5405",
+  "system_id": "P5405",
+  "dmi_matches": [
+    "P5405"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-vivobook-16-m1607",
+  "vendor": "ASUS",
+  "family": "Vivobook",
+  "model_name": "Asus Vivobook 16 M1607",
+  "system_id": "M1607",
+  "dmi_matches": [
+    "M1607"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

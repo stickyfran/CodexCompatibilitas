@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-7020-sff-0c72",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 7020 SFF",
+  "system_id": "0C72",
+  "dmi_matches": [
+    "OptiPlex 7020 SFF",
+    "0C72"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-N51CN",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14016553M/1/OptiPlex-7020-SFF-N51CN_Win10_1.0_A10.exe",
+      "size_bytes": 1987129872,
+      "md5": "FD84F900B0FF05C738A97F2E1307E40B",
+      "sha256": "75EA453D9EE05602E9FC4FFDFFA2B163697D80B173A2B98BBA8BA9DF8FAA921E",
+      "version": null,
+      "release_date": "2026-02-24T04:41:51"
+    },
+    {
+      "name": "DellPack-50KRK",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14016555M/1/OptiPlex-7020-SFF-50KRK_Win11_1.0_A10.exe",
+      "size_bytes": 1987731896,
+      "md5": "A43C58C78F53C217F64941C873758B50",
+      "sha256": "F0BC64B3C5E22EAD903C55E88833A19BD786DD571E8C6299A68BB5111A105835",
+      "version": null,
+      "release_date": "2026-02-24T04:41:51"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-5270-aio-0936",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 5270 AIO",
+  "system_id": "0936",
+  "dmi_matches": [
+    "OptiPlex 5270 AIO",
+    "0936"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KRJXH",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER08837219M/1/5270-AIO-KRJXH_Win10_1.0_A11.exe",
+      "size_bytes": 1170717392,
+      "md5": "06151596A9952EA1734544DE0448D21C",
+      "sha256": "51B7E8D87CBA37466788FD0CA13F8B8F82A8FA244641B7ACBC17141E7AC34A1B",
+      "version": null,
+      "release_date": "2022-08-09T14:23:47"
+    },
+    {
+      "name": "DellPack-P7P26",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER08164874M/1/5270 AIO-win11-A00-P7P26.CAB",
+      "size_bytes": 1008426734,
+      "md5": "FB45C2AEE5C91454CA3DE6ABB16D859E",
+      "sha256": "96CCB787BB50E371818AE1B1853DAB0206BAD70DA0FE0A38274B4F680008C81F",
+      "version": null,
+      "release_date": "2022-03-04T07:29:52"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

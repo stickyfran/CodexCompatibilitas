@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5430-rugged-0a9d",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5430 Rugged",
+  "system_id": "0A9D",
+  "dmi_matches": [
+    "Latitude 5430 Rugged",
+    "0A9D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-7N1F2",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11909895M/1/Latitude-5430-Rugged-7N1F2_Win10_1.0_A15.exe",
+      "size_bytes": 2634907584,
+      "md5": "DAAD7D956DABEA5318F35B5E5DE421EA",
+      "sha256": "69C00F82284F08C97CF91ABAAD27F172170AC1EEFAE076CABEE9E764E5D4790B",
+      "version": null,
+      "release_date": "2024-08-09T08:20:14"
+    },
+    {
+      "name": "DellPack-7NVTH",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11909923M/1/Latitude-5430-Rugged-7NVTH_Win11_1.0_A16.exe",
+      "size_bytes": 2254323696,
+      "md5": "CBA70334ED069650BB1524215CF07FD9",
+      "sha256": "18DA2F5E8C6314F34F7A3C38589D8DB50991432CDA5CBF284CFC63235CB932C8",
+      "version": null,
+      "release_date": "2024-08-09T08:20:14"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

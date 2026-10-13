@@ -1,0 +1,45 @@
+{
+  "id": "dell-latitude-e5500-0263",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5500",
+  "system_id": "0263",
+  "dmi_matches": [
+    "Latitude E5500",
+    "0263"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-T028Y",
+      "os": "Vista",
+      "url": "https://downloads.dell.com/FOLDER02325595M/1/E5500-vista-A04-T028Y.CAB",
+      "size_bytes": 78612587,
+      "md5": "557F76C66F370543312B5F88AD8ABCB2",
+      "sha256": "8F668E677296074719B783589F5B004889C272BD5EDC2DC54B7B8FAD0C48214F",
+      "version": null,
+      "release_date": "2014-09-23T00:00:00"
+    },
+    {
+      "name": "DellPack-GMFTK",
+      "os": "Windows7",
+      "url": "https://downloads.dell.com/FOLDER02045546M/1/E5500-win7-A03-GMFTK.CAB",
+      "size_bytes": 90741465,
+      "md5": "43C6A5D49AA9DF591BB87665F2E6E584",
+      "sha256": "371666F26439775CA4062B4383B1FDD2F96979E0C468D01C9C74AADE292A75A2",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    },
+    {
+      "name": "DellPack-PXK62",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02047523M/1/E5500-xp-A07-PXK62.CAB",
+      "size_bytes": 59636452,
+      "md5": "CD0B79B6D497308D9ACEC8EB92550CF0",
+      "sha256": "9E00ADEFC1949D34BFFA897CDA73BFE663DA88BC2A297482678D88D0D25493DB",
+      "version": null,
+      "release_date": "2014-04-01T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

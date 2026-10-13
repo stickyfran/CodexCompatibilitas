@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-760-027f",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "OptiPlex 760",
+  "system_id": "027F",
+  "dmi_matches": [
+    "OptiPlex 760",
+    "027F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-YKCJ0",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02123628M/1/760-Win7-A02-YKCJ0.CAB",
+      "size_bytes": 241695086,
+      "md5": "962662A739C57B46145E234FC56AB085",
+      "sha256": "BD31809CD09BC15524156F8BA5EBB30C78D3A5FF3CD1B789CBACD11E6BF46C72",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    },
+    {
+      "name": "DellPack-3DWF1",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02146544M/1/760-XP-A02-3DWF1.CAB",
+      "size_bytes": 106940954,
+      "md5": "8B98FA2DBAC12EB110AE1F83FF8B5E98",
+      "sha256": "DD70DF6F0CFDB78837A579ABC1FB1AE96DE06A48F22DFFA53D3D4A4ABEE4AE73",
+      "version": null,
+      "release_date": "2014-05-15T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

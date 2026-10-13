@@ -1,0 +1,45 @@
+{
+  "id": "dell-precision-t7600-0495",
+  "vendor": "Dell",
+  "family": "Precision",
+  "model_name": "Precision T7600",
+  "system_id": "0495",
+  "dmi_matches": [
+    "Precision T7600",
+    "0495"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-D1G7F",
+      "os": "Vista/Vista",
+      "url": "https://downloads.dell.com/FOLDER02267072M/1/T7600-vista-A02-D1G7F.CAB",
+      "size_bytes": 1563412232,
+      "md5": "2DD79E06E478FE39E4344FC2BA08BCE6",
+      "sha256": "4B586CEFDB951BB918CA0F94E2981563B61FBA86BA671D596B7EC966134FF47F",
+      "version": null,
+      "release_date": "2014-06-21T00:00:00"
+    },
+    {
+      "name": "DellPack-0P54F",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03538550M/1/T7600-win10-A01-0P54F.CAB",
+      "size_bytes": 802016700,
+      "md5": "B4931A7889F1E3B32FEAD8E9A4501B61",
+      "sha256": "539141607374CEC5302CBBC2DB02FD09D49D616550A4558DB02A333EA8FE2715",
+      "version": null,
+      "release_date": "2016-03-07T00:00:00"
+    },
+    {
+      "name": "DellPack-WCW73",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER02643094M/1/T7600-win7-A06-WCW73.CAB",
+      "size_bytes": 517733587,
+      "md5": "966EE30D721B11DD2C85EA3F7875787A",
+      "sha256": "EC5F6E6C7C5B1181D5B85A8234C5163121D0ED8C92840FA1D31BE48079681443",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

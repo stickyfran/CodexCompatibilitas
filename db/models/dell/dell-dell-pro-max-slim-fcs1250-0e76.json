@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-max-slim-fcs1250-0e76",
+  "vendor": "Dell",
+  "family": "Dell Pro Max Desktops",
+  "model_name": "Dell Pro Max Slim FCS1250",
+  "system_id": "0E76",
+  "dmi_matches": [
+    "Dell Pro Max Slim FCS1250",
+    "0E76"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-9V1FD",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14642733M/1/FCS1250-9V1FD_Win11_1.0_A06.exe",
+      "size_bytes": 4144228880,
+      "md5": "46E076CDE55DEC5734D0F7812C89AD1D",
+      "sha256": "C3E5F207CCAF51C0DDB3CDCA2F996B188034D8D0983931D93C67847E5B63D1EF",
+      "version": null,
+      "release_date": "2026-07-28T04:57:01"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

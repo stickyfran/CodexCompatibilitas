@@ -1,0 +1,13 @@
+{
+  "id": "asus-asus-m570",
+  "vendor": "ASUS",
+  "family": "ASUS",
+  "model_name": "Asus M570",
+  "system_id": "M570",
+  "dmi_matches": [
+    "M570"
+  ],
+  "driver_packs": [],
+  "individual_drivers": [],
+  "components": {}
+}

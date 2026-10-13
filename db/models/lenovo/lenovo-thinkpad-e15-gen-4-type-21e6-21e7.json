@@ -1,0 +1,65 @@
+{
+  "id": "lenovo-thinkpad-e15-gen-4-type-21e6-21e7",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad E15 Gen 4 Type 21E6 21E7",
+  "system_id": "21E6,21E7",
+  "dmi_matches": [
+    "21E6",
+    "21E7"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-21H2",
+      "os": "win10-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_e15_gen_4_intel_mt21e3-21e4-21e5-21e6-21e7_w1064_21h2_22h2_202311.exe",
+      "size_bytes": null,
+      "md5": "c23b0c2dc700235e1a4d8d2118c01353",
+      "sha256": "5dcb9f75d436fd787df1e4f1732e369254e168d9b0a01fb5efaece376daf67b3",
+      "version": null,
+      "release_date": "2023-12-18"
+    },
+    {
+      "name": "SCCM-win10-22H2",
+      "os": "win10-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_e15_gen_4_intel_mt21e3-21e4-21e5-21e6-21e7_w1064_21h2_22h2_202311.exe",
+      "size_bytes": null,
+      "md5": "c23b0c2dc700235e1a4d8d2118c01353",
+      "sha256": "5dcb9f75d436fd787df1e4f1732e369254e168d9b0a01fb5efaece376daf67b3",
+      "version": null,
+      "release_date": "2023-12-18"
+    },
+    {
+      "name": "SCCM-win11-21H2",
+      "os": "win11-21H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_e15_gen_4_intel_mt21e3-21e4-21e5-21e6-21e7_w11_21h2_22h2_24h2_202410.exe",
+      "size_bytes": null,
+      "md5": "ed5d44ef39771d3d714f7122c0fc14cd",
+      "sha256": "a12dbb0bd9b5f9ef302ff21ed95c29c8de198958d80a5f5966cf7749d09e342b",
+      "version": null,
+      "release_date": "2024-11-05"
+    },
+    {
+      "name": "SCCM-win11-22H2",
+      "os": "win11-22H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_e15_gen_4_intel_mt21e3-21e4-21e5-21e6-21e7_w11_21h2_22h2_24h2_202410.exe",
+      "size_bytes": null,
+      "md5": "ed5d44ef39771d3d714f7122c0fc14cd",
+      "sha256": "a12dbb0bd9b5f9ef302ff21ed95c29c8de198958d80a5f5966cf7749d09e342b",
+      "version": null,
+      "release_date": "2024-11-05"
+    },
+    {
+      "name": "SCCM-win11-24H2",
+      "os": "win11-24H2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_e14_e15_gen_4_intel_mt21e3-21e4-21e5-21e6-21e7_w11_21h2_22h2_24h2_202410.exe",
+      "size_bytes": null,
+      "md5": "ed5d44ef39771d3d714f7122c0fc14cd",
+      "sha256": "a12dbb0bd9b5f9ef302ff21ed95c29c8de198958d80a5f5966cf7749d09e342b",
+      "version": null,
+      "release_date": "2024-11-05"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,75 @@
+{
+  "id": "hp-hp-probook-x360-11-g5-ee-notebook-pc-86cf",
+  "vendor": "HP",
+  "family": "Probook",
+  "model_name": "HP ProBook x360 11 G5 EE Notebook PC",
+  "system_id": "86cf",
+  "dmi_matches": [
+    "86cf",
+    "HP ProBook x360 11 G5 EE Notebook PC"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp100011-HP ProBook x360 11 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100011.exe",
+      "size_bytes": 622043528,
+      "md5": "3237e0a70d8d2edbccb2aa8f316415d5",
+      "sha256": null,
+      "version": "1.00 A 1",
+      "release_date": "11/12/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp101746-HP ProBook x360 11 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp101501-102000/sp101746.exe",
+      "size_bytes": 587266672,
+      "md5": "29cf5c492b41f978eb25e463ff21876d",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "2/25/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp107518-HP ProBook x360 11 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp107501-108000/sp107518.exe",
+      "size_bytes": 596431360,
+      "md5": "f0e7cb892a392e1e35bf050c838c4682",
+      "sha256": null,
+      "version": "4.00 A 1",
+      "release_date": "8/6/2020 12:00:00 AM"
+    },
+    {
+      "name": "sp114160-HP ProBook x360 11 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp114001-114500/sp114160.exe",
+      "size_bytes": 694255464,
+      "md5": "1249a99e3ced0b0a7eabf03d8e898e6e",
+      "sha256": null,
+      "version": "7.00 A 1",
+      "release_date": "6/9/2021 12:00:00 AM"
+    },
+    {
+      "name": "sp140369-HP ProBook x360 11 G5 Windows 10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp140001-140500/sp140369.exe",
+      "size_bytes": 1022596336,
+      "md5": "cc306e59ce18d2c5a2d9f91c220e7668",
+      "sha256": null,
+      "version": "9.00 A 1",
+      "release_date": "5/18/2022 12:00:00 AM"
+    },
+    {
+      "name": "sp144389-HP ProBook x360 G5 Windows 11 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp144001-144500/sp144389.exe",
+      "size_bytes": 829927528,
+      "md5": "b2875cfafe0c19c00255f49886efe671",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "1/20/2023 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

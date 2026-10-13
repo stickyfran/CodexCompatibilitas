@@ -1,0 +1,45 @@
+{
+  "id": "hp-hp-rp5-retail-system-model-5810-2175",
+  "vendor": "HP",
+  "family": "HP",
+  "model_name": "HP RP5 Retail System Model 5810",
+  "system_id": "2175",
+  "dmi_matches": [
+    "2175",
+    "HP RP5 Retail System Model 5810"
+  ],
+  "driver_packs": [
+    {
+      "name": "sp92270-HP RP5 5810 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp92001-92500/sp92270.exe",
+      "size_bytes": 646467080,
+      "md5": "d914ecc7cc20c24ab50c512b964bf985",
+      "sha256": null,
+      "version": "2.00 A 1",
+      "release_date": "10/22/2018 12:00:00 AM"
+    },
+    {
+      "name": "sp94916-HP RP5 5810 IoT10 2016 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp94501-95000/sp94916.exe",
+      "size_bytes": 1038883000,
+      "md5": "b6aa4ef4b4f4063135b4563975b5373a",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "5/7/2019 12:00:00 AM"
+    },
+    {
+      "name": "sp94917-HP RP5 5810 Win10 x64 Driver Pack",
+      "os": "Windows",
+      "url": "https://ftp.hp.com/pub/softpaq/sp94501-95000/sp94917.exe",
+      "size_bytes": 1048856184,
+      "md5": "6a134eb8ded8a5c225fe5343f2b6c1fd",
+      "sha256": null,
+      "version": "3.00 A 1",
+      "release_date": "5/30/2019 12:00:00 AM"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

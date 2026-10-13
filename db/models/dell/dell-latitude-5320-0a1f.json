@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-5320-0a1f",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 5320",
+  "system_id": "0A1F",
+  "dmi_matches": [
+    "Latitude 5320",
+    "0A1F"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-99KMJ",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER13817614M/1/Latitude-5320-99KMJ_Win10_1.0_A19.exe",
+      "size_bytes": 1320812832,
+      "md5": "802E19E38E5DD92225DE531CA79E4972",
+      "sha256": "071DE2955FC485BEE81D1C6BC3BB513482396946B76143DE16832CA4E64D0743",
+      "version": null,
+      "release_date": "2025-11-21T04:55:31"
+    },
+    {
+      "name": "DellPack-8Y9K2",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13817615M/1/Latitude-5320-8Y9K2_Win11_1.0_A13.exe",
+      "size_bytes": 1319231128,
+      "md5": "9855CF4879A549D9C77BE1415956A1EB",
+      "sha256": "936135212875EBFD2A7A655B1AE38D097DB3B73D582CC76BC754F022DA9F3943",
+      "version": null,
+      "release_date": "2025-11-21T04:55:31"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

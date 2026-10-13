@@ -1,0 +1,35 @@
+{
+  "id": "dell-xps-13-9320-0c10",
+  "vendor": "Dell",
+  "family": "XPS Notebook",
+  "model_name": "XPS 13 9320",
+  "system_id": "0C10",
+  "dmi_matches": [
+    "XPS 13 9320",
+    "0C10"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KP6R0",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER13720138M/1/XPS-13-9320-KP6R0_Win11_1.0_A15.exe",
+      "size_bytes": 1101921304,
+      "md5": "18F1D8BB745CC34FF3F56EFD1368B260",
+      "sha256": "CB01793BFB1908B92160B961C12483E724DC78E62C31A1BC7BF0AB5A9DDF6803",
+      "version": null,
+      "release_date": "2025-11-06T03:31:52"
+    },
+    {
+      "name": "DellPack-7VC53",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER14366129M/1/XPS-13-9320-7VC53_Win10_1.0_A17.exe",
+      "size_bytes": 1067925408,
+      "md5": "94DC35126255FF126EBBF4F1FA3BCB7F",
+      "sha256": "4950B52F400F6DEDF09B82BE378DE2835EF18E77F9552E8D1E63BCDAA834A9DB",
+      "version": null,
+      "release_date": "2026-05-14T01:22:07"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

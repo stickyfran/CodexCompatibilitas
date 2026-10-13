@@ -1,0 +1,65 @@
+{
+  "id": "dell-latitude-e5430-non-vpro-0549",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude E5430-non-vPro",
+  "system_id": "0549",
+  "dmi_matches": [
+    "Latitude E5430-non-vPro",
+    "0549"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-0CYM6",
+      "os": "Windows10/Windows10",
+      "url": "https://downloads.dell.com/FOLDER03644304M/1/E5430-win10-A01-0CYM6.CAB",
+      "size_bytes": 468657958,
+      "md5": "839250BD6363A419AD8F7432E908467D",
+      "sha256": "A35EC40DA72FA3EDE6A1B8EBA16FEBCDF32BBDE56DE38CF97D5930C354FFDF1F",
+      "version": null,
+      "release_date": "2016-04-15T00:00:00"
+    },
+    {
+      "name": "DellPack-88PYK",
+      "os": "Windows7/Windows7",
+      "url": "https://downloads.dell.com/FOLDER03480734M/1/E5430-win7-A12-88PYK.CAB",
+      "size_bytes": 425429620,
+      "md5": "9983944E8D2256F795BB23C7AF04E893",
+      "sha256": "33675313B07115C3F475EF5DC209B494BF972B9923726032AFA789FD93AB5351",
+      "version": null,
+      "release_date": "2016-01-11T00:00:00"
+    },
+    {
+      "name": "DellPack-GV599",
+      "os": "Windows8.1/Windows8.1",
+      "url": "https://downloads.dell.com/FOLDER02610171M/1/E5430-win8.1-A03-GV599.CAB",
+      "size_bytes": 451448629,
+      "md5": "E8876C57FAC37A9B9358758DBFE0391D",
+      "sha256": "612B478E4658013E9A832A9C502524048A88624A426622621FB861BDC0A33AFD",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-7HT9T",
+      "os": "Windows8/Windows8",
+      "url": "https://downloads.dell.com/FOLDER02581901M/1/E5430-win8-A05-7HT9T.CAB",
+      "size_bytes": 269862138,
+      "md5": "F2C1AD3A5A9F561BCA6F78F3A49EF75A",
+      "sha256": "4738EFF836257A9B09A5996D59F74AC04A28A7F1017C808B150D3AFBCDB9E266",
+      "version": null,
+      "release_date": "2014-12-09T00:00:00"
+    },
+    {
+      "name": "DellPack-KK4NK",
+      "os": "XP",
+      "url": "https://downloads.dell.com/FOLDER02098882M/1/E5430-xp-A06-KK4NK.CAB",
+      "size_bytes": 69614928,
+      "md5": "5FA58B30BAFA80DDE5B8636A8FF18574",
+      "sha256": "65769B9AC69A557C406DC784B981B690DB8CD5EDE63DC3B8134214B2FF5FDF3F",
+      "version": null,
+      "release_date": "2014-05-05T00:00:00"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

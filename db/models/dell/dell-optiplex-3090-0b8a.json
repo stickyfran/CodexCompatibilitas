@@ -1,0 +1,35 @@
+{
+  "id": "dell-optiplex-3090-0b8a",
+  "vendor": "Dell",
+  "family": "Optiplex",
+  "model_name": "Optiplex 3090",
+  "system_id": "0B8A",
+  "dmi_matches": [
+    "Optiplex 3090",
+    "0B8A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-HP2XT",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER11291704M/1/Optiplex-3090-HP2XT_Win10_1.0_A13.exe",
+      "size_bytes": 1845860832,
+      "md5": "8544B68A0CB75742049975729AEA9F5B",
+      "sha256": "1B1F20F1B39B045023703176C6AC5D416F5EAA86F1629F7A56F5E2833883D342",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    },
+    {
+      "name": "DellPack-D1RXX",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER11286494M/1/Optiplex-3090-D1RXX_Win11_1.0_A11.exe",
+      "size_bytes": 1840639080,
+      "md5": "E82B9E75D5F97D80E4697451537411B2",
+      "sha256": "26406527E9DFBFF417106026A859593F36450B7E1FBC1005E4C48D4453FD2E71",
+      "version": null,
+      "release_date": "2024-04-03T04:14:04"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

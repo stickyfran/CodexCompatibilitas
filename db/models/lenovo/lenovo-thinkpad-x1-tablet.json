@@ -1,0 +1,65 @@
+{
+  "id": "lenovo-thinkpad-x1-tablet",
+  "vendor": "Lenovo",
+  "family": "ThinkPad",
+  "model_name": "ThinkPad X1 Tablet",
+  "system_id": "20GG,20GH",
+  "dmi_matches": [
+    "20GG",
+    "20GH"
+  ],
+  "driver_packs": [
+    {
+      "name": "SCCM-win10-1703",
+      "os": "win10-1703",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_w1064_1703_201704.exe",
+      "size_bytes": null,
+      "md5": "714d0cf16c55531d94751709b9562c0a",
+      "sha256": "d230f0ca9d4565ec0f634a5b258b71498f4392f454ef69231504da9a40e30e41",
+      "version": null,
+      "release_date": "2017-04-28"
+    },
+    {
+      "name": "SCCM-win10-1709",
+      "os": "win10-1709",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_w1064_1709_201710.exe",
+      "size_bytes": null,
+      "md5": "c4513a2b764f10beffcd1bb660f2cf54",
+      "sha256": "2052fb300cd738dc184dfe7a1cff4b5e3aff7f5d17c1a316589d83552e6f96d0",
+      "version": null,
+      "release_date": "2017-10-31"
+    },
+    {
+      "name": "SCCM-win10-1803",
+      "os": "win10-1803",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_w1064_1803_201807.exe",
+      "size_bytes": null,
+      "md5": "30b4fbc3f60a020f59948296ff2a868a",
+      "sha256": "a7c72a89498481fd60eacd8f10ad90a1647e1a7f4bb6a7329da5d3b6cf1df4d7",
+      "version": null,
+      "release_date": "2018-07-26"
+    },
+    {
+      "name": "SCCM-win10-1809",
+      "os": "win10-1809",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_w1064_1809_201810.exe",
+      "size_bytes": null,
+      "md5": "225182b395f709e80a6d42fcd79b9cc1",
+      "sha256": "223592f4ca6e797e0cc6499399e513b60038897e049760bcbd8a94416faf7c75",
+      "version": null,
+      "release_date": "2018-10-30"
+    },
+    {
+      "name": "SCCM-win10-1903",
+      "os": "win10-1903",
+      "url": "https://download.lenovo.com/pccbbs/mobiles/tp_x1tablet_w1064_1903_201904.exe",
+      "size_bytes": null,
+      "md5": "66e5cec9119a11ea9c73fcbdaf66b367",
+      "sha256": "8f0f4787eb29ad3820db7cc8dbc44b24a97bc89fde1656b72832fa65b87a49b7",
+      "version": null,
+      "release_date": "2019-04-23"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dell-dell-pro-14-plus-pb14255-0d68",
+  "vendor": "Dell",
+  "family": "Dell Pro Laptops",
+  "model_name": "Dell Pro 14 Plus PB14255",
+  "system_id": "0D68",
+  "dmi_matches": [
+    "Dell Pro 14 Plus PB14255",
+    "0D68"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-KVR8J",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER14829810M/1/PB14255-KVR8J_Win11_1.0_A07.exe",
+      "size_bytes": 936696360,
+      "md5": "E50211A791839D2EE3F1F03FE6FF7610",
+      "sha256": "7D438419C6AB71F266F3459B4AA533F2D0A1EF7B1A16C4ACB5434A00F6496364",
+      "version": null,
+      "release_date": "2026-09-08T01:20:27"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

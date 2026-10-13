@@ -1,0 +1,35 @@
+{
+  "id": "dell-latitude-7530-0b0d",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7530",
+  "system_id": "0B0D",
+  "dmi_matches": [
+    "Latitude 7530",
+    "0B0D"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-WM0C5",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER12838901M/1/Latitude-7530-WM0C5_Win10_1.0_A12.exe",
+      "size_bytes": 1852904120,
+      "md5": "09B739D13F3AB6D26C81E8628F468D67",
+      "sha256": "F3D45C9E484ADA6A92FD70670B5D450DAC08E45E94C9FB971D494683C4736B71",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    },
+    {
+      "name": "DellPack-PN07N",
+      "os": "Windows11",
+      "url": "https://downloads.dell.com/FOLDER12838920M/1/Latitude-7530-PN07N_Win11_1.0_A11.exe",
+      "size_bytes": 1494733880,
+      "md5": "BEA419F94B5747B2BFEAAAD1BF82C39C",
+      "sha256": "B8982D779ACE1C905AE548085B0C3EC013CFCAD6D8E9691FA4E1B5ECBB6E1488",
+      "version": null,
+      "release_date": "2025-05-12T05:33:43"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}

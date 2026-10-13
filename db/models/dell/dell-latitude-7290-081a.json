@@ -1,0 +1,25 @@
+{
+  "id": "dell-latitude-7290-081a",
+  "vendor": "Dell",
+  "family": "Latitude",
+  "model_name": "Latitude 7290",
+  "system_id": "081A",
+  "dmi_matches": [
+    "Latitude 7290",
+    "081A"
+  ],
+  "driver_packs": [
+    {
+      "name": "DellPack-CP4G4",
+      "os": "Windows10",
+      "url": "https://downloads.dell.com/FOLDER07335657M/1/7290-win10-A15-CP4G4.CAB",
+      "size_bytes": 1016343605,
+      "md5": "8A70A01B62C05C60324BEB02CAA063A3",
+      "sha256": "D50750096A1EFA7816FB8B064BF807F4E8B8D0CD72FF63C926DDCD6A74531D82",
+      "version": null,
+      "release_date": "2021-07-08T10:40:24"
+    }
+  ],
+  "individual_drivers": [],
+  "components": {}
+}
