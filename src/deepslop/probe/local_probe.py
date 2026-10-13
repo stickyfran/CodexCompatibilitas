@@ -4,6 +4,9 @@ import glob
 from typing import Dict, Any, List, Optional
 from pydantic import BaseModel, Field
 
+from deepslop.models import ThermalProfile
+from deepslop.probe.thermal import ThermalInspector
+
 
 class LocalHardwareProfile(BaseModel):
     vendor: str
@@ -14,6 +17,7 @@ class LocalHardwareProfile(BaseModel):
     audio_codecs: List[str] = Field(default_factory=list)
     display_edids: List[str] = Field(default_factory=list)
     acpi_devices: List[str] = Field(default_factory=list)
+    thermal: ThermalProfile
 
 
 def _read_sysfs(path: str) -> str:
@@ -31,16 +35,26 @@ def probe_local_system() -> LocalHardwareProfile:
     board_name = _read_sysfs("/sys/class/dmi/id/board_name")
     bios_version = _read_sysfs("/sys/class/dmi/id/bios_version")
 
-    # 2. PCI Subsystems
+    # 2. PCI Subsystems completos (con Vendor y Device IDs)
     pci_subsystems = []
     try:
-        lspci_out = subprocess.check_output(["lspci", "-nn"], text=True)
+        lspci_out = subprocess.check_output(["lspci", "-nnvv"], text=True)
+        current_dev = ""
         for line in lspci_out.splitlines():
-            # Buscamos audio, gpu, etc
-            if "Audio" in line or "Multimedia" in line:
-                pci_subsystems.append(line.strip())
+            if line and not line.startswith("\t"):
+                current_dev = line.strip()
+            elif "\tSubsystem:" in line:
+                subsys_info = line.strip()
+                pci_subsystems.append(f"{current_dev} | {subsys_info}")
     except Exception:
-        pass
+        # Fallback a lspci -nn
+        try:
+            lspci_out = subprocess.check_output(["lspci", "-nn"], text=True)
+            for line in lspci_out.splitlines():
+                if any(k in line for k in ["Audio", "Multimedia", "VGA", "Network", "Signal"]):
+                    pci_subsystems.append(line.strip())
+        except Exception:
+            pass
 
     # 3. Audio Codecs
     audio_codecs = []
@@ -58,7 +72,6 @@ def probe_local_system() -> LocalHardwareProfile:
             with open(edid_path, "rb") as f:
                 raw = f.read()
                 if len(raw) >= 128:
-                    # Extraer 4 caracteres ASCII de modelo si existen
                     ascii_str = "".join(chr(b) for b in raw if 32 <= b <= 126)
                     display_edids.append(ascii_str[:20])
         except Exception:
@@ -71,6 +84,9 @@ def probe_local_system() -> LocalHardwareProfile:
         if hid and hid not in acpi_devices:
             acpi_devices.append(hid)
 
+    # 6. Inspección térmica completa
+    thermal = ThermalInspector.inspect_system()
+
     return LocalHardwareProfile(
         vendor=vendor,
         product_name=product_name,
@@ -79,5 +95,6 @@ def probe_local_system() -> LocalHardwareProfile:
         pci_subsystems=pci_subsystems,
         audio_codecs=audio_codecs,
         display_edids=display_edids,
-        acpi_devices=acpi_devices,
+        acpi_devices=sorted(acpi_devices),
+        thermal=thermal,
     )

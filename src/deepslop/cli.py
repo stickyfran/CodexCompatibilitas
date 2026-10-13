@@ -114,7 +114,21 @@ def probe_cmd():
     console.print(f"• [bold white]Modelo / DMI:[/bold white] {prof.product_name} (Placa: {prof.board_name})")
     console.print(f"• [bold white]Versión BIOS:[/bold white] {prof.bios_version}")
     console.print(f"• [bold white]Codecs Audio:[/bold white] {', '.join(prof.audio_codecs) or 'Ninguno detectado'}")
+    console.print(f"• [bold white]Subsystem PCI clave:[/bold white] {len(prof.pci_subsystems)} dispositivos mapeados")
     console.print(f"• [bold white]Dispositivos ACPI:[/bold white] {len(prof.acpi_devices)} detectados")
+
+    console.print(f"\n[bold yellow]=== Diagnóstico Térmico y de Rendimiento ===[/bold yellow]")
+    th = prof.thermal
+    if th.platform_profiles:
+        console.print(f"• [bold white]Perfiles Térmicos (ACPI):[/bold white] {', '.join(th.platform_profiles)} (Activo: [green]{th.current_profile or 'N/A'}[/green])")
+    if th.wmi_thermal_interface:
+        console.print(f"• [bold white]Controlador WMI OEM:[/bold white] [cyan]{th.wmi_thermal_interface}[/cyan]")
+    if th.cooling_devices:
+        console.print(f"• [bold white]Dispositivos de Enfriamiento (Fans):[/bold white] {', '.join(th.cooling_devices)}")
+    if th.acpi_thermal_hids:
+        console.print(f"• [bold white]HIDs Sensores / DPTF:[/bold white] {', '.join(th.acpi_thermal_hids)}")
+    if th.thermal_zones:
+        console.print(f"• [bold white]Zonas Térmicas:[/bold white] {', '.join(th.thermal_zones[:4])}")
 
     registry = Registry(DB_DIR)
     models = registry.load_all_models()
