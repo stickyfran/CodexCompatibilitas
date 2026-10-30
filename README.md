@@ -8,7 +8,9 @@
 
 ## 📊 Estado del Catálogo y Cobertura (2015 – 2026)
 
-Indexación y generación de scripts de aprovisionamiento automatizados (`install-all.sh`) cubriendo **10.221 modelos específicos** a lo largo de 19 fabricantes OEM globales:
+Indexación y generación de scripts de aprovisionamiento automatizados (`install-all.sh`) cubriendo **10.221 modelos específicos** a lo largo de 19 fabricantes OEM globales.
+
+👉 **[Ver el listado completo y detallado de los 10.221 modelos detectados en docs/ROADMAP_LAPTOPS.md](docs/ROADMAP_LAPTOPS.md)** (desglose por año, System ID / MTM, componentes detectados y script generado).
 
 | Fabricante OEM | Modelos Soportados | Familias Principales | Cobertura |
 | :--- | :---: | :--- | :---: |
@@ -111,9 +113,10 @@ cd fixes/<modelo-seleccionado>/
 
 ## 📂 Estructura del Repositorio
 
-- [`src/deepslop/`](src/deepslop/): Motor CLI, parsers de catálogos OEM, descargador multi-hilo y generador de parches.
+- [`docs/ROADMAP_LAPTOPS.md`](docs/ROADMAP_LAPTOPS.md): **Listado maestro completo de los 10.221 modelos detectados**, organizados por año (2013-2026), fabricante OEM, System ID / MTM y componentes.
 - [`fixes/`](fixes/): Catálogo de 10.221 carpetas organizadas por modelo conteniendo sus scripts de aprovisionamiento `install-all.sh`.
-- [`docs/`](docs/): Documentación detallada, desgloses por familia y el roadmap maestro de cobertura.
+- [`src/deepslop/`](src/deepslop/): Motor CLI, parsers de catálogos OEM, descargador multi-hilo y generador de parches.
+- [`docs/`](docs/): Documentación técnica adicional y desgloses por familia de hardware.
 - [`BUILD.md`](BUILD.md): Guía técnica completa de compilación, empaquetado, requisitos de kernel y CI/CD.
 - [`ARCHITECTURE.md`](ARCHITECTURE.md): Especificación arquitectónica del sistema, flujos de datos y diseño zero-daemon.
 
