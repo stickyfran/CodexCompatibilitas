@@ -1,0 +1,1 @@
+./hid-asus-lamparray.o

@@ -1,0 +1,151 @@
+[Version]
+Signature			= "$Windows NT$"
+Class                   	= Extension
+ClassGUID               	= {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+ExtensionId               	= {54057be9-f362-4b6d-82d4-37ebfc5fa078}
+Provider = "ASUSTeK COMPUTER INC."
+DriverVer = 03/20/2024,3.0.0.602
+CatalogFile.ntamd64 = MyASUS_Splendid.cat
+
+[SourceDisksNames]
+1 = %DISK%,,,""
+
+[SourceDisksFiles]
+ASUS_DCIP3.icm=1
+ASUS_DisplayP3.icm=1
+ASUS_sRGB.icm=1
+S5406MA_8086_834C419D.icm=1
+S5406MA_8086_834C419D_CMDEF.icm=1
+S5406MA_8086_834C41A0.icm=1
+S5406MA_8086_834C41A0_CMDEF.icm=1
+S5506MA_8086_834C416E.icm=1
+S5506MA_8086_834C416E_CMDEF.icm=1
+S5506MA_8086_834C4180.icm=1
+S5506MA_8086_834C4180_CMDEF.icm=1
+S5606MA_8086_834C4178.icm=1
+S5606MA_8086_834C4178_CMDEF.icm=1
+ForceUpdate.txt=1
+
+
+[DestinationDirs]
+DefaultDestDir  = 11
+PackageCopy_Profiles = 23,AsusICM
+
+[Manufacturer]
+%MfgName% = DeviceExtensions,NTamd64
+
+[DeviceExtensions.NTamd64]
+AsusDisplay0 = AsusDisplay0.Inst, MONITOR\BOE084E
+AsusDisplay1 = AsusDisplay1.Inst, MONITOR\SDC419D
+AsusDisplay2 = AsusDisplay2.Inst, MONITOR\SDC41A0
+AsusDisplay3 = AsusDisplay3.Inst, MONITOR\SDC416E
+AsusDisplay4 = AsusDisplay4.Inst, MONITOR\SDC4180
+AsusDisplay5 = AsusDisplay5.Inst, MONITOR\SDC4178
+
+[AsusDisplay0.Inst]
+CopyFiles=PackageCopy_Profiles
+AddReg = AsusDisplay0.Inst.AddReg
+
+[AsusDisplay0.Inst.AddReg]
+HKR,,DisplayHdrLevel, %REG_MULTI_SZ_APPEND%, 4DDABBE3-5BC1-4F5C-9AA8-D611BC96F6ED,E55026B6-496B-4ACC-B371-A1211D829ABD
+
+[AsusDisplay0.Inst.HW]
+AddReg = AsusDisplay0.Inst.HW.AddReg;
+
+[AsusDisplay0.Inst.HW.AddReg]
+HKR,,FriendlyName,,%DeviceDescription%
+
+[AsusDisplay1.Inst]
+CopyFiles = PackageCopy_Profiles
+AddReg = AsusDisplay1.Inst.AddReg;
+
+[AsusDisplay1.Inst.AddReg]
+HKR,,DisplayHdrLevel, %REG_MULTI_SZ_APPEND%, E55026B6-496B-4ACC-B371-A1211D829ABD
+
+[AsusDisplay1.Inst.HW]
+AddReg = AsusDisplay1.Inst.HW.AddReg;
+
+[AsusDisplay1.Inst.HW.AddReg]
+HKR,,FriendlyName,,%DeviceDescription%
+
+[AsusDisplay2.Inst]
+CopyFiles = PackageCopy_Profiles
+AddReg = AsusDisplay2.Inst.AddReg;
+
+[AsusDisplay2.Inst.AddReg]
+HKR,,DisplayHdrLevel, %REG_MULTI_SZ_APPEND%, E55026B6-496B-4ACC-B371-A1211D829ABD
+
+[AsusDisplay2.Inst.HW]
+AddReg = AsusDisplay2.Inst.HW.AddReg;
+
+[AsusDisplay2.Inst.HW.AddReg]
+HKR,,FriendlyName,,%DeviceDescription%
+
+[AsusDisplay3.Inst]
+CopyFiles = PackageCopy_Profiles
+AddReg = AsusDisplay3.Inst.AddReg;
+
+[AsusDisplay3.Inst.AddReg]
+HKR,,DisplayHdrLevel, %REG_MULTI_SZ_APPEND%, E55026B6-496B-4ACC-B371-A1211D829ABD
+
+[AsusDisplay3.Inst.HW]
+AddReg = AsusDisplay3.Inst.HW.AddReg;
+
+[AsusDisplay3.Inst.HW.AddReg]
+HKR,,FriendlyName,,%DeviceDescription%
+
+[AsusDisplay4.Inst]
+CopyFiles = PackageCopy_Profiles
+AddReg = AsusDisplay4.Inst.AddReg;
+
+[AsusDisplay4.Inst.AddReg]
+HKR,,DisplayHdrLevel, %REG_MULTI_SZ_APPEND%, E55026B6-496B-4ACC-B371-A1211D829ABD
+
+[AsusDisplay4.Inst.HW]
+AddReg = AsusDisplay4.Inst.HW.AddReg;
+
+[AsusDisplay4.Inst.HW.AddReg]
+HKR,,FriendlyName,,%DeviceDescription%
+
+[AsusDisplay5.Inst]
+CopyFiles = PackageCopy_Profiles
+AddReg = AsusDisplay5.Inst.AddReg;
+
+[AsusDisplay5.Inst.AddReg]
+HKR,,DisplayHdrLevel, %REG_MULTI_SZ_APPEND%, E55026B6-496B-4ACC-B371-A1211D829ABD
+
+[AsusDisplay5.Inst.HW]
+AddReg = AsusDisplay5.Inst.HW.AddReg;
+
+[AsusDisplay5.Inst.HW.AddReg]
+HKR,,FriendlyName,,%DeviceDescription%
+
+
+[PackageCopy_Profiles]
+ASUS_DCIP3.icm
+ASUS_DisplayP3.icm
+ASUS_sRGB.icm
+S5406MA_8086_834C419D.icm
+S5406MA_8086_834C419D_CMDEF.icm
+S5406MA_8086_834C41A0.icm
+S5406MA_8086_834C41A0_CMDEF.icm
+S5506MA_8086_834C416E.icm
+S5506MA_8086_834C416E_CMDEF.icm
+S5506MA_8086_834C4180.icm
+S5506MA_8086_834C4180_CMDEF.icm
+S5606MA_8086_834C4178.icm
+S5606MA_8086_834C4178_CMDEF.icm
+ForceUpdate.txt
+
+
+[NO_DRV64]
+Include = machine.inf
+Needs = NO_DRV
+CopyFiles=PackageCopy_Profiles
+
+[Strings]
+MfgName = "ASUSTeK COMPUTER INC."
+DISK   = "MyASUS Splendid INF"
+REG_MULTI_SZ = 0x00010000
+DeviceDescription = "MyASUS_Splendid"
+REG_MULTI_SZ_APPEND = 0x00010008

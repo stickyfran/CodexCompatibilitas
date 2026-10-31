@@ -81,19 +81,23 @@ flowchart TD
 
 ## 🚀 Guía de Inicio Rápido
 
-### Requisitos Previos
-- Python 3.11+ con [`uv`](https://docs.astral.sh/uv/) instalado.
-- Compilador C/Clang y headers de Linux para la compilación de módulos locales.
-- `lld` (requerido para compilar módulos en kernels con Clang / ThinLTO como CachyOS).
+### 1. Asistente Maestro Interactivo (Recomendado)
+El proyecto incluye un script interactivo que detecta automáticamente el modelo de la laptop, sugiere la mejor correspondencia o permite navegar el catálogo por **Fabricante $\to$ Año $\to$ Familia $\to$ Modelo**. Antes de proceder, detalla con precisión cada componente a instalar, explica por qué se requieren permisos de administrador (`sudo`) y reporta paso a paso el resultado y diagnóstico de fallos:
 
-### Inspeccionar Hardware Local
+```bash
+./setup.sh
+```
+
+*(O directamente vía Python: `python3 scripts/auto_hardware_setup.py`)*
+
+### 2. Inspeccionar Hardware Local (CLI)
 Para analizar la placa madre, BIOS, codecs de audio y dispositivos ACPI de tu máquina actual y encontrar su correspondencia:
 
 ```bash
 uv run deepslop probe
 ```
 
-### Buscar una Laptop en el Catálogo
+### 3. Buscar una Laptop en el Catálogo
 ```bash
 uv run deepslop catalog search "s5506ma"
 uv run deepslop catalog search "thinkpad x1 carbon"
@@ -101,7 +105,7 @@ uv run deepslop catalog search "xps 15"
 uv run deepslop catalog search "zephyrus g14"
 ```
 
-### Aplicar Ajustes para un Modelo
+### 4. Aplicar Ajustes Directamente para un Modelo Específico
 Navega a la carpeta correspondiente dentro de `fixes/` y ejecuta el instalador automatizado:
 
 ```bash
