@@ -84,23 +84,33 @@ flowchart TD
 Para que cualquier usuario analice y configure su laptop en Linux de forma automática e interactiva, basta con copiar y pegar este comando en una terminal:
 
 ```bash
-git clone --depth 1 https://github.com/stickyfran/CodexCompatibilitas.git && cd CodexCompatibilitas && ./setup.sh
+git clone --depth 1 https://github.com/stickyfran/CodexCompatibilitas.git && cd CodexCompatibilitas && ./codex-setup.sh
 ```
 
-El script detectará automáticamente el modelo exacto mediante DMI/ACPI/PCI, sugerirá la mejor correspondencia de nuestro catálogo de 10.221 modelos (o te permitirá elegir por **Fabricante $\to$ Año $\to$ Familia $\to$ Modelo**), detallará qué componentes, perfiles acústicos, curvas térmicas y sensores se instalarán, solicitará `sudo` con una explicación clara de cada permiso, y ejecutará la instalación reportando el progreso paso a paso.
+El script políglota autoejecutable (`codex-setup.sh`) detectará automáticamente el modelo exacto mediante DMI/ACPI/PCI, sugerirá la mejor correspondencia de nuestro catálogo de 10.221 modelos (o te permitirá elegir por **Fabricante $\to$ Año $\to$ Familia $\to$ Modelo** o buscar directamente con `/texto`), detallará qué componentes, perfiles acústicos, curvas térmicas y sensores se instalarán, solicitará `sudo` con una explicación clara de cada permiso, y ejecutará la instalación reportando el progreso paso a paso.
 
 ---
 
-## 🛠️ Guía de Uso Alternativa
+## 🛠️ Guía de Uso y Opciones Avanzadas
 
-### 1. Asistente Maestro Interactivo (Recomendado)
-El proyecto incluye un script interactivo que detecta automáticamente el modelo de la laptop, sugiere la mejor correspondencia o permite navegar el catálogo por **Fabricante $\to$ Año $\to$ Familia $\to$ Modelo**. Antes de proceder, detalla con precisión cada componente a instalar, explica por qué se requieren permisos de administrador (`sudo`) y reporta paso a paso el resultado y diagnóstico de fallos:
+### 1. Asistente Maestro Interactivo
+Puedes ejecutar el asistente unificado con diversas banderas según tu necesidad:
 
 ```bash
-./setup.sh
+# Modo interactivo estándar con autodetección
+./codex-setup.sh
+
+# Simulación segura sin alterar el sistema (verifica kernel-headers y clang/lld)
+./codex-setup.sh --dry-run
+
+# Revertir el último aprovisionamiento realizado
+./codex-setup.sh --rollback
+
+# Forzar reconstrucción del índice rápido de modelos
+./codex-setup.sh --rebuild-index
 ```
 
-*(O directamente vía Python: `python3 scripts/auto_hardware_setup.py`)*
+*(Nota: `./setup.sh` y `python3 scripts/auto_hardware_setup.py` se mantienen como enlaces directos para compatibilidad retroactiva).*
 
 ### 2. Inspeccionar Hardware Local (CLI)
 Para analizar la placa madre, BIOS, codecs de audio y dispositivos ACPI de tu máquina actual y encontrar su correspondencia:
