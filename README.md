@@ -79,7 +79,19 @@ flowchart TD
 
 ---
 
-## 🚀 Guía de Inicio Rápido
+## 🚀 Instalación y Detección en 1 Comando (Copy & Paste)
+
+Para que cualquier usuario analice y configure su laptop en Linux de forma automática e interactiva, basta con copiar y pegar este comando en una terminal:
+
+```bash
+git clone --depth 1 https://github.com/stickyfran/CodexCompatibilitas.git && cd CodexCompatibilitas && ./setup.sh
+```
+
+El script detectará automáticamente el modelo exacto mediante DMI/ACPI/PCI, sugerirá la mejor correspondencia de nuestro catálogo de 10.221 modelos (o te permitirá elegir por **Fabricante $\to$ Año $\to$ Familia $\to$ Modelo**), detallará qué componentes, perfiles acústicos, curvas térmicas y sensores se instalarán, solicitará `sudo` con una explicación clara de cada permiso, y ejecutará la instalación reportando el progreso paso a paso.
+
+---
+
+## 🛠️ Guía de Uso Alternativa
 
 ### 1. Asistente Maestro Interactivo (Recomendado)
 El proyecto incluye un script interactivo que detecta automáticamente el modelo de la laptop, sugiere la mejor correspondencia o permite navegar el catálogo por **Fabricante $\to$ Año $\to$ Familia $\to$ Modelo**. Antes de proceder, detalla con precisión cada componente a instalar, explica por qué se requieren permisos de administrador (`sudo`) y reporta paso a paso el resultado y diagnóstico de fallos:
