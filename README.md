@@ -79,15 +79,21 @@ flowchart TD
 
 ---
 
-## 🚀 Instalación y Detección en 1 Comando (Copy & Paste)
+## 🚀 Instalación y Detección en 1 Comando (Sin Clonar / Copy & Paste)
 
-Para que cualquier usuario analice y configure su laptop en Linux de forma automática e interactiva, basta con copiar y pegar este comando en una terminal:
+No necesitas clonar el repositorio. Copia y pega este comando en tu terminal (compatible con **Arch/CachyOS, Debian/Ubuntu, Fedora, openSUSE, Void y Alpine**):
 
 ```bash
-git clone --depth 1 https://github.com/stickyfran/CodexCompatibilitas.git && cd CodexCompatibilitas && ./codex-setup.sh
+wget -qO- https://raw.githubusercontent.com/stickyfran/CodexCompatibilitas/master/codex-setup.sh | bash
 ```
 
-El script políglota autoejecutable (`codex-setup.sh`) detectará automáticamente el modelo exacto mediante DMI/ACPI/PCI, sugerirá la mejor correspondencia de nuestro catálogo de 10.221 modelos (o te permitirá elegir por **Fabricante $\to$ Año $\to$ Familia $\to$ Modelo** o buscar directamente con `/texto`), detallará qué componentes, perfiles acústicos, curvas térmicas y sensores se instalarán, solicitará `sudo` con una explicación clara de cada permiso, y ejecutará la instalación reportando el progreso paso a paso.
+*(O con `curl`: `curl -fsSL https://raw.githubusercontent.com/stickyfran/CodexCompatibilitas/master/codex-setup.sh | bash`)*
+
+El script standalone (`codex-setup.sh`) hará todo de forma interactiva y agnóstica de tu distribución:
+1. **Detecta tu dispositivo** mediante DMI/ACPI/PCI y descarga únicamente el índice comprimido (~200 KB) de los 10.221 modelos.
+2. **Te pregunta qué componentes instalar** (Audio DSP, Color OLED/IPS, Perfil Térmico Zero-Daemon, Teclado/RGB) — todos de una vez o uno por uno.
+3. **Instala dependencias de compilación automáticamente** (`linux-headers`, `gcc`/`make`, `clang`/`lld`, `dkms`) según tu gestor de paquetes (`pacman`, `apt`, `dnf`, `zypper`, `xbps`, `apk`) si tu hardware requiere compilar módulos del kernel.
+4. **Descarga solo los parches de tu modelo** y aplica persistencia Zero-Daemon (`systemd-tmpfiles`), con soporte integrado para `--rollback`.
 
 ---
 

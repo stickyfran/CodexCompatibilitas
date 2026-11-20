@@ -11,4 +11,5 @@ wheels/
 
 # Cached downloads
 data/
+db/models_index.json
 
